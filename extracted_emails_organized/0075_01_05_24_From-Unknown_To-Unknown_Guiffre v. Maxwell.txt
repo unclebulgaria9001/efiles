@@ -1,0 +1,977 @@
+====================================================================================================
+EMAIL #0075 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1327.13.pdf
+Subject:           Guiffre v. Maxwell
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        1,776
+Character Count:   10,598
+Categories:        legal, media
+Key People:        prince, andrew, maxwell
+Key Locations:     paris, island
+Type:              Reply
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Subject: Guiffre v. Maxwell | Date: 01/05/24 | Categories: legal, media | Key People: prince, andrew, maxwell | Type: Reply
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 1 of 13
+EXHIBIT A
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 2 of 13
+B O I E S , S C H I L L E R & F L E X N E R LL P
+401 EAST LAS OLAS BOULEVARD• SUITE 1200• FORT LAUDERDALE, FL 33301 22 • PH. 954.356.001 • FAX 954.356.0022
+Meredith L. Schultz, Esq.
+E-mail: mschultz@bsfllp.com
+June 30, 2016
+VIA E-MAIL
+Laura A. Menninger, Esq.
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th A venue
+Denver, Colorado 80203
+lmenninger@hmtlaw.com
+Re: Guiffre v. Maxwell
+Case No. 15-cv-07433-RWS
+Dear Laura,
+I write pursuant to this Court's June 20, 2016, Order regarding search and production
+from Defendant's electronic media. Accordingly, please use IMAP Capable software (or a
+functional equivalent) to capture all of the sent/received emails from Ms. Maxwell's various
+email accounts, including but not limited to the following: (1) (and any
+and any other accounts at
+(3) any of Ms. Maxwell's email account associated with The Terramar Project
+(including any accoun ; and (4) any other email accounts
+either used in the past, or curren y m use.
+Additionally, please use FileSeek software (or a functional equivalent) to retrieve any
+data, including electronic documents (such as Word documents; PDFs; Excel sheets; etc.), from
+Ms. Maxwell's devices, including personal computers, work computers, any tablets, and any
+phones. This includes any cloud storage accounts. Please confirm that you have imaged Ms.
+Maxwell's hard drives and other devices.
+Once you have gathered that data onto a platform (such as Summation or its functional
+equivalent), please run the below search terms. Since the Court ordered us to negotiate the search
+terms, please let me know if you think additional terms would be appropriate or whether you
+object to any terms, and your basis thereof.
+When applying the search terms, the search terms need to "hit" on documents even if the
+terms are embedded within other words. So, for example, the term "acuity" would yield a hit on
+the document, even if the word in the document is "acuityreputatoin." To return a hit on those
+WWW.BSFLLP.COM
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 3 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 2 of 12
+embedded terms, I request that you use "wildcards" to ensure that embedded terms are located.
+(Wildcard characters are used to expand word searches into pattern searches by "replacing"
+single or multiple characters.) Where there are a specific number of characters needed to be
+included, a single wildcard will achieve that purpose. For example, in some programs, ! is used
+for single character wildcards, and * is used for multiple character wildcards. For instance:
+(a) Single character wildcard example: a search for L!n! will return "long," "link,"
+"lane," "lone," etc.
+(b) Multiple character wildcard example: a search for chil* will return "children,"
+"chill," "chilling," etc.
+(c) Mixed use of wildcards: a search for L!n* will return "lines," "lining," "linty," etc.
+Accordingly, the below search terms are submitted with wildcard characters to be applied
+in the manner of the examples above. Please apply them as such with whatever characters is
+required by the software/platform that you will be using.
+Similarly, regarding how the terms are combined (AND or OR). OR should expand your
+results while AND will restrict result to only those which include all the terms.
+Additionally, I want to clarify that I would like all of the metadata to be searched in
+addition to the text of the documents. For example, if the search term is "acuity," "hits" should
+include all the document that include the word "acuity" in their text OR in their metadata (this
+includes words in items such as email subjects, filenames, as well as any documents which
+include that word somewhere within their text).
+I also wanted to point out another special syntax with regard to proximity searching. This
+is a search that finds words within a specified distance from one another. On some software, this
+is represented as w/#, so a search for "meet w/2 greet" will return "meet and greet," "greet and
+meet" and "meet and nicely greet." Please apply accordingly.
+Additionally, for searches for people's initials in the search terms, please use "exact
+matches," "stand alone," or "literal" terms (see, e.g., PA, AD, JE, GM).
+Finally, the search terms are not to be treated as case-sensitive, meaning that the terms
+should be searched according to their letters, regardless of whether they are represented in the list
+as containing upper case or lower case letters.
+The following are the applicable search terms.
+1) jefl'
+2) geofl'
+2
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 4 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 3 of 12
+3) epst! !n*
+4) jeevacation*
+5) j* w/2 *jep*
+6) j* w/2 *jeep*
+7) roberts*
+8) g!!ff!!*
+9) virginia*
+10) jenna*
+11) jena*
+12) genna*
+13) andrew*
+14) prince*
+15) royal*
+16) PA
+17) JE
+18) GM
+19) AD
+20) AH
+21) GX
+22) massage*
+23) masseur*
+24) therapist*
+25) ellmax*
+26) mindspring*
+27) gmax*
+28) emmy*
+29) taylor*
+30) sara*
+31) kellen*
+32) kensington *
+33) vikers*
+34) dubin*
+35) eva*
+36) glen*
+37) brunel*
+38) jean*
+39) luc*
+40) nadia*
+3
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 5 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 4 of 12
+41) marcinko*
+42) *copter*
+43) chopper*
+44) pilot*
+45) manifest*
+46) log*
+47) flight*
+48) passport*
+49) terramar*
+50) southern* w/3 district*
+51) palm* w/3 beach*
+52) state* /3 attorney*
+53) ross*
+54) gow*
+55) acuity*
+56) victoria* w/3 secret*
+57) al!n*
+58) all!n*
+59) dersh*
+60) law.harvard.edu *
+61) alandersh*
+62)
+63)
+64) new* w/3 mexico*
+65) NM
+66) virgin* w/3 island*
+67) usvi*
+68) little* w/3 st*
+69) little* w/3 saint*
+70) st* w/3 j*
+71) saint* w/3 j *
+72) lsj*
+73) Iago*
+74) clinton*
+75) BC
+76) HC
+77) HRC
+78) police*
+4
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 6 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 5 of 12
+79) cop*
+80) fbi*
+81) federal* w/3 bur*
+82) bur* w/8 inves! *
+83) sex*
+84) abuse*
+85) toy*
+86) dildo*
+87) strap* w/3 on*
+88) vibr*
+89) sm* w/3 101 *
+90) slave*
+91) erotic*
+92) servitude*
+93)
+94)
+95) high* w/3 school*
+96) secondary* w/3 school*
+97) campus*
+98) duke*
+99) york*
+100) licen!e*
+101) assault*
+102) juvenile*
+103) seal*
+104) joint* w/3 defen*
+105) jda
+106) roadhouse*
+107) grill*
+108) illegal*
+109) immune*
+110) prosecut*
+111) law* w/3 enforc*
+112) jane* w/3 *doe*
+113) hospital*
+114) hotel*
+115) suite*
+116) villa*
+5
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 7 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 6 of 12
+117) model*
+118) actress*
+119) france*
+120) paris*
+121) zoro*
+122) ranch*
+123) vanity* w/ 3 fair*
+124) alexander*
+125) kathy*
+126) miles*
+127) james*
+128) austrich*
+129) phil*
+130) barden*
+131) bjorlin*
+132) fary*
+133) boothe*
+134) laura*
+135) evelyn*
+136) boulet*
+137) boylan*
+138) bee*
+139) bunner*
+140) casey*
+141) carolyn*
+142) carolin*
+143) paul*
+144) cassell*
+145) sharon*
+146) churcher*
+147) cousteau*
+148) alexandar*
+149) devansan*
+Jane Doe 2
+150)
+151)
+152) edwards*
+153) amanda*
+154) ellison*
+6
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 8 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 7 of 12
+155) cimberly*
+156) espinosa*
+157) Tatiana*
+158) farmer*
+159) maria*
+160) nn*
+161) fekkai*
+162) crystal*
+163) figueroa*
+164) anthony*
+165) tony*
+166) freeh*
+167) louis*
+168) dore*
+169) gany*
+170) garvin*
+171) meg*
+172) sheridan*
+173) gibson*
+174) but!e*
+175) graffl'
+176) fred*
+177) phil*
+178) guderyon*
+179) hall*
+180) AH
+181) harrison*
+182) shannon*
+183) victoria*
+184) hazel*
+185) brittany*
+186) henderson*
+187) jaffe*
+188) carol*
+189) kess*
+190) kutikoffl'
+191) pete*
+192) listerman*
+7
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 9 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 8 of 12
+193) lyons*
+194) bob*
+195) meister*
+196) jamie*
+197) melanson*
+198) lyn! * w/100 miller*
+199) marvin*
+200)
+Jane Doe 2
+201)
+202)
+203)
+204) mullen*
+205) pagano*
+206) mary*
+207) paluga*
+208) stan*
+209) potting er*
+210) recarey*
+211) reiter*
+212) richards*
+213) sky*
+214) rothstein*
+215) forest*
+216) sawyer*
+217) doug*
+218) schoetlle*
+219) cecelia*
+220) stein*
+221) mark*
+222) tafoya*
+223) brent*
+224) tindall*
+225) kevin*
+226) kirn*
+227) thompson*
+228) tuttle*
+229) vaghan*
+230) cresenda*
+8
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 10 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 9 of 12
+231) valdes*
+232) valla*
+233) martiza*
+234) vazquez*
+235) vick*
+236) ard*
+237) jarr!d*
+238) weisfeld*
+239) courtn!y* w/5 wild*
+240) alessi*
+241) rizzo*
+242) rinaldo*
+243) biddle*
+244) sophie*
+245) sofie*
+246) degeo*
+247) anouska*
+249) fontanilla *
+250) lynn*
+251) jo* w/3 jo*
+252) gramza*
+253) grant*
+254) waitt*
+255) ted*
+256
+265) listerman*
+266) lopez*
+267) cindy*
+268) lutz*
+9
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 11 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 10 of 12
+269) mellawa*
+270) brah*
+271)
+Jane Doe 2
+272)
+273)
+274) mitrovich*
+275) andrea*
+276) peadon*
+277) bill*
+278) francis*
+279) preece*
+280) dara*
+281) louella*
+282) rabuyo*
+283) robson*
+284) haley*
+285) adriana*
+286) mucinska*
+287) spamm*
+288) visosky*
+289) doug* OR dan* w/100 wilson*
+290) igor*
+291) zinoview*
+292) allyson*
+293) alyson*
+294) alison*
+295) allison*
+296) chambers*
+297) Gwendolyn*
+298) beck*
+299) Kelly*
+300) Kelley*
+301) Bovino*
+302) ron*
+303) burkle*
+304) max*
+305) cordero*
+306) vald*
+10
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 12 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 11 of12
+3 07) cotrin *
+308) chauntae*
+309) dav*
+310) teala*
+311) ry!n*
+312) dionne*
+313) anders!n*
+314) Rosalie*
+315) fr! !dman*
+316) tiffany*
+317) Kathryn*
+318) eric*
+319) erik*
+320) Lesl*
+321) groff*
+322
+325)
+326) ignatieva*
+327) bret*
+328) adam*
+329) perry*
+330) liffman*
+331) Michael*
+332) mike*
+333) cheri*
+334) lynch*
+335) todd*
+336) tom*
+337) Pritzker*
+338) Joanna*
+339) sjoberg*
+340) leslie*
+341) we
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 1 of 13
+EXHIBIT A
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 2 of 13
+B O I E S , S C H I L L E R & F L E X N E R LL P
+401 EAST LAS OLAS BOULEVARD• SUITE 1200• FORT LAUDERDALE, FL 33301 22 • PH. 954.356.001 • FAX 954.356.0022
+Meredith L. Schultz, Esq.
+E-mail: mschultz@bsfllp.com
+June 30, 2016
+VIA E-MAIL
+Laura A. Menninger, Esq.
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th A venue
+Denver, Colorado 80203
+lmenninger@hmtlaw.com
+Re: Guiffre v. Maxwell
+Case No. 15-cv-07433-RWS
+Dear Laura,
+I write pursuant to this Court's June 20, 2016, Order regarding search and production
+from Defendant's electronic media. Accordingly, please use IMAP Capable software (or a
+functional equivalent) to capture all of the sent/received emails from Ms. Maxwell's various
+email accounts, including but not limited to the following: (1) (and any
+and any other accounts at
+(3) any of Ms. Maxwell's email account associated with The Terramar Project
+(including any accoun ; and (4) any other email accounts
+either used in the past, or curren y m use.
+Additionally, please use FileSeek software (or a functional equivalent) to retrieve any
+data, including electronic documents (such as Word documents; PDFs; Excel sheets; etc.), from
+Ms. Maxwell's devices, including personal computers, work computers, any tablets, and any
+phones. This includes any cloud storage accounts. Please confirm that you have imaged Ms.
+Maxwell's hard drives and other devices.
+Once you have gathered that data onto a platform (such as Summation or its functional
+equivalent), please run the below search terms. Since the Court ordered us to negotiate the search
+terms, please let me know if you think additional terms would be appropriate or whether you
+object to any terms, and your basis thereof.
+When applying the search terms, the search terms need to "hit" on documents even if the
+terms are embedded within other words. So, for example, the term "acuity" would yield a hit on
+the document, even if the word in the document is "acuityreputatoin." To return a hit on those
+WWW.BSFLLP.COM
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 3 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 2 of 12
+embedded terms, I request that you use "wildcards" to ensure that embedded terms are located.
+(Wildcard characters are used to expand word searches into pattern searches by "replacing"
+single or multiple characters.) Where there are a specific number of characters needed to be
+included, a single wildcard will achieve that purpose. For example, in some programs, ! is used
+for single character wildcards, and * is used for multiple character wildcards. For instance:
+(a) Single character wildcard example: a search for L!n! will return "long," "link,"
+"lane," "lone," etc.
+(b) Multiple character wildcard example: a search for chil* will return "children,"
+"chill," "chilling," etc.
+(c) Mixed use of wildcards: a search for L!n* will return "lines," "lining," "linty," etc.
+Accordingly, the below search terms are submitted with wildcard characters to be applied
+in the manner of the examples above. Please apply them as such with whatever characters is
+required by the software/platform that you will be using.
+Similarly, regarding how the terms are combined (AND or OR). OR should expand your
+results while AND will restrict result to only those which include all the terms.
+Additionally, I want to clarify that I would like all of the metadata to be searched in
+addition to the text of the documents. For example, if the search term is "acuity," "hits" should
+include all the document that include the word "acuity" in their text OR in their metadata (this
+includes words in items such as email subjects, filenames, as well as any documents which
+include that word somewhere within their text).
+I also wanted to point out another special syntax with regard to proximity searching. This
+is a search that finds words within a specified distance from one another. On some software, this
+is represented as w/#, so a search for "meet w/2 greet" will return "meet and greet," "greet and
+meet" and "meet and nicely greet." Please apply accordingly.
+Additionally, for searches for people's initials in the search terms, please use "exact
+matches," "stand alone," or "literal" terms (see, e.g., PA, AD, JE, GM).
+Finally, the search terms are not to be treated as case-sensitive, meaning that the terms
+should be searched according to their letters, regardless of whether they are represented in the list
+as containing upper case or lower case letters.
+The following are the applicable search terms.
+1) jefl'
+2) geofl'
+2
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 4 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 3 of 12
+3) epst! !n*
+4) jeevacation*
+5) j* w/2 *jep*
+6) j* w/2 *jeep*
+7) roberts*
+8) g!!ff!!*
+9) virginia*
+10) jenna*
+11) jena*
+12) genna*
+13) andrew*
+14) prince*
+15) royal*
+16) PA
+17) JE
+18) GM
+19) AD
+20) AH
+21) GX
+22) massage*
+23) masseur*
+24) therapist*
+25) ellmax*
+26) mindspring*
+27) gmax*
+28) emmy*
+29) taylor*
+30) sara*
+31) kellen*
+32) kensington *
+33) vikers*
+34) dubin*
+35) eva*
+36) glen*
+37) brunel*
+38) jean*
+39) luc*
+40) nadia*
+3
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 5 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 4 of 12
+41) marcinko*
+42) *copter*
+43) chopper*
+44) pilot*
+45) manifest*
+46) log*
+47) flight*
+48) passport*
+49) terramar*
+50) southern* w/3 district*
+51) palm* w/3 beach*
+52) state* /3 attorney*
+53) ross*
+54) gow*
+55) acuity*
+56) victoria* w/3 secret*
+57) al!n*
+58) all!n*
+59) dersh*
+60) law.harvard.edu *
+61) alandersh*
+62)
+63)
+64) new* w/3 mexico*
+65) NM
+66) virgin* w/3 island*
+67) usvi*
+68) little* w/3 st*
+69) little* w/3 saint*
+70) st* w/3 j*
+71) saint* w/3 j *
+72) lsj*
+73) Iago*
+74) clinton*
+75) BC
+76) HC
+77) HRC
+78) police*
+4
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 6 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 5 of 12
+79) cop*
+80) fbi*
+81) federal* w/3 bur*
+82) bur* w/8 inves! *
+83) sex*
+84) abuse*
+85) toy*
+86) dildo*
+87) strap* w/3 on*
+88) vibr*
+89) sm* w/3 101 *
+90) slave*
+91) erotic*
+92) servitude*
+93)
+94)
+95) high* w/3 school*
+96) secondary* w/3 school*
+97) campus*
+98) duke*
+99) york*
+100) licen!e*
+101) assault*
+102) juvenile*
+103) seal*
+104) joint* w/3 defen*
+105) jda
+106) roadhouse*
+107) grill*
+108) illegal*
+109) immune*
+110) prosecut*
+111) law* w/3 enforc*
+112) jane* w/3 *doe*
+113) hospital*
+114) hotel*
+115) suite*
+116) villa*
+5
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 7 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 6 of 12
+117) model*
+118) actress*
+119) france*
+120) paris*
+121) zoro*
+122) ranch*
+123) vanity* w/ 3 fair*
+124) alexander*
+125) kathy*
+126) miles*
+127) james*
+128) austrich*
+129) phil*
+130) barden*
+131) bjorlin*
+132) fary*
+133) boothe*
+134) laura*
+135) evelyn*
+136) boulet*
+137) boylan*
+138) bee*
+139) bunner*
+140) casey*
+141) carolyn*
+142) carolin*
+143) paul*
+144) cassell*
+145) sharon*
+146) churcher*
+147) cousteau*
+148) alexandar*
+149) devansan*
+Jane Doe 2
+150)
+151)
+152) edwards*
+153) amanda*
+154) ellison*
+6
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 8 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 7 of 12
+155) cimberly*
+156) espinosa*
+157) Tatiana*
+158) farmer*
+159) maria*
+160) nn*
+161) fekkai*
+162) crystal*
+163) figueroa*
+164) anthony*
+165) tony*
+166) freeh*
+167) louis*
+168) dore*
+169) gany*
+170) garvin*
+171) meg*
+172) sheridan*
+173) gibson*
+174) but!e*
+175) graffl'
+176) fred*
+177) phil*
+178) guderyon*
+179) hall*
+180) AH
+181) harrison*
+182) shannon*
+183) victoria*
+184) hazel*
+185) brittany*
+186) henderson*
+187) jaffe*
+188) carol*
+189) kess*
+190) kutikoffl'
+191) pete*
+192) listerman*
+7
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 9 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 8 of 12
+193) lyons*
+194) bob*
+195) meister*
+196) jamie*
+197) melanson*
+198) lyn! * w/100 miller*
+199) marvin*
+200)
+Jane Doe 2
+201)
+202)
+203)
+204) mullen*
+205) pagano*
+206) mary*
+207) paluga*
+208) stan*
+209) potting er*
+210) recarey*
+211) reiter*
+212) richards*
+213) sky*
+214) rothstein*
+215) forest*
+216) sawyer*
+217) doug*
+218) schoetlle*
+219) cecelia*
+220) stein*
+221) mark*
+222) tafoya*
+223) brent*
+224) tindall*
+225) kevin*
+226) kirn*
+227) thompson*
+228) tuttle*
+229) vaghan*
+230) cresenda*
+8
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 10 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 9 of 12
+231) valdes*
+232) valla*
+233) martiza*
+234) vazquez*
+235) vick*
+236) ard*
+237) jarr!d*
+238) weisfeld*
+239) courtn!y* w/5 wild*
+240) alessi*
+241) rizzo*
+242) rinaldo*
+243) biddle*
+244) sophie*
+245) sofie*
+246) degeo*
+247) anouska*
+249) fontanilla *
+250) lynn*
+251) jo* w/3 jo*
+252) gramza*
+253) grant*
+254) waitt*
+255) ted*
+256
+265) listerman*
+266) lopez*
+267) cindy*
+268) lutz*
+9
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 11 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 10 of 12
+269) mellawa*
+270) brah*
+271)
+Jane Doe 2
+272)
+273)
+274) mitrovich*
+275) andrea*
+276) peadon*
+277) bill*
+278) francis*
+279) preece*
+280) dara*
+281) louella*
+282) rabuyo*
+283) robson*
+284) haley*
+285) adriana*
+286) mucinska*
+287) spamm*
+288) visosky*
+289) doug* OR dan* w/100 wilson*
+290) igor*
+291) zinoview*
+292) allyson*
+293) alyson*
+294) alison*
+295) allison*
+296) chambers*
+297) Gwendolyn*
+298) beck*
+299) Kelly*
+300) Kelley*
+301) Bovino*
+302) ron*
+303) burkle*
+304) max*
+305) cordero*
+306) vald*
+10
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 12 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 11 of12
+3 07) cotrin *
+308) chauntae*
+309) dav*
+310) teala*
+311) ry!n*
+312) dionne*
+313) anders!n*
+314) Rosalie*
+315) fr! !dman*
+316) tiffany*
+317) Kathryn*
+318) eric*
+319) erik*
+320) Lesl*
+321) groff*
+322
+325)
+326) ignatieva*
+327) bret*
+328) adam*
+329) perry*
+330) liffman*
+331) Michael*
+332) mike*
+333) cheri*
+334) lynch*
+335) todd*
+336) tom*
+337) Pritzker*
+338) Joanna*
+339) sjoberg*
+340) leslie*
+341) wexner*
+342) underage*
+343) under!age*
+344) minor*
+11
+Case 1:15-cv-07433-LAP Document 1327-13 Filed 01/05/24 Page 13 of 13
+Laura A. Menninger, Esq.
+June 30, 2016
+Page 12 of 12
+345) daily* w/10 mail*
+346) daily* w/10 news*
+347) lie*
+348) obvious* w/10 lie*
+349) sex w/3 toy*
+350) nipple*
+351) schoolgirl
+352) school w/3 girl
+353) us w/3 att*
+354) United w/3 states w/3 att*
+355) Guggenheim
+356) Pedophil*
+357) Paedophil*
+358) Gerbil*
+359) Traffic*
+360) Bed*
+361) Bath*
+362) Masturbate*
+363) Ejaculate*
+364) Masseuse*
+365) Lingerie
+366) Boies*
+367) Mccawley*
+368) Schultz*
+Meredith L. Schultz
+MLS:dk
+12

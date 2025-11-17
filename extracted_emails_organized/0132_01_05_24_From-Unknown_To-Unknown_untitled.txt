@@ -1,0 +1,461 @@
+====================================================================================================
+EMAIL #0132 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1331-27.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        2,668
+Character Count:   17,068
+Categories:        legal, media, correspondence
+Key People:        giuffre, andrew, maxwell
+Key Locations:     london, new york
+Type:              Reply Forwarded Has Attachments
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: giuffre, andrew, maxwell | Type: Forwarded, Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+Defendant’s Response to “Motion to Compel” Work Product
+and Attorney-Client Communications with Philip Barden
+.............................................
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 1 of 11
+Laura A. Menninger
+Jeffrey S. Pagliuca
+Ty Gee
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 2 of 11
+Defendant Ghislaine Maxwell, through counsel, submits this Response to plaintiff’s
+“Motion to Compel All Work Product and Attorney Client [sic] Communications with Philip
+Barden” (Doc.637).
+PROCEDURAL BACKGROUND
+On February 24, 2016, we served on plaintiff’s counsel Ms. Maxwell’s Initial Fed. R.
+Civ. P. 26(a)(1)(A) Disclosures. The third-listed individual we identified who “likely [has]
+discoverable information” was Philip Barden, who, we disclosed, had information “concerning
+press statements . . . at issue in this matter”:
+3. Philip Barden
+Devonshires Solicitors LLP
+30 Finsbury Circus
+London, United Kingdom
+EC2M7DT
+DX: 33856 Finsbury Square
+(020) 7628-7576
+Philip.Barden@devonshires.co.uk
+Mr. Barden has knowledge concerning press statements by Plaintiff and
+Defendant in 2011-2015 at issue in this matter.
+Menninger Decl., Ex.A. Plaintiff never sought to depose Mr. Barden.
+On June 23, 2016, this Court ordered that the parties complete all fact discovery by
+July 29, 2016. See Doc.317 at 2.
+Plaintiff propounded discovery requests as follows:
+10/27/2015 Plaintiff’s First Set of Requests for Production
+4/14/2016 Plaintiff’s Second Set of Requests for Production
+5/27/2016 Plaintiff’s First Set of Interrogatories
+5/27/2016 Plaintiff’s Request for Admissions
+The First Set propounded thirty-nine (39) requests for production. The Second Set
+propounded an additional forty-three (43) requests for production. None requested Mr. Barden’s
+1
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 3 of 11
+attorney work product. Nor did plaintiff’s interrogatories and requests for admissions
+propounded on May 27, 2016.
+On January 6, 2017, Mr. Barden submitted a declaration in support of Ms. Maxwell’s
+motion for summary judgment. In the declaration, he stated, “I am not authorised to and do not
+waive Ms. Maxwell’s attorney-client privilege.” Doc.542-7, Ex.K ¶ 3. Mr. Barden did not
+reference any communications with his client Ms. Maxwell, let alone disclose any attorney-client
+communications. See generally id., Ex.K. He did disclose his intent and strategy underlying his
+preparation of the statement he caused to be transmitted January 2, 2015, via press agent Ross
+1111
+Gow to various journalists. See id., Ex.K ¶¶ 12-24, 26-30.
+PLAINTIFF’S FACTUAL ERRORS
+Plaintiff makes numerous factual errors in her motion’s factual “Background.”
+1. Plaintiff says Mr. Barden’s submission is “a post hoc, self-serving declaration.”
+Mot. 2. Of course every declaration submitted in this litigation by witnesses to events that took
+place in 2012-2015 by definition is post hoc. Since Mr. Barden is a third-party witness and not
+one of the parties, by definition his declaration is not “self-serving.” In any event, calling a
+declaration “self-serving” is a legal canard. There is nothing improper even for litigants suing for
+money, such as plaintiff, to submit “self-serving” declarations so long as they are truthful, and
+there is nothing improper about a court’s considering—and giving due weight—to “self-serving”
+testimony. See Lupyan v. Corinthian Colls., 761 F.3d 314, 321 n.2 (3d Cir. 2014) (“As with any
+other kind of evidence, the declarant’s interest in the outcome is merely one factor . . . to weigh
+in determining the reliability of the evidence. It is not a reason to automatically reject the
+evidence. Indeed, the testimony of a litigant will almost always be self serving since few litigants
+will knowingly volunteer statements that are prejudicial to their case. However that has never
+meant that a litigant’s evidence must be categorically rejected by the fact finder.”).
+2
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 4 of 11
+2. Plaintiff says Mr. Barden’s declaration “and the briefing” to which it was attached
+reference his “‘intent’ (and other synonymous phrases) . . . at least 62 times.” Mot. 3 (emphasis
+omitted). She suggests it is improper for a declaration and the briefs to which it is attached to
+reference or discuss intent. The suggestion is misguided. If intent is a relevant question of fact, of
+course there is nothing wrong with discussing it.
+3. Plaintiff says Mr. Barden’s declaration “reveals attorney client [sic] legal advice
+given to Defendant, such as”1 these two sentences in the declaration: “I did not ask Ms. Maxwell
+to respond point by point to Ms. Giuffre’s factual allegations in the CVRA joinder motion. What
+-we needed to do was issue an immediate denial and that necessarily had to be short and to the
+point.” Doc.542-7, Ex.K ¶ 13. Neither of the two sentences “reveals” attorney-client
+communications. To the contrary, the first sentence references a non-communication with
+Ms. Maxwell, i.e., what Mr. Barden did not talk to Ms. Maxwell about. The second sentence
+simply discloses attorney Barden’s thought process, which by definition is not an attorney-client
+communication. We italicize plaintiff’s use of “such as,” connoting—disingenuously, we
+submit—the introduction of an example. Besides these two frivolous examples of attorney-client
+communications, plaintiff identifies no others.
+4. Supplementing her lengthy summary-judgment brief and oral argument, plaintiff re-
+-urges her point that really it was Ms. Maxwell personally, and not Mr. Barden, who directed
+Mr. Gow to issue the January 2015 statement. Mot. 3. We suggest plaintiff’s persistent repetition
+of her arguments—as with any repetition, they have become familiar, but not more persuasive—
+suggests her recognition that we have advanced meritorious and weighty arguments for summary
+1
+Mot. 3 (emphasis supplied).
+3
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 5 of 11
+judgment. On her third try, plaintiff makes no further headway. We address here each piece of
+“documentary and testimonial evidence” plaintiff alleges supports her argument.
+a. As plaintiff acknowledges, Ms. Maxwell’s testimony is completely consistent
+with Mr. Barden’s testimony; “So my lawyer, Philip Barden[,] instructed Ross Gow to
+issue a statement.” Mot. 4 (emphasis omitted).
+b. Plaintiff argues Mr. Gow produced a “smoking gun” email chain in which
+Ms. Maxwell personally directed him to distribute the January 2015 statement. Mot. 4.
+The “smoking gun” is a dud. It too is consistent with—corroborates—Mr. Barden’s
+testimony. The earlier email is from Ms. Maxwell to Mr. Gow with Mr. Barden copied on
+the email. See Doc.638-4. There is no instruction in the email. It merely contains the
+January 2015 statement. In the subject line is this text: “FW: URGENT – this is the
+statement.” The “FW” is important—it is the abbreviation for “Forward,” indicating an
+email has been forwarded by the sender, in this case Ms. Maxwell. The email does not
+-disclose who originally sent the email to- Ms. Maxwell that she then forwarded to
+Mr. Gow. The later, reply email—from Mr. Gow to Ms. Maxwell, copying Mr. Barden, is
+notable. Its text reads: “OK G going with this, thanks Philip.” (Emphasis supplied.) This
+suggests Mr. Barden was intimately involved with Mr. Gow’s action of sending the
+January 2015 statement to journalists.2 It also suggests (“going with this, thanks Philip”)
+that, notwithstanding the absence of any direction in the earlier email from Ms. Maxwell,
+Mr. Gow knew what to do, which itself suggests prior direction from someone.
+2
+Plaintiff asserts that Mr. Barden is “nowhere to be found on any of these communications” between
+Ms. Maxwell and Mr. Gow. Mot. 3. That is incorrect. Mr. Barden was copied on both the email from Ms. Maxwell
+to Mr. Gow and on the email from Mr. Gow to Ms. Maxwell. See Doc.638-4.
+4
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 6 of 11
+c. Plaintiff next asserts Mr. Gow’s testimony supports her argument Mr. Barden
+did not direct Mr. Gow to send the January 2015 statement. She points to Mr. Gow’s
+testimony that “[m]y understanding . . . is”3 Ms. Maxwell sent the earlier email to
+Mr. Barden originally and because he was unavailable, she forwarded it to Mr. Gow.
+Plaintiff’s reliance on this testimony is misplaced. Even if Mr. Gow’s speculation about
+how he came to receive the email were admissible, it hardly makes plaintiff’s point. One,
+there is no direction—no instruction—given in the email. The words in the subject line
+“this is the statement” is hardly a “command,” as plaintiff argues, let alone direction to
+take action. Two, since the email contains no direction, it begs the question, how did
+Mr. Gow know to issue the January 2015 statement upon receiving the email? The
+answer is found in Mr. Barden’s declaration. Before Mr. Gow received the email he
+already knew he was to issue the statement. In Mr. Barden’s words: “In liaison with
+Mr. Gow and my client, on January 2, 2015, I prepared a further statement . . ., and
+I instructed Mr. Gow to transmit it via email to” the journalists. Doc.542-7, Ex.K ¶ 10
+(emphasis supplied). The answer also is found in Ms. Maxwell’s April 22, 2016,
+testimony: “[M]y lawyer, Philip Barden[,] instructed Ross Gow to issue a statement.”
+Mot. 4 (boldface omitted).
+5. Plaintiff also argues Ms. Maxwell “attempts to blame the defamatory press release
+entirely on [Mr. Barden].” Mot. 4. There is no “blaming.” The facts are not in dispute.
+Ms. Maxwell engaged Mr. Barden as her lawyer; Mr. Barden engaged Mr. Gow as his agent. See
+Doc.542-7, Ex.K ¶¶ 9-10. Ms. Maxwell has not disclaimed 
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+Defendant’s Response to “Motion to Compel” Work Product
+and Attorney-Client Communications with Philip Barden
+.............................................
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 1 of 11
+Laura A. Menninger
+Jeffrey S. Pagliuca
+Ty Gee
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 2 of 11
+Defendant Ghislaine Maxwell, through counsel, submits this Response to plaintiff’s
+“Motion to Compel All Work Product and Attorney Client [sic] Communications with Philip
+Barden” (Doc.637).
+PROCEDURAL BACKGROUND
+On February 24, 2016, we served on plaintiff’s counsel Ms. Maxwell’s Initial Fed. R.
+Civ. P. 26(a)(1)(A) Disclosures. The third-listed individual we identified who “likely [has]
+discoverable information” was Philip Barden, who, we disclosed, had information “concerning
+press statements . . . at issue in this matter”:
+3. Philip Barden
+Devonshires Solicitors LLP
+30 Finsbury Circus
+London, United Kingdom
+EC2M7DT
+DX: 33856 Finsbury Square
+(020) 7628-7576
+Philip.Barden@devonshires.co.uk
+Mr. Barden has knowledge concerning press statements by Plaintiff and
+Defendant in 2011-2015 at issue in this matter.
+Menninger Decl., Ex.A. Plaintiff never sought to depose Mr. Barden.
+On June 23, 2016, this Court ordered that the parties complete all fact discovery by
+July 29, 2016. See Doc.317 at 2.
+Plaintiff propounded discovery requests as follows:
+10/27/2015 Plaintiff’s First Set of Requests for Production
+4/14/2016 Plaintiff’s Second Set of Requests for Production
+5/27/2016 Plaintiff’s First Set of Interrogatories
+5/27/2016 Plaintiff’s Request for Admissions
+The First Set propounded thirty-nine (39) requests for production. The Second Set
+propounded an additional forty-three (43) requests for production. None requested Mr. Barden’s
+1
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 3 of 11
+attorney work product. Nor did plaintiff’s interrogatories and requests for admissions
+propounded on May 27, 2016.
+On January 6, 2017, Mr. Barden submitted a declaration in support of Ms. Maxwell’s
+motion for summary judgment. In the declaration, he stated, “I am not authorised to and do not
+waive Ms. Maxwell’s attorney-client privilege.” Doc.542-7, Ex.K ¶ 3. Mr. Barden did not
+reference any communications with his client Ms. Maxwell, let alone disclose any attorney-client
+communications. See generally id., Ex.K. He did disclose his intent and strategy underlying his
+preparation of the statement he caused to be transmitted January 2, 2015, via press agent Ross
+1111
+Gow to various journalists. See id., Ex.K ¶¶ 12-24, 26-30.
+PLAINTIFF’S FACTUAL ERRORS
+Plaintiff makes numerous factual errors in her motion’s factual “Background.”
+1. Plaintiff says Mr. Barden’s submission is “a post hoc, self-serving declaration.”
+Mot. 2. Of course every declaration submitted in this litigation by witnesses to events that took
+place in 2012-2015 by definition is post hoc. Since Mr. Barden is a third-party witness and not
+one of the parties, by definition his declaration is not “self-serving.” In any event, calling a
+declaration “self-serving” is a legal canard. There is nothing improper even for litigants suing for
+money, such as plaintiff, to submit “self-serving” declarations so long as they are truthful, and
+there is nothing improper about a court’s considering—and giving due weight—to “self-serving”
+testimony. See Lupyan v. Corinthian Colls., 761 F.3d 314, 321 n.2 (3d Cir. 2014) (“As with any
+other kind of evidence, the declarant’s interest in the outcome is merely one factor . . . to weigh
+in determining the reliability of the evidence. It is not a reason to automatically reject the
+evidence. Indeed, the testimony of a litigant will almost always be self serving since few litigants
+will knowingly volunteer statements that are prejudicial to their case. However that has never
+meant that a litigant’s evidence must be categorically rejected by the fact finder.”).
+2
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 4 of 11
+2. Plaintiff says Mr. Barden’s declaration “and the briefing” to which it was attached
+reference his “‘intent’ (and other synonymous phrases) . . . at least 62 times.” Mot. 3 (emphasis
+omitted). She suggests it is improper for a declaration and the briefs to which it is attached to
+reference or discuss intent. The suggestion is misguided. If intent is a relevant question of fact, of
+course there is nothing wrong with discussing it.
+3. Plaintiff says Mr. Barden’s declaration “reveals attorney client [sic] legal advice
+given to Defendant, such as”1 these two sentences in the declaration: “I did not ask Ms. Maxwell
+to respond point by point to Ms. Giuffre’s factual allegations in the CVRA joinder motion. What
+-we needed to do was issue an immediate denial and that necessarily had to be short and to the
+point.” Doc.542-7, Ex.K ¶ 13. Neither of the two sentences “reveals” attorney-client
+communications. To the contrary, the first sentence references a non-communication with
+Ms. Maxwell, i.e., what Mr. Barden did not talk to Ms. Maxwell about. The second sentence
+simply discloses attorney Barden’s thought process, which by definition is not an attorney-client
+communication. We italicize plaintiff’s use of “such as,” connoting—disingenuously, we
+submit—the introduction of an example. Besides these two frivolous examples of attorney-client
+communications, plaintiff identifies no others.
+4. Supplementing her lengthy summary-judgment brief and oral argument, plaintiff re-
+-urges her point that really it was Ms. Maxwell personally, and not Mr. Barden, who directed
+Mr. Gow to issue the January 2015 statement. Mot. 3. We suggest plaintiff’s persistent repetition
+of her arguments—as with any repetition, they have become familiar, but not more persuasive—
+suggests her recognition that we have advanced meritorious and weighty arguments for summary
+1
+Mot. 3 (emphasis supplied).
+3
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 5 of 11
+judgment. On her third try, plaintiff makes no further headway. We address here each piece of
+“documentary and testimonial evidence” plaintiff alleges supports her argument.
+a. As plaintiff acknowledges, Ms. Maxwell’s testimony is completely consistent
+with Mr. Barden’s testimony; “So my lawyer, Philip Barden[,] instructed Ross Gow to
+issue a statement.” Mot. 4 (emphasis omitted).
+b. Plaintiff argues Mr. Gow produced a “smoking gun” email chain in which
+Ms. Maxwell personally directed him to distribute the January 2015 statement. Mot. 4.
+The “smoking gun” is a dud. It too is consistent with—corroborates—Mr. Barden’s
+testimony. The earlier email is from Ms. Maxwell to Mr. Gow with Mr. Barden copied on
+the email. See Doc.638-4. There is no instruction in the email. It merely contains the
+January 2015 statement. In the subject line is this text: “FW: URGENT – this is the
+statement.” The “FW” is important—it is the abbreviation for “Forward,” indicating an
+email has been forwarded by the sender, in this case Ms. Maxwell. The email does not
+-disclose who originally sent the email to- Ms. Maxwell that she then forwarded to
+Mr. Gow. The later, reply email—from Mr. Gow to Ms. Maxwell, copying Mr. Barden, is
+notable. Its text reads: “OK G going with this, thanks Philip.” (Emphasis supplied.) This
+suggests Mr. Barden was intimately involved with Mr. Gow’s action of sending the
+January 2015 statement to journalists.2 It also suggests (“going with this, thanks Philip”)
+that, notwithstanding the absence of any direction in the earlier email from Ms. Maxwell,
+Mr. Gow knew what to do, which itself suggests prior direction from someone.
+2
+Plaintiff asserts that Mr. Barden is “nowhere to be found on any of these communications” between
+Ms. Maxwell and Mr. Gow. Mot. 3. That is incorrect. Mr. Barden was copied on both the email from Ms. Maxwell
+to Mr. Gow and on the email from Mr. Gow to Ms. Maxwell. See Doc.638-4.
+4
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 6 of 11
+c. Plaintiff next asserts Mr. Gow’s testimony supports her argument Mr. Barden
+did not direct Mr. Gow to send the January 2015 statement. She points to Mr. Gow’s
+testimony that “[m]y understanding . . . is”3 Ms. Maxwell sent the earlier email to
+Mr. Barden originally and because he was unavailable, she forwarded it to Mr. Gow.
+Plaintiff’s reliance on this testimony is misplaced. Even if Mr. Gow’s speculation about
+how he came to receive the email were admissible, it hardly makes plaintiff’s point. One,
+there is no direction—no instruction—given in the email. The words in the subject line
+“this is the statement” is hardly a “command,” as plaintiff argues, let alone direction to
+take action. Two, since the email contains no direction, it begs the question, how did
+Mr. Gow know to issue the January 2015 statement upon receiving the email? The
+answer is found in Mr. Barden’s declaration. Before Mr. Gow received the email he
+already knew he was to issue the statement. In Mr. Barden’s words: “In liaison with
+Mr. Gow and my client, on January 2, 2015, I prepared a further statement . . ., and
+I instructed Mr. Gow to transmit it via email to” the journalists. Doc.542-7, Ex.K ¶ 10
+(emphasis supplied). The answer also is found in Ms. Maxwell’s April 22, 2016,
+testimony: “[M]y lawyer, Philip Barden[,] instructed Ross Gow to issue a statement.”
+Mot. 4 (boldface omitted).
+5. Plaintiff also argues Ms. Maxwell “attempts to blame the defamatory press release
+entirely on [Mr. Barden].” Mot. 4. There is no “blaming.” The facts are not in dispute.
+Ms. Maxwell engaged Mr. Barden as her lawyer; Mr. Barden engaged Mr. Gow as his agent. See
+Doc.542-7, Ex.K ¶¶ 9-10. Ms. Maxwell has not disclaimed legal responsibility for the January
+3
+Mot. 5.
+5
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 7 of 11
+2015 statement prepared on her behalf by Mr. Barden and issued on her behalf by Mr. Gow at
+Mr. Barden’s direction.
+ARGUMENT
+Plaintiff is entitled to no discovery of Mr. Barden’s work product or Ms. Maxwell’s
+attorney-client communications.
+A. Plaintiff has violated every rule governing motions to compel, including the
+one requiring the existence of an unsatisfied request for production.
+Federal Rule of Civil Procedure 37(a)(1) provides that any motion to compel must be
+accompanied by a certification that the movant has in good faith conferred with the “party failing
+to make . . . discovery” (emphasis supplied).
+Rule 37(a)(3) provides that “[a] party seeking discovery may move for an order
+compelling . . . production . . . if . . . a party fails to produce documents . . . as requested under
+Rule 34” (emphasis supplied).
+Local Civil Rule 37.1 provides that in any motion brought under Rule 37, including a
+motion to compel, “the moving party shall specify and quote or set forth verbatim in the motion
+papers each discovery request and response to which the motion . . . is addressed” (emphasis
+supplied).
+Plaintiff failed to comply with any of these rules.
+On the last page of the motion plaintiff counsel certifies she “raised” “the failure to
+produce issue [sic]” when she “oppos[ed]” Ms. Maxwell’s summary judgment and when she
+presented “oral argument” on summary judgment. Mot. 12 (emphasis supplied). That is not a
+Rule 37(a)(1) certification. Plaintiff’s counsel fails to certify she (a) “in good faith”
+(b) “conferred” with the defense. Instead, she certifies she (a) “raised” (b) an “issue.” The failure
+to comply with Rule 37(a)(1) warrants denial of the motion. Dorchester Fin. Holdings Corp. v.
+Banco BRJ, S.A., 11-CV-1529 KMW KNF, 2014 WL 3747160, at *5 (S.D.N.Y. July 3, 2014).
+6
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 8 of 11
+Rule 37(a)(3) requires that a motion to compel the production of a document be grounded
+on the existence of an unsatisfied request for production. So too does Local Civil Rule 37.1.
+Plaintiff has identified no unsatisfied request for production. That violates both rules. Her motion
+must be denied on this basis alone, as a legion of cases confirms. See, e.g., Hassan v. Town of
+Brookhaven, No. 13-CV-4544 JMA SIL, 2015 WL 3455108, at *4 (E.D.N.Y. May 29, 2015)
+(rejecting motion to compel: “Even more troubling, it appears that Hassan did not prepare or
+serve any requests for discovery in this action, and simply made a motion to compel as his first
+and only method of obtaining discovery.”); Brown v. Chappius, No. 13-CV-00105A F, 2015 WL
+5316356, at *3 (W.D.N.Y. Sept. 10, 2015) (denying motion to compel production of documents:
+“Plaintiff has failed to serve formal discovery demands requesting such materials.”).
+The meritlessness of a motion to compel combined with failure to confer warrants denial
+and a sanction. Window Headquarters, Inc. v. Mat Basic Four, Inc., No. 91 CIV. 1816 (MBM),
+1996 WL 63046, at *1 (S.D.N.Y. Feb. 9, 1996) (“Because the motion was without basis and was
+filed by Fagan without consulting his adversary, Fagan will pay to counsel for Ventech a
+sanction in the amount of $200, that being the minimum reasonable cost of responding to this
+meritless motion.”).
+B. Even if plaintiff had a pending discovery request and had complied with the
+rules, she would be barred from access to Ms. Maxwell’s attorney-client
+communications.
+The attorney-client privilege “belongs solely to the client and may only be waived by
+him. An attorney may not waive the privilege without his client’s consent.” In re von Bulow, 828
+F.2d 94, 100 (2d Cir. 1987); accord, e.g., In re Bank of New York Mellon Corp. Forex
+Transactions Litig., 66 F. Supp. 3d 406, 410 (S.D.N.Y. 2014).
+Plaintiff cites a bevy of cases from New York to Minnesota to Texas for the proposition
+that the attorney-client can be waived. That is not in question. What is in question is whether
+7
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 9 of 11
+Ms. Maxwell’s attorney-client privilege has been waived. Plaintiff makes a one-sentence
+argument: The privilege “was waived by her affirmative submission of Mr. Barden’s declaration
+which included references to attorney-client communications between [Ms. Maxwell] and
+Mr. Barden.” Mot. 8 (emphasis supplied). We italicize the plural “references” to accentuate the
+disingenuousness of the argument, which identifies no “reference,” let alone “references,” to
+attorney-client communications in Mr. Barden’s declaration. See id.
+Five pages earlier, in the “Background” section of the motion, plaintiff does identify two
+sentences in Mr. Barden’s declaration that she says effected a waiver of the attorney-client
+privilege: “I did not ask Ms. Maxwell to respond point by point to Ms. Giuffre’s factual
+allegations in the CVRA joinder motion. What we needed to do was issue an immediate denial
+and that necessarily had to be short and to the point.” Doc.542-7, Ex.K ¶ 13.
+As we suggested above, see This Resp. 3, the contention that these two sentences effected
+an attorney-client privilege waiver is nonsense. It is well established that “absent a client’s
+consent or waiver, the publication of confidential communications by an attorney does not
+constitute a relinquishment of the privilege by the client.” von Bulow, 828 F.2d at 100.
+Mr. Barden stated explicitly in his declaration, “I am not authorised to and do not waive
+Ms. Maxwell’s attorney-client privilege.” Doc.542-7, Ex.K ¶ 3. Regardless, a lawyer cannot
+waive his client’s attorney-client privilege by stating what he did not say to his client; it is
+frivolous to suggest otherwise.
+CONCLUSION
+The Court should deny the motion to compel, and award sanctions.
+8
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 10 of 11
+Dated: March 2, 2017
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+Ty Gee (pro hac vice)
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+9
+Case 1:15-cv-07433-LAP Document 1331-27 Filed 01/05/24 Page 11 of 11
+CERTIFICATE OF SERVICE
+I certify that on March 2, 2017, I electronically served this Defendant’s Response to “Motion to
+Compel” Work Product and Attorney-Client Communications with Philip Barden via ECF on the
+following:
+Sigrid S. McCawley Paul G. Cassell
+Meredith Schultz 383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+10

@@ -1,0 +1,432 @@
+====================================================================================================
+EMAIL #0036 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1331-16.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        2,672
+Character Count:   16,636
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, giuffre, dershowitz, epstein
+Key Locations:     new york
+Type:              Reply
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: maxwell, andrew, giuffre, dershowitz, epstein | Type: Reply
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+15-cv-07433-RWS
+GHISLAINE MAXWELL,
+Defendant.
+--------------------------------------------------X
+DEFENDANT’S REPLY IN SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN
+TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+.............................................
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10
+Laura A. Menninger
+Jeffrey S. Pagliuca
+Ty Gee
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files her Reply in Support of the Motion
+in Limine to Exclude In Toto certain depositions designated by Plaintiff for use at trial and states
+as follows:
+I. PLAINTIFF CANNOT SATSIFY THE LEGAL REQUIREMENTS FOR USE OF
+CERTAIN DEPOSITIONS AT TRIAL
+A. Jeffrey Epstein and Ronald Rizzo Are Not Unavailable
+Plaintiff cannot claim that Jeffery Epstein and Ronald Rizzo are “unavailable witnesses”
+whose testimony can be presented by deposition at trial under Rule 34 of the Federal Rules of
+Civil Procedure. She admits she simply had not, prior to designating testimony, even attempted
+to serve these witnesses or obtain their attendance at trial. She has now obtained an agreement to
+accept service by Mr. Epstein’s counsel, mooting any claim that he is unavailable.1 With respect
+to Mr. Rizzo, she concedes he resides within 100 miles of the courthouse, and provides no basis
+to claim that he cannot be served. Based on these confessions, the Motion in Limine to exclude
+the use of the designated portions of these depositions in toto must be granted.
+B. As a Retained Expert, Phillip Esplin Cannot Be Deemed Unavailable
+Plaintiff’s argument concerning Phillip Esplin fails to acknowledge or even address the
+cases cited that requirethat prior to being permitted to use prior sworn testimony of an expert
+witness she must carry the affirmative burden on proving: 1) Plaintiff “attempt[ed] to secure the
+voluntary [trial] attendance of a witness who lives beyond the subpoena power of the court” and
+2) that no similar expert is available. Carter-Wallace, Inc. v. Otte, 474 F.2d 529, 536 (2d Cir.
+1972). Plaintiff cannot carry this burden, requiring that the Motion in Limine be granted.
+1 Issues concerning if Mr. Epstein should be required to appear to invoke this fifth amendment rights will
+be addressed in Response to Plaintiff's Motion to Present Testimony from Jeffrey Epstein for Purposes of Obtaining
+an Adverse Inference.
+1
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 3 of 10
+Plaintiff’s misplaced argument that Ms. Maxwell is somehow required to make Dr.
+Esplin available at trial violates the fundamental rules of trial and the requirements for rebuttal
+witnesses. Of course, at this point, Ms. Maxwell does not know information Plaintiff may
+present in her case-in-chief. Ms. Maxwell has filed well-founded motions in limineto exclude
+the testimony of both Dr. Kliman and Professor Coonan prohibiting from providing their
+credibility and vouching opinions. This is the subject matter of Dr. Esplin’s rebuttal report
+which explains that there is no reliable or scientific methodology by which an expert could
+reliably come to such opinions. Of course, if the improper testimony by Dr. Kliman and
+Professor Coonan is excluded, as it should be, there will be nothing for Dr. Esplin to “rebut” and
+he will not be called as a witness in the defense case-in-chief. In light of the well settled rules
+that a rebuttal expert is “intended solely to contradict or rebut evidence on the same subject
+matter identified” in the expert report of another party, there would be no basis to for Dr. Esplin
+to testify if Kliman and Coonan are excluded. Fed. R.Civ. P. 26(a)(2)(C)(ii). Moreover, because
+Dr. Esplin is a designated rebuttal expert, it is entirely improper to have any portion of his
+opinions or testimony presented in the Plaintiff’s case in chief. See Lindner v. Meadow Gold
+Dairies, Inc.,249 F.R.D. 625, 636 (D. Hawaii 2008) (holding that individuals designated only as
+rebuttal experts could present limited testimony, could not testify as part of a party's case-in-
+chief, and would not be allowed to testify “unless and until” the experts they were designated to
+rebut testified at trial); Johnson v. Grays Harbor Cmty. Hosp., No. C06–5502BHS, 2007 WL
+4510313, at *2 (W.D.Wash. Dec. 18, 2007) (finding that experts designated as rebuttal witnesses
+would “be permitted only to offer rebuttal testimony at trial”). Plaintiff also fails to explain how
+the designated testimony could be deemed permissible given that the questions posed were all
+2
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 4 of 10
+outside of the scope of Dr. Esplin’s opinion. While Plaintiff may wish to waive this requirement
+of the rules of procedure and evidence, Ms. Maxwell does not.
+Regardless, any decisions Ms. Maxwell and the undersigned counsel decide to make
+concerning their presentation of the defense and which witness to call is ours alone to make.
+There is no requirement that a party call a designated expert to testify if they choose not to do so
+at the time of trial. Such strategic decisions are solely in the province of the parties and their
+counsel. If Dr. Esplin is presented as a rebuttal witness by the defense, he will appear live. If he
+is not, then there is no rebuttal witness, and none to cross examine.
+II. WAS NOT PROPERLY “REFRESHED” AND THE READING OF
+THE HEARSAY POLICE REPORT IS INADMISSABLE
+The use of the deposition testimony of , and the reading or summary of
+hearsay statement in the Police Report sought to be admitted through counsel’s questions is
+simply improper. As a small sampling of the designated testimony makes clear, there was no
+proper “refreshing” of recollection:
+Q. Do you remember how old you were when you met Jeffrey Epstein?
+A. Sixteen or 17.
+Q. Okay. And have you reviewed –
+A. I may have been 15. I don't recall. I apologize.
+Q. If you told the police officer 16, you were telling the truth?
+A. At the time, they were fresh.
+…
+Q. Okay. After speaking to the police or while speaking to the police, do you remember
+telling them that you're not safe because you're talking about this?
+MR. PAGLIUCA: Object to form and foundation.
+THE WITNESS: Yes.
+BY MR. EDWARDS:
+Q. And that you had heard Jeffrey Epstein making threats to people on the telephone?
+MR. PAGLIUCA: Object to form and foundation.
+3
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 5 of 10
+THE WITNESS: Yes. He wasn't always friendly
+See Menninger Decl., Ex. F, 10:6-14; 43:15-44:4
+As explained in in Wright & Miller, Federal Practice and Procedures, the use of a
+document during testimony to refresh recollections is limited:
+The law also places limits on how counsel and the witness may use a writing to refresh
+memory. In the usual case counsel will hand the witness the writing, show counsel for the
+adverse parties a copy, and ask the witness to silently read the writing. Counsel then will
+ask the witness if the writing has refreshed the witness' memory. If the witness responds
+in the affirmative, counsel will retrieve the writing and ask the witness to testify as to the
+matters on which the witness' memory was refreshed. Even where the witness claims a
+refreshed recollection, the court again has discretion to preclude further testimony if the
+circumstances suggest that the writing engendered a false memory. If the witness states
+that his recollection has not been refreshed, he cannot then testify as to the contents of the
+writing unless it is shown that the writing itself is admissible.
+§ 6184Refreshing Memory—Requirements and Procedures, 28 Fed. Prac. & Proc. Evid. § 6184
+(2d ed.)(internal citations omitted); see also Goings v. U.S., 377 F.2d 753, 759–762 (8th Cir.
+1967) (trial court improperly permitted prosecutor to ask leading questions concerning contents
+of witness’ written statement under the pretext of refreshing recollection but without laying the
+proper foundation; “[I]f a party can offer a previously given statement to substitute for a
+witness’s testimony under the guise of ‘refreshing recollection,’ the whole adversary system of
+trial must be revised. The evil of this practice hardly merits discussion. The evil is no less when
+an attorney can read the statement in the presence of the jury and thereby substitute his spoken
+word for the written document.”) (italics inoriginal). Gaines v. United States, 349 F.2d 190, 192
+(D.C. Cir. 1965)(error to allow prior written statement to be read to the witness in front of the
+jury for the purpose of refreshing recollection because “it was not necessary for counsel to read
+the statements aloud in the jury's presence. This is liable to cause the jury to consider their
+contents as evidence notwithstanding instructions to the contrary.”)
+4
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 6 of 10
+All testimony from deposition based on leading questions summarizing her
+hearsay statements in the police report must be excluded.
+With respect to the police report itself, this will obviously be a subject of a Motion in
+Limine. At this time, two points will suffice. Plaintiff’s claim that she is not attempting to offer
+the police report for the truth of the matters asserted therein is farcical, which is evident in every
+briefing touching on the subject matter. Second, while the full 803(8) issue will be briefed, for
+present purposes we will simply point out that (or any other witnesses statement
+contained in the report) will never be admissible unless there is a separate and independent
+hearsay exemptions for such statement. As the Second Circuit has clearly held:
+“It is well established that entries in a police report which result from the officer's
+own observations and knowledge may be admitted but that statements ma
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+15-cv-07433-RWS
+GHISLAINE MAXWELL,
+Defendant.
+--------------------------------------------------X
+DEFENDANT’S REPLY IN SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN
+TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+.............................................
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10
+Laura A. Menninger
+Jeffrey S. Pagliuca
+Ty Gee
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files her Reply in Support of the Motion
+in Limine to Exclude In Toto certain depositions designated by Plaintiff for use at trial and states
+as follows:
+I. PLAINTIFF CANNOT SATSIFY THE LEGAL REQUIREMENTS FOR USE OF
+CERTAIN DEPOSITIONS AT TRIAL
+A. Jeffrey Epstein and Ronald Rizzo Are Not Unavailable
+Plaintiff cannot claim that Jeffery Epstein and Ronald Rizzo are “unavailable witnesses”
+whose testimony can be presented by deposition at trial under Rule 34 of the Federal Rules of
+Civil Procedure. She admits she simply had not, prior to designating testimony, even attempted
+to serve these witnesses or obtain their attendance at trial. She has now obtained an agreement to
+accept service by Mr. Epstein’s counsel, mooting any claim that he is unavailable.1 With respect
+to Mr. Rizzo, she concedes he resides within 100 miles of the courthouse, and provides no basis
+to claim that he cannot be served. Based on these confessions, the Motion in Limine to exclude
+the use of the designated portions of these depositions in toto must be granted.
+B. As a Retained Expert, Phillip Esplin Cannot Be Deemed Unavailable
+Plaintiff’s argument concerning Phillip Esplin fails to acknowledge or even address the
+cases cited that requirethat prior to being permitted to use prior sworn testimony of an expert
+witness she must carry the affirmative burden on proving: 1) Plaintiff “attempt[ed] to secure the
+voluntary [trial] attendance of a witness who lives beyond the subpoena power of the court” and
+2) that no similar expert is available. Carter-Wallace, Inc. v. Otte, 474 F.2d 529, 536 (2d Cir.
+1972). Plaintiff cannot carry this burden, requiring that the Motion in Limine be granted.
+1 Issues concerning if Mr. Epstein should be required to appear to invoke this fifth amendment rights will
+be addressed in Response to Plaintiff's Motion to Present Testimony from Jeffrey Epstein for Purposes of Obtaining
+an Adverse Inference.
+1
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 3 of 10
+Plaintiff’s misplaced argument that Ms. Maxwell is somehow required to make Dr.
+Esplin available at trial violates the fundamental rules of trial and the requirements for rebuttal
+witnesses. Of course, at this point, Ms. Maxwell does not know information Plaintiff may
+present in her case-in-chief. Ms. Maxwell has filed well-founded motions in limineto exclude
+the testimony of both Dr. Kliman and Professor Coonan prohibiting from providing their
+credibility and vouching opinions. This is the subject matter of Dr. Esplin’s rebuttal report
+which explains that there is no reliable or scientific methodology by which an expert could
+reliably come to such opinions. Of course, if the improper testimony by Dr. Kliman and
+Professor Coonan is excluded, as it should be, there will be nothing for Dr. Esplin to “rebut” and
+he will not be called as a witness in the defense case-in-chief. In light of the well settled rules
+that a rebuttal expert is “intended solely to contradict or rebut evidence on the same subject
+matter identified” in the expert report of another party, there would be no basis to for Dr. Esplin
+to testify if Kliman and Coonan are excluded. Fed. R.Civ. P. 26(a)(2)(C)(ii). Moreover, because
+Dr. Esplin is a designated rebuttal expert, it is entirely improper to have any portion of his
+opinions or testimony presented in the Plaintiff’s case in chief. See Lindner v. Meadow Gold
+Dairies, Inc.,249 F.R.D. 625, 636 (D. Hawaii 2008) (holding that individuals designated only as
+rebuttal experts could present limited testimony, could not testify as part of a party's case-in-
+chief, and would not be allowed to testify “unless and until” the experts they were designated to
+rebut testified at trial); Johnson v. Grays Harbor Cmty. Hosp., No. C06–5502BHS, 2007 WL
+4510313, at *2 (W.D.Wash. Dec. 18, 2007) (finding that experts designated as rebuttal witnesses
+would “be permitted only to offer rebuttal testimony at trial”). Plaintiff also fails to explain how
+the designated testimony could be deemed permissible given that the questions posed were all
+2
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 4 of 10
+outside of the scope of Dr. Esplin’s opinion. While Plaintiff may wish to waive this requirement
+of the rules of procedure and evidence, Ms. Maxwell does not.
+Regardless, any decisions Ms. Maxwell and the undersigned counsel decide to make
+concerning their presentation of the defense and which witness to call is ours alone to make.
+There is no requirement that a party call a designated expert to testify if they choose not to do so
+at the time of trial. Such strategic decisions are solely in the province of the parties and their
+counsel. If Dr. Esplin is presented as a rebuttal witness by the defense, he will appear live. If he
+is not, then there is no rebuttal witness, and none to cross examine.
+II. WAS NOT PROPERLY “REFRESHED” AND THE READING OF
+THE HEARSAY POLICE REPORT IS INADMISSABLE
+The use of the deposition testimony of , and the reading or summary of
+hearsay statement in the Police Report sought to be admitted through counsel’s questions is
+simply improper. As a small sampling of the designated testimony makes clear, there was no
+proper “refreshing” of recollection:
+Q. Do you remember how old you were when you met Jeffrey Epstein?
+A. Sixteen or 17.
+Q. Okay. And have you reviewed –
+A. I may have been 15. I don't recall. I apologize.
+Q. If you told the police officer 16, you were telling the truth?
+A. At the time, they were fresh.
+…
+Q. Okay. After speaking to the police or while speaking to the police, do you remember
+telling them that you're not safe because you're talking about this?
+MR. PAGLIUCA: Object to form and foundation.
+THE WITNESS: Yes.
+BY MR. EDWARDS:
+Q. And that you had heard Jeffrey Epstein making threats to people on the telephone?
+MR. PAGLIUCA: Object to form and foundation.
+3
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 5 of 10
+THE WITNESS: Yes. He wasn't always friendly
+See Menninger Decl., Ex. F, 10:6-14; 43:15-44:4
+As explained in in Wright & Miller, Federal Practice and Procedures, the use of a
+document during testimony to refresh recollections is limited:
+The law also places limits on how counsel and the witness may use a writing to refresh
+memory. In the usual case counsel will hand the witness the writing, show counsel for the
+adverse parties a copy, and ask the witness to silently read the writing. Counsel then will
+ask the witness if the writing has refreshed the witness' memory. If the witness responds
+in the affirmative, counsel will retrieve the writing and ask the witness to testify as to the
+matters on which the witness' memory was refreshed. Even where the witness claims a
+refreshed recollection, the court again has discretion to preclude further testimony if the
+circumstances suggest that the writing engendered a false memory. If the witness states
+that his recollection has not been refreshed, he cannot then testify as to the contents of the
+writing unless it is shown that the writing itself is admissible.
+§ 6184Refreshing Memory—Requirements and Procedures, 28 Fed. Prac. & Proc. Evid. § 6184
+(2d ed.)(internal citations omitted); see also Goings v. U.S., 377 F.2d 753, 759–762 (8th Cir.
+1967) (trial court improperly permitted prosecutor to ask leading questions concerning contents
+of witness’ written statement under the pretext of refreshing recollection but without laying the
+proper foundation; “[I]f a party can offer a previously given statement to substitute for a
+witness’s testimony under the guise of ‘refreshing recollection,’ the whole adversary system of
+trial must be revised. The evil of this practice hardly merits discussion. The evil is no less when
+an attorney can read the statement in the presence of the jury and thereby substitute his spoken
+word for the written document.”) (italics inoriginal). Gaines v. United States, 349 F.2d 190, 192
+(D.C. Cir. 1965)(error to allow prior written statement to be read to the witness in front of the
+jury for the purpose of refreshing recollection because “it was not necessary for counsel to read
+the statements aloud in the jury's presence. This is liable to cause the jury to consider their
+contents as evidence notwithstanding instructions to the contrary.”)
+4
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 6 of 10
+All testimony from deposition based on leading questions summarizing her
+hearsay statements in the police report must be excluded.
+With respect to the police report itself, this will obviously be a subject of a Motion in
+Limine. At this time, two points will suffice. Plaintiff’s claim that she is not attempting to offer
+the police report for the truth of the matters asserted therein is farcical, which is evident in every
+briefing touching on the subject matter. Second, while the full 803(8) issue will be briefed, for
+present purposes we will simply point out that (or any other witnesses statement
+contained in the report) will never be admissible unless there is a separate and independent
+hearsay exemptions for such statement. As the Second Circuit has clearly held:
+“It is well established that entries in a police report which result from the officer's
+own observations and knowledge may be admitted but that statements made by
+third persons under no business duty to report may not.” United States v. Pazsint,
+703 F.2d 420, 424 (9 Cir.1983) (emphasis in original).
+Parsons v. Honeywell, Inc., 929 F.2d 901, 907 (2d Cir. 1991)(quoting United States v. Pazsint,
+703 F.2d 420, 424 (9[th] Cir.1983)).
+Plaintiff does not address the objections to deposition under Fed. R. Evid. 401,
+402 and 602 based on lack of personal knowledge, or the issues concerning the improper leading
+of this witness. They should thus be deemed confessed and are not re-argued here.
+III. TESTIMONY AND STATEMENTS MADE IN OTHER MATTERS TO WHICH
+MS. MAXWELL WAS NOT A PARTY, WAS NOT PRESENT, HAD NO NOTICE,
+AND DID NOT PARTICIPATE CANNOT BE DESIGNATED IN THIS CASE
+Plaintiff does not seriously contest that the requirements of Fed. R. Civ. P. 32 and Fed. R.
+Evid. 804 cannot be met with respect to Mr. Rodriguez’s deposition testimony. Indeed, the
+Plaintiff’s Motions to Exclude Designation of Depositions Excerpts of Alan Dershowitz and
+Plaintiff argued this precise point. Ms. Maxwell was not a party to any of the litigations in which
+Mr. Rodriguez was deposed; Ms. Maxwell was neither present or given notice of the deposition.
+5
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 7 of 10
+Likewise, under Rule 32(a)(8), the subject matters of those litigations were completely different.
+The cases were personal claims against Mr. Epstein by various individuals. There could be no
+identity of issues between those matters and this case. Those cases were about personal claims
+against Mr. Epstein and had nothing to do with Ms. Maxwell. This case is about a statement by
+Ms. Maxwell’s press agent made over 6 years later. There could be no motivations to develop
+similar testimony because the claims in this action by definition did not exist when the
+depositions was taken.
+Mr. Epstein’s counsel had no motive to discuss anything concerning Ms. Maxwell. He
+certainly had no motive to cross-examine Mr. Rodriguez regarding any interactions between Ms.
+Maxwell and Plaintiff given that Mr. Rodriguez had never met Plaintiff. The sheer lack of
+discussion of Ms. Maxwell, or follow up on any of the statements made concerning Ms. Maxwell
+makes clear there was simply no similar motive for Mr. Epstein’s counsel to cross examine Mr.
+Rodriguez as Ms. Maxwell would have in this case.
+Knowing that any argument for admission under Fed. R. Civ. P. 32 and Fed. R. Evid. 804
+must fail, Plaintiff throws a Hail Mary and seeks admission of the testimony under the “Residual
+Hearsay” clause, 807. It is apparent that this is the new go-to for Plaintiff because of the serious
+evidentiary issues with the evidence she seeks to admit. Congress was very clear that it
+“ intended that the residual hearsay exceptions will be used very rarely, and only in exceptional
+circumstances.” Committee on the Judiciary, S.Rep.No.93-1277, Note to Paragraph (24), 28
+U.S.C.A. Fed. R.Evid. p. 583 (1975). For this reason, it set very specific parameters that, none
+of which are satisfactorily met in the circumstances here.
+(1)the statement has equivalent circumstantial guarantees of trustworthiness;
+(2)it is offered as evidence of a material fact;
+6
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 8 of 10
+(3)it is more probative on the point for which it is offered than any other evidence that
+the proponent can obtain through reasonable efforts; and
+(4)admitting it will best serve the purposes of these rules and the interests of justice.
+There is nothing trustworthy about Mr. Rodriguez or his statements. Mr. Rodriguez is a
+convicted criminal, and was convicted for obstruction of justice based on the very testimony
+Plaintiff seeks to admit. He either created evidence to use in those proceedings, or he hid
+evidence in them. Either way, his entire testimony is inherently untrustworthy.
+Mr. Rodriguez has no knowledge of any fact material to this case. He flatly testifies that
+he had never heard or, met or seen the Plaintiff. He worked for Mr. Epstein over 2 years after
+Plaintiff left the country. Nothing Mr. Rodriguez could have possibly testified to, even if he was
+alive, has any bearing on any material fact.
+Plaintiff’s attempt to claim that Mr. Rodriguez’s testimony “is more probative on the
+point for which it is offered than any other evidence that the proponent can obtain through
+reasonable efforts” is at best disingenuous. Plaintiff has designated the testimony of Juan Alessi,
+Mr. Rodriguez’s predecessor who held that position during the timeframe in which Plaintiff
+claims to have been held as a “sex slave” by Mr. Epstein. It simply defies logic to claim that Mr.
+Rodriguez’ testimony would somehow be more probative than that of the person in his same
+position at the time Plaintiff alleges she was being held captive as a sex slave.
+Finally, nothing about the testimony will best serve the purposes of the rules or evidence
+or justice. Mr. Rodriguez’s testimony is nothing more than hearsay and speculation, as pointed
+out in the specific objections. The purpose of the rules is thwarted, not served, by the admission
+of any portion of this wholly irrelevant and improper testimony.
+7
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 9 of 10
+CONCLUSION
+For the forgoing reasons, and those set forth in the Defendant’s Motion In Limine To
+Exclude In Toto Certain Depositions Designated By Plaintiff For Use At Trial, Ms. Maxwell
+requests that the relief requested therein be granted.
+Dated: February 17, 2017
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+Ty Gee (pro hac vice)
+HADDON,MORGAN AND FOREMAN,P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+8
+Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 10 of 10
+CERTIFICATE OF SERVICE
+I certify that on February 17, 2017, I electronically served this Defendant’s Reply In
+Support Of Motion In Limine To Exclude In Toto Certain Depositions Designated By Plaintiff
+For Use At Trial via ECF on the following:
+Sigrid S. McCawley Paul G. Cassell
+MeredithSchultz 383 S. University Street
+BOIES,SCHILLER &FLEXNER,LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+9

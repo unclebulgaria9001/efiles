@@ -1,0 +1,445 @@
+====================================================================================================
+EMAIL #0067 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1328.41.pdf
+Subject:           
+Date:              Chen, April 12, 2016
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        10,407
+Character Count:   71,359
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     florida, new york, island
+Type:                Has Attachments
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: Chen, April 12, 2016 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Thread: 1 replies | Type: Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 1 of 31
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+RESPONSE IN OPPOSITION TO MOTION TO INTERVENE (DE 362)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 2 of 31
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES..........................................................................................................ii
+I. INTRODUCTION..............................................................................................................1
+II. FACTUAL AND PROCEDURAL BACKGROUND........................................................3
+A. [REDACTED]...........................................................................................................3
+B. The Litigation Involving Dershowitz -The Florida Defamation Case...................5
+II. DERSHOWITZ RELEASES CONFIDENTIAL INFORMATION IN VIOLATION
+OF A FLORIDA COURT ORDER....................................................................................8
+III. THE PROTECTIVE ORDER IN THIS CASE..................................................................9
+IV. ARGUMENT....................................................................................................................10
+A. Legal Standard......................................................................................................10
+B. These Are Not Judicial Documents and Therefore Should Not be Disclosed......11
+C. Even Were the Court to Deem the Documents to be Judicial Documents, the
+Presumption of Access is Weak............................................................................15
+D. No Right of Access Exists Under the First Amendment......................................18
+E. The Second Circuit Has a Presumption Against Modifying Protective Orders
+Upon Which Parties Reasonably Relied...............................................................20
+1. The Record in this Case Shows That the Protective Order Was Not
+Improvidently Granted..............................................................................20
+2. The Parties and Deponents in This Case Have Reasonably Relied Upon
+the Protective Order..................................................................................21
+3. Dershowitz Seeks These Materials For an Illegitimate Purpose Which
+Disqualifies Him from Relief....................................................................22
+4. Under This Court’s Order, Non-Parties Cannot Challenge Confidentiality
+Designations and Dershowitz has Already Agreed to be Bound by the
+Parties’ Confidentiality Designations.......................................................24
+V. CONCLUSION.................................................................................................................25
+i
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 3 of 31
+TABLE OF AUTHORITIES
+Page
+Cases
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014)........................................15, 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir.1986)..........................................................................................................13
+Bond v. Utreras,
+585 F.3d 1061 (7th Cir.2009)...................................................................................................13
+Calloway v. Westinghouse Elec. Corp.,
+115 F.R.D. 73 (M.D. Ga. 1987)................................................................................................24
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir.2001).................................................................................................13
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012)...............................................15
+Dorsett v. County of Nassau,
+289 F.R.D. 54 (E.D.N.Y. 2012)..........................................................................................22, 23
+Dorsett v. County of Nassau,
+762 F.Supp.2d 500 (E.D.N.Y. 2011)........................................................................................17
+Edmondson v. State of Neb. ex. rel. Meyer,
+383 F.2d 123 (8th Cir. 1967)....................................................................................................25
+Flynn v. Hubbard,
+82 F.2d 1084 (1st Cir. 1986).....................................................................................................25
+Forsyth County v. U.S. Army Corps of Engineers,
+2009 WL 1312511 (N.D. Ga. May 8, 2009).............................................................................25
+Gosmile, Inc. v. Dr. Jonathan Levine, D.M.D. P.C.,
+2012 WL 1382557 (S.D.N.Y. 2012).........................................................................................14
+In re September 11 Litigation,
+262 F.R.D. 274 (S.D. N.Y. 2009).............................................................................................21
+In re Teligent, Inc.,
+640 F.3d 53 (2d Cir.2011).........................................................................................................21
+In re Zyprexa Injunction,
+474 F.Supp.2d 385 (E.D.N.Y. 2007)..................................................................................17, 19
+ii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 4 of 31
+Iridium India Telecom Ltd. v. Motorola, Inc.,
+165 Fed.Appx. 878 (2d Cir.2005).............................................................................................23
+Jane Doe No. 2 v. Epstein,
+No. 9:08-cv-80119-cv-KAM (S.D. Fla. Sept. 8, 2009)..............................................................4
+Joy v. North,
+692 F.2d 880 (2d Cir.1982).......................................................................................................17
+Kamakana v. City and County of Honolulu,
+447 F.3d 1172 (9th Cir. 2006)..................................................................................................12
+Leucadia, Inc. v. Applied Extrusion Technologies, Inc.,
+998 F.2d 157 (3d Cir. 1993)......................................................................................................13
+Levin v. U.S.,
+633 Fed. Appx. 69 (2nd Cir. 2016).......................................................................................1, 10
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)........................................................................................................5
+Liz Claiborne, Inc. v. Mademoiselle Knitwear, Inc.,
+1996 WL 346352 (S.D.N.Y.June 26, 1996)........................................................................1, 10
+Louis Vuitton Malletier, S.A. v. My Other Bag, Inc.,
+156 F.Supp.3d 425 (S.D.N.Y.2016).........................................................................................17
+Lugosch v. Pyramid Co. of Onondaga,
+435 F.3d 110 (2d Cir. 2006)......................................................................................................15
+Martindell v. International Telephone & Telegraph Corp.,
+594 F.2d 291 (2d Cir.1979).......................................................................................................22
+MasterCard Intern. Inc. v. Visa Intern. Service Ass'n, Inc.,
+471 F.3d 377 (2d Cir. 2006)......................................................................................................11
+Medical Diagnostic Imaging, PLLC v. Carecore Nat., LLC,
+2009 WL 2135294 (S.D.N.Y. 2009).........................................................................................23
+Newsday LLC v. County of Nassau,
+730 F.3d 156 (2d Cir. 2013)................................................................................................19, 20
+Nixon v. Warner Communications, Inc.,
+98 S.Ct. 1306, 435 U.S. 589 (1978)..........................................................................................24
+S.E.C. v. TheStreet.Com,
+273 F.3d 222 (2d Cir. 2001)......................................................................................................14
+iii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 5 of 31
+Stern v. Cosby,
+529 F.Supp.2d 417 (S.D.N.Y. 2007).........................................................................................16
+U.S. v. Amodeo ("Amodeo I"),
+44 F.3d 141 (2d Cir. 1995).................................................................................................passim
+U.S. v. Amodeo ("Amodeo II"),
+71 F.3d 1044 (2d Cir. 1995)...............................................................................................passim
+Rules
+Fed. R. Civ. P. 24(b)(3).............................................................................................................1, 10
+Other Authorities
+8A Richard L. Marcus,
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)............................................21
+ALAN DERSHOWITZ,TAKING THE STAND:MY LIFE IN THE LAW(2013).......................................24
+"Did Dershowitz Shell Out Big Bucks to Get Settlement in Sex Case?"
+by Vivia Chen, April 12, 2016....................................................................................................9
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)................................................21
+How Alan Dershowitz Bullied Rape Victims to Protect a Serial Child Molester,”
+by Rania Khalek, January 10, 2015............................................................................................5
+The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).........................................3
+Vanity Fair Reminds Us When Jeffrey Epstein Wasn’t aCreep,
+by Ray Gustini, in The Wire (June 21, 2011).............................................................................3
+iv
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 6 of 31
+I. INTRODUCTION
+The Court has before it a request from a non-party (Alan Dershowitz) to intervene in this
+case for the purpose of extractingand pu
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 1 of 31
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+RESPONSE IN OPPOSITION TO MOTION TO INTERVENE (DE 362)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 2 of 31
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES..........................................................................................................ii
+I. INTRODUCTION..............................................................................................................1
+II. FACTUAL AND PROCEDURAL BACKGROUND........................................................3
+A. [REDACTED]...........................................................................................................3
+B. The Litigation Involving Dershowitz -The Florida Defamation Case...................5
+II. DERSHOWITZ RELEASES CONFIDENTIAL INFORMATION IN VIOLATION
+OF A FLORIDA COURT ORDER....................................................................................8
+III. THE PROTECTIVE ORDER IN THIS CASE..................................................................9
+IV. ARGUMENT....................................................................................................................10
+A. Legal Standard......................................................................................................10
+B. These Are Not Judicial Documents and Therefore Should Not be Disclosed......11
+C. Even Were the Court to Deem the Documents to be Judicial Documents, the
+Presumption of Access is Weak............................................................................15
+D. No Right of Access Exists Under the First Amendment......................................18
+E. The Second Circuit Has a Presumption Against Modifying Protective Orders
+Upon Which Parties Reasonably Relied...............................................................20
+1. The Record in this Case Shows That the Protective Order Was Not
+Improvidently Granted..............................................................................20
+2. The Parties and Deponents in This Case Have Reasonably Relied Upon
+the Protective Order..................................................................................21
+3. Dershowitz Seeks These Materials For an Illegitimate Purpose Which
+Disqualifies Him from Relief....................................................................22
+4. Under This Court’s Order, Non-Parties Cannot Challenge Confidentiality
+Designations and Dershowitz has Already Agreed to be Bound by the
+Parties’ Confidentiality Designations.......................................................24
+V. CONCLUSION.................................................................................................................25
+i
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 3 of 31
+TABLE OF AUTHORITIES
+Page
+Cases
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014)........................................15, 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir.1986)..........................................................................................................13
+Bond v. Utreras,
+585 F.3d 1061 (7th Cir.2009)...................................................................................................13
+Calloway v. Westinghouse Elec. Corp.,
+115 F.R.D. 73 (M.D. Ga. 1987)................................................................................................24
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir.2001).................................................................................................13
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012)...............................................15
+Dorsett v. County of Nassau,
+289 F.R.D. 54 (E.D.N.Y. 2012)..........................................................................................22, 23
+Dorsett v. County of Nassau,
+762 F.Supp.2d 500 (E.D.N.Y. 2011)........................................................................................17
+Edmondson v. State of Neb. ex. rel. Meyer,
+383 F.2d 123 (8th Cir. 1967)....................................................................................................25
+Flynn v. Hubbard,
+82 F.2d 1084 (1st Cir. 1986).....................................................................................................25
+Forsyth County v. U.S. Army Corps of Engineers,
+2009 WL 1312511 (N.D. Ga. May 8, 2009).............................................................................25
+Gosmile, Inc. v. Dr. Jonathan Levine, D.M.D. P.C.,
+2012 WL 1382557 (S.D.N.Y. 2012).........................................................................................14
+In re September 11 Litigation,
+262 F.R.D. 274 (S.D. N.Y. 2009).............................................................................................21
+In re Teligent, Inc.,
+640 F.3d 53 (2d Cir.2011).........................................................................................................21
+In re Zyprexa Injunction,
+474 F.Supp.2d 385 (E.D.N.Y. 2007)..................................................................................17, 19
+ii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 4 of 31
+Iridium India Telecom Ltd. v. Motorola, Inc.,
+165 Fed.Appx. 878 (2d Cir.2005).............................................................................................23
+Jane Doe No. 2 v. Epstein,
+No. 9:08-cv-80119-cv-KAM (S.D. Fla. Sept. 8, 2009)..............................................................4
+Joy v. North,
+692 F.2d 880 (2d Cir.1982).......................................................................................................17
+Kamakana v. City and County of Honolulu,
+447 F.3d 1172 (9th Cir. 2006)..................................................................................................12
+Leucadia, Inc. v. Applied Extrusion Technologies, Inc.,
+998 F.2d 157 (3d Cir. 1993)......................................................................................................13
+Levin v. U.S.,
+633 Fed. Appx. 69 (2nd Cir. 2016).......................................................................................1, 10
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)........................................................................................................5
+Liz Claiborne, Inc. v. Mademoiselle Knitwear, Inc.,
+1996 WL 346352 (S.D.N.Y.June 26, 1996)........................................................................1, 10
+Louis Vuitton Malletier, S.A. v. My Other Bag, Inc.,
+156 F.Supp.3d 425 (S.D.N.Y.2016).........................................................................................17
+Lugosch v. Pyramid Co. of Onondaga,
+435 F.3d 110 (2d Cir. 2006)......................................................................................................15
+Martindell v. International Telephone & Telegraph Corp.,
+594 F.2d 291 (2d Cir.1979).......................................................................................................22
+MasterCard Intern. Inc. v. Visa Intern. Service Ass'n, Inc.,
+471 F.3d 377 (2d Cir. 2006)......................................................................................................11
+Medical Diagnostic Imaging, PLLC v. Carecore Nat., LLC,
+2009 WL 2135294 (S.D.N.Y. 2009).........................................................................................23
+Newsday LLC v. County of Nassau,
+730 F.3d 156 (2d Cir. 2013)................................................................................................19, 20
+Nixon v. Warner Communications, Inc.,
+98 S.Ct. 1306, 435 U.S. 589 (1978)..........................................................................................24
+S.E.C. v. TheStreet.Com,
+273 F.3d 222 (2d Cir. 2001)......................................................................................................14
+iii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 5 of 31
+Stern v. Cosby,
+529 F.Supp.2d 417 (S.D.N.Y. 2007).........................................................................................16
+U.S. v. Amodeo ("Amodeo I"),
+44 F.3d 141 (2d Cir. 1995).................................................................................................passim
+U.S. v. Amodeo ("Amodeo II"),
+71 F.3d 1044 (2d Cir. 1995)...............................................................................................passim
+Rules
+Fed. R. Civ. P. 24(b)(3).............................................................................................................1, 10
+Other Authorities
+8A Richard L. Marcus,
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)............................................21
+ALAN DERSHOWITZ,TAKING THE STAND:MY LIFE IN THE LAW(2013).......................................24
+"Did Dershowitz Shell Out Big Bucks to Get Settlement in Sex Case?"
+by Vivia Chen, April 12, 2016....................................................................................................9
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)................................................21
+How Alan Dershowitz Bullied Rape Victims to Protect a Serial Child Molester,”
+by Rania Khalek, January 10, 2015............................................................................................5
+The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).........................................3
+Vanity Fair Reminds Us When Jeffrey Epstein Wasn’t aCreep,
+by Ray Gustini, in The Wire (June 21, 2011).............................................................................3
+iv
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 6 of 31
+I. INTRODUCTION
+The Court has before it a request from a non-party (Alan Dershowitz) to intervene in this
+case for the purpose of extractingand publicizing several emails and a draft manuscript from the
+Protective Order that has long been entered in this case. Dershowitz does not seek public access
+of these documents for the legitimate purpose of informing the public on this Court’s
+adjudication of its Article III powers. Instead, Dershowitz make clear that his purpose is to
+advance his own agenda, andcontinue to wage his media war on Ms. Giuffre, as he has already
+appeared on national news calling her a “prostitute” and a “bad mother.”1 This is not the typical
+intervention case where a non-party seeks documents it lacks access to, or where a news
+organization seeks to inform the public on court proceedings. Here, Alan Dershowitz seeks to
+inject himself into this litigation for the wrongful purpose of conducting a public smear
+campaign of Ms. Giuffre. He has no interests beyond his own. And, he has already violated
+another court order directinghim to stop wrongfully leakingconfidential information to the
+media.Unsurprisingly, Dershowitz’s motion fails to cite a single case in which a court granted a
+non-party,who already possessed the sealed documents in dispute,the right to freely disseminate
+those documents in the public domain for self-serving purposes.
+His motion for permissive intervention is committed to the discretion of the Court, and
+the Court should deny it. Fed. R. Civ. P. 24(b)(3); Liz Claiborne, Inc. v. Mademoiselle Knitwear,
+Inc., 1996 WL 346352, at *4 (S.D.N.Y. June 26, 1996) (Sweet, J.) (denying leave to intervene);
+Levin v. U.S., 633 Fed.Appx. 69, 70 (2nd Cir. 2016)(affirming denial of motion to intervene,
+“[b]ecause of the fact-intensive nature of an intervention decision, we review for ‘abuse of
+discretion’ a district court's order denying intervention . . . by permission.”)
+1McCawley Dec. at Exhibit 1, Local 10 News, January 22, 2015.
+1
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 7 of 31
+- Indeed, thedocuments in question could hardly “confirm his absolute innocence.” DE
+364at 1.The documents do not directly bear on Ms. Giuffre’s sworn and detailed statements
+about how Dershowitz sexually abused her,statements that are corroborated by a mountain of
+supporting evidence.2 Instead, according to Dershowitz, these materials create some sort of a
+web of circumstantial inferences suggesting his innocence.His attenuated reasoning hardly
+provides the kind of compelling reason neededto pierce the Protective Order. Instead,
+Dershowitz seeks these documents for the primary purpose of conducting a media blitz against
+Ms. Giuffre in advance of trial –clearlyto assist his joint defense partner, Defendant Maxwell,
+by poisoning the jury pool in this case.
+Dershowitz has no legal basis for his request. The documents in questions are not judicial
+documents, and thus neither a First Amendment nor common law right of access applies.
+Moreover, both the parties in this case have long reasonablyrelied on the existing Protective
+Order. Under that order, numerous documents involving child sex abuse and other sensitive
+subjects have been placed under seal. If Dershowitz is permitted to cherry pick the documents
+that he finds favorable and extract them from the protective order to serve his purposes, it would
+seem only fair that Ms. Giuffre be permitted to lift the protective order from currently-
+confidential documentsand testimonyin the court file which would support herposition.
+This Court entered the Protective Order “upon a showing of good cause.” Dershowitz is
+not a party to this litigation and provides no sound reason for modification. Accordingly, this
+Court should deny Dershowitz’s motion in its entirety.
+2As an overview, Dershowitz, who touted Epstein as a close friend, flew on Jeffrey Epstein’s private jet 15 times
+from 1996 through 2006, which was during the time period that Jeffrey was actively assaulting a number of minor
+children. Twice Dershowitz flew with Sarah Kellen, who was Defendant’s right hand recruiter of these underage
+girls. McCawley Dec at 2,Dershowitz Flights.While Dershowitz said he was “never” in the places where Virginia
+was during the period of 2000 –2002, public records directly contradict this statement and show that he actually had
+an apartment in New York not far from Epstein’s home for a year from 2000 –2001. McCawley Dec. at 3. While
+there is mounting evidence to support Ms. Giuffre’s allegations of Dershowitz’s involvement, that issue is not
+something the Court needs to decide because this case is about Defendant Maxwell’s conduct, not Dershowitz.
+2
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 8 of 31
+II. FACTUAL AND PROCEDURAL BACKGROUND
+A. Abundant Evidence Supports Ms. Giuffre’s Sworn Testimony That Alan
+Dershowitz Sexually Abused Her
+Dershowitz says he needs to see several documents because they will somehow
+“demonstrate that the allegations of sexual misconduct. . . are nothing more than a recent
+fabrication . . . .” DE 364 at 2. To the contrary,they will in no way prove the allegations are a
+“fabrication,” given the mountain of evidence supporting Ms. Giuffre’s sworn testimony.
+Ms. Giuffre has not made vague assertions, but described in detail what Dershowitz did
+to her and where.3 In response to Ms. Giuffre’s sworn testimony, Dershowitz does not arguethat
+any witnesses will be able to provehis innocence. Instead, he tries to build a circumstantial case
+that he could not have committed the sexual abuse. Dershowitz now claims, for example, that at
+the time of the abuse, he was merely “acquainted with Mr. Epstein through academic events . .
+..” DE 364at 4.4 But in 2005 (before news of Epstein’s criminal prosecution broke),Dershowitz
+stated “I’m on my 20th book…The only person outside of my immediate family that I send
+drafts to is Jeffrey.”5 Dershowitz has also been quoted as saying that, even if Epstein went
+bankrupt, “I would be as interested in him as a friend if we had hamburgers on the boardwalk in
+Coney Island and talked about his ideas.”6
+Dershowitz also claims that he never saw “Epstein in the presence of underage girls.” DE
+364at 3.7 This lack of observation is remarkable given that Epstein brazenly and repeatedly
+3Id. at 88-91, McCawley Dec at Exhibit 4, describing Dershowitz’s abuse of her in Epstein’s New York mansion.
+4In earlier media statements, Dershowitz took an even more extreme position, stating that “I have never been alone
+with . . . Jeffrey Epstein.” UMAR News, Jan. 5, 2015. https://www.youtube.com/watch?v=KXzcxsiQv7Q.
+And yet (among other occasions), a flight log shows Epstein and Dershowitz traveling together—alone.
+5The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).
+6Vanity Fair Reminds Us When Jeffrey Epstein Wasn’t a Creep, by Ray Gustini, in The Wire (June 21, 2011).
+7While Dershowitz swore under oath that he never saw any naked photos at Epstein’s Palm Beach mansion, the
+recently released video taken by the Palm Beach Police department during its investigation, reveals naked photos in
+a number of the common areas of Epstein’s Palm Beach home. McCawley Dec. at Exhibit 5.
+3
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 9 of 31
+abused numerous underage girls in his Florida mansion, his New York mansion, and several
+other places that Dershowitz apparently admits he visitedon multiple occasions.
+In 2009, one of Epstein’s household employees, Juan Alessi, testifiedabout the parade of
+young “massage therapists” entering Epstein’s Palm Beach mansion, and that Ms. Giuffre was
+one of the girls who came to Epstein’s mansion.8 Alessi also saw many celebrities came to the
+Florida mansion, including “a very famous lawyer that I’m sure you know, Alan Dershowitz.”
+Id. at 70:9-25. Alessi testified that Dershowitz came to the mansion “pretty often . . . at least four
+or five times a year” and would stayovernight “two [or] three days.” Id. at 73:22-25. Ms.
+Giuffre cameto the house when Dershowitz was there. Id. at 73:18-20. And, importantly,
+Dershowitz got massages while he was visiting Epstein’s home. Id. at 74:1-4.9 The private,
+upstairs room where Dershowitz got his “massages” was the room where Defendant Maxwell
+had “a laundry basket . . . full of those toys.” Id. at 76:11-15.
+In 2009, Epstein’s butler, Alfredo Rodriguez, testified that Dershowitz was at Epstein’s
+mansion when underage girls were there to give massages.10 Rodriguez also testified that
+Dershowitz was present alone at the home of Jeffery Epstein, without his family, in the presence
+of young girls.11 It also appears that Rodriguez would later circle Dershowitz’s name in Epstein’s
+address book as among the people with important information for the FBI to collect regarding
+sex trafficking. In addition, Sarah Kellen, Nadia Marcinkova, and Adrianna Mucinskaall
+8Juan Alessi Depo. at 46:21-47:4, 48:18-25, Jane Doe No. 2 v. Epstein, No. 9:08-cv-80119-cv-KAM (S.D. Fla.
+Sept. 8, 2009), McCawley Dec at Exhibit 6.
+9While Dershowitz loudly proclaimed to the media that he had “never” received a massage at Jeffrey Epstein’s
+home, he later retracted that knowingly false statement and admitted to having a massage. McCawley Dec at Exhibit
+7.
+10Alfredo Rodriguez Depo. at 278:13-25, 279:9-280:2, Jane Doe No. 2 v. Epstein(excerpts attached as Exhibit 8).
+11Id. at 199:12-13, 279:9-12, 426:16-25, 427:1.
+4
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 10 of 31
+implicated Dershowitz by invoking their Fifth Amendment right against self-incrimination12
+when asked questions about Dershowitz’s connection to Epstein’s abuse, including a specific
+question about whether Dershowitz had been involved with massages by young girls. McCawley
+Dec., Composite Ex. 9.13
+Finally, in Dershowitz’s vociferous attacks on Ms. Giuffre here, the Court will see an
+eeri

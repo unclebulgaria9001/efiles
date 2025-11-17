@@ -1,0 +1,224 @@
+================================================================================
+EMAIL EXTRACTION FROM: 1325-14.pdf
+================================================================================
+
+Subject: 
+Date: 01/04/24
+Source PDF: 1325-14.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 1 of 30
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+================================================================================
+REPLY 1
+================================================================================
+
+/
+PLAINTIFF’S CORRECTED1 RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION FOR DEFENDANT’S RULE 37(b) &(c) SANCTIONS FOR FAILURE TO
+COMPLY WITH COURT ORDER AND FAILURE TO COMPLY WITH RULE 26(a)
+-
+-1 Due to inadvertence, one of the medical providers Ms. Giuffre disclosed to Defendant, and
+from whom she diligently sought medical records as far back as March of this year, Dr. Mona
+Devanesan, was left off of Ms. Giuffre’s medical provider chart. It has been added in this version
+of the brief for increased accuracy. There are no other changes.
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 2 of 30
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORTIES ........................................................................................................... ii
+INTRODUCTION .......................................................................................................................... 1
+FACTUAL BACKGROUND ......................................................................................................... 2
+I. MEDICAL PROVIDER IDENTITIES................................................................................2
+II. MEDICAL RECORDS ........................................................................................................7
+A. -Dr. Donahue ............................................................................................................ 9
+B. Dr. Hayek ................................................................................................................ 9
+C. Dr. Kutikoff, Wellington Imaging Associates (“Wellington Imaging”) , and
+Growing Together ................................................................................................. 10
+D. -Ms. Lightfoot ........................................................................................................ 10
+E. Dr. Olson ............................................................................................................... 11
+III. MS. GIUFFRE HAS PROVIDED DISCOVERY IN ACCORDANCE WITH HER
+DISCOVERY OBLIGATIONS .........................................................................................12
+IV. DEFENDANT CAN SHOW NO PREJUDICE ................................................................13
+V. MS. GIUFFRE HAS BEEN FULLY COMPLIANT IN DISCOVERY ...........................15
+LEGAL ARGUMENT .................................................................................................................. 17
+I. DEFENDANT CANNOT SHOW NON-COMPLIANCE, AND HAS PUT FORTH
+NO COLORABLE LEGAL ARGUMENT FOR SANCTIONS .......................................17
+II. THERE WAS NO INFORMATION “WITHHELD”, AND THEREFORE, NO
+PREJUDICE ......................................................................................................................19
+III. MS. GIUFFRE HAS FULFILLED HER REQUIREMENTS REGARDING HER
+RULE 26 DISCLOSURES ................................................................................................19
+IV. THIS COURT SHOULD NOT STRIKE MS. GIUFFRE’S CLAIMS FOR
+MEDICAL AND EMOTIONAL DISTRESS DAMAGES ...............................................22
+CONCLUSION ............................................................................................................................. 23
+i
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 3 of 30
+TABLE OF AUTHORITIES
+Page
+Cases
+Candelaria v. Erickson,
+2006 WL 1636817 (S.D.N.Y. 2006) ........................................................................................ 12
+Celle v. Filipino Reporter Enters. Inc.,
+209 F.3d 163 (2d Cir.2000)...................................................................................................... 20
+Design Strategy, Inc. v. Davis,
+469 F.3d 284 (2d Cir. 2006)..................................................................................................... 14
+Gurvey v. Cowan, Liebowitz & Lathman, P.C.,
+2014 WL 715612 (S.D.N.Y. 2014) .......................................................................................... 18
+In re Consol. RNC Cases,
+2009 WL 130178 (S.D.N.Y. Jan. 8, 2009) ......................................................................... 22, 23
+In re Dana Corp.,
+574 F.3d 129 (2d Cir. 2009)....................................................................................................... 6
+In re Weiss,
+703 F.2d 653 (S.D.N.Y. 1983) ................................................................................................. 18
+Murray v. Miron,
+2015 WL 4041340 (D. Conn., July 1, 2015) ........................................................................... 21
+Naylor v. Rotech Healthcare, Inc.,
+679 F. Supp. 2d 505 (D. Vt. 2009)..................................................................................... 20, 21
+Nittolo v. Brand,
+96 F.R.D. 672 (S.D.N.Y.1983) ................................................................................................. 22
+Robertson v. Dowbenko,
+443 F. App'x 659 (2d Cir. 2011) .......................................
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 1 of 30
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S CORRECTED1 RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION FOR DEFENDANT’S RULE 37(b) &(c) SANCTIONS FOR FAILURE TO
+COMPLY WITH COURT ORDER AND FAILURE TO COMPLY WITH RULE 26(a)
+-
+-1 Due to inadvertence, one of the medical providers Ms. Giuffre disclosed to Defendant, and
+from whom she diligently sought medical records as far back as March of this year, Dr. Mona
+Devanesan, was left off of Ms. Giuffre’s medical provider chart. It has been added in this version
+of the brief for increased accuracy. There are no other changes.
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 2 of 30
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORTIES ........................................................................................................... ii
+INTRODUCTION .......................................................................................................................... 1
+FACTUAL BACKGROUND ......................................................................................................... 2
+I. MEDICAL PROVIDER IDENTITIES................................................................................2
+II. MEDICAL RECORDS ........................................................................................................7
+A. -Dr. Donahue ............................................................................................................ 9
+B. Dr. Hayek ................................................................................................................ 9
+C. Dr. Kutikoff, Wellington Imaging Associates (“Wellington Imaging”) , and
+Growing Together ................................................................................................. 10
+D. -Ms. Lightfoot ........................................................................................................ 10
+E. Dr. Olson ............................................................................................................... 11
+III. MS. GIUFFRE HAS PROVIDED DISCOVERY IN ACCORDANCE WITH HER
+DISCOVERY OBLIGATIONS .........................................................................................12
+IV. DEFENDANT CAN SHOW NO PREJUDICE ................................................................13
+V. MS. GIUFFRE HAS BEEN FULLY COMPLIANT IN DISCOVERY ...........................15
+LEGAL ARGUMENT .................................................................................................................. 17
+I. DEFENDANT CANNOT SHOW NON-COMPLIANCE, AND HAS PUT FORTH
+NO COLORABLE LEGAL ARGUMENT FOR SANCTIONS .......................................17
+II. THERE WAS NO INFORMATION “WITHHELD”, AND THEREFORE, NO
+PREJUDICE ......................................................................................................................19
+III. MS. GIUFFRE HAS FULFILLED HER REQUIREMENTS REGARDING HER
+RULE 26 DISCLOSURES ................................................................................................19
+IV. THIS COURT SHOULD NOT STRIKE MS. GIUFFRE’S CLAIMS FOR
+MEDICAL AND EMOTIONAL DISTRESS DAMAGES ...............................................22
+CONCLUSION ............................................................................................................................. 23
+i
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 3 of 30
+TABLE OF AUTHORITIES
+Page
+Cases
+Candelaria v. Erickson,
+2006 WL 1636817 (S.D.N.Y. 2006) ........................................................................................ 12
+Celle v. Filipino Reporter Enters. Inc.,
+209 F.3d 163 (2d Cir.2000)...................................................................................................... 20
+Design Strategy, Inc. v. Davis,
+469 F.3d 284 (2d Cir. 2006)..................................................................................................... 14
+Gurvey v. Cowan, Liebowitz & Lathman, P.C.,
+2014 WL 715612 (S.D.N.Y. 2014) .......................................................................................... 18
+In re Consol. RNC Cases,
+2009 WL 130178 (S.D.N.Y. Jan. 8, 2009) ......................................................................... 22, 23
+In re Dana Corp.,
+574 F.3d 129 (2d Cir. 2009)....................................................................................................... 6
+In re Weiss,
+703 F.2d 653 (S.D.N.Y. 1983) ................................................................................................. 18
+Murray v. Miron,
+2015 WL 4041340 (D. Conn., July 1, 2015) ........................................................................... 21
+Naylor v. Rotech Healthcare, Inc.,
+679 F. Supp. 2d 505 (D. Vt. 2009)..................................................................................... 20, 21
+Nittolo v. Brand,
+96 F.R.D. 672 (S.D.N.Y.1983) ................................................................................................. 22
+Robertson v. Dowbenko,
+443 F. App'x 659 (2d Cir. 2011) .............................................................................................. 20
+Scheel v. Harris,
+No. CIV.A. 3:11-17-DCR, 2012 WL 3879279 (E.D. Ky. Sept. 6, 2012) ................................ 21
+Skywark v. Isaacson,
+1999 WL 1489038 (S.D.N.Y. Oct. 14, 1999) ........................................................................... 22
+ii
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 4 of 30
+-R-u-le-s
+Fed. R. Civ. P. 26 ................................................................................................................... passim
+Fed. R. Civ. P. 26(a) ................................................................................................................. 1, 19
+Fed. R. Civ. P. 26(a)(1) ................................................................................................................. 21
+Fed. R. Civ. P. 26(a)(1)(A)(iii) ..................................................................................................... 21
+Fed. R. Civ. P. 26(a)(5) ................................................................................................................... 6
+Fed. R. Civ. P. 37 .................................................................................................................... 18, 24
+Fed. R. Civ. P. 37 (b) & (c) ............................................................................................................. 1
+Fed. R. Civ. P. 37(c)(1) ................................................................................................................. 21
+iii
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 5 of 30
+INTRODUCTION
+As more and more witnesses come forward testifying about Defendant’s involvement in
+the sexual abuse of young girls, Defendant’s discovery arguments have become more removed
+from the merits of this case and increasingly strident in their tone. The latest example of this
+genre is the instant motion in which the Defendant boldly proclaims that Ms. Giuffre is “playing
+a game of catch and release” by deliberately “withholding information” regarding her medical
+care. Yet the basis for these strong charges turns out to be nothing more than the fact that, when
+asked to produce a listing of medical care providers that Ms. Giuffre has seen in the last
+seventeen years – during a period of time when she lived in Australia, then Florida, then
+Colorado, finally returning to Australia – she was unable to recall all of the providers. Ms.
+Giuffre and her attorneys have worked diligently to provide this listing to Defendant and, as new
+information has become available, or as Ms. Giuffre has been able to recall another provider, the
+information has been disclosed. Indeed, Ms. Giuffre signed every medical records release that
+Defendant requested. There has been no deliberate “withholding” of information, much less
+withholding of information that would warrant the extreme sanction of precluding Ms. Giuffre
+from presenting her claims to a jury.
+Moreover, this baseless motion for sanctions comes on the heels of disturbing testimony
+corroborating what lies at the core of this case –Defendant was involved in facilitating the sexual
+abuse of young girls with Jeffrey Epstein. One witness, Rinaldo Rizzo, was in tears as he
+recounted Defendant bringing a 15-year-old girl to his employer’s home who, in utmost distress,
+told him that Defendant stole the young girl’s passport and tried to make her have sex with
+1
+Case 1:15-cv-07433-LAP Document 1325-14 Filed 01/04/24 Page 6 of 30
+Epstein, and then threatened her.2 Mr. Rizzo also testified that he watched Maxwell direct a
+room full of underage girls to kiss, dance, and touch one another in a sexual way for Defendant
+and Epstein to watch.3 Anotherwitness, Joanna Sjoberg, testified that Defendant recruited her
+from her school campus to have sex with Epstein with lies about being her personal assistant.4
+Two other witnesses, one an underage victim ( ) and the other,the police detective
+who ultimately ended up investigating Epstein (Detective Joseph Recarey, Retired), gave
+testimony about how Epstein used other women to recruit minorsto have sex with him.5 Most
+recently, a witness testified that Defendant would call him and ask him to bring over young girls
+that she would provide to Epstein.See McCawley Decl. at Exhibit 9,ROUGHDeposition
+Transcript of Tony Figueroa at 162:8-19. It is against this backdrop that Defendant has filed a
+motion seeking sanctions. The motion is a transparent effort to deflect attention from the merits
+of Ms. Giuffre’sclaim by inventing “willful” discovery violations and should be rejected in its
+entirety.
+FACTUAL BACKGROUND
+I. MEDICAL PROVIDER IDENTITIES
+As the Court is aware, Defendant has requested that Ms. Giuffre provide the names

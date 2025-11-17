@@ -1,0 +1,443 @@
+====================================================================================================
+EMAIL #0129 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1330.16_1.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        5,206
+Character Count:   32,899
+Categories:        legal, correspondence
+Key People:        maxwell, andrew, giuffre, dershowitz, epstein
+Key Locations:     florida, new york
+Type:              Reply
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, correspondence | Key People: maxwell, andrew, giuffre, dershowitz, epstein | Type: Reply
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+i
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S RESPONSE TO PLAINTIFF’S MOTION TO COMPEL
+DATA FROM DEFENDANT’S (NON-EXISTENT) UNDISCLOSED EMAIL
+ACCOUNT AND FOR AN ADVERSE INFERENCE INSTRUCTION
+.............................................
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 1 of 17
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 2 of 17
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+ARGUMENT .................................................................................................................................. 1
+I. PLAINTIFF HAS FAILED TO CONFER UNDER RULE 37(A)(1) OR THIS COURT’S
+ORDER.................................................................................................................................... 1
+II. MS. MAXWELL HAS DISCLOSED AND SEARCHED ALL EMAIL ACCOUNTS ........ 3
+III. SANCTIONS AGAINST MS. MAXWELL NOT WARRANTED, RATHER COSTS
+OUGHT TO BE AWARDED TO HER .............................................................................. 7
+CONCLUSION ............................................................................................................................. 13
+CERTIFICATE OF SERVICE ..................................................................................................... 15
+i
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 3 of 17
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Response to Plaintiff’s Motion
+To Compel Data From Defendant’s (Non-Existent) Undisclosed Email Account and For an
+Adverse Inference Instruction and states as follow:
+INTRODUCTION
+Plaintiff continues in her course of re-litigating issues, multiplying these proceedings and
+misstating the record. In what amounts to the fourth Motion on forensic examination of Ms.
+Maxwell’s computers and email accounts, Plaintiff now trumps up a claim that some unidentified
+and “undisclosed” email account should have been searched and was not. To the contrary, Ms.
+Maxwell has spent thousands of dollars to forensically image all of her devices, searching every
+account to which she has access, conducting extremely broad and over-reaching searches for the
+search terms Plaintiff requested and in complying with this Court’s Orders. The result of these
+exercises proved, as Ms. Maxwell has always maintained, that all non-privileged relevant and
+responsive documents in her possession, custody and control had already been searched for and
+produced prior to the excessive and redundant briefing on these issues, resulting in no additional
+production. Plaintiff’s Motion must be denied because no “undisclosed” email account exists
+and Ms. Maxwell has fully complied with this Court’s Orders.
+ARGUMENT
+I. PLAINTIFF HAS FAILED TO CONFER UNDER RULE 37(A)(1) OR THIS
+COURT’S ORDER
+Despite the clear requirements of Rule 37(a)(1) requiring a certificate of conferral prior to
+filing any motion to compel, and this Court’s standing order regarding conferral on all discovery
+issues prior to Motions practice, the sum total of Plaintiff’s stated conferral attempt is a footnote
+stating that a letter was sent on September 23, 2016 “inquiring about the undisclosed account” –
+a letter not included in the exhibits to the Motion. Ms. Maxwell has been clear that she has
+1
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 4 of 17
+searched all accounts that she can access. Had Plaintiff bothered to follow up on this alleged
+communication, Ms. Maxwell would have reaffirmed that there is no “undisclosed” email
+account. Instead, Plaintiff filed this frivolous and vexatious motion to waste both the Court and
+Ms. Maxwell’s time and needlessly multiply these proceedings.
+Courts in this district routinely deny motions based on failure to confer prior to the
+motion when such conferral is required by the Rules or Court Order. Prescient Partners, L.P. v.
+Fieldcrest Cannon, Inc., No. 96 Civ. 7590 (DAB) JCF, 1998 WL 67672, at *3 (S.D.N.Y. 1998)
+(“Under ordinary circumstances,..., the failure to meet and confer mandates denial of a motion to
+compel.”); Excess Ins. Co. v. Rochdale Ins. Co., No. 05 CIV. 10174, 2007 WL 2900217, at *1
+(S.D.N.Y. Oct. 4, 2007) (Sweet, J.) (denying motion and cross motion based on failure to confer,
+noting “[m]ere correspondence, absent exigent circumstances not present here, does not satisfy
+the requirement”); Myers v. Andzel, No. 06 CIV. 14420 (RWS), 2007 WL 3256865, at *1
+(Sweet, J.) (S.D.N.Y. Oct. 15, 2007) (denying motion based on failure to confer).
+The Court has been abundantly clear on the necessity for conferral prior to motions
+practice. In the March 17, 2016 hearing, the Court ordered that prior to motions practice, the
+parties were to set an agenda on the disputed issue in writing and have a meeting of substance
+prior to filing a motion. “So I would say exchange writing as to what it's going to be and have a
+meeting. It doesn't have to be in person, but it certainly has to be a significant meeting; it can't
+be just one ten-minute telephone call. So that's how I feel about the meet and confer.” Tr. p. 3.
+As shown in the Plaintiff’s motion, no such call has occurred.
+Based on Plaintiff’s failure to confer as required by both the Federal Rules and this
+Court’s standing order, Ms. Maxwell requests that the Motion be denied and attorneys’ fees and
+costs of responding be awarded to Ms. Maxwell.
+2
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 5 of 17
+II. MS. MAXWELL HAS DISCLOSED AND SEARCHED ALL EMAIL ACCOUNTS
+a. All Devices Have Been Forensically Searched for Responsive Emails
+As requested by Plaintiff and Ordered by the Court, Ms. Maxwell’s computer and all of
+her electronic devices have been forensically imaged, searched for the search terms requested by
+Plaintiff, and all responsive documents produced. This expensive, costly and time consuming
+exercise in futility simply confirmed that all responsive documents, including all responsive
+emails, were produced in March and April 2016.
+Most significantly, the devices were searched for all emails—whether saved or deleted –
+and irrespective of which account they came from; not a single r-esponsive email was located
+from any Mindspring account and no emails were located from Earthlink or any other secret,
+hidden,“undisclosed” e-mail account, as Plaintiff speculates must exist.
+b. TheMindSpring account
+The first two accounts discussed in the Motion have already been fully discussed in prior
+briefings and at length in conferral conferences.1 SeeDE 320. In addition to the search of Ms.
+Maxwell’s computer and devices, the first account, was forensically
+searched on its server using the search terms proposed by Defendants and as required by the
+Court. The search uncovered no responsive documents from any time period. SeeDE 320. This
+included both emails in -the account, deleted emails, and any other information relating to the
+account retained on the MindSpring server. There can simply be no claim for an adverse
+inference where Plaintiff has already received exactly what she requested – a forensic search of
+the account for her own defined terms. It resulted in nothing.
+1Plaintiff conveniently omits the fact that the EarthLink and MindSpring accounts were in an address book
+purportedly recoveredfrom Mr. Epstein’s homeby the Palm Beach Police in 2005. Thus, there is no indication or
+inference that either of these accounts were created or used in the 2000 to 2002 time frame as Plaintiff claims.
+3
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 6 of 17
+c. TheEarthLink account
+The second account, , is, as Ms. Maxwell has repeatedly explained
+to Plaintiff’s counsel, an account that she does not recognize, that she does not recall having ever
+logged onto, and for whic-h she has no password. SeeDE 320. Ms. Maxwell tried every avenue
+available online through EarthLink to reset the password or otherwise access the account. In
+fact, when one attempts to recover a password for that account, the system states “The email
+address you entered is not an EarthLink email address or ID.” According to Plaintiff, such a
+message means the account has been permanently deleted by the host company. Plaintiff’s
+counsel, Meredith Shultz, wrote on May 17, 2016, regarding an account of Plaintiff’s (that she
+claims she cannot access but for which relevant and responsive emails were located on her
+computer): -
+“Regarding her live.com address, it appears that the account has been
+permanently deleted by the host Company. One method of telling if an account
+still exists for live.com (and for most web mail systems) is to perform an
+account password recovery. When you enter the e-mail address and enter the
+captca code and hit Next, the website states that it does not recognize the email
+address. This means that the account has been permanently deleted from
+live.com’s system.”
+Menninger Decl., Ex. A. -
+Plaintiff does not, and cannot, explain why she thinks that her own live.com email
+address has been permanently deleted by the host company, yet based on the exact same set of
+data, she thinks that an email account that Ms. M-axwell does not recall ever using (and from
+which no documents exist on her devices) from Earthlink still remains on its system. If there is
+some way to access the account, Plaintiff hasn’t said what it is. Ms. Maxwell simply has no way
+to access this account and has no information, save Plaintiff’s rank speculation.2
+-
+2 Plaintiff has an account from which actual documents have been produced – proving she did use the
+account (unlike Ms. Maxwell’s EarthLink account) an
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+i
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S RESPONSE TO PLAINTIFF’S MOTION TO COMPEL
+DATA FROM DEFENDANT’S (NON-EXISTENT) UNDISCLOSED EMAIL
+ACCOUNT AND FOR AN ADVERSE INFERENCE INSTRUCTION
+.............................................
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 1 of 17
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 2 of 17
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+ARGUMENT .................................................................................................................................. 1
+I. PLAINTIFF HAS FAILED TO CONFER UNDER RULE 37(A)(1) OR THIS COURT’S
+ORDER.................................................................................................................................... 1
+II. MS. MAXWELL HAS DISCLOSED AND SEARCHED ALL EMAIL ACCOUNTS ........ 3
+III. SANCTIONS AGAINST MS. MAXWELL NOT WARRANTED, RATHER COSTS
+OUGHT TO BE AWARDED TO HER .............................................................................. 7
+CONCLUSION ............................................................................................................................. 13
+CERTIFICATE OF SERVICE ..................................................................................................... 15
+i
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 3 of 17
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Response to Plaintiff’s Motion
+To Compel Data From Defendant’s (Non-Existent) Undisclosed Email Account and For an
+Adverse Inference Instruction and states as follow:
+INTRODUCTION
+Plaintiff continues in her course of re-litigating issues, multiplying these proceedings and
+misstating the record. In what amounts to the fourth Motion on forensic examination of Ms.
+Maxwell’s computers and email accounts, Plaintiff now trumps up a claim that some unidentified
+and “undisclosed” email account should have been searched and was not. To the contrary, Ms.
+Maxwell has spent thousands of dollars to forensically image all of her devices, searching every
+account to which she has access, conducting extremely broad and over-reaching searches for the
+search terms Plaintiff requested and in complying with this Court’s Orders. The result of these
+exercises proved, as Ms. Maxwell has always maintained, that all non-privileged relevant and
+responsive documents in her possession, custody and control had already been searched for and
+produced prior to the excessive and redundant briefing on these issues, resulting in no additional
+production. Plaintiff’s Motion must be denied because no “undisclosed” email account exists
+and Ms. Maxwell has fully complied with this Court’s Orders.
+ARGUMENT
+I. PLAINTIFF HAS FAILED TO CONFER UNDER RULE 37(A)(1) OR THIS
+COURT’S ORDER
+Despite the clear requirements of Rule 37(a)(1) requiring a certificate of conferral prior to
+filing any motion to compel, and this Court’s standing order regarding conferral on all discovery
+issues prior to Motions practice, the sum total of Plaintiff’s stated conferral attempt is a footnote
+stating that a letter was sent on September 23, 2016 “inquiring about the undisclosed account” –
+a letter not included in the exhibits to the Motion. Ms. Maxwell has been clear that she has
+1
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 4 of 17
+searched all accounts that she can access. Had Plaintiff bothered to follow up on this alleged
+communication, Ms. Maxwell would have reaffirmed that there is no “undisclosed” email
+account. Instead, Plaintiff filed this frivolous and vexatious motion to waste both the Court and
+Ms. Maxwell’s time and needlessly multiply these proceedings.
+Courts in this district routinely deny motions based on failure to confer prior to the
+motion when such conferral is required by the Rules or Court Order. Prescient Partners, L.P. v.
+Fieldcrest Cannon, Inc., No. 96 Civ. 7590 (DAB) JCF, 1998 WL 67672, at *3 (S.D.N.Y. 1998)
+(“Under ordinary circumstances,..., the failure to meet and confer mandates denial of a motion to
+compel.”); Excess Ins. Co. v. Rochdale Ins. Co., No. 05 CIV. 10174, 2007 WL 2900217, at *1
+(S.D.N.Y. Oct. 4, 2007) (Sweet, J.) (denying motion and cross motion based on failure to confer,
+noting “[m]ere correspondence, absent exigent circumstances not present here, does not satisfy
+the requirement”); Myers v. Andzel, No. 06 CIV. 14420 (RWS), 2007 WL 3256865, at *1
+(Sweet, J.) (S.D.N.Y. Oct. 15, 2007) (denying motion based on failure to confer).
+The Court has been abundantly clear on the necessity for conferral prior to motions
+practice. In the March 17, 2016 hearing, the Court ordered that prior to motions practice, the
+parties were to set an agenda on the disputed issue in writing and have a meeting of substance
+prior to filing a motion. “So I would say exchange writing as to what it's going to be and have a
+meeting. It doesn't have to be in person, but it certainly has to be a significant meeting; it can't
+be just one ten-minute telephone call. So that's how I feel about the meet and confer.” Tr. p. 3.
+As shown in the Plaintiff’s motion, no such call has occurred.
+Based on Plaintiff’s failure to confer as required by both the Federal Rules and this
+Court’s standing order, Ms. Maxwell requests that the Motion be denied and attorneys’ fees and
+costs of responding be awarded to Ms. Maxwell.
+2
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 5 of 17
+II. MS. MAXWELL HAS DISCLOSED AND SEARCHED ALL EMAIL ACCOUNTS
+a. All Devices Have Been Forensically Searched for Responsive Emails
+As requested by Plaintiff and Ordered by the Court, Ms. Maxwell’s computer and all of
+her electronic devices have been forensically imaged, searched for the search terms requested by
+Plaintiff, and all responsive documents produced. This expensive, costly and time consuming
+exercise in futility simply confirmed that all responsive documents, including all responsive
+emails, were produced in March and April 2016.
+Most significantly, the devices were searched for all emails—whether saved or deleted –
+and irrespective of which account they came from; not a single r-esponsive email was located
+from any Mindspring account and no emails were located from Earthlink or any other secret,
+hidden,“undisclosed” e-mail account, as Plaintiff speculates must exist.
+b. TheMindSpring account
+The first two accounts discussed in the Motion have already been fully discussed in prior
+briefings and at length in conferral conferences.1 SeeDE 320. In addition to the search of Ms.
+Maxwell’s computer and devices, the first account, was forensically
+searched on its server using the search terms proposed by Defendants and as required by the
+Court. The search uncovered no responsive documents from any time period. SeeDE 320. This
+included both emails in -the account, deleted emails, and any other information relating to the
+account retained on the MindSpring server. There can simply be no claim for an adverse
+inference where Plaintiff has already received exactly what she requested – a forensic search of
+the account for her own defined terms. It resulted in nothing.
+1Plaintiff conveniently omits the fact that the EarthLink and MindSpring accounts were in an address book
+purportedly recoveredfrom Mr. Epstein’s homeby the Palm Beach Police in 2005. Thus, there is no indication or
+inference that either of these accounts were created or used in the 2000 to 2002 time frame as Plaintiff claims.
+3
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 6 of 17
+c. TheEarthLink account
+The second account, , is, as Ms. Maxwell has repeatedly explained
+to Plaintiff’s counsel, an account that she does not recognize, that she does not recall having ever
+logged onto, and for whic-h she has no password. SeeDE 320. Ms. Maxwell tried every avenue
+available online through EarthLink to reset the password or otherwise access the account. In
+fact, when one attempts to recover a password for that account, the system states “The email
+address you entered is not an EarthLink email address or ID.” According to Plaintiff, such a
+message means the account has been permanently deleted by the host company. Plaintiff’s
+counsel, Meredith Shultz, wrote on May 17, 2016, regarding an account of Plaintiff’s (that she
+claims she cannot access but for which relevant and responsive emails were located on her
+computer): -
+“Regarding her live.com address, it appears that the account has been
+permanently deleted by the host Company. One method of telling if an account
+still exists for live.com (and for most web mail systems) is to perform an
+account password recovery. When you enter the e-mail address and enter the
+captca code and hit Next, the website states that it does not recognize the email
+address. This means that the account has been permanently deleted from
+live.com’s system.”
+Menninger Decl., Ex. A. -
+Plaintiff does not, and cannot, explain why she thinks that her own live.com email
+address has been permanently deleted by the host company, yet based on the exact same set of
+data, she thinks that an email account that Ms. M-axwell does not recall ever using (and from
+which no documents exist on her devices) from Earthlink still remains on its system. If there is
+some way to access the account, Plaintiff hasn’t said what it is. Ms. Maxwell simply has no way
+to access this account and has no information, save Plaintiff’s rank speculation.2
+-
+2 Plaintiff has an account from which actual documents have been produced – proving she did use the
+account (unlike Ms. Maxwell’s EarthLink account) and it contains relevant information. Yet Plaintiff claims she
+4
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 7 of 17
+-
+Beca-use Plaintiff claimed she cannot access her Microsoft account, Ms. Maxwell
+subpoenaed Microsoft for the documents. Plaintiff moved to quash the subpoena to obtain the
+information contained in the account and has refused to sign the release provided to her that
+-would allow the production of that information under the terms of a subpoena issued- to
+Microsoft. Menninger Decl,. Ex. B. Tellingly, Plaintiff did not issue a subpoena to EarthLink
+regarding this account to see if it existed, has content or could be accessed. Instead, she seeks
+the drastic and improper sanction of an adver-se inference knowing that it is far more beneficial to
+her than actually receiving information from EarthLink which would reveal nothing exists.
+d. There is no “Undisclosed” Account
+Plaintiff next argues that she is entitled to an adverse inference based on the failure to
+search a phantom e-mail account that she presumes (without support and based on pure
+speculation) must have existed, which she has never asked about in discovery, claiming that such
+an account was improperly “undisclosed” and not searched. Plaintiff bases her absurd argument
+on statistics suggesting that someone like Ms. Maxwell “likely” had an email account in the 2000
+to 2002 timeframe and a specious claim that Ms. Maxwell has never denied having an email
+account from 2000 to 2002. Motion at 2. Notably absent from the Motion is a single
+interrogatory, request for admission, or deposition question in which Ms. Maxwell was asked to
+provide all email addresses she has used or asked if she ever had an email account in 2000 to
+2002. No such question was ever posed to Ms. Maxwell on this issue.3 How could she possibly
+deny the existence of an account when she was never asked the question?
+-
+cannot access her Microsoft account because she does not remember the password and does not have sufficient
+personal information to provide to gain access to the account. DE 207; DE 441. This is not dissimilar to Ms.
+Maxwell who does not even remember the account let alone the password.
+3 By contrast, Ms. Maxwell requested that Plaintiff identify all email and social media accounts which she
+had used since 1998. Plaintiff provided false information, and purposefully omitted accounts that have since been
+discovered, one of which Plaintiff still has failed to forensically search and disclose its responsive documents.
+5
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 8 of 17
+Plaintiff asks this Court to infer the existence of an undisclosed “email” account for Ms.
+Maxwell in the 2000-2002 timeframe based on witness accounts that Jeffrey Epstein had a
+“messaging system” on a private server. Of course, there is a big difference between having a
+private email account (gmail, aol, yahoo, etc.) and communicating through a private messaging
+system on an employer’s sever, as described by Mr. Alessi (“It was a server. I think it was --the
+office would have, like, a message system between him, the houses, the employees, his friends.
+They would write a message on the computer. There was no email at that time.”).4 To the
+extent there was a private messaging system used by Mr. Epstein’s household employees
+maintained on a private server by Mr. Epstein, information from that system is not available to
+Ms. Maxwell. Ms. Maxwell has not been employed by Mr. Epstein for over 10 years and has not
+had any access to Mr. Epstein’s server through Citrix or otherwise since at least the end of her
+employment with him.
+“Whether a party subject to a document request can be compelled to comply depends on
+two preliminary questions: (1) assuming the requested documents exist, does the party have
+possession, custody or control over them, and (2) if the party has such possession, custody or
+control, can the party be compelled to conduct a reasonable search for and, if found, to produce
+the documents.” Gross v. Lunduski, 304 F.R.D. 136, 142 (W.D.N.Y. 2014). Ms. Maxwell is not
+in the possession, custody or control of the server or any information it may contain. “Where
+4 It appears this is what was also being described by Mr. Banasiak in the deposition from another case, a
+full copy of which has never been produced in this litigation. Indeed, Mr. Banasiak has not been identified as a
+person with relevant or discoverable information in any of the last three of Plaintiff’s Rule 26 Disclosures. In the
+cited testimony, Mr. Banasiak appears to have discussed accessing a private messaging system maintained on Mr.
+Epstein’s private server using Citrix, a program that allows such access to authorized users. Because Plaintiff has
+failed to disclose the transcript being quoted, Ms. Maxwell cannot fully decipher the obviously edited testimony
+quoted in the Motion, does not know what timeframe Mr. Banasiak was referring to regarding the computers or
+using Citrix, and cannot respond to the claims made regarding the nature of any inference that could be drawn from
+Mr. Banasiak’s selected testimony. The entire argument and reference to the transcript must be ignored and stricken
+based on Plaintiff’s failure to produce in discovery the transcript she relies on.
+6
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 9 of 17
+control is contested, the party seeking production of documents bears the burden of establishing
+the opposing party's control over those documents.” Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 CIV. 6608 (PKC) (JCF), 2014 WL 61472, at *3 (S.D.N.Y. Jan. 6, 2014). Plaintiff has
+made no showing that Ms. Maxwell has any control over the hypothetical documents she
+suspects may be on Mr. Epstein’s private server. As has been made clear by Mr. Epstein’s
+refusal to produce any documents in this matter or provide any testimony, instead invoking his
+Fifth Amendment privilege, there is no manner in which Ms. Maxwell could require Mr. Epstein
+to provide any information on Mr. Epstein’s private server. Notably, no such “messages” were
+located on any of Ms. Maxwell’s devices or within her email accounts.
+Simply put, there are no emails from any accounts, systems or electronic storage devices
+over which Ms. Maxwell has possession, custody or control that have not been searched and
+from which responsive non-privileged documents produced.
+III. SANCTIONS AGAINST MS. MAXWELL NOT WARRANTED, RATHER COSTS
+OUGHT TO BE AWARDED TO HER
+Plaintiff completely fails to identify which, if any, of the Rules of Civil Procedure she
+relies on to claim any right to request sanctions, let alone to receive an adverse inference
+instruction. The argument appears premised on a claim that Ms. Maxwell has not complied with
+the Court’s Order – a completely inaccurate claim:
+On June 20, 2016, this Court ordered:
+Defendant is ordered to collect all ESI by imaging her computers and collecting all email
+and text messages on any devices in Defendant's possession or to which she has access
+that Defendant used between the period of 2002 to present. Defendant is further directed
+to run mutually- agreed upon search terms related to Plaintiff's requests for production
+over the aforementioned ESI and produce responsive documents within 21 days of
+distribution of this opinion.
+This was done. Plaintiff then expanded her request, imposed additional search terms, and
+added conditions concerning the manner in which she wanted devices searched. On August 9,
+7
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 10 of 17
+2016, the Court entered an Order adopting Plaintiff’s expanded request and methodology. All
+accessible email accounts and devices, including deleted files and emails, were searched – again
+– at significant expense. Again, no additional non-privileged responsive documents were
+located. There is no non-compliance and no basis for any sanctions, let alone the draconian
+sanction of an adverse inference.
+a. Plaintiff Fails to Identify or Prove the Factors Required for Sanctions
+Based on Alleged Violation of a Court Order
+Absent from Plaintiff’s motion is the actual legal standard required for imposition of
+sanctions, and certainly no argument or citation exist in this case to carry the burden of
+establishing the factors. In light of the fact that Ms. Maxwell has complied, Plaintiff has failed to
+demonstrate the minimum hurdle for any sanction. Thus, the factors are not addressed here, nor
+can they be addressed on Reply. What is clear is that the sanction of an adverse inference is not
+identified as a sanction that should or could be considered under the rules concerning the failure
+to comply with a Court Order. See Fed. R. Civ. P. 37(b)(2)(A).
+b. Controlling Law Prohibits an Adverse Inference Instruction
+An adverse inference instruction is considered an “extreme sanction” that “should not be
+given lightly.” Zubulake v. UBS Warburg LLC, 220 F.R.D. 212, 220 (S.D.N.Y. 2003). More
+importantly Plaintiff completely ignores the 2015 changes to Fed. R. Civ. P 37(e)(2), which now
+permits an adverse inference instruction only when the court finds that a spoliating party
+purposefully and willfully destroys evidence and that party “acted with the intent to deprive
+another party of the information's use in the litigation.” Fed. R. Civ. P. 37(e)(2). The new Rule
+37 “rejects cases such as Residential Funding Corp. v. DeGeorge Financial Corp., 306 F.3d 99
+8
+Case 1:15-cv-07433-LAP Document 1330-16 Filed 01/05/24 Page 11 of 17
+(2d Cir. 2002)5, that authorize the giving of adverse-inference instructions on a finding of
+negligence or gross negligence.” Fed. R. Civ. P. 37(e)(2) Advisory Committee's Note to 2015
+Amendment; see also Thomas v. Butkiewicus, No. 3:13-CV-747 (JCH), 2016 WL 1718368, at *7
+(D. Conn. Apr. 29, 2016) (recognizing abrogation of Residential Funding). There is no claim of
+spoliation – no information has been lost or destroyed since the threat or initiation of litigation
+when there would have been

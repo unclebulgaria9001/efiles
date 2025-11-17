@@ -1,0 +1,392 @@
+====================================================================================================
+EMAIL #0168 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1320-18.pdf
+Subject:           (1) would not be a waiver under this rule if it had been made in a federal
+Date:              01/03/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        12,728
+Character Count:   103,111
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, giuffre, dershowitz, epstein
+Key Locations:     florida, new york
+Type:              Reply  Has Attachments
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Subject: (1) would not be a waiver under this rule if it had been made in a federal | Date: 01/03/24 | Categories: legal, media, correspondence | Key People: maxwell, andrew, giuffre, dershowitz, epstein | Thread: 1 replies | Type: Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 1 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+RESPONSE TO MOTION TO COMPEL ATTORNEY-CLIENT COMMUNICATIONS
+AND ATTORNEY WORK PRODUCT MATERIALS
+BOIES, SCHILLER & FLEXNER LLP
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 2 of 40
+TABLE OF CONTENTS
+(cid:3)
+TABLE OF CONTENTS...............................................................................................................................(cid:3)i(cid:3)
+TABLE OF AUTHORITIES(cid:3).......................................................................................................................(cid:3)iii(cid:3)
+INTRODUCTION(cid:3)........................................................................................................................................(cid:3)1(cid:3)
+FACTUAL BACKGROUND(cid:3).......................................................................................................................(cid:3)2(cid:3)
+The CVRA Case(cid:3)...........................................................................................................................................(cid:3)2(cid:3)
+The Dershowitz case(cid:3)........................................................................................................................(cid:3)4(cid:3)
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument(cid:3)................................(cid:3)5(cid:3)
+Ms. Giuffre’s Deposition in the Defamation Case(cid:3)...........................................................................(cid:3)7(cid:3)
+The Settlement of the Defamation Case(cid:3)..........................................................................................(cid:3)7(cid:3)
+LEGAL STANDARDS FOR WAIVER(cid:3).......................................................................................................(cid:3)8(cid:3)
+A.(cid:3)Federal Rule of Evidence 502 Controls on the Issue of Waiver(cid:3).................................................(cid:3)8(cid:3)
+B.(cid:3)Florida Law(cid:3).................................................................................................................................(cid:3)9(cid:3)
+C. Federal Law(cid:3)..............................................................................................................................(cid:3)11(cid:3)
+DISCUSSION(cid:3).............................................................................................................................................(cid:3)14(cid:3)
+I. (cid:3)MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.(cid:3)..............................................(cid:3)14(cid:3)
+A.(cid:3) The Florida Court Presiding over the Defamation Action Has Already Rejected the
+Same Waiver Claim that Defendant is Advancing Here.(cid:3)................................................(cid:3)14(cid:3)
+B. (cid:3) Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s Attorney-Client
+Privilege.(cid:3).........................................................................................................................(cid:3)18(cid:3)
+C. (cid:3) Ms. Giuffre’s Confidential Communications With Her Attorneys Were Never “At
+Issue” in the Florida Dershowitz Litigation.(cid:3)...................................................................(cid:3)19(cid:3)
+D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-
+Client Privilege.(cid:3)...............................................................................................................(cid:3)21(cid:3)
+E. (cid:3) Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client Communications
+in her Action Here.(cid:3)..........................................................................................................(cid:3)23(cid:3)
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.(cid:3)...............................(cid:3)25(cid:3)
+III.EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.(cid:3)........................................................................................(cid:3)27(cid:3)
+A.(cid:3) Work Product Protection Has Not Been Waived.(cid:3)...........................................................(cid:3)27(cid:3)
+B.(cid:3) Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.(cid:3)...................(cid:3)29(cid:3)
+i(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 3 of 40
+IV.COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED BY A
+JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY ATTORNEY-
+CLIENT AND WORK-PRODUCTION PROTECTION.(cid:3)........................................................(cid:3)31(cid:3)
+CONCLUSION(cid:3)...........................................................................................................................................(cid:3)31(cid:3)
+(cid:3)
+(cid:3)
+ii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 4 of 40
+TABLE OF AUTHORITIES
+Cases(cid:3)
+Allen v. West Point-Pepperell, Inc.,
+848 F.Supp. 423 (S.D.N.Y.1994)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Allied Irish Banks v. Bank of Am., N.A.,
+240 F.R.D. 96 (S.D.N.Y. 2007)(cid:3)..............................................................................................................(cid:3)12(cid:3)
+Am. Re-Ins. Co. v. U.S. Fid. & Guar. Co.,
+40 A.D.3d 486, 837 N.Y.S.2d 616 (2007)(cid:3)..............................................................................................(cid:3)22(cid:3)
+Aristocrat Leisure Ltd. v. Deutsche Bank Trust Co. Americas,
+No. 04 CIV 10014 PKL,
+2009 WL 3111766 (S.D.N.Y. Sept. 28, 2009)(cid:3)........................................................................................(cid:3)14(cid:3)
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A.,
+210 F.R.D. 506 (S.D.N.Y. 2002)(cid:3)................................................................................................(cid:3)10,(cid:3)13,(cid:3)14(cid:3)
+Brookings v. State,
+495 So.2d 135 (Fla. 1986)(cid:3).......................................................................................................................(cid:3)23(cid:3)
+Bus. Integration Servs., Inc. v. AT&T Corp.,
+No. 06 CIV. 1863 (JGK), 2008 WL 318343 (S.D.N.Y. Feb. 4, 2008)(cid:3)...................................................(cid:3)18(cid:3)
+Butler v. Harter,
+152 So.3d 705 (Fla. 1st DCA, 2014)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Charter One Bank, F.S.B. v. Midtown Rochester, L.L.C.,
+191 Misc. 2d 154, 738 N.Y.S.2d 179 (Sup. Ct. 2002)(cid:3)............................................................................(cid:3)28(cid:3)
+Coates v. Akerman, Senterfitt & Eidson, P.A.,
+940 So.2d 504 (Fla. 2nd DCA 2006)(cid:3)..........................................................................................(cid:3)11,(cid:3)12,(cid:3)20(cid:3)
+Columbia Hosp. Corp. of S. Broward v. Fain,
+16 So.3d 236 (Fla. 4th DCA 2009)(cid:3).........................................................................................................(cid:3)31(cid:3)
+Connell v. Bernstein-Macaulay, Inc.,
+407 F.Supp. 420 (S.D.N.Y.1976)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Coyne v. Schwartz, Gold, Cohen, Zakarin & Kotler, P.A.,
+715 So.2d 1021 (Fla. 4th DCA 1998)(cid:3)......................................................................................................(cid:3)21(cid:3)
+CSX Transp., Inc. v. Carpenter,
+725 So.2d 434 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)30(cid:3)
+Delap v. State,
+440 So.2d 1242 (Fla. 1983)(cid:3).....................................................................................................................(cid:3)22(cid:3)
+Diaz–Verson v. Walbridge Aldinger Co.,
+54 So.3d 1007 (Fla. 2d DCA 2010)(cid:3)........................................................................................................(cid:3)20(cid:3)
+Dillenbeck v. Hess,
+73 N.Y.2d 278, 290, 536 N.E.2d 1126 (N.Y. 1989)(cid:3)...............................................................................(cid:3)14(cid:3)
+Does 1 and 2 v. United States,
+817 F.Supp.2d 1337 (S.D. Fla. 2011)(cid:3).......................................................................................................(cid:3)2(cid:3)
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014)(cid:3)....................................................................................................................(cid:3)3(cid:3)
+Eastern Air Lines, Inc. v. Gellert,
+431 So.2d 329 (Fla. 3d DCA 1983)(cid:3)........................................................................................................(cid:3)28(cid:3)
+Elliott Associates, L.P. v. Banco de la Nacion,
+194 F.3d 363 (2d Cir. 1999)(cid:3)....................................................................................................................(cid:3)18(cid:3)
+iii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 5 of 40
+Falco v. N. Shore Labs. Corp.,
+866 So.2d 1255 (Fla. 1st DCA 2004)(cid:3)......................................................................................................(cid:3)31(cid:3)
+Ferreira v. Capitol Specialty Ins. Corp.,
+31 Misc. 3d 1209(A),
+929 N.Y.S.2d 199 (N.Y. Sup. Ct. 2011)(cid:3)...................................................................................
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 1 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+RESPONSE TO MOTION TO COMPEL ATTORNEY-CLIENT COMMUNICATIONS
+AND ATTORNEY WORK PRODUCT MATERIALS
+BOIES, SCHILLER & FLEXNER LLP
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 2 of 40
+TABLE OF CONTENTS
+(cid:3)
+TABLE OF CONTENTS...............................................................................................................................(cid:3)i(cid:3)
+TABLE OF AUTHORITIES(cid:3).......................................................................................................................(cid:3)iii(cid:3)
+INTRODUCTION(cid:3)........................................................................................................................................(cid:3)1(cid:3)
+FACTUAL BACKGROUND(cid:3).......................................................................................................................(cid:3)2(cid:3)
+The CVRA Case(cid:3)...........................................................................................................................................(cid:3)2(cid:3)
+The Dershowitz case(cid:3)........................................................................................................................(cid:3)4(cid:3)
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument(cid:3)................................(cid:3)5(cid:3)
+Ms. Giuffre’s Deposition in the Defamation Case(cid:3)...........................................................................(cid:3)7(cid:3)
+The Settlement of the Defamation Case(cid:3)..........................................................................................(cid:3)7(cid:3)
+LEGAL STANDARDS FOR WAIVER(cid:3).......................................................................................................(cid:3)8(cid:3)
+A.(cid:3)Federal Rule of Evidence 502 Controls on the Issue of Waiver(cid:3).................................................(cid:3)8(cid:3)
+B.(cid:3)Florida Law(cid:3).................................................................................................................................(cid:3)9(cid:3)
+C. Federal Law(cid:3)..............................................................................................................................(cid:3)11(cid:3)
+DISCUSSION(cid:3).............................................................................................................................................(cid:3)14(cid:3)
+I. (cid:3)MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.(cid:3)..............................................(cid:3)14(cid:3)
+A.(cid:3) The Florida Court Presiding over the Defamation Action Has Already Rejected the
+Same Waiver Claim that Defendant is Advancing Here.(cid:3)................................................(cid:3)14(cid:3)
+B. (cid:3) Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s Attorney-Client
+Privilege.(cid:3).........................................................................................................................(cid:3)18(cid:3)
+C. (cid:3) Ms. Giuffre’s Confidential Communications With Her Attorneys Were Never “At
+Issue” in the Florida Dershowitz Litigation.(cid:3)...................................................................(cid:3)19(cid:3)
+D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-
+Client Privilege.(cid:3)...............................................................................................................(cid:3)21(cid:3)
+E. (cid:3) Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client Communications
+in her Action Here.(cid:3)..........................................................................................................(cid:3)23(cid:3)
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.(cid:3)...............................(cid:3)25(cid:3)
+III.EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.(cid:3)........................................................................................(cid:3)27(cid:3)
+A.(cid:3) Work Product Protection Has Not Been Waived.(cid:3)...........................................................(cid:3)27(cid:3)
+B.(cid:3) Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.(cid:3)...................(cid:3)29(cid:3)
+i(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 3 of 40
+IV.COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED BY A
+JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY ATTORNEY-
+CLIENT AND WORK-PRODUCTION PROTECTION.(cid:3)........................................................(cid:3)31(cid:3)
+CONCLUSION(cid:3)...........................................................................................................................................(cid:3)31(cid:3)
+(cid:3)
+(cid:3)
+ii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 4 of 40
+TABLE OF AUTHORITIES
+Cases(cid:3)
+Allen v. West Point-Pepperell, Inc.,
+848 F.Supp. 423 (S.D.N.Y.1994)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Allied Irish Banks v. Bank of Am., N.A.,
+240 F.R.D. 96 (S.D.N.Y. 2007)(cid:3)..............................................................................................................(cid:3)12(cid:3)
+Am. Re-Ins. Co. v. U.S. Fid. & Guar. Co.,
+40 A.D.3d 486, 837 N.Y.S.2d 616 (2007)(cid:3)..............................................................................................(cid:3)22(cid:3)
+Aristocrat Leisure Ltd. v. Deutsche Bank Trust Co. Americas,
+No. 04 CIV 10014 PKL,
+2009 WL 3111766 (S.D.N.Y. Sept. 28, 2009)(cid:3)........................................................................................(cid:3)14(cid:3)
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A.,
+210 F.R.D. 506 (S.D.N.Y. 2002)(cid:3)................................................................................................(cid:3)10,(cid:3)13,(cid:3)14(cid:3)
+Brookings v. State,
+495 So.2d 135 (Fla. 1986)(cid:3).......................................................................................................................(cid:3)23(cid:3)
+Bus. Integration Servs., Inc. v. AT&T Corp.,
+No. 06 CIV. 1863 (JGK), 2008 WL 318343 (S.D.N.Y. Feb. 4, 2008)(cid:3)...................................................(cid:3)18(cid:3)
+Butler v. Harter,
+152 So.3d 705 (Fla. 1st DCA, 2014)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Charter One Bank, F.S.B. v. Midtown Rochester, L.L.C.,
+191 Misc. 2d 154, 738 N.Y.S.2d 179 (Sup. Ct. 2002)(cid:3)............................................................................(cid:3)28(cid:3)
+Coates v. Akerman, Senterfitt & Eidson, P.A.,
+940 So.2d 504 (Fla. 2nd DCA 2006)(cid:3)..........................................................................................(cid:3)11,(cid:3)12,(cid:3)20(cid:3)
+Columbia Hosp. Corp. of S. Broward v. Fain,
+16 So.3d 236 (Fla. 4th DCA 2009)(cid:3).........................................................................................................(cid:3)31(cid:3)
+Connell v. Bernstein-Macaulay, Inc.,
+407 F.Supp. 420 (S.D.N.Y.1976)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Coyne v. Schwartz, Gold, Cohen, Zakarin & Kotler, P.A.,
+715 So.2d 1021 (Fla. 4th DCA 1998)(cid:3)......................................................................................................(cid:3)21(cid:3)
+CSX Transp., Inc. v. Carpenter,
+725 So.2d 434 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)30(cid:3)
+Delap v. State,
+440 So.2d 1242 (Fla. 1983)(cid:3).....................................................................................................................(cid:3)22(cid:3)
+Diaz–Verson v. Walbridge Aldinger Co.,
+54 So.3d 1007 (Fla. 2d DCA 2010)(cid:3)........................................................................................................(cid:3)20(cid:3)
+Dillenbeck v. Hess,
+73 N.Y.2d 278, 290, 536 N.E.2d 1126 (N.Y. 1989)(cid:3)...............................................................................(cid:3)14(cid:3)
+Does 1 and 2 v. United States,
+817 F.Supp.2d 1337 (S.D. Fla. 2011)(cid:3).......................................................................................................(cid:3)2(cid:3)
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014)(cid:3)....................................................................................................................(cid:3)3(cid:3)
+Eastern Air Lines, Inc. v. Gellert,
+431 So.2d 329 (Fla. 3d DCA 1983)(cid:3)........................................................................................................(cid:3)28(cid:3)
+Elliott Associates, L.P. v. Banco de la Nacion,
+194 F.3d 363 (2d Cir. 1999)(cid:3)....................................................................................................................(cid:3)18(cid:3)
+iii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 5 of 40
+Falco v. N. Shore Labs. Corp.,
+866 So.2d 1255 (Fla. 1st DCA 2004)(cid:3)......................................................................................................(cid:3)31(cid:3)
+Ferreira v. Capitol Specialty Ins. Corp.,
+31 Misc. 3d 1209(A),
+929 N.Y.S.2d 199 (N.Y. Sup. Ct. 2011)(cid:3).................................................................................................(cid:3)14(cid:3)
+First Union National Bank v. Turney,
+824 So.2d 172 (Fla. 1st DCA 2002)(cid:3)........................................................................................................(cid:3)10(cid:3)
+Ford Motor Co. v. Hall-Edwards,
+997 So.2d 1148 (Fla. 3d DCA 2008)(cid:3)......................................................................................................(cid:3)10(cid:3)
+Genovese v. Provident Life and Accident Ins. Co.,
+74 So.3d 1064 (Fla. 2011)(cid:3)...........................................................................................................(cid:3)12,(cid:3)20,(cid:3)29(cid:3)
+Giuffre v. Maxwell, DE 135, 2016 WL 175918(cid:3)...................................................................................(cid:3)12,(cid:3)32(cid:3)
+Goldman, Sachs & Co. v. Blondis,
+412 F.Supp. 286 (N.D.Ill.1976)(cid:3)..............................................................................................................(cid:3)28(cid:3)
+Guarantee Ins. Co. v. Heffernan Ins. Brokers, Inc.,
+300 F.R.D. 590 (S.D. Fla. 2014)(cid:3).................................................................................................(cid:3)10,(cid:3)11,(cid:3)21(cid:3)
+GUS Consulting GMBH v. Chadbourne & Parke LLP,
+20 Misc. 3d 539, 858 N.Y.S.2d 591 (Sup. Ct. 2008)(cid:3)..............................................................................(cid:3)32(cid:3)
+Hagans v. Gatorland Kubota, LLC/Sentry Ins.,
+45 So.3d 73 (Fla. 1st DCA 2010)(cid:3)............................................................................................................(cid:3)10(cid:3)
+Hearn v. Rhay,
+68 F.R.D. 574 (E.D. Wash. 1975)(cid:3)...............................................................................................(cid:3)10,(cid:3)13,(cid:3)16(cid:3)
+HSH Nordbank AG New York Branch v. Swerdlow,
+259 F.R.D. 64 (S.D.N.Y. 2009)(cid:3)..............................................................................................................(cid:3)26(cid:3)
+In re Bank of New York Mellon Corp. Forex Transactions Litig.,
+66 F. Supp. 3d 406 (S.D.N.Y. 2014)(cid:3).......................................................................................................(cid:3)14(cid:3)
+In re Bank of New York Mellon,
+42 Misc. 3d 171, 177, 977 N.Y.S.2d 560 (Sup. Ct. 2013)(cid:3)......................................................................(cid:3)14(cid:3)
+In re Cnty. of Erie,
+546 F.3d 222 (2d Cir. 2008)(cid:3)........................................................................................................(cid:3)12,(cid:3)13,(cid:3)25(cid:3)
+In re von Bulow,
+828 F.2d 94 (2d Cir. 1987)(cid:3)................................................................................................................(cid:3)14,(cid:3)23(cid:3)
+Jane Doe 1 v. United States,
+No. 9:08-cv-80736 (S.D. Fla. July 7, 2008)(cid:3)..............................................................................................(cid:3)2(cid:3)
+Jane Does 1 and 2 v. United States,
+950 F.Supp.2d 1262 (S.D. Fla. 2013)(cid:3).......................................................................................................(cid:3)3(cid:3)
+Jenney v. Airdata Wiman, Inc.,
+846 So.2d 664 (Fla. 2d DCA 2003)(cid:3)........................................................................................................(cid:3)22(cid:3)
+Jenney v. Airdata Wiman, Inc.,
+846 So.2d 664 (Fla. 2nd DCA 2003)(cid:3)......................................................................................................(cid:3)11(cid:3)
+Koon v. State,
+463 So.2d 201 (Fla. 1985)(cid:3).................................................................................................................(cid:3)19,(cid:3)22(cid:3)
+Lynch v. State,
+2 So.3d 47 (Fla. 2008)(cid:3).............................................................................................................................(cid:3)23(cid:3)
+McCullough v. Kubiak,
+158 So. 3d 739 (Fla. 4th DCA, 2015)(cid:3)......................................................................................................(cid:3)22(cid:3)
+McWatters v. State,
+36 So.3d 613 (Fla. 2010)(cid:3).........................................................................................................................(cid:3)12(cid:3)
+iv(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 6 of 40
+Mitchell v. Superior Court,
+37 Cal. 3d 591, 691 P.2d 642 (Cal. 1984)(cid:3)...............................................................................................(cid:3)26(cid:3)
+Montana v. United States,
+440 U.S. 147 (1979)(cid:3)................................................................................................................................(cid:3)17(cid:3)
+Montanez v. Publix Super Markets, Inc.,
+135 So. 3d 510 (Fla. Dist. Ct. App. 2014)(cid:3)..............................................................................................(cid:3)26(cid:3)
+N. Broward Hosp. Dist. v. Button,
+592 So.2d 367 (Fla. 4th DCA 1992)(cid:3).......................................................................................................(cid:3)31(cid:3)
+Niesig v. Team I,
+76 N.Y.2d 363, 558 N.E.2d 1030 (1990)(cid:3)................................................................................................(cid:3)23(cid:3)
+Nomura Asset Capital Corp. v. Cadwalader, Wickersham & Taft LLP,
+62 A.D.3d 581, 880 N.Y.S.2d 617 (N.Y. App. Div. 2009)(cid:3).....................................................................(cid:3)25(cid:3)
+O'Brien v. Fed. Trust Bank, F.S.B.,
+727 So. 2d 296 (Fla. Dist. Ct. App. 1999)(cid:3)..............................................................................................(cid:3)17(cid:3)
+Paradise Divers, Inc. v. Upmal,
+943 So. 2d 812 (Fla. Dist. Ct. App. 2006)(cid:3)........................................................................................(cid:3)28,(cid:3)29(cid:3)
+Parklane Hosiery Co., Inc. v. Shore,
+439 U.S. 322 (1979)(cid:3)................................................................................................................................(cid:3)17(cid:3)
+Pereira v. United Jersey Bank,
+Nos. 94 Civ 1565 & 94 Civ 1844, 1997 WL 773716 (S.D.N.Y. Dec.11, 1997)(cid:3).....................................(cid:3)13(cid:3)
+Perrignon v. Bergen Brunswig Corp.,
+77 F.R.D. 455 (N.D. Cal.1978)(cid:3)...............................................................................................................(cid:3)28(cid:3)
+Procacci v. Seitlin,
+497 So. 2d 969 (Fla. Dist. Ct. App. 1986)(cid:3)..............................................................................................(cid:3)28(cid:3)
+Procter & Gamble Co. v. Swilley,
+462 So.2d 1188 (Fla. 1st DCA 1985)(cid:3)......................................................................................................(cid:3)30(cid:3)
+Rhone-Poulenc Rorer, Inc. v. Home Indem. Co.,
+32 F.3d 851 (3d Cir.1994)(cid:3).......................................................................................................................(cid:3)13(cid:3)
+Rhone–Poulenc Rorer, Inc. v. Home Indemnity Co.,
+32 F.3d 851 (3d Cir. 1994)(cid:3)......................................................................................................................(cid:3)11(cid:3)
+Rogers v. State,
+742 So.2d 827 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)12(cid:3)
+Rousso v. Hannon,
+146 So.3d 66 (Fla. 3d DCA 2014)(cid:3)..........................................................................................................(cid:3)10(cid:3)
+Savino v. Luciano,
+92 So.2d 817 (Fla. 1957)(cid:3)...................................................................................................................(cid:3)12,(cid:3)20(cid:3)
+Schetter v. Schetter,
+239 So.2d 51 (Fla. 4th DCA 1970)(cid:3)..........................................................................................................(cid:3)18(cid:3)
+Schnell v. Schnall,
+550 F. Supp. 650 (S.D.N.Y.1982)(cid:3)...........................................................................................................(cid:3)19(cid:3)
+Southern Bell Tel. & Tel. Co. v. Deason,
+632 So.2d 1377 (Fla.1994)(cid:3)......................................................................................................................(cid:3)30(cid:3)
+State v. T.A.,
+528 So.2d 974 (Fla. 2d DCA, 1988)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Surf Drugs, Inc. v. Vermette,
+236 So.2d 108 (Fla. 1970)(cid:3).......................................................................................................................(cid:3)28(cid:3)
+Swidler & Berlin v. United States,
+524 U.S. 399 (1998)(cid:3)..................................................................................................................................(cid:3)8(cid:3)
+v(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 7 of 40
+Taylor v. State,
+855 So.2d 1 (Fla. 2003)(cid:3)...........................................................................................................................(cid:3)22(cid:3)
+Ulico Cas. Co. v. Wilson, Elser, Moskowitz, Edelman & Dicker,
+1 A.D.3d 223, 767 N.Y.S.2d 228 (2003)(cid:3)................................................................................................(cid:3)26(cid:3)
+Universal City Development Partners, Ltd. v. Pupillo,
+54 So.3d 612, 614 (Fla. 5th DCA, 2011)(cid:3)...........................................................................................(cid:3)28,(cid:3)31(cid:3)
+West Bend Mutual I

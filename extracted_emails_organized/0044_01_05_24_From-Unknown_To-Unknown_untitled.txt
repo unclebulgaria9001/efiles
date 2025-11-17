@@ -1,0 +1,444 @@
+====================================================================================================
+EMAIL #0044 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1331-13.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        5,852
+Character Count:   40,012
+Categories:        legal, media, correspondence
+Key People:        giuffre, andrew, epstein, maxwell
+Key Locations:     florida, new york
+Type:
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: giuffre, andrew, epstein, maxwell | Thread: 1 replies
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 1 of 22
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+PLAINTIFFGIUFFRE’S RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS
+DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+Sigrid McCawley
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 2 of 22
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT.....................................................................................................1
+ARGUMENT..................................................................................................................................2
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.........2
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed........................2
+B. Esp-lin May Be an Unavailable Witness..................................................................4
+II. EPSTEIN, , AND ESPLIN SHOULD ALL BE ALLOWED TO TESTIFY
+VIA DEPOSITION TESTIMONY.....................................................................................5
+A. Jeffrey Epstein.........................................................................................................5
+B. Deposition Should Be Allowed...................................................7
+C. Esplin’s Deposition Should Be Allowed if Defendant Decides Not to Make
+Him Available at Trial...........................................................................................10
+III. ALFREDO RODRIGUEZ’S TESTIMONY IN AN EARLIER DEPOSITION
+SHOULD BE ALLOWED SINCE HE HAS SINCE DIED.............................................10
+A. Mr. Rodriguez’s Deposition Testimony is Admissible Under Fed. R. Evid.
+-
+804(b)(1)................................................................................................................11
+B. If the Rodriguez Deposition is Not Admissible Under the Former Testimony
+Exception, It Should Be Admitted Under the Residual Hearsay Exception.........13
+CONCLUSION.............................................................................................................................16
+CERTIFICATE OF SERVICE......................................................................................................18
+i
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 3 of 22
+TABLE OF AUTHORITIES
+Page
+Cases
+Amusement Indus., Inc. v. Stern,
+No. 07CIV11586LAKGWG, 2016 WL 4249965 (S.D.N.Y. Aug. 11, 2016).............................6
+Brookover v. Mary Hitchcock Mem'l Hosp.,
+893 F.2d 411 (1st Cir. 1990)......................................................................................................14
+In re Ashley,
+903 F.2d 599 (9th Cir. 1990).......................................................................................................3
+John Paul Mitchell Sys. v. Quality King Distributors, Inc.,
+106 F. Supp. 2d 462 (S.D.N.Y. 2000).........................................................................................6
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)................................................................................................5, 6, 7
+Lloyd v. American Export Lines, Inc.,
+580 F.2d 1179 (3d Cir. 1978)..............................................................................................12, 13
+S.E.C. v. Durante,
+No. 01 CIV. 9056 DAB AJP, 2013 WL 6800226 (S.D.N.Y. Dec. 19, 2013).............................6
+United States ex rel. Bilokumsky v. Tod,
+263 U.S. 149 (1923)....................................................................................................................7
+United States v. Carneglia,
+256 F.R.D. 366 (E.D.N.Y. 2009)...............................................................................................13
+United States v. Salerno,
+505 U.S. 317..............................................................................................................................13
+United States v. Sinclair,
+109 F.3d 1527 (10th Cir. 1997)...................................................................................................8
+United States v. Valdez-Soto,
+31 F.3d 1467 (9th Cir. 1994).....................................................................................................14
+ii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 4 of 22
+-R-u-le-s
+Fed. R. Civ. P. 32..........................................................................................................................11
+Fed. R. Civ. P. 32(a)(4)(D)..............................................................................................................3
+Fed. R. Civ. P. 32(a)(4)(E)..............................................................................................................4
+Fed. R. Civ. P. 32(a)(8).................................................................................................................11
+Fed. R. Evid. 102...........................................................................................................................15
+Fed. R. Evid. 601.............................................................................................................................8
+Fed. R. Evid. 612.............................................................................................................................8
+Fed. R. Evid. 804...........................................................................................................................13
+Fed. R. Evid. 804(8)........................................................................................................................9
+Fed. R. Evid. 804(b)(1)......................................................................................................10, 11, 13
+Fed. R. Evid. 806...........................................................................................................................11
+Fed. R. Evid. 807.......................................................................................................................9, 14
+iii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 5 of 22
+Plaintiff Ms. Giuffre respectfully submits this Response in Opposition to Defendant’s
+Motion in Limine to Exclude in Certain Depositions Designated by Plaintiff for Use at Trial.
+PRELIMINARYSTATEMENT
+In carrying through on her threat to object to every piece of evidence that Ms. Giuffre
+intends to use at trial, Defendant Maxwell has raised three general objections to various
+depositions Ms. Giuffre has designatedfor use at trial.
+First, Defendant argues that Jeffrey Epstein is not an unavailable witness and should
+appear as a live witness. Ms. Giuffre would like to have him appear at trial and it appears that
+Epstein’s counsel is willing to accept a subpoena for him. If so, the issue is moot. But if for any
+reason that trial subpoena fails to secure his attendance, it is clear he is an unavailable witness
+since he previously evaded more than a dozen efforts to serve him with a pre-trial deposition
+subpoena.
+Second, Defendant raises certain objections based on the fact that Jeffrey Epstein,
+and Philip Esplin gave testimony that is helpful to Ms. Giuffre during their
+depositions and therefore she seeks to exclude that damaging testimony. This hardly provides a
+basis for excluding their evidence. Epstein should be allowed to test-ify so that Ms. Giuffre can
+obtain adverse inferences from his Fifth Amendment invocations. and Esplin should be
+allowed to testify, via deposition, because they have information relevant for the jury.
+Finally, Defendant objects to the use of a deposition of Alfredo Rodriguez. But because
+he has since passed away, the choice is between preventing the jury from hearing any of his
+testimony and using the earlier transcript. The transcript should be allowed.
+1
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 6 of 22
+ARGUMENT
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed.
+Defendant argues that Jeffrey Epstein can simply appear live at the trial since he
+“reside[s]” within 100 miles of the courthouse, Mot. at 2, and thus Ms. Giuffre can simply
+subpoena him. It appears that this issue has been resolved because Epstein’s attorneys have
+agreed to accept a trial subpoena on his behalf. See McCawley Dec. at Exhibit 1, Letter from
+Jack Goldberger, Esq. Epstein’s lawyers have also indicated they will be moving to quash his
+subpoena. If Epstein appears live at trial, then Ms. Giuffre will, of course, simply present that
+live testimony rather than rely on his recorded deposition.
+In her motion, Defendant fails to mention the extraordinary efforts that Ms. Giuffre had
+to undertake to obtain the pre-trial deposition of Epstein. As the Court will recall from Ms.
+Giuffre’s Motion for Leave to Serve Three Deposition Subpoenas by Means Other Than
+Personal Service, filed May 25, 2016, Ms. Giuffre began by asking Epstein’s legal counsel to
+accept service of a subpoena in this matter. Epstein’s counsel refused. Accordingly, Ms. Giuffre
+was forced to retain an investigative company to attempt to locate Epstein for purposes of
+personal service. What followed were no less than sixteen attempts to personally service Epstein,
+including affixing subpoenas to his “temporary” address in New York. A copy of the subpoena
+was also provided to Epstein’s counsel.
+As the Court will recall, Epstein was not the only person in the sex trafficking ring who
+was evading service. Sarah Kellen and Nadia Marcincova, two other conspirators who (along
+with Defendant), helped Epstein in his sex abuse and sex trafficking efforts were also evading
+service.
+2
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 7 of 22
+As a result of these efforts to evade service, Ms. Giuffre filed a motion for leave to
+proceed by way of alterna
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 1 of 22
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFFGIUFFRE’S RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS
+DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+Sigrid McCawley
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 2 of 22
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT.....................................................................................................1
+ARGUMENT..................................................................................................................................2
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.........2
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed........................2
+B. Esp-lin May Be an Unavailable Witness..................................................................4
+II. EPSTEIN, , AND ESPLIN SHOULD ALL BE ALLOWED TO TESTIFY
+VIA DEPOSITION TESTIMONY.....................................................................................5
+A. Jeffrey Epstein.........................................................................................................5
+B. Deposition Should Be Allowed...................................................7
+C. Esplin’s Deposition Should Be Allowed if Defendant Decides Not to Make
+Him Available at Trial...........................................................................................10
+III. ALFREDO RODRIGUEZ’S TESTIMONY IN AN EARLIER DEPOSITION
+SHOULD BE ALLOWED SINCE HE HAS SINCE DIED.............................................10
+A. Mr. Rodriguez’s Deposition Testimony is Admissible Under Fed. R. Evid.
+-
+804(b)(1)................................................................................................................11
+B. If the Rodriguez Deposition is Not Admissible Under the Former Testimony
+Exception, It Should Be Admitted Under the Residual Hearsay Exception.........13
+CONCLUSION.............................................................................................................................16
+CERTIFICATE OF SERVICE......................................................................................................18
+i
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 3 of 22
+TABLE OF AUTHORITIES
+Page
+Cases
+Amusement Indus., Inc. v. Stern,
+No. 07CIV11586LAKGWG, 2016 WL 4249965 (S.D.N.Y. Aug. 11, 2016).............................6
+Brookover v. Mary Hitchcock Mem'l Hosp.,
+893 F.2d 411 (1st Cir. 1990)......................................................................................................14
+In re Ashley,
+903 F.2d 599 (9th Cir. 1990).......................................................................................................3
+John Paul Mitchell Sys. v. Quality King Distributors, Inc.,
+106 F. Supp. 2d 462 (S.D.N.Y. 2000).........................................................................................6
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)................................................................................................5, 6, 7
+Lloyd v. American Export Lines, Inc.,
+580 F.2d 1179 (3d Cir. 1978)..............................................................................................12, 13
+S.E.C. v. Durante,
+No. 01 CIV. 9056 DAB AJP, 2013 WL 6800226 (S.D.N.Y. Dec. 19, 2013).............................6
+United States ex rel. Bilokumsky v. Tod,
+263 U.S. 149 (1923)....................................................................................................................7
+United States v. Carneglia,
+256 F.R.D. 366 (E.D.N.Y. 2009)...............................................................................................13
+United States v. Salerno,
+505 U.S. 317..............................................................................................................................13
+United States v. Sinclair,
+109 F.3d 1527 (10th Cir. 1997)...................................................................................................8
+United States v. Valdez-Soto,
+31 F.3d 1467 (9th Cir. 1994).....................................................................................................14
+ii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 4 of 22
+-R-u-le-s
+Fed. R. Civ. P. 32..........................................................................................................................11
+Fed. R. Civ. P. 32(a)(4)(D)..............................................................................................................3
+Fed. R. Civ. P. 32(a)(4)(E)..............................................................................................................4
+Fed. R. Civ. P. 32(a)(8).................................................................................................................11
+Fed. R. Evid. 102...........................................................................................................................15
+Fed. R. Evid. 601.............................................................................................................................8
+Fed. R. Evid. 612.............................................................................................................................8
+Fed. R. Evid. 804...........................................................................................................................13
+Fed. R. Evid. 804(8)........................................................................................................................9
+Fed. R. Evid. 804(b)(1)......................................................................................................10, 11, 13
+Fed. R. Evid. 806...........................................................................................................................11
+Fed. R. Evid. 807.......................................................................................................................9, 14
+iii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 5 of 22
+Plaintiff Ms. Giuffre respectfully submits this Response in Opposition to Defendant’s
+Motion in Limine to Exclude in Certain Depositions Designated by Plaintiff for Use at Trial.
+PRELIMINARYSTATEMENT
+In carrying through on her threat to object to every piece of evidence that Ms. Giuffre
+intends to use at trial, Defendant Maxwell has raised three general objections to various
+depositions Ms. Giuffre has designatedfor use at trial.
+First, Defendant argues that Jeffrey Epstein is not an unavailable witness and should
+appear as a live witness. Ms. Giuffre would like to have him appear at trial and it appears that
+Epstein’s counsel is willing to accept a subpoena for him. If so, the issue is moot. But if for any
+reason that trial subpoena fails to secure his attendance, it is clear he is an unavailable witness
+since he previously evaded more than a dozen efforts to serve him with a pre-trial deposition
+subpoena.
+Second, Defendant raises certain objections based on the fact that Jeffrey Epstein,
+and Philip Esplin gave testimony that is helpful to Ms. Giuffre during their
+depositions and therefore she seeks to exclude that damaging testimony. This hardly provides a
+basis for excluding their evidence. Epstein should be allowed to test-ify so that Ms. Giuffre can
+obtain adverse inferences from his Fifth Amendment invocations. and Esplin should be
+allowed to testify, via deposition, because they have information relevant for the jury.
+Finally, Defendant objects to the use of a deposition of Alfredo Rodriguez. But because
+he has since passed away, the choice is between preventing the jury from hearing any of his
+testimony and using the earlier transcript. The transcript should be allowed.
+1
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 6 of 22
+ARGUMENT
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed.
+Defendant argues that Jeffrey Epstein can simply appear live at the trial since he
+“reside[s]” within 100 miles of the courthouse, Mot. at 2, and thus Ms. Giuffre can simply
+subpoena him. It appears that this issue has been resolved because Epstein’s attorneys have
+agreed to accept a trial subpoena on his behalf. See McCawley Dec. at Exhibit 1, Letter from
+Jack Goldberger, Esq. Epstein’s lawyers have also indicated they will be moving to quash his
+subpoena. If Epstein appears live at trial, then Ms. Giuffre will, of course, simply present that
+live testimony rather than rely on his recorded deposition.
+In her motion, Defendant fails to mention the extraordinary efforts that Ms. Giuffre had
+to undertake to obtain the pre-trial deposition of Epstein. As the Court will recall from Ms.
+Giuffre’s Motion for Leave to Serve Three Deposition Subpoenas by Means Other Than
+Personal Service, filed May 25, 2016, Ms. Giuffre began by asking Epstein’s legal counsel to
+accept service of a subpoena in this matter. Epstein’s counsel refused. Accordingly, Ms. Giuffre
+was forced to retain an investigative company to attempt to locate Epstein for purposes of
+personal service. What followed were no less than sixteen attempts to personally service Epstein,
+including affixing subpoenas to his “temporary” address in New York. A copy of the subpoena
+was also provided to Epstein’s counsel.
+As the Court will recall, Epstein was not the only person in the sex trafficking ring who
+was evading service. Sarah Kellen and Nadia Marcincova, two other conspirators who (along
+with Defendant), helped Epstein in his sex abuse and sex trafficking efforts were also evading
+service.
+2
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 7 of 22
+As a result of these efforts to evade service, Ms. Giuffre filed a motion for leave to
+proceed by way of alternative service with regard to Epstein. Before the Court could rule on the
+motion regarding Epstein, Epstein’s legal counsel agreed to have Epstein appear for his
+deposition –in Florida.
+Epstein has everymotivation to evade service because the questions he would be asked at
+trial would involve his sexual abuse of minors. And given Epstein’s success at evading sixteen
+earlier efforts to serve him, the Court should permit Ms. Giuffre to use Epstein’s deposition at
+the upcoming trial – if, for any reason, he does not appear live. Under Fed. R. Civ. P.
+32(a)(4)(D), a party may use a deposition of a witness when “the party offering the deposition
+could not procure the witness’s attendance by subpoena.” A showing that the witness has evaded
+attempts to be served with a subpoena suffices to make the showing of unavailability. See In re
+Ashley, 903 F.2d 599, 603 (9th Cir. 1990). Furthermore, Defendant will suffer no prejudice if
+Epstein appears by way of deposition rather than through live testimony. As discussed at greater
+length in Part II below, Epstein is being called for purposes of securing an adverse inference
+from his invocation of his Fifth Amendment right against self-incrimination. In these
+circumstances, live testimony will not provide any significantly different testimony from that
+which has already been secured by deposition.
+Notably, Ms. Giuffre has already attempted to serve a trial subpoena upon Epstein in
+New York. On February 8, 2017, an investigator from Alpha Group Investigations went to 9 East
+71st Street, New York, New York, a mansion where Epstein had previously resided (and sexually
+abused Ms. Giuffre). See McCawley Dec. at Exhibit 2, Affidavit of Anna Intriago.
+Even if Epstein is somehow deemed to be “available,” the Court retains discretion to
+allow the use of his deposition, where “on motion and notice” the Court finds “that exceptional
+3
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 8 of 22
+circumstances make it desirable – in the interest of justice and with due regard to the importance
+of live testimony in open court – to permit the deposition to be used.” Fed. R. Civ. P.
+32(a)(4)(E). Given the importance of Epstein to this case, if for any reason he fails to appear, the
+Court should also exercise its discretion to allow his deposition to be used.
+Defendant also argues that Rinaldo Rizzo is a witness who should appear live at the trial,
+rather than through deposition testimony. Ms. Giuffre agrees- that it would be optimal if 1 R 1 iz 1 z 1 o
+were to appear in person at trial. Ms. Giuffre has contacted Mr. Rizzo’s counsel to attempt to
+secure his appearance at trial. She anticipates that he will indeed appear at trial. But should it
+appear that those efforts to secure his attendance at trial be unsuccessful, Ms. Giuffre reserves
+the right to ask the Court to present his testimony via the deposition designations she has made,
+as he would be, at that point, “unavailable.”
+B. Esplin May Be an Unavailable Witness.
+Ms. Giuffre has also designated certain excerpts from the deposition of one of
+Defendant’s own experts, Dr. Phillip Esplin. This designation was a defensive measure. Some of
+Esplin’s testimony was so favorable to Ms. Giuffre that she wanted to ensure it would be
+available to present to the jury. Counsel for Ms. Giuffre has contacted defense counsel to
+confirm that Defendant will still be calling Esplin to trial. Defense counsel has, thus far, refused
+to respond to this inquiryin any way.
+If Defendant calls Esplin as a witness at trial, Ms. Giuffre would then have no need to
+rely upon his deposition testimony, as she would simply cover the same terrain via live questions
+before the jury. Should, however, Defendant decide to withhold Esplin as a witness, Ms. Giuffre
+would like to use limited parts of his testimony at trial.
+Of course, Defendant can hardly claim any sort of unfair prejudice from having testimony
+from her own expert witness presented at trial. Defendant also argues that the designated
+4
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 9 of 22
+excerpts are somehow beyond the scope of Esplin’s expertise. Ms. Giuffre will address this
+concern at the appro-priate time in the appropriate pleadingwhich deals with relevance issues.
+II. EPSTEIN, AND ESPLIN SHOULD ALL BE ALLOWED TO TESTIFY
+VIA DEPOSITION TESTIMONY.
+Defendant next objects to testimony from Jeffrey Epstein, and Philip
+Esplin, claiming that they all “refused to respond to questions.” Mot. at 5. Contrary to
+Defendant’s argument, all three of the witnesses did, in fact, answer questions and provide useful
+information. Epstein answered questions by invoking his Fifth Amendment right against self-
+-incrimination. answered questions after her recollection about certain events was
+refreshed. And Esplin answered questions in which he testified favorably for Ms. Giuffre, which
+led to Ms. Giuffre designating certain parts of his deposition for use at trial. Accordingly,
+Defendant’s arguments lack merit with respect to all three of these witnesses and her motion
+should be denied.
+A. Jeffrey Epstein.
+Jeffrey Epstein is a pivotally important witness in this case. Ms. Giuffre should be
+permitted to call him, either live or via deposition, to have him invoke his Fifth Amendment right
+to refuse to answer pivotal questions in this case. The jury should then, in its discretion, be
+permitted to draw such adverse inferences as may be appropriate.
+This procedure is very clearly recognized in the leading case of LiButti v. United States,
+107 F.3d 110, 121 (2d Cir. 1997). LiButti articulated several non-exclusive factors to be
+considered, in light of the circumstances of the case, which should guide a district court in
+making a determination about whether to allow the jury to hear a Fifth Amendment invocation.
+LiButti, 107 F.3d at 123–24. The Second Circuit emphasized, however, that whether these or
+other circumstances unique to a particular case are considered by the trial court, “the overarching
+5
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 10 of 22
+concern is fundamentally whether the adverse inference is trustworthy under all of the
+circumstances and will advance the search for the truth.” Id. at 124 (emphasis added). A number
+of subsequent decisions from the Southern District of New York have allowed evidence of a
+third party’s invocations to be used against a party in litigation. See, e.g., Amusement Indus., Inc.
+v. Stern, No. 07CIV11586LAKGWG, 2016 WL 4249965, at *8 (S.D.N.Y. Aug. 11, 2016)
+(drawing negative inference against defendant based on key witness’ invocation of privilege);
+S.E.C. v. Durante, No. 01 CIV. 9056 DAB AJP, 2013 WL 6800226, at *11 (S.D.N.Y. Dec. 19,
+2013) (drawing negative inference when Fifth Amendment invoked by a “prominent figure in the
+case”), report and recommendation adopted, No. 01 CIV. 9056 DAB, 2014 WL 5041843
+(S.D.N.Y. Sept. 25, 2014), aff'd, 641 F. App'x 73 (2d Cir. 2016); John Paul Mitchell Sys. v.
+Quality King Distributors, Inc., 106 F. Supp. 2d 462, 471 (S.D.N.Y. 2000) (drawing inference
+from invocation and noting alignment of interests).
+All of the LiButti factors tip in favor of allowing Ms. Giuffre to call Epstein. Ms. Giuffre
+has analyzed this issue at length in her contemporaneously filed Motion to Present Testimony
+from Jeffrey Epstein for Purposes of Obtaining an Adverse Inference. To avoid burdening the
+Court with duplicative briefing, Ms. Giuffre specifically adopts and incorporates by reference all
+of the briefing and arguments in that motion in the response here. For all of the reasons given in
+that motion, Ms. Giuffre should be allowed to call Epstein. Accordingly, Defendant’s motion to
+exclude Epstein should be denied.
+To be clear, as part of calling Epstein, Ms. Giuffre has no objection to the jury being
+given appropriate cautionary instructions about the adverse inferences. Those instructions should
+make clear that the jury is not required to draw any inference at all from Epstein’s invocations,
+and that it should only draw inferences if it finds that there is an independent foundation for the
+6
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 11 of 22
+question being asked and independent co1Toboration for the adverse inference being drawn. The
+jury can also be instmcted that it should draw such an inference only where, in light of all the
+other evidence presented at ti-ial, the inference "is tn1stw01thy under all of the circumstances."
+LiButti, 107 F.3d at 124. The Defendant may also request additional cautionary instrnctions, and
+the Comt (after hearing from Ms. Giuffre) may dete1mine to give such cautiona1y instructions.
+But the best course of action is to allow a properly-instructed jury to consider Epstein's
+invocations, along with all of the other evidence in the case, to reach a fair decision.
+Finally, it is impo1tant to recognize that the Comt has before it ve1y specifically
+designated exce1pts from Epstein's deposition u·anscript. While Ms. Giuffre intends to call Mr.
+Epstein live at trial, the Com1 can review each deposition exce1pt to insure that the inference that
+might be drawn would be appropriate. The Court can then instruct Ms. Giuffre's counsel to ask
+only those specific questions that it approves. This approval process provides an additional
+safeguard against unfair prejudice.
+LiButti specifically recognizes that "'[s]ilence is often evidence of the most persuasive
+character."' 107 F.3d at 124 (quoting United States ex rel. Bilokumsk:y v. Tod, 263 U.S. 149, 153-
+54 (1923) (Brandeis, J.)). Ms. Giuffre should be allowed to present that persuasive evidence
+here.
+B. Deposition Should Be Allowed.
+Defendant next challenges testimony from one of Epstein's victims, who
+was ve1

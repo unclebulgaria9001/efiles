@@ -1,0 +1,241 @@
+================================================================================
+EMAIL EXTRACTION FROM: gov.uscourts.nysd.447706.1330.2.pdf
+================================================================================
+
+Subject: 
+Date: 01/05/24
+Source PDF: gov.uscourts.nysd.447706.1330.2.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 1 of 40
+EXHIBIT A
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 2 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+================================================================================
+REPLY 1
+================================================================================
+
+/
+PLAINTIFF’S RESPONSE AND OBJECTIONS TO DEFENDANT’S
+FIRST SET OF DISCOVERY REQUESTS TO PLAINTIFF
+Plaintiff hereby serves her responses and objections to Defendant’s First Set of
+Discovery Requests.
+GENERAL OBJECTIONS
+Defendant’s First Set of Discovery Requests violates Local Civil Rule 33.3.Defendant
+has served interrogatories that are in direct violation of that Rulebecause the interrogatories are
+not “restricted to those seeking names of witnesses with knowledge of information relevant to
+the subject matter of the action, the computation of each category of damage alleged, and the
+existence, custodian, location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar nature.” Local
+Civil Rule 33.3(a). Instead, they seek information under subsections (b) and (c) of Local Civil
+Rule 33.3, and therefore, they should not be served because they are not “a more practical
+method of obtaining the information sought than a request for production or a deposition,” and
+because they were served in advance of the period “30 days prior to the discovery cut-off date.”
+Local Civil Rule 33.3(b), (c). The interrogatories you served violate Local Rule 33.3 and we ask
+1
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 3 of 40
+that you immediately withdraw those interrogatories. See Rule 33.3, Local Rules for the
+Southern District of New York; see alsoShannon v. New York City Transit Auth., No. 00 CIV.
+5079 (Sweet, J.), 2001 WL 286727, at *3 (S.D.N.Y. Mar. 22, 2001); accord Gary Friedrich
+Enterprises, LLC v. Marvel Enterprises, Inc., No. 08 CIV. 1533 BSJ JCF, 2011 WL 1642381, at
+*4 (S.D.N.Y. Apr. 26, 2011). Specifically,Rule 33.3 provides:
+(a) Unless otherwise ordered by the Court, at the commencement of discovery,
+interrogatories will be restricted to those seeking names of witnesses with
+knowledge of information relevant to the subject matter of the action, the
+computation of each category of damage alleged, and the existence, custodian,
+location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar
+nature.
+(b) During discovery, interrogatories other than those seeking information described
+in paragraph (a) above may only be served (1) if they are a more practical method
+of obtainingthe information sought than a request for production or a deposition,
+or (2) if ordered by the Court.
+(c) At the conclusion of other discovery, and at least 30 days prior to the discovery
+cut-off date, interrogatories seeking the claims and contentions of the opposing
+party may be served unless the Court has ordered otherwise.
+Similarly, Requests for Production numbers 1, 2, 4, 6(i), 9, 12, 30, 35 and 37 also violate
+Local Rule 33.3 in that they rely on the offending interrogatory requests. The Rule provides that
+a party must first try to obtain discovery through document production and testimony. Discovery
+does not close in this case until July 1, 2016, and Defendant has not yet noticed a deposition. As
+such, these interrogatories violate Local Rule 33.3 and are premature.
+Defendant’s First Set of Discovery Requests also violates Rule 33, Fed. R. Civ. P., which
+provides “a party may serve on any other party no more than 25 interrogatories, including all
+discrete subparts” – in that Defendant has served a total of 59 interrogatories, including subparts,
+in violation of Rule 33. We ask that you immediately withdraw those interrogatoriesthat exceed
+the 25 interrogatory limit set by Rule 33.
+2
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 4 of 40
+Ms. Giuffreobjects to Defendant’s First Set of Discovery Requests to the extent they
+seek information that is protected by any applicable privilege, including but not limited to,
+attorney client privilege, work product privilege, joint defense/common interest privilege, agency
+privilege, investigative privilege, spousal privilege,doctor/patient privilege, accountant/client
+privilege, and any other applicable privilege.
+Ms. Giuffre objects to the requests to the extent Defendant’s First Set of Discovery
+Requests call for the production of documents or information that is already in the possession,
+custody, or control of the Defendant. Ms. Giuffre further objects to the requests to the extent that
+Defendant’s First Set of Discovery Requests is duplicative of documents and information that
+can equally or more readily be obtained by the Defendant.
+Ms. Giuffre objects to the requests to the extent that they seek documents that are not
+relevant, material, or necessary to this action and, thus, arenot reasonably calculated to lead to
+the discovery of admissible evidence. Many of the requests in the Defendant’s First Set of
+Discovery seek documents that are in no way limited to their relation to this case. Indeed, they
+seek documents that are not important to resolving the issues; documents that are not relevant 
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 1 of 40
+EXHIBIT A
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 2 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSE AND OBJECTIONS TO DEFENDANT’S
+FIRST SET OF DISCOVERY REQUESTS TO PLAINTIFF
+Plaintiff hereby serves her responses and objections to Defendant’s First Set of
+Discovery Requests.
+GENERAL OBJECTIONS
+Defendant’s First Set of Discovery Requests violates Local Civil Rule 33.3.Defendant
+has served interrogatories that are in direct violation of that Rulebecause the interrogatories are
+not “restricted to those seeking names of witnesses with knowledge of information relevant to
+the subject matter of the action, the computation of each category of damage alleged, and the
+existence, custodian, location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar nature.” Local
+Civil Rule 33.3(a). Instead, they seek information under subsections (b) and (c) of Local Civil
+Rule 33.3, and therefore, they should not be served because they are not “a more practical
+method of obtaining the information sought than a request for production or a deposition,” and
+because they were served in advance of the period “30 days prior to the discovery cut-off date.”
+Local Civil Rule 33.3(b), (c). The interrogatories you served violate Local Rule 33.3 and we ask
+1
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 3 of 40
+that you immediately withdraw those interrogatories. See Rule 33.3, Local Rules for the
+Southern District of New York; see alsoShannon v. New York City Transit Auth., No. 00 CIV.
+5079 (Sweet, J.), 2001 WL 286727, at *3 (S.D.N.Y. Mar. 22, 2001); accord Gary Friedrich
+Enterprises, LLC v. Marvel Enterprises, Inc., No. 08 CIV. 1533 BSJ JCF, 2011 WL 1642381, at
+*4 (S.D.N.Y. Apr. 26, 2011). Specifically,Rule 33.3 provides:
+(a) Unless otherwise ordered by the Court, at the commencement of discovery,
+interrogatories will be restricted to those seeking names of witnesses with
+knowledge of information relevant to the subject matter of the action, the
+computation of each category of damage alleged, and the existence, custodian,
+location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar
+nature.
+(b) During discovery, interrogatories other than those seeking information described
+in paragraph (a) above may only be served (1) if they are a more practical method
+of obtainingthe information sought than a request for production or a deposition,
+or (2) if ordered by the Court.
+(c) At the conclusion of other discovery, and at least 30 days prior to the discovery
+cut-off date, interrogatories seeking the claims and contentions of the opposing
+party may be served unless the Court has ordered otherwise.
+Similarly, Requests for Production numbers 1, 2, 4, 6(i), 9, 12, 30, 35 and 37 also violate
+Local Rule 33.3 in that they rely on the offending interrogatory requests. The Rule provides that
+a party must first try to obtain discovery through document production and testimony. Discovery
+does not close in this case until July 1, 2016, and Defendant has not yet noticed a deposition. As
+such, these interrogatories violate Local Rule 33.3 and are premature.
+Defendant’s First Set of Discovery Requests also violates Rule 33, Fed. R. Civ. P., which
+provides “a party may serve on any other party no more than 25 interrogatories, including all
+discrete subparts” – in that Defendant has served a total of 59 interrogatories, including subparts,
+in violation of Rule 33. We ask that you immediately withdraw those interrogatoriesthat exceed
+the 25 interrogatory limit set by Rule 33.
+2
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 4 of 40
+Ms. Giuffreobjects to Defendant’s First Set of Discovery Requests to the extent they
+seek information that is protected by any applicable privilege, including but not limited to,
+attorney client privilege, work product privilege, joint defense/common interest privilege, agency
+privilege, investigative privilege, spousal privilege,doctor/patient privilege, accountant/client
+privilege, and any other applicable privilege.
+Ms. Giuffre objects to the requests to the extent Defendant’s First Set of Discovery
+Requests call for the production of documents or information that is already in the possession,
+custody, or control of the Defendant. Ms. Giuffre further objects to the requests to the extent that
+Defendant’s First Set of Discovery Requests is duplicative of documents and information that
+can equally or more readily be obtained by the Defendant.
+Ms. Giuffre objects to the requests to the extent that they seek documents that are not
+relevant, material, or necessary to this action and, thus, arenot reasonably calculated to lead to
+the discovery of admissible evidence. Many of the requests in the Defendant’s First Set of
+Discovery seek documents that are in no way limited to their relation to this case. Indeed, they
+seek documents that are not important to resolving the issues; documents that are not relevant to
+any party’s claim or defense; anddocuments that are not proportional to the needs of the case.
+Such requests create a heavy burden on Ms. Giuffre that outweighs any benefit.Such discovery
+is prohibited by the Federal Rules of Civil Procedure, particularly under the 2015 amendments to
+Rule 26(b)(1), Fed. R. Civ. P., and is wholly inappropriate.
+Ms. Giuffre objects to the requests to the extent that they are overly broad and unduly
+burdensome, as individually logging all privileged responsive documents would be overly
+burdensome. Plaintiff contends that requests targeting such privileged information are overly
+broad under Rule 26(b)(1), Fed. R. Civ. P. Specifically, Ms. Giuffre objects to the requests as
+3
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 5 of 40
+overly burdensome to the extent that they would require logging voluminous and ever-increasing
+privileged communications between Ms. Giuffre and her counsel after the date litigation
+commenced on September 21, 2015. Ms. Giuffre objects to the requests as overly burdensome to
+the extent that they would require logging voluminous privileged documents between Ms.
+Giuffre and her counsel related to Jane Doe #1 and Jane Doe #2 v. United States, Case no. 08-
+80736-CIV-Marra, pending in the Southern District of Florida; Bradley Edwards and Paul
+Cassell v. Alan Dershowitz, Case no. CACE 15-000072, pending in the Seventeenth Judicial
+Circuit, Broward County, Florida; and Jane Doe No. 102 v. Jeffrey Epstein, Case No. 09-80656-
+CIV-Marra/Johnson (Southern District of Florida). Accordingly, due the undue burden of
+individually logging responsive privileged documents related to Defendant’s overly broad
+requests, Plaintiff has employed categorical logging of such privileged responsive documents
+pursuant to Local Civil Rule 26.2(c).
+Ms. Giuffre objects to the requests in that they seek to invade her privacy for the sole
+purpose of harassing and intimidating Ms. Giuffre who was a victim of sexual trafficking. Ms.
+Giuffre objects to the requests to the extent theyare overly broad and unduly burdensome.
+Ms. Giuffre objects to Defendant’s definition of “your attorneys” because it includes
+names of attorneys that do not represent her,including Spencer Kuvin and Jack Scarola.
+Ms. Giuffre’s responses to Defendant’s First Set of Discovery Requests are being made
+after reasonable inquiry into the relevant facts, and are based only upon the information and
+documentation that is presently known to her. Ms. Giuffre reserves the right to modify and/or
+supplement her responses. Ms. Giuffre is producing documents and information herewith,and
+she will continue to review and produce relevant documents until completion.
+Ms. Giuffre incorporates her above-listed general objections in the responses herein.
+4
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 6 of 40
+INTERROGATORIES
+1. State:
+a. Your present residential address;
+b. Each residential address You have had since 1998, including any
+residential treatment facilities;
+c. the dates You lived at each address;
+d. the other Persons who lived with You at each address and for what period
+of time they lived at such address.
+Response toInterrogatory One:
+Ms. Giuffre objects to this interrogatory in part because it violates Rule 33.3. Ms.
+Giuffreobjects to this interrogatory in that it seeks information that is sought by Defendant only
+to harass and intimidate Ms. Giuffre who was a victim of sexual trafficking.
+a. Due to safety concerns with respect to Ms. Giuffre and her minor children,
+she is not at liberty to reveal her present residential location. To ensure that
+Defendant is not prejudiced by the failure to provide information about Ms.
+Giuffre’s specific residential location,Ms. Giuffre agrees to have her
+attorney’s accept service on her behalf of any necessary communication or
+filings in this matter to be addressed to: Sigrid McCawley, Esq. Boies
+Schiller & Flexner LLP, 401 East Las Olas Blvd., Suite 1200, Fort
+Lauderdale, FL 33316.
+b. Ms. Giuffre can recall living at the following addresses during the period of
+1998 to the present. Ms. Giuffre may have lived at other locations for which
+she does not presently have the address. Ms. Giuffre is providing the
+5
+Case 1:15-cv-07433-LAP Document 1330-2 Filed 01/05/24 Page 7 of 40
+information she has presently to the best of her recollection and will
+supplement to the extent she obtains additional informationresponsive to
+this interrogatory.
+c. Ms. Giuffre believes she has lived at the following residences:
+! In January 1998, Ms. Giuffre was 14 years old. Ms. Giuffre recalls
+one facility named “Growing Together” that was located in or around
+Pal

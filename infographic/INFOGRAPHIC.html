@@ -1,0 +1,448 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epstein Documents - Analysis Infographic</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 0;
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #ff4444;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            color: #aaa;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: rgba(255,255,255,0.1);
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            border: 2px solid rgba(255,255,255,0.1);
+            transition: transform 0.3s, border-color 0.3s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            border-color: #ff4444;
+        }
+        
+        .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #ff4444;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            font-size: 1.1em;
+            color: #ccc;
+        }
+        
+        .chart-container {
+            background: rgba(255,255,255,0.05);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .chart-title {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            color: #ff4444;
+        }
+        
+        canvas {
+            max-height: 400px;
+        }
+        
+        .top-list {
+            background: rgba(255,255,255,0.05);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .top-list-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px;
+            margin-bottom: 10px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 10px;
+            border-left: 4px solid #ff4444;
+        }
+        
+        .rank {
+            font-weight: bold;
+            color: #ff4444;
+            margin-right: 15px;
+        }
+        
+        .name {
+            flex-grow: 1;
+        }
+        
+        .count {
+            font-weight: bold;
+            color: #4CAF50;
+        }
+        
+        .warning-box {
+            background: rgba(255,68,68,0.2);
+            border: 2px solid #ff4444;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .warning-title {
+            font-size: 1.5em;
+            color: #ff4444;
+            margin-bottom: 10px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #888;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ðŸ” EPSTEIN DOCUMENTS</h1>
+            <p class="subtitle">Comprehensive Analysis & Investigation</p>
+            <p class="subtitle">Generated: November 16, 2025</p>
+        </header>
+        
+        <div class="warning-box">
+            <div class="warning-title">âš ï¸ Investigation Summary</div>
+            <p>This infographic presents analysis of 388 court documents related to the Jeffrey Epstein case. All data is extracted from publicly released court records.</p>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">388</div>
+                <div class="stat-label">Documents Analyzed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</div>
+                <div class="stat-label">People Identified</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">1 1 1 1 1 1 1</div>
+                <div class="stat-label">VIPs Tracked</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">37,086</div>
+                <div class="stat-label">Network Connections</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">44</div>
+                <div class="stat-label">Docs with Flagged Terms</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">40</div>
+                <div class="stat-label">Docs with VIP Mentions</div>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <h2 class="chart-title">ðŸ“Š Top 20 Most Mentioned People</h2>
+            <canvas id="topPeopleChart"></canvas>
+        </div>
+        
+        <div class="chart-container">
+            <h2 class="chart-title">ðŸŽ¯ VIP Mentions Distribution</h2>
+            <canvas id="vipChart"></canvas>
+        </div>
+        
+        <div class="top-list">
+            <h2 class="chart-title">ðŸ‘¥ Top 20 People - Detailed List</h2>            <div class="top-list-item">
+                <span class="rank">#1</span>
+                <span class="name">Liberation Sans</span>
+                <span class="count">193 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#2</span>
+                <span class="name">United States Courts</span>
+                <span class="count">192 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#3</span>
+                <span class="name">Administrative Office</span>
+                <span class="count">192 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#4</span>
+                <span class="name">Paper Capture Plug</span>
+                <span class="count">180 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#5</span>
+                <span class="name">Adobe Acrobat Pro</span>
+                <span class="count">180 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#6</span>
+                <span class="name">Times New Roman</span>
+                <span class="count">132 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#7</span>
+                <span class="name">giuffre</span>
+                <span class="count">120 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#8</span>
+                <span class="name">Ju Nd</span>
+                <span class="count">117 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#9</span>
+                <span class="name">Nicole Simmons</span>
+                <span class="count">53 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#10</span>
+                <span class="name">maxwell</span>
+                <span class="count">52 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#11</span>
+                <span class="name">virginia giuffre</span>
+                <span class="count">48 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#12</span>
+                <span class="name">Microsoft Word</span>
+                <span class="count">40 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#13</span>
+                <span class="name">Courier New</span>
+                <span class="count">35 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#14</span>
+                <span class="name">Aspose Ltd</span>
+                <span class="count">27 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#15</span>
+                <span class="name">Acrobat Distiller</span>
+                <span class="count">12 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#16</span>
+                <span class="name">Memo Style</span>
+                <span class="count">7 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#17</span>
+                <span class="name">Microsoft Outlook</span>
+                <span class="count">7 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#18</span>
+                <span class="name">epstein</span>
+                <span class="count">6 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#19</span>
+                <span class="name">Hb Kq</span>
+                <span class="count">6 mentions</span>
+            </div>            <div class="top-list-item">
+                <span class="rank">#20</span>
+                <span class="name">Rs Dh</span>
+                <span class="count">6 mentions</span>
+            </div>        </div>
+        
+        <div class="chart-container">
+            <h2 class="chart-title">ðŸ“ˆ Document Analysis Breakdown</h2>
+            <canvas id="docBreakdownChart"></canvas>
+        </div>
+        
+        <footer>
+            <p>Analysis generated from 388 court documents</p>
+            <p>For complete analysis, see the analytics and investigation folders</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Top People Chart
+        const topPeopleCtx = document.getElementById('topPeopleChart').getContext('2d');
+        new Chart(topPeopleCtx, {
+            type: 'bar',
+            data: {
+                labels: [                    'Liberation Sans',
+                    'United States Courts',
+                    'Administrative Office',
+                    'Paper Capture Plug',
+                    'Adobe Acrobat Pro',
+                    'Times New Roman',
+                    'giuffre',
+                    'Ju Nd',
+                    'Nicole Simmons',
+                    'maxwell',
+                    'virginia giuffre',
+                    'Microsoft Word',
+                    'Courier New',
+                    'Aspose Ltd',
+                    'Acrobat Distiller',
+                    'Memo Style',
+                    'Microsoft Outlook',
+                    'epstein',
+                    'Hb Kq',
+                    'Rs Dh',
+                ],
+                datasets: [{
+                    label: 'Mentions',
+                    data: [                        193,
+                        192,
+                        192,
+                        180,
+                        180,
+                        132,
+                        120,
+                        117,
+                        53,
+                        52,
+                        48,
+                        40,
+                        35,
+                        27,
+                        12,
+                        7,
+                        7,
+                        6,
+                        6,
+                        6,
+                    ],
+                    backgroundColor: 'rgba(255, 68, 68, 0.8)',
+                    borderColor: 'rgba(255, 68, 68, 1)',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    x: {
+                        ticks: { color: '#fff' },
+                        grid: { color: 'rgba(255,255,255,0.1)' }
+                    },
+                    y: {
+                        ticks: { color: '#fff' },
+                        grid: { color: 'rgba(255,255,255,0.1)' }
+                    }
+                }
+            }
+        });
+        
+        // VIP Chart
+        const vipCtx = document.getElementById('vipChart').getContext('2d');
+        new Chart(vipCtx, {
+            type: 'doughnut',
+            data: {
+                labels: [                    'ross',
+                    'epstein',
+                    'maxwell',
+                    'ghislaine maxwell',
+                    'virginia giuffre',
+                    'marcinkova',
+                    'giuffre',
+                ],
+                datasets: [{
+                    data: [                        2,
+                        6,
+                        52,
+                        2,
+                        48,
+                        2,
+                        120,
+                    ],
+                    backgroundColor: [
+                        '#ff4444', '#ff6b6b', '#ff8787', '#ffa3a3',
+                        '#ffbfbf', '#ffd4d4', '#ffe0e0'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { color: '#fff' }
+                    }
+                }
+            }
+        });
+        
+        // Document Breakdown Chart
+        const docCtx = document.getElementById('docBreakdownChart').getContext('2d');
+        new Chart(docCtx, {
+            type: 'pie',
+            data: {
+                labels: [
+                    'Docs with Illegal Terms',
+                    'Docs with VIP Mentions',
+                    'Other Documents'
+                ],
+                datasets: [{
+                    data: [
+                        44,
+                        40,
+                        344
+                    ],
+                    backgroundColor: [
+                        '#ff4444',
+                        '#ffa500',
+                        '#4CAF50'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { color: '#fff' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

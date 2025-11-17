@@ -1,0 +1,526 @@
+====================================================================================================
+EMAIL #0144 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1330.1_1.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        3,392
+Character Count:   21,106
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     london, florida, new york
+Type:                Has Attachments
+Thread Replies:    2
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Thread: 2 replies | Type: Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 1 of 13
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+DECLARATION OF PAUL G. CASSELL IN SUPPORT OF PLAINTIFF’S
+OPPOSITION TO PROPOSED INTERVENOR ALAN M. DERSHWOITZ’S MOTION
+FOR PERMISSIVE INTERVENTION
+I, Paul G. Cassell, declare that the below is true and correct to the best of my knowledge
+as follows:
+BACKGROUND
+1. I am a licensed attorney in the state of Utah. I am authorized to practice before
+this Court pursuant to this Court’s Order granting my Application to Appear Pro Hac Vice.
+2. I respectfully submit this Declaration in opposition to Proposed Intervenor Alan
+M. Dershowitz’s Motion for Permissive Intervention and Unseal of Judicial Documents, or in the
+Alternative Modification of the Protective Order.
+3. I am the Ronald N. Boyce Presidential Professor of Criminal Law and University
+Distinguished Professor of Law at the S.J. Quinney College of Law, where I teach criminal
+procedure, criminal, and crime victims’ rights.
+1
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 2 of 13
+THE FLORIDA CRIME VICTIMS RIGHTS ACT CASE
+4. Since July 2008, I have been involved in important and precedent-setting crime
+victims’ rights litigation in the Southern District of Florida trying to protect the rights of various
+victims under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771. Along with Florida
+co-counsel Bradley J. Edwards, I have been pursuing a federal case pro bono on behalf of two
+young women who were sexually abused as underage girls by Dershowitz’s close personal friend
+– Jeffrey Epstein.
+5. On July 7, 2008, Mr. Edwards filed an emergency petition to enforce the rights of
+“Jane Doe No. 1” and “Jane Doe No. 2” under the CVRA, 18 U.S.C. § 3771, alleging that the
+Government had failed to provide them rights with regard to a plea arrangement it was pursuing
+with Epstein. DE 1,1 Jane Doe No. 1 and Jane Doe No. 2 v. United States, No. 9:08-cv-80736
+(S.D. Fla.). As the case developed, it became clear that the U.S. Attorney’s Office for the
+Southern District of Florida had concealed from Epstein’s victims a non-prosecution agreement
+(NPA) that they had reached with Epstein.
+6. During the litigation, Mr. Edwards and I have won several important victories for
+our clients, including a ruling that the CVRA can apply to protect crime victims’ rights even
+before an indictment is filed. See Paul G. Cassell, Nathanael J. Mitchell & Bradley J. Edwards,
+Crime Victims’ Rights During Criminal Investigations? Apply the Crime Victims’ Rights Act
+Before Criminal Charges are Filed, 104 J. CRIM. L. & CRIMINOLOGY 58, 67-69 (2014)
+(describing litigation concerning Epstein).
+7. In the course of that case, on October 11, 2011, the victims filed discovery
+requests with the Government, including requests specifically seeking information about
+1 In this section of the Declaration, all references to docket entries will be to CVRA case in the
+Southern District of Florida, No. 9:08-cv-80736.
+2
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 3 of 13
+Dershowitz, Prince Andrew, and others. Further efforts from the Government to avoid
+producing any discovery followed (see generally DE 225-1 at 4-5),2 ultimately leading to a
+further Court ruling in June 2013 that the Government should produce documents. DE 189. The
+Government then produced about 1,500 pages of largely irrelevant materials to the victims (DE
+225-1 at 5), while simultaneously submitting 14,825 pages of relevant materials under seal to the
+Court. The Government claimed that these pages were “privileged” for various reasons,
+attaching an abbreviated privilege log.
+8. While these discovery issues were pending, in the summer of 2014, Mr. Edwards
+and I contacted Government counsel to request their agreement to add two additional victims to
+the case, including Ms. Virginia Giuffre (who was identified in court pleadings as “Jane Doe No.
+3”). Edwards and I sought to have her added to the case via stipulation, which would have
+avoided the need to include any detailed facts about her abuse. Weeks went by and the
+Government – as it had done on a similar request for a stipulation to add another victim – did not
+respond to counsel’s request for a stipulation.
+9. Finally, on December 10, 2014, despite having had four months to provide a
+position, the Government responded by email to counsel that it was seeking more time,
+indicating that the Government understood that victims’ counsel might need to file a motion with
+the court on the matter immediately. DE 291 at 3-5. Rather than file a motion immediately,
+victims’ counsel waited and continued to press the Government for a stipulation. See id. at 5.
+Finally, on December 23, 2014 – more than four months after the initial request for a stipulated
+joinder into the case – the Government tersely indicated its objection, without indicating any
+2 Jeffrey Epstein also attempted to block discovery of materials, leading to an Eleventh Circuit
+ruling that the victims’ discovery efforts were proper. Doe v. Epstein, 749 F.3d 999 (11th Cir.
+2014).
+3
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 4 of 13
+reason: “Our position is that we oppose adding new petitioners at this stage of the litigation.” See
+DE 291 at 5.
+10. Because the Government now contested the joinder motion, Edwards and I
+prepared a more detailed pleading explaining the justification for granting the motion. One week
+after receiving the Government’s objection, on December 30, 2014, Ms. Giuffre (i.e., Jane Doe
+No. 3) and Jane Doe No. 4 filed a motion (and later a corrected motion) seeking to join the case.
+DE 279 and DE 280. Uncertain as to the basis for the Government’s objection, the motion briefly
+proffered the circumstances that would qualify the two women as “victims” eligible to assert
+rights under the CVRA. See 18 U.S.C. 3771(e) (defining “crime victim” protected under the
+Act). With regard to Ms. Giuffre, the motion indicated that when she was a minor, Jeffrey
+Epstein had trafficked her to Dershowitz and Prince Andrew (among others) for sexual purposes.
+Jane Doe No. 3 stated that she was prepared to prove her proffer. See DE 280 at 3 (“If allowed
+to join this action, Jane Doe No. 3 would prove the following . . . . “). The motion also provided
+specific reasons why Jane Doe No. 3’s participation was relevant to the case, including the
+pending discovery issues regarding Dershowitz and Prince Andrew. DE 280 at 9-10 (explaining
+several reasons participation of new victims was relevant to existing issues).
+11. After the motion was filed, various news organizations published articles about it.
+Dershowitz also made numerous media statements about the filing, including calling Jane Doe
+No. 3 “a serial liar” who “has lied through her teeth about many world leaders.”
+http://www.cnn.com/2015/01/06/us/dershowitz-sex-allegation/. Dershowitz also repeatedly
+called Edwards and me “two sleazy, unprofessional, disbarable lawyers.” Id. He made many
+similar remarks of an equivalent character, and also stated in media appearance that if we had
+4
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 5 of 13
+done one hour of work investigating Ms. Giuffre’s allegations of sexual abuse against him, we
+would have immediately seen that those allegations were false.
+12. On January 5, 2015, Dershowitz filed a motion to intervene to argue to have the
+allegations stricken. DE 282. Dershowitz also argued that Ms. Giuffre had not provided a sworn
+affidavit attesting to the truth of her allegations.
+13. On January 21, 2015, Edwards and I filed a response for our clients, Ms. Giuffre
+and Jane Doe No. 4. DE 291. The response enumerated nine specific reasons why Ms. Giuffre’s
+specific allegations against Dershowitz were relevant to the case, including the fact that Ms.
+Giuffre needed to establish that she was a “victim” in the case, that pending discovery requests
+concerning Dershowitz-specific documents were pending, and that Dershowitz’s role as a
+defense attorney in the case was highly relevant to the motive for the Government and defense
+counsel to conceal the plea deal from the victims. DE 291 at 17-26 & n.17. The response
+included a detailed affidavit from Ms. Giuffre about the sexual abuse she had suffered from
+Epstein, Dershowitz, and other powerful persons. DE 291-1.
+14. On February 6, 2015, Edwards and Cassell filed a further pleading (and affidavit
+from Ms. Giuffre, see DE 291-1) in support of her motion to intervene.
+15. On April 7, 2015, Judge Marra denied Ms. Giuffre’s motion to join the case.
+Judge Marra concluded that “at this juncture in the proceedings” details about the sexual abuse
+she had suffered was unnecessary to making a determination “of whether Jane Doe 3 and Jane
+Doe 4 should be permitted to join [the other victims’] claim that the Government violated their
+rights under the CVRA. The factual details regarding with whom and where the Jane Does
+engaged in sexual activities are impertinent to this central claim (i.e., that they were known
+victims of Mr. Epstein and the Government owed them CVRA duties), especially considering
+5
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 6 of 13
+that the details involve non-parties who are not related to the respondent Government.” DE 324
+at 5 (emphasis in original). While Judge Marra struck those allegations, he emphasized that
+“Jane Doe 3 is free to reassert these factual details through proper evidentiary proof, should [the
+victims] demonstrate a good faith basis for believing that such details are pertinent to a matter
+presented for the Court’s consideration. Judge Marra then denied Ms. Giuffre’s motion to join
+the case, but allowed her to participate as trial witness: “The necessary ‘participation’ of [Ms.
+Giuffre] . . . in this case can be satisfied by offering . . . properly supported – and relevant,
+admissible, and non-cumulative – testimony as needed, whether through testimony at trial . . . or
+affidavits supported in support [of] the relevancy of discovery requests.” DE 324 at 8 (emphasis
+deleted).
+16. In a later supplemental order, Judge Marra stat
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #2                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Paul G. Cassell, Esq.
+Dated: August 29, 2016.
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Meredith Schultz
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-52023
+3 This daytime business address is provided for identification and correspondence purposes only and is
+not intended to imply institutional endorsement by the University of Utah for this private representation.
+12
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 13 of 13
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on August 29, 2016, I electronically filed the foregoing
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+document is being served to all parties of record via transmission of the Electronic Court Filing
+System generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith Schultz
+Meredith Schultz
+13
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 1 of 13
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+DECLARATION OF PAUL G. CASSELL IN SUPPORT OF PLAINTIFF’S
+OPPOSITION TO PROPOSED INTERVENOR ALAN M. DERSHWOITZ’S MOTION
+FOR PERMISSIVE INTERVENTION
+I, Paul G. Cassell, declare that the below is true and correct to the best of my knowledge
+as follows:
+BACKGROUND
+1. I am a licensed attorney in the state of Utah. I am authorized to practice before
+this Court pursuant to this Court’s Order granting my Application to Appear Pro Hac Vice.
+2. I respectfully submit this Declaration in opposition to Proposed Intervenor Alan
+M. Dershowitz’s Motion for Permissive Intervention and Unseal of Judicial Documents, or in the
+Alternative Modification of the Protective Order.
+3. I am the Ronald N. Boyce Presidential Professor of Criminal Law and University
+Distinguished Professor of Law at the S.J. Quinney College of Law, where I teach criminal
+procedure, criminal, and crime victims’ rights.
+1
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 2 of 13
+THE FLORIDA CRIME VICTIMS RIGHTS ACT CASE
+4. Since July 2008, I have been involved in important and precedent-setting crime
+victims’ rights litigation in the Southern District of Florida trying to protect the rights of various
+victims under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771. Along with Florida
+co-counsel Bradley J. Edwards, I have been pursuing a federal case pro bono on behalf of two
+young women who were sexually abused as underage girls by Dershowitz’s close personal friend
+– Jeffrey Epstein.
+5. On July 7, 2008, Mr. Edwards filed an emergency petition to enforce the rights of
+“Jane Doe No. 1” and “Jane Doe No. 2” under the CVRA, 18 U.S.C. § 3771, alleging that the
+Government had failed to provide them rights with regard to a plea arrangement it was pursuing
+with Epstein. DE 1,1 Jane Doe No. 1 and Jane Doe No. 2 v. United States, No. 9:08-cv-80736
+(S.D. Fla.). As the case developed, it became clear that the U.S. Attorney’s Office for the
+Southern District of Florida had concealed from Epstein’s victims a non-prosecution agreement
+(NPA) that they had reached with Epstein.
+6. During the litigation, Mr. Edwards and I have won several important victories for
+our clients, including a ruling that the CVRA can apply to protect crime victims’ rights even
+before an indictment is filed. See Paul G. Cassell, Nathanael J. Mitchell & Bradley J. Edwards,
+Crime Victims’ Rights During Criminal Investigations? Apply the Crime Victims’ Rights Act
+Before Criminal Charges are Filed, 104 J. CRIM. L. & CRIMINOLOGY 58, 67-69 (2014)
+(describing litigation concerning Epstein).
+7. In the course of that case, on October 11, 2011, the victims filed discovery
+requests with the Government, including requests specifically seeking information about
+1 In this section of the Declaration, all references to docket entries will be to CVRA case in the
+Southern District of Florida, No. 9:08-cv-80736.
+2
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 3 of 13
+Dershowitz, Prince Andrew, and others. Further efforts from the Government to avoid
+producing any discovery followed (see generally DE 225-1 at 4-5),2 ultimately leading to a
+further Court ruling in June 2013 that the Government should produce documents. DE 189. The
+Government then produced about 1,500 pages of largely irrelevant materials to the victims (DE
+225-1 at 5), while simultaneously submitting 14,825 pages of relevant materials under seal to the
+Court. The Government claimed that these pages were “privileged” for various reasons,
+attaching an abbreviated privilege log.
+8. While these discovery issues were pending, in the summer of 2014, Mr. Edwards
+and I contacted Government counsel to request their agreement to add two additional victims to
+the case, including Ms. Virginia Giuffre (who was identified in court pleadings as “Jane Doe No.
+3”). Edwards and I sought to have her added to the case via stipulation, which would have
+avoided the need to include any detailed facts about her abuse. Weeks went by and the
+Government – as it had done on a similar request for a stipulation to add another victim – did not
+respond to counsel’s request for a stipulation.
+9. Finally, on December 10, 2014, despite having had four months to provide a
+position, the Government responded by email to counsel that it was seeking more time,
+indicating that the Government understood that victims’ counsel might need to file a motion with
+the court on the matter immediately. DE 291 at 3-5. Rather than file a motion immediately,
+victims’ counsel waited and continued to press the Government for a stipulation. See id. at 5.
+Finally, on December 23, 2014 – more than four months after the initial request for a stipulated
+joinder into the case – the Government tersely indicated its objection, without indicating any
+2 Jeffrey Epstein also attempted to block discovery of materials, leading to an Eleventh Circuit
+ruling that the victims’ discovery efforts were proper. Doe v. Epstein, 749 F.3d 999 (11th Cir.
+2014).
+3
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 4 of 13
+reason: “Our position is that we oppose adding new petitioners at this stage of the litigation.” See
+DE 291 at 5.
+10. Because the Government now contested the joinder motion, Edwards and I
+prepared a more detailed pleading explaining the justification for granting the motion. One week
+after receiving the Government’s objection, on December 30, 2014, Ms. Giuffre (i.e., Jane Doe
+No. 3) and Jane Doe No. 4 filed a motion (and later a corrected motion) seeking to join the case.
+DE 279 and DE 280. Uncertain as to the basis for the Government’s objection, the motion briefly
+proffered the circumstances that would qualify the two women as “victims” eligible to assert
+rights under the CVRA. See 18 U.S.C. 3771(e) (defining “crime victim” protected under the
+Act). With regard to Ms. Giuffre, the motion indicated that when she was a minor, Jeffrey
+Epstein had trafficked her to Dershowitz and Prince Andrew (among others) for sexual purposes.
+Jane Doe No. 3 stated that she was prepared to prove her proffer. See DE 280 at 3 (“If allowed
+to join this action, Jane Doe No. 3 would prove the following . . . . “). The motion also provided
+specific reasons why Jane Doe No. 3’s participation was relevant to the case, including the
+pending discovery issues regarding Dershowitz and Prince Andrew. DE 280 at 9-10 (explaining
+several reasons participation of new victims was relevant to existing issues).
+11. After the motion was filed, various news organizations published articles about it.
+Dershowitz also made numerous media statements about the filing, including calling Jane Doe
+No. 3 “a serial liar” who “has lied through her teeth about many world leaders.”
+http://www.cnn.com/2015/01/06/us/dershowitz-sex-allegation/. Dershowitz also repeatedly
+called Edwards and me “two sleazy, unprofessional, disbarable lawyers.” Id. He made many
+similar remarks of an equivalent character, and also stated in media appearance that if we had
+4
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 5 of 13
+done one hour of work investigating Ms. Giuffre’s allegations of sexual abuse against him, we
+would have immediately seen that those allegations were false.
+12. On January 5, 2015, Dershowitz filed a motion to intervene to argue to have the
+allegations stricken. DE 282. Dershowitz also argued that Ms. Giuffre had not provided a sworn
+affidavit attesting to the truth of her allegations.
+13. On January 21, 2015, Edwards and I filed a response for our clients, Ms. Giuffre
+and Jane Doe No. 4. DE 291. The response enumerated nine specific reasons why Ms. Giuffre’s
+specific allegations against Dershowitz were relevant to the case, including the fact that Ms.
+Giuffre needed to establish that she was a “victim” in the case, that pending discovery requests
+concerning Dershowitz-specific documents were pending, and that Dershowitz’s role as a
+defense attorney in the case was highly relevant to the motive for the Government and defense
+counsel to conceal the plea deal from the victims. DE 291 at 17-26 & n.17. The response
+included a detailed affidavit from Ms. Giuffre about the sexual abuse she had suffered from
+Epstein, Dershowitz, and other powerful persons. DE 291-1.
+14. On February 6, 2015, Edwards and Cassell filed a further pleading (and affidavit
+from Ms. Giuffre, see DE 291-1) in support of her motion to intervene.
+15. On April 7, 2015, Judge Marra denied Ms. Giuffre’s motion to join the case.
+Judge Marra concluded that “at this juncture in the proceedings” details about the sexual abuse
+she had suffered was unnecessary to making a determination “of whether Jane Doe 3 and Jane
+Doe 4 should be permitted to join [the other victims’] claim that the Government violated their
+rights under the CVRA. The factual details regarding with whom and where the Jane Does
+engaged in sexual activities are impertinent to this central claim (i.e., that they were known
+victims of Mr. Epstein and the Government owed them CVRA duties), especially considering
+5
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 6 of 13
+that the details involve non-parties who are not related to the respondent Government.” DE 324
+at 5 (emphasis in original). While Judge Marra struck those allegations, he emphasized that
+“Jane Doe 3 is free to reassert these factual details through proper evidentiary proof, should [the
+victims] demonstrate a good faith basis for believing that such details are pertinent to a matter
+presented for the Court’s consideration. Judge Marra then denied Ms. Giuffre’s motion to join
+the case, but allowed her to participate as trial witness: “The necessary ‘participation’ of [Ms.
+Giuffre] . . . in this case can be satisfied by offering . . . properly supported – and relevant,
+admissible, and non-cumulative – testimony as needed, whether through testimony at trial . . . or
+affidavits supported in support [of] the relevancy of discovery requests.” DE 324 at 8 (emphasis
+deleted).
+16. In a later supplemental order, Judge Marra stated that the victims “may re-refile
+these documents omitting the stricken portions.” DE 325. The victims have since refiled these
+documents.
+17. The CVRA case continues to be litigated, and the victims filed a comprehensive
+motion for summary judgment earlier this year. See DE 361 (filed Feb. 10, 2016; government
+response not yet filed).
+THE FLORIDA DEFAMATION CASE
+18. In about early January 2015, following the filing of Ms. Giuffre’s motion to join
+the CVRA case, Dershowitz launched a media attack not only on Ms. Giuffre but also on Mr.
+Edwards and me. Dershowitz repeatedly and publicly attacked the two of us, saying such things
+as “if these lawyers, these sleazy unprofessional, unethical lawyers, Paul Cassell and Brad
+Edwards, if they had just done an hours’ worth of research and work, they would have seen she
+is lying through her teeth.”
+http://www.cnn.com/videos/world/2015/01/05/wrn-uk-sex-abuse-allegations-alan-dershowitz-intv.cnn.
+6
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 7 of 13
+19. Rather than try these questions in the media, Mr. Edwards and I filed a
+defamation action in Florida against Dershowitz. We were represented by well-known Florida
+attorney Jack Scarola.
+20. During the course of the defamation action, I explained the significant work – far
+in excess of one hour – that Mr. Edwards and I had done to investigate Ms. Giuffre’s sworn
+allegations that Dershowitz had repeatedly sexually abused her. I explained that work at length
+in my deposition in the case. Attached hereto as Sealed Exhibit 1 is a true and correct copy of
+the first day of my deposition testimony in the case. Pages 61-117 explain some of the work that
+Mr. Edwards and I did to corroborate Ms. Giuffre’s allegations before filing them in the CVRA
+case.
+21. My deposition testimony includes the following information that Mr. Edwards
+and I relied upon in believing the truth of Giuffre’s allegations:
+a. The Palm Beach Police Department put together an 87-page report based on
+witness interviews and other evidence documenting sexual abuse of dozens of
+minor girls occurring in Epstein’s Florida mansion – a location where Ms.
+Giuffre said Dershowitz had abused her;
+b. The Palm Beach police report showed the sexual abuse was occurring on a
+daily basis and, indeed, in some cases as much as two or three times in one
+day in circumstances that would have made it obvious to a visiting guest that
+young girls were coming to the home for sexual purposes;
+c. Flight logs for Epstein’s private jet showed that Epstein (accompanied by Ms.
+Maxwell) flew Ms. Giuffre to the New York City area, a location where Ms.
+Giuffre said Dershowitz had abused her;
+7
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 8 of 13
+d. Epstein’s flight logs appeared to be disguising the identity of all of the
+passengers on Epstein’s plane by using such notations as “one female.”
+e. A very well-regarded Florida lawyer (Bob Josefsberg), who was selected by
+the U.S. Government to represent the victims of Epstein’s sexual abuse, had
+found Ms. Giuffre to be credible and in 2009 filed a civil complaint for her
+alleging not only sex abuse by Epstein but also by “academicians” -- a group
+into which Dershowitz fell;
+f. Shortly after Josefsberg filed the complaint for Ms. Giuffre alleging
+“academicians” had abuse her, one of Josefsberg’s partners, Ms. Ezell, began
+conducting depositions in Epstein-related cases asking about Dershowitz’s
+awareness of sexual abuse;
+g. Dershowitz showed up on flight logs for Epstein’s private jet, including a
+flight with an (apparently young) woman named “Tatiana” who did not appear
+to serve any business purpose for Epstein;
+h. When asked about Dershowitz, Epstein took the Fifth rather than indicate that
+Dershowitz was not involved in any criminal activities – a fact from which an
+obvious adverse inference could be drawn that Dershowitz was, indeed,
+involved in Epstein’s crimes;
+i. In moving down from the top of Epstein’s criminal conspiracy to the next
+echelon, three women – Sarah Kellen, Adrianna Mucinska, and Nadia
+Marcinkova – all took the Fifth when asked about Dershowitz’s awareness of
+Epstein’s sexual abuse of underage girls or whether Dershowitz was involved
+in massages with young girls;
+8
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 9 of 13
+j. Kellen, Mucinska, and Marcinkova were all covered by a highly unusual non-
+prosecution agreement (negotiated by, among others, Epstein defense attorney
+Alan Dershowitz) that provided immunity from prosecution for sex trafficking
+not only to Epstein but also to his “potential co-conspirators”;
+k. One of Epstein’s household employees, Juan Alessi, said that Dershowitz
+visited Epstein’s Palm Beach mansion four or five times a year, staying two or
+three days when he went there – and Alessi was able to identify a photograph
+of Ms. Giuffre as someone who was at the mansion as the same time as
+Dershowitz;
+l. Another Epstein household employee, Alfredo Rodriguez, said that during the
+time of his employment (2005), Dershowitz visited Epstein’s mansion at the
+same time as “massages” by underage girls were occurring in the mansion;
+m. When Rodriguez was arrested by the FBI trying to sell Epstein’s “little black
+book” of contacts and phone numbers, he appeared to have circled the name
+of Alan Dershowitz as someone who had information about Epstein criminal
+activities;
+n. Dershowitz had indicated in 2003 that he was an extremely close friend of
+Epstein – indeed, that the only person outside his immediately family with
+whom he shared drafts of his books was Epstein;
+o. Attempts had been made to depose Dershowitz or otherwise obtain
+information from him about his knowledge of Epstein’s sexual abuse in 2009,
+2011, 2013, and January 2015, and he had avoided all those efforts;
+9
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 10 of 13
+p. Dershowitz had told the Palm Beach Police Department that he was going to
+make Epstein available to answer questions about sex abuse of underage girls,
+but then repeatedly rescheduled those meetings, ultimately never producing
+Epstein – a pattern of deception that appeared to be designed to deliberately
+delay the investigation;
+q. Dershowitz’s pattern of avoiding depositions (and helping Epstein avoid
+questioning) was consistent with a pattern of other persons who were involved
+in Epstein’s international sex trafficking organization evading efforts to obtain
+information from them;
+r. Ms. Giuffre had alleged abuse by other powerful friends of Epstein, including
+Prince Andrew, and there was a photograph showing Prince Andrew with his
+arm around Ms. Giuffre apparently taken in London (where she said the sex
+abuse had taken place).
+Sealed Exhibit 1, Depo. of Paul Cassell (Oct. 16 & 17, 2015), at 61-117.
+22. Ms. Giuffre was not a party to the litigation between Dershowitz, Mr. Edwards,
+and me.
+23. During the course of the litigation, however, Dershowitz sought to obtain
+discovery from Ms. Giuffre. In particular, Dershowitz sought to obtain from Ms. Giuffre (a non-
+party to the action) all of her emails with the media. The Court denied his discovery request.
+Attached hereto as Sealed Exhibit 2 is a true and correct copy of the court’s order denying that
+discovery.
+24. Dershowitz produced many documents in the course of discovery in that case –
+and, ironically, he placed many document under a protective order in Florida. Attached hereto as
+10
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 11 of 13
+Sealed Exhibit 3 is a true and correct copy of the court’s protective order, which Dershowitz
+used to keep documents under seal.
+25. On January 16, 2016, Dershowitz took Ms. Giuffre’s deposition. As noted earlier,
+Ms. Giuffre recounted in detail repeated acts of sexual abuse by Dershowitz. See McCawley
+Dec., Ex. 4 at 88-91.
+26. Ultimately, Dershowitz settled the defamation case. That settlement included
+both a public statement and confidential monetary payments. As part of the settlement, Edwards
+and I withdrew our allegations against Dershowitz in the defamation case contained in the then-
+pending summary judgment motion and Dershowitz withdrew his allegations of unethical
+conduct, as reflected in the Notice of Withdrawal of Motion for Partial Summary Judgment
+attached hereto as Sealed Exhibit 4.
+27. As Mr. Edwards and I explained in the notice of withdrawal of this motion, “the
+withdrawal of the referenced filings is not intended to be, and should not be construed as being,
+an acknowledgement by Edwards and Cassell that the allegation made by Ms. Giuffre were
+mistaken. Edwards and Cassell do acknowledge that the public filing in the Crime Victims’
+Rights Act case of their client’s allegation against Defendant Dershowitz became a major
+distraction from the merits of the well-founded Crime Victims’ Rights Act by causing delay and,
+as a consequence, turned out to be a tactical mistake.” Id.
+28. Contrary to representations made by Dershowitz in his brief (DEC ¶24 at pg. 5),
+in settling our personal defamation case against Dershowitz, Edwards and I have never reached
+any conclusion that Ms. Giuffre – our client -- was mistaken in her allegations that Dershowitz
+sexually abused her.
+11
+Case 1:15-cv-07433-LAP Document 1330-1 Filed 01/05/24 Page 12 of 13
+I declare under penalty of perjury that the foregoing is true and correct.
+/s/ Paul G. Cassell ______________
+Paul G. Cassell, Esq.
+Dated: August 29, 2016.
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Meredith Schultz
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+E

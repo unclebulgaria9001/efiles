@@ -1,0 +1,188 @@
+====================================================================================================
+EMAIL #0192 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1320-16.pdf
+Subject:           legal advice
+Date:              01/03/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        593
+Character Count:   4,243
+Categories:        legal
+Key People:        giuffre, dershowitz, epstein, maxwell
+Key Locations:     new york
+Type:              Reply  Has Attachments
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Subject: legal advice | Date: 01/03/24 | Categories: legal | Key People: giuffre, dershowitz, epstein, maxwell | Type: Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 1 of 3
+EXHIBIT 3
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 2 of 3
+United States District Court
+For The Southern District of New York
+Giuffre v. Maxwell
+15-cv-07433-RWS
+Ghislaine Maxwell’s Privilege Log Amended as of May 16, 2016
+***Per Local Rule 26.2, the following privileges are asserted pursuant to British law, Colorado law and NY law.
+Log ID DATE DOC. BATES FROM TO CC RELATIONSHIP SUBJECT PRIVILEGE
+TYPE # OF PARTIES MATTER
+1. 2011.03.15 E-Mails 1000- Ghislaine Maxwell Brett Jaffe, Esq. Attorney / Client Communication Attorney-Client
+1013 re: legal advice
+2. 2011.03.15 E-Mails 1014- Brett Jaffe, Esq. Ghislaine Maxwell Attorney / Client Communication Attorney-Client
+1019 re: legal advice
+3. 2015.01.02 E-Mails 1020- Ross Gow Ghislaine Maxwell Attorney Agent / Communication Attorney-Client
+1026 Client re: legal advice
+4. 2015.01.02 E-Mail 1024- Ghislaine Maxwell Ross Gow Attorney Agent / Communication Attorney-Client
+1026 Client re: legal advice
+5. 2015.01.02 E-Mail 1027- Ross Gow Ghislaine Maxwell Brian Attorney Agent / Communication Attorney-Client
+1028 Basham Client re: legal advice
+6. 2015.01.06 E-Mail 1029 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest
+re: legal advice
+7. 2015.01.06 E-Mail 1030- Ghislaine Maxwell Jeffrey Epstein, Attorney / Client Communication Common Interest
+1043 Alan Dershowitz, Esq. re: legal advice
+8. 2015.01.10 E-Mail 1044 Ghislaine Maxwell Philip Barden, Esq., Attorney / Client Communication Attorney-Client
+Ross Gow re: legal advice
+9. 2015.01.10 E-Mail 1045- Ghislaine Maxwell Philip Barden, Esq. Client / Attorney Communication Attorney-Client
+1051 re: legal advice
+10. 2015.01.09 E-Mails 1052- Ross Gow Philip Barden, Esq. G. Agent / Attorney / Communication Attorney-Client
+2015.01.10 1055 Maxwell Client re: legal advice
+11. 2015.01.11 E-Mail 1055- Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest
+1058 re: legal advice
+12. 2015.01.11 E-Mail 1055- Philip Barden, Esq. Ross Gow G. Attorney / Agent / Communication Attorney-Client
+1058 Maxwell Client re: legal advice
+13. 2015.01.11 E-Mail 1056- Philip Barden, Esq. Ghislaine Maxwell Ross Attorney / Agent / Communication Attorney-Client
+1058 Gow Client re: legal advice
+1
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 3 of 3
+14. 2015.01.11 – E-Mails 1059- Jeffrey Epstein Ghislaine Maxwell Common Interest Communication Common Interest Privilege
+2015.01.17 1083 re: legal advice
+15. 2015.01.13 E-Mail 1067- Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest Privilege
+1073 re: legal advice
+16. 2015.01.13 E-Mail 1069- Philip Barden, Esq. Martin Weinberg, Esq. Common Interest Communication Common Interest Privilege
+1073, re: legal advice
+1076-
+1079
+17. 2015.01.13 E-Mails 1068- Philip Barden, Esq. Ghislaine Maxwell Mark Attorney / Client Communication Attorney-Client
+1069, Cohen re: legal advice
+1074-
+1076
+18. 2015.01.21 E-Mail 1088- Ross Gow Philip Barden, Esq., Ghislaine Agent / Attorney / Communication Attorney-Client
+1090 Maxwell Client re: legal advice
+19. 2015.01.21 - E-Mails 1084- Jeffrey Epstein Ghislaine Maxwell Common Interest Communication Common Interest Privilege
+2015.01.27 1098 re: legal advice
+20. 2015.01.21- E-Mails 1099 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest Privilege
+2015.01.27 re: legal advice
+21. 2015.04.22 E-mail 7 pages Jeffrey Epstein Ghislaine Maxwell Common Interest Forwarding Common Interest Privilege
+message from
+Martin Weinberg,
+labeled “Attorney-
+Client Privilege”
+with attachment
+22. Various E-mails Agent of Haddon, Agent of Haddon, Morgan & Agent of attorney and Attorney work Attorney Work Product
+Morgan & Foreman; Foreman; Laura Menninger Attorney product
+Laura Menninger
+23. Various E-mails Mary Borja; Laura Mary Borja; Laura Menninger Attorney Work Attorney work Attorney Work Product
+Menninger Product product
+24. 2015.10.21 – E-mail Darren Indyke; Laura Darren Indyke; Laura Menninger Attorneys for parties Common Interest Attorney Work Product;
+2015.10.22 chain with Menninger to Common Interest Agreement Common Interest Privilege
+attachmen Agreement
+t
+2
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 1 of 3
+EXHIBIT 3
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 2 of 3
+United States District Court
+For The Southern District of New York
+Giuffre v. Maxwell
+15-cv-07433-RWS
+Ghislaine Maxwell’s Privilege Log Amended as of May 16, 2016
+***Per Local Rule 26.2, the following privileges are asserted pursuant to British law, Colorado law and NY law.
+Log ID DATE DOC. BATES FROM TO CC RELATIONSHIP SUBJECT PRIVILEGE
+TYPE # OF PARTIES MATTER
+1. 2011.03.15 E-Mails 1000- Ghislaine Maxwell Brett Jaffe, Esq. Attorney / Client Communication Attorney-Client
+1013 re: legal advice
+2. 2011.03.15 E-Mails 1014- Brett Jaffe, Esq. Ghislaine Maxwell Attorney / Client Communication Attorney-Client
+1019 re: legal advice
+3. 2015.01.02 E-Mails 1020- Ross Gow Ghislaine Maxwell Attorney Agent / Communication Attorney-Client
+1026 Client re: legal advice
+4. 2015.01.02 E-Mail 1024- Ghislaine Maxwell Ross Gow Attorney Agent / Communication Attorney-Client
+1026 Client re: legal advice
+5. 2015.01.02 E-Mail 1027- Ross Gow Ghislaine Maxwell Brian Attorney Agent / Communication Attorney-Client
+1028 Basham Client re: legal advice
+6. 2015.01.06 E-Mail 1029 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest
+re: legal advice
+7. 2015.01.06 E-Mail 1030- Ghislaine Maxwell Jeffrey Epstein, Attorney / Client Communication Common Interest
+1043 Alan Dershowitz, Esq. re: legal advice
+8. 2015.01.10 E-Mail 1044 Ghislaine Maxwell Philip Barden, Esq., Attorney / Client Communication Attorney-Client
+Ross Gow re: legal advice
+9. 2015.01.10 E-Mail 1045- Ghislaine Maxwell Philip Barden, Esq. Client / Attorney Communication Attorney-Client
+1051 re: legal advice
+10. 2015.01.09 E-Mails 1052- Ross Gow Philip Barden, Esq. G. Agent / Attorney / Communication Attorney-Client
+2015.01.10 1055 Maxwell Client re: legal advice
+11. 2015.01.11 E-Mail 1055- Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest
+1058 re: legal advice
+12. 2015.01.11 E-Mail 1055- Philip Barden, Esq. Ross Gow G. Attorney / Agent / Communication Attorney-Client
+1058 Maxwell Client re: legal advice
+13. 2015.01.11 E-Mail 1056- Philip Barden, Esq. Ghislaine Maxwell Ross Attorney / Agent / Communication Attorney-Client
+1058 Gow Client re: legal advice
+1
+Case 1:15-cv-07433-LAP Document 1320-16 Filed 01/03/24 Page 3 of 3
+14. 2015.01.11 – E-Mails 1059- Jeffrey Epstein Ghislaine Maxwell Common Interest Communication Common Interest Privilege
+2015.01.17 1083 re: legal advice
+15. 2015.01.13 E-Mail 1067- Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest Privilege
+1073 re: legal advice
+16. 2015.01.13 E-Mail 1069- Philip Barden, Esq. Martin Weinberg, Esq. Common Interest Communication Common Interest Privilege
+1073, re: legal advice
+1076-
+1079
+17. 2015.01.13 E-Mails 1068- Philip Barden, Esq. Ghislaine Maxwell Mark Attorney / Client Communication Attorney-Client
+1069, Cohen re: legal advice
+1074-
+1076
+18. 2015.01.21 E-Mail 1088- Ross Gow Philip Barden, Esq., Ghislaine Agent / Attorney / Communication Attorney-Client
+1090 Maxwell Client re: legal advice
+19. 2015.01.21 - E-Mails 1084- Jeffrey Epstein Ghislaine Maxwell Common Interest Communication Common Interest Privilege
+2015.01.27 1098 re: legal advice
+20. 2015.01.21- E-Mails 1099 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest Privilege
+2015.01.27 re: legal advice
+21. 2015.04.22 E-mail 7 pages Jeffrey Epstein Ghislaine Maxwell Common Interest Forwarding Common Interest Privilege
+message from
+Martin Weinberg,
+labeled “Attorney-
+Client Privilege”
+with attachment
+22. Various E-mails Agent of Haddon, Agent of Haddon, Morgan & Agent of attorney and Attorney work Attorney Work Product
+Morgan & Foreman; Foreman; Laura Menninger Attorney product
+Laura Menninger
+23. Various E-mails Mary Borja; Laura Mary Borja; Laura Menninger Attorney Work Attorney work Attorney Work Product
+Menninger Product product
+24. 2015.10.21 – E-mail Darren Indyke; Laura Darren Indyke; Laura Menninger Attorneys for parties Common Interest Attorney Work Product;
+2015.10.22 chain with Menninger to Common Interest Agreement Common Interest Privilege
+attachmen Agreement
+t
+2

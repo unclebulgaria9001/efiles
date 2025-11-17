@@ -1,0 +1,218 @@
+====================================================================================================
+EMAIL #0021 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1327.23_1.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        448
+Character Count:   2,415
+Categories:        legal, media, correspondence
+Key People:        giuffre, maxwell
+Key Locations:     florida, new york, island
+Type:
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: giuffre, maxwell
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 1 of 4
+EXHIBIT 6
+(Filed Under Seal)
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 2 of 4
+Page 1
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+CASE NO. 15-CV-07433-RWS
+------------------------------------------x
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+-------------------------------------------x
+May 18, 2016
+9:04 a.m.
+C O N F I D E N T I A L
+Deposition of JOHANNA SJOBERG, pursuant
+to notice, taken by Plaintiff, at the
+offices of Boies Schiller & Flexner, 401
+Las Olas Boulevard, Fort Lauderdale, Florida,
+before Kelli Ann Willis, a Registered
+Professional Reporter, Certified Realtime
+Reporter and Notary Public within and
+for the State of Florida.
+MAGNA9
+LEGAL SERVICES
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 3 of 4
+Page 45
+1 Q. And what -- do you recall any observations
+2 about Jane Doe 2 when you met her?
+3 A. To speak with, she was a little rough
+4 around the edges, and I could see the progression of
+5 her being groomed a little. They got her braces.
+6 She had terrible posture. And with a lot of
+7 massages, she learned to stand up straight. So I
+8 just saw her become a much more confident person.
+9 Q. Do you recall how old she was when you
+10 first met her?
+11 A. I assumed she was 18, but I do not know
+12 her age.
+13 MS. McCAWLEY: We're going to take a break
+14 really quickly and then we will be back. So we
+15 are going to go off the record.
+16 THE VIDEOGRAPHER: Off the record at 9:48.
+17 (Thereupon, a recess was taken, after
+18 which the following proceedings were held:)
+19 THE VIDEOGRAPHER: On the record at 9:58.
+20 BY MS. McCAWLEY:
+21 Q. I'm just going to resume. I have a few
+22 more questions for you.
+23 You mentioned visiting the US Virgin
+24 Islands.
+25 Do you recall doing any activities with
+MAGNA9
+LEGAL SERVICES
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 4 of 4
+Page 159
+1 CERTIFICATE OF OATH
+2 STATE OF FLORIDA )
+3 COUNTY OF MIAMI-DADE )
+4
+5 I, the undersigned authority, certify
+6 that JOHANNA SJOBERG personally appeared before me
+7 and was duly sworn.
+8 WITNESS my hand and official seal this
+9 18th day of May, 2016.
+10
+11
+KELLI ANN WILLIS, RPR, CRR
+12 Notary Public, State of Florida
+My Commission No. FF911443
+13 Expires: 2/16/21
+14 + + + + + + + + + + + + + + + + + +
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+MAGNA9
+LEGAL SERVICES
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 1 of 4
+EXHIBIT 6
+(Filed Under Seal)
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 2 of 4
+Page 1
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+CASE NO. 15-CV-07433-RWS
+------------------------------------------x
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+-------------------------------------------x
+May 18, 2016
+9:04 a.m.
+C O N F I D E N T I A L
+Deposition of JOHANNA SJOBERG, pursuant
+to notice, taken by Plaintiff, at the
+offices of Boies Schiller & Flexner, 401
+Las Olas Boulevard, Fort Lauderdale, Florida,
+before Kelli Ann Willis, a Registered
+Professional Reporter, Certified Realtime
+Reporter and Notary Public within and
+for the State of Florida.
+MAGNA9
+LEGAL SERVICES
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 3 of 4
+Page 45
+1 Q. And what -- do you recall any observations
+2 about Jane Doe 2 when you met her?
+3 A. To speak with, she was a little rough
+4 around the edges, and I could see the progression of
+5 her being groomed a little. They got her braces.
+6 She had terrible posture. And with a lot of
+7 massages, she learned to stand up straight. So I
+8 just saw her become a much more confident person.
+9 Q. Do you recall how old she was when you
+10 first met her?
+11 A. I assumed she was 18, but I do not know
+12 her age.
+13 MS. McCAWLEY: We're going to take a break
+14 really quickly and then we will be back. So we
+15 are going to go off the record.
+16 THE VIDEOGRAPHER: Off the record at 9:48.
+17 (Thereupon, a recess was taken, after
+18 which the following proceedings were held:)
+19 THE VIDEOGRAPHER: On the record at 9:58.
+20 BY MS. McCAWLEY:
+21 Q. I'm just going to resume. I have a few
+22 more questions for you.
+23 You mentioned visiting the US Virgin
+24 Islands.
+25 Do you recall doing any activities with
+MAGNA9
+LEGAL SERVICES
+Case 1:15-cv-07433-LAP Document 1327-23 Filed 01/05/24 Page 4 of 4
+Page 159
+1 CERTIFICATE OF OATH
+2 STATE OF FLORIDA )
+3 COUNTY OF MIAMI-DADE )
+4
+5 I, the undersigned authority, certify
+6 that JOHANNA SJOBERG personally appeared before me
+7 and was duly sworn.
+8 WITNESS my hand and official seal this
+9 18th day of May, 2016.
+10
+11
+KELLI ANN WILLIS, RPR, CRR
+12 Notary Public, State of Florida
+My Commission No. FF911443
+13 Expires: 2/16/21
+14 + + + + + + + + + + + + + + + + + +
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+MAGNA9
+LEGAL SERVICES

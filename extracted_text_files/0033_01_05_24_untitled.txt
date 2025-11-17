@@ -1,0 +1,227 @@
+================================================================================
+EMAIL EXTRACTION FROM: gov.uscourts.nysd.447706.1328.18.pdf
+================================================================================
+
+Subject: 
+Date: 01/05/24
+Source PDF: gov.uscourts.nysd.447706.1328.18.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 1 of 50
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+================================================================================
+REPLY 1
+================================================================================
+
+/
+PLAINTIFF’S RESPONSE IN OPPOSITION TO
+DEFENDANT’S SECOND MOTION TO COMPEL AND FOR SANCTIONS
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 2 of 50
+TABLE OF CONTENTS
+Page
+I. INTRODUCTION ...............................................................................................................1
+II. DEFENDANT’S ENTIRE MOTION SHOULD BE DENIED ...........................................1
+III. MOTION TO COMPEL RESPONSES TO INTERROGATORIES SHOULD BE
+DENIED ...............................................................................................................................2
+A. Interrogatory No. 5.................................................................................................. 2
+1. Ms. Giuffre’s Counsel’s Communications With the Media Are
+Outside the Scope of Rule 26 and Any Attempt at Collection Would
+be Unduly Burdensome ..............................................................................2
+2. Defendant is Already in Possession of Ms. Giuffre’s Communications
+With the Media ...........................................................................................3
+B. Interrogatory No. 6.................................................................................................. 5
+C. Interrogatory No. 7.................................................................................................. 8
+D. Interrogatory No. 8................................................................................................ 10
+E. Interrogatory No. 13.............................................................................................. 10
+1. Ms. Giuffre Has Answered This Interrogatory Completely .....................10
+2. This Court Has Already Ruled Against Defendant on Pre-1999
+Medical Records, so Defendant is Estopped From Bringing This
+Argument ..................................................................................................15
+3. This Request is Overly Burdensome and Disallowed Under New
+York Law ..................................................................................................17
+4. The Physician-patient Privilege Applies to These Documents ................19
+F. Interrogatory No. 14.............................................................................................. 20
+1. This Discovery is Barred by FRE 412 ......................................................20
+2. This Request if Propounded for Improper Purposes and Harassment ......21
+3. This Request Seeks Irrelevant Information ..............................................22
+i
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 3 of 50
+4. Sexual Assault Records are a Medical Event and Are Barred by This
+Court’s Order ............................................................................................23
+5. Information About Ms. Giuffre’s Sexual Abuse is Protected by
+Florida Statutes .........................................................................................24
+6. Defendant Makes Misrepresentations to the Court ..................................25
+7. Defendant Has Violated the Court’s Protective Order (DE 62) ...............25
+IV. PLAINTIFF’S ANSWERS TO DEFENDANT’S REQUESTS FOR ADMISSIONS
+ARE NOT DEFICIENT AND DEFENDANT’S MOTION SHOULD BE DENIED ......26
+A. Requests for Admission Nos. 1-8 and 13.............................................................. 26
+B. Requests for Admission Nos. 12 ........................................................................... 28
+V. PLAINTIFF’S RESPONSES TO DEFENDANT’S OVERLY BROAD REQUESTS
+FOR PRODUCTION ARE COMPLIANT WITH HER DISCOVERY
+OBLIGATIONS UNDER THE APPLICABLE RULES AND DEFENDANT’S
+MOTION SHOULD BE DENIED ....................................................................................30
+A. Request for Production No. 1................................................................................ 30
+B. Request for Production No. 4................................................................................ 36
+C. Request for Production No. 9................................................................................ 36
+D. Request for Production No. 10.............................................................................. 40
+E. Requests for Production No. 11 and No. 12 ......................................................... 40
+VI. CONCLUSION ..................................................................................................................42
+CERTIFICATE OF SERVICE ..................................................................................................... 44
+ii
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 4 of 50
+TABLE OF AUTHORITIES
+Page
+Cases
+Blodgett v. Siemens Industry, Inc.,
+2016 WL 4203490 (E.D.N.Y., 2016)..............................................
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 1 of 50
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSE IN OPPOSITION TO
+DEFENDANT’S SECOND MOTION TO COMPEL AND FOR SANCTIONS
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 2 of 50
+TABLE OF CONTENTS
+Page
+I. INTRODUCTION ...............................................................................................................1
+II. DEFENDANT’S ENTIRE MOTION SHOULD BE DENIED ...........................................1
+III. MOTION TO COMPEL RESPONSES TO INTERROGATORIES SHOULD BE
+DENIED ...............................................................................................................................2
+A. Interrogatory No. 5.................................................................................................. 2
+1. Ms. Giuffre’s Counsel’s Communications With the Media Are
+Outside the Scope of Rule 26 and Any Attempt at Collection Would
+be Unduly Burdensome ..............................................................................2
+2. Defendant is Already in Possession of Ms. Giuffre’s Communications
+With the Media ...........................................................................................3
+B. Interrogatory No. 6.................................................................................................. 5
+C. Interrogatory No. 7.................................................................................................. 8
+D. Interrogatory No. 8................................................................................................ 10
+E. Interrogatory No. 13.............................................................................................. 10
+1. Ms. Giuffre Has Answered This Interrogatory Completely .....................10
+2. This Court Has Already Ruled Against Defendant on Pre-1999
+Medical Records, so Defendant is Estopped From Bringing This
+Argument ..................................................................................................15
+3. This Request is Overly Burdensome and Disallowed Under New
+York Law ..................................................................................................17
+4. The Physician-patient Privilege Applies to These Documents ................19
+F. Interrogatory No. 14.............................................................................................. 20
+1. This Discovery is Barred by FRE 412 ......................................................20
+2. This Request if Propounded for Improper Purposes and Harassment ......21
+3. This Request Seeks Irrelevant Information ..............................................22
+i
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 3 of 50
+4. Sexual Assault Records are a Medical Event and Are Barred by This
+Court’s Order ............................................................................................23
+5. Information About Ms. Giuffre’s Sexual Abuse is Protected by
+Florida Statutes .........................................................................................24
+6. Defendant Makes Misrepresentations to the Court ..................................25
+7. Defendant Has Violated the Court’s Protective Order (DE 62) ...............25
+IV. PLAINTIFF’S ANSWERS TO DEFENDANT’S REQUESTS FOR ADMISSIONS
+ARE NOT DEFICIENT AND DEFENDANT’S MOTION SHOULD BE DENIED ......26
+A. Requests for Admission Nos. 1-8 and 13.............................................................. 26
+B. Requests for Admission Nos. 12 ........................................................................... 28
+V. PLAINTIFF’S RESPONSES TO DEFENDANT’S OVERLY BROAD REQUESTS
+FOR PRODUCTION ARE COMPLIANT WITH HER DISCOVERY
+OBLIGATIONS UNDER THE APPLICABLE RULES AND DEFENDANT’S
+MOTION SHOULD BE DENIED ....................................................................................30
+A. Request for Production No. 1................................................................................ 30
+B. Request for Production No. 4................................................................................ 36
+C. Request for Production No. 9................................................................................ 36
+D. Request for Production No. 10.............................................................................. 40
+E. Requests for Production No. 11 and No. 12 ......................................................... 40
+VI. CONCLUSION ..................................................................................................................42
+CERTIFICATE OF SERVICE ..................................................................................................... 44
+ii
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 4 of 50
+TABLE OF AUTHORITIES
+Page
+Cases
+Blodgett v. Siemens Industry, Inc.,
+2016 WL 4203490 (E.D.N.Y., 2016)......................................................................................... 2
+Does 1 and 2 v. United States,
+817 F. Supp. 2d 1337 (S.D. Fla. 2011) .................................................................................... 39
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014) ................................................................................................. 39
+Dubin,
+125 F.R.D 372 (S.D.N.Y. 1989). ............................................................................................. 30
+Elghanian v. Schachter,
+1997 WL 607546 (S.D.N.Y. 1997) ............................................................................................ 1
+Evanko v. Electronic Systems Assoc., Inc.,
+No. 91 Civ. 2851, 1993 WL 14458 (S.D.N.Y. Jan. 8, 1993) ................................................... 17
+Gibbons v. Food Lion, Inc.,
+No. 98-1197-CIV-T-23F, 1999 WL 33226474 (M.D. Fla. Feb.19, 1999) .............................. 21
+Havenfield Corp. v. H & R Block, Inc.,
+67 F.R.D. 93 (W.D.Mo.1973) .................................................................................................. 30
+Jane Doe 1 v. United States,
+No. 9:08-cv-80736 (S.D. Fla. July 7, 2008).............................................................................. 38
+Jane Does 1 and 2 v. United States,
+950 F. Supp. 2d 1262 (S.D. Fla. 2013) .................................................................................... 39
+Manessis v. New York City Dep’t of Transp.,
+No. 02 CIV. 359SASDF, 2002 WL 31115032 (S.D.N.Y. Sept. 24, 2002) ............................. 17
+S.E.C. v. Micro-Moisture Controls,
+21 F.R.D. 164 (S.D.N.Y.1957) ................................................................................................ 30
+Sgambellone v. Wheatley,
+165 Misc.2d 954, 630 N.Y.S.2d 835 (N.Y. Sup.Ct. 1995) ...................................................... 17
+Silva v. Pioneer Janitorial Servs., Inc.,
+No. CIV.A. 10-11264-JGD, 2011 WL 4729783 (D. Mass. Oct. 4, 2011) ......................... 21, 22
+iii
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 5 of 50
+Spin Master Ltd. v. Bureau Veritas Consumer Products Service, Inc.,
+2016 WL 690819 (W.D.N.Y., 2016) ....................................................................................... 30
+T. Rowe Price Small-Cap Fund, Inc. v. Oppenheimer & Co., Inc.,
+174 F.R.D. 38 (S.D.N.Y. 1997) ............................................................................................... 31
+Thalheim v. Eberheim,
+124 F.R.D. 34 (D.Conn.1988).................................................................................................. 30
+United States v. Consolidated Edison Co.,
+1988 WL 138275 (E.D.N.Y. Dec. 15, 1988) ........................................................................... 30
+Wachtman v. Trocaire College,
+532 N.Y.S.2d 943 (N.Y. App. Div. 1988) ............................................................................... 17
+Statutes
+18 U.S.C. § 3771 ..................................................................................................................... 38, 39
+18 U.S.C. § 3771(a)(9) .................................................................................................................. 39
+Fla. Stat. § 39.202(6)..................................................................................................................... 25
+Fla. Stat. § 480.041 ....................................................................................................................... 19
+Fla. Stat. § 794.026 ....................................................................................................................... 25
+Fla. Stat. § 985.036 ....................................................................................................................... 25
+Fla. Stat. § 985.04 ......................................................................................................................... 25
+Fla. Stat. § 985.054 ....................................................................................................................... 25
+Rules
+Fed. R. Civ. P. 26 ................................................................................................................... passim
+Fed. R. Civ. P. 26(a)(1)(A)(i) ......................................................................................................... 1
+Fed. R. Civ. P. 26(b)(1).......................................................................................................... passim
+Fed. R. Civ.P. 26(c) ...................................................................................................................... 21
+Fed. R. Civ. P. 33.3 .................................................................................................

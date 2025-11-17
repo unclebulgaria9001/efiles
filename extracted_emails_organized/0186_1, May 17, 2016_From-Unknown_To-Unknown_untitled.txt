@@ -1,0 +1,469 @@
+====================================================================================================
+EMAIL #0186 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1320-10.pdf
+Subject:           
+Date:              1,
+May 17, 2016
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        7,977
+Character Count:   51,358
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, epstein
+Key Locations:     london, florida, new york, island
+Type:
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 1,
+May 17, 2016 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, epstein | Thread: 1 replies
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 1 of 28
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+PLAINTIFF’S NON-REDACTED MOTION TO EXCEED PRESUMPTIVE TEN
+DEPOSITION LIMIT IN FEDERAL RULE CIVIL PROCEDURE 30(A)(2)(a)(ii)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+Tel: (954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue,Suite 2
+Fort Lauderdale, Florida 33301
+Tel: (954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+Tel: (801) 585-52021
+1 This daytime business address is provided for identification and correspondence purposes only and is
+not intended to imply institutional endorsement by the University of Utah for this private representation.
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 2 of 28
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES..........................................................................................................ii
+I. FACTUAL BACKGROUND.............................................................................................2
+A. Depositions Taken Thus Far By Ms. Giuffre..........................................................4
+1. Ghislaine Maxwell (7 Hours)......................................................................4
+2. Johanna Sjoberg (3 ½ Hours)......................................................................9
+B. Future Depositions Sought By Ms. Giuffre...........................................................11
+3. Juan Alessi (3 ½ Hours)............................................................................11
+4. Maria Alessi (3 ½ Hours)..........................................................................12
+5. David Rodgers (3 ½ Hours).......................................................................12
+6. Rinaldo Rizzo (3 ½ Hours)........................................................................12
+7. Jean Luc Brunel (3 ½ Hours)....................................................................13
+8. Ross Gow (3 ½ Hours)..............................................................................13
+9. Dana Burns (3 ½ Hours)............................................................................13
+10. Jo Jo Fontanella (3 ½ Hours).....................................................................13
+11. Detective Joe Recarey (3 ½ Hours)...........................................................14
+12. Michael Reiter (3 ½ Hours).......................................................................14
+13. Emmy Taylor (3 ½ Hours)........................................................................15
+14. Alexandra Hall (3 ½ Hours)......................................................................15
+15. Nadia Marcinkova (3 ½ Hours).................................................................16
+16. Sarah Kellen Vickers (3 ½ Hours)............................................................16
+17. Jeffrey Epstein (3 ½ Hours).......................................................................17
+II. DISCUSSION....................................................................................................................17
+i
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 3 of 28
+CONCLUSION.............................................................................................................................22
+ii
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 4 of 28
+TABLE OF AUTHORITIES
+Page
+Cases
+In re Weatherford International Sec. Litigation,
+No. 11 CIV. 1646 (LAK) (JCF), 2013 WL 5762923 (S.D.N.Y. Oct. 24, 2013).......................19
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)......................................................................................................21
+Raniola v. Bratton,
+243 F.3d 610 (2dCir. 2001)......................................................................................................19
+Scott v. City of Sioux City, Iowa,
+298 F.R.D. 400 (N.D. Iowa 2014).............................................................................................19
+Other Authorities
+Federal Rule of Civil Procedure 29...............................................................................................17
+Federal Rule of Civil Procedure 30...............................................................................................19
+iii
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 5 of 28
+Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
+motion to takeapproximately sevenadditional depositions in this casebeyond the presumptive
+ten deposition limit.Ms. Giuffre’s requests is still within the total number of hours allowed by
+the ten deposition limit because the parties have agreed that they will split the time for all third
+party witnesses such that Ms. Giuffre will only be expending at most 3 ½ hours at those
+additional depositions. In an abundance of caution, even though Ms. Giuffre will not likely be
+exceeding the total number of hours allowed for depositions, she seeks leave from this Court to
+confirm that she may proceed with the additional depositions for the reasons stated below.
+Ms. Giuffre has alleged that Defendant recruited females for Mr. Epstein, including
+underage females like herself, under the guiseof working in a legitimate position -such as an
+assistant or as a massage therapist -only to almost immediately be coerced or enticed into
+engaging in sex for money. Defendant has challenged the veracity of Ms. Giuffre, and appears
+to intendto argue that Ms. Giuffre cannot support the allegation that Ms. Maxwell recruited
+females for Mr. Epstein or that the females were coerced or enticed into sex. The sexual abuse
+that lies at the heart of this case took place behind closed doors –doors of Jeffrey Epstein’s
+various private mansions. Unsurprisingly, Ms. Giuffre must find supporting circumstantial
+evidence to support her claims. Moreover, because Mr. Epstein and Defendant were travelling
+between Mr. Epstein's numerous homes and thus many of the events relevant to this case took
+place more than 100 miles from the courthouse, Ms. Giuffre cannot compel most of the
+witnesses to appear via a trial subpoena. Accordingly, Ms. Giuffre seeks leave to take more than
+the standard ten depositions in this case. At this time, she seeks leave to take sevenadditional
+depositions, as articulatedbelow.2
+2Ms. Giuffre’s counsel met and conferredwith Defendant’s counsel both in person and by phone in an
+effort to obtain agreement to proceed with these depositionsbut was unable to obtain an agreement. See
+1
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 6 of 28
+I. FACTUAL BACKGROUND
+The Court is aware of the scope of this case from earlier pleadings and numerous
+hearings. Initially, Ms. Giuffre anticipated the scope of discovery on this case would be narrow,
+because many of the events (such as flying to London on one of Epstein’s planes with Maxwell)
+were supported by seemingly indisputable evidence, such as flight logs,and because the
+Defendant’s counsel initially suggested that she mayinvoke her Fifth Amendment rights.
+Instead, during her recent deposition, Defendant simply failed to recall many of the most
+significant events in this case or refused to respond directly to many important questions. As a
+result, Ms. Giuffre is now in a positionwhere she has to call multiple witnesses to establish
+fundamental facts in the case. For example, Defendant would not even admit that the initials
+“GM” which are on the private plane flight logs over 300 times, represent her initials for
+McCawley Decl. at Exhibit 1,May 17, 2016 EmailCorrespondence from Sigrid McCawley to Laura
+Menninger and Jeff Pagliuca with proposed deposition calendar. Ms. Giuffre’s ability to determine
+exactly which depositions would need to be taken was hamstrung by the Defendant’s refusal to sit for her
+deposition. As the Court will recall, Ms. Giuffre made efforts to set Defendant’s deposition starting in
+February 2016, yet Defendant did not sit for her deposition until after being ordered by the Court on April
+22, 2016. During that deposition, Defendant refused to answer a number of questions and refused to
+acknowledge basic facts in this case, thereby causing Ms. Giuffre to have to depose a number of
+unanticipated witnesses. Ms. Giuffre’s counsel started conferring with Defendant’s counsel in February
+2016 and has actively engaged in discussion about these depositions that Ms. Giuffre knew she needed to
+take. On May 9, 2016, the parties conferred regarding deposition scheduling and Ms. Giuffre noticed
+depositions in accordance with the datesand locations that Defendant’s counsel said were available,and,
+on May 17, 2016,provided her with a calendar outlining those dates. SeeMcCawley Decl. at Exhibit 1,
+May 17, 2016 Email Correspondence from Sigrid McCawley.Ms. Maxwell waited until one day before
+the first deposition scheduled to take place on May31, 2016 to inform Ms. Giuffre’s counsel that she
+refuses to attend the deposition of this subpoenaed witness unless Ms. Giuffre drops her request to seek
+additional depositions by way of this motion. “If you intend to seek more than 10 depositions or to
+continue the discovery cut-off post July 1, then we will not be appearing at the depositions next week…”
+SeeMcCawley Decl. at Exhibit 2, May 27, 2016 e-mail Correspondence from Laura Menninger to
+Bradley Edwards. This obstruction of discovery by refusing toattend subpoenaed depositions that were
+noticed to her about one month ago on May 4, 2016 should not be condoned. SeeMcCawley Decl. at
+Exhibit 3, May 4, 2016 Notice of Service and Subpoena to Juan Alessi. Defendant’s counsel is also
+apparently refusing to appear at the other two depositions set for next week, of Maria Alessi set for
+Wednesday, 
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 1 of 28
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S NON-REDACTED MOTION TO EXCEED PRESUMPTIVE TEN
+DEPOSITION LIMIT IN FEDERAL RULE CIVIL PROCEDURE 30(A)(2)(a)(ii)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+Tel: (954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue,Suite 2
+Fort Lauderdale, Florida 33301
+Tel: (954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+Tel: (801) 585-52021
+1 This daytime business address is provided for identification and correspondence purposes only and is
+not intended to imply institutional endorsement by the University of Utah for this private representation.
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 2 of 28
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES..........................................................................................................ii
+I. FACTUAL BACKGROUND.............................................................................................2
+A. Depositions Taken Thus Far By Ms. Giuffre..........................................................4
+1. Ghislaine Maxwell (7 Hours)......................................................................4
+2. Johanna Sjoberg (3 ½ Hours)......................................................................9
+B. Future Depositions Sought By Ms. Giuffre...........................................................11
+3. Juan Alessi (3 ½ Hours)............................................................................11
+4. Maria Alessi (3 ½ Hours)..........................................................................12
+5. David Rodgers (3 ½ Hours).......................................................................12
+6. Rinaldo Rizzo (3 ½ Hours)........................................................................12
+7. Jean Luc Brunel (3 ½ Hours)....................................................................13
+8. Ross Gow (3 ½ Hours)..............................................................................13
+9. Dana Burns (3 ½ Hours)............................................................................13
+10. Jo Jo Fontanella (3 ½ Hours).....................................................................13
+11. Detective Joe Recarey (3 ½ Hours)...........................................................14
+12. Michael Reiter (3 ½ Hours).......................................................................14
+13. Emmy Taylor (3 ½ Hours)........................................................................15
+14. Alexandra Hall (3 ½ Hours)......................................................................15
+15. Nadia Marcinkova (3 ½ Hours).................................................................16
+16. Sarah Kellen Vickers (3 ½ Hours)............................................................16
+17. Jeffrey Epstein (3 ½ Hours).......................................................................17
+II. DISCUSSION....................................................................................................................17
+i
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 3 of 28
+CONCLUSION.............................................................................................................................22
+ii
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 4 of 28
+TABLE OF AUTHORITIES
+Page
+Cases
+In re Weatherford International Sec. Litigation,
+No. 11 CIV. 1646 (LAK) (JCF), 2013 WL 5762923 (S.D.N.Y. Oct. 24, 2013).......................19
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)......................................................................................................21
+Raniola v. Bratton,
+243 F.3d 610 (2dCir. 2001)......................................................................................................19
+Scott v. City of Sioux City, Iowa,
+298 F.R.D. 400 (N.D. Iowa 2014).............................................................................................19
+Other Authorities
+Federal Rule of Civil Procedure 29...............................................................................................17
+Federal Rule of Civil Procedure 30...............................................................................................19
+iii
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 5 of 28
+Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
+motion to takeapproximately sevenadditional depositions in this casebeyond the presumptive
+ten deposition limit.Ms. Giuffre’s requests is still within the total number of hours allowed by
+the ten deposition limit because the parties have agreed that they will split the time for all third
+party witnesses such that Ms. Giuffre will only be expending at most 3 ½ hours at those
+additional depositions. In an abundance of caution, even though Ms. Giuffre will not likely be
+exceeding the total number of hours allowed for depositions, she seeks leave from this Court to
+confirm that she may proceed with the additional depositions for the reasons stated below.
+Ms. Giuffre has alleged that Defendant recruited females for Mr. Epstein, including
+underage females like herself, under the guiseof working in a legitimate position -such as an
+assistant or as a massage therapist -only to almost immediately be coerced or enticed into
+engaging in sex for money. Defendant has challenged the veracity of Ms. Giuffre, and appears
+to intendto argue that Ms. Giuffre cannot support the allegation that Ms. Maxwell recruited
+females for Mr. Epstein or that the females were coerced or enticed into sex. The sexual abuse
+that lies at the heart of this case took place behind closed doors –doors of Jeffrey Epstein’s
+various private mansions. Unsurprisingly, Ms. Giuffre must find supporting circumstantial
+evidence to support her claims. Moreover, because Mr. Epstein and Defendant were travelling
+between Mr. Epstein's numerous homes and thus many of the events relevant to this case took
+place more than 100 miles from the courthouse, Ms. Giuffre cannot compel most of the
+witnesses to appear via a trial subpoena. Accordingly, Ms. Giuffre seeks leave to take more than
+the standard ten depositions in this case. At this time, she seeks leave to take sevenadditional
+depositions, as articulatedbelow.2
+2Ms. Giuffre’s counsel met and conferredwith Defendant’s counsel both in person and by phone in an
+effort to obtain agreement to proceed with these depositionsbut was unable to obtain an agreement. See
+1
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 6 of 28
+I. FACTUAL BACKGROUND
+The Court is aware of the scope of this case from earlier pleadings and numerous
+hearings. Initially, Ms. Giuffre anticipated the scope of discovery on this case would be narrow,
+because many of the events (such as flying to London on one of Epstein’s planes with Maxwell)
+were supported by seemingly indisputable evidence, such as flight logs,and because the
+Defendant’s counsel initially suggested that she mayinvoke her Fifth Amendment rights.
+Instead, during her recent deposition, Defendant simply failed to recall many of the most
+significant events in this case or refused to respond directly to many important questions. As a
+result, Ms. Giuffre is now in a positionwhere she has to call multiple witnesses to establish
+fundamental facts in the case. For example, Defendant would not even admit that the initials
+“GM” which are on the private plane flight logs over 300 times, represent her initials for
+McCawley Decl. at Exhibit 1,May 17, 2016 EmailCorrespondence from Sigrid McCawley to Laura
+Menninger and Jeff Pagliuca with proposed deposition calendar. Ms. Giuffre’s ability to determine
+exactly which depositions would need to be taken was hamstrung by the Defendant’s refusal to sit for her
+deposition. As the Court will recall, Ms. Giuffre made efforts to set Defendant’s deposition starting in
+February 2016, yet Defendant did not sit for her deposition until after being ordered by the Court on April
+22, 2016. During that deposition, Defendant refused to answer a number of questions and refused to
+acknowledge basic facts in this case, thereby causing Ms. Giuffre to have to depose a number of
+unanticipated witnesses. Ms. Giuffre’s counsel started conferring with Defendant’s counsel in February
+2016 and has actively engaged in discussion about these depositions that Ms. Giuffre knew she needed to
+take. On May 9, 2016, the parties conferred regarding deposition scheduling and Ms. Giuffre noticed
+depositions in accordance with the datesand locations that Defendant’s counsel said were available,and,
+on May 17, 2016,provided her with a calendar outlining those dates. SeeMcCawley Decl. at Exhibit 1,
+May 17, 2016 Email Correspondence from Sigrid McCawley.Ms. Maxwell waited until one day before
+the first deposition scheduled to take place on May31, 2016 to inform Ms. Giuffre’s counsel that she
+refuses to attend the deposition of this subpoenaed witness unless Ms. Giuffre drops her request to seek
+additional depositions by way of this motion. “If you intend to seek more than 10 depositions or to
+continue the discovery cut-off post July 1, then we will not be appearing at the depositions next week…”
+SeeMcCawley Decl. at Exhibit 2, May 27, 2016 e-mail Correspondence from Laura Menninger to
+Bradley Edwards. This obstruction of discovery by refusing toattend subpoenaed depositions that were
+noticed to her about one month ago on May 4, 2016 should not be condoned. SeeMcCawley Decl. at
+Exhibit 3, May 4, 2016 Notice of Service and Subpoena to Juan Alessi. Defendant’s counsel is also
+apparently refusing to appear at the other two depositions set for next week, of Maria Alessi set for
+Wednesday, June 1, 2016 and originally noticed on May 4,2016 and Dave Rodgers set for Friday, June 3,
+2016 and originally noticed on May 4, 2016. While Ms. Giuffre had originally hoped to be ableto
+conclude discovery on July 1, 2016, Defendant’s refusalto attend depositions and agree to scheduling is
+putting Ms. Giuffre in a position where she will need additional time to complete discovery. See
+McCawley Decl. at Exhibit 4, May 26, 2016 Letter from Sigrid McCawley.
+2
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 7 of 28
+Ghislaine Maxwell. Therefore, Ms. Giuffre is now required to take the deposition of pilot Dave
+Rodgers to authenticate his pilot logs and the identity of the individuals on various flights.
+In addition, as the Court knows, this case involves allegations that Ms. Giuffre wasa
+victim of sexual abusewhen she was under the age of 18 after being recruited by Ghislaine
+Maxwell and Jeffrey Epstein. Ms. Giuffre has alleged that Defendant recruited her and other
+young females, unexperienced in massage, for sex with Jeffrey Epstein by lying to them and
+telling them that the job was to be herpersonal assistant or a massage therapist. That was a ruse.
+Instead, Defendant recruited these females for sex with Jeffrey Epstein and, often, with herself,
+and “massage” was a euphemism for sex in Defendant’s household.Defendant has stated that
+these claims are obvious lies.
+Aside from the deposition of the Defendant, Ms. Giuffrehas takenthedeposition of one
+other witness, Johanna Sjoberg, on May 18, 2016. Ms. Sjobergtestified that, while a twenty-
+year-old college student with no massage training, Ms. Maxwell, a stranger to her, approached
+heron her college campus,andtold her she would hireMs. Sjoberg as her personal assistant.
+After Ms. Sjoberg began to work for Defendant inside thehome she shared with Epstein,
+Defendant revealed that Ms. Sjoberg’s true “job” was to complete sex acts with Jeffrey Epstein.
+Defendant was explicit with her instructions, at one point scoldingMs. Sjoberg for failing to
+“finish [her] job” after Ms. Sjoberg massaged Epstein without completing the sex act, and
+because of this failure, Defendant, instead, had to “finish [her] job for her” and cause Epstein and
+complete the sex act. See McCawley Decl. at Exhibit 5, Deposition of Johanna Sjoberg.
+Accordingly, in this manner, Ms. Giuffre needs to depose other witnesses to show the veracity of
+her claim that Defendant recruited youngfemales, unexperienced in massage, for sex with
+Jeffrey Epstein, provingthat Defendant was lying when she called Ms. Giuffre a liar, and knew
+3
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 8 of 28
+at the time she made the defamatory statement that it was untrue. Testimony like that from Ms.
+Sjoberg’s refutes Defendant’s testimony, and goes to her credibility, and goes to the claim at the
+center of this case.
+Additionally, to prove Ms. Giuffre’s allegations, that span multiple years, on multiple
+continents, and multiple locations, Ms. Giuffre has arranged a series of depositions of persons
+with direct knowledge of the relevant issues. To prove her case, Ms. Giuffre believes that a
+minimum of seventeendepositions will be required. In reviewing this list of depositions, it is
+important to understand that only one of them –the Defendant’s –will consume afull seven
+hours of questioning by Ms. Giuffre’s counsel, as permitted under the rules.See Fed. R. Civ. P.
+30(d)(1). Apart from the Defendant’s deposition, all of the other depositions set by Ms. Giuffre
+have been pursuant to an agreement with Defendant’s counsel that Ms. Giuffre will be given half
+of the seven hours to ask questions. In the descriptions below, the time Ms. Giuffre will have to
+ask questions (or thus far has askedquestions) is indicated:
+A. Depositions Taken Thus Far By Ms. Giuffre
+1. Ghislaine Maxwell (7 hours). The defendant, of course, has relevant information
+in this case. But when Defendant was deposed, she refused to answer numerous questions about
+alleged adult consensual sex. Those refusals are currently before the Court in a pending motion
+to compel. DE155. And, more broadly, Defendant’s deposition makes it clear that she intends
+to contest many of the points that earlier had appeared to be potentially uncontested. For
+example, in pleadings before her deposition, Defendant had suggested that she might invoke her
+Fifth Amendment right to remain silent during questioning. Indeed, just a week before her
+deposition, Defendant filed a motion seeking the alternative relief of staying further proceedings
+so that she could get more information about whether to take the Fifth. See DE 101 at 2-4.
+4
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 9 of 28
+During her deposition, however, Defendant did not take the Fifth. Instead, she testified
+that she suffered from a series of memory lapses and could not recall many of the key issues in
+dispute in this case. As a result of Defendant’s inability to remember events, a variety of issues
+are now in dispute. For example, at her deposition, Defendant indicated that she lacked
+recollection of or was otherwiseunable tospecificallyanswer the following questions:
+! Whether Defendant observed a female under the age of 18 at Jeffrey Epstein’s home in
+Palm Beach. SeeMcCawley Decl. at Exhibit 6, Maxwell Depo. at 29.
+! Whether Defendant had meet Ms. Giuffre and introduced her to Epstein. Id. at 33.
+! Whether Defendant, in 2011, could recall having met Ms. Giuffre at the Mar-a-Lago in
+Palm Beach and thenwriting that fact in an email. Id. at 35.
+! Whether, when Defendant first met
+.
+! Whether Defendant could recall being on a plane with 'an-d- M-s.- G-iu-ff-re-. ■
+- r----------
+.
+! Whether the Defendant knew what Nadia Marcinkova was doing at Epstein’s mansion.
+Id. at 41, 44.
+! Whether Defendant knew the nature of the relationship between Epstein and Sarah
+Kellen. Id. at 47-48.
+! Whether Defendant knew that Sarah Kellen recruited girls under the age of 18 to come to
+Epstein’s mansions. Id. at 56-57.
+! Whether massage therapists at Epstein’s mansions performed sexual acts. Id. at 52-54.
+! Whether Defendant knew the age of Eva Dubin when she (Dubin) met Epstein. Id. at 58-
+59.
+! Whether Defendant advised Johanna Sjoberg that she (Sjoberg) could obtain extra money
+if she massaged Epstein. Id. at 61.
+! Whether Defendant introduced Sjoberg to Prince Andrew. Id. at 63.
+! Whether Defendant could recall Emmy Taylor brought masseuses to Epstein’s mansion.
+Id.at 67.
+5
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 10 of 28
+! Whether Defendant knew what Ms. Giuffre was required to wear while providing
+massages to Epstein. Id. at 68-69.
+! Whether Defendant could recall having a laundry basket of sex toys in Epstein’s Palm
+Beach mansion, as described by Juan Alessi. Id. at 70-75.
+! Whether Defendant could recall paying Ms. Giuffre. Id. at 75.
+! Whether Defendant was ever present to view Ms. Giuffre massaging Epstein. Id. at 75.
+! Whether Defendant could recall telling Ms. Giuffre that she needed a cell phone so that
+she could be on call regularly. Id. at 77.
+! Whether Defendant was required to be on call to come to Epstein’s mansion when he
+wanted her to come. Id. at 79.
+! Whether Defendant could recall Ms. Giuffre being at Epstein’s New York mansion when
+Prince Andrew came to visit. Id. at 80-81.
+! Whether Defendant could recall Ms. Giuffre staying at any of Epstein’s six homes. Id. at
+81.
+! Whether Defendant was aware that there were over 30 individuals who were minors who
+gave reports to the Palm Beach Police Department who said they were sexually assaulted
+by Epsteinduring the years that Defendant was working with him. Id. at 89-91.
+! Whether Defendant introduced Ms. Giuffre to Prince Andrew in London. Id. at 108.
+! Whether Ms. Giuffre ever stayed at Defendant’s home in London. Id. at 108.
+! Whether Defendant remembered taking a trip with Ms. Giuffre to travel over to Europe,
+including London. Id. at 108.
+! Whether Defendant could recall Prince Andrew being present in New York for a party
+where Johanna Sjoberg was also present. Id. at 112-13.
+! Whether a picture depicting Prince Andrew, Ms. Giuffre and Defendant was taken at
+Defendant’s London town home. Id. at 113-14.
+! Whether Defendant ever flew on one of Epstein’s planes with a 17 year old. Id. at 121-
+22.
+! Whether the notation “GM” on flight logs for passengers on Epstein’s planes represented
+the Defendant (i.e., Ghislaine Maxwell). Id. at 122-23.
+6
+Case 1:15-cv-07433-LAP Document 1320-10 Filed 01/03/24 Page 11 of 28
+! Whether Defendant knew that the flight logs produced by Dave Rogers (one of Epstein’s
+pilots) were accurate. Id. at 128-29.
+! Whether Defendant could recall ever being on a flight on one of Epstein’s planes with
+Ms. Giuffre. Id. at 132-33.
+! Whether Defendant could recall Epstein and former President Clinton being friendly
+towards each other. Id.at 135-36.
+! Whether Defendant could recall the purpose of a trip to Thailand with Epstein and former
+President Clinton was. Id. at 140.
+! Whether Defendant could recall Ms. Giuffre taking pictures on trips. Id. at 144.
+! Whether Defendant could recollect writing down messages on memo pads from various
+individuals at Epstein’s Palm Beach mansion. Id. at 150-57; 159-60.
+! Whether Defendant could recall receiving a message on a memo pad concerning
+! Whether Defendant could explain why a minor would be calling Epstein to say they had a
+female for him. Id. at 164.
+! Whether Defendant could recall a sixteen-year-old Russian girl who came to Epstein’s
+mansion? Id. at 167.
+! Whether Defendant believed that Epstein sexually abused minors. Id. at 171-80.
+! Whether Defendant was present at Epstein’s Florida mansion when police executed a
+sea

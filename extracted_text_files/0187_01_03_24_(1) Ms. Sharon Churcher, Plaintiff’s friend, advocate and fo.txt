@@ -1,0 +1,214 @@
+================================================================================
+EMAIL EXTRACTION FROM: 1320-28.pdf
+================================================================================
+
+Subject: (1) Ms. Sharon Churcher, Plaintiff’s friend, advocate and former journalist with the
+Date: 01/03/24
+Source PDF: 1320-28.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S COMBINED MEMORANDUM OF LAW
+IN OPPOSITION TO EXTENDING DEADLINE TO COMPLETE DEPOSITIONS AND
+MOTION FOR SANCTIONS FOR VIOLATION OF RULE 45
+.........................................
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 1 of 32
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 2 of 32
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 3
+LEGAL AUTHORITY ................................................................................................................... 5
+I. PLAINTIFF’S LACK OF DILIGENCE ................................................................................. 6
+■A. President Bill Clinton ........................................................................................................... 6
+B. Ross Gow ............................................................................................................................. 9
+C. Jean Luc Brunel ................................................................................................................. 10
+D. Jeffrey Epstein ................................................................................................................... 12
+E. Nadia Marcincova and Sarah Kellen ................................................................................. 14
+II. FIFTH AMENDMENT BY EPSTEIN, KELLEN OR MARCINCOVA NOT ADMISSIBLE
+IN THIS CASE AGAINST MS. MAXWELL ...................................................................... 15
+III. PLAINTIFF’S BAD FAITH DISCOVERY TACTICS SHOULD NOT BE REWARDED
+WITH EXTRA TIME ........................................................................................................ 18
+1. Plaintiff’s Rule 26 Revolving Door ............................................................................... 18
+2. Plaintiff’s Recurrent Rule 45 Violations ........................................................................ 19
+IV. MS. MAXWELL’S GOOD FAITH EFFORTS TO CONDUCT DISCOVERY ................ 20
+V. GOOD CAUSE EXISTS TO TAKE RE-DEPOSE PLAINTIFF AND TO DEPOSE
+SHARON CHURCHER EXISTS ........................................................................................ 23
+VI. ALTERNATIVELY, ALL OTHER DEADLINES NEED TO BE EXTENDED ............... 24
+CERTIFICATE OF SERVICE ..................................................................................................... 26
+i
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 3 of 32
+TABLE OF AUTHORITIES
+Carlson v. Geneva City School Dist., 277 F.R.D. 90 (W.D.N.Y. 2011); compare Reese v.
+Virginia Intern. Terminals, Inc., 286 F.R.D. 282 (E.D. Va. 2012) ............................................ 6
+Fox Industries, Inc. v. Gurovich, No. 03–CV–5166, 2006 WL 2882580, *11 (E.D.N.Y. Oct. 6,
+2006) ......................................................................................................................................... 19
+Grochowski v. Phoenix Const., 318 F.3d 80, 86 (2d Cir.2003). ..................................................... 5
+Iantosca v. Benistar Admin. Svcs., Inc., 765 F.Supp.2d 79 (D. Mass. 2011) ................................. 6
+LiButti v. United States, 107 F.3d 110, 121 (2d Cir. 1997) .......................................................... 16
+Murphy v. Board of Educ., 196 F.R.D. 220, 222 (W.D.N.Y.2000) .............................................. 19
+Perfect Pearl Co., Inc. v. Majestic Pearl & Stone, Inc., 889 F. Supp. 2d 453, 457 (S.D.N.Y.
+2012) ........................................................................................................................................... 5
+Sokol Holdings, Inc. v. BMD Munai, Inc., 05 Civ. 3749 (KMW)(DF), 2009 WL 2524611 at *7
+(S.D.N.Y. Aug. 14, 2009) ........................................................................................................... 5
+Usov v. Lazar, 13-cv-818 (RWS), 2014 WL 4354691, at *15 (S.D.N.Y. Sept. 2, 2014) ............. 20
+ii
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 4 of 32
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Combined Response
+(“Response”) in Opposition to Plaintiff’s Motion to Extend Deadline to Complete Depositions
+(“Motion”) and Motion for Sanctions For Violation of Rule 45, and states as follows:
+INTRODUCTION
+Apparently, Plaintiff seeks to take six (6) depositions beyond the scheduling order
+deadline of July 1, yet has failed to demonstrate good cause
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S COMBINED MEMORANDUM OF LAW
+IN OPPOSITION TO EXTENDING DEADLINE TO COMPLETE DEPOSITIONS AND
+MOTION FOR SANCTIONS FOR VIOLATION OF RULE 45
+.........................................
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 1 of 32
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 2 of 32
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 3
+LEGAL AUTHORITY ................................................................................................................... 5
+I. PLAINTIFF’S LACK OF DILIGENCE ................................................................................. 6
+■A. President Bill Clinton ........................................................................................................... 6
+B. Ross Gow ............................................................................................................................. 9
+C. Jean Luc Brunel ................................................................................................................. 10
+D. Jeffrey Epstein ................................................................................................................... 12
+E. Nadia Marcincova and Sarah Kellen ................................................................................. 14
+II. FIFTH AMENDMENT BY EPSTEIN, KELLEN OR MARCINCOVA NOT ADMISSIBLE
+IN THIS CASE AGAINST MS. MAXWELL ...................................................................... 15
+III. PLAINTIFF’S BAD FAITH DISCOVERY TACTICS SHOULD NOT BE REWARDED
+WITH EXTRA TIME ........................................................................................................ 18
+1. Plaintiff’s Rule 26 Revolving Door ............................................................................... 18
+2. Plaintiff’s Recurrent Rule 45 Violations ........................................................................ 19
+IV. MS. MAXWELL’S GOOD FAITH EFFORTS TO CONDUCT DISCOVERY ................ 20
+V. GOOD CAUSE EXISTS TO TAKE RE-DEPOSE PLAINTIFF AND TO DEPOSE
+SHARON CHURCHER EXISTS ........................................................................................ 23
+VI. ALTERNATIVELY, ALL OTHER DEADLINES NEED TO BE EXTENDED ............... 24
+CERTIFICATE OF SERVICE ..................................................................................................... 26
+i
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 3 of 32
+TABLE OF AUTHORITIES
+Carlson v. Geneva City School Dist., 277 F.R.D. 90 (W.D.N.Y. 2011); compare Reese v.
+Virginia Intern. Terminals, Inc., 286 F.R.D. 282 (E.D. Va. 2012) ............................................ 6
+Fox Industries, Inc. v. Gurovich, No. 03–CV–5166, 2006 WL 2882580, *11 (E.D.N.Y. Oct. 6,
+2006) ......................................................................................................................................... 19
+Grochowski v. Phoenix Const., 318 F.3d 80, 86 (2d Cir.2003). ..................................................... 5
+Iantosca v. Benistar Admin. Svcs., Inc., 765 F.Supp.2d 79 (D. Mass. 2011) ................................. 6
+LiButti v. United States, 107 F.3d 110, 121 (2d Cir. 1997) .......................................................... 16
+Murphy v. Board of Educ., 196 F.R.D. 220, 222 (W.D.N.Y.2000) .............................................. 19
+Perfect Pearl Co., Inc. v. Majestic Pearl & Stone, Inc., 889 F. Supp. 2d 453, 457 (S.D.N.Y.
+2012) ........................................................................................................................................... 5
+Sokol Holdings, Inc. v. BMD Munai, Inc., 05 Civ. 3749 (KMW)(DF), 2009 WL 2524611 at *7
+(S.D.N.Y. Aug. 14, 2009) ........................................................................................................... 5
+Usov v. Lazar, 13-cv-818 (RWS), 2014 WL 4354691, at *15 (S.D.N.Y. Sept. 2, 2014) ............. 20
+ii
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 4 of 32
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Combined Response
+(“Response”) in Opposition to Plaintiff’s Motion to Extend Deadline to Complete Depositions
+(“Motion”) and Motion for Sanctions For Violation of Rule 45, and states as follows:
+INTRODUCTION
+Apparently, Plaintiff seeks to take six (6) depositions beyond the scheduling order
+deadline of July 1, yet has failed to demonstrate good cause or diligence as to any.1 The
+witnesses include (1) President Bill Clinton, a witness that Plaintiff initiated informal attempts to
+depose on June 9, and (2) Ross Gow, who Plaintiff began steps to depose under the Hague
+Convention in London last Friday, June 17. Plaintiff also seeks to untimely depose (3) Jean Luc
+Brunel, a witness she had noticed for a mid-June deposition, who apparently did not appear on
+that date with agreement and consent of Plaintiff’s counsel.
+The remaining three witnesses Plaintiff seeks to untimely depose are ones who repeatedly
+have expressed their intention to take the Fifth Amendment as to all questions posed. Counsel
+for (4) Jeffrey Epstein, offered to accept service on or about April 11 but Plaintiff ignored that
+offer for more than six weeks. Plaintiff only began on June 12 any attempt to schedule that
+deposition in the Virgin Islands. Last week, Mr. Epstein’s counsel filed a Motion to Quash his
+deposition subpoena. The final untimely depositions sought by Plaintiff are for witnesses
+(5) Sarah Kellen and (6) Nadia Marcincova, about whom Plaintiff has made no public claims and
+thus, have no testimony relevant to this defamation action concerning whether Plaintiff’s public
+1
+In her Amended Corrected Reply In Support of Motion to Exceed Ten Depositions, Plaintiff represents that she
+only seeks to take three depositions beyond the limit of ten and that she no longer seeks depositions of witnesses
+Emmy Taylor, Dana Burns, JoJo Fontanilla, and Michael Reiter. (Doc. #224 at 2 n.4) She does not state her
+intentions with respect to other witnesses, like Maria Alessi, that she noticed but never deposed. However,
+comparing that Reply with her other motions, counsel has deduced the remaining witnesses from whom Plaintiff
+apparently seeks to secure deposition testimony in July. Plaintiff has already taken 6 depositions and another
+scheduled tomorrow. Thus by the close of discovery she will have taken 7 of her allotted 10 depositions.
+1
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 5 of 32
+allegations about Ghislaine Maxwell are – or rather are not – true. The attempted service of
+subpoenas on Epstein, Kellen and Marcincova all violated Rule 45(a)(4) and should be
+sanctioned by this Court.
+As to all of these witnesses, Plaintiff has fallen far short of the “good cause” required by
+Rule 16(b)(4) to modify the Scheduling Order. In fact, for the most part, her failures to actively
+pursue depositions with these witnesses qualifies as in-excusable neglect: She frittered away
+seven of the eight months of the discovery period and now has placed Ms. Maxwell, this Court,
+and the witnesses in the untenable position of trying to accommodate her last-minute scramble.
+In the absence of any acceptable excuses, and for the limited evidentiary value that most of the
+requested witnesses can provide, this Court should deny the request for the extra time to take
+these six depositions.
+The only witnesses for whom depositions should be permitted following the discovery
+cut-off are: (1) Ms. Sharon Churcher, Plaintiff’s friend, advocate and former journalist with the
+Daily Mail, who filed a Motion to Quash her subpoena on the day before her scheduled
+deposition,2 and (2) Plaintiff, who refused to answer questions at her deposition concerning
+highly relevant, non-privileged information.3
+Alternatively, if the Court is to grant additional time for Plaintiff to take depositions, Ms.
+Maxwell will be unduly prejudiced without sufficient additional time to (a) secure any witnesses
+to rebut testimony gleaned from these witnesses, (b) conduct discovery of Plaintiff’s retained
+experts, (c) submit a summary judgment motion which includes facts learned from these late
+depositions, and (d) prepare for trial. Thus, if the Court grants Plaintiff’s motion, the remaining
+deadlines in the Scheduling Order ought to be extended accordingly.
+2
+Ms. Churcher’s motion to quash will be heard this Thursday by the Court.
+3
+Ms. Maxwell is filing simultaneously with this Response a Motion to Re-Open Plaintiff’s Deposition.
+2
+Case 1:15-cv-07433-LAP Document 1320-28 Filed 01/03/24 Page 6 of 32
+BACKGROUND
+To divert attention away from her own lack of diligence, Plaintiff characteristically
+devotes much of her Motion blaming Ms. Maxwell and her counsel for her own problems with
+depositions. Not only is Plaintiff’s account factually inaccurate, none of it matters to whether
+she could timely complete the six depositions at issue.
+For example, the scheduling of Ms. Maxwell’s deposition (which depended, among other
+things, on an historic snowstorm, a disputed protective order, Plaintiff’s failure to timely produce
+documents, and counsel’s conflicting calendars, all of which have been amply documented with
+this Court)4 does not inform any analysis regarding Plaintiff’s lack of diligence in pursuing
+depositions of these six witnesses. See Rule 26d)(3) (“Unless the parties stipulate or the court
+orders otherwise for the parties’ and witn

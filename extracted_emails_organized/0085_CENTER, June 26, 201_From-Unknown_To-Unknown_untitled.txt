@@ -1,0 +1,518 @@
+====================================================================================================
+EMAIL #0085 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1330.11_1.pdf
+Subject:           
+Date:              CENTER, June 26, 2015
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        3,169
+Character Count:   19,703
+Categories:        legal, correspondence
+Key People:        giuffre, andrew, epstein, maxwell
+Key Locations:     florida, new york
+Type:
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: CENTER, June 26, 2015 | Categories: legal, correspondence | Key People: giuffre, andrew, epstein, maxwell | Thread: 1 replies
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 1 of 12
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+PLAINTIFF’S MOTION TO COMPEL DATA FROM DEFENDANT’S UNDISCLOSED
+EMAIL ACCOUNT AND FOR AN ADVERSE INFERENCE INSTRUCTION
+Plaintiff, Virginia Giuffre, by and through her undersigned counsel, files this Motion to
+Compel Data from Defendant’s Undisclosed Email Account and for An Adverse Inference
+Instruction regarding the data from that account, and states as follows.Defendant has not disclosed,
+nor produced data from, the email account she used while abusing Ms. Giuffre from 2000-2002
+in violation of this Court’s Order[DE 352]. Ms. Giuffre hereby moves to compel Defendant to
+produce this data, and requests that this Court enter an adverse inference jury instruction for this
+willful violation of this Court’s orders.
+I. BACKGROUND
+The earliest-dated email Defendant has produced in this litigation is from July 18, 2009.
+(GM_00069). Ms. Giuffre is aware of two email addresses that appear to be the email addresses
+Defendant used while Ms. Giuffre was with Defendant and Epstein, namely, from 2000 -2002.
+Defendant has denied that she used those accounts to communicate,but she has not disclosed the
+account she did useto communicate during that time, nor produce documents from it.
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 2 of 12
+Importantly,Defendant has never denied using an email account for communication from
+1999-2009, and the facts and circumstances show that it is exceedingly unlikely that Defendant
+did not use an email account to communicatethose years.1
+For example, according to United States Department of Commerce, “eighty-eight percent
+of adult Internet users sent or received e-mail” in 2000. SeeEric C. Newburger, “Home
+Computers and Internet Use in the United States: August 2000,” U.S.DEPARTMENT OF
+COMMERCE,ECONOMICS AND STATISTICS ADMINISTRATION,U.S.CENSUS BUREAU, September
+2001. Additionally, the Pew Research Center published findings thatcertain demographics have
+higher internet usage, including many demographics to which Defendant belongs. For example,
+higher rates of internet usage are found among younger adults (Defendant was 38in 1999); those
+with college educations (Defendant has a master’s degree); those in households earnin-g more
+than $75,000 (Defendant was in a household headed by a billionaire during that time, and that
+household had its own private email server and account); whites or English-speaking Asian-
+Americans (Defendant is white); and those who live in urban areas (Defendant lived in Palm
+Beach and Manhattan). SeeAndres Perrin and Maeve Duggan, ‘Americans’ Internet Access:
+2000-2015,” PEW RESEARCH CENTER, June 26, 2015.
+Additionally, her boyfriend, Jeffrey Epstein, with whom she shared a household from
+1999-2002 (and other years), implemented an entire, private email system to communicate with
+his household and employees, including Defendant.Accordingly, given Defendant’s
+extraordinary economic resources, her high-level social connections, and her elaborate
+residential email/internet configurationshe hadduring that time, it is extraordinarily unlikely that
+she would not employan almost ubiquitous communication tool, nor has she denied it.
+1On Friday, September 23, 2016, counsel for Ms. Giuffre sent a letter to Defendant inquiring about the undisclosed
+account. As of the date of this motion, Defendant has made no response.
+2
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 3 of 12
+A. The Account
+Ms. Giuffre has knowledge of the account because it was lis-ted as
+part of Defendant’s contact information (including phone number) on documents gatheredby the
+police from Epstein’s home, and turned over to the Palm Beach County State Attorney as part of
+the investigation and prosecution of Epstein.
+M Ghislaine Maxwell
+See(DE 280-2), Palm Beach County State Attorney’s Office, Public Records Request No.: 16-
+268, Disc 7 at p. 2305 (GIUFFRE007843). Despite the fact that this account was listed as her
+contact information in the home she shared with Epstein, and despite the fact that the username
+bears her initials, Defendant claims she does not recognize the account, and has no access to it.
+B. The Account
+The mindspring account is also listed as part of Defendant’s contact information gathered
+by the police. In her filing with this Court, Defendant represented that this was merely a “spam”
+account “to use when registering for retail sales notifications and the like,” and that it contains no
+relevant documents. (DE 345 at pg. 8). However, it appears that Jeffrey Epstein created the
+mindspring.org accounts to communicate with his household and with his employees, and did, in
+fact, communicate with them this way.
+As previously recounted, Jeffrey Epstein’s house manager, Juan Alessi testified that
+MindSpring account was in daily use by the Epstein household to send and receive messages, a
+household to which Defendant belonged:
+Q. So when there would be a message from one of them while they were out of town,
+they would call you, call you on the telephone?
+A. I haven't spoken to Ghislaine in 12 years.
+3
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 4 of 12
+Q. Sorry. I'm talking about when you worked there and you would receive a message that
+they were coming into town, would that be by way of telephone?
+A. Telephone, and also, there was a system at the house, that it was MindSpring,
+MindSpring I think it's called, that it was like a message system that would come from
+the office.
+Q. What is MindSpring?
+A. It was a server. I think it was --the office would have, like, a message system
+between him, the houses, the employees, his friends. They would write a message on the
+computer. There was no email at that time.
+Q. Okay. So what computer would you use?
+A. My computer in my office.
+Q. And so was part of your daily routine to go to your computer and check to see if you
+had MindSpring messages?
+A. No. That was at the end of my stay. That was the very end of my stay. I didn't get
+involved with that too much. But it was a message system that Jeffrey received every
+two, three hours, with all the messages that would have to go to the office in New York,
+and they will print it and send it faxed to the house, and I would hand it to him.
+Q. Did it look like the message pads that we've been looking at?
+A. No, no, nothing like that.
+Q. Was it typed-out messages?
+A. Yes, typed-out messages.
+Q. Just explain one example of how it would work. Let's say that Ghislaine wanted to
+send him a message on MindSpring. How would that work?
+-A. An example?
+Q. Sure.
+A. It got so ridiculous at the end of my stay, okay? That Mr. Epstein, instead of talking
+to me that he wants a cup of coffee, he will call the office; the office would type it; they
+would send it to me, Jeffrey wants a cup of coffee, or Jeffrey wants an orange juice out
+by the pool.
+Q. He would call the office in New York. They would then type it in MindSpring?
+4
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 5 of 12
+A. Send it to me.
+Q. How would you know to check for it? How would you know to look for this
+MindSpring?
+A. Because I was in the office. I was there. I was there. And we have a signal when it
+-come on and says, Hey, you've got mail.
+Q. Okay.
+A. Every day. Every day it was new things put in. That's why I left, too.
+Q. Do you know who set up the mind spring system?
+A. It was a computer guy. It was a computer guy who worked only for
+Jeffrey. Mark. Mark Lumber.
+Q. Was he local to Palm Beach?
+A. No. He was in New York. Everything was set up from New York. And Mark
+Lumber, I remember he came to Palm Beach to set up the system at the house.
+Alessi Dep. Tr. at 223:5-225:17. (June 1, 2016)(McCawley Decl. at Sealed Exhibit 1).
+Accordingly, mindspring was a domain nameset up for Jeffrey Epstein and his household to
+communicate withone another, and was, in fact, used in this manner.
+The sworn testimony of Janusz Banasiak, another of Epstein’s house managers, from the case
+L.M. v. Jeffery Epstein and Sarah Kellen,2 gives a fuller representation of how Defendant, and
+others in Epstein’s sex-trafficking ring, used their accounts on Epstein’s mindspring server:
+Q. Okay. Were you aware that Mr. Epstein used a Citrix program to link various computers?
+Did you know that?
+A. Yeah. I use Citrix too in my computer for exchanging e-mails and get through Internet.
+•
+***
+2Case No.: 502008CA028051XXXXMB AB, In the Circuit Court of the Fifteenth Judicial
+Circuit in and for Palm Beach County, Florida.
+5
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 6 of 12
+Q. That's not something that you were, you were privy to? You weren't, you weren't in the
+loop of the sharing of information in the house in terms of the computers being connected
+through any server?
+A. I don't really know what, how, how to answer your question because Citrix is for the
+whole organization to exchange e-mail between employees.
+Q. All right. You used the term?
+A. So, even my computer is connected to Citrix. I can receive mail and I can e-mail
+information to employee within organization. But I don't know if you can see to each
+computer what is going on on another computer.
+***
+Q. You have used the term organization; you can share within the organization. What do you
+--just so I can understand what you're calling the organization, what do you mean by that
+word?
+A. People employed by Jeffrey Epstein. There are a few groups of people, his office in New
+York and I guess --
+***
+Q. Okay. The other people mentioned as co-conspirators are Sarah Kellen, Adriana Ross, and
+Nadia Marcinkova. So we'll get to them in a minute but first just so we stay on the track of
+who was in the organization, is Sarah Kellen, Adriana Ross and Nadia Marcinkova all people
+-that you would also consider within the organization?
+A. Yes.
+Q. Okay. So, we just added three more names to it. Who else would you consider,
+-Ghislaine Maxwell?
+A. Yes.
+Banasiak Deposition at 56:13-17; 57:2-14; 58:1-7; 60:21-61:7 (February 16, 2010) (Emphasis
+added)(McCawley Decl. at Sealed Composite Exhibit 
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 1 of 12
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S MOTION TO COMPEL DATA FROM DEFENDANT’S UNDISCLOSED
+EMAIL ACCOUNT AND FOR AN ADVERSE INFERENCE INSTRUCTION
+Plaintiff, Virginia Giuffre, by and through her undersigned counsel, files this Motion to
+Compel Data from Defendant’s Undisclosed Email Account and for An Adverse Inference
+Instruction regarding the data from that account, and states as follows.Defendant has not disclosed,
+nor produced data from, the email account she used while abusing Ms. Giuffre from 2000-2002
+in violation of this Court’s Order[DE 352]. Ms. Giuffre hereby moves to compel Defendant to
+produce this data, and requests that this Court enter an adverse inference jury instruction for this
+willful violation of this Court’s orders.
+I. BACKGROUND
+The earliest-dated email Defendant has produced in this litigation is from July 18, 2009.
+(GM_00069). Ms. Giuffre is aware of two email addresses that appear to be the email addresses
+Defendant used while Ms. Giuffre was with Defendant and Epstein, namely, from 2000 -2002.
+Defendant has denied that she used those accounts to communicate,but she has not disclosed the
+account she did useto communicate during that time, nor produce documents from it.
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 2 of 12
+Importantly,Defendant has never denied using an email account for communication from
+1999-2009, and the facts and circumstances show that it is exceedingly unlikely that Defendant
+did not use an email account to communicatethose years.1
+For example, according to United States Department of Commerce, “eighty-eight percent
+of adult Internet users sent or received e-mail” in 2000. SeeEric C. Newburger, “Home
+Computers and Internet Use in the United States: August 2000,” U.S.DEPARTMENT OF
+COMMERCE,ECONOMICS AND STATISTICS ADMINISTRATION,U.S.CENSUS BUREAU, September
+2001. Additionally, the Pew Research Center published findings thatcertain demographics have
+higher internet usage, including many demographics to which Defendant belongs. For example,
+higher rates of internet usage are found among younger adults (Defendant was 38in 1999); those
+with college educations (Defendant has a master’s degree); those in households earnin-g more
+than $75,000 (Defendant was in a household headed by a billionaire during that time, and that
+household had its own private email server and account); whites or English-speaking Asian-
+Americans (Defendant is white); and those who live in urban areas (Defendant lived in Palm
+Beach and Manhattan). SeeAndres Perrin and Maeve Duggan, ‘Americans’ Internet Access:
+2000-2015,” PEW RESEARCH CENTER, June 26, 2015.
+Additionally, her boyfriend, Jeffrey Epstein, with whom she shared a household from
+1999-2002 (and other years), implemented an entire, private email system to communicate with
+his household and employees, including Defendant.Accordingly, given Defendant’s
+extraordinary economic resources, her high-level social connections, and her elaborate
+residential email/internet configurationshe hadduring that time, it is extraordinarily unlikely that
+she would not employan almost ubiquitous communication tool, nor has she denied it.
+1On Friday, September 23, 2016, counsel for Ms. Giuffre sent a letter to Defendant inquiring about the undisclosed
+account. As of the date of this motion, Defendant has made no response.
+2
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 3 of 12
+A. The Account
+Ms. Giuffre has knowledge of the account because it was lis-ted as
+part of Defendant’s contact information (including phone number) on documents gatheredby the
+police from Epstein’s home, and turned over to the Palm Beach County State Attorney as part of
+the investigation and prosecution of Epstein.
+M Ghislaine Maxwell
+See(DE 280-2), Palm Beach County State Attorney’s Office, Public Records Request No.: 16-
+268, Disc 7 at p. 2305 (GIUFFRE007843). Despite the fact that this account was listed as her
+contact information in the home she shared with Epstein, and despite the fact that the username
+bears her initials, Defendant claims she does not recognize the account, and has no access to it.
+B. The Account
+The mindspring account is also listed as part of Defendant’s contact information gathered
+by the police. In her filing with this Court, Defendant represented that this was merely a “spam”
+account “to use when registering for retail sales notifications and the like,” and that it contains no
+relevant documents. (DE 345 at pg. 8). However, it appears that Jeffrey Epstein created the
+mindspring.org accounts to communicate with his household and with his employees, and did, in
+fact, communicate with them this way.
+As previously recounted, Jeffrey Epstein’s house manager, Juan Alessi testified that
+MindSpring account was in daily use by the Epstein household to send and receive messages, a
+household to which Defendant belonged:
+Q. So when there would be a message from one of them while they were out of town,
+they would call you, call you on the telephone?
+A. I haven't spoken to Ghislaine in 12 years.
+3
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 4 of 12
+Q. Sorry. I'm talking about when you worked there and you would receive a message that
+they were coming into town, would that be by way of telephone?
+A. Telephone, and also, there was a system at the house, that it was MindSpring,
+MindSpring I think it's called, that it was like a message system that would come from
+the office.
+Q. What is MindSpring?
+A. It was a server. I think it was --the office would have, like, a message system
+between him, the houses, the employees, his friends. They would write a message on the
+computer. There was no email at that time.
+Q. Okay. So what computer would you use?
+A. My computer in my office.
+Q. And so was part of your daily routine to go to your computer and check to see if you
+had MindSpring messages?
+A. No. That was at the end of my stay. That was the very end of my stay. I didn't get
+involved with that too much. But it was a message system that Jeffrey received every
+two, three hours, with all the messages that would have to go to the office in New York,
+and they will print it and send it faxed to the house, and I would hand it to him.
+Q. Did it look like the message pads that we've been looking at?
+A. No, no, nothing like that.
+Q. Was it typed-out messages?
+A. Yes, typed-out messages.
+Q. Just explain one example of how it would work. Let's say that Ghislaine wanted to
+send him a message on MindSpring. How would that work?
+-A. An example?
+Q. Sure.
+A. It got so ridiculous at the end of my stay, okay? That Mr. Epstein, instead of talking
+to me that he wants a cup of coffee, he will call the office; the office would type it; they
+would send it to me, Jeffrey wants a cup of coffee, or Jeffrey wants an orange juice out
+by the pool.
+Q. He would call the office in New York. They would then type it in MindSpring?
+4
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 5 of 12
+A. Send it to me.
+Q. How would you know to check for it? How would you know to look for this
+MindSpring?
+A. Because I was in the office. I was there. I was there. And we have a signal when it
+-come on and says, Hey, you've got mail.
+Q. Okay.
+A. Every day. Every day it was new things put in. That's why I left, too.
+Q. Do you know who set up the mind spring system?
+A. It was a computer guy. It was a computer guy who worked only for
+Jeffrey. Mark. Mark Lumber.
+Q. Was he local to Palm Beach?
+A. No. He was in New York. Everything was set up from New York. And Mark
+Lumber, I remember he came to Palm Beach to set up the system at the house.
+Alessi Dep. Tr. at 223:5-225:17. (June 1, 2016)(McCawley Decl. at Sealed Exhibit 1).
+Accordingly, mindspring was a domain nameset up for Jeffrey Epstein and his household to
+communicate withone another, and was, in fact, used in this manner.
+The sworn testimony of Janusz Banasiak, another of Epstein’s house managers, from the case
+L.M. v. Jeffery Epstein and Sarah Kellen,2 gives a fuller representation of how Defendant, and
+others in Epstein’s sex-trafficking ring, used their accounts on Epstein’s mindspring server:
+Q. Okay. Were you aware that Mr. Epstein used a Citrix program to link various computers?
+Did you know that?
+A. Yeah. I use Citrix too in my computer for exchanging e-mails and get through Internet.
+•
+***
+2Case No.: 502008CA028051XXXXMB AB, In the Circuit Court of the Fifteenth Judicial
+Circuit in and for Palm Beach County, Florida.
+5
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 6 of 12
+Q. That's not something that you were, you were privy to? You weren't, you weren't in the
+loop of the sharing of information in the house in terms of the computers being connected
+through any server?
+A. I don't really know what, how, how to answer your question because Citrix is for the
+whole organization to exchange e-mail between employees.
+Q. All right. You used the term?
+A. So, even my computer is connected to Citrix. I can receive mail and I can e-mail
+information to employee within organization. But I don't know if you can see to each
+computer what is going on on another computer.
+***
+Q. You have used the term organization; you can share within the organization. What do you
+--just so I can understand what you're calling the organization, what do you mean by that
+word?
+A. People employed by Jeffrey Epstein. There are a few groups of people, his office in New
+York and I guess --
+***
+Q. Okay. The other people mentioned as co-conspirators are Sarah Kellen, Adriana Ross, and
+Nadia Marcinkova. So we'll get to them in a minute but first just so we stay on the track of
+who was in the organization, is Sarah Kellen, Adriana Ross and Nadia Marcinkova all people
+-that you would also consider within the organization?
+A. Yes.
+Q. Okay. So, we just added three more names to it. Who else would you consider,
+-Ghislaine Maxwell?
+A. Yes.
+Banasiak Deposition at 56:13-17; 57:2-14; 58:1-7; 60:21-61:7 (February 16, 2010) (Emphasis
+added)(McCawley Decl. at Sealed Composite Exhibit 2).
+As Defendant was a member of Epstein’s household, and claims to have been his
+employee (See McCawley Decl. at Sealed Exhibit 3, Maxwell’s April 22, 2016 Dep. Tr. at 10:7-
+1111:131), it is unlikely that her mindspring account was merely a “spam account” from 1999-2002.
+It is much more likely that this account has -or had-Defendant’s communications with co-
+6
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 7 of 12
+conspirators Sarah Kellen, Nadia Marcinkova, and Epstein. However, it is Defendant’s
+representationthat this account does not presently have responsive documentsand was merely
+used for “spam.”
+C. Defendant’s Non-Disclosed Email Account
+If the Court accepts Defendant’s claim that she used neither the earthlink.net account nor
+the mindspring.org “spam” account to communicate, logic dictates that Defendant must have had
+another email account -one that she actually used -from 2000 -2002.Despite the Court’s orders
+that Defendant produce responsive documents from all her email accounts from 1999 to the
+present, Defendant has neither disclosed nor produced from the email account that she actually
+used to communicatefrom 2000-2002. This refusal violates this Court’s orders. Ms. Giuffre
+issued requests to Defendant on October 27, 2015. Nearly a year later, after this Court has
+specifically ordered Defendant to produce her responsive email from all her accounts, Defendant
+has produced none from this account. Not only has Defendant failed to produce emails from the
+account she actually used from 1999-2002, and she has not even disclosed what account it is.
+II. ARGUMENT
+A. An Adverse Inference Instruction is Appropriate
+An adverse inference instruction is appropriate regarding documents from the email
+account Defendant actually used from 1999-2002. In light of this clear and persistent pattern of
+recalcitrance, the Court should instruct the jury that it can draw an adverse inference that the
+Defendant has concealed relevant evidence. Even if Defendant were, at this late date, to run Ms.
+Giuffre’s proposed search terms over the datafrom the email account she used from 1999-2002
+(which she refuses to disclose), such a production would be both untimely and prejudicial. Fact
+discovery has closed. Numerous depositions have already been taken by Ms. Giuffre without the
+benefit of these documents. The window for authenticating the documents through depositions
+7
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 8 of 12
+has shut. Expert reports have been exchanged,so Ms. Giuffre’s experts didnot have the benefit
+of reviewing these documents. Late production of this information robs Ms. Giuffre of any
+practical ability to use the discovery, and, importantly,it was incumbent on Defendant to identify
+this account.
+The Second Circuit hasstated, “[w]here documents, witnesses, or information of any
+kind relevant issues in litigation is or was within the exclusive or primary control of a party and
+is not provided, an adverse inference can be drawn against the withholding party. Such adverse
+inferences are appropriate as a consequence for failure to make discovery.” Bouzo v. Citibank,
+N.A., 1993 WL 525114, at *1 (S.D.N.Y. 1993) (internal citations omitted). The Defendant’s
+continued systemic foot-dragging and obstructionism –even following the Court’s June 20
+Sealed Order and August 10, 2016 Order[DE 352] –makes an adverse inference instruction with
+regard to Defendant’s documents appropriate. An adverse inference instruction is appropriate
+when a party refuses to turn over documents in defiance of a Court Order. SeeLyondell-Citgo
+Refining, LP v. Petroleos de Venezuela, S.A., 2005 WL 1026461, at *1 (S.D.N.Y. May 2, 2005)
+(denying application to set aside Magistrate Judge Peck’s order entering an adverse inference
+instruction against defendant for failure to produce documents that the Judge Peck had ordered
+Defendant to produce). Accordingly, because a “party’s failure to produce evidence within its
+control creates a presumption that evidence would be unfavorable to that party” an adverse
+inference should be applied with respect to Defendant’s failure to produce data from the email
+account she used from 1999 -2002“in order to ensure fair hearing for [the] other party seeking
+evidence.” Doe v. U.S. Civil Service Commission, 483 F. Supp. 539, 580 (S.D. N.Y., 1980)
+(citing International Union v. NLRB, 148 U.S. App.D.C. 305, 312-317, 459 F.2d 1329, 1336-41
+(D.C.Cir.1972)).
+8
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 9 of 12
+“An adverse inference serves the remedial purpose of restoring the prejudiced party to the
+same position he would have been in absent the wrongful destruction of [or willful refusal to
+produce] evidence by the opposing party.” Chevron Corp. v. Donziger, 296 F.R.D. 168, 222
+(S.D.N.Y. 2013) (granting an adverse inference when defendants refused to produce documents
+pursuant to the District Court’s order). Where “an adverse inference ... is sought on the basis that
+the evidence was not produced in time for use at trial, the party seeking the instruction must
+show (1) that the party having control over the evidence had an obligation to timely produce it;
+(2) that the party that failed to timely produce the evidence had ‘a culpable state of mind’; and
+(3) that the missing evidence is ‘relevant’ to the party's claim or defense such that a reasonable
+trier of fact could find that it would support that claim or defense.” Id. (citing Residential
+Funding Corp. v. DeGeorge Financial Corp., 306 F.3d 99, 108 (2d Cir. 2002)).
+Furthermore, as discussed in detail in Ms. Giuffre’s Motion for an Adverse Inference
+Instruction (DE 315) and Supplement Motion for Adverse Inference Instruction (DE 338), an
+adverse inference is appropriate regarding the documents that Defendant is withholding under
+the Second Circuit’s test set forth in Residential Funding.Defendant has admitted to deleting
+emails as this Court noted in its Order. An adverse inference is equally appropriate if the non-
+compliance was due to Defendant’s destruction of evidence. See Brown v. Coleman, 2009 WL
+2877602, at *2 (S.D.N.Y. Sept. 8, 2009) (“Where a party violates a court order—either by
+destroying evidence when directed to preserve it or by failingto produce information because
+relevant data has been destroyed—Rule 37(b) of the Federal Rules of Civil Procedure provides
+that the court may impose a range of sanctions, including dismissal or judgment by default,
+preclusion of evidence, imposition of an adverse inference, or assessment of attorneys' fees and
+costs. Fed. R. Civ. P. 37(b); see Residential Funding Corp. v. DeGeorge Financial Corp., 306
+9
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 10 of 12
+F.3d 99, 106–07 (2d Cir.2002)”). See also Essenter v. Cumberland Farms, Inc., 2011 WL
+124505, at *7 (N.D.N.Y. Jan. 14, 2011); and Rule 37(e), Fed. R. Civ. P. (“If electronically stored
+information that should have been preserved in the anticipation or conduct of litigation is lost
+because a party failed to take reasonable steps to preserve it . . . the court: (2) only upon finding
+that the party acted with the intent to deprive another party of the information’s use in the
+litigation may: (A) presume that the lost information was unfavorable to the party; (b) instruct
+the jury that it may or must presume the information was unfavorable to the party; or (C) dismiss
+the action or enter a default judgment.”). Failure to disclose the email account Defendant actually
+used from 1992-2002 warrants an adverse inference instruction.
+III. CONCLUSION
+For the reasons set forth above, Ms. Giuffre respectfully requests that this Court compel
+Defendant to disclose what email account she actually used from 2009-1999, and that the court
+give the jury an adverse inference jury instruction concerning the documents from the
+undisclosedemail account.
+October 14, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+10
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 11 of 12
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-52023
+3 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+11
+Case 1:15-cv-07433-LAP Document 1330-11 Filed 01/05/24 Page 12 of 12
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFYthat on October 14, 2016, I electronically filed the foregoing
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+document is being served to all parties of record via transmission of the Electronic Court Filing
+System generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith Schultz
+Meredith Schultz
+12

@@ -1,0 +1,478 @@
+====================================================================================================
+EMAIL #0091 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1328.6_1.pdf
+Subject:           
+Date:              01/05/24
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        9,841
+Character Count:   66,906
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     virgin islands, florida, new york, island
+Type:              Reply  Has Attachments
+Thread Replies:    2
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: 01/05/24 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Thread: 2 replies | Type: Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 1 of 32
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+No. 15 Civ. 7433 (RWS)
+Plaintiff,
+-against-
+GHISLAINE MAXWELL,
+Defendant.
+MEMORANDUM OF LAW IN SUPPORT OF PROPOSED INTERVENOR ALAN M.
+DERSHOWITZ’S MOTION FOR PERMISSIVE INTERVENTION AND UNSEALING
+OF JUDICIAL DOCUMENTS, OR IN THE ALTERNATIVE MODIFICATION OF
+PROTECTIVE ORDER
+Emery Celli Brinckerhoff & Abady LLP
+600 Fifth Avenue, 10th Floor
+New York, New York 10020
+(212) 763-5000
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 2 of 32
+TABLE OF CONTENTS
+PAGE NO.
+TABLE OF AUTHORITIES ...................................................................................................... iii-v
+PRELIMINARY STATEMENT .....................................................................................................1(cid:3)
+FACTUAL AND PROCEDURAL BACKGROUND.....................................................................4(cid:3)
+I.(cid:3) MS. GIUFFRE’S ALLEGED RELATIONSHIP WITH
+JEFFREY EPSTEIN AND BELATED ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................4(cid:3)
+II.(cid:3) MS. GIUFFRE AND HER ATTORNEYS’ CONTINUING
+INSISTENCE ON, AND REPETITION OF, ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................5(cid:3)
+III.(cid:3) THE EXCULPATORY EMAILS, REPLY BRIEF,
+AND MANUSCRIPT ..............................................................................................6(cid:3)
+IV.(cid:3) THE REVELATION OF THE EXCULPATORY DOCUMENTS TO
+PROFESSOR DERSHOWITZ ..............................................................................11(cid:3)
+ARGUMENT .................................................................................................................................11(cid:3)
+I.(cid:3) PROFESSOR DERSHOWITZ SHOULD BE PERMITTED TO INTERVENE
+UNDER FEDERAL RULE OF CIVIL PROCEDURE 24(B) ..............................11(cid:3)
+A.(cid:3) There Is Significant Overlap Between the Subject Matter
+of the Original Action and This Motion ....................................................12(cid:3)
+B.(cid:3) There Is No Risk of Undue Delay or Prejudice .........................................12(cid:3)
+C.(cid:3) Professor Dershowitz Has a Compelling Interest in Access
+That Is Not Represented by Any Existing Party ........................................13(cid:3)
+II.(cid:3) THE FIRST AMENDMENT AND THE COMMON LAW REQUIRE
+PUBLIC ACCESS TO THE REQUESTED DOCUMENTS ................................14(cid:3)
+A.(cid:3) Legal Standard ...........................................................................................14(cid:3)
+1.(cid:3) The Common Law Test .................................................................15(cid:3)
+2.(cid:3) The First Amendment Test ............................................................15(cid:3)
+B.(cid:3) The Requested Documents Are Judicial Documents .................................16(cid:3)
+C.(cid:3) The Common Law Right of Access Applies to the Requested
+Documents .................................................................................................17(cid:3)
+i
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 3 of 32
+1.(cid:3) The Weight of the Presumption of Access Is Strong .....................17(cid:3)
+2.(cid:3) There Are No Countervailing Interests That Outweigh
+the Right of Access ........................................................................19(cid:3)
+D.(cid:3) The First Amendment Guarantees Access to the Requested
+Documents .................................................................................................20(cid:3)
+III.(cid:3) ALTERNATIVELY, THE PROTECTIVE ORDER SHOULD BE MODIFIED
+TO PERMIT DISCLOSURE OF THE REQUESTED DOCUMENTS ................22(cid:3)
+CONCLUSION ..............................................................................................................................26(cid:3)
+ii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 4 of 32
+TABLE OF AUTHORITIES
+PAGE NO(s).
+Cases(cid:3)
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014) ...................................... 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir. 1986) ................................................................................................. 16
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir. 2001) ........................................................................................ 16
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012) ....................................... 16
+Diversified Grp., Inc. v. Daugerdas,
+217 F.R.D. 152 (S.D.N.Y. 2003) ...................................................................................... 11
+Gambale v. Deutsche Bank AG,
+377 F.3d 133 (2d Cir. 2004).............................................................................................. 22
+Gucci Am., Inc. v. Guess?, Inc.,
+No. 09 Civ. 4373, 2010 WL 1416896 (S.D.N.Y. Apr. 8, 2010) ....................................... 16
+In re EPDM Antitrust Litig.,
+255 F.R.D. 308 (D. Conn. 2009)................................................................................. 23, 24
+In re Gushlak,
+No. 11-MC-0218, 2012 WL 3683514 (E.D.N.Y. July 27, 2012) ............................... 17, 19
+In re N.Y. Times Co.,
+828 F.2d 110 (2d Cir. 1987).............................................................................................. 18
+In re Newsday, Inc.,
+895 F.2d 74 (2d Cir. 1990)................................................................................................ 19
+In re Omnicom Grp., Inc. Secs. Litig.,
+No. 02 Civ. 4483, 2006 WL 3016311 (S.D.N.Y. Oct. 23, 2006) ............................... 17, 19
+In re September 11 Litig.,
+262 F.R.D. 274 (S.D.N.Y. 2009) ...................................................................................... 23
+Jane Doe #1 v. United States of America,
+No. 08 Civ. 80736 (S.D. Fla.) ....................................................................................... 4, 21
+Jessup v. Luther,
+227 F.3d 993 (7th Cir. 2000) ............................................................................................ 12
+iii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 5 of 32
+Lenart v. Coach Inc.,
+131 F. Supp. 3d 61 (S.D.N.Y. 2015) ................................................................................. 19
+Leucadia, Inc. v. Applied Extrusion Techs., Inc.,
+998 F.2d 157 (3d Cir. 1993).............................................................................................. 16
+Long Island Lighting Co. v. Barbash,
+779 F.2d 793 (2d Cir. 1985).............................................................................................. 18
+Louissier v. Universal Music Grp., Inc.,
+214 F.R.D. 174 (S.D.N.Y. 2003) ...................................................................................... 22
+Lugosch v. Pyramid Co. of Onodaga,
+435 F.3d 110 (2d Cir. 2006)....................................................................................... passim
+Mills v. Alabama,
+384 U.S. 214 (1966) .......................................................................................................... 14
+Mokhiber v. Davis,
+537 A.2d 1100 (D.C. Ct. App. 1988) .......................................................................... 19, 21
+Newsday LLC v. Cnty. of Nassau,
+730 F.3d 156 (2d Cir. 2013).............................................................................................. 14
+Nixon v. Warner Commc’ns, Inc.,
+435 U.S. 589 (1978) .......................................................................................................... 13
+S.E.C. v. Oakford Corp.,
+No. 00 Civ. 2426, 2001 WL 266996 (S.D.N.Y. Mar. 16, 2010) ...................................... 17
+S.E.C. v. TheStreet.com,
+273 F.3d 222 (2d Cir. 2001)........................................................................................ 22, 24
+Schiller v. City of N.Y.,
+No. 04 Civ. 7922, 2006 WL 2788256 (S.D.N.Y. Sept. 27, 2006) .............................. 13, 17
+Skyline Steel, LLC v. PilePro, LLC,
+No. 13 Civ. 8171, 2015 WL 556545 (S.D.N.Y. Feb. 9, 2015) ......................................... 19
+Tradewinds Airlines, Inc. v. Soros,
+No. 08 Civ. 5901, 2016 WL 3951181 (S.D.N.Y. July 20, 2016) ............................... 23, 24
+U.S.P.S. v. Brennan,
+579 F.2d 188 (2d Cir. 1978).............................................................................................. 11
+United States v. Amodeo (Amodeo I),
+44 F.3d 141 (2d Cir. 1995)................................................................................................ 14
+United States v. Amodeo (Amodeo II),
+71 F.3d 1044 (2d Cir. 1995)........................................................................................ 14, 17
+iv
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 6 of 32
+United States v. Bryan,
+339 U.S. 323 (1950) .......................................................................................................... 18
+United States v. Erie Cnty.,
+763 F.3d 235 (2d Cir. 2014).................................................................................. 15, 20, 21
+United States v. Erie Cnty.,
+No. 09 Civ. 849, 2013 WL 4679070 (W.D.N.Y. Aug. 30, 2103) ..................................... 12
+United States v. Graham,
+257 F.3d 143 (2d Cir. 2001).............................................................................................. 15
+United States v. Martoma,
+No. S1 12 Cr. 973, 2014 WL 164181 (S.D.N.Y. Jan. 9, 2014) ........................................ 20
+United States v. Sattar,
+471 F. Supp. 2d 380 (S.D.N.Y. 2006) ............................................................................... 16
+Vazquez v. City of N.Y.,
+No. 10 Civ. 6277, 2014 WL 11510954 (S.D.N.Y. May 2, 2014) ..................................... 22
+Westmoreland v. CBS, Inc
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/s/
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #2                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+-
+Andrew G. Celli, Jr.
+David A. Lebowitz
+600 Fifth Avenue, 10th Floor
+New York, New York 10020
+(212) 763-5000
+Attorneys for Proposed Intervenor
+Alan M. Dershowitz
+26
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 1 of 32
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+No. 15 Civ. 7433 (RWS)
+Plaintiff,
+-against-
+GHISLAINE MAXWELL,
+Defendant.
+MEMORANDUM OF LAW IN SUPPORT OF PROPOSED INTERVENOR ALAN M.
+DERSHOWITZ’S MOTION FOR PERMISSIVE INTERVENTION AND UNSEALING
+OF JUDICIAL DOCUMENTS, OR IN THE ALTERNATIVE MODIFICATION OF
+PROTECTIVE ORDER
+Emery Celli Brinckerhoff & Abady LLP
+600 Fifth Avenue, 10th Floor
+New York, New York 10020
+(212) 763-5000
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 2 of 32
+TABLE OF CONTENTS
+PAGE NO.
+TABLE OF AUTHORITIES ...................................................................................................... iii-v
+PRELIMINARY STATEMENT .....................................................................................................1(cid:3)
+FACTUAL AND PROCEDURAL BACKGROUND.....................................................................4(cid:3)
+I.(cid:3) MS. GIUFFRE’S ALLEGED RELATIONSHIP WITH
+JEFFREY EPSTEIN AND BELATED ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................4(cid:3)
+II.(cid:3) MS. GIUFFRE AND HER ATTORNEYS’ CONTINUING
+INSISTENCE ON, AND REPETITION OF, ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................5(cid:3)
+III.(cid:3) THE EXCULPATORY EMAILS, REPLY BRIEF,
+AND MANUSCRIPT ..............................................................................................6(cid:3)
+IV.(cid:3) THE REVELATION OF THE EXCULPATORY DOCUMENTS TO
+PROFESSOR DERSHOWITZ ..............................................................................11(cid:3)
+ARGUMENT .................................................................................................................................11(cid:3)
+I.(cid:3) PROFESSOR DERSHOWITZ SHOULD BE PERMITTED TO INTERVENE
+UNDER FEDERAL RULE OF CIVIL PROCEDURE 24(B) ..............................11(cid:3)
+A.(cid:3) There Is Significant Overlap Between the Subject Matter
+of the Original Action and This Motion ....................................................12(cid:3)
+B.(cid:3) There Is No Risk of Undue Delay or Prejudice .........................................12(cid:3)
+C.(cid:3) Professor Dershowitz Has a Compelling Interest in Access
+That Is Not Represented by Any Existing Party ........................................13(cid:3)
+II.(cid:3) THE FIRST AMENDMENT AND THE COMMON LAW REQUIRE
+PUBLIC ACCESS TO THE REQUESTED DOCUMENTS ................................14(cid:3)
+A.(cid:3) Legal Standard ...........................................................................................14(cid:3)
+1.(cid:3) The Common Law Test .................................................................15(cid:3)
+2.(cid:3) The First Amendment Test ............................................................15(cid:3)
+B.(cid:3) The Requested Documents Are Judicial Documents .................................16(cid:3)
+C.(cid:3) The Common Law Right of Access Applies to the Requested
+Documents .................................................................................................17(cid:3)
+i
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 3 of 32
+1.(cid:3) The Weight of the Presumption of Access Is Strong .....................17(cid:3)
+2.(cid:3) There Are No Countervailing Interests That Outweigh
+the Right of Access ........................................................................19(cid:3)
+D.(cid:3) The First Amendment Guarantees Access to the Requested
+Documents .................................................................................................20(cid:3)
+III.(cid:3) ALTERNATIVELY, THE PROTECTIVE ORDER SHOULD BE MODIFIED
+TO PERMIT DISCLOSURE OF THE REQUESTED DOCUMENTS ................22(cid:3)
+CONCLUSION ..............................................................................................................................26(cid:3)
+ii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 4 of 32
+TABLE OF AUTHORITIES
+PAGE NO(s).
+Cases(cid:3)
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014) ...................................... 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir. 1986) ................................................................................................. 16
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir. 2001) ........................................................................................ 16
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012) ....................................... 16
+Diversified Grp., Inc. v. Daugerdas,
+217 F.R.D. 152 (S.D.N.Y. 2003) ...................................................................................... 11
+Gambale v. Deutsche Bank AG,
+377 F.3d 133 (2d Cir. 2004).............................................................................................. 22
+Gucci Am., Inc. v. Guess?, Inc.,
+No. 09 Civ. 4373, 2010 WL 1416896 (S.D.N.Y. Apr. 8, 2010) ....................................... 16
+In re EPDM Antitrust Litig.,
+255 F.R.D. 308 (D. Conn. 2009)................................................................................. 23, 24
+In re Gushlak,
+No. 11-MC-0218, 2012 WL 3683514 (E.D.N.Y. July 27, 2012) ............................... 17, 19
+In re N.Y. Times Co.,
+828 F.2d 110 (2d Cir. 1987).............................................................................................. 18
+In re Newsday, Inc.,
+895 F.2d 74 (2d Cir. 1990)................................................................................................ 19
+In re Omnicom Grp., Inc. Secs. Litig.,
+No. 02 Civ. 4483, 2006 WL 3016311 (S.D.N.Y. Oct. 23, 2006) ............................... 17, 19
+In re September 11 Litig.,
+262 F.R.D. 274 (S.D.N.Y. 2009) ...................................................................................... 23
+Jane Doe #1 v. United States of America,
+No. 08 Civ. 80736 (S.D. Fla.) ....................................................................................... 4, 21
+Jessup v. Luther,
+227 F.3d 993 (7th Cir. 2000) ............................................................................................ 12
+iii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 5 of 32
+Lenart v. Coach Inc.,
+131 F. Supp. 3d 61 (S.D.N.Y. 2015) ................................................................................. 19
+Leucadia, Inc. v. Applied Extrusion Techs., Inc.,
+998 F.2d 157 (3d Cir. 1993).............................................................................................. 16
+Long Island Lighting Co. v. Barbash,
+779 F.2d 793 (2d Cir. 1985).............................................................................................. 18
+Louissier v. Universal Music Grp., Inc.,
+214 F.R.D. 174 (S.D.N.Y. 2003) ...................................................................................... 22
+Lugosch v. Pyramid Co. of Onodaga,
+435 F.3d 110 (2d Cir. 2006)....................................................................................... passim
+Mills v. Alabama,
+384 U.S. 214 (1966) .......................................................................................................... 14
+Mokhiber v. Davis,
+537 A.2d 1100 (D.C. Ct. App. 1988) .......................................................................... 19, 21
+Newsday LLC v. Cnty. of Nassau,
+730 F.3d 156 (2d Cir. 2013).............................................................................................. 14
+Nixon v. Warner Commc’ns, Inc.,
+435 U.S. 589 (1978) .......................................................................................................... 13
+S.E.C. v. Oakford Corp.,
+No. 00 Civ. 2426, 2001 WL 266996 (S.D.N.Y. Mar. 16, 2010) ...................................... 17
+S.E.C. v. TheStreet.com,
+273 F.3d 222 (2d Cir. 2001)........................................................................................ 22, 24
+Schiller v. City of N.Y.,
+No. 04 Civ. 7922, 2006 WL 2788256 (S.D.N.Y. Sept. 27, 2006) .............................. 13, 17
+Skyline Steel, LLC v. PilePro, LLC,
+No. 13 Civ. 8171, 2015 WL 556545 (S.D.N.Y. Feb. 9, 2015) ......................................... 19
+Tradewinds Airlines, Inc. v. Soros,
+No. 08 Civ. 5901, 2016 WL 3951181 (S.D.N.Y. July 20, 2016) ............................... 23, 24
+U.S.P.S. v. Brennan,
+579 F.2d 188 (2d Cir. 1978).............................................................................................. 11
+United States v. Amodeo (Amodeo I),
+44 F.3d 141 (2d Cir. 1995)................................................................................................ 14
+United States v. Amodeo (Amodeo II),
+71 F.3d 1044 (2d Cir. 1995)........................................................................................ 14, 17
+iv
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 6 of 32
+United States v. Bryan,
+339 U.S. 323 (1950) .......................................................................................................... 18
+United States v. Erie Cnty.,
+763 F.3d 235 (2d Cir. 2014).................................................................................. 15, 20, 21
+United States v. Erie Cnty.,
+No. 09 Civ. 849, 2013 WL 4679070 (W.D.N.Y. Aug. 30, 2103) ..................................... 12
+United States v. Graham,
+257 F.3d 143 (2d Cir. 2001).............................................................................................. 15
+United States v. Martoma,
+No. S1 12 Cr. 973, 2014 WL 164181 (S.D.N.Y. Jan. 9, 2014) ........................................ 20
+United States v. Sattar,
+471 F. Supp. 2d 380 (S.D.N.Y. 2006) ............................................................................... 16
+Vazquez v. City of N.Y.,
+No. 10 Civ. 6277, 2014 WL 11510954 (S.D.N.Y. May 2, 2014) ..................................... 22
+Westmoreland v. CBS, Inc.,
+752 F.2d 16 (2d Cir. 1984)................................................................................................ 14
+Rules & Statutes(cid:3)
+Fed. R. Civ. P. 24 .................................................................................................................... 11, 14
+Fed. R. Civ. P. 26 .............................................................................................................. 22, 24, 25
+Fed. R. Civ. P. 45 .......................................................................................................................... 18
+Other Authorities(cid:3)
+Casey Sullivan, Alan Dershowitz Extends Truce Offer to David Boies Amid Bitter Feud,
+BLOOMBERG LAW (Apr. 11, 2016), https://bol.bna.com/alan-dershowitz-extends-
+truce-offer-to-david-boies-amid-bitter-feud/ ...................................................................... 6
+v
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 7 of 32
+PRELIMINARY STATEMENT
+At nearly 78 years of age, Alan M. Dershowitz, the highly regarded Harvard Law
+professor, criminal defense lawyer, and author, is entitled to enjoy the reputation for strict
+personal rectitude that he has earned. Unfortunately, however, over the course of the last year
+and a half, that reputation has been unfairly sullied, tainted by false and grotesque allegations of
+pedophilia and rape peddled to the press by Virginia Giuffre, the plaintiff in this lawsuit, and
+republished all over the world. Professor Dershowitz has done everything in his power to
+combat this assault on his reputation, from proclaiming his innocence in public, to marshalling
+every bit of information within his control to demonstrate that the allegations cannot be true, to
+submitting to a full investigation of the charges by former federal judge and FBI Director Louis
+Freeh, who exonerated him. And still the stories keep coming.
+Now, having been named as a witness in this action by both plaintiff and defendant,
+Professor Dershowitz has been granted access to certain materials subject to this Court’s
+stipulated Protective Order and filed under seal—and those materials, some of them in Ms.
+Giuffre’s own words, confirm his absolute innocence. They demonstrate that Ms. Giuffre did
+not accuse Professor Dershowitz of sexual misconduct until years after she first named other
+prominent men who she claimed had abused her; that there was “no proof” that Professor
+Dershowitz had ever done anything wrong; and that Ms. Giuffre concocted her malicious
+allegations against Professor Dershowitz, and used his name in her statements and book
+proposal, not because he abused her—he didn’t—but because he is famous and she believed that
+his name would help sell the book.
+In this application, Professor Dershowitz seeks to intervene in this case for the limited
+purpose of obtaining relief that is modest and narrowly tailored: the unsealing of portions of a
+brief filed in connection with a motion to quash a subpoena (“Reply Brief”), and certain emails
+1
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 8 of 32
+submitted as part of that same motion (“Emails”), as well as a draft of Ms. Giuffre’s memoir
+(“Manuscript”) that was filed in connection with a motion to extend the parties’ deadline for
+deposition discovery. Unsealing of these three documents (the “Requested Documents”) is
+required because they are all judicial documents to which a presumption of public access applies.
+In the alternative, if the Court declines to unseal the Requested Documents on the basis that they
+are judicial documents, Professor Dershowitz seeks modification of the Court’s March 18, 2016
+stipulated Protective Order to permit the dissemination of the Requested Documents. The
+Requested Documents concern allegations by Ms. Giuffre whose substance has already been
+widely aired in public—including, apparently, on camera to ABC News—and which have been
+widely circulated for sale to publishers and journalists. Ms. Giuffre’s efforts to gain publicity
+and a book deal based on public interest in her claims should forfeit any asserted right to
+maintain the confidentiality of these documents.
+Separately and together, the Requested Documents demonstrate that the allegations of
+sexual misconduct against Professor Dershowitz—which were lodged by Ms. Giuffre in public
+court filings and repeated worldwide in the press—are nothing more than a recent fabrication, a
+made up story designed to increase commercial interest in Ms. Giuffre’s book and promote its
+sale to a publisher and eventually to readers. Accessing these materials without restriction, and
+making them public, is essential to Professor Dershowitz’s ability to defend himself.
+There is no basis for the Requested Documents to remain secret, much less for their
+secrecy to be maintained by court order. Ms. Giuffre has done everything in her power to
+publicize her false allegations against Professor Dershowitz: through her lawyers, she publicly
+filed the accusations in a federal court proceeding; she and her lawyers stood by her claims, in
+both court filings and public statements to the media, even after her lawyers had issued a public
+statement acknowledging that filing them had been a “mistake;” she shopped a book manuscript
+2
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 9 of 32
+to agents, publishers, and the press with the goal of maximizing the public attention paid to her
+slanderous story; and she even sought and obtained a lengthy interview with ABC News with the
+intent that it be broadcast on national television news programs. Ms. Giuffre and her attorneys
+cannot credibly argue that documentary evidence undermining the accusations she has spent
+years working to make public are “secret” and should be kept so under the authority of this
+Court.
+Disclosing the Requested Documents would violate no right of privacy. By publicly
+leveling false accusations against Professor Dershowitz in graphic detail and seeking to publicize
+those accusations in the media, Ms. Giuffre has forfeited any claim that her own (defamatory)
+words are somehow confidential. Indeed, what Ms. Giuffre’s own counsel have referred to as
+the “strong current media interest in the case”—which Ms. Giuffre has worked to sustain,
+including by selling her story—bolsters the public’s right to access the Requested Documents.
+Were Ms. Giuffre to prevail in her efforts to suppress these documents of high public interest, the
+result would be absurd and unfair: Ms. Giuffre’s false allegations would remain in the public
+record, while the innocent victim of her slanders would be barred from using her own words to
+disprove them. No one should be permitted to game the legal system so perversely.
+The law recognizes Professor Dershowitz’s right to the Requested Documents under the
+First Amendment, the common-law right of access to judicial documents, and governing Second
+Circuit jurisprudence, which forbids sealing and secrecy for their own sake. Here, having
+waived any privacy interest she may have had by both disseminating the allegations against
+Professor Dershowitz and by filing this lawsuit against Ghislaine Maxwell, Ms. Giuffre should
+not be heard to say that her own words, and the words of those with whom she communicated,
+are somehow “confidential.” They are not. This Court should grant Professor Dershowitz the
+right to intervene in this action and unseal the Requested Documents.
+3
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 10 of 32
+FACTUAL AND PROCEDURAL BACKGROUND
+I. MS. GIUFFRE’S ALLEGED RELATIONSHIP WITH JEFFREY EPSTEIN AND
+BELATED ACCUSATIONS AGAINST PROFESSOR DERSHOWITZ
+In 2006, Professor Dershowitz was retained by financier Jeffrey Epstein to join a team of
+lawyers hired to defend Epstein against accusations that he had solicited sex workers and had
+inappropriate sexual encounters with underage girls.1 Declaration of Alan M. Dershowitz
+(“Dershowitz Decl.”) ¶¶ 6-7. In 2008, Epstein pleaded guilty to certain offenses involving sex
+with minors. Id. ¶ 7. Ms. Giuffre has alleged that she was one of Epstein’s victims, although
+Epstein was neither charged nor convicted of any conduct toward her. Id. ¶ 8. Ms. Giuffre
+claims that she was held as a “sex slave” and trafficked by Epstein, who she alleges facilitated
+sexual encounters with a number of men. Id.
+In the period from 2006 through 2014, Ms. Giuffre submitted to interviews with law
+enforcement, told her story to the media, drafted a tell-all memoir, and filed a lawsuit alleging
+that Mr. Epstein had trafficked her to many of his prominent associates. Id. ¶¶ 10-14. During
+this period, Ms. Giuffre never once claimed to have had any sexual contact with Professor
+Dershowitz, much less that he had sexually abused her. Id. Then, in December 2014, Ms.
+Giuffre—represented by attorneys Bradley Edwards and Paul Cassell—filed a motion to join an
+action (the “CVRA Action”) that had been initially filed in the United States District Court for
+the Southern District of Florida in 2008 by another of Mr. Epstein’s alleged victims, who was
+designated as “Jane Doe.” Jane Doe #1 v. United States of America, No. 08 Civ. 80736 (S.D.
+Fla.) (hereinafter, Doe v. USA); Dershowitz Decl. ¶ 16. In late 2014 and early 2015, Ms.
+Giuffre’s lawyers alleged in public court filings in the CVRA Action that Mr. Dershowitz had
+had sex with Ms. Giuffre on numerous occasions while she was a minor, including in Florida, on
+1 Professor Dershowitz had been acquainted with Mr. Epstein through academic events for a number of years prior
+to his retention as Mr. Epstein’s counsel, but had neither witnessed nor heard about allegations of sexual misconduct
+by Mr. Epstein before being hired to represent him. Dershowitz Decl. ¶ 6.
+4
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 11 of 32
+Mr. Epstein’s private planes, in the British Virgin Islands, in New Mexico, and in New York.
+Dershowitz Decl. ¶ 17. Unlike much of the record in the CVRA Action, these allegations were
+not sealed;

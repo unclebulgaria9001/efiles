@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Large binary files (keep PDFs local, not in repo)
+extracted/*.pdf
+*.zip
+
+# Progress files (regenerated)
+extraction_progress*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+._*

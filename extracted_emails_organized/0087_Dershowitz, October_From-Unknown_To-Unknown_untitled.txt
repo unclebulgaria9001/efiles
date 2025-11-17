@@ -1,0 +1,436 @@
+====================================================================================================
+EMAIL #0087 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1330.4_1.pdf
+Subject:           
+Date:              Dershowitz, October 16, 2015
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        8,690
+Character Count:   56,823
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     virgin islands, florida, new york, island
+Type:              Reply  Has Attachments
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: Dershowitz, October 16, 2015 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Type: Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 1 of 27
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+Index No. 15 Civ. 7433 (RWS)
+Plaintiff,
+-against- REPLY DECLARATION OF
+ALAN M. DERSHOWITZ IN
+GHISLAINE MAXWELL, FURTHER SUPPORT OF
+MOTION TO INTERVENE
+Defendant. AND UNSEAL
+ALAN M. DERSHOWITZ declares under penalty of perjury that the following
+is true and correct:
+1. I am personally familiar with the facts set forth in this Reply Declaration,
+which I submit in further support of my pending motion to intervene and to unseal the
+“Requested Documents,” as that term is defined in Paragraph 3 of my August 11, 2016
+Declaration.
+Introduction and Overview
+2. Rather than offering a valid and proper basis for opposing my motion, the
+papers submitted on behalf of plaintiff Virginia Roberts Giuffre—particularly, the lengthy
+declaration of Paul Cassell, one of Ms. Giuffre’s lawyers and a former federal judge—are little
+more than an effort to revive and further the false and scurrilous allegations of sexual misconduct
+that compelled me to seek the Court’s assistance in the first place. As his declaration makes
+clear, Mr. Cassell has crossed the line from being a legitimate advocate for a client, to being a
+lawyer who is seeking to justify his own conduct in the face of compelling evidence that his
+client is a thoroughgoing liar. That was, after all, the gravamen of Mr. Cassell’s defamation case
+against me: the assertion, now repeated at length before this Court, that Ms. Giuffre’s lawyers
+1
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 2 of 27
+had a valid basis for disseminating her false, grotesque and impertinent allegations against me in
+a public filing. And it is that “fight,” essentially, that Mr. Cassell reignites in his declaration in
+this matter. To be clear, this not a fight that that I started and it is certainly not one that I am
+asking this Court to referee or resolve in any way. I am only asking that the Court refuse to
+allow its Protective Order, which was entered based upon a stipulation that explicitly
+contemplated that the Order might be modified, from being used to prevent me from disclosing
+documents that reveal the truth. Having now, again, been subjected to an unfair and unwarranted
+false attack on my credibility and reputation for personal rectitude, I have no choice but to
+respond on the merits.
+3. I begin by, again, swearing under oath that I did not sexually abuse
+Virginia Roberts Giuffre, and that any allegation or suggestion to the contrary is categorically
+false. I never had sexual contact with Ms. Giuffre of any kind, and, to my knowledge, I never
+even met her until her deposition in 2016. By swearing to this, I am deliberately exposing
+myself to a perjury prosecution and disbarment if I am not telling the truth. If Ms. Giuffre were
+to submit an affidavit repeating her false allegations against me, I would welcome and cooperate
+with a criminal investigation by any prosecutorial office as to whether it is Ms. Giuffre or I who
+is committing perjury. It is inescapably clear that one of us is lying under oath. I know it is not
+me.
+4. Against this backdrop, and the facts set forth in my August 11, 2016
+Declaration, Mr. Cassell, on his client’s behalf, has put into the record a declaration replete with
+factual inaccuracies, omissions, and flat-out misrepresentations. Among other things, he
+misstates important elements of both the Crime Victims’ Rights Act lawsuit filed by Ms. Giuffre,
+and others, in Florida (the “CVRA Action”), and the defamation lawsuit that he and his
+2
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 3 of 27
+colleague, Bradley Edwards, brought against me (Edwards v. Dershowitz, Case No. CACE
+15-000072 (Cir. Ct., Broward Cnty., Fla.)). Moreover, he elides or mischaracterizes testimony
+gathered in those and other proceedings in order to make them appear inculpatory of me when, in
+fact, they are just the opposite.
+5. In doing so, Mr. Cassell seeks to accomplish two goals simultaneously:
+first, to suppress information—the Requested Documents—which exculpates me from the
+charges of sexual misconduct, while allowing Ms. Giuffre and her allies to publicly disseminate
+those selected “facts” that, they believe, support her allegations against me; and, second, to prove
+that Mr. Cassell—and , by extension, his colleague Mr. Edwards and Ms. Giuffre’s current
+lawyers at Boies Schiller & Flexner, LLP—have a valid factual basis for continuing to press Ms.
+Giuffre’s false allegations. Mr. Cassell’s effort is an unmitigated failure, as this declaration
+demonstrates.
+6. While much of the Cassell Declaration goes far beyond what is reasonably
+required to respond to the instant motion, and while it surely has the distinct air of “protesting
+too much,” I cannot stand mute in the face of this continuing assault on my character. As this
+declaration and the accompanying reply brief will demonstrate, the charges against me are
+baseless, and unsealing the Requested Document is the only proper response to Ms. Giuffre’s
+efforts to smear me through the legal process.
+7. In its effort to block the unsealing of the Requested Documents and to
+justify Ms. Giuffre’s lawyers’ decision to represent her, the Cassell Declaration cites five
+sources: (i) a Palm Beach Police Department Report dated July 19, 2006; (ii) flight logs for the
+aircraft owned by Jeffrey Epstein; (iii) the fact that a “very well-regarded Florida” lawyer filed a
+civil complaint against Mr. Epstein on Ms. Giuffre’s behalf which accused “academicians”
+3
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 4 of 27
+associated with Mr. Epstein of abusing her; (iv) the testimony of Juan Alessi and Alfredo
+Rodriguez, two household employees of Mr. Epstein; and (v) what Mr. Cassell alleges is a
+“pattern of deception” by me to keep the “truth” from coming out. I will address each of these,
+in detail, in turn. As will immediately become clear, the information presented by Mr. Cassell in
+no way substantiates Ms. Giuffre’s claims. To the contrary, much of the evidence contradicts
+Ms. Giuffre’s version of events. In addition, I offer a few final points about matters that
+demonstrate clearly that Ms. Giuffre is not a credible witness.
+The Palm Beach Police Department Report
+8. The Cassell Declaration cites a July 2006 Palm Beach Police Department
+Report, which identified Jeffrey Epstein’s home in Palm Beach as a location at which Mr.
+Epstein allegedly abused minor victims. Mr. Cassell contends that this Report supports Ms.
+Giuffre’s account that I abused her at the Palm Beach home. See Cassell Decl., ¶ 21(a)-(b).
+1111
+But, as Mr. Cassell conceded in his deposition in the Edwards defamation case, my name does
+not even appear in the Palm Beach Police Department Report—much less does the Report
+contain an allegation that I sexually abused someone. See Ex. O at 31 (Deposition Transcript of
+Paul G. Cassell, October 16-17, 2015).
+9. Mr. Cassell asserts that the Palm Beach Police Report “showed the sexual
+abuse was occurring on a daily basis” at the Epstein mansion, and thus “that [it] would have
+made it obvious to a visiting guest that young girls were coming to the home for sexual
+purposes.” Cassell Decl., ¶ 21(b). Putting aside the conclusory nature of the inference (For
+example, by what means would it be “obvious,” and to which “guests?” I would think that if
+someone were doing something illegal, such as arranging trysts with underage girls, they would
+take measures to conceal their conduct), the statement is entirely irrelevant to me. First, I was
+not present in that home—or on Mr. Epstein’s private island, or at his New Mexico ranch, or on
+4
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 5 of 27
+his airplane—during the time Ms. Giuffre was associated with him. Dershowitz Decl.,1 ¶ 9.
+Nothing about Ms. Giuffre’s relationship with Mr. Epstein, or her age, could have been
+“obvious” to me, because I never met her. Second, there is simply no evidence that Mr.
+Epstein’s alleged abuse of minor victims at his home in Palm Beach was “obvious” or known to
+any “visiting guests,” given that the abuse took is alleged to have taken place in a separate part
+of the house, namely Mr. Epstein’s private bedroom.
+10. Ms. Giuffre and her counsel have alleged that she was not the only “young
+girl” that I had sexual contact with – i.e., that there were others. Of course, no such persons have
+ever presented themselves to corroborate this accusation. Nonetheless, Mr. Cassell latched on to
+this allegation as a “basis” for his filing in the CRVA Action, which named me as a serial abuser.
+11. Demonstrating how little Mr. Cassell really had to go on in this regard, I
+ask the Court to consider Mr. Cassell’s response to a question put to him in deposition
+concerning who, other than his client, he had reason to believe was abused by me. All Mr.
+Cassell could muster was this:
+[CASSELL]: …I have 24 names in mind as possible sexual abuse
+victims that Dershowitz may or may not have abused. And I have
+not been able to pinpoint exactly what happened, because the
+people who would be in the best position to help me sort out what
+the names were [--] specifically Jeffrey Epstein, among others [--]
+have refused to cooperate and give me those names” (emphasis
+added).
+Ex. O at 36-37.
+12. The very idea that Mr. Cassell could claim that, without more, a mere list
+of alleged victims that he believes that I “may or may not have abused” would provide a basis for
+publicly accusing me of heinous crimes, well illustrates Mr. Cassell’s mindset.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+1
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 1 of 27
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+Index No. 15 Civ. 7433 (RWS)
+Plaintiff,
+-against- REPLY DECLARATION OF
+ALAN M. DERSHOWITZ IN
+GHISLAINE MAXWELL, FURTHER SUPPORT OF
+MOTION TO INTERVENE
+Defendant. AND UNSEAL
+ALAN M. DERSHOWITZ declares under penalty of perjury that the following
+is true and correct:
+1. I am personally familiar with the facts set forth in this Reply Declaration,
+which I submit in further support of my pending motion to intervene and to unseal the
+“Requested Documents,” as that term is defined in Paragraph 3 of my August 11, 2016
+Declaration.
+Introduction and Overview
+2. Rather than offering a valid and proper basis for opposing my motion, the
+papers submitted on behalf of plaintiff Virginia Roberts Giuffre—particularly, the lengthy
+declaration of Paul Cassell, one of Ms. Giuffre’s lawyers and a former federal judge—are little
+more than an effort to revive and further the false and scurrilous allegations of sexual misconduct
+that compelled me to seek the Court’s assistance in the first place. As his declaration makes
+clear, Mr. Cassell has crossed the line from being a legitimate advocate for a client, to being a
+lawyer who is seeking to justify his own conduct in the face of compelling evidence that his
+client is a thoroughgoing liar. That was, after all, the gravamen of Mr. Cassell’s defamation case
+against me: the assertion, now repeated at length before this Court, that Ms. Giuffre’s lawyers
+1
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 2 of 27
+had a valid basis for disseminating her false, grotesque and impertinent allegations against me in
+a public filing. And it is that “fight,” essentially, that Mr. Cassell reignites in his declaration in
+this matter. To be clear, this not a fight that that I started and it is certainly not one that I am
+asking this Court to referee or resolve in any way. I am only asking that the Court refuse to
+allow its Protective Order, which was entered based upon a stipulation that explicitly
+contemplated that the Order might be modified, from being used to prevent me from disclosing
+documents that reveal the truth. Having now, again, been subjected to an unfair and unwarranted
+false attack on my credibility and reputation for personal rectitude, I have no choice but to
+respond on the merits.
+3. I begin by, again, swearing under oath that I did not sexually abuse
+Virginia Roberts Giuffre, and that any allegation or suggestion to the contrary is categorically
+false. I never had sexual contact with Ms. Giuffre of any kind, and, to my knowledge, I never
+even met her until her deposition in 2016. By swearing to this, I am deliberately exposing
+myself to a perjury prosecution and disbarment if I am not telling the truth. If Ms. Giuffre were
+to submit an affidavit repeating her false allegations against me, I would welcome and cooperate
+with a criminal investigation by any prosecutorial office as to whether it is Ms. Giuffre or I who
+is committing perjury. It is inescapably clear that one of us is lying under oath. I know it is not
+me.
+4. Against this backdrop, and the facts set forth in my August 11, 2016
+Declaration, Mr. Cassell, on his client’s behalf, has put into the record a declaration replete with
+factual inaccuracies, omissions, and flat-out misrepresentations. Among other things, he
+misstates important elements of both the Crime Victims’ Rights Act lawsuit filed by Ms. Giuffre,
+and others, in Florida (the “CVRA Action”), and the defamation lawsuit that he and his
+2
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 3 of 27
+colleague, Bradley Edwards, brought against me (Edwards v. Dershowitz, Case No. CACE
+15-000072 (Cir. Ct., Broward Cnty., Fla.)). Moreover, he elides or mischaracterizes testimony
+gathered in those and other proceedings in order to make them appear inculpatory of me when, in
+fact, they are just the opposite.
+5. In doing so, Mr. Cassell seeks to accomplish two goals simultaneously:
+first, to suppress information—the Requested Documents—which exculpates me from the
+charges of sexual misconduct, while allowing Ms. Giuffre and her allies to publicly disseminate
+those selected “facts” that, they believe, support her allegations against me; and, second, to prove
+that Mr. Cassell—and , by extension, his colleague Mr. Edwards and Ms. Giuffre’s current
+lawyers at Boies Schiller & Flexner, LLP—have a valid factual basis for continuing to press Ms.
+Giuffre’s false allegations. Mr. Cassell’s effort is an unmitigated failure, as this declaration
+demonstrates.
+6. While much of the Cassell Declaration goes far beyond what is reasonably
+required to respond to the instant motion, and while it surely has the distinct air of “protesting
+too much,” I cannot stand mute in the face of this continuing assault on my character. As this
+declaration and the accompanying reply brief will demonstrate, the charges against me are
+baseless, and unsealing the Requested Document is the only proper response to Ms. Giuffre’s
+efforts to smear me through the legal process.
+7. In its effort to block the unsealing of the Requested Documents and to
+justify Ms. Giuffre’s lawyers’ decision to represent her, the Cassell Declaration cites five
+sources: (i) a Palm Beach Police Department Report dated July 19, 2006; (ii) flight logs for the
+aircraft owned by Jeffrey Epstein; (iii) the fact that a “very well-regarded Florida” lawyer filed a
+civil complaint against Mr. Epstein on Ms. Giuffre’s behalf which accused “academicians”
+3
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 4 of 27
+associated with Mr. Epstein of abusing her; (iv) the testimony of Juan Alessi and Alfredo
+Rodriguez, two household employees of Mr. Epstein; and (v) what Mr. Cassell alleges is a
+“pattern of deception” by me to keep the “truth” from coming out. I will address each of these,
+in detail, in turn. As will immediately become clear, the information presented by Mr. Cassell in
+no way substantiates Ms. Giuffre’s claims. To the contrary, much of the evidence contradicts
+Ms. Giuffre’s version of events. In addition, I offer a few final points about matters that
+demonstrate clearly that Ms. Giuffre is not a credible witness.
+The Palm Beach Police Department Report
+8. The Cassell Declaration cites a July 2006 Palm Beach Police Department
+Report, which identified Jeffrey Epstein’s home in Palm Beach as a location at which Mr.
+Epstein allegedly abused minor victims. Mr. Cassell contends that this Report supports Ms.
+Giuffre’s account that I abused her at the Palm Beach home. See Cassell Decl., ¶ 21(a)-(b).
+1111
+But, as Mr. Cassell conceded in his deposition in the Edwards defamation case, my name does
+not even appear in the Palm Beach Police Department Report—much less does the Report
+contain an allegation that I sexually abused someone. See Ex. O at 31 (Deposition Transcript of
+Paul G. Cassell, October 16-17, 2015).
+9. Mr. Cassell asserts that the Palm Beach Police Report “showed the sexual
+abuse was occurring on a daily basis” at the Epstein mansion, and thus “that [it] would have
+made it obvious to a visiting guest that young girls were coming to the home for sexual
+purposes.” Cassell Decl., ¶ 21(b). Putting aside the conclusory nature of the inference (For
+example, by what means would it be “obvious,” and to which “guests?” I would think that if
+someone were doing something illegal, such as arranging trysts with underage girls, they would
+take measures to conceal their conduct), the statement is entirely irrelevant to me. First, I was
+not present in that home—or on Mr. Epstein’s private island, or at his New Mexico ranch, or on
+4
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 5 of 27
+his airplane—during the time Ms. Giuffre was associated with him. Dershowitz Decl.,1 ¶ 9.
+Nothing about Ms. Giuffre’s relationship with Mr. Epstein, or her age, could have been
+“obvious” to me, because I never met her. Second, there is simply no evidence that Mr.
+Epstein’s alleged abuse of minor victims at his home in Palm Beach was “obvious” or known to
+any “visiting guests,” given that the abuse took is alleged to have taken place in a separate part
+of the house, namely Mr. Epstein’s private bedroom.
+10. Ms. Giuffre and her counsel have alleged that she was not the only “young
+girl” that I had sexual contact with – i.e., that there were others. Of course, no such persons have
+ever presented themselves to corroborate this accusation. Nonetheless, Mr. Cassell latched on to
+this allegation as a “basis” for his filing in the CRVA Action, which named me as a serial abuser.
+11. Demonstrating how little Mr. Cassell really had to go on in this regard, I
+ask the Court to consider Mr. Cassell’s response to a question put to him in deposition
+concerning who, other than his client, he had reason to believe was abused by me. All Mr.
+Cassell could muster was this:
+[CASSELL]: …I have 24 names in mind as possible sexual abuse
+victims that Dershowitz may or may not have abused. And I have
+not been able to pinpoint exactly what happened, because the
+people who would be in the best position to help me sort out what
+the names were [--] specifically Jeffrey Epstein, among others [--]
+have refused to cooperate and give me those names” (emphasis
+added).
+Ex. O at 36-37.
+12. The very idea that Mr. Cassell could claim that, without more, a mere list
+of alleged victims that he believes that I “may or may not have abused” would provide a basis for
+publicly accusing me of heinous crimes, well illustrates Mr. Cassell’s mindset.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+1 Citations to “Dershowitz Decl.” refer to my August 11, 2016 moving declaration. Exhibits O through X are
+attached to this Reply Declaration.
+5
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 6 of 27
+13. As the record demonstrates, I could not have abused Virginia Roberts
+Giuffre because, as the records establish, I was never in Mr. Epstein’s Palm Beach home, private
+•
+island, ranch or airplane during the two years that she was associated with Mr. Epstein. The
+Palm Beach Police Department Report neither corroborates Ms. Giuffre’s false accusation, nor
+supports the decision by Mr. Cassell, Mr. Edwards and the other lawyers for Ms. Giuffre to
+publicly accuse me of such pedophila.
+The Flight Logs
+14. In his Declaration, Mr. Cassell suggests that the flight logs of Mr.
+Epstein’s private jet showing Ms. Giuffre travelling to New York support the conclusion that I
+abused Ms. Giuffre in New York, because I was a visiting scholar at N.Y.U. and lived in N.Y.U.
+housing during the 2000-2001 academic year. See Cassell Decl., ¶ 21(c). This allegation, and
+the string of inferences necessary to make it “work,” is patently absurd. Millions of people were
+present in the New York City area when Ms. Giuffre travelled there; it is simply not reasonable
+to infer from my presence in New York at the same time, apparently, as Ms. Giuffre that I
+sexually abused her—there or anywhere else.
+15. In his deposition in the defamation case against me, Mr. Cassell
+acknowledged that my name did not appear in the aircraft flight logs during the time period in
+which Ms. Giuffre was associated with Mr. Epstein:
+[CASSELL]: The face of the flight logs for the relevant period of
+time, we can call it the hot period of time or whatever you want,
+did not reveal the presence of Mr. Dershowitz on those flights, yes.
+Q: Okay. So during the period—well, actually, there’s no flight log
+that shows Virginia Roberts and Professor Dershowitz on the same
+airplane, correct?
+A: That’s my understanding, yes.
+Ex. O at 205.
+6
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 7 of 27
+16. Desperate to draw some connection between me and young girls on the
+airplane, Mr. Cassell also states that the flight logs show me and “an apparently young woman
+named ‘Tatiana’ who did not appear to serve any business purpose for Epstein” flying together
+on Mr. Epstein’s plane with Mr. Epstein and other individuals. See Cassell Decl. ¶ 21(g)
+(internal parentheses omitted). What his declaration conveniently fails to mention is that the
+flight in question took place on November 17, 2005, years after Ms. Giuffre’s association with
+Mr. Epstein concededly ended. SeeMcCawley Decl., Ex. 2 at GIUFFRE007135. The
+connection between a flight in 2005 and Ms. Giuffre’s alleged abuse is, of course, non-existent:
+by 2005, Ms. Giuffre was living in Australia.
+17. But that is just a detail. As Mr. Cassell well knows, Tatiana Kovylina, the
+woman who flew on Mr. Epstein’s plane with us and several other people in 2005, was 24 years
+old at the time of the flight. During my deposition in the Edwards case, I was asked about and
+shown photos of “Tatiana”; I said that I thought she appeared to “about 25” years old. It turned
+out that my estimate was correct. This exchange followed:
+[DERSHOWITZ]: … I must say that during the recess, my wife
+Googled Tatiana and found out that she was, in fact, 24 years old
+in 1995 [sic - 2005]2, at the time she flew on that airplane. So that
+my characterization of her as about 25 years old is absolutely
+correct. And the implication that you sought to draw by showing
+me those pictures was not only demonstrably false, but you could
+have easily discovered that the implication you were drawing was
+demonstrably false by simply taking one second and Googling her
+name as my wife did.”
+Ex. P at 216-17 (Deposition Transcript of Alan M. Dershowitz, October 16, 2015).
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+2 In fact, I meant the year 2005. According to Wikipedia, Ms. Kovylina was born on November 4, 1981. See
+https://en.wikipedia.org/wiki/Tatiana_Kovylina.
+7
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 8 of 27
+18. Mr. Cassell was present at my October 2015 deposition in the Edwards
+case, and he is aware of Tatiana Kovylina’s actual age. Yet, in his Declaration to this Court, he
+continues to suggest that her presence on Mr. Epstein’s airplane in 2005 supports the inference
+that I was aware of Mr. Epstein’s alleged abuse of Ms. Giuffre in 2000-2002, and that I
+participated in such conduct. Cassell Decl., ¶ 21(g). While Mr. Cassell cloaks this suggestion in
+language concerning “information [he and Mr. Edwards] relied upon in believing the truth of Ms.
+Giuffre’s allegations,” that is too clever by half. Id. at 21. The inference that he asks this Court
+to draw is that the presence of Ms. Kovylina supports the allegations against me. That is simply
+false.
+Ms. Giuffre(cid:835)s Civil Complaint and Her Claim of Abuse by (cid:838)Academicians(cid:839)
+19. In his Declaration, Mr. Cassell states that he believed Ms. Giuffre’s
+allegations that I sexually abused her, in part, because Bob Josefsberg, “a very well regarded
+Florida lawyer,” apparently believed her, having filed a civil complaint against Mr. Epstein on
+her behalf. Cassell Decl., ¶21(e). The Josefsberg-filed civil complaint did not name me.
+20. Mr. Cassell was not relieved of his professional obligation to investigate
+the bona fides of Ms. Giuffre’s claims simply because a different lawyer had already decided to
+file a case on her behalf. Mr. Casssell’s reliance on the case filed by Mr. Josefsberg is
+particularly inappropriate because the Josefberg-drafted case does not name me as an abuser.
+Moreover, Mr. Josefsberg has continued to maintain a personal and professional relationship
+with me, something he would not have done if he believed I had abused his client—a fact that
+Mr. Cassell and the other lawyers could have readily ascertained.
+21. Nor was it reasonable to accuse me of pedophila based on the fact that Ms.
+Giuffre alleged in the Josefsberg-drafted civil complaint that she had been trafficked by Jeffrey
+8
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 9 of 27
+Epstein to “academicians.” Id. As Mr. Cassell is well aware, Jeffrey Epstein was heavily
+involved in funding academic research at Harvard and kept an office there,3 and he was
+consequently friendly with many academics, including David Gergen, Marvin Minsky, Larry
+Summers, Stephen Kosslyn, Henry Rosovsky, Howard Gardner, and Stephen Jay Gould, among
+others. Many of these academics engaged in the same behavior that apparently led Mr. Cassell
+to believe Ms. Giuffre’s allegations that I had abused her. According to workers at Mr. Epstein’s
+Palm Beach mansion, he received visits from “friends from Harvard” and other “very important
+people.” Ex. U at 28 (Deposition Transcripts of Alfredo Rodriguez, July 29, 2009 and August 7,
+2009). All of the “evidence” that Ms. Giuffre and her lawyers claim implicates me is equally
+applicable to dozens of other academics and public figures who were associated with Mr.
+Epstein—including Larry Summers, Stephen Hawking, Henry Rosovsky, Nathan Myhrvold,
+Steven Pinker, Martin Nowak, Daniel C. Dennett, David Gergen, George Church, Richard
+Dawkins, Gerard ‘t Hooft, David Gross, Frank Wilzek, Howard Gardner, Stephen Jay Gould,
+and many others.
+22. Of course, Ms. Giuffre’s credibility on these matters is nil. To cite one
+example, Harvar-d Professor is one of the “academicians” Ms. Giuffre has
+accused. In the Manuscript that I am trying to unseal, Ms. Giuffre describes having sex with
+in great detail:
+Two weeks later, as if Jeffrey was trying to lighten my spirits, he
+told me I would be going to his island to meet a new client. He is a
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+3 My relationship with Jeffrey Epstein, prior to when he was accused and I became one of his lawyers, was
+academic and intellectual in nature. Along with many prominent academics, I attended seminars and other events,
+mostly at his office in Cambridge. I did send him my manuscripts to review and I acknowledged his intellectual
+input in the acknowledgments to several of my books. Many other academics were acquaintances of Mr. Epstein.
+They interacted with him on a somewhat regular basis, including during the time period in which he was allegedly
+abusing Ms. Giuffre, and yet, to my knowledge, they had no idea that he may have engaged in sex acts with minors,
+because he kept his private life completely separate from his academic life. I have never see Mr. Epstein with an
+underage girl.
+9
+Case 1:15-cv-07433-LAP Document 1330-4 Filed 01/05/24 Page 10 of 27
+. I would be spending
+two days with him showing him around the island, dining with
+him, and treating him to a massage whenever he wanted. Without
+Jeffrey even verbalizing the need to have sex with him, he told me
+to keep him happy like I had my first client…
+… By the time dinner was served and another red wine bottle
+later, he seemed to get funnier. I made fun of his tousled hair and
+he poked at me for my skinny legs, calling me a wanna-be-
+anorexic. When dessert was brought out he asked if he could
+receive one of the delightful massages he has been hearing about
+from Jeffrey. I gulped more red win

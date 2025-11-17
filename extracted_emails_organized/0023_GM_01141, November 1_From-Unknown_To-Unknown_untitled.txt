@@ -1,0 +1,443 @@
+====================================================================================================
+EMAIL #0023 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1328.31.pdf
+Subject:           
+Date:              GM_01141, November 10, 2015
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        3,670
+Character Count:   24,289
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     florida, new york
+Type:              Reply
+Thread Replies:    1
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: GM_01141, November 10, 2015 | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Thread: 1 replies | Type: Reply
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 1 of 13
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+REPLY IN SUPPORT OF PLAINTIFF’S MOTION TO COMPEL (DE 345)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 2 of 13
+Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,
+hereby files this Reply in Support of her Motion to Compel (DE 345).
+I. ARGUMENT
+A. This Court should Order Production of Documents Responsive to Requests
+Nos. 1-3
+Defendant characterizes the police reports (and information therein)concerning Ms.
+Giuffre as a minor asboth“highly relevant” (Br. at 4) and “irrelevant” to this action (Br. at 5).
+On page 4, Defendant claims that actual police reports are “highly relevant,” stating: “the
+publicly available, redacted police reports are part of the record and constitute highly relevant
+evidence in this action.” But, on the very next page, when discussing the information gleaned
+from those police reports that Mr. Pagliuca had prior to the conferral call, Defendant claims the
+information from the police reports is “irrelevant,” stating:“The records requested are
+irrelevant. Plaintiff has asserted a single claim for defamation based on Ms. Maxwell’s denial of her
+outrageous allegations of ‘sex trafficking.’The dispositive question is whether the denial was
+defamatory. RFP No. 1 seeks documents Mr. Pagliuca allegedly ‘reviewed and/or relied upon’in
+allegedly making statements stating that Plaintiff previously made false accusations of sexual
+assault.” (Br. at 5). (Emphasis original).
+How Defendant purports to distinguish between the actual police reports as “relevant,” and
+the information contained in the police reports as “irrelevant,” is unexplained. However, logic would
+dictate that if the police reports are “relevant,” so, too, is the information contained therein and how
+itwas acquired. For that reason, this Court should grant Ms. Giuffre’srequests Nos .1-3.
+Defendant states that the material responsive to Ms. Giuffre’s requests Nos. 2-3 constitute
+“privileged communications between (a) Ms. Maxwell’s attorneys and Ms. Maxwell, (b) defense
+counsel and their agents, and between (c) defense counsel with joint defense or common interest
+privileges concerning obtaining or receiving 'local police[] findings or opinions’ and ‘statements
+1
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 3 of 13
+made by law enforcement or any state attorney.’” (Br. at 9). Ms. Giuffre understands this winding
+sentence to mean that documents responsive to Requests Nos. 2-3 constitute communications
+between Defendant and Jeffrey Epstein and Alan Dershowitz or their counsel. As discussed at length
+in the moving brief, Defendant bears the burden to show that there is a joint defense agreement
+among them, but she refuses to disclose the joint defense agreement, and this Court, months ago, has
+already ordered Defendant to turn over her communications with Epstein and Dershowitz that she
+purported were privileged. (See April 15, 2016Order). Accordingly, this Court should grant Ms.
+Giuffre’s requests Nos. 2-3.
+B. This Court should Order Production of Documents Responsive to Requests
+Nos. 6-7; 9-10; and 11.
+These requests concern joint defense agreements between and among Defendant, Epstein,
+and Dershowitz,and communications among counsel for Defendant and Epstein and Dershowitz.
+In Defendant’s objections submitted to Ms. Giuffre in responseto the request for the joint
+defense agreement between her and Dershowitz, she stated that she “has been unable to locate
+any documents responsive to this Request.” In her brief, she says that “there is no joint defense
+agreement to produce.” (Br. at 9). There are two problems with this position.
+First, Defendant is withholding responsive documents consisting of communications
+between Dershowitz/Dershowitz’s counsel and Epstein/Epstein’s counsel. Defendant does not,
+and cannot, refute the case law that puts the burden on establishing a joint defense privilege
+applies on the party claiming it, which must be shown through evidence. Defendant has put forth
+no evidence of these agreements. In fact, Defendant states that no such agreement exists with
+Dershowitz, and she is refusing to reveal the agreement with Epstein. Even if any privileges
+apply to the actual joint defense agreement with Epstein (and, in many cases, Courts find no
+privilege applies whatsoever), Defendant has to make that showing. This response brief does not
+2
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 4 of 13
+make that showing. “Such showings must be based on competent evidence, usually through
+affidavits, deposition testimony, or other admissible evidence.” Egiazaryan v. Zalmayev, 290
+F.R.D. 421, 428 (S.D.N.Y. 2013) (citations omitted). Defendant has put forth no affidavits or
+testimony, but, instead, filed declarations of counsel for Epstein and Dershowitz, indicating their
+“belief”that a common interest exists.1 Should the Court consider these declarations to be
+“competent evidence” to establish that a joint defense agreement exists between Defendant and
+Dershowitz and Epstein (though neither declaration state that an agreement exists), Ms. Giuffre
+submits that it should not have taken motion practice to elicit such “evidence” as it is
+Defendant’s burden to produce this evidence.
+Second, these agreements are plainlyrelevant to thedefamationclaim in this case. This
+Court has previously ordered Defendant to produce emails in which both Epstein and Dershowitz
+were active in assisting Defendant draft defamatory statements against Ms. Giuffre. See April 15,
+2016 Order. Defendant has set forth the defense that her defamatory statements are “substantially
+true,” and “cannot realistically have cause impairment to Plaintiff’s reputation.” The emails
+between and among Defendant, Epstein, and Dershowitz, show that that the three of them
+conspired specifically to damage Ms. Giuffre’s reputation. They also reveal that Defendant’s
+defamatory statements are not “substantially true.” The joint defense agreement(s) show
+Defendant’s ongoing and continued relationship with Dershowitz and Epstein, which is relevant
+to her defenses. Both of these individuals had a hand in Defendant’s statements to the public. At
+the very least, the Court should conduct an in camerareview of any joint defense agreements
+that exist to determine their relevanceto both the defamation claim and the multiple affirmative
+defenses offered by Defendant. SeeSteuben Foods, Inc. v. GEA Process Engineering, Inc., 2016
+1 Strangely, Defendant redacted both the names of counsel and the names of Epstein and
+Dershowitz in these filings.
+3
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 5 of 13
+WL 1238785, at *2 (W.D.N.Y., 2016) (granting Plaintiff’s motion to compel production of
+paragraph 5 of defendant’s joint defense agreement, since that paragraph is relevant to the claims
+and defenses).
+C. This Court should Order Production of Documents Responsive to Requests
+No 12.
+In this request, Ms. Giuffre seeks the documents that concern her. Defendant tells the
+Court, “[c]conspicuously missing is any explanation of why a request for ‘all documents
+concerning’ Plaintiff would not require review and production of every document the defense
+has in this case.” (Br. at 14). Both common sense and common attorney competencies belies this
+statement.2 First, it is expected that the overwhelming majority of documents “concerning” Ms.
+Giuffre are attorney-client communications or work product created after the filing of this
+lawsuit. Such documents do not evenrequireextensive review as they are protected by privilege,
+and can be categorically logged pursuant to the Local Rules and governing case law.3 Therefore,
+there is no merit to Defendant’s burden claim.
+Moreover, throughout the months of motion practice concerning these issues, and
+throughout all of the meet and confers, Defendant’s counsel has never presented a case
+supporting the far-fetched position that non-privileged documents in the possession of the
+2 Furthermore, Ms. Giuffre’s correspondence suggesting just how these documents can be
+collected electronically without undue burden also belies any claim of ignorance on how to
+collect and produce documents responsive to this request without reviewing “thousands” of
+presumptively privileged communications.
+3 See also Southern District of New York Local Civil Rule 26.2(c); Am. Broad. Companies, Inc.
+v. Aereo, Inc., 2013 WL 139560, at *2 (S.D.N.Y. Jan. 11, 2013) (“the Court notes that [parties] .
+. . are presented with a number of option that . . . could mitigate the burden . . . including . . .
+exclusion from the privilege logs of documents created after the commencement of litigation . .
+..”) (Emphasis added); United States v. Bouchard Transp., 2010 WL 1529248, at *2 (E.D.N.Y.
+Apr. 14, 2010) (“First, privilege logs are commonly limited to documents created before the date
+litigation was initiated. This is due to the fact that, in many situations, it can be assumed that all
+documents created after charges have been brought or a lawsuit has been filed and withheld
+on the grounds of privilege were created “because of” that pending litigation.”) (Emphasis
+added).
+4
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 6 of 13
+-Defendant, and containing explicit references to Ms. Giuffre, are irrelevant and not subject to
+discovery.
+What should be reviewed and produced are the documents in Defendant’s possession
+concerning Ms. Giuffre that are outside the scope of privilege.This would include, for example,
+Defendant’s communications with third parties that concern Ms. Giuffre. The Court has already
+seen examples ofsome of these communicationsin its in camerareview, and it ordered
+Defendant to produce Defendant’s communications concerning Ms. Giuffre that she exchanged
+with Epstein, Ross Gow, and others. This request targets documents like those. 
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 1 of 13
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+REPLY IN SUPPORT OF PLAINTIFF’S MOTION TO COMPEL (DE 345)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 2 of 13
+Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,
+hereby files this Reply in Support of her Motion to Compel (DE 345).
+I. ARGUMENT
+A. This Court should Order Production of Documents Responsive to Requests
+Nos. 1-3
+Defendant characterizes the police reports (and information therein)concerning Ms.
+Giuffre as a minor asboth“highly relevant” (Br. at 4) and “irrelevant” to this action (Br. at 5).
+On page 4, Defendant claims that actual police reports are “highly relevant,” stating: “the
+publicly available, redacted police reports are part of the record and constitute highly relevant
+evidence in this action.” But, on the very next page, when discussing the information gleaned
+from those police reports that Mr. Pagliuca had prior to the conferral call, Defendant claims the
+information from the police reports is “irrelevant,” stating:“The records requested are
+irrelevant. Plaintiff has asserted a single claim for defamation based on Ms. Maxwell’s denial of her
+outrageous allegations of ‘sex trafficking.’The dispositive question is whether the denial was
+defamatory. RFP No. 1 seeks documents Mr. Pagliuca allegedly ‘reviewed and/or relied upon’in
+allegedly making statements stating that Plaintiff previously made false accusations of sexual
+assault.” (Br. at 5). (Emphasis original).
+How Defendant purports to distinguish between the actual police reports as “relevant,” and
+the information contained in the police reports as “irrelevant,” is unexplained. However, logic would
+dictate that if the police reports are “relevant,” so, too, is the information contained therein and how
+itwas acquired. For that reason, this Court should grant Ms. Giuffre’srequests Nos .1-3.
+Defendant states that the material responsive to Ms. Giuffre’s requests Nos. 2-3 constitute
+“privileged communications between (a) Ms. Maxwell’s attorneys and Ms. Maxwell, (b) defense
+counsel and their agents, and between (c) defense counsel with joint defense or common interest
+privileges concerning obtaining or receiving 'local police[] findings or opinions’ and ‘statements
+1
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 3 of 13
+made by law enforcement or any state attorney.’” (Br. at 9). Ms. Giuffre understands this winding
+sentence to mean that documents responsive to Requests Nos. 2-3 constitute communications
+between Defendant and Jeffrey Epstein and Alan Dershowitz or their counsel. As discussed at length
+in the moving brief, Defendant bears the burden to show that there is a joint defense agreement
+among them, but she refuses to disclose the joint defense agreement, and this Court, months ago, has
+already ordered Defendant to turn over her communications with Epstein and Dershowitz that she
+purported were privileged. (See April 15, 2016Order). Accordingly, this Court should grant Ms.
+Giuffre’s requests Nos. 2-3.
+B. This Court should Order Production of Documents Responsive to Requests
+Nos. 6-7; 9-10; and 11.
+These requests concern joint defense agreements between and among Defendant, Epstein,
+and Dershowitz,and communications among counsel for Defendant and Epstein and Dershowitz.
+In Defendant’s objections submitted to Ms. Giuffre in responseto the request for the joint
+defense agreement between her and Dershowitz, she stated that she “has been unable to locate
+any documents responsive to this Request.” In her brief, she says that “there is no joint defense
+agreement to produce.” (Br. at 9). There are two problems with this position.
+First, Defendant is withholding responsive documents consisting of communications
+between Dershowitz/Dershowitz’s counsel and Epstein/Epstein’s counsel. Defendant does not,
+and cannot, refute the case law that puts the burden on establishing a joint defense privilege
+applies on the party claiming it, which must be shown through evidence. Defendant has put forth
+no evidence of these agreements. In fact, Defendant states that no such agreement exists with
+Dershowitz, and she is refusing to reveal the agreement with Epstein. Even if any privileges
+apply to the actual joint defense agreement with Epstein (and, in many cases, Courts find no
+privilege applies whatsoever), Defendant has to make that showing. This response brief does not
+2
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 4 of 13
+make that showing. “Such showings must be based on competent evidence, usually through
+affidavits, deposition testimony, or other admissible evidence.” Egiazaryan v. Zalmayev, 290
+F.R.D. 421, 428 (S.D.N.Y. 2013) (citations omitted). Defendant has put forth no affidavits or
+testimony, but, instead, filed declarations of counsel for Epstein and Dershowitz, indicating their
+“belief”that a common interest exists.1 Should the Court consider these declarations to be
+“competent evidence” to establish that a joint defense agreement exists between Defendant and
+Dershowitz and Epstein (though neither declaration state that an agreement exists), Ms. Giuffre
+submits that it should not have taken motion practice to elicit such “evidence” as it is
+Defendant’s burden to produce this evidence.
+Second, these agreements are plainlyrelevant to thedefamationclaim in this case. This
+Court has previously ordered Defendant to produce emails in which both Epstein and Dershowitz
+were active in assisting Defendant draft defamatory statements against Ms. Giuffre. See April 15,
+2016 Order. Defendant has set forth the defense that her defamatory statements are “substantially
+true,” and “cannot realistically have cause impairment to Plaintiff’s reputation.” The emails
+between and among Defendant, Epstein, and Dershowitz, show that that the three of them
+conspired specifically to damage Ms. Giuffre’s reputation. They also reveal that Defendant’s
+defamatory statements are not “substantially true.” The joint defense agreement(s) show
+Defendant’s ongoing and continued relationship with Dershowitz and Epstein, which is relevant
+to her defenses. Both of these individuals had a hand in Defendant’s statements to the public. At
+the very least, the Court should conduct an in camerareview of any joint defense agreements
+that exist to determine their relevanceto both the defamation claim and the multiple affirmative
+defenses offered by Defendant. SeeSteuben Foods, Inc. v. GEA Process Engineering, Inc., 2016
+1 Strangely, Defendant redacted both the names of counsel and the names of Epstein and
+Dershowitz in these filings.
+3
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 5 of 13
+WL 1238785, at *2 (W.D.N.Y., 2016) (granting Plaintiff’s motion to compel production of
+paragraph 5 of defendant’s joint defense agreement, since that paragraph is relevant to the claims
+and defenses).
+C. This Court should Order Production of Documents Responsive to Requests
+No 12.
+In this request, Ms. Giuffre seeks the documents that concern her. Defendant tells the
+Court, “[c]conspicuously missing is any explanation of why a request for ‘all documents
+concerning’ Plaintiff would not require review and production of every document the defense
+has in this case.” (Br. at 14). Both common sense and common attorney competencies belies this
+statement.2 First, it is expected that the overwhelming majority of documents “concerning” Ms.
+Giuffre are attorney-client communications or work product created after the filing of this
+lawsuit. Such documents do not evenrequireextensive review as they are protected by privilege,
+and can be categorically logged pursuant to the Local Rules and governing case law.3 Therefore,
+there is no merit to Defendant’s burden claim.
+Moreover, throughout the months of motion practice concerning these issues, and
+throughout all of the meet and confers, Defendant’s counsel has never presented a case
+supporting the far-fetched position that non-privileged documents in the possession of the
+2 Furthermore, Ms. Giuffre’s correspondence suggesting just how these documents can be
+collected electronically without undue burden also belies any claim of ignorance on how to
+collect and produce documents responsive to this request without reviewing “thousands” of
+presumptively privileged communications.
+3 See also Southern District of New York Local Civil Rule 26.2(c); Am. Broad. Companies, Inc.
+v. Aereo, Inc., 2013 WL 139560, at *2 (S.D.N.Y. Jan. 11, 2013) (“the Court notes that [parties] .
+. . are presented with a number of option that . . . could mitigate the burden . . . including . . .
+exclusion from the privilege logs of documents created after the commencement of litigation . .
+..”) (Emphasis added); United States v. Bouchard Transp., 2010 WL 1529248, at *2 (E.D.N.Y.
+Apr. 14, 2010) (“First, privilege logs are commonly limited to documents created before the date
+litigation was initiated. This is due to the fact that, in many situations, it can be assumed that all
+documents created after charges have been brought or a lawsuit has been filed and withheld
+on the grounds of privilege were created “because of” that pending litigation.”) (Emphasis
+added).
+4
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 6 of 13
+-Defendant, and containing explicit references to Ms. Giuffre, are irrelevant and not subject to
+discovery.
+What should be reviewed and produced are the documents in Defendant’s possession
+concerning Ms. Giuffre that are outside the scope of privilege.This would include, for example,
+Defendant’s communications with third parties that concern Ms. Giuffre. The Court has already
+seen examples ofsome of these communicationsin its in camerareview, and it ordered
+Defendant to produce Defendant’s communications concerning Ms. Giuffre that she exchanged
+with Epstein, Ross Gow, and others. This request targets documents like those. Defendant has
+not argued any burden applies to such a collection.
+Furthermore, if Defendant had collected her electronic data pursuant to this Court’s order,
+an electronic search - few key strokes -wouldbothidentify these documents and eliminate the
+communicationsto/from Defendant’s attorneys that fall under the ambit of privilege.
+This is a basic request for documents concerning one of the parties, and one that would
+be issued in almost any litigation.Defendant’s continued refusal to produce documents
+concerning Ms. Giuffre is made in bad faith and shows that she is hiding additional incriminating
+documents4 (including those regarding arecently-discovered defamatory statement in the
+January 8, 2015, article, discussed, infra, at p. 6-7). An adverse inference instruction is
+appropriate in this circumstance, as more fully briefed in Ms. Giuffre’s August 8, 2016,
+Memorandum of Law on the same (DE 338).
+4 After the close of discovery and after the depositions have been taken in this matter, just days
+ago, Defendant produced a critical e-mail asserting that it’s exclusion from production was a
+“clerical error.” The e-mail proves that the Defendant has continued to use Ross Gow as her
+“image consultant” and media relations agent during the course of this lawsuit to interface with
+the media.SeeMcCawley Dec. at Exhibit 1,GM_01141, November 10, 2015 email from Ross
+Gow to Defendant.This runs directly contrary to Defendant’s representations to this Court that
+she has no ability to produce Ross Gow for a deposition and instead has forced Ms. Giuffre to
+spend thousands of dollars to track down a person who is in Defendant’s employ.
+5
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 7 of 13
+D. This Court Should Order Production of Documents Responsive to Requests
+No 17 and 18.
+Requests Nos. 17 and 18 seek documents “concerning any statement made by You or on
+Your behalf to the press or any other groupor individual, including draft statements, concerning
+Ms. Giuffre, by You, Ross Gow, or any other individual, from 2005 to the present, including the
+dates of any publications, and if published online, the Uniform Resource Identifier (URL)
+address” and “all documents concerning which individuals or entities You or Your agents
+distributed or sent any statements concerning Ms. Giuffre referenced in Request No. 17 made by
+You or on Your behalf.” In other words, Ms. Giuffre is seeking what statements about Ms.
+Giuffre Defendant distributed and to whom. This is another basic request, particularly in a
+defamation case.Moreover, the only person who knows the full extent of Defendant’s
+defamation of Ms. Giuffre is Defendant.
+In her brief, Defendant states that “the defense previously produced responsive
+documents.” It is likely that Defendant is referring to the press release email communication
+from Mr. Gow to various media outlets. The defamatory statements contained therein are
+referenced in Ms. Giuffre’s Complaint.
+Since filing the instant motion, Ms. Giuffre has become aware that Defendant caused
+additional defamatory statements to be published. This is important. Ms. Giuffre hasdiscovered
+an article that refers to a different defamatory statement,not contained in the above-state press
+release. See McCawley Dec. at Exhibit 2, January 8, 2015, The Sun (online) article: “Prince
+Andrew’s pal Ghislaine ‘groped teen girls,’” (Miss Maxwell’s spokesman branded the
+accusations against her a “web of lies and deceit” —adding: “None of these allegations are on
+oath. “These girls are saying anything they want for money.”). Communications bearing this
+language are responsive to these requests, as is the publication in which Ms. Giuffre discovered
+6
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 8 of 13
+it. Defendant has produced no documents at all related to this statement made by her
+representative.
+This is a statement made to a major publication on behalf of Defendant. “Reasonable
+inquiry,” as required by Rule 26, Fed. R. Civ. P., would have easily yielded documents relating
+to this statement issued on Defendant’s behalf.Yet, Defendant did not produce documents
+relating to that defamatory statement, and is now caught in another discovery violation for her
+failure to produce documents related to that January 8, 2015, statement.
+Defendant cannot refuse to provide Ms. Giuffre with the extent of the publication of
+Defendant’s defamatory statements nor can she decide, merely, toprovideself-selected
+documents relating to the defamatory statements Ms. Giuffre knows about at the time. Wanting
+to hidethe fact that herdefamation was on a greater scale than originally known to Ms. Giuffre
+is not a proper objection, and withholding from discovery Defendant’s additional defamation
+constitutes a discovery violation. The Court should order Defendant to fully comply with the
+requests in Nos. 17 and 18, including the production of documents related to the statement issued
+on her behalf to The Sun as reported in the January 8, 2015, article, above.
+E. The Documents Improperly Logged
+Defendant has withheld communications with Alan Dershowitz’s counsel claiming a
+common interest/joint defense privilege. As stated above, Defendant claims that there exist no
+joint defense agreement between her and Mr. Dershowitz. (Br. at 9). Yet, Defendant has agreed
+to provide non-party Dershowitz all the discovery materials in this case, and Dershowitz has
+clearly agreed to assist Defendant in this litigation.
+It is Ms. Giuffre’s position that anagreement must still be evidenced in order to invoke
+the common interest/joint defense privilege by affidavit or similar evidence.See Von Bulow by
+Auersperg v. Von Bulow, 811 F.2d 136, 147 (2d Cir.), cert. denied, 481 U.S. 1015, 107 S.Ct.
+7
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 9 of 13
+1891, 95 L.Ed.2d 498 (1987); Bowne of N.Y.C., Inc. v. AmBase Corp., 150 F.R.D. 465, 472
+(S.D.N.Y.1993). Egiazaryan v. Zalmayev, 290 F.R.D. 421, 428 (S.D.N.Y. 2013). A
+“declaration” from Dershowitz’s counsel stating that she “believe[s] Professor Dershowitz and
+Defendant Ghislaine Maxwell have a common interest”5 is not evidence of a joint defense
+agreement, and Defendant still fails to carry her burden.Accordingly, this Court should compel
+the production communications with Dershowitz’s counsel. The “declaration” of Epstein’s
+counsel similarly falls short. See Indyke Dec. at ¶ 4 (“I consider Mr. Epstein and his lawyers and
+Ms. Maxwell and her lawyers to have a common interest.”)Therefore, if the Court finds that
+these declarations do not satisfy Defendant’s burden under Egiazaryan, it should compel
+Defendant to produce those documents.
+F. A Forensic Review is Appropriate in these Circumstances
+Since filing the instantmotion, Defendant has produced another communication between
+her and Ross Gow, and another email between her and Jeffrey Epstein. Defendant explained that
+they were not produced “followingthe Court’s in camera review in April” due to “clerical error.”
+See McCawley Dec. at Exhibit 3, August 16, 2016 letterform Laura Menninger.6 One of these
+documents is an April 2015,email between Defendant and Epstein.
+Defendant complains to the Court that a forensic review would invade her privacy (br. at
+20-21), while at the same time,she and her joint defense partner both seek to strip away Ms.
+Giuffre’s privacy by revealing confidential documents under the Protective Order. However,
+5 Declaration of Mary E. Borja (DE 387).
+6 In one of the communications, she states that she would like “Barden” to reply to “one further
+allegation” and Epstein writes back, “ok.” This document was not produced until after the close
+of discovery, and therefore, Defendant was never deposed on (1) why she was seeking Epstein’s
+permission for a having Barden make a “reply;” (2) what Epstein’s relationship was with Barden;
+(3) or who drafted the original communication at the bottom of the email, as it does not appear to
+have been created by either Defendant or Epstein. (Pending before this Court is Ms. Giuffre’s
+motion to reopen Defendant’s deposition.) (DE 315/356). SeeGM_01143-1144.
+8
+Case 1:15-cv-07433-LAP Document 1328-31 Filed 01/05/24 Page 10 of 13
+Defendant fails to mention that a forensic review would not give Ms. Giuffre -or the Court, or
+anyone in the world - access to, or knowledge of “highly sensitive information” that is not
+directly responsive or directly relevant to this case. Ms. Giuffre requested a forensic exam by an
+independent, third-party technician(not conducted by Ms. Giuffre or her agents), who wouldbe
+bound by the terms of this Court’s Protective Order or any other strictures necessary to maintain
+Defendant’s privacy. Therefore, this argument is without merit.
+Additionally,Defendant’s case law is easily distinguishable. Abidor v. Napolitano, 990 F.
+Supp. 2d 260, 280 (E.D.N.Y. 2013), is a case brought by criminal defense lawyers challenging
+the inspection by governmental entities (Immigrationand Customs Enforcement and Customs
+and Border Protection) of electronic devices individuals brought across the border under Fourth
+Amendment grounds.7 Of course, there are no Fourth Amendment implications in this case
+raised by having a neutral third-party (who is not a state actor) assist Defendant in recovering
+relevant/deletedmaterial from her electronic datain this civil case. Similarly, U.S. v. Galpin, 720
+F.3d 436, 447 (2d Cir. 2013), is a criminal case involving possession ofchild pornography,
+evidence of which was found through a government search of a party’s computer. These cases
+are inapposite.
+Furthermore, in her Rule 45 subpoenas to Microsoft and Apple, Defendant sought
+unfettered accessall of Ms. Giuffre’s sent and received email(and attendant metadata),
+regar

@@ -1,0 +1,206 @@
+================================================================================
+EMAIL EXTRACTION FROM: 1320-18.pdf
+================================================================================
+
+Subject: (1) would not be a waiver under this rule if it had been made in a federal
+Date: 01/03/24
+Source PDF: 1320-18.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 1 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+================================================================================
+REPLY 1
+================================================================================
+
+/
+RESPONSE TO MOTION TO COMPEL ATTORNEY-CLIENT COMMUNICATIONS
+AND ATTORNEY WORK PRODUCT MATERIALS
+BOIES, SCHILLER & FLEXNER LLP
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 2 of 40
+TABLE OF CONTENTS
+(cid:3)
+TABLE OF CONTENTS...............................................................................................................................(cid:3)i(cid:3)
+TABLE OF AUTHORITIES(cid:3).......................................................................................................................(cid:3)iii(cid:3)
+INTRODUCTION(cid:3)........................................................................................................................................(cid:3)1(cid:3)
+FACTUAL BACKGROUND(cid:3).......................................................................................................................(cid:3)2(cid:3)
+The CVRA Case(cid:3)...........................................................................................................................................(cid:3)2(cid:3)
+The Dershowitz case(cid:3)........................................................................................................................(cid:3)4(cid:3)
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument(cid:3)................................(cid:3)5(cid:3)
+Ms. Giuffre’s Deposition in the Defamation Case(cid:3)...........................................................................(cid:3)7(cid:3)
+The Settlement of the Defamation Case(cid:3)..........................................................................................(cid:3)7(cid:3)
+LEGAL STANDARDS FOR WAIVER(cid:3).......................................................................................................(cid:3)8(cid:3)
+A.(cid:3)Federal Rule of Evidence 502 Controls on the Issue of Waiver(cid:3).................................................(cid:3)8(cid:3)
+B.(cid:3)Florida Law(cid:3).................................................................................................................................(cid:3)9(cid:3)
+C. Federal Law(cid:3)..............................................................................................................................(cid:3)11(cid:3)
+DISCUSSION(cid:3).............................................................................................................................................(cid:3)14(cid:3)
+I. (cid:3)MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.(cid:3)..............................................(cid:3)14(cid:3)
+A.(cid:3) The Florida Court Presiding over the Defamation Action Has Already Rejected the
+Same Waiver Claim that Defendant is Advancing Here.(cid:3)................................................(cid:3)14(cid:3)
+B. (cid:3) Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s Attorney-Client
+Privilege.(cid:3).........................................................................................................................(cid:3)18(cid:3)
+C. (cid:3) Ms. Giuffre’s Confidential Communications With Her Attorneys Were Never “At
+Issue” in the Florida Dershowitz Litigation.(cid:3)...................................................................(cid:3)19(cid:3)
+D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-
+Client Privilege.(cid:3)...............................................................................................................(cid:3)21(cid:3)
+E. (cid:3) Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client Communications
+in her Action Here.(cid:3)..........................................................................................................(cid:3)23(cid:3)
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.(cid:3)...............................(cid:3)25(cid:3)
+III.EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.(cid:3)........................................................................................(cid:3)27(cid:3)
+A.(cid:3) Work Product Protection Has Not Been Waived.(cid:3)...........................................................(cid:3)27(cid:3)
+B.(cid:3) Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.(cid:3)...................(cid:3)29(cid:3)
+i(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 3 of 40
+IV.COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED BY A
+JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY ATTORNEY-
+CLIENT AND WORK-PRODUCTION PROTECTION.(cid:3).......................
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 1 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+RESPONSE TO MOTION TO COMPEL ATTORNEY-CLIENT COMMUNICATIONS
+AND ATTORNEY WORK PRODUCT MATERIALS
+BOIES, SCHILLER & FLEXNER LLP
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 2 of 40
+TABLE OF CONTENTS
+(cid:3)
+TABLE OF CONTENTS...............................................................................................................................(cid:3)i(cid:3)
+TABLE OF AUTHORITIES(cid:3).......................................................................................................................(cid:3)iii(cid:3)
+INTRODUCTION(cid:3)........................................................................................................................................(cid:3)1(cid:3)
+FACTUAL BACKGROUND(cid:3).......................................................................................................................(cid:3)2(cid:3)
+The CVRA Case(cid:3)...........................................................................................................................................(cid:3)2(cid:3)
+The Dershowitz case(cid:3)........................................................................................................................(cid:3)4(cid:3)
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument(cid:3)................................(cid:3)5(cid:3)
+Ms. Giuffre’s Deposition in the Defamation Case(cid:3)...........................................................................(cid:3)7(cid:3)
+The Settlement of the Defamation Case(cid:3)..........................................................................................(cid:3)7(cid:3)
+LEGAL STANDARDS FOR WAIVER(cid:3).......................................................................................................(cid:3)8(cid:3)
+A.(cid:3)Federal Rule of Evidence 502 Controls on the Issue of Waiver(cid:3).................................................(cid:3)8(cid:3)
+B.(cid:3)Florida Law(cid:3).................................................................................................................................(cid:3)9(cid:3)
+C. Federal Law(cid:3)..............................................................................................................................(cid:3)11(cid:3)
+DISCUSSION(cid:3).............................................................................................................................................(cid:3)14(cid:3)
+I. (cid:3)MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.(cid:3)..............................................(cid:3)14(cid:3)
+A.(cid:3) The Florida Court Presiding over the Defamation Action Has Already Rejected the
+Same Waiver Claim that Defendant is Advancing Here.(cid:3)................................................(cid:3)14(cid:3)
+B. (cid:3) Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s Attorney-Client
+Privilege.(cid:3).........................................................................................................................(cid:3)18(cid:3)
+C. (cid:3) Ms. Giuffre’s Confidential Communications With Her Attorneys Were Never “At
+Issue” in the Florida Dershowitz Litigation.(cid:3)...................................................................(cid:3)19(cid:3)
+D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-
+Client Privilege.(cid:3)...............................................................................................................(cid:3)21(cid:3)
+E. (cid:3) Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client Communications
+in her Action Here.(cid:3)..........................................................................................................(cid:3)23(cid:3)
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.(cid:3)...............................(cid:3)25(cid:3)
+III.EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.(cid:3)........................................................................................(cid:3)27(cid:3)
+A.(cid:3) Work Product Protection Has Not Been Waived.(cid:3)...........................................................(cid:3)27(cid:3)
+B.(cid:3) Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.(cid:3)...................(cid:3)29(cid:3)
+i(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 3 of 40
+IV.COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED BY A
+JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY ATTORNEY-
+CLIENT AND WORK-PRODUCTION PROTECTION.(cid:3)........................................................(cid:3)31(cid:3)
+CONCLUSION(cid:3)...........................................................................................................................................(cid:3)31(cid:3)
+(cid:3)
+(cid:3)
+ii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 4 of 40
+TABLE OF AUTHORITIES
+Cases(cid:3)
+Allen v. West Point-Pepperell, Inc.,
+848 F.Supp. 423 (S.D.N.Y.1994)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Allied Irish Banks v. Bank of Am., N.A.,
+240 F.R.D. 96 (S.D.N.Y. 2007)(cid:3)..............................................................................................................(cid:3)12(cid:3)
+Am. Re-Ins. Co. v. U.S. Fid. & Guar. Co.,
+40 A.D.3d 486, 837 N.Y.S.2d 616 (2007)(cid:3)..............................................................................................(cid:3)22(cid:3)
+Aristocrat Leisure Ltd. v. Deutsche Bank Trust Co. Americas,
+No. 04 CIV 10014 PKL,
+2009 WL 3111766 (S.D.N.Y. Sept. 28, 2009)(cid:3)........................................................................................(cid:3)14(cid:3)
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A.,
+210 F.R.D. 506 (S.D.N.Y. 2002)(cid:3)................................................................................................(cid:3)10,(cid:3)13,(cid:3)14(cid:3)
+Brookings v. State,
+495 So.2d 135 (Fla. 1986)(cid:3).......................................................................................................................(cid:3)23(cid:3)
+Bus. Integration Servs., Inc. v. AT&T Corp.,
+No. 06 CIV. 1863 (JGK), 2008 WL 318343 (S.D.N.Y. Feb. 4, 2008)(cid:3)...................................................(cid:3)18(cid:3)
+Butler v. Harter,
+152 So.3d 705 (Fla. 1st DCA, 2014)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Charter One Bank, F.S.B. v. Midtown Rochester, L.L.C.,
+191 Misc. 2d 154, 738 N.Y.S.2d 179 (Sup. Ct. 2002)(cid:3)............................................................................(cid:3)28(cid:3)
+Coates v. Akerman, Senterfitt & Eidson, P.A.,
+940 So.2d 504 (Fla. 2nd DCA 2006)(cid:3)..........................................................................................(cid:3)11,(cid:3)12,(cid:3)20(cid:3)
+Columbia Hosp. Corp. of S. Broward v. Fain,
+16 So.3d 236 (Fla. 4th DCA 2009)(cid:3).........................................................................................................(cid:3)31(cid:3)
+Connell v. Bernstein-Macaulay, Inc.,
+407 F.Supp. 420 (S.D.N.Y.1976)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Coyne v. Schwartz, Gold, Cohen, Zakarin & Kotler, P.A.,
+715 So.2d 1021 (Fla. 4th DCA 1998)(cid:3)......................................................................................................(cid:3)21(cid:3)
+CSX Transp., Inc. v. Carpenter,
+725 So.2d 434 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)30(cid:3)
+Delap v. State,
+440 So.2d 1242 (Fla. 1983)(cid:3).....................................................................................................................(cid:3)22(cid:3)
+Diaz–Verson v. Walbridge Aldinger Co.,
+54 So.3d 1007 (Fla. 2d DCA 2010)(cid:3)........................................................................................................(cid:3)20(cid:3)
+Dillenbeck v. Hess,
+73 N.Y.2d 278, 290, 536 N.E.2d 1126 (N.Y. 1989)(cid:3)...............................................................................(cid:3)14(cid:3)
+Does 1 and 2 v. United States,
+817 F.Supp.2d 1337 (S.D. Fla. 2011)(cid:3).......................................................................................................(cid:3)2(cid:3)
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014)(cid:3)....................................................................................................................(cid:3)3(cid:3)
+Eastern Air Lines, Inc. v. Gellert,
+431 So.2d 329 (Fla. 3d DCA 1983)(cid:3)........................................................................................................(cid:3)28(cid:3)
+Elliott Associates, L.P. v. Banco de la Nacion,
+194 F.3d 363 (2d Cir. 1999)(cid:3)....................................................................................................................(cid:3)18(cid:3)
+iii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 5 of 40
+Falco v. N. Shore Labs. Corp.,
+866 So.2d 1255 (Fla. 1st DCA 2004)(cid:3)...........................................................

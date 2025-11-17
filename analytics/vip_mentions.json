@@ -1,0 +1,372 @@
+﻿{
+    "ross":  [
+                 {
+                     "count":  1,
+                     "file":  "1325-4.pdf"
+                 },
+                 {
+                     "count":  1,
+                     "file":  "1325-2.pdf"
+                 }
+             ],
+    "epstein":  [
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.6_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.7.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.5_1.pdf"
+                    }
+                ],
+    "maxwell":  [
+                    {
+                        "count":  2,
+                        "file":  "1325-17.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.37.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.36.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1327.26_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.6_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1327.28_3.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.2_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.7.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1327.27.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.38.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1327.29_2.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.5_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.39.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.3_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.1_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.5.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.4.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.6.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-40.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-33.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-19.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-35.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-34.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-37.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-39.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-38.pdf"
+                    }
+                ],
+    "ghislaine maxwell":  [
+                              {
+                                  "count":  2,
+                                  "file":  "1325-17.pdf"
+                              }
+                          ],
+    "virginia giuffre":  [
+                             {
+                                 "count":  2,
+                                 "file":  "1325-2.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "1325-3.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "1325-1.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.37.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.36.pdf"
+                             },
+                             {
+                                 "count":  5,
+                                 "file":  "gov.uscourts.nysd.447706.1327.26_1.pdf"
+                             },
+                             {
+                                 "count":  5,
+                                 "file":  "gov.uscourts.nysd.447706.1327.28_3.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.2_1.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1327.27.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.38.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1327.29_2.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.39.pdf"
+                             },
+                             {
+                                 "count":  2,
+                                 "file":  "gov.uscourts.nysd.447706.1328.3_1.pdf"
+                             },
+                             {
+                                 "count":  5,
+                                 "file":  "gov.uscourts.nysd.447706.1328.1_1.pdf"
+                             },
+                             {
+                                 "count":  3,
+                                 "file":  "1320-33.pdf"
+                             },
+                             {
+                                 "count":  5,
+                                 "file":  "1320-19.pdf"
+                             },
+                             {
+                                 "count":  3,
+                                 "file":  "1320-34.pdf"
+                             }
+                         ],
+    "marcinkova":  [
+                       {
+                           "count":  2,
+                           "file":  "gov.uscourts.nysd.447706.1328.16.pdf"
+                       }
+                   ],
+    "giuffre":  [
+                    {
+                        "count":  2,
+                        "file":  "1325-17.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1325-2.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1325-3.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1325-1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.18_1.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.37.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.36.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.21_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.19_1.pdf"
+                    },
+                    {
+                        "count":  7,
+                        "file":  "gov.uscourts.nysd.447706.1327.26_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.20_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.22_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.6_1.pdf"
+                    },
+                    {
+                        "count":  7,
+                        "file":  "gov.uscourts.nysd.447706.1327.28_3.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.2_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.7.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.17_1.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1327.27.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.38.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1327.29_2.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1330.5_1.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.39.pdf"
+                    },
+                    {
+                        "count":  4,
+                        "file":  "gov.uscourts.nysd.447706.1328.3_1.pdf"
+                    },
+                    {
+                        "count":  7,
+                        "file":  "gov.uscourts.nysd.447706.1328.1_1.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.13.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.5.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.16.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.17.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.4.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1331.6.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "gov.uscourts.nysd.447706.1328.15.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-40.pdf"
+                    },
+                    {
+                        "count":  5,
+                        "file":  "1320-33.pdf"
+                    },
+                    {
+                        "count":  7,
+                        "file":  "1320-19.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-35.pdf"
+                    },
+                    {
+                        "count":  5,
+                        "file":  "1320-34.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-37.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-39.pdf"
+                    },
+                    {
+                        "count":  2,
+                        "file":  "1320-38.pdf"
+                    }
+                ]
+}

@@ -1,0 +1,235 @@
+================================================================================
+EMAIL EXTRACTION FROM: 1331-13.pdf
+================================================================================
+
+Subject: 
+Date: 01/05/24
+Source PDF: 1331-13.pdf
+
+================================================================================
+INITIAL EMAIL CONTENT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 1 of 22
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+
+
+================================================================================
+REPLY 1
+================================================================================
+
+/
+PLAINTIFFGIUFFRE’S RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS
+DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+Sigrid McCawley
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 2 of 22
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT.....................................................................................................1
+ARGUMENT..................................................................................................................................2
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.........2
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed........................2
+B. Esp-lin May Be an Unavailable Witness..................................................................4
+II. EPSTEIN, , AND ESPLIN SHOULD ALL BE ALLOWED TO TESTIFY
+VIA DEPOSITION TESTIMONY.....................................................................................5
+A. Jeffrey Epstein.........................................................................................................5
+B. Deposition Should Be Allowed...................................................7
+C. Esplin’s Deposition Should Be Allowed if Defendant Decides Not to Make
+Him Available at Trial...........................................................................................10
+III. ALFREDO RODRIGUEZ’S TESTIMONY IN AN EARLIER DEPOSITION
+SHOULD BE ALLOWED SINCE HE HAS SINCE DIED.............................................10
+A. Mr. Rodriguez’s Deposition Testimony is Admissible Under Fed. R. Evid.
+-
+804(b)(1)................................................................................................................11
+B. If the Rodriguez Deposition is Not Admissible Under the Former Testimony
+Exception, It Should Be Admitted Under the Residual Hearsay Exception.........13
+CONCLUSION.............................................................................................................................16
+CERTIFICATE OF SERVICE......................................................................................................18
+i
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 3 of 22
+TABLE OF AUTHORITIES
+Page
+Cases
+Amusement Indus., Inc. v. Stern,
+No. 07CIV11586LAKGWG, 2016 WL 4249965 (S.D.N.Y. Aug. 11, 2016).............................6
+Brookover v. Mary Hitchcock Mem'l Hosp.,
+893 F.2d 411 (1st Cir. 1990)......................................................................................................14
+In re Ashley,
+903 F.2d 599 (9th Cir. 1990).......................................................................................................3
+John Paul Mitchell Sys. v. Quality King Distributors, Inc.,
+106 F. Supp. 2d 462 (S.D.N.Y. 2000).........................................................................................6
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)................................................................................................5, 6, 7
+Lloyd v. American Export Lines, Inc.,
+580 F.2d 1179 (3d Cir. 1978)..............................................................................................12, 13
+S.E.C. v. Durante,
+No. 01 CIV. 9056 DAB AJP, 2013 WL 6800226 (S.D.N.Y. Dec. 19, 2013).............................6
+United States ex rel. Bilokumsky v. Tod,
+263 U.S. 149 (1923)....................................................................................................................7
+United States v. Carneglia,
+256 F.R.D. 366 (E.D.N.Y. 2009)...............................................................................................13
+United States v. Salerno,
+505 U.S. 317..............................................................................................................................13
+United States v. Sinclair,
+109 F.3d 1527 (10th Cir. 1997)...................................................................................................8
+United States v. Valdez-Soto,
+31 F.3d 1467 (9th Cir. 1994).....................................................................................................14
+ii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 4 of 22
+-R-u-le-s
+Fed. R. Civ. P. 32..........................................................................................................................11
+Fed. R. Civ. P. 32(a)(4)(D)..............................................................................................................3
+Fed. R. Civ. P. 32(a)(4)(E)..............................................................................................................4
+Fed. R. Civ. P. 32(a)(8).................................................................................................................11
+Fed. R. Evid. 102................................
+
+
+================================================================================
+FULL EXTRACTED TEXT
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 1 of 22
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFFGIUFFRE’S RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS
+DESIGNATED BY PLAINTIFF FOR USE AT TRIAL
+Sigrid McCawley
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 2 of 22
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT.....................................................................................................1
+ARGUMENT..................................................................................................................................2
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.........2
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed........................2
+B. Esp-lin May Be an Unavailable Witness..................................................................4
+II. EPSTEIN, , AND ESPLIN SHOULD ALL BE ALLOWED TO TESTIFY
+VIA DEPOSITION TESTIMONY.....................................................................................5
+A. Jeffrey Epstein.........................................................................................................5
+B. Deposition Should Be Allowed...................................................7
+C. Esplin’s Deposition Should Be Allowed if Defendant Decides Not to Make
+Him Available at Trial...........................................................................................10
+III. ALFREDO RODRIGUEZ’S TESTIMONY IN AN EARLIER DEPOSITION
+SHOULD BE ALLOWED SINCE HE HAS SINCE DIED.............................................10
+A. Mr. Rodriguez’s Deposition Testimony is Admissible Under Fed. R. Evid.
+-
+804(b)(1)................................................................................................................11
+B. If the Rodriguez Deposition is Not Admissible Under the Former Testimony
+Exception, It Should Be Admitted Under the Residual Hearsay Exception.........13
+CONCLUSION.............................................................................................................................16
+CERTIFICATE OF SERVICE......................................................................................................18
+i
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 3 of 22
+TABLE OF AUTHORITIES
+Page
+Cases
+Amusement Indus., Inc. v. Stern,
+No. 07CIV11586LAKGWG, 2016 WL 4249965 (S.D.N.Y. Aug. 11, 2016).............................6
+Brookover v. Mary Hitchcock Mem'l Hosp.,
+893 F.2d 411 (1st Cir. 1990)......................................................................................................14
+In re Ashley,
+903 F.2d 599 (9th Cir. 1990).......................................................................................................3
+John Paul Mitchell Sys. v. Quality King Distributors, Inc.,
+106 F. Supp. 2d 462 (S.D.N.Y. 2000).........................................................................................6
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)................................................................................................5, 6, 7
+Lloyd v. American Export Lines, Inc.,
+580 F.2d 1179 (3d Cir. 1978)..............................................................................................12, 13
+S.E.C. v. Durante,
+No. 01 CIV. 9056 DAB AJP, 2013 WL 6800226 (S.D.N.Y. Dec. 19, 2013).............................6
+United States ex rel. Bilokumsky v. Tod,
+263 U.S. 149 (1923)....................................................................................................................7
+United States v. Carneglia,
+256 F.R.D. 366 (E.D.N.Y. 2009)...............................................................................................13
+United States v. Salerno,
+505 U.S. 317..............................................................................................................................13
+United States v. Sinclair,
+109 F.3d 1527 (10th Cir. 1997)...................................................................................................8
+United States v. Valdez-Soto,
+31 F.3d 1467 (9th Cir. 1994).....................................................................................................14
+ii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 4 of 22
+-R-u-le-s
+Fed. R. Civ. P. 32..........................................................................................................................11
+Fed. R. Civ. P. 32(a)(4)(D)..............................................................................................................3
+Fed. R. Civ. P. 32(a)(4)(E)..............................................................................................................4
+Fed. R. Civ. P. 32(a)(8).................................................................................................................11
+Fed. R. Evid. 102...........................................................................................................................15
+Fed. R. Evid. 601.............................................................................................................................8
+Fed. R. Evid. 612.............................................................................................................................8
+Fed. R. Evid. 804...........................................................................................................................13
+Fed. R. Evid. 804(8)........................................................................................................................9
+Fed. R. Evid. 804(b)(1)......................................................................................................10, 11, 13
+Fed. R. Evid. 806...........................................................................................................................11
+Fed. R. Evid. 807.......................................................................................................................9, 14
+iii
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 5 of 22
+Plaintiff Ms. Giuffre respectfully submits this Response in Opposition to Defendant’s
+Motion in Limine to Exclude in Certain Depositions Designated by Plaintiff for Use at Trial.
+PRELIMINARYSTATEMENT
+In carrying through on her threat to object to every piece of evidence that Ms. Giuffre
+intends to use at trial, Defendant Maxwell has raised three general objections to various
+depositions Ms. Giuffre has designatedfor use at trial.
+First, Defendant argues that Jeffrey Epstein is not an unavailable witness and should
+appear as a live witness. Ms. Giuffre would like to have him appear at trial and it appears that
+Epstein’s counsel is willing to accept a subpoena for him. If so, the issue is moot. But if for any
+reason that trial subpoena fails to secure his attendance, it is clear he is an unavailable witness
+since he previously evaded more than a dozen efforts to serve him with a pre-trial deposition
+subpoena.
+Second, Defendant raises certain objections based on the fact that Jeffrey Epstein,
+and Philip Esplin gave testimony that is helpful to Ms. Giuffre during their
+depositions and therefore she seeks to exclude that damaging testimony. This hardly provides a
+basis for excluding their evidence. Epstein should be allowed to test-ify so that Ms. Giuffre can
+obtain adverse inferences from his Fifth Amendment invocations. and Esplin should be
+allowed to testify, via deposition, because they have information relevant for the jury.
+Finally, Defendant objects to the use of a deposition of Alfredo Rodriguez. But because
+he has since passed away, the choice is between preventing the jury from hearing any of his
+testimony and using the earlier transcript. The transcript should be allowed.
+1
+Case 1:15-cv-07433-LAP Document 1331-13 Filed 01/05/24 Page 6 of 22
+ARGUMENT
+I. EPSTEIN AND, POTENTIALLY, ESPLIN ARE UNAVAILABLE WITNESSES.
+A. Jeffrey Epstein is a Witness who is more than 100 miles from the place of
+hearing, or at a Minimum a Witness Who Cannot Be Subpoenaed.
+Defendant argues that Jeffrey Epstein can simply appear live at the trial since he
+“reside[s]” within 100 miles of the courthouse, Mot. at 2, and thus Ms. Giuffre can simply
+subpoena him. It appears that this issue has been resolved because Epstein’s attorneys have
+agreed to accept a trial subpoena on his behalf. See McCawley Dec. at Exhibit 1, Letter from
+Jack Goldberger, Esq. Epstein’s lawyers have also indicated they will be moving to quash his
+subpoena. If Epstein appears live at trial, then Ms. Giuffre will, of course, simply present that
+live testimony rather than rely on his recorded deposition.
+In her motion, Defendant fails to mention the extraordinary efforts that Ms. Giuffre had
+to undertake to obtain the pre-trial deposition of Epstein. As the Court will recall from Ms.
+Giuffre’s Motion for Leave to Serve Three Deposition Subpoenas by Means Other Than
+Personal Service, filed May 25, 2016, Ms. Giuffre began by asking Epstein’s legal counsel to
+accept service of a subpoena in this matter. Epstein’s counsel refused. Accordingly, Ms. Giuffre
+was forced to retain an investigative company to attempt to locate Epstein for purposes of
+personal service. What followed were no less than sixteen attempts to personally service Epstein,
+including affixing subpoenas to his “temporary” address in New York. A copy of the subpoena
+was also provided to Epstein’s counsel.
+As the Court will recall, Epstein was not the only person in the sex trafficking ring who
+was evading service. Sarah Kellen and Nadia Marcincova, two other conspirators who (along
+with Defendant), helped Epstein in h

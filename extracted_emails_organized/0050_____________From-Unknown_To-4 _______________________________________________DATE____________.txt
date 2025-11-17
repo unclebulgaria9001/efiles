@@ -1,0 +1,1349 @@
+====================================================================================================
+EMAIL #0050 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        gov.uscourts.nysd.447706.1257.12_1.pdf
+Subject:           _______________________DATE:___________
+Date:              ___________
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                           PARTICIPANTS                                           ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+To:    4 _________________________________________________________, 7 _________________________________________________________, 10 _________________________________________________________, 13 _________________________________________________________, 16 _________________________________________________________, 19 _________________________________________________________, 22 _________________________________________________________, 4 _________________________________________________________, 7 _________________________________________________________, 10 _________________________________________________________, 13 _________________________________________________________, 16 _________________________________________________________, 19 _________________________________________________________, 22 _________________________________________________________
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        43,937
+Character Count:   225,050
+Categories:        legal, media, correspondence
+Key People:        maxwell, andrew, prince, giuffre, dershowitz, epstein
+Key Locations:     virgin islands, florida, new york, island
+Type:              Reply  Has Attachments
+Thread Replies:    37
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Subject: _______________________DATE:___________ | Date: ___________ | To: 4 _________________________________________________________, 7 _________________________________________________________, 10 _________________________________________________________ | Categories: legal, media, correspondence | Key People: maxwell, andrew, prince, giuffre, dershowitz | Thread: 37 replies | Type: Reply, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 1 of 223
+Exhibit G
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 2 of 223
+1
+1 IN THE CIRCUIT COURT OF THE 17TH JUDICIAL CIRCUIT
+IN AND FOR BROWARD COUNTY, FLORIDA
+2 CASE NO. 15-000072
+3
+BRADLEY J. EDWARDS and PAUL G.
+4 CASSELL,
+5 Plaintiffs,
+6 -vs- CONFIDENTIAL
+7 ALAN M. DERSHOWITZ,
+8 Defendant.
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #1                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+/
+9
+10 VIDEOTAPED DEPOSITION OF VIRGINIA ROBERTS GIUFFRE
+11
+12 Saturday, January 16, 2016
+9:07 a.m. - 2:48 p.m.
+13
+14 401 East Las Olas Blvd., Suite 1200
+Fort Lauderdale, Florida 33301
+15
+16
+17
+18 Reported By:
+19 Deborah A. Harris, Court Reporter
+Notary Public, State of Florida
+20 Phone - 305.651.0706
+21
+Job No. JO277789
+22
+23
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 3 of 223
+2
+1 APPEARANCES:
+2 On behalf of the Plaintiffs:
+Jack Scarola, Esquire
+3 SEARCY, DENNEY, SCAROLA, BARNHART &
+SHIPLEY, P.A.
+4 2139 Palm Beach Lakes Boulevard
+West Palm Beach, Florida 33409
+5 (561) 686-6300
+6 On behalf of the Deponent:
+Sigrid McCawley, Esquire
+7 BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard,
+8 Suite 1200
+Fort Lauderdale, Florida 33301
+9 (954) 356-0011
+10 On behalf of the Defendant:
+Mary Borja, Esquire
+11 WILEY REIN, LLP
+1776 K Street NW
+12 Washington, DC 20006
+(202) 719-7000
+13
+On behalf of the Defendant:
+14 Richard Simpson, Esquire
+WILEY REIN, LLP
+15 1776 K Street NW
+Washington, DC 20006
+16 (202) 719-7000
+17 On behalf of the Defendant:
+Thomas E. Scott, Esquire
+18 COLE, SCOTT & KISSANE, P.A.
+9150 South Dadeland Boulevard,
+19 14th Floor
+Miami, Florida 33156
+20 (305) 350-5300
+21 On behalf of the Defendant:
+Kenneth A. Sweder, Esquire
+22 SWEDER & ROSS, LLP
+131 Oliver Street.
+23 Boston, Massachusetts 02110
+(617) 646-4466
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 4 of 223
+3
+1 ALSO PRESENT
+2
+Edward J. Pozzuoli, Special Master
+3 Robert Pacheco, Videographer
+Ryan Kick, Videographer
+4 Bradley J. Edwards
+Paul G. Cassell
+5 Alan M. Dershowitz
+Brittany N. Henderson, Esq.
+6 Meridith Schultz, Esquire
+7
+- - -
+8
+I N D E X
+9
+10 WITNESS DIRECT CROSS REDIRECT RECROSS
+11 Virginia Roberts Giuffre
+By Ms. Borja 5
+12 By Mr. Scarola 201
+By Ms. Borja 204
+13 - - -
+14 E X H I B I T S
+15 DEFENDANT VR EXHIBITS FOR ID
+16 1 - Notice. 6
+2 - Disclosure list. 26
+17 3 - Order. 59
+4 - E-mail. 92
+18 5 - Photo (Confidential) 100
+6 - Article. 124
+19 7 - Daily Mail. 155
+8 - Daily Mail. 168
+20 9 - Declaration. 170
+10- FBI doc. 187
+21
+REPORTER'S NOTE: Exhibit 5 marked confidential, sealed,
+22 and retained by the Special Master.
+23
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 5 of 223
+4
+1 Deposition taken before Deborah A. Harris,
+2 Florida Professional Court Reporter and Notary Public in
+3 and for the State of Florida at Large, in the above
+4 cause.
+5 - - -
+6 THE VIDEOGRAPHER: We are now on video
+7 record. This is disk number one in the videotaped
+8 deposition of Virginia Roberts in the matter of
+9 Bradley J. Edwards and Paul G. Cassell, Plaintiff
+10 versus Alan M. Dershowitz, Defendant.
+11 The deposition is being held at the Law
+12 Office of Boies, Schiller & Flexner located at 401
+13 East Las Olas Boulevard, Suite 1200. Fort
+14 Lauderdale, Florida 33301. Today's date is
+15 January 16th, 2016. The time is 9:07 a.m.
+16 My name is Robert Pacheco, I am the
+17 videographer. The court reporter is Deborah
+18 Harris, both from Esquire Deposition Solutions.
+19 Would counsel please introduce yourselves and your
+20 affiliation and the witness will be sworn in.
+21 MS. MCCAWLEY: My name is Sigrid McCawley.
+22 I'm with the Law Firm of Boies, Schiller &
+23 Flexner. I'm here with my colleague, Meridith
+24 Schultz and we represent non-party Virginia
+25 Roberts Giuffre.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 6 of 223
+5
+1 MR. SCAROLA: Jack Scarola, counsel on
+2 behalf of Bradley Edwards and Paul Cassell. Mr.
+3 Edwards and Mr. Cassell are also present.
+4 MS. HENDERSON: Brittany Henderson also on
+5 behalf of the Plaintiff.
+6 MS. BORJA: Mary Borja for Defendant, Alan
+7 Dershowitz.
+8 MR. SCOTT: Thomas Scott for the Defendant.
+9 MR. SIMPSON: Richard Simpson on behalf of
+10 Professor Dershowitz.
+11 MR. SWEDER: Ken Sweder of Sweder and Ross
+12 on behalf of Professor Dershowitz.
+13 SPECIAL MASTER: Ed Pozzuoli, Special
+14 Master.
+15 - - -
+16 Thereupon,
+17 VIRGINIA ROBERTS GIUFFRE,
+18 having been first duly sworn or affirmed, was examined
+19 and testified as follows:
+20 THE WITNESS: Yes, I do.
+21 DIRECT EXAMINATION
+22 BY MS. BORJA:
+23 Q. We have noticed this examination for you as
+24 Virginia Roberts. I understand you have a different
+25 married last name?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 7 of 223
+6
+1 A. Yes.
+2 Q. Could you pronounce that for me?
+3 A. Giuffre.
+4 Q. Giuffre. If I from time to time call you
+5 Ms. Roberts, would that be okay with you today?
+6 A. Absolutely.
+7 (Thereupon, Defendant's VR Exhibit No. 1,
+8 was Marked for Identification.)
+9 BY MS. BORJA:
+10 Q. I'm going to hand you a document that's
+11 been marked as VR Exhibit Number 1, which is a notice of
+12 taking video duces tecum. Ms. Roberts, are you appearing
+13 here today pursuant to this notice of video deposition
+14 duces tecum?
+15 A. Yes.
+16 Q. And you've seen this document before today?
+17 A. No.
+18 Q. Did you bring any documents with you today
+19 pursuant to the duces tecum?
+20 A. No.
+21 Q. Were you asked to bring any documents with
+22 you today?
+23 A. No.
+24 Q. You understand that you're under oath today
+25 and that your testimony is being taken down by the court
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 8 of 223
+7
+1 reporter, correct?
+2 A. Yes.
+3 Q. And today's testimony is the same as if you
+4 were testifying before a judge and a jury. Do you
+5 understand that?
+6 A. Yes.
+7 Q. It's important that you allow me to finish
+8 my question and I'll allow you to finish your answer
+9 because the court reporter is very good, but she can only
+10 type one of us talking at a time. Is that okay?
+11 A. Yes.
+12 Q. It's also important that all of your
+13 answers be verbal since nodding your head or shaking your
+14 head if you mean yes or no, you should give it a verbal
+15 response. Is that agreeable?
+16 A. Yes.
+17 Q. What is your current home address?
+18 MS. MCCAWLEY: We're going to object on the
+19 record. You're welcome to notice anything to my
+20 law office for Virginia. She's had some safety
+21 issues with respect to her location so we're not
+22 going to be putting that on the record.
+23 MS. BORJA: That's fine. You're going to
+24 accept service for her for all purposes in this
+25 action?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 9 of 223
+8
+1 MS. MCCAWLEY: Yes.
+2 MS. BORJA: That's fine. Thank you.
+3 MS. MCCAWLEY: Yes. If you need to serve
+4 her with anything.
+5 BY MS. BORJA:
+6 Q. Ms. Roberts, are you taking medication that
+7 would effect in any way your ability to testify?
+8 A. No.
+9 Q. Were you involved in collecting documents
+10 for production in this case?
+11 A. I don't understand.
+12 Q. I'll get back to that in a little bit. Are
+13 you aware of the action that your attorneys, Brad Edwards
+14 and Paul Cassell, filed against the government?
+15 A. Yes.
+16 Q. If I call that the Federal action or the
+17 CVRA action, will you understand the action that I'm
+18 referring to?
+19 A. Yes.
+20 Q. And you sought to join that action,
+21 correct?
+22 A. Yes.
+23 Q. And you understand that you were Jane Doe
+24 #3 named in the motion for joinder, right?
+25 A. Yes.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 10 of 223
+9
+1 Q. I'm going to show you, I'm not going to
+2 mark it as an exhibit, a copy of Jane Doe #3 and Jane Doe
+3 #4 corrected motion pursuant to Rule 21 for joinder and
+4 action. Do you have that in front of you right now?
+5 A. Yes.
+6 Q. And this was entered as Document 280 in the
+7 docket for purposes of identification in our record here
+8 today. Did you review this document before it was filed?
+9 A. Not this specific document, no.
+10 Q. Were you aware that this joinder motion was
+11 being filed in the CVRA action?
+12 A. I knew there was an action for the CVRA for
+13 me to be joined, yes.
+14 Q. And you're aware, are you not, that there
+15 are allegations that you were sexually trafficked being
+16 made in that action, correct?
+17 A. I'm aware that there are allegations that I
+18 was trafficked.
+19 Q. If you turn to page 4 of this document the
+20 numbers are on the bottom of the page. In that first
+21 full paragraph in the third line down it says, Epstein
+22 required Jane Doe #3 to have sexual relations with
+23 Dershowitz on numerous occasions when she was a minor?
+24 MS. MCCAWLEY: Feel free to look at the
+25 entire page.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 11 of 223
+10
+1 MR. SCAROLA: It is a minor discrepancy,
+2 but I think you read it as when she was a minor
+3 and it's while she was a minor.
+4 BY MS. BORJA:
+5 Q. While she was a minor. Do you see where
+6 I'm reading starting in the third line?
+7 A. Yes.
+8 Q. Is that allegation true?
+9 A. Yes.
+10 Q. If you go to page 6 of the document, do you
+11 see the paragraph that's starts, Epstein also trafficked?
+12 A. Yes.
+13 Q. Is says Epstein also trafficked Jane Doe #3
+14 for sexual purposes to many other powerful men including
+15 numerous prominent American politicians, powerful
+16 business executives, foreign presidents, a well-known
+17 prime minister and other world leaders. Do you see that?
+18 A. Yes.
+19 Q. Is that allegation true?
+20 A. Yes.
+21 Q. The reference there to foreign presidents,
+22 do you see that?
+23 A. Yes.
+24 Q. You were sexually trafficked to foreign
+25 presidents?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 12 of 223
+11
+1 A. No.
+2 Q. So that's not true, you were not sexually
+3 trafficked to foreign presidents?
+4 A. I don't know what foreign president you're
+5 talking about.
+6 Q. Have you ever been sexually trafficked to
+7 any foreign president?
+8 MS. MCCAWLEY: I'm going to allow you to
+9 ask that question, but with respect to specific
+10 identification of an individual we're not going to
+11 do that. At this point she has.
+12 MS. BORJA: Counsel, your objection has
+13 been made. No speaking objections, please. Let's
+14 move on.
+15 MS
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #2                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Deborah A. Harris, Court Reporter
+19 Notary Public - State of Florida
+My Commission No. FF 246867
+20 My Commission Expires: October 31, 2019
+Job No. JO277789
+21
+22
+23
+24
+25
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 215 of 223
+214
+1 REPORTER'S CERTIFICATE
+2
+I, Deborah A. Harris, Florida Professional
+3 Court Reporter and Notary Public in and for the State of
+Florida at Large, do hereby certify that I was authorized
+4 to and did report said deposition in stenotype; and that
+the foregoing pages 1 through 216 are a true and correct
+5 transcription of my shorthand notes of said deposition.
+6 I further certify that said deposition was
+taken at the time and place hereinabove set forth and
+7 that the taking of said deposition was commenced and
+completed as hereinabove set out.
+8
+I further certify that I am not an attorney
+9 or counsel of any of the parties, nor am I a relative or
+employee of any attorney or counsel of party connected
+10 with the action, nor am I financially interested in the
+action.
+11
+The foregoing certification of this
+12 transcript does not apply to any reproduction of the same
+by any means unless under the direct control and/or
+13 direction of the certifying reporter.
+14 DATED this 20th day of January, 2016.
+15
+16
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #3                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Deborah A. Harris, Court Reporter
+17 Job No. JO277789
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 216 of 223
+215
+1 DEPOSITION ERRATA SHEET
+2
+3 Assignment no: JO277789
+4 Bradley J. Edwards and Paul G. Cassell
+5 vs.
+6 Alan M. Dershowitz
+7 **
+8 DECLARATION UNDER PENALTY OF PERJURY
+9
+10 I declare under penalty of perjury that I
+11 have read the entire transcript of my videotaped
+12 deposition taken in the captioned matter or the same has
+13 been read to me, and the same is true and accurate, save
+14 and except for changes and/or corrections, if any, as
+15 indicated by me on the DEPOSITION ERRATA SHEET hereof,
+16 with the understanding that I offer these changes as if
+17 still under oath.
+18
+19 Signed on the ______ day of
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #4                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+,
+20 20___.
+21
+22
+23
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #5                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+24 VIRGINIA ROBERTS GIUFFRE
+25
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 217 of 223
+216
+1 DEPOSITION ERRATA SHEET
+2
+3 Page No.____Line No._____Change to:
+4
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #6                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+5 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #7                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+6 Page No.____Line No._____Change to:
+7
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #8                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+8 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             REPLY #9                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+9 Page No.____Line No._____Change to:
+10
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #10                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+11 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #11                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+12 Page No.____Line No._____Change to:
+13
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #12                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+14 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #13                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+15 Page No.____Line No._____Change to:
+16
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #14                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+17 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #15                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+18 Page No.____Line No._____Change to:
+19
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #16                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+20 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #17                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+21 Page No.____Line No._____Change to:
+22
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #18                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+23 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #19                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+24 SIGNATURE:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #20                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+DATE:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #21                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+25 VIRGINIA ROBERTS GIUFFRE
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 218 of 223
+217
+1 DEPOSITION ERRATA SHEET
+2
+3 Page No.____Line No._____Change to:
+4
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #22                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+5 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #23                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+6 Page No.____Line No._____Change to:
+7
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #24                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+8 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #25                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+9 Page No.____Line No._____Change to:
+10
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #26                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+11 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #27                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+12 Page No.____Line No._____Change to:
+13
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #28                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+14 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #29                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+15 Page No.____Line No._____Change to:
+16
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #30                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+17 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #31                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+18 Page No.____Line No._____Change to:
+19
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #32                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+20 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #33                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+21 Page No.____Line No._____Change to:
+22
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #34                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+23 Reason for change:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #35                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+24 SIGNATURE:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #36                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+DATE:
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                            REPLY #37                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+25 VIRGINIA ROBERTS GIUFFRE
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 219 of 223
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 220 of 223
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 221 of 223
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 222 of 223
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 223 of 223
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 1 of 223
+Exhibit G
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 2 of 223
+1
+1 IN THE CIRCUIT COURT OF THE 17TH JUDICIAL CIRCUIT
+IN AND FOR BROWARD COUNTY, FLORIDA
+2 CASE NO. 15-000072
+3
+BRADLEY J. EDWARDS and PAUL G.
+4 CASSELL,
+5 Plaintiffs,
+6 -vs- CONFIDENTIAL
+7 ALAN M. DERSHOWITZ,
+8 Defendant.
+____________________________________/
+9
+10 VIDEOTAPED DEPOSITION OF VIRGINIA ROBERTS GIUFFRE
+11
+12 Saturday, January 16, 2016
+9:07 a.m. - 2:48 p.m.
+13
+14 401 East Las Olas Blvd., Suite 1200
+Fort Lauderdale, Florida 33301
+15
+16
+17
+18 Reported By:
+19 Deborah A. Harris, Court Reporter
+Notary Public, State of Florida
+20 Phone - 305.651.0706
+21
+Job No. JO277789
+22
+23
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 3 of 223
+2
+1 APPEARANCES:
+2 On behalf of the Plaintiffs:
+Jack Scarola, Esquire
+3 SEARCY, DENNEY, SCAROLA, BARNHART &
+SHIPLEY, P.A.
+4 2139 Palm Beach Lakes Boulevard
+West Palm Beach, Florida 33409
+5 (561) 686-6300
+6 On behalf of the Deponent:
+Sigrid McCawley, Esquire
+7 BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard,
+8 Suite 1200
+Fort Lauderdale, Florida 33301
+9 (954) 356-0011
+10 On behalf of the Defendant:
+Mary Borja, Esquire
+11 WILEY REIN, LLP
+1776 K Street NW
+12 Washington, DC 20006
+(202) 719-7000
+13
+On behalf of the Defendant:
+14 Richard Simpson, Esquire
+WILEY REIN, LLP
+15 1776 K Street NW
+Washington, DC 20006
+16 (202) 719-7000
+17 On behalf of the Defendant:
+Thomas E. Scott, Esquire
+18 COLE, SCOTT & KISSANE, P.A.
+9150 South Dadeland Boulevard,
+19 14th Floor
+Miami, Florida 33156
+20 (305) 350-5300
+21 On behalf of the Defendant:
+Kenneth A. Sweder, Esquire
+22 SWEDER & ROSS, LLP
+131 Oliver Street.
+23 Boston, Massachusetts 02110
+(617) 646-4466
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 4 of 223
+3
+1 ALSO PRESENT
+2
+Edward J. Pozzuoli, Special Master
+3 Robert Pacheco, Videographer
+Ryan Kick, Videographer
+4 Bradley J. Edwards
+Paul G. Cassell
+5 Alan M. Dershowitz
+Brittany N. Henderson, Esq.
+6 Meridith Schultz, Esquire
+7
+- - -
+8
+I N D E X
+9
+10 WITNESS DIRECT CROSS REDIRECT RECROSS
+11 Virginia Roberts Giuffre
+By Ms. Borja 5
+12 By Mr. Scarola 201
+By Ms. Borja 204
+13 - - -
+14 E X H I B I T S
+15 DEFENDANT VR EXHIBITS FOR ID
+16 1 - Notice. 6
+2 - Disclosure list. 26
+17 3 - Order. 59
+4 - E-mail. 92
+18 5 - Photo (Confidential) 100
+6 - Article. 124
+19 7 - Daily Mail. 155
+8 - Daily Mail. 168
+20 9 - Declaration. 170
+10- FBI doc. 187
+21
+REPORTER'S NOTE: Exhibit 5 marked confidential, sealed,
+22 and retained by the Special Master.
+23
+24
+25
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 5 of 223
+4
+1 Deposition taken before Deborah A. Harris,
+2 Florida Professional Court Reporter and Notary Public in
+3 and for the State of Florida at Large, in the above
+4 cause.
+5 - - -
+6 THE VIDEOGRAPHER: We are now on video
+7 record. This is disk number one in the videotaped
+8 deposition of Virginia Roberts in the matter of
+9 Bradley J. Edwards and Paul G. Cassell, Plaintiff
+10 versus Alan M. Dershowitz, Defendant.
+11 The deposition is being held at the Law
+12 Office of Boies, Schiller & Flexner located at 401
+13 East Las Olas Boulevard, Suite 1200. Fort
+14 Lauderdale, Florida 33301. Today's date is
+15 January 16th, 2016. The time is 9:07 a.m.
+16 My name is Robert Pacheco, I am the
+17 videographer. The court reporter is Deborah
+18 Harris, both from Esquire Deposition Solutions.
+19 Would counsel please introduce yourselves and your
+20 affiliation and the witness will be sworn in.
+21 MS. MCCAWLEY: My name is Sigrid McCawley.
+22 I'm with the Law Firm of Boies, Schiller &
+23 Flexner. I'm here with my colleague, Meridith
+24 Schultz and we represent non-party Virginia
+25 Roberts Giuffre.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 6 of 223
+5
+1 MR. SCAROLA: Jack Scarola, counsel on
+2 behalf of Bradley Edwards and Paul Cassell. Mr.
+3 Edwards and Mr. Cassell are also present.
+4 MS. HENDERSON: Brittany Henderson also on
+5 behalf of the Plaintiff.
+6 MS. BORJA: Mary Borja for Defendant, Alan
+7 Dershowitz.
+8 MR. SCOTT: Thomas Scott for the Defendant.
+9 MR. SIMPSON: Richard Simpson on behalf of
+10 Professor Dershowitz.
+11 MR. SWEDER: Ken Sweder of Sweder and Ross
+12 on behalf of Professor Dershowitz.
+13 SPECIAL MASTER: Ed Pozzuoli, Special
+14 Master.
+15 - - -
+16 Thereupon,
+17 VIRGINIA ROBERTS GIUFFRE,
+18 having been first duly sworn or affirmed, was examined
+19 and testified as follows:
+20 THE WITNESS: Yes, I do.
+21 DIRECT EXAMINATION
+22 BY MS. BORJA:
+23 Q. We have noticed this examination for you as
+24 Virginia Roberts. I understand you have a different
+25 married last name?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 7 of 223
+6
+1 A. Yes.
+2 Q. Could you pronounce that for me?
+3 A. Giuffre.
+4 Q. Giuffre. If I from time to time call you
+5 Ms. Roberts, would that be okay with you today?
+6 A. Absolutely.
+7 (Thereupon, Defendant's VR Exhibit No. 1,
+8 was Marked for Identification.)
+9 BY MS. BORJA:
+10 Q. I'm going to hand you a document that's
+11 been marked as VR Exhibit Number 1, which is a notice of
+12 taking video duces tecum. Ms. Roberts, are you appearing
+13 here today pursuant to this notice of video deposition
+14 duces tecum?
+15 A. Yes.
+16 Q. And you've seen this document before today?
+17 A. No.
+18 Q. Did you bring any documents with you today
+19 pursuant to the duces tecum?
+20 A. No.
+21 Q. Were you asked to bring any documents with
+22 you today?
+23 A. No.
+24 Q. You understand that you're under oath today
+25 and that your testimony is being taken down by the court
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 8 of 223
+7
+1 reporter, correct?
+2 A. Yes.
+3 Q. And today's testimony is the same as if you
+4 were testifying before a judge and a jury. Do you
+5 understand that?
+6 A. Yes.
+7 Q. It's important that you allow me to finish
+8 my question and I'll allow you to finish your answer
+9 because the court reporter is very good, but she can only
+10 type one of us talking at a time. Is that okay?
+11 A. Yes.
+12 Q. It's also important that all of your
+13 answers be verbal since nodding your head or shaking your
+14 head if you mean yes or no, you should give it a verbal
+15 response. Is that agreeable?
+16 A. Yes.
+17 Q. What is your current home address?
+18 MS. MCCAWLEY: We're going to object on the
+19 record. You're welcome to notice anything to my
+20 law office for Virginia. She's had some safety
+21 issues with respect to her location so we're not
+22 going to be putting that on the record.
+23 MS. BORJA: That's fine. You're going to
+24 accept service for her for all purposes in this
+25 action?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 9 of 223
+8
+1 MS. MCCAWLEY: Yes.
+2 MS. BORJA: That's fine. Thank you.
+3 MS. MCCAWLEY: Yes. If you need to serve
+4 her with anything.
+5 BY MS. BORJA:
+6 Q. Ms. Roberts, are you taking medication that
+7 would effect in any way your ability to testify?
+8 A. No.
+9 Q. Were you involved in collecting documents
+10 for production in this case?
+11 A. I don't understand.
+12 Q. I'll get back to that in a little bit. Are
+13 you aware of the action that your attorneys, Brad Edwards
+14 and Paul Cassell, filed against the government?
+15 A. Yes.
+16 Q. If I call that the Federal action or the
+17 CVRA action, will you understand the action that I'm
+18 referring to?
+19 A. Yes.
+20 Q. And you sought to join that action,
+21 correct?
+22 A. Yes.
+23 Q. And you understand that you were Jane Doe
+24 #3 named in the motion for joinder, right?
+25 A. Yes.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 10 of 223
+9
+1 Q. I'm going to show you, I'm not going to
+2 mark it as an exhibit, a copy of Jane Doe #3 and Jane Doe
+3 #4 corrected motion pursuant to Rule 21 for joinder and
+4 action. Do you have that in front of you right now?
+5 A. Yes.
+6 Q. And this was entered as Document 280 in the
+7 docket for purposes of identification in our record here
+8 today. Did you review this document before it was filed?
+9 A. Not this specific document, no.
+10 Q. Were you aware that this joinder motion was
+11 being filed in the CVRA action?
+12 A. I knew there was an action for the CVRA for
+13 me to be joined, yes.
+14 Q. And you're aware, are you not, that there
+15 are allegations that you were sexually trafficked being
+16 made in that action, correct?
+17 A. I'm aware that there are allegations that I
+18 was trafficked.
+19 Q. If you turn to page 4 of this document the
+20 numbers are on the bottom of the page. In that first
+21 full paragraph in the third line down it says, Epstein
+22 required Jane Doe #3 to have sexual relations with
+23 Dershowitz on numerous occasions when she was a minor?
+24 MS. MCCAWLEY: Feel free to look at the
+25 entire page.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 11 of 223
+10
+1 MR. SCAROLA: It is a minor discrepancy,
+2 but I think you read it as when she was a minor
+3 and it's while she was a minor.
+4 BY MS. BORJA:
+5 Q. While she was a minor. Do you see where
+6 I'm reading starting in the third line?
+7 A. Yes.
+8 Q. Is that allegation true?
+9 A. Yes.
+10 Q. If you go to page 6 of the document, do you
+11 see the paragraph that's starts, Epstein also trafficked?
+12 A. Yes.
+13 Q. Is says Epstein also trafficked Jane Doe #3
+14 for sexual purposes to many other powerful men including
+15 numerous prominent American politicians, powerful
+16 business executives, foreign presidents, a well-known
+17 prime minister and other world leaders. Do you see that?
+18 A. Yes.
+19 Q. Is that allegation true?
+20 A. Yes.
+21 Q. The reference there to foreign presidents,
+22 do you see that?
+23 A. Yes.
+24 Q. You were sexually trafficked to foreign
+25 presidents?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 12 of 223
+11
+1 A. No.
+2 Q. So that's not true, you were not sexually
+3 trafficked to foreign presidents?
+4 A. I don't know what foreign president you're
+5 talking about.
+6 Q. Have you ever been sexually trafficked to
+7 any foreign president?
+8 MS. MCCAWLEY: I'm going to allow you to
+9 ask that question, but with respect to specific
+10 identification of an individual we're not going to
+11 do that. At this point she has.
+12 MS. BORJA: Counsel, your objection has
+13 been made. No speaking objections, please. Let's
+14 move on.
+15 MS. MCCAWLEY: I can make my record, and my
+16 record is she's not going to be speaking with
+17 respect to individuals' names that are named in
+18 generalities in this document.
+19 SPECIAL MASTER: Objection overruled. You
+20 can answer.
+21 A. I understand well-known prime ministers and
+22 other world leaders; as far as foreign presidents, I'm
+23 not too sure, I don't know.
+24 Q. Have you ever met any foreign presidents?
+25 A. Foreign presidents as in overseas?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 13 of 223
+12
+1 Q. Sure, okay, overseas.
+2 A. No.
+3 Q. Have you ever met any foreign presidents
+4 from countries not overseas such as Canada or Mexico?
+5 A. No.
+6 Q. So you were not sexually trafficked to any
+7 foreign presidents; is that correct?
+8 A. As far as I know right now, yes.
+9 Q. It's correct that you were not sexually
+10 trafficked to them, right?
+11 A. You've asked me this three times and I'm
+12 telling you.
+13 Q. Okay. A well-known prime minister. Were
+14 you sexually trafficked to a well-known prime minister?
+15 A. Yes.
+16 Q. Who was that?
+17 MS. MCCAWLEY: I'm going to object to this
+18 line of questioning. This has to do with safety
+19 concerns for her.
+20 MS. BORJA: Counsel, this is under seal.
+21 You can answer.
+22 MS. MCCAWLEY: No, she's not going to
+23 answer.
+24 SPECIAL MASTER: Hang on one second.
+25 MS. MCCAWLEY: Let me make my objection.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 14 of 223
+13
+1 SPECIAL MASTER: Make your objection.
+2 MS. MCCAWLEY: Regardless of it being under
+3 seal, we've seen that in this case the client that
+4 you represent has violated confidentiality orders
+5 regularly so we have no sense of security with a
+6 sense that this is a confidential record at this
+7 point. We are doing that under the Court's order.
+8 With respect to naming individuals who can
+9 harm a victim of sexual trafficking, she's a
+10 non-party in this action, not a plaintiff. She is
+11 not going to be revealing any names today of an
+12 individual who is going to harm her physically,
+13 period. If we have to go to Judge Lynch on that
+14 we will, I'm happy to do that, but she's not going
+15 to be naming individuals where there's a threat to
+16 her safety.
+17 SPECIAL MASTER: Response.
+18 MS. BORJA: It is under seal. I'm shocked
+19 that counsel would suggest that a prime minister
+20 is threatening the physical safety of this
+21 witness. There's no foundation for that. The
+22 suggestion that a foreign minister is going to
+23 physically harm has no evidence in this case, and
+24 it's being to be under seal.
+25 Let's get the evidence out while the
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 15 of 223
+14
+1 witness is here. As you pointed out, she's a
+2 non-party. Let's make our record and move on.
+3 MS. MCCAWLEY: You may be shocked by that
+4 but --
+5 SPECIAL MASTER: Hang on one second. The
+6 reason why I'm here is so we don't have the back
+7 and forth.
+8 MS. MCCAWLEY: Sure.
+9 SPECIAL MASTER: I'm going to rule on the
+10 objection. Your objection at this point is
+11 overruled. You can answer. And I want to
+12 admonish everybody here that this is confidential
+13 and the protection of this witness is of paramount
+14 importance under the Confidentiality Order. So
+15 Ms. Roberts, you can answer the question that's
+16 been asked.
+17 MS. MCCAWLEY: At this point we're going to
+18 need to take a break because I'm not going to
+19 allow her to answer a question that's going to
+20 threaten her physical safety. So we can take a
+21 break on that.
+22 THE WITNESS: If I can just say, I
+23 personally know that this is not a good person to
+24 talk about and I'm not going to, point blank, I'm
+25 not going to say his name.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 16 of 223
+15
+1 SPECIAL MASTER: Okay. I can't twist her
+2 arm and force her so we'll deal with it.
+3 BY MS. BORJA:
+4 Q. Okay. Other world leaders, what other
+5 world leaders were you sexually trafficked to?
+6 MS. MCCAWLEY: We have the same objection.
+7 SPECIAL MASTER: And I would have the same
+8 ruling based upon the arguments.
+9 MS. MCCAWLEY: Let me just make my record.
+10 To the extent that there's a name of an individual
+11 that you can reveal that you do not feel would
+12 harm your physical safety, you're welcome to
+13 reveal them. Anybody else, you don't have to
+14 reveal at this time and we'll take that to Judge
+15 Lynch.
+16 A. Okay. Prince Andrew for one.
+17 Q. Other than Prince Andrew?
+18 A. There is another individual that I honestly
+19 do not know his name.
+20 Q. What country is he from?
+21 A. I'm not too sure, he spoke in a foreign --
+22 he did speak foreign tongue, he spoke English as well,
+23 but I'm not too sure where he was from.
+24 Q. How do you know he is world leader?
+25 A. I was introduced to him as a prince.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 17 of 223
+16
+1 Q. Okay. Did he have security with him?
+2 A. I'm sure he did somewhere around, but not
+3 when I was with him.
+4 Q. Did you see security?
+5 A. No.
+6 Q. Did you -- where were you when you met him?
+7 A. On this occasion the South of France.
+8 Q. Are there witnesses to you being sexually
+9 trafficked to this prince?
+10 A. Yes.
+11 Q. Name them.
+12 A. Jeffrey Epstein, Ghislaine Maxwell.
+13 Q. Anyone else?
+14 A. There was a whole bunch of people in the
+15 room so of course.
+16 Q. Was this an orgy?
+17 A. No.
+18 Q. Who else was in the room?
+19 A. I can't name them all, there was a lot.
+20 Q. Name as many as you can name?
+21 A. I don't know their names. I can't name
+22 their names.
+23 Q. They were present during sexual activity?
+24 A. They were present before the sexual
+25 activity and then I went to have sexual activity with him
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 18 of 223
+17
+1 alone.
+2 Q. So he's the only witness to your sexual
+3 activity, the prince?
+4 A. On the instruction of Epstein and
+5 Ghislaine, yes.
+6 Q. Where in the South of France were you?
+7 A. I don't know.
+8 Q. Were you on a boat, were you in a house?
+9 A. We were at a like a cabana, not cabana,
+10 like a resort, but it was a big party.
+11 Q. Who was throwing the party?
+12 A. I don't know. I was just brought there.
+13 Q. You also refer to powerful business
+14 executives. What powerful business executives were you
+15 sexually trafficked to?
+16 MS. MCCAWLEY: Again, to the extent you can
+17 reveal somebody without a safety concern you're
+18 welcome to do that.
+19 SPECIAL MASTER: Well, again --
+20 MS. MCCAWLEY: Right. I understand.
+21 SPECIAL MASTER: Same objection, same
+22 ruling.
+23 A. George Mitchell.
+24 Q. When were you sexually trafficked to George
+25 Mitchell?
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 19 of 223
+18
+1 A. I am unable to give you times since we are
+2 going back a very long time ago.
+3 Q. Tell me the best that you can remember?
+4 A. Roughly when I was 17.
+5 Q. Where were you?
+6 A. New Mexico and New York.
+7 Q. Are there witnesses to this?
+8 A. Not to the actual event itself.
+9 Q. What other powerful business executives
+10 were you sexually trafficked to?
+11 A. .
+12 Q. Are there witnesses?
+13 A. Besides Epstein instructing me to do so,
+14 no.
+15 Q. What other powerful business executives
+16 that you were sexually trafficked to?
+17 A. Yes, I know what you're saying.
+18 MS. MCCAWLEY: Take your time. Take a deep
+19 breath.
+20 A. .
+21 Q. Who else?
+22 MS. MCCAWLEY: To the extent you recall.
+23 A. I'm just trying to think. This is all very
+24 confronting for me. So at the same token I'm just trying
+25 to recollect everybody. The Dubins, Glen Dubin.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 20 of 223
+19
+1 Q. You said the Dubins, were you sexually
+2 trafficked to more than one Dubin?
+3 A. No.
+4 Q. Just to Glen?
+5 A. Just to Glen.
+6 Q. Is he the powerful business executive who's
+7 pregnant wife was asleep in the next room.
+8 A. Yes.
+9 Q. What other powerful business executives
+10 were you sexually trafficked to?
+11 A. None that I can remember off the top of my
+12 head.
+13 Q. Was one of the powerful business
+14 executives that you were trafficked to?
+15 A. Yes.
+16 Q. So you can remember others. Who else is
+17 there?
+18 MS. MCCAWLEY: I'm going to object to that.
+19 That's inappropriate. She gave you everyone she
+20 could remember at the time when you mentioned a
+21 name.
+22 SPECIAL MASTER: Okay. Okay. Please move
+23 on without --
+24 MS. BORJA: There's a question pending.
+25 A. I said yes.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 21 of 223
+20
+1 Q. What other powerful business executives?
+2 A. Wasn't that just objected?
+3 MS. MCCAWLEY: You can answer.
+4 SPECIAL MASTER: You can answer.
+5 A. I can't remember off the top of my head,
+6 I'm sorry.
+7 Q. You also referred to prominent American
+8 politicians. What prominent American politicians other
+9 than the ones we've already named were you sexually
+10 trafficked to?
+11 A. The ones I just told you about,
+12 .
+13 Q. How many times were you trafficked to
+14 ?
+15 A. I don't know, over two times.
+16 Q. How old were you?
+17 A. Approximately 17, 18.
+18 Q. Are you sure you were underage during one
+19 of those incidents?
+20 A. I can't be 100 percent sure of anything.
+21 It's not like I recorded the dates. I'm just giving you
+22 an approximation.
+23 Q. How many times were you sexually trafficked
+24 to ?
+25 A. Twice that I can recall.
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1257-12 Filed 05/03/22 Page 22 of 223
+21
+1 Q. Were 

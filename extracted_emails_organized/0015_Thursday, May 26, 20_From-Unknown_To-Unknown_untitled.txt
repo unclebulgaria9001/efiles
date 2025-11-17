@@ -1,0 +1,794 @@
+====================================================================================================
+EMAIL #0015 - ORGANIZED EXTRACTION
+====================================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             METADATA                                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Source PDF:        1325-12.pdf
+Subject:           
+Date:              Thursday, May 26, 2016
+OCR Performed:     No
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                           PARTICIPANTS                                           ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+CC:    All Counsel
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         CONTENT ANALYSIS                                         ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Word Count:        2,452
+Character Count:   12,702
+Categories:        legal, media, correspondence
+Key People:        giuffre, maxwell
+Key Locations:     new york
+Type:               Forwarded Has Attachments
+Thread Replies:    0
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                             SUMMARY                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Date: Thursday, May 26, 2016 | Categories: legal, media, correspondence | Key People: giuffre, maxwell | Type: Forwarded, Has Attachments
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                      INITIAL EMAIL CONTENT                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 1 of 15
+EXHIBIT 10
+(File Under Seal)
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 2 of 15
+GIUFFRE
+vs.
+MAXWELL
+Deposition
+STEVEN W OLSON
+05/26/2016
+Agren Blando Court Reporting & Video, Inc.
+216 16th Street, Suite 600
+Denver Colorado, 80202
+303-296-0017
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 3 of 15
+Agren Blando Court Reporting & Video, Inc.
+IN THE UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+Civil Action No. 15-cv-07433-RWS
+CONFIDENTIAL DEPOSITION OF DR. STEVEN W. OLSON
+May 26, 2016
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+V.
+GHISLAINE MAXWELL,
+Defendant.
+APPEARANCES:
+S.J. QUINNEY COLLEGE OF LAW, UNIVERSITY OF UTAH
+By Paul G. Cassell, Esq.
+383 S. University Street
+Salt Lake City, UT 84112
+Phone: 801.585.5202
+Cassellp@law.utah.edu
+Appearing on behalf of the
+Plaintiff
+HADDON, MORGAN AND FORMAN, P.C.
+By Laura A. Menninger, Esq.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+lmenninger@hmflaw.com
+Appearing on behalf of the
+Defendant
+STEVEN W OLSON 5/26/2016 1
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 4 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Pursuant to Subpoena, Notice and the
+2 Federal Rules of Civil Procedure, the DEPOSITION OF
+3 DR. STEVEN W. OLSON, called by Defendant, was taken
+4 on Thursday, May 26, 2016, commencing at 8:54 a.m.,
+5 at 150 East 10th Avenue, Denver, Colorado, before
+6 Kelly A. Mackereth, Certified Shorthand Reporter,
+7 Registered Professional Reporter, Certified Realtime
+B Reporter and Notary Public within Colorado.
+9
+* * * * * * *
+10 I N D E X
+11
+EXAMINATION PAGE
+12
+MS. MENNINGER 4
+13 MR. CASSELL 109
+MS. MENNINGER 127
+14 MR. CASSELL 136
+15
+PRODUCTION REQUEST(S)
+16
+44
+17
+18
+19
+20
+21
+22
+23
+24
+25
+STEVEN W OLSON 5/26/2016 2
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 5 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 INDEX OF EXHIBITS
+2
+INITIAL
+3 DESCRIPTION REFERENCE
+4
+Exhibit 1 Authorization for the Release 7
+5 and Disclosure of Protected
+Health Information and Medical
+6 Records
+7 Exhibit 2 Subpoena to Produce Documents, 7
+Information, or Objects or to
+8 Permit Inspection of Premises in
+a Civil Action
+9
+Exhibit 3 Subpoena to Testify at a 8
+10 Deposition in a Civil Action
+11 Exhibit 4 Document titled Centura Health 40
+Physician Group Patient
+12 Information
+13 Exhibit 5 Visit note for Dr. Olson 43
+14 Exhibit 6 Document titled Patient Health 100
+Summary, The Entrance Medical
+15 Centre
+16 Exhibit 7 Document titled Patient Health 105
+Summary from Central Coast
+17 Family Medicine
+18
+19
+20
+21
+22
+23
+24
+25
+STEVEN W OLSON 5/26/2016 3
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 6 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Q All right. Do you know how you came to be
+2 the doctor for Virginia Giuffre?
+A No. I -- she would have filled out a new
+3
+patient packet and showed up for a new patient
+4
+5 appointment for a particular reason. I reviewed it.
+Jane Doe 2
+6
+7
+8 Q Do you know where that new patient packet
+9 is now?
+10 A It's going to be scanned in the computer.
+11 If you don't have it, I brought my computer. I can
+12 probably scan it and print it out or just print it
+13 out.
+14 Q Is that among the documents that you have
+15 next to you?
+16 A The new patient packet isn't here, but I
+17 have it I should have it on my computer. I could
+18 probably log in and print it, to be honest. It
+19 wouldn't be that hard. I assumed that the hospital
+20 is taking care of all the documentation that was
+21 requested. So I didn't actually bring it.
+22 Q I understand.
+23 A I actually have it, happen to have it with
+24 me.
+25 Q All right. Why don't we -- we can
+STEVEN W OLSON 5/26/2016 36
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 7 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 probably do that when we take a break in just a few
+2 minutes, and I can tell you how to get on the
+3 Internet and we'll see if that works.
+4 A Um-hum.
+5 Q Do you know how many times that you saw
+6 Virginia Giuffre?
+7 A Once.
+8 Q Do you know whether she was referred to
+9 you by another doctor?
+10 A No.
+11 Q Do you mean no, you don't know or
+12 A I have no idea. I have no idea. I don't
+13 know why she would have been referred. Most the time
+14 people are referring out.
+15 Q Right.
+16 A They don't refer back to a general
+17 practitioner.
+18 Q No one ever refers anyone to you?
+19 A It generally goes the other direction.
+20 Well, other patients might refer people to me, and
+21 that happens, but
+22 Q Okay. Do you know if you treat
+23 Ms. Giuffre's children in your practice?
+24 A Not that I'm aware of.
+25 Q Do you know a woman by the name of Lynn
+STEVEN W OLSON 5/26/2016 37
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 8 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Miller?
+2 A I know several Millers.
+3 Q Who works at Saint Thomas More Hospital?
+4 A I think so, yeah. That sounds familiar,
+5 yeah.
+6 Q Do you know her professionally?
+7 A Not really.
+8 Q Okay.
+9 A I mean, her name sounds familiar.
+Q Do you know of any connection between Lynn
+11 Miller and Virginia Giuffre?
+12 A None. I have met Virginia once. I only
+13 saw her once, a year ago. That's the extent of my --
+14 Q Have you ever read any media reports about
+15 Ms. Giuffre?
+16 A No. No, I haven't. I don't know anything
+17 about it.
+18 Q Okay. Do you know how long --
+19 A She -- I believe she mentioned that it was
+20 some kind of -- mentioned something about being a
+21 famous sexual abuse something.
+22 Q You haven't read any of the reports?
+23 A I have no idea.
+24 Q Okay. I'm just trying to establish your
+sources information.
+25
+STEVEN W OLSON 5/26/2016 38
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 9 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 A Yeah.
+2 Q So if you had information about
+Ms. Giuffre, other than your visit --
+3
+4 A Yeah.
+5 Q -- do you know another source?
+6 A No.
+7 Q From family members?
+8 A No.
+9 Q From community members, anything?
+10 A Nothing.
+11 Q Do you know how long your visit with her
+12 lasted?
+13 A It -- sometimes I document time spent, but
+14 not always. I mean, it's not important. They're
+15 half-hour visits typically. It would have been a
+16 half hour or less, I would expect.
+17 Q All right. Before looking at your
+18 records, is there anything about Ms. Giuffre that you
+19 recall just from the top of your head?
+20 I understand you see many, many patients
+21 and this was a year ago. So you tell me.
+22 A Nothing. I saw her once. And when I went
+back and read the note, I went, Oh, yeah, I remember
+23
+24 someone mentioning about being in a sexual abuse
+25 trial or something, some kind of sexual abuse thing.
+STEVEN W OLSON 5/26/2016 39
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 10 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Q That's the only unusual part that stuck
+2 out?
+A Yeah, and I don't really remember anything
+3
+about her at all, actually, I don't.
+4
+5 Q Do you know what she looks like?
+6 A No, I don't remember. It was one time a
+7 year ago. I don't remember.
+8 Q I understand. Okay. If it's okay with
+9 you, I would like to take a break and see if we can
+10 pull up the other records because I don't want to go
+11 through my questions and then go back and look at
+12 those records. I'd rather do it one time.
+13 A Okay.
+14 Q Is that all right?
+15 A Yeah, I'm fine with that.
+16 MS. MENNINGER: All right. Let's go off
+17 the record.
+18 (Recess taken from 9:41 a.m. to
+19 10:07 a.m.)
+20 (Exhibit 4 marked.)
+21 Q (BY MS. MENNINGER) So we're back on the
+22 record. All right.
+23 I'm going to give you a document marked as
+Exhibit 4 . And I'm going to make a small record
+24
+about what just took place off the record, which is
+25
+STEVEN W OLSON 5/26/2016 40
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 11 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 that you, as I understand it, and tell me if I'm
+2 wrong, have access to medical records from your
+3 office on your laptop, correct?
+4 A Yes.
+5 Q Okay. And you were able to get on your
+6 laptop and print out records related to Ms. Giuffre
+7 that you had on that laptop, correct?
+8 A Yes.
+9 Q And we printed that out and made copies
+10 for everyone here, and that's what you see in front
+11 of you as Exhibit 4, correct?
+12 A Yes.
+13 Q We made those printouts on a portable
+14 printer. So they're not the best quality, correct?
+15 A Correct.
+16 Q And some portions are not printing out as
+17 well?
+18 A Yes.
+19 Q And you, I think, would be okay with
+20 sending us a more complete set later?
+21 A Yes.
+22 Q All right. I'm going to take just a
+23 minute to review it.
+24 Can you tell us what the records that you
+25 just printed out in Exhibit 4 represent?
+STEVEN W OLSON 5/26/2016 41
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 12 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 A Generally it's demographics information
+2 and then a list of medications, a list of surgeries,
+3 a list of family medical history, and then a list of
+4 physical complaints that there's some -- it's called
+5 review of systems, things someone has been feeling
+6 and self-reported in the last two weeks.
+7 Q Okay. So is this typically is this
+8 patient information document typically in the
+9 patient's handwriting?
+10 A Yes.
+11 Q And I presume you don't know Ms. Giuffre's
+12 handwriting?
+13 A No.
+14 Q But it's a practice to ask the patient to
+15 fill these forms out?
+16 A Yes, and then have it there before their
+17 appointment.
+18 Q All right. So if I see the date reflected
+19 on the top of the first page as May 21st, 2015 --
+20 A Um-hum.
+21 Q -- do you believe that to be the date that
+22 you actually saw Ms. Giuffre?
+23 A Probably, yes.
+24 Q Okay.
+25 A Sometimes people will bring it in early,
+STEVEN W OLSON 5/26/2016 42
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 13 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 but yeah.
+2 Q Okay. Why don't we go ahead and mark
+3 Ex
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     COMPLETE EXTRACTED TEXT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 1 of 15
+EXHIBIT 10
+(File Under Seal)
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 2 of 15
+GIUFFRE
+vs.
+MAXWELL
+Deposition
+STEVEN W OLSON
+05/26/2016
+Agren Blando Court Reporting & Video, Inc.
+216 16th Street, Suite 600
+Denver Colorado, 80202
+303-296-0017
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 3 of 15
+Agren Blando Court Reporting & Video, Inc.
+IN THE UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+Civil Action No. 15-cv-07433-RWS
+CONFIDENTIAL DEPOSITION OF DR. STEVEN W. OLSON
+May 26, 2016
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+V.
+GHISLAINE MAXWELL,
+Defendant.
+APPEARANCES:
+S.J. QUINNEY COLLEGE OF LAW, UNIVERSITY OF UTAH
+By Paul G. Cassell, Esq.
+383 S. University Street
+Salt Lake City, UT 84112
+Phone: 801.585.5202
+Cassellp@law.utah.edu
+Appearing on behalf of the
+Plaintiff
+HADDON, MORGAN AND FORMAN, P.C.
+By Laura A. Menninger, Esq.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+lmenninger@hmflaw.com
+Appearing on behalf of the
+Defendant
+STEVEN W OLSON 5/26/2016 1
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 4 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Pursuant to Subpoena, Notice and the
+2 Federal Rules of Civil Procedure, the DEPOSITION OF
+3 DR. STEVEN W. OLSON, called by Defendant, was taken
+4 on Thursday, May 26, 2016, commencing at 8:54 a.m.,
+5 at 150 East 10th Avenue, Denver, Colorado, before
+6 Kelly A. Mackereth, Certified Shorthand Reporter,
+7 Registered Professional Reporter, Certified Realtime
+B Reporter and Notary Public within Colorado.
+9
+* * * * * * *
+10 I N D E X
+11
+EXAMINATION PAGE
+12
+MS. MENNINGER 4
+13 MR. CASSELL 109
+MS. MENNINGER 127
+14 MR. CASSELL 136
+15
+PRODUCTION REQUEST(S)
+16
+44
+17
+18
+19
+20
+21
+22
+23
+24
+25
+STEVEN W OLSON 5/26/2016 2
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 5 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 INDEX OF EXHIBITS
+2
+INITIAL
+3 DESCRIPTION REFERENCE
+4
+Exhibit 1 Authorization for the Release 7
+5 and Disclosure of Protected
+Health Information and Medical
+6 Records
+7 Exhibit 2 Subpoena to Produce Documents, 7
+Information, or Objects or to
+8 Permit Inspection of Premises in
+a Civil Action
+9
+Exhibit 3 Subpoena to Testify at a 8
+10 Deposition in a Civil Action
+11 Exhibit 4 Document titled Centura Health 40
+Physician Group Patient
+12 Information
+13 Exhibit 5 Visit note for Dr. Olson 43
+14 Exhibit 6 Document titled Patient Health 100
+Summary, The Entrance Medical
+15 Centre
+16 Exhibit 7 Document titled Patient Health 105
+Summary from Central Coast
+17 Family Medicine
+18
+19
+20
+21
+22
+23
+24
+25
+STEVEN W OLSON 5/26/2016 3
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 6 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Q All right. Do you know how you came to be
+2 the doctor for Virginia Giuffre?
+A No. I -- she would have filled out a new
+3
+patient packet and showed up for a new patient
+4
+5 appointment for a particular reason. I reviewed it.
+Jane Doe 2
+6
+7
+8 Q Do you know where that new patient packet
+9 is now?
+10 A It's going to be scanned in the computer.
+11 If you don't have it, I brought my computer. I can
+12 probably scan it and print it out or just print it
+13 out.
+14 Q Is that among the documents that you have
+15 next to you?
+16 A The new patient packet isn't here, but I
+17 have it I should have it on my computer. I could
+18 probably log in and print it, to be honest. It
+19 wouldn't be that hard. I assumed that the hospital
+20 is taking care of all the documentation that was
+21 requested. So I didn't actually bring it.
+22 Q I understand.
+23 A I actually have it, happen to have it with
+24 me.
+25 Q All right. Why don't we -- we can
+STEVEN W OLSON 5/26/2016 36
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 7 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 probably do that when we take a break in just a few
+2 minutes, and I can tell you how to get on the
+3 Internet and we'll see if that works.
+4 A Um-hum.
+5 Q Do you know how many times that you saw
+6 Virginia Giuffre?
+7 A Once.
+8 Q Do you know whether she was referred to
+9 you by another doctor?
+10 A No.
+11 Q Do you mean no, you don't know or
+12 A I have no idea. I have no idea. I don't
+13 know why she would have been referred. Most the time
+14 people are referring out.
+15 Q Right.
+16 A They don't refer back to a general
+17 practitioner.
+18 Q No one ever refers anyone to you?
+19 A It generally goes the other direction.
+20 Well, other patients might refer people to me, and
+21 that happens, but
+22 Q Okay. Do you know if you treat
+23 Ms. Giuffre's children in your practice?
+24 A Not that I'm aware of.
+25 Q Do you know a woman by the name of Lynn
+STEVEN W OLSON 5/26/2016 37
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 8 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Miller?
+2 A I know several Millers.
+3 Q Who works at Saint Thomas More Hospital?
+4 A I think so, yeah. That sounds familiar,
+5 yeah.
+6 Q Do you know her professionally?
+7 A Not really.
+8 Q Okay.
+9 A I mean, her name sounds familiar.
+Q Do you know of any connection between Lynn
+11 Miller and Virginia Giuffre?
+12 A None. I have met Virginia once. I only
+13 saw her once, a year ago. That's the extent of my --
+14 Q Have you ever read any media reports about
+15 Ms. Giuffre?
+16 A No. No, I haven't. I don't know anything
+17 about it.
+18 Q Okay. Do you know how long --
+19 A She -- I believe she mentioned that it was
+20 some kind of -- mentioned something about being a
+21 famous sexual abuse something.
+22 Q You haven't read any of the reports?
+23 A I have no idea.
+24 Q Okay. I'm just trying to establish your
+sources information.
+25
+STEVEN W OLSON 5/26/2016 38
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 9 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 A Yeah.
+2 Q So if you had information about
+Ms. Giuffre, other than your visit --
+3
+4 A Yeah.
+5 Q -- do you know another source?
+6 A No.
+7 Q From family members?
+8 A No.
+9 Q From community members, anything?
+10 A Nothing.
+11 Q Do you know how long your visit with her
+12 lasted?
+13 A It -- sometimes I document time spent, but
+14 not always. I mean, it's not important. They're
+15 half-hour visits typically. It would have been a
+16 half hour or less, I would expect.
+17 Q All right. Before looking at your
+18 records, is there anything about Ms. Giuffre that you
+19 recall just from the top of your head?
+20 I understand you see many, many patients
+21 and this was a year ago. So you tell me.
+22 A Nothing. I saw her once. And when I went
+back and read the note, I went, Oh, yeah, I remember
+23
+24 someone mentioning about being in a sexual abuse
+25 trial or something, some kind of sexual abuse thing.
+STEVEN W OLSON 5/26/2016 39
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 10 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 Q That's the only unusual part that stuck
+2 out?
+A Yeah, and I don't really remember anything
+3
+about her at all, actually, I don't.
+4
+5 Q Do you know what she looks like?
+6 A No, I don't remember. It was one time a
+7 year ago. I don't remember.
+8 Q I understand. Okay. If it's okay with
+9 you, I would like to take a break and see if we can
+10 pull up the other records because I don't want to go
+11 through my questions and then go back and look at
+12 those records. I'd rather do it one time.
+13 A Okay.
+14 Q Is that all right?
+15 A Yeah, I'm fine with that.
+16 MS. MENNINGER: All right. Let's go off
+17 the record.
+18 (Recess taken from 9:41 a.m. to
+19 10:07 a.m.)
+20 (Exhibit 4 marked.)
+21 Q (BY MS. MENNINGER) So we're back on the
+22 record. All right.
+23 I'm going to give you a document marked as
+Exhibit 4 . And I'm going to make a small record
+24
+about what just took place off the record, which is
+25
+STEVEN W OLSON 5/26/2016 40
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 11 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 that you, as I understand it, and tell me if I'm
+2 wrong, have access to medical records from your
+3 office on your laptop, correct?
+4 A Yes.
+5 Q Okay. And you were able to get on your
+6 laptop and print out records related to Ms. Giuffre
+7 that you had on that laptop, correct?
+8 A Yes.
+9 Q And we printed that out and made copies
+10 for everyone here, and that's what you see in front
+11 of you as Exhibit 4, correct?
+12 A Yes.
+13 Q We made those printouts on a portable
+14 printer. So they're not the best quality, correct?
+15 A Correct.
+16 Q And some portions are not printing out as
+17 well?
+18 A Yes.
+19 Q And you, I think, would be okay with
+20 sending us a more complete set later?
+21 A Yes.
+22 Q All right. I'm going to take just a
+23 minute to review it.
+24 Can you tell us what the records that you
+25 just printed out in Exhibit 4 represent?
+STEVEN W OLSON 5/26/2016 41
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 12 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 A Generally it's demographics information
+2 and then a list of medications, a list of surgeries,
+3 a list of family medical history, and then a list of
+4 physical complaints that there's some -- it's called
+5 review of systems, things someone has been feeling
+6 and self-reported in the last two weeks.
+7 Q Okay. So is this typically is this
+8 patient information document typically in the
+9 patient's handwriting?
+10 A Yes.
+11 Q And I presume you don't know Ms. Giuffre's
+12 handwriting?
+13 A No.
+14 Q But it's a practice to ask the patient to
+15 fill these forms out?
+16 A Yes, and then have it there before their
+17 appointment.
+18 Q All right. So if I see the date reflected
+19 on the top of the first page as May 21st, 2015 --
+20 A Um-hum.
+21 Q -- do you believe that to be the date that
+22 you actually saw Ms. Giuffre?
+23 A Probably, yes.
+24 Q Okay.
+25 A Sometimes people will bring it in early,
+STEVEN W OLSON 5/26/2016 42
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 13 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 but yeah.
+2 Q Okay. Why don't we go ahead and mark
+3 Exhibit 5, which will be helpful as we're going
+4 through this.
+5 (Exhibit 5 marked.)
+6 Q (BY MS. MENNINGER) And I'm going to ask
+7 you to keep 4 and 5 kind of close by, and we'll talk
+8 about them.
+9 Do you recognize Exhibit 5?
+10 A Yes. That's the visit note.
+11 Q And the visit note of Ms. Giuffre's visit
+12 with you?
+13 A Yes.
+Q In your office?
+15 A Yes.
+Q And after looking at Exhibit 5, can you
+17 tell what date it is that you actually saw
+18 Ms. Giuffre?
+19 A 5/21/2015.
+20 Q Okay. Is that also the same date as the
+21 patient intake form
+22 A Yes.
+23 Q -- in Exhibit 4?
+24 A Yes.
+25 Q All right. Do you recall whether you
+STEVEN W OLSON 5/26/2016 43
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 14 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 STATE OF COLORADO)
+2 ss. REPORTER'S CERTIFICATE
+3 COUNTY OF DENVER
+4 I, Kelly A. Mackereth, do hereby certify
+5 that I am a Registered Professional Reporter and
+6 Notary Public within the State of Colorado; that
+7 previous to the commencement of the examination, the
+8 deponent was duly sworn to testify to the truth.
+9 I further certify that this deposition was
+10 taken in shorthand by me at the time and place herein
+11 set forth, that it was thereafter reduced to
+12 typewritten form, and that the foregoing constitutes
+13 a true and correct transcript.
+14 I further certify that I am not related to,
+15 employed by, nor of counsel for any of the parties or
+16 attorneys herein, nor otherwise interested in the
+17 result of the within action.
+18 In witness whereof, I have affixed my
+19 signature this 31st day of May, 2016.
+20 My commission expires April 21, 2019.
+21
+22
+Kelly A. Mackereth, CRR, RPR, CSR
+23 216 - 16th Street, Suite 600
+Denver, Colorado 80202
+24
+25
+STEVEN W OLSON 5/26/2016 140
+Case 1:15-cv-07433-LAP Document 1325-12 Filed 01/04/24 Page 15 of 15
+Agren Blando Court Reporting & Video, Inc.
+1 AGREN BLANDO COURT REPORTING & VIDEO, INC.
+216 - 16th Street, Suite 600
+2 Denver, Colorado 80202
+4450 Arapahoe Avenue, Suite 100
+3 Boulder, Colorado 80303
+4
+5
+6 DR. STEVEN W. OLSON
+May 26, 2016
+7 Giuffre v. Maxwell
+Case No. 15-cv-07433-RWS
+8
+9
+The original deposition was filed with
+10
+Laura Menninger, Esq., on approximately the
+11
+31st day of May, 2016.
+12
+XXX Signature waived.
+13
+Unsigned; signed signature page and
+14 amendment sheets, if any, to be filed at
+trial.
+15
+Reading and signing not requested pursuant
+16 to C.R.C.P. Rule 30(e).
+17 Unsigned; amendment sheets and/or signature
+pages should be forwarded to Agren Blando to
+18 be filed in the envelope attached to the
+sealed original.
+19
+20
+21 Thank you.
+22 AGREN BLANDO COURT REPORTING & VIDEO, INC.
+23 cc: All Counsel
+24
+25
+STEVEN W OLSON 5/26/2016 141
