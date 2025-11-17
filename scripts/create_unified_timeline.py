@@ -349,8 +349,68 @@ def extract_title_from_content(event):
         title = title[:97] + '...'
     return title if title else 'Document'
 
+def load_document_text(filename):
+    """Load the full extracted text for a document"""
+    docs_path = COMPLETE_EXTRACTION / "all_documents"
+    
+    # Try to find the text file
+    doc_id = filename.replace('.pdf', '').replace('.txt', '')
+    text_file = docs_path / f"{doc_id}.txt"
+    
+    if text_file.exists():
+        try:
+            with open(text_file, 'r', encoding='utf-8', errors='ignore') as f:
+                return f.read()
+        except:
+            pass
+    
+    return None
+
+def extract_content_snippet(full_text, date_string=None, people=None, max_length=500):
+    """Extract a relevant snippet from the full text"""
+    if not full_text:
+        return None
+    
+    # Try to find context around the date or people mentioned
+    snippet_start = 0
+    
+    # If we have a date, try to find it in the text
+    if date_string:
+        date_pos = full_text.lower().find(date_string.lower())
+        if date_pos > 0:
+            snippet_start = max(0, date_pos - 200)
+    
+    # If we have people, try to find first mention
+    elif people:
+        for person in people[:3]:
+            person_pos = full_text.lower().find(person.lower())
+            if person_pos > 0:
+                snippet_start = max(0, person_pos - 200)
+                break
+    
+    # Extract snippet
+    snippet = full_text[snippet_start:snippet_start + max_length]
+    
+    # Clean up snippet
+    snippet = snippet.strip()
+    
+    # Try to start at a sentence boundary
+    first_period = snippet.find('. ')
+    if first_period > 0 and first_period < 100:
+        snippet = snippet[first_period + 2:]
+    
+    # Try to end at a sentence boundary
+    last_period = snippet.rfind('. ')
+    if last_period > 300:
+        snippet = snippet[:last_period + 1]
+    
+    # Clean up whitespace
+    snippet = ' '.join(snippet.split())
+    
+    return snippet
+
 def format_event(event):
-    """Format a single event for the timeline with enhanced details"""
+    """Format a single event for the timeline with enhanced details and content snippets"""
     event_type = event['type']
     date_obj = event.get('date')
     
@@ -397,7 +457,15 @@ def format_event(event):
             terms = ', '.join(event['key_terms'])
             md += f"**Key Terms**: {terms}  \n"
         
+        # Add content snippet
+        md += f"\n**Content Snippet**:\n"
+        md += f"> {event.get('content_preview', 'No preview available')[:400]}...\n\n"
+        
         md += f"**File**: `{event['filename']}`  \n"
+        
+        # Link to extracted text
+        email_path = f"extracted_emails_organized/{event['filename']}"
+        md += f"**Full Text**: [`{event['filename']}`](../{email_path})  \n"
     
     elif event_type == 'flight':
         if event.get('people'):
@@ -408,7 +476,20 @@ def format_event(event):
             locations = ' → '.join(event['locations'])
             md += f"**Route**: {locations}  \n"
         
+        # Try to load and extract snippet
+        full_text = load_document_text(event['filename'])
+        if full_text:
+            snippet = extract_content_snippet(full_text, event.get('date_string'), event.get('people'))
+            if snippet:
+                md += f"\n**Flight Log Entry**:\n"
+                md += f"> {snippet}\n\n"
+        
         md += f"**Source**: `{event['filename']}`  \n"
+        
+        # Link to extracted text
+        doc_id = event['filename'].replace('.pdf', '')
+        text_path = f"complete_extraction/all_documents/{doc_id}.txt"
+        md += f"**Full Text**: [`{doc_id}.txt`](../{text_path})  \n"
     
     elif event_type == 'court_document':
         doc_types = event.get('doc_types', [])
@@ -424,7 +505,20 @@ def format_event(event):
             locations = ', '.join(event['locations'][:5])
             md += f"**Locations**: {locations}  \n"
         
+        # Try to load and extract snippet
+        full_text = load_document_text(event['filename'])
+        if full_text:
+            snippet = extract_content_snippet(full_text, event.get('date_string'), event.get('people'), max_length=600)
+            if snippet:
+                md += f"\n**Document Excerpt**:\n"
+                md += f"> {snippet}\n\n"
+        
         md += f"**File**: `{event['filename']}`  \n"
+        
+        # Link to extracted text
+        doc_id = event['filename'].replace('.pdf', '')
+        text_path = f"complete_extraction/all_documents/{doc_id}.txt"
+        md += f"**Full Text**: [`{doc_id}.txt`](../{text_path})  \n"
     
     elif event_type == 'document':
         doc_types = event.get('doc_types', [])
@@ -444,7 +538,20 @@ def format_event(event):
         if text_len > 0:
             md += f"**Length**: {text_len:,} characters  \n"
         
+        # Try to load and extract snippet
+        full_text = load_document_text(event['filename'])
+        if full_text:
+            snippet = extract_content_snippet(full_text, event.get('date_string'), event.get('people'), max_length=500)
+            if snippet:
+                md += f"\n**Document Excerpt**:\n"
+                md += f"> {snippet}\n\n"
+        
         md += f"**File**: `{event['filename']}`  \n"
+        
+        # Link to extracted text
+        doc_id = event['filename'].replace('.pdf', '')
+        text_path = f"complete_extraction/all_documents/{doc_id}.txt"
+        md += f"**Full Text**: [`{doc_id}.txt`](../{text_path})  \n"
     
     md += "\n---\n\n"
     return md

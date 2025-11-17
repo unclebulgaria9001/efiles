@@ -2,7 +2,7 @@
 
 **Total Events**: 323  
 **Dated Events**: 313  
-**Generated**: 2025-11-17 11:24:08
+**Generated**: 2025-11-17 11:38:08
 
 ---
 
@@ -24,9 +24,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0059 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Wexner, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Wexner, Epstein  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0059 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt`  
+**Full Text**: [`0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt`](../extracted_emails_organized/0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt)  
 
 ---
 
@@ -35,8 +40,13 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Sigrid Mccawley  
 **To**: Laura Menninger; Meredith  
 **Preview**: ==================================================================================================== EMAIL #0001 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0001 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt`  
+**Full Text**: [`0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt`](../extracted_emails_organized/0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt)  
 
 ---
 
@@ -45,9 +55,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0032 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0032 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -56,9 +71,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0097 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0097 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0097_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0097_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0097_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -67,9 +87,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0112 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0112 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -78,9 +103,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0148 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0148 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0148_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0148_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0148_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -89,9 +119,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0085 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0085 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -100,9 +135,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Donald Trump, Prince Andrew, Bill Clinton, Trump, Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Donald Trump  
 **Key Terms**: island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -111,9 +151,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
-**Key Terms**: island, girl, massage, party  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: massage, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`  
+**Full Text**: [`0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`](../extracted_emails_organized/0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt)  
 
 ---
 
@@ -123,7 +168,12 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **To**: Gmax; PhilipBarden  
 **Preview**: ==================================================================================================== EMAIL #0039 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0039 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
+**Full Text**: [`0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`](../extracted_emails_organized/0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt)  
 
 ---
 
@@ -132,8 +182,13 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Ross Gow  
 **To**: Gmax; PhilipBarden  
 **Preview**: ==================================================================================================== EMAIL #0055 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre  
+**People Mentioned**: Maxwell, Giuffre, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0055 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
+**Full Text**: [`0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`](../extracted_emails_organized/0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt)  
 
 ---
 
@@ -143,7 +198,12 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **To**: Gmax; PhilipBarden  
 **Preview**: ==================================================================================================== EMAIL #0150 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0150 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0150_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
+**Full Text**: [`0150_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`](../extracted_emails_organized/0150_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt)  
 
 ---
 
@@ -152,9 +212,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0005 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, minor  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: minor, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0005 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -163,9 +228,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0006 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, minor  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: minor, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0006 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -174,9 +244,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
-**Key Terms**: island, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Alan Dershowitz, Bill Clinton, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: massage, flight, minor, girl, island  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -185,9 +260,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**:   
 **To**: From-G Maxwell  
 **Preview**: ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Maxwell  
-**Key Terms**: party, girl, massage  
+**People Mentioned**: Maxwell, Andrew, Clinton, Virginia Roberts, Dershowitz, Epstein  
+**Key Terms**: massage, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt`  
+**Full Text**: [`0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt`](../extracted_emails_organized/0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt)  
 
 ---
 
@@ -196,9 +276,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0135 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0135 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0135_2, January 16, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0135_2, January 16, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0135_2, January 16, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -207,9 +292,14 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -221,7 +311,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -233,7 +328,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -244,7 +344,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -255,7 +360,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -267,7 +377,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September 1974, ts reql1rsd for tht; use of the Clerk of Court foDr th Ce pu rpose of 1111tiatmg the civil doc
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -279,7 +394,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> 05 (561)-835-8691 (fax) jgoldbergerrq],agwpa.com Counsel for Jeffrey .l!,pstein 6 Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 9 of 43 CIVIL COVER SHEET JS 44 (Rev. 07/16) FLSD Revised 07/01/2016 ll1e JS 44 civil cover sheet and the mformauon contained herem neither replace nor supplement the filing and service of pleadings or other papers as required bv law, except as provided by local rules ofcourt This form, approved by the Judicial Conference of the United States in September 1974, ts reql1rsd for tht; use of the Clerk of Court foDr th Ce pu rpose of 1111tiatmg the civil doc
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -288,9 +408,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0056 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0056 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -299,9 +424,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Virginia Giuffre  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0186_1, May 17, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0186_1, May 17, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0186_1, May 17, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -310,9 +440,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0045 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: party, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0045 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -321,9 +456,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Wexner, Alan Dershowitz, Virginia Giuffre, Bill Clinton  
-**Key Terms**: flight, minor, girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
+**Key Terms**: flight, minor, massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -332,9 +472,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0072 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage, party  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0072 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt`  
+**Full Text**: [`0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt`](../extracted_emails_organized/0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt)  
 
 ---
 
@@ -343,9 +488,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0018 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: massage, island  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0018 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -354,9 +504,14 @@ Virginia, Epstein Cannot Assert
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0159 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein, Prince Andrew  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0159 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0159_1, April 22, 2016_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0159_1, April 22, 2016_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0159_1, April 22, 2016_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -368,7 +523,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -380,7 +540,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -392,7 +557,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -404,7 +574,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -416,7 +591,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -428,7 +608,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -440,7 +625,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -452,7 +642,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -464,7 +659,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -476,7 +676,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
 **Length**: 38,891 characters  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -487,7 +692,12 @@ Reporter, Did Ghislaine, Mr Epstein
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -498,7 +708,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -509,7 +724,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -520,7 +740,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -531,7 +756,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -542,7 +772,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -553,7 +788,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -564,7 +804,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -575,7 +820,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -586,7 +836,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable  
 **Locations**: New York  
 **Length**: 16,637 characters  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -596,7 +851,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -606,7 +866,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -616,7 +881,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -626,7 +896,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -636,7 +911,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -646,7 +926,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -656,7 +941,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -666,7 +956,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -676,7 +971,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -686,7 +986,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell  
 **Length**: 26,917 characters  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -698,7 +1003,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -710,7 +1020,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -722,7 +1037,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -734,7 +1054,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -746,7 +1071,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -758,7 +1088,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -770,7 +1105,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -782,7 +1122,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -794,7 +1139,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -806,7 +1156,12 @@ So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation  
 **Locations**: London  
 **Length**: 25,816 characters  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -818,7 +1173,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -830,7 +1190,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -842,7 +1207,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -854,7 +1224,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -866,7 +1241,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -878,7 +1258,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -890,7 +1275,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -902,7 +1292,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -914,7 +1309,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -926,7 +1326,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -938,7 +1343,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -950,7 +1360,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -962,7 +1377,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -974,7 +1394,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -986,7 +1411,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -998,7 +1428,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1010,7 +1445,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1022,7 +1462,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena  
 **Locations**: Virgin Islands, Paris, New York, London, France  
 **Length**: 75,263 characters  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1034,7 +1479,12 @@ List, Intervenors
 Julie Brown, See Nixon, The Document  
 **Locations**: New York  
 **Length**: 3,535 characters  
+
+**Document Excerpt**:
+> g continue to apply and to outweigh the public’s interest in this Document. Accordingly, the letter-motions to unseal in part docket entry 1026-3 (dkt. nos. 1321, 1323) are DENIED. SO ORDERED. Dated: January 5, 2024 New York, New York ___________________________________ LORETTA A. PRESKA Senior United States District Judge 3
+
 **File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1329.0_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1329.0_1.txt)  
 
 ---
 
@@ -1046,7 +1496,12 @@ List, Intervenors
 Julie Brown, See Nixon, The Document  
 **Locations**: New York  
 **Length**: 3,535 characters  
+
+**Document Excerpt**:
+> g continue to apply and to outweigh the public’s interest in this Document. Accordingly, the letter-motions to unseal in part docket entry 1026-3 (dkt. nos. 1321, 1323) are DENIED. SO ORDERED. Dated: January 5, 2024 New York, New York ___________________________________ LORETTA A. PRESKA Senior United States District Judge 3
+
 **File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1329.0_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1329.0_1.txt)  
 
 ---
 
@@ -1057,7 +1512,12 @@ Julie Brown, See Nixon, The Document
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1068,7 +1528,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1079,7 +1544,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1090,7 +1560,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1101,7 +1576,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1112,7 +1592,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1123,7 +1608,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1134,7 +1624,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1145,7 +1640,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1156,7 +1656,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,871 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -1167,7 +1672,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1178,7 +1688,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1189,7 +1704,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1200,7 +1720,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1211,7 +1736,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1222,7 +1752,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1233,7 +1768,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1244,7 +1784,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1255,7 +1800,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1266,7 +1816,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue  
 **Locations**: Virgin Islands, New York, Palm Beach  
 **Length**: 20,895 characters  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -1277,7 +1832,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1288,7 +1848,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1299,7 +1864,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1310,7 +1880,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1321,7 +1896,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1332,7 +1912,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1343,7 +1928,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1354,7 +1944,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1365,7 +1960,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1376,7 +1976,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Route**: New Mexico → New York → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDE
+
 **Source**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1387,7 +1992,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1398,7 +2008,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1409,7 +2024,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1420,7 +2040,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1431,7 +2056,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1442,7 +2072,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1453,7 +2088,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1464,7 +2104,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1475,7 +2120,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1486,7 +2136,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1497,7 +2152,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1508,7 +2168,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1519,7 +2184,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1530,7 +2200,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1541,7 +2216,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1552,7 +2232,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1563,7 +2248,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1574,7 +2264,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Route**: Virgin Islands → Paris → New York → London → France → Palm Beach → Florida  
+
+**Flight Log Entry**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No
+
 **Source**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -1586,7 +2281,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1598,7 +2298,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1610,7 +2315,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1622,7 +2332,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1634,7 +2349,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1646,7 +2366,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1658,7 +2383,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1670,7 +2400,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1682,7 +2417,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1694,7 +2434,12 @@ Southern, One Florida Park, Certified Realtime
 Reporter, Did Ghislaine, Mr Epstein, Eva Anderson, Boies
 Schiller  
 **Locations**: New Mexico, New York, Palm Beach, Florida  
+
+**Document Excerpt**:
+> s Found: 51 # People Found: 42 # Locations Found: 4 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 1 of 40 COMPOSITE EXHIBIT 1 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-30 Filed 01/05/24 Page 2 of 40 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK CASE: 15-cv-07433-RWS VIRGINIA GIUFFRE, Plaintiff, v. GHISLAINE MAXWELL, Defendant. ____________________/ VIDEOTAPED DEPOSITION OF TONY FIGUEROA Volume 1 of 2 Pages 1 - 157 Taken at the Instance of the Defendan
+
 **File**: `gov.uscourts.nysd.447706.1328.30.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.30.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.30.txt)  
 
 ---
 
@@ -1704,7 +2449,12 @@ Schiller
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1714,7 +2464,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1724,7 +2479,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1734,7 +2494,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1744,7 +2509,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1754,7 +2524,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1764,7 +2539,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1774,7 +2554,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1784,7 +2569,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1794,7 +2584,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **People Mentioned**: Retained Expert, Phillip Esplin Cannot, Menninger
 Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deemed Unavailable, South Salem, Limine To Exclude  
 **Locations**: New York  
+
+**Document Excerpt**:
+> SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL ............................................. Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 1 of 10 Laura A. Menninger Jeffrey S. Pagliuca Ty Gee HADDON, MORGAN AND FOREMAN, P.C. 150 East 10th Avenue Denver, CO 80203 303.831.7364 Case 1:15-cv-07433-LAP Document 1331-16 Filed 01/05/24 Page 2 of 10 Defendant Ghislaine Maxwell (“Ms.
+
 **File**: `1331-16.pdf`  
+**Full Text**: [`1331-16.txt`](../complete_extraction/all_documents/1331-16.txt)  
 
 ---
 
@@ -1803,7 +2598,12 @@ Jeffrey, Of Motion In, Police Report, Civil Procedure, Jeffery Epstein, Be Deeme
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1812,7 +2612,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1821,7 +2626,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1830,7 +2640,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1839,7 +2654,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1848,7 +2668,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1857,7 +2682,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1866,7 +2696,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1875,7 +2710,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1884,7 +2724,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 **Document Type**: Deposition, Legal Document, Correspondence  
 **People Mentioned**: Jeffy Epstein, File Under Seal, Tony Figueroa, Figueroa
 Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern Reporting Company, For Jeffrey  
+
+**Document Excerpt**:
+> es Found: 28 # People Found: 17 # Locations Found: 0 # Linked Emails: 0 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 1 of 26 EXHIBIT 9 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-1 Filed 01/05/24 Page 2 of 26 **ROUGH***Deposition of Tony Figueroa*** ROUGH*** 1 1 UNCERTIFIED TRANSCRIPT DISCLAIMER IN THE MATTER OF 2 Virginia L.
+
 **File**: `gov.uscourts.nysd.447706.1327.1_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.1_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.1_1.txt)  
 
 ---
 
@@ -1895,7 +2740,12 @@ Southern Reporting, Was Ms, Would Jeffrey, And Ms, Ghislaine Maxwell, Southern R
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1906,7 +2756,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1917,7 +2772,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1928,7 +2788,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1939,7 +2804,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1950,7 +2820,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1961,7 +2836,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1972,7 +2852,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1983,7 +2868,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -1994,7 +2884,12 @@ Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
 Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
 **Locations**: London  
+
+**Document Excerpt**:
+> s Found: 59 # People Found: 50 # Locations Found: 1 # Linked Emails: 7 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 1 of 22 EXHIBIT D Case 1:15-cv-07433-LAP Document 1330-22 Filed 01/05/24 Page 2 of 22 From: G Maxwell <GMaxl@ellmax.com> Sent: Sunday, January 11, 2015 6:26 AM To: JJep Subject: Fw: THE TERRAMAR PROJECT FACEBOOK TWITTER G+ PINTEREST INST AGRAM PLEDGE THE DAILY CATCH From: Philip Barden Sent: Sunday, 11 January 2015 05:27 To: Cc: G Maxwell Subject: Re: Saying nothing is reputational s
+
 **File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.22_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.22_1.txt)  
 
 ---
 
@@ -2006,7 +2901,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2018,7 +2918,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2030,7 +2935,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2042,7 +2952,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2054,7 +2969,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2066,7 +2986,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2078,7 +3003,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2090,7 +3020,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2102,7 +3037,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2114,7 +3054,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2126,7 +3071,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2138,7 +3088,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2150,7 +3105,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2162,7 +3122,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2174,7 +3139,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2186,7 +3156,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2198,7 +3173,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2210,7 +3190,12 @@ Epstein, Protective Order, This State, See Maple Wood, Administrative Procednre,
 Jury Subpoena, Florida
 Virginia, Epstein Cannot Assert  
 **Locations**: Virgin Islands, Paris, New York, London, France  
+
+**Document Excerpt**:
+> Found: 78 # People Found: 240 # Locations Found: 7 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 1 of 43 COMPOSITE EXHIBIT 1 (File Under Seal) Case 1:15-cv-07433-LAP Document 1330-15 Filed 01/05/24 Page 2 of 43 Case 9:16-mc-81608-DMM *SEALED* Document 4 of 6 United States District Court Southern District of Florida Virginia L Giuffre, Plaintiff, Case No.: ----- Cudcrlying Cas1: No.: 15-cv-07433-RWS (Southern District of New York) (Si.veet, J.) V. Jeffrey Epstein, Defendant. ----
+
 **File**: `gov.uscourts.nysd.447706.1330.15.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1330.15.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1330.15.txt)  
 
 ---
 
@@ -2221,7 +3206,12 @@ Virginia, Epstein Cannot Assert
 List, Intervenors
 Julie Brown, See Nixon, The Document, Senior United States, John Does  
 **Locations**: New York  
+
+**Document Excerpt**:
+> g continue to apply and to outweigh the public’s interest in this Document. Accordingly, the letter-motions to unseal in part docket entry 1026-3 (dkt. nos. 1321, 1323) are DENIED. SO ORDERED. Dated: January 5, 2024 New York, New York ___________________________________ LORETTA A. PRESKA Senior United States District Judge 3
+
 **File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1329.0_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1329.0_1.txt)  
 
 ---
 
@@ -2232,7 +3222,12 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 List, Intervenors
 Julie Brown, See Nixon, The Document, Senior United States, John Does  
 **Locations**: New York  
+
+**Document Excerpt**:
+> g continue to apply and to outweigh the public’s interest in this Document. Accordingly, the letter-motions to unseal in part docket entry 1026-3 (dkt. nos. 1321, 1323) are DENIED. SO ORDERED. Dated: January 5, 2024 New York, New York ___________________________________ LORETTA A. PRESKA Senior United States District Judge 3
+
 **File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1329.0_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1329.0_1.txt)  
 
 ---
 
@@ -2242,7 +3237,12 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2252,7 +3252,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2262,7 +3267,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2272,7 +3282,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2282,7 +3297,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2292,7 +3312,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2302,7 +3327,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2312,7 +3342,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2322,7 +3357,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2332,7 +3372,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 22 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 3 (Filed Under Seal) Case 1:15-cv-07433-LAP Document 1328-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK - - - - - - - - - - - - - - - - - - - X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1328.10.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1328.10.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1328.10.txt)  
 
 ---
 
@@ -2342,7 +3387,12 @@ Registered Professional, Virgin Islands, Lexington Avenue, Filed Under Seal, Did
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2352,7 +3402,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2362,7 +3417,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2372,7 +3432,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2382,7 +3447,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2392,7 +3462,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2402,7 +3477,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2412,7 +3492,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2422,7 +3507,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2432,7 +3522,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **People Mentioned**: Notary Public, Carolyn Andriamo, Virginia Roberts, Mr Epstein, Les
 Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did Mr, Court Reporter  
 **Locations**: Virgin Islands, New York, Palm Beach  
+
+**Document Excerpt**:
+> s Found: 23 # People Found: 23 # Locations Found: 3 # Linked Emails: 1 ================================================================================ Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 1 of 23 COMPOSITE EXHIBIT 7 (File Under Seal) Case 1:15-cv-07433-LAP Document 1327-10 Filed 01/05/24 Page 2 of 23 Confidential Page 1 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK X VIRGINIA L . GIUFFRE , Plaintiff , Case No .
+
 **File**: `gov.uscourts.nysd.447706.1327.10_1.pdf`  
+**Full Text**: [`gov.uscourts.nysd.447706.1327.10_1.txt`](../complete_extraction/all_documents/gov.uscourts.nysd.447706.1327.10_1.txt)  
 
 ---
 
@@ -2441,8 +3536,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: jeffrey E  
 **To**: Gmax  
 **Preview**: ==================================================================================================== EMAIL #0188 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton  
+**People Mentioned**: Clinton, Andrew, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0188 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0188_Monday, January 12,_From-jeffrey E_To-Gmax_VR cried rape - prior case dismissed as.txt`  
+**Full Text**: [`0188_Monday, January 12,_From-jeffrey E_To-Gmax_VR cried rape - prior case dismissed as.txt`](../extracted_emails_organized/0188_Monday, January 12,_From-jeffrey E_To-Gmax_VR cried rape - prior case dismissed as.txt)  
 
 ---
 
@@ -2453,7 +3553,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **Preview**: ==================================================================================================== EMAIL #0108 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Jeffrey Epstein, Epstein  
 **Key Terms**: flight  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0108 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0108_Friday, February 09,_From-5arah Ransome (mailto__To-Pumla Griszell Sent_ Frid_RE_ FIT website.txt`  
+**Full Text**: [`0108_Friday, February 09,_From-5arah Ransome (mailto__To-Pumla Griszell Sent_ Frid_RE_ FIT website.txt`](../extracted_emails_organized/0108_Friday, February 09,_From-5arah Ransome (mailto__To-Pumla Griszell Sent_ Frid_RE_ FIT website.txt)  
 
 ---
 
@@ -2462,8 +3567,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0048 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0048 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2472,8 +3582,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0092 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0092 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0092_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0092_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0092_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2482,8 +3597,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0095 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0095 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0095_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0095_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0095_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2492,9 +3612,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0139 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Jean-Luc Brunel, Epstein, Brunel, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, party  
+**People Mentioned**: Maxwell, Giuffre, Jean-Luc Brunel, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Epstein  
+**Key Terms**: island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0139 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0139_Wednesday, March 24,_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0139_Wednesday, March 24,_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0139_Wednesday, March 24,_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2503,8 +3628,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: LauraMenninger  
 **To**: MeredithSchultz  
 **Preview**: ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Maxwell, Giuffre  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Clinton, Brunel, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt`  
+**Full Text**: [`0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt`](../extracted_emails_organized/0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt)  
 
 ---
 
@@ -2513,9 +3643,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Richards, Jason R  
 **To**: Robert Giuffre  
 **Preview**: ==================================================================================================== EMAIL #0184 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: flight, girl, minor  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Virginia Roberts, Dershowitz, Virginia Giuffre, Epstein  
+**Key Terms**: flight, minor, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0184 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0184_Wednesday, August 27_From-Richards, Jason R_To-Robert Giuffre_RE_ Hi There.txt`  
+**Full Text**: [`0184_Wednesday, August 27_From-Richards, Jason R_To-Robert Giuffre_RE_ Hi There.txt`](../extracted_emails_organized/0184_Wednesday, August 27_From-Richards, Jason R_To-Robert Giuffre_RE_ Hi There.txt)  
 
 ---
 
@@ -2524,9 +3659,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Trump, Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Donald Trump, Dershowitz  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2535,9 +3675,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0087 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz, Virginia Giuffre  
+**Key Terms**: massage, flight, minor, girl, island  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0087 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2546,9 +3691,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0138 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
 **Key Terms**: girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0138 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0138_Thursday, October 20_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0138_Thursday, October 20_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0138_Thursday, October 20_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2557,9 +3707,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0008 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0008 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt`  
+**Full Text**: [`0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt`](../extracted_emails_organized/0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2568,9 +3723,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Jenna  
 **To**: Sharon.Churcher  
 **Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Prince Andrew, Virginia Giuffre  
-**Key Terms**: party, massage, minor, flight, girl  
+**People Mentioned**: Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Virginia Roberts, Dershowitz  
+**Key Terms**: massage, flight, minor, girl, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`  
+**Full Text**: [`0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`](../extracted_emails_organized/0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt)  
 
 ---
 
@@ -2579,9 +3739,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0011 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0011 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0011_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0011_01_04_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0011_01_04_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2590,9 +3755,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0012 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0012 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0012_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0012_01_04_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0012_01_04_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2601,9 +3771,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
-**Key Terms**: minor, island, girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: minor, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0013_01_04_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2612,9 +3787,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
 **Key Terms**: island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0014_01_04_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2623,9 +3803,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0017 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre, Epstein  
 **Key Terms**: minor  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0017 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0017_01_04_24_From-Unknown_To-Unknown_11.txt`  
+**Full Text**: [`0017_01_04_24_From-Unknown_To-Unknown_11.txt`](../extracted_emails_organized/0017_01_04_24_From-Unknown_To-Unknown_11.txt)  
 
 ---
 
@@ -2634,9 +3819,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz, Ghislaine Maxwell  
-**Key Terms**: minor, island, girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein, Prince Andrew  
+**Key Terms**: minor, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0022_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2645,9 +3835,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0024 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0024 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0024_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0024_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0024_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2656,9 +3851,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0026 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, girl, massage, party  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Dershowitz, Epstein  
+**Key Terms**: massage, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0026 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0026_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0026_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0026_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2667,8 +3867,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0027 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0027 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0027_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0027_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0027_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2677,8 +3882,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0028_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2687,9 +3897,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0033 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Ghislaine Maxwell, Dershowitz, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0033 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0033_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0033_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0033_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2698,9 +3913,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0036_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2709,9 +3929,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Clinton, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: party, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Dershowitz, Virginia Giuffre  
+**Key Terms**: massage, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0038_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0038_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0038_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2720,9 +3945,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0040 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
 **Key Terms**: girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0040 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0040_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0040_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0040_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2731,9 +3961,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0041 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0041 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0041_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0041_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0041_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2742,9 +3977,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0044 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: party, minor  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: minor, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0044 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0044_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0044_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0044_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2753,9 +3993,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: flight, island, girl, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: flight, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`  
+**Full Text**: [`0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`](../extracted_emails_organized/0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt)  
 
 ---
 
@@ -2764,9 +4009,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0049 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: party, minor  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Epstein, Prince Andrew  
+**Key Terms**: minor, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0049 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0049_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0049_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0049_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2775,9 +4025,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0054 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0054 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0054_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0054_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0054_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2786,9 +4041,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0060 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
 **Key Terms**: party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0060 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0060_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0060_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0060_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2797,9 +4057,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0062 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0062 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0062_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0062_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0062_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2808,9 +4073,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0065 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0065 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0065_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0065_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0065_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2819,9 +4089,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Virginia Giuffre, Bill Clinton  
-**Key Terms**: island, party, massage, minor, girl  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
+**Key Terms**: massage, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`  
+**Full Text**: [`0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`](../extracted_emails_organized/0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt)  
 
 ---
 
@@ -2830,9 +4105,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Brunel, Prince Andrew  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
 **Key Terms**: massage  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0073_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2841,8 +4121,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0074 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Ghislaine Maxwell, Maxwell, Jeffrey Epstein, Epstein  
+**People Mentioned**: Maxwell, Jeffrey Epstein, Epstein, Ghislaine Maxwell  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0074 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0074_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0074_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0074_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2853,7 +4138,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **Preview**: ==================================================================================================== EMAIL #0078 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Jeffrey Epstein, Giuffre, Epstein  
 **Key Terms**: minor  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0078 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt`  
+**Full Text**: [`0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt`](../extracted_emails_organized/0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt)  
 
 ---
 
@@ -2862,9 +4152,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
 **Key Terms**: massage  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0079_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2873,8 +4168,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0082 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0082 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0082_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0082_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0082_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2883,9 +4183,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0084 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: minor, island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
+**Key Terms**: minor, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0084 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0084_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0084_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0084_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2894,9 +4199,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: minor, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+**Full Text**: [`0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`](../extracted_emails_organized/0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt)  
 
 ---
 
@@ -2905,8 +4215,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0088 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0088 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0088_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0088_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0088_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2915,9 +4230,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0089 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
 **Key Terms**: island  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0089 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0089_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0089_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0089_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2926,9 +4246,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, girl, minor, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre  
+**Key Terms**: minor, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0091_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2937,8 +4262,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0093 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0093 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0093_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0093_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0093_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2947,8 +4277,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0094 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0094 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0094_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0094_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0094_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2957,9 +4292,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0096 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, party  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre, Epstein  
+**Key Terms**: island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0096 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0096_01_05_24_From-Unknown_To-(1) produce the documents_England.txt`  
+**Full Text**: [`0096_01_05_24_From-Unknown_To-(1) produce the documents_England.txt`](../extracted_emails_organized/0096_01_05_24_From-Unknown_To-(1) produce the documents_England.txt)  
 
 ---
 
@@ -2968,9 +4308,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Clinton, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: party, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Dershowitz, Virginia Giuffre  
+**Key Terms**: massage, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0098_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0098_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0098_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2979,9 +4324,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0099 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Ghislaine Maxwell, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0099 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0099_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0099_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0099_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -2990,9 +4340,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0102 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Ghislaine Maxwell, Dershowitz, Virginia Giuffre, Epstein  
 **Key Terms**: island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0102 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0102_01_05_24_From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and.txt`  
+**Full Text**: [`0102_01_05_24_From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and.txt`](../extracted_emails_organized/0102_01_05_24_From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and.txt)  
 
 ---
 
@@ -3001,9 +4356,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: minor, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+**Full Text**: [`0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`](../extracted_emails_organized/0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt)  
 
 ---
 
@@ -3012,9 +4372,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0105 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Ghislaine Maxwell  
+**Key Terms**: massage, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0105 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0105_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0105_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0105_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3023,9 +4388,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0106 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Wexner, Virginia Roberts, Maxwell, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell, Virginia Roberts, Wexner, Epstein  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0106 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0106_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0106_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0106_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3034,9 +4404,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0109 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: flight, island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz, Epstein  
+**Key Terms**: flight, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0109 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0109_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0109_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0109_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3045,9 +4420,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0119 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: minor, party, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
+**Key Terms**: minor, massage, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0119 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0119_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0119_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0119_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3056,9 +4436,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0122 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein, Prince Andrew  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0122 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0122_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0122_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0122_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3067,8 +4452,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0124 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0124 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0124_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0124_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0124_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3077,9 +4467,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Wexner, Alan Dershowitz, Brunel, Leslie Wexner, Maxwell, Jeffrey Epstein  
-**Key Terms**: island, girl, minor  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Leslie Wexner, Dershowitz  
+**Key Terms**: minor, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0126_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3088,9 +4483,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0127 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
 **Key Terms**: flight, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0127 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0127_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0127_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0127_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3099,9 +4499,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0128 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Wexner, Virginia Roberts, Maxwell, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell, Virginia Roberts, Wexner, Epstein  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0128 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0128_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0128_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0128_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3110,9 +4515,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0129 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Trump, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein, Trump  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0129 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0129_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0129_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0129_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3121,9 +4531,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, girl, minor, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz  
+**Key Terms**: minor, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0131_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3134,7 +4549,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **Preview**: ==================================================================================================== EMAIL #0142 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Maxwell, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0142 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0142_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0142_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0142_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3143,9 +4563,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein  
-**Key Terms**: party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre  
+**Key Terms**: massage, flight, minor, girl, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0144_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3154,8 +4579,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0145_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3164,9 +4594,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Prince Andrew, Virginia Giuffre  
-**Key Terms**: flight, girl, minor  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: flight, minor, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0146_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3175,9 +4610,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0147 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz, Epstein  
 **Key Terms**: island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0147 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0147_01_05_24_From-Unknown_To-14_untitled.txt`  
+**Full Text**: [`0147_01_05_24_From-Unknown_To-14_untitled.txt`](../extracted_emails_organized/0147_01_05_24_From-Unknown_To-14_untitled.txt)  
 
 ---
 
@@ -3186,9 +4626,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0152 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Epstein  
 **Key Terms**: flight  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0152 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0152_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0152_01_05_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0152_01_05_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3197,9 +4642,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0155 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: party, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**Key Terms**: massage, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0155 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0155_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0155_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0155_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3208,9 +4658,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Bill Clinton, Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Clinton, Ghislaine Maxwell, Dershowitz  
 **Key Terms**: party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`  
+**Full Text**: [`0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`](../extracted_emails_organized/0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt)  
 
 ---
 
@@ -3219,9 +4674,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0162_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3230,9 +4690,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0167_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3241,8 +4706,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Ghislaine Maxwell, Dershowitz, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`  
+**Full Text**: [`0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`](../extracted_emails_organized/0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt)  
 
 ---
 
@@ -3251,9 +4721,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0169 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Ghislaine Maxwell  
-**Key Terms**: island, party, massage  
+**People Mentioned**: Maxwell, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Epstein, Prince Andrew  
+**Key Terms**: massage, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0169 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0169_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0169_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0169_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3262,9 +4737,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0173_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3273,9 +4753,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0175 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Brunel, Maxwell, Giuffre  
-**Key Terms**: flight, party, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Brunel, Epstein  
+**Key Terms**: flight, massage, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0175 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0175_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0175_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0175_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3284,9 +4769,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: minor, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+**Full Text**: [`0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`](../extracted_emails_organized/0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt)  
 
 ---
 
@@ -3295,8 +4785,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0189 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Maxwell, Epstein, Giuffre  
+**People Mentioned**: Maxwell, Giuffre, Epstein, Dershowitz  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0189 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0189_01_03_24_From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2.txt`  
+**Full Text**: [`0189_01_03_24_From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2.txt`](../extracted_emails_organized/0189_01_03_24_From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2.txt)  
 
 ---
 
@@ -3305,8 +4800,13 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`  
+**Full Text**: [`0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`](../extracted_emails_organized/0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt)  
 
 ---
 
@@ -3315,9 +4815,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
-**Key Terms**: minor, island, girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Epstein  
+**Key Terms**: minor, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0193_01_03_24_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3326,9 +4831,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0194 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Jean-Luc Brunel, Andrew, Epstein, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, party, massage, minor, flight, girl  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jean-Luc Brunel, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Virginia Giuffre  
+**Key Terms**: massage, flight, minor, girl, island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0194 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0194_01_03_24_From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad.txt`  
+**Full Text**: [`0194_01_03_24_From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad.txt`](../extracted_emails_organized/0194_01_03_24_From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad.txt)  
 
 ---
 
@@ -3339,7 +4849,12 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **Preview**: ==================================================================================================== EMAIL #0063 - ORGANIZED EXTRACTION ================================================================  
 **People Mentioned**: Virginia Giuffre, Jeffrey Epstein, Giuffre, Epstein  
 **Key Terms**: girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0063 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0063_Fri 2_21_2014 1_17_2_From-Virginia Giuffre_To-Marianne Strong[mariannes_Re_ NYC Post Inquiry re_ Jeffrey Epstein.txt`  
+**Full Text**: [`0063_Fri 2_21_2014 1_17_2_From-Virginia Giuffre_To-Marianne Strong[mariannes_Re_ NYC Post Inquiry re_ Jeffrey Epstein.txt`](../extracted_emails_organized/0063_Fri 2_21_2014 1_17_2_From-Virginia Giuffre_To-Marianne Strong[mariannes_Re_ NYC Post Inquiry re_ Jeffrey Epstein.txt)  
 
 ---
 
@@ -3348,9 +4863,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 06  
 **To**: 2017  
 **Preview**: ==================================================================================================== EMAIL #0110 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0110 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0110_02_06_2017_From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De.txt`  
+**Full Text**: [`0110_02_06_2017_From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De.txt`](../extracted_emails_organized/0110_02_06_2017_From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De.txt)  
 
 ---
 
@@ -3359,9 +4879,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 16  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Brunel, Virginia Giuffre, Maxwell  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Virginia Roberts  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`  
+**Full Text**: [`0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`](../extracted_emails_organized/0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt)  
 
 ---
 
@@ -3370,9 +4895,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 15  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0151 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz, Virginia Giuffre, Epstein  
 **Key Terms**: island, party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0151 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0151_06_15_2016_From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------.txt`  
+**Full Text**: [`0151_06_15_2016_From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------.txt`](../extracted_emails_organized/0151_06_15_2016_From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------.txt)  
 
 ---
 
@@ -3381,9 +4911,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: 19  
 **To**: 06 PALM BEACH P  
 **Preview**: ==================================================================================================== EMAIL #0182 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Dershowitz, Epstein  
+**Key Terms**: massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0182 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0182_7_19_06 PALM BEACH P_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0182_7_19_06 PALM BEACH P_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0182_7_19_06 PALM BEACH P_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3392,9 +4927,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell, Jeffrey Epstein  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Giuffre  
 **Key Terms**: flight, island  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3403,9 +4943,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: (Name ofp erson to whom t  
 **Preview**: ==================================================================================================== EMAIL #0164 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Giuffre, Epstein  
 **Key Terms**: party  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0164 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0164_Sen,er's sfg11utur,,_From-Unknown_To-(Name ofp erson to whom t_Sigrid Mccawley, Esq. of Boies, Schiller.txt`  
+**Full Text**: [`0164_Sen,er's sfg11utur,,_From-Unknown_To-(Name ofp erson to whom t_Sigrid Mccawley, Esq. of Boies, Schiller.txt`](../extracted_emails_organized/0164_Sen,er's sfg11utur,,_From-Unknown_To-(Name ofp erson to whom t_Sigrid Mccawley, Esq. of Boies, Schiller.txt)  
 
 ---
 
@@ -3414,9 +4959,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Dershowitz, Epstein, Giuffre, Maxwell, Jeffrey Epstein, Alan Dershowitz  
-**Key Terms**: party, girl, massage  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Epstein  
+**Key Terms**: massage, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3425,9 +4975,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein  
-**Key Terms**: island, girl, massage, party  
+**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Dershowitz, Epstein  
+**Key Terms**: massage, island, party, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3436,9 +4991,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0157 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
-**Key Terms**: minor, island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Epstein  
+**Key Terms**: minor, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0157 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0157_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0157_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0157_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
@@ -3447,9 +5007,14 @@ Registered Professional, File Under Seal, Virgin Islands, Lexington Avenue, Did 
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Clinton, Virginia Roberts, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre  
-**Key Terms**: flight, island, girl, massage  
+**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Roberts  
+**Key Terms**: flight, massage, island, girl  
+
+**Content Snippet**:
+> ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================...
+
 **File**: `0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+**Full Text**: [`0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`](../extracted_emails_organized/0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt)  
 
 ---
 
