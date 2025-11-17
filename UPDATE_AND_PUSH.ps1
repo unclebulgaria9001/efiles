@@ -77,12 +77,17 @@ $filesToAdd = @(
     "complete_extraction/",
     "analytics/",
     "top_300_people/",
+    "extracted_emails_organized/",
+    "extracted_text_files/",
+    "analysis/",
     "scripts/extract_all_content.py",
     "scripts/update_all_analysis.py",
     "RUN_COMPLETE_EXTRACTION.ps1",
     "EXTRACT_AND_PROCESS_ALL.ps1",
     "UPDATE_AND_PUSH.ps1",
-    "COMPLETE_EXTRACTION_GUIDE.md"
+    "COMPLETE_EXTRACTION_GUIDE.md",
+    "UPDATE_STATUS.md",
+    "README.md"
 )
 
 foreach ($file in $filesToAdd) {
