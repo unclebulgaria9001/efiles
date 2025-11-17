@@ -1,7 +1,7 @@
 # Timeline Index
 
-**Generated**: 2025-11-17 14:36:35  
-**Total Events**: 3,749
+**Generated**: 2025-11-17 14:47:38  
+**Total Events**: 3,755
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### Main Timeline
 - **[Unified Timeline](UNIFIED_TIMELINE.md)** - All sources chronologically organized
-  - 3,749 total events
+  - 3,755 total events
   - Emails, documents, flight logs, court filings
 
 ### VIP Timelines
@@ -44,7 +44,7 @@
 - **Court Documents**: 1,686
 
 ### By Date Status
-- **Dated Events**: 3,738
+- **Dated Events**: 3,744
 - **Undated Events**: 11
 
 ---

@@ -2,7 +2,7 @@
 
 **Total Events**: 9  
 **Dated Events**: 8  
-**Generated**: 2025-11-17 14:36:35
+**Generated**: 2025-11-17 14:47:37
 
 ---
 
@@ -24,8 +24,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0059 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Wexner, Jeffrey Epstein, Giuffre, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
-**Key Terms**: island, massage, girl  
+**People Mentioned**: Jeffrey Epstein, Epstein, Maxwell, Andrew, Wexner, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
+**Key Terms**: massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0059 - ORGANIZED EXTRACTION ================================================================...
@@ -40,8 +40,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Andrew, Alan Dershowitz, Epstein, Wexner, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, massage, flight, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: minor, massage, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================...
@@ -56,8 +56,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Wexner, Andrew, Brunel, Clinton  
-**Key Terms**: minor, massage, flight, girl  
+**People Mentioned**: Andrew, Wexner, Brunel, Clinton  
+**Key Terms**: minor, massage, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================...
@@ -72,8 +72,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Wexner, Clinton, Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Clinton, Maxwell, Andrew, Wexner, Brunel  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================...
@@ -88,8 +88,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Wexner, Clinton, Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Clinton, Maxwell, Andrew, Wexner, Brunel  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================...
@@ -104,8 +104,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0106 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Wexner, Virginia Roberts, Giuffre, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, massage, girl  
+**People Mentioned**: Virginia Roberts, Epstein, Maxwell, Wexner, Ghislaine Maxwell, Giuffre  
+**Key Terms**: massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0106 - ORGANIZED EXTRACTION ================================================================...
@@ -120,8 +120,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Leslie Wexner, Brunel, Alan Dershowitz, Wexner, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: island, minor, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Leslie Wexner, Wexner, Brunel  
+**Key Terms**: girl, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================...
@@ -136,8 +136,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0128 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Wexner, Virginia Roberts, Giuffre, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, massage, girl  
+**People Mentioned**: Virginia Roberts, Epstein, Maxwell, Wexner, Ghislaine Maxwell, Giuffre  
+**Key Terms**: massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0128 - ORGANIZED EXTRACTION ================================================================...

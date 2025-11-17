@@ -2,7 +2,7 @@
 
 **Total Events**: 86  
 **Dated Events**: 83  
-**Generated**: 2025-11-17 14:35:58
+**Generated**: 2025-11-17 14:47:07
 
 ---
 
@@ -24,7 +24,7 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Sigrid Mccawley  
 **To**: Laura Menninger; Meredith  
 **Preview**: ==================================================================================================== EMAIL #0001 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Epstein, Jeffrey Epstein, Giuffre, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
+**People Mentioned**: Jeffrey Epstein, Epstein, Maxwell, Brunel, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0001 - ORGANIZED EXTRACTION ================================================================...
@@ -68,8 +68,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Giuffre, Jeffrey Epstein, Clinton, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: island, massage, girl, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew, Brunel  
+**Key Terms**: party, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================...
@@ -119,8 +119,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Clinton, Ghislaine Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================...
@@ -234,8 +234,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Epstein, Jeffrey Epstein, Giuffre, Clinton, Ghislaine Maxwell  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Prince Andrew, Andrew, Brunel, Virginia Giuffre  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================...
@@ -1006,8 +1006,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0139 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Jean-Luc Brunel, Brunel, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, girl, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Maxwell, Brunel, Jean-Luc Brunel, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0139 - ORGANIZED EXTRACTION ================================================================...
@@ -1022,7 +1022,7 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: LauraMenninger  
 **To**: MeredithSchultz  
 **Preview**: ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Giuffre, Clinton, Maxwell, Epstein  
+**People Mentioned**: Clinton, Epstein, Maxwell, Andrew, Brunel, Giuffre  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================...
@@ -1037,8 +1037,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, massage, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Brunel  
+**Key Terms**: minor, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================...
@@ -1053,8 +1053,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: massage, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Brunel, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, massage  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================...
@@ -1069,8 +1069,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Wexner, Andrew, Brunel, Clinton  
-**Key Terms**: minor, massage, flight, girl  
+**People Mentioned**: Andrew, Wexner, Brunel, Clinton  
+**Key Terms**: minor, massage, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================...
@@ -1085,8 +1085,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, party, girl, island, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: party, girl, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================...
@@ -1101,8 +1101,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Wexner, Clinton, Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Clinton, Maxwell, Andrew, Wexner, Brunel  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================...
@@ -1117,7 +1117,7 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Clinton, Dershowitz, Prince Andrew  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1133,8 +1133,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Wexner, Clinton, Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Clinton, Maxwell, Andrew, Wexner, Brunel  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================...
@@ -1149,8 +1149,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: massage, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Brunel, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, massage  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================...
@@ -1165,8 +1165,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Leslie Wexner, Brunel, Alan Dershowitz, Wexner, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: island, minor, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Leslie Wexner, Wexner, Brunel  
+**Key Terms**: girl, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================...
@@ -1181,8 +1181,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0130 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Ghislaine Maxwell, Maxwell, Giuffre, Brunel  
-**Key Terms**: minor, girl  
+**People Mentioned**: Ghislaine Maxwell, Giuffre, Brunel, Maxwell  
+**Key Terms**: girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0130 - ORGANIZED EXTRACTION ================================================================...
@@ -1197,8 +1197,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, flight, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Prince Andrew, Andrew  
+**Key Terms**: minor, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================...
@@ -1213,8 +1213,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Bill Clinton, Andrew, Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Prince Andrew, Bill Clinton, Andrew, Brunel  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================...
@@ -1229,8 +1229,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Bill Clinton, Andrew, Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Prince Andrew, Bill Clinton, Andrew, Brunel  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================...
@@ -1245,8 +1245,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0169 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, massage, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Maxwell, Prince Andrew, Andrew, Brunel, Ghislaine Maxwell  
+**Key Terms**: party, massage, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0169 - ORGANIZED EXTRACTION ================================================================...
@@ -1261,8 +1261,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Bill Clinton, Andrew, Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Prince Andrew, Bill Clinton, Andrew, Brunel  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================...
@@ -1277,8 +1277,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0175 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Giuffre, Maxwell, Epstein  
-**Key Terms**: party, massage, flight, girl  
+**People Mentioned**: Epstein, Maxwell, Andrew, Brunel, Giuffre  
+**Key Terms**: party, massage, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0175 - ORGANIZED EXTRACTION ================================================================...
@@ -1293,8 +1293,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, massage, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Brunel  
+**Key Terms**: minor, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================...
@@ -1309,8 +1309,8 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0194 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Jean-Luc Brunel, Brunel, Andrew, Epstein, Jeffrey Epstein, Giuffre, Ghislaine Maxwell, Maxwell  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Maxwell, Andrew, Brunel, Jean-Luc Brunel, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0194 - ORGANIZED EXTRACTION ================================================================...
@@ -1325,7 +1325,7 @@ New York, Jean Luc Brunel, Leslie Fagin
 **From**: 16  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Alan Dershowitz, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Dershowitz, Andrew, Brunel  
 **Key Terms**: party  
 
 **Content Snippet**:

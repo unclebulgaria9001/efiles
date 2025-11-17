@@ -2,7 +2,7 @@
 
 **Total Events**: 115  
 **Dated Events**: 109  
-**Generated**: 2025-11-17 14:36:34
+**Generated**: 2025-11-17 14:47:34
 
 ---
 
@@ -24,7 +24,7 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: gmaxl  
 **To**: Philip Barden; Ross Gow  
 **Preview**: ==================================================================================================== EMAIL #0051 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Virginia Roberts, Dershowitz, Clinton, Ghislaine Maxwell, Maxwell  
+**People Mentioned**: Dershowitz, Virginia Roberts, Clinton, Maxwell, Prince Andrew, Andrew, Ghislaine Maxwell  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0051 - ORGANIZED EXTRACTION ================================================================...
@@ -39,8 +39,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Giuffre, Jeffrey Epstein, Clinton, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: island, massage, girl, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew, Brunel  
+**Key Terms**: party, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================...
@@ -55,8 +55,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Clinton, Ghislaine Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================...
@@ -71,8 +71,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**:   
 **To**: From-G Maxwell  
 **Preview**: ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Virginia Roberts, Dershowitz, Clinton, Maxwell, Epstein  
-**Key Terms**: massage, girl, party  
+**People Mentioned**: Dershowitz, Clinton, Virginia Roberts, Epstein, Maxwell, Andrew  
+**Key Terms**: party, massage, girl  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================...
@@ -87,8 +87,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: minor, flight, party, girl, island, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================...
@@ -138,8 +138,8 @@ Dershowitz, Ghislaine Maxwell, Virgin Islands
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Andrew, Alan Dershowitz, Epstein, Wexner, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, massage, flight, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: minor, massage, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================...
@@ -1124,8 +1124,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: Richards, Jason R  
 **To**: Robert Giuffre  
 **Preview**: ==================================================================================================== EMAIL #0184 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Maxwell, Virginia Giuffre  
-**Key Terms**: minor, flight, girl  
+**People Mentioned**: Jeffrey Epstein, Virginia Roberts, Epstein, Maxwell, Dershowitz, Virginia Giuffre, Giuffre  
+**Key Terms**: minor, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0184 - ORGANIZED EXTRACTION ================================================================...
@@ -1140,7 +1140,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Trump, Andrew, Alan Dershowitz, Donald Trump, Giuffre, Jeffrey Epstein, Clinton  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Donald Trump, Dershowitz, Prince Andrew  
 **Key Terms**: massage, girl  
 
 **Content Snippet**:
@@ -1156,8 +1156,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0087 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: minor, flight, girl, island, massage  
+**People Mentioned**: Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Dershowitz, Andrew, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, flight, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0087 - ORGANIZED EXTRACTION ================================================================...
@@ -1172,8 +1172,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: Jenna  
 **To**: Sharon.Churcher  
 **Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Bill Clinton, Andrew, Alan Dershowitz, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre  
-**Key Terms**: minor, flight, party, girl, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Virginia Roberts, Epstein, Clinton, Dershowitz, Prince Andrew, Bill Clinton  
+**Key Terms**: party, girl, flight, massage, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================...
@@ -1188,8 +1188,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, massage, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Brunel  
+**Key Terms**: minor, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================...
@@ -1204,8 +1204,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Ghislaine Maxwell  
+**Key Terms**: party, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================...
@@ -1220,7 +1220,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0017 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
+**People Mentioned**: Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
 **Key Terms**: minor  
 
 **Content Snippet**:
@@ -1236,8 +1236,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, minor, massage, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Ghislaine Maxwell  
+**Key Terms**: minor, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================...
@@ -1252,7 +1252,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Andrew, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell  
+**People Mentioned**: Alan Dershowitz, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================...
@@ -1267,8 +1267,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0026 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Giuffre, Jeffrey Epstein, Dershowitz, Maxwell, Epstein  
-**Key Terms**: island, massage, girl, party  
+**People Mentioned**: Dershowitz, Jeffrey Epstein, Epstein, Maxwell, Giuffre  
+**Key Terms**: party, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0026 - ORGANIZED EXTRACTION ================================================================...
@@ -1283,7 +1283,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0033 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
+**People Mentioned**: Dershowitz, Epstein, Maxwell, Andrew, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1299,7 +1299,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1315,8 +1315,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: massage, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Brunel, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, massage  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================...
@@ -1331,8 +1331,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, party, flight, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, girl, flight, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================...
@@ -1347,8 +1347,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Bill Clinton, Brunel, Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, party, girl, island, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Bill Clinton, Andrew  
+**Key Terms**: party, girl, massage, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================...
@@ -1363,7 +1363,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Clinton, Dershowitz, Prince Andrew  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1379,7 +1379,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Ghislaine Maxwell, Giuffre  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1395,8 +1395,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================...
@@ -1411,8 +1411,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, girl, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, girl, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================...
@@ -1427,8 +1427,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0096 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
-**Key Terms**: island, girl, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0096 - ORGANIZED EXTRACTION ================================================================...
@@ -1443,8 +1443,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Epstein, Jeffrey Epstein, Giuffre, Clinton, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: massage, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Brunel, Virginia Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, massage  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================...
@@ -1459,8 +1459,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0102 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
-**Key Terms**: island, party  
+**People Mentioned**: Dershowitz, Epstein, Maxwell, Andrew, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0102 - ORGANIZED EXTRACTION ================================================================...
@@ -1475,8 +1475,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================...
@@ -1491,8 +1491,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0109 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, massage, flight, girl  
+**People Mentioned**: Jeffrey Epstein, Virginia Roberts, Epstein, Maxwell, Dershowitz, Prince Andrew, Andrew, Ghislaine Maxwell  
+**Key Terms**: massage, girl, flight, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0109 - ORGANIZED EXTRACTION ================================================================...
@@ -1507,8 +1507,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0122 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, massage, girl  
+**People Mentioned**: Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0122 - ORGANIZED EXTRACTION ================================================================...
@@ -1523,8 +1523,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Leslie Wexner, Brunel, Alan Dershowitz, Wexner, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: island, minor, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Leslie Wexner, Wexner, Brunel  
+**Key Terms**: girl, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================...
@@ -1539,8 +1539,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0127 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, flight, girl  
+**People Mentioned**: Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Ghislaine Maxwell, Giuffre  
+**Key Terms**: girl, flight, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0127 - ORGANIZED EXTRACTION ================================================================...
@@ -1555,7 +1555,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0129 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Trump, Andrew, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
+**People Mentioned**: Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Trump, Ghislaine Maxwell, Giuffre  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1571,8 +1571,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, girl, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Virginia Roberts, Epstein, Maxwell, Dershowitz, Andrew, Ghislaine Maxwell  
+**Key Terms**: party, girl, minor, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================...
@@ -1587,8 +1587,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell  
-**Key Terms**: minor, flight, party, girl, massage  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Virginia Giuffre  
+**Key Terms**: party, girl, flight, massage, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================...
@@ -1603,8 +1603,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Epstein, Jeffrey Epstein, Giuffre, Clinton  
-**Key Terms**: minor, flight, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Prince Andrew, Andrew  
+**Key Terms**: minor, girl, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================...
@@ -1619,8 +1619,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0147 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, party  
+**People Mentioned**: Jeffrey Epstein, Virginia Roberts, Epstein, Maxwell, Dershowitz, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0147 - ORGANIZED EXTRACTION ================================================================...
@@ -1635,8 +1635,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Bill Clinton, Andrew, Alan Dershowitz, Giuffre, Dershowitz, Clinton, Ghislaine Maxwell  
-**Key Terms**: girl, party  
+**People Mentioned**: Alan Dershowitz, Dershowitz, Epstein, Clinton, Maxwell, Prince Andrew, Bill Clinton, Andrew  
+**Key Terms**: party, girl  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================...
@@ -1651,7 +1651,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
+**People Mentioned**: Alan Dershowitz, Dershowitz, Epstein, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================...
@@ -1666,8 +1666,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
-**Key Terms**: island, minor, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Andrew, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================...
@@ -1682,7 +1682,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0189 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Epstein, Giuffre, Dershowitz  
+**People Mentioned**: Giuffre, Dershowitz, Epstein, Maxwell  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0189 - ORGANIZED EXTRACTION ================================================================...
@@ -1697,7 +1697,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell, Epstein  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Ghislaine Maxwell, Giuffre  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================...
@@ -1712,8 +1712,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Brunel, Andrew, Alan Dershowitz, Jeffrey Epstein, Dershowitz, Ghislaine Maxwell, Maxwell  
-**Key Terms**: island, minor, massage, girl  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Prince Andrew, Andrew, Brunel  
+**Key Terms**: minor, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================...
@@ -1728,7 +1728,7 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 16  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Brunel, Andrew, Alan Dershowitz, Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Dershowitz, Andrew, Brunel  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1744,8 +1744,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 15  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0151 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Epstein, Virginia Roberts, Jeffrey Epstein, Giuffre, Dershowitz, Ghislaine Maxwell, Maxwell, Virginia Giuffre  
-**Key Terms**: island, party  
+**People Mentioned**: Jeffrey Epstein, Epstein, Virginia Roberts, Maxwell, Dershowitz, Virginia Giuffre, Ghislaine Maxwell, Giuffre  
+**Key Terms**: party, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0151 - ORGANIZED EXTRACTION ================================================================...
@@ -1760,8 +1760,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**: 19  
 **To**: 06 PALM BEACH P  
 **Preview**: ==================================================================================================== EMAIL #0182 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Giuffre, Jeffrey Epstein, Dershowitz, Maxwell, Epstein  
-**Key Terms**: island, massage, girl  
+**People Mentioned**: Dershowitz, Jeffrey Epstein, Epstein, Maxwell, Giuffre  
+**Key Terms**: massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0182 - ORGANIZED EXTRACTION ================================================================...
@@ -1776,8 +1776,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Maxwell, Epstein  
-**Key Terms**: massage, girl, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Dershowitz, Maxwell, Giuffre  
+**Key Terms**: party, massage, girl  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================...
@@ -1792,8 +1792,8 @@ Dershowitz, Figueroa June, Electronic Filing
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Prince Andrew, Andrew, Alan Dershowitz, Giuffre, Jeffrey Epstein, Clinton, Dershowitz, Maxwell  
-**Key Terms**: island, massage, girl, party  
+**People Mentioned**: Alan Dershowitz, Jeffrey Epstein, Epstein, Clinton, Maxwell, Dershowitz, Prince Andrew, Andrew  
+**Key Terms**: party, massage, girl, island  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================...
