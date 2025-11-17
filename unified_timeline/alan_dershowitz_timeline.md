@@ -2,7 +2,7 @@
 
 **Total Events**: 121  
 **Dated Events**: 119  
-**Generated**: 2025-11-17 11:38:11
+**Generated**: 2025-11-17 12:31:12
 
 ---
 
@@ -24,8 +24,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Bill Clinton, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, flight, minor, girl, island  
+**People Mentioned**: Andrew, Clinton, Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell  
+**Key Terms**: island, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================...
@@ -376,8 +376,8 @@ London, United States District, Alan Dershowitz
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: massage, flight, minor, girl, island, party  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: island, party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================...
@@ -458,8 +458,8 @@ Reporter
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
-**Key Terms**: flight, minor, massage, girl  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Wexner, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================...
@@ -1499,7 +1499,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Donald Trump, Dershowitz  
+**People Mentioned**: Andrew, Clinton, Epstein, Giuffre, Donald Trump, Dershowitz, Trump, Jeffrey Epstein  
 **Key Terms**: massage, girl  
 
 **Content Snippet**:
@@ -1515,8 +1515,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: Jenna  
 **To**: Sharon.Churcher  
 **Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Virginia Roberts, Dershowitz  
-**Key Terms**: massage, flight, minor, girl, party  
+**People Mentioned**: Andrew, Clinton, Epstein, Virginia Giuffre, Bill Clinton, Giuffre, Dershowitz, Jeffrey Epstein  
+**Key Terms**: party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================...
@@ -1531,8 +1531,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: minor, massage, island, girl  
+**People Mentioned**: Andrew, Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: massage, island, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================...
@@ -1547,7 +1547,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 04  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
 **Key Terms**: island, party  
 
 **Content Snippet**:
@@ -1563,8 +1563,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein, Prince Andrew  
-**Key Terms**: minor, massage, island, girl  
+**People Mentioned**: Andrew, Epstein, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz, Prince Andrew  
+**Key Terms**: massage, island, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================...
@@ -1579,7 +1579,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Ghislaine Maxwell, Dershowitz  
+**People Mentioned**: Andrew, Giuffre, Ghislaine Maxwell, Dershowitz, Maxwell, Alan Dershowitz  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================...
@@ -1594,7 +1594,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1610,8 +1610,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: flight, island, party, girl  
+**People Mentioned**: Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: island, flight, girl, party  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================...
@@ -1626,8 +1626,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
-**Key Terms**: massage, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: island, party, massage, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================...
@@ -1642,7 +1642,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1658,7 +1658,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**People Mentioned**: Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1674,8 +1674,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: minor, island, party  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: island, party, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================...
@@ -1690,8 +1690,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre  
-**Key Terms**: minor, island, party, girl  
+**People Mentioned**: Andrew, Virginia Giuffre, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell  
+**Key Terms**: island, girl, party, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================...
@@ -1706,8 +1706,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: minor, island, party  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: island, party, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================...
@@ -1722,8 +1722,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Leslie Wexner, Dershowitz  
-**Key Terms**: minor, island, girl  
+**People Mentioned**: Epstein, Leslie Wexner, Brunel, Wexner, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein  
+**Key Terms**: island, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================...
@@ -1738,8 +1738,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, Dershowitz  
-**Key Terms**: minor, island, party, girl  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Virginia Roberts, Maxwell  
+**Key Terms**: island, girl, party, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================...
@@ -1754,8 +1754,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Virginia Giuffre  
-**Key Terms**: massage, flight, minor, girl, party  
+**People Mentioned**: Andrew, Virginia Giuffre, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell  
+**Key Terms**: party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================...
@@ -1770,8 +1770,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: flight, minor, girl  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================...
@@ -1786,7 +1786,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Clinton, Ghislaine Maxwell, Dershowitz  
+**People Mentioned**: Andrew, Clinton, Epstein, Bill Clinton, Giuffre, Ghislaine Maxwell, Dershowitz, Maxwell  
 **Key Terms**: party, girl  
 
 **Content Snippet**:
@@ -1802,7 +1802,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Ghislaine Maxwell, Dershowitz, Epstein  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Maxwell, Alan Dershowitz  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================...
@@ -1817,8 +1817,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: minor, island, party  
+**People Mentioned**: Andrew, Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: island, party, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================...
@@ -1833,7 +1833,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Ghislaine Maxwell, Dershowitz, Epstein  
+**People Mentioned**: Epstein, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================...
@@ -1848,8 +1848,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Epstein  
-**Key Terms**: minor, massage, island, girl  
+**People Mentioned**: Andrew, Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: massage, island, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================...
@@ -1864,7 +1864,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**: 16  
 **To**: 2016  
 **Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Brunel, Ghislaine Maxwell, Virginia Roberts  
+**People Mentioned**: Andrew, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein  
 **Key Terms**: party  
 
 **Content Snippet**:
@@ -1880,7 +1880,7 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Jeffrey Epstein, Dershowitz, Epstein  
+**People Mentioned**: Epstein, Giuffre, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
 **Key Terms**: massage, party, girl  
 
 **Content Snippet**:
@@ -1896,8 +1896,8 @@ Julie Brown, See Nixon, The Document, Senior United States, John Does
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Dershowitz, Epstein  
-**Key Terms**: massage, island, party, girl  
+**People Mentioned**: Andrew, Clinton, Epstein, Giuffre, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: massage, island, girl, party  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================...

@@ -93,7 +93,7 @@ def analyze_consolidation(timeline_data):
     )[:10]
     
     for canonical, aliases in sorted_examples:
-        print(f"    '{canonical}' ← {aliases}")
+        print(f"    '{canonical}' <- {aliases}")
     
     return len(all_people_before) - len(all_people_after)
 

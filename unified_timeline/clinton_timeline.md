@@ -2,7 +2,7 @@
 
 **Total Events**: 112  
 **Dated Events**: 110  
-**Generated**: 2025-11-17 11:38:12
+**Generated**: 2025-11-17 12:30:44
 
 ---
 
@@ -24,7 +24,7 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: gmaxl  
 **To**: Philip Barden; Ross Gow  
 **Preview**: ==================================================================================================== EMAIL #0051 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Andrew, Clinton, Ghislaine Maxwell, Virginia Roberts, Dershowitz, Prince Andrew  
+**People Mentioned**: Andrew, Clinton, Ghislaine Maxwell, Dershowitz, Maxwell, Virginia Roberts, Prince Andrew  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0051 - ORGANIZED EXTRACTION ================================================================...
@@ -39,7 +39,7 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Donald Trump  
+**People Mentioned**: Andrew, Clinton, Epstein, Bill Clinton, Giuffre, Ghislaine Maxwell, Donald Trump, Trump  
 **Key Terms**: island, party  
 
 **Content Snippet**:
@@ -55,8 +55,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, island, party, girl  
+**People Mentioned**: Andrew, Clinton, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein  
+**Key Terms**: massage, island, girl, party  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================...
@@ -71,8 +71,8 @@ All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE for
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Bill Clinton, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, flight, minor, girl, island  
+**People Mentioned**: Andrew, Clinton, Epstein, Brunel, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein, Maxwell  
+**Key Terms**: island, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================...
@@ -149,7 +149,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**:   
 **To**: From-G Maxwell  
 **Preview**: ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Andrew, Clinton, Virginia Roberts, Dershowitz, Epstein  
+**People Mentioned**: Andrew, Clinton, Epstein, Dershowitz, Maxwell, Virginia Roberts  
 **Key Terms**: massage, party, girl  
 
 **Content Snippet**:
@@ -289,8 +289,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Virginia Giuffre  
-**Key Terms**: massage, flight, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Jeffrey Epstein  
+**Key Terms**: island, party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================...
@@ -305,8 +305,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
-**Key Terms**: flight, minor, massage, girl  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Wexner, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================...
@@ -1335,7 +1335,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: gmaxl  
 **To**: Philip Barden; Ross Gow  
 **Preview**: ==================================================================================================== EMAIL #0156 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Clinton, Andrew  
+**People Mentioned**: Andrew, Clinton  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0156 - ORGANIZED EXTRACTION ================================================================...
@@ -1350,7 +1350,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: jeffrey E  
 **To**: Gmax  
 **Preview**: ==================================================================================================== EMAIL #0188 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Clinton, Andrew, Epstein  
+**People Mentioned**: Andrew, Epstein, Clinton  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0188 - ORGANIZED EXTRACTION ================================================================...
@@ -1365,7 +1365,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: LauraMenninger  
 **To**: MeredithSchultz  
 **Preview**: ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Clinton, Brunel, Epstein  
+**People Mentioned**: Clinton, Andrew, Epstein, Brunel, Giuffre, Maxwell  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================...
@@ -1380,7 +1380,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Donald Trump, Dershowitz  
+**People Mentioned**: Andrew, Clinton, Epstein, Giuffre, Donald Trump, Dershowitz, Trump, Jeffrey Epstein  
 **Key Terms**: massage, girl  
 
 **Content Snippet**:
@@ -1396,8 +1396,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Jenna  
 **To**: Sharon.Churcher  
 **Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Virginia Roberts, Dershowitz  
-**Key Terms**: massage, flight, minor, girl, party  
+**People Mentioned**: Andrew, Clinton, Epstein, Virginia Giuffre, Bill Clinton, Giuffre, Dershowitz, Jeffrey Epstein  
+**Key Terms**: party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================...
@@ -1412,7 +1412,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Epstein  
+**People Mentioned**: Clinton, Epstein, Giuffre, Ghislaine Maxwell, Jeffrey Epstein, Maxwell, Bill Clinton  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================...
@@ -1427,7 +1427,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Dershowitz, Virginia Giuffre  
+**People Mentioned**: Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein  
 **Key Terms**: massage, party  
 
 **Content Snippet**:
@@ -1443,7 +1443,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0041 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Giuffre, Epstein  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Giuffre, Ghislaine Maxwell, Jeffrey Epstein, Maxwell  
 **Key Terms**: party, girl  
 
 **Content Snippet**:
@@ -1459,8 +1459,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Clinton, Wexner, Andrew, Brunel  
-**Key Terms**: flight, minor, massage, girl  
+**People Mentioned**: Andrew, Clinton, Wexner, Brunel  
+**Key Terms**: massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0043 - ORGANIZED EXTRACTION ================================================================...
@@ -1475,8 +1475,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell  
-**Key Terms**: massage, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: island, party, massage, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================...
@@ -1491,8 +1491,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Andrew, Clinton, Brunel, Wexner  
-**Key Terms**: massage, flight, minor, girl, island  
+**People Mentioned**: Andrew, Clinton, Brunel, Wexner, Maxwell  
+**Key Terms**: island, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================...
@@ -1507,7 +1507,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
 **Key Terms**: massage  
 
 **Content Snippet**:
@@ -1523,8 +1523,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Andrew, Clinton, Brunel, Wexner  
-**Key Terms**: massage, flight, minor, girl, island  
+**People Mentioned**: Andrew, Clinton, Brunel, Wexner, Maxwell  
+**Key Terms**: island, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================...
@@ -1539,7 +1539,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel, Dershowitz, Virginia Giuffre  
+**People Mentioned**: Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz, Jeffrey Epstein  
 **Key Terms**: massage, party  
 
 **Content Snippet**:
@@ -1555,7 +1555,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Epstein  
+**People Mentioned**: Clinton, Epstein, Giuffre, Ghislaine Maxwell, Jeffrey Epstein, Maxwell, Bill Clinton  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================...
@@ -1570,8 +1570,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 05  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: flight, minor, girl  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Giuffre, Ghislaine Maxwell, Dershowitz  
+**Key Terms**: flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================...
@@ -1586,7 +1586,7 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Bill Clinton, Clinton, Ghislaine Maxwell, Dershowitz  
+**People Mentioned**: Andrew, Clinton, Epstein, Bill Clinton, Giuffre, Ghislaine Maxwell, Dershowitz, Maxwell  
 **Key Terms**: party, girl  
 
 **Content Snippet**:
@@ -1602,8 +1602,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, flight, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Bill Clinton, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================...
@@ -1618,8 +1618,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, flight, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Bill Clinton, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================...
@@ -1634,8 +1634,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: 03  
 **To**: 24  
 **Preview**: ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Brunel  
-**Key Terms**: massage, flight, minor, girl, island, party  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Brunel, Bill Clinton, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, flight, girl, minor  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================...
@@ -1650,8 +1650,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Giuffre  
-**Key Terms**: flight, island  
+**People Mentioned**: Andrew, Clinton, Virginia Giuffre, Epstein, Bill Clinton, Giuffre, Ghislaine Maxwell, Jeffrey Epstein  
+**Key Terms**: island, flight  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================...
@@ -1666,8 +1666,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**:  Befo  
 **To**: From-Unknown  
 **Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Alan Dershowitz, Giuffre, Andrew, Jeffrey Epstein, Clinton, Dershowitz, Epstein  
-**Key Terms**: massage, island, party, girl  
+**People Mentioned**: Andrew, Clinton, Epstein, Giuffre, Dershowitz, Jeffrey Epstein, Maxwell, Alan Dershowitz  
+**Key Terms**: massage, island, girl, party  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================...
@@ -1682,8 +1682,8 @@ Virginia, Produce Materials, Civil Procedure, Civil Action
 **From**: Unknown  
 **To**: Unknown  
 **Preview**: ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================  
-**People Mentioned**: Maxwell, Giuffre, Andrew, Bill Clinton, Jeffrey Epstein, Clinton, Ghislaine Maxwell, Virginia Roberts  
-**Key Terms**: flight, massage, island, girl  
+**People Mentioned**: Andrew, Clinton, Epstein, Giuffre, Ghislaine Maxwell, Jeffrey Epstein, Virginia Roberts, Maxwell  
+**Key Terms**: massage, island, flight, girl  
 
 **Content Snippet**:
 > ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================...
