@@ -39,11 +39,77 @@ This document identifies **8 primary cohorts** and multiple sub-groups within th
 - **Function**: Day-to-day operations
 - **Connections**: Epstein, Maxwell, victims
 
+#### **Message Book Coordinator** (2003-2005)
+
+**Evidence from Telephone Message Books**:
+
+**Role**: Primary message taker and scheduler
+
+> "These messages were taken by Sarah for Jeffrey Epstein" - Detective Recarey
+
+**Responsibilities**:
+1. **Answer phone calls** from victims and recruiters
+2. **Record messages** in carbon copy books
+3. **Schedule appointments** ("work" times)
+4. **Coordinate arrivals** with household staff
+5. **Maintain permanent records** of all communications
+
+**Message Types Taken**:
+- **Victim confirmations**: "Confirming work" calls
+- **Recruitment offers**: "I have girls for him", "I have 2 girls for him"
+- **Scheduling**: Times and dates for appointments
+
+**Evidence Value**:
+- Carbon copy records (2003-2005)
+- First names and phone numbers documented
+- Led to victim identification through subpoenas
+- Corroborated by victim testimony
+
+**Phone Records**:
+- **Number**: 917-855-3363
+- **Subscriber**: Sarah Kellen
+- **Paid by**: Jeffrey Epstein
+- **Address**: Epstein's residence
+
+
 #### **Nadia Marcinkova** (Associate)
 - **Role**: Victim turned participant/pilot
 - **Status**: Initially victim, became participant
 - **Function**: Travel coordination, victim recruitment
 - **Connections**: Epstein, Maxwell, victims
+
+#### **Message Book Coordinator** (2003-2005)
+
+**Evidence from Telephone Message Books**:
+
+**Role**: Primary message taker and scheduler
+
+> "These messages were taken by Sarah for Jeffrey Epstein" - Detective Recarey
+
+**Responsibilities**:
+1. **Answer phone calls** from victims and recruiters
+2. **Record messages** in carbon copy books
+3. **Schedule appointments** ("work" times)
+4. **Coordinate arrivals** with household staff
+5. **Maintain permanent records** of all communications
+
+**Message Types Taken**:
+- **Victim confirmations**: "Confirming work" calls
+- **Recruitment offers**: "I have girls for him", "I have 2 girls for him"
+- **Scheduling**: Times and dates for appointments
+
+**Evidence Value**:
+- Carbon copy records (2003-2005)
+- First names and phone numbers documented
+- Led to victim identification through subpoenas
+- Corroborated by victim testimony
+
+**Phone Records**:
+- **Number**: 917-855-3363
+- **Subscriber**: Sarah Kellen
+- **Paid by**: Jeffrey Epstein
+- **Address**: Epstein's residence
+
 
 #### **Adriana Ross** (Assistant)
 - **Role**: Administrative support, scheduling
