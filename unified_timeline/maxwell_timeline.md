@@ -2,7 +2,7 @@
 
 **Total Events**: 589  
 **Dated Events**: 578  
-**Generated**: 2025-11-17 10:48:29
+**Generated**: 2025-11-17 11:24:08
 
 ---
 
@@ -17,5546 +17,6599 @@
 
 ## Chronological Events
 
+All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE format):
 
-### 0201-01-06
+**02010106 - EMAIL - Q. Have you ever heard the name of Carol**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: Q. Have you ever heard the name of Carol
-  - File: `0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0059 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Wexner, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage  
+**File**: `0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt`  
 
+---
 
-### 0201-05-17
+**02010517 - EMAIL - RE  Notice of Subpoena**
 
-**[Email]** Email from **Sigrid Mccawley** to **Laura Menninger; Meredith**
-  - Subject: RE_ Notice of Subpoena
-  - File: `0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Brunel
+**From**: Sigrid Mccawley  
+**To**: Laura Menninger; Meredith  
+**Preview**: ==================================================================================================== EMAIL #0001 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0002_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Andrew, Giuffre
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0002 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0002_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0032 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage  
+**File**: `0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0097_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Giuffre
-  - Key terms: girl
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0097 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl  
+**File**: `0097_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Giuffre
-  - Key terms: girl
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0112 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl  
+**File**: `0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0115_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Virginia Giuffre, Giuffre
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0115 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Virginia Giuffre, Giuffre, Ghislaine Maxwell  
+**File**: `0115_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-24
+**02010624 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0148_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0148 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0148_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0201-06-26
+**02010626 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0085 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 0591-09-08
+**05910908 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 0591-09-08
+**05910908 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2002-01-09
+**20020109 - EMAIL - Re  The Times -Ghislaine Maxwell**
 
-**[Email]** Email from **gmaxl** to **Philip Barden; Ross Gow**
-  - Subject: Re_ The Times -Ghislaine Maxwell
-  - File: `0051_Friday, January 9, 2_From-gmaxl_To-Philip Barden; Ross Gow_Re_ The Times -Ghislaine Maxwell.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Clinton, Dershowitz, Maxwell
+**From**: gmaxl  
+**To**: Philip Barden; Ross Gow  
+**Preview**: ==================================================================================================== EMAIL #0051 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Clinton, Virginia Roberts, Prince Andrew, Maxwell, Ghislaine Maxwell  
+**File**: `0051_Friday, January 9, 2_From-gmaxl_To-Philip Barden; Ross Gow_Re_ The Times -Ghislaine Maxwell.txt`  
 
+---
 
-### 2002-02-02
+**20020202 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Donald Trump, Prince Andrew, Bill Clinton, Trump, Maxwell  
+**Key Terms**: island, party  
+**File**: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2002-05-25
+**20020525 - EMAIL - (1) Ms. Sharon Churcher, Plaintiff’s fri**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: (1) Ms. Sharon Churcher, Plaintiff’s fri
-  - File: `0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Dershowitz, Maxwell
-  - Key terms: girl, massage, party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, massage, party  
+**File**: `0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`  
 
+---
 
-### 2002-06-16
+**20020616 - EMAIL - Proof of Service - Second Email**
 
-**[Email]** Email from **Meredith Schultz** to **Laura Menninger (lmenning**
-  - Subject: Proof of Service - Second Email
-  - File: `0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt`
-  - People mentioned: Maxwell, Giuffre
+**From**: Meredith Schultz  
+**To**: Laura Menninger (lmenning  
+**Preview**: ==================================================================================================== EMAIL #0009 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt`  
 
+---
 
-### 2002-11-10
+**20021110 - EMAIL - Fwd  Inquiryfrom TheNewYorkTimes**
 
-**[Email]** Email from **Ross GowJane Doe 2** to **Gmax; PhilipBarden**
-  - Subject: Fwd_ Inquiryfrom TheNewYorkTimes
-  - File: `0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`
-  - People mentioned: Maxwell, Epstein
+**From**: Ross GowJane Doe 2  
+**To**: Gmax; PhilipBarden  
+**Preview**: ==================================================================================================== EMAIL #0039 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein  
+**File**: `0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
 
+---
 
-### 2002-11-10
+**20021110 - EMAIL - Fwd  Inquiryfrom TheNewYorkTimes**
 
-**[Email]** Email from **Ross Gow** to **Gmax; PhilipBarden**
-  - Subject: Fwd_ Inquiryfrom TheNewYorkTimes
-  - File: `0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`
-  - People mentioned: Maxwell, Epstein, Giuffre
+**From**: Ross Gow  
+**To**: Gmax; PhilipBarden  
+**Preview**: ==================================================================================================== EMAIL #0055 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre  
+**File**: `0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
 
+---
 
-### 2002-11-10
+**20021110 - EMAIL - Fwd  Inquiryfrom TheNewYorkTimes**
 
-**[Email]** Email from **Ross GowJane Doe 2** to **Gmax; PhilipBarden**
-  - Subject: Fwd_ Inquiryfrom TheNewYorkTimes
-  - File: `0150_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`
-  - People mentioned: Maxwell, Epstein
+**From**: Ross GowJane Doe 2  
+**To**: Gmax; PhilipBarden  
+**Preview**: ==================================================================================================== EMAIL #0150 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein  
+**File**: `0150_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt`  
 
+---
 
-### 2008-03-06
+**20080306 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, minor
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0005 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, minor  
+**File**: `0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2008-03-06
+**20080306 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, minor
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0006 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, minor  
+**File**: `0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2010-03-24
+**20100324 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Dershowitz, Maxwell
-  - Key terms: island, girl, flight, minor, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2010-04-13
+**20100413 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2010-04-13
+**20100413 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2013-12-01
+**20131201 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2013-12-01
+**20131201 - COURT - 1320-32**
 
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2015-01-10
+**20150110 - EMAIL - To-JJep Fw**
 
-**[Email]** Email from **** to **From-G Maxwell**
-  - Subject: To-JJep_Fw_
-  - File: `0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt`
-  - People mentioned: Clinton, Dershowitz, Maxwell, Epstein, Andrew
-  - Key terms: girl, massage, party
+**From**:   
+**To**: From-G Maxwell  
+**Preview**: ==================================================================================================== EMAIL #0070 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Maxwell  
+**Key Terms**: party, girl, massage  
+**File**: `0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt`  
 
+---
 
-### 2015-01-24
+**20150124 - DOCUMENT - Email**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**Length**: 1,511 characters  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-01-24
+**20150124 - COURT - gov.uscourts.nysd.447706.1330.5 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-01-25
+**20150125 - DOCUMENT - Email**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**Length**: 1,511 characters  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-01-25
+**20150125 - DOCUMENT - Email**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**Length**: 1,511 characters  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-01-25
+**20150125 - COURT - gov.uscourts.nysd.447706.1330.5 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-01-25
+**20150125 - COURT - gov.uscourts.nysd.447706.1330.5 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
-Victims, Dated September, On December
+Victims, Dated September, On December, Brockman
+Boies Schiller, Prosecution Agreement, Defendant Maxwell  
+**Locations**: Manhattan, New York, Florida, London  
+**Length**: 18,041 characters  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2015-09-21
+**20150921 - COURT - Civil Complaint Filed**
 
-**[Court Filing]** Court Document
-  - File: `001_complaint.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Lexington Avenue
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Lexington Avenue
 New, Virginia Roberts, Crime
 Victims, Dated September, On December, Brockman
 Boies Schiller, Prosecution Agreement, Defendant Maxwell, Boies
-Boies Schiller, The New York
+Boies Schiller, The New York  
+**Locations**: Manhattan, New York, Florida, London  
+**File**: `001_complaint.pdf`  
 
+---
 
-### 2016-01-02
+**20160102 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0135_2, January 16, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0135 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0135_2, January 16, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2016-04-12
+**20160412 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2016-05-13
+**20160513 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2016-05-13
+**20160513 - COURT - 1320-32**
 
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2016-05-16
+**20160516 - DOCUMENT - Unknown**
 
-**[Document]** Document
-  - File: `1320-16.pdf`
-  - Types: unknown
-  - People mentioned: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client
+**Document Type**: Unknown  
+**People Mentioned**: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client, Laura Menninger Attorney, Maxwell Client, Menninger Product  
+**Locations**: New York  
+**Length**: 4,244 characters  
+**File**: `1320-16.pdf`  
 
+---
 
-### 2016-05-16
+**20160516 - DOCUMENT - Unknown**
 
-**[Document]** Document
-  - File: `1320-16.pdf`
-  - Types: unknown
-  - People mentioned: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client
+**Document Type**: Unknown  
+**People Mentioned**: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client, Laura Menninger Attorney, Maxwell Client, Menninger Product  
+**Locations**: New York  
+**Length**: 4,244 characters  
+**File**: `1320-16.pdf`  
 
+---
 
-### 2016-05-18
+**20160518 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2016-05-18
+**20160518 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - COURT - 1325-12**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - COURT - 1325-12**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - COURT - 1325-12**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-05-26
+**20160526 - COURT - 1325-12**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
 
+---
 
-### 2016-06-04
+**20160604 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2016-06-04
+**20160604 - COURT - 1320-32**
 
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2016-08-01
+**20160801 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0056 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2017-05-01
+**20170501 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0186_1, May 17, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Clinton, Maxwell
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0186 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0186_1, May 17, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2018-05-01
+**20180501 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0045 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, massage  
+**File**: `0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2020-05-26
+**20200526 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0015_Thursday, May 26, 20_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Virginia Giuffre, Giuffre
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0015 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Virginia Giuffre, Giuffre, Ghislaine Maxwell  
+**File**: `0015_Thursday, May 26, 20_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2020-06-02
+**20200602 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: flight, girl, minor, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Wexner, Alan Dershowitz, Virginia Giuffre, Bill Clinton  
+**Key Terms**: flight, minor, girl, massage  
+**File**: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2020-08-01
+**20200801 - EMAIL - Q. This is an email from you on January**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: Q. This is an email from you on January
-  - File: `0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage, party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0072 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage, party  
+**File**: `0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt`  
 
+---
 
-### 2020-12-09
+**20201209 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: massage, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0018 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, massage  
+**File**: `0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2022-04-01
+**20220401 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0159_1, April 22, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Maxwell, Epstein
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0159 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0159_1, April 22, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 37,431 characters  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
 Case No, New York
-Virginia, Produce Materials
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure  
+**Locations**: New York  
+**Length**: 50,280 characters  
+**File**: `1320-32.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-16.pdf`
-  - Types: unknown
-  - People mentioned: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-16.pdf`
-  - Types: unknown
-  - People mentioned: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-16.pdf`
-  - Types: unknown
-  - People mentioned: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-5.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
-Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
-Case
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-32.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Appearance Not Required, Dear Ms, Maxwell
-Case No, New York
-Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Email / Deposition**
 
-**[Court Filing]** Court Document
-  - File: `1320-39.pdf`
-  - Types: email, deposition, legal_document, financial, correspondence
-  - People mentioned: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
 Case No, Hi There
 Thank, Virginia Roberts
-Phone, Pottingerand Product, Protective Order
+Phone  
+**Locations**: Florida  
+**Length**: 55,513 characters  
+**File**: `1320-39.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - DOCUMENT - Unknown**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Unknown  
+**People Mentioned**: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client, Laura Menninger Attorney, Maxwell Client, Menninger Product  
+**Locations**: New York  
+**Length**: 4,244 characters  
+**File**: `1320-16.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - DOCUMENT - Unknown**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Unknown  
+**People Mentioned**: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client, Laura Menninger Attorney, Maxwell Client, Menninger Product  
+**Locations**: New York  
+**Length**: 4,244 characters  
+**File**: `1320-16.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - DOCUMENT - Unknown**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Unknown  
+**People Mentioned**: Laura Menninger, Ghislaine Maxwell Philip, Forwarding Common Interest, Ghislaine Maxwell Brett, Basham Client, Laura Menninger Attorney, Maxwell Client, Menninger Product  
+**Locations**: New York  
+**Length**: 4,244 characters  
+**File**: `1320-16.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Document]** Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
 
-### 2024-01-04
+**20240103 - COURT - 1320-5**
 
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
 
+---
+
+**20240103 - COURT - 1320-5**
 
-### 2024-01-04
-
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
-
-
-### 2024-01-04
-
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
-
-
-### 2024-01-04
-
-**[Court Filing]** Court Document
-  - File: `1325-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Laura Menninger, Notary Public, Maxwell
-Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
-Sent, The Devonshires Foundation, Devoruhires Solicitors
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
-Avenue, Court
-Reporter, Maxwell Exhibit
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
-So, The Guardian, Virginia Roberts, Registered Office
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
-Majliyana Request, Law
-University, Protective Order, Meredith Schultz
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
-An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.21_1.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
-Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
+
+---
+
+**20240103 - COURT - 1320-5**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
+
+---
+
+**20240103 - COURT - 1320-5**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
+
+---
+
+**20240103 - COURT - 1320-5**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Questions About Training, Virginia Roberts, Jon Luc Brunel, Maxwell Regarding
+Sex, Underage Girl, Did Nadia, Eva Anderson, Did Emmy Taylor, Did Jeffrey, Massage Therapists
+Case  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `1320-5.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-32**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Appearance Not Required, Dear Ms, Maxwell
+Case No, New York
+Virginia, Produce Materials, David Rodgers, Barry Kirshner, Civil Procedure, Civil Action, Dave Rodgers  
+**Locations**: New York  
+**File**: `1320-32.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240103 - COURT - 1320-39**
+
+**Document Type**: Email, Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Marie Sazehn, Dear Ms, Information Act, On Aug, Virginia Roberts, Maxwell
+Case No, Hi There
+Thank, Virginia Roberts
+Phone, Pottingerand Product, Protective Order  
+**Locations**: Florida  
+**File**: `1320-39.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel  
+**Locations**: New York  
+**Length**: 12,703 characters  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240104 - COURT - 1325-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Laura Menninger, Notary Public, Maxwell
+Case No, Civil Procedure, Civil Action, Agren Blando, Centura Health, All Counsel, File Under Seal, Federal Rules  
+**Locations**: New York  
+**File**: `1325-12.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal  
+**Locations**: New York, United Kingdom  
+**Length**: 8,827 characters  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Email / Legal Document**
+
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.21_1.pdf`
-  - Types: email, legal_document, correspondence
-  - People mentioned: If Miss Maxwell, Virginia Roberts, Ross Gow
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
 Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
-Ombudsman, Solicitors Regulation Authority, Ross
-Do, Ross Gow
-Hi
+Ombudsman, Solicitors Regulation Authority  
+**Locations**: Manhattan, London  
+**Length**: 17,814 characters  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.19_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Was Jeffrey, Lexington
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
 Avenue, Court
-Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
-New York
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom  
+**Locations**: New York, United Kingdom  
+**Length**: 13,603 characters  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.7_2.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey  
+**Locations**: New York, Florida  
+**Length**: 7,622 characters  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.22_1.pdf`
-  - Types: email, legal_document, financial
-  - People mentioned: On Sun, Guardian
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
 So, The Guardian, Virginia Roberts, Registered Office, Gmax
-Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place
+Ask, Jeffery Epstein, The Devonshires Foundation  
+**Locations**: London  
+**Length**: 25,816 characters  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.2.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
 Case No, Avenue
-Denver, The Terramar Project, Jane Doe, Dear Laura
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**Length**: 10,831 characters  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document / Financial**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.13.pdf`
-  - Types: legal_document, financial, correspondence
-  - People mentioned: Maxwell
-Case No, Jane Doe, Dear Laura, The Terramar Project
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**Length**: 10,599 characters  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.4_1.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Protective Order, South Salem, On Point Events, Defendant
-Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections  
+**Locations**: New York, Florida  
+**Length**: 89,230 characters  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**Length**: 1,511 characters  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Email**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.5_1.pdf`
-  - Types: email
-  - People mentioned: Maxwell
-Subject, On Sat
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**Length**: 1,511 characters  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.16.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 21,333 characters  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.5_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Virginia Roberts, Darshanee
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
 Majliyana Request, Law
 University, Protective Order, Meredith Schultz, Moisture
 Controls, Defendant
-Maxwell, Federal Rules, General Objections, Food Lion
+Maxwell, Federal Rules  
+**Locations**: Little St. James, New York, Florida  
+**Length**: 81,211 characters  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1331.4.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Evidence
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
 An, Law
-University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 40,598 characters  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-31.pdf`
-  - Types: legal_document
-  - People mentioned: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
-Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp  
+**Length**: 364,096 characters  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-01-25
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **jeffrey E** to **G Maxwell**
-  - Subject: Re_
-  - File: `0113_Sunday, January 25,_From-jeffrey E_To-G Maxwell_Re_.txt`
-  - People mentioned: Maxwell
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-02-16
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-02-16
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0092_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-02-16
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0095_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-03-24
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0139_Wednesday, March 24,_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Brunel, Giuffre
-  - Key terms: girl, party, island
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-07-14
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **LauraMenninger** to **MeredithSchultz**
-  - Subject: Giuffre- Conferralregardingsearchterms
-  - File: `0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt`
-  - People mentioned: Clinton, Maxwell, Epstein, Brunel, Andrew
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-08-27
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Richards, Jason R** to **Robert Giuffre**
-  - Subject: RE_ Hi There
-  - File: `0184_Wednesday, August 27_From-Richards, Jason R_To-Robert Giuffre_RE_ Hi There.txt`
-  - People mentioned: Virginia Giuffre, Dershowitz, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: flight, girl, minor
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-09-08
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Prince Andrew, Clinton, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-10-17
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: island, girl, flight, minor, massage
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-10-20
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.21 1**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0138_Thursday, October 20_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Notary Public, Virginia Roberts, Is Eva Dubin, Sarah Kellen, Court
+Reporter, Maxwell Exhibit, Did Jeffrey, Filed Under Seal, Registered Professional Reporter, New Jersey  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1327.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0003_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-
-  - File: `0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`
-  - People mentioned: Maxwell, Giuffre
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-JaneDoe2_To-Unknown_untitled
-  - File: `0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0011_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0012_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: party, island
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_11
-  - File: `0017_01_04_24_From-Unknown_To-Unknown_11.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: minor
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0019_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.21 1**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0020_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Maxwell, Andrew, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Correspondence  
+**People Mentioned**: If Miss Maxwell, Virginia Roberts, Ross Gow
+Sent, The Devonshires Foundation, Devoruhires Solicitors, The Times, Legal
+Ombudsman, Solicitors Regulation Authority, Ross
+Do, Ross Gow
+Hi  
+**Locations**: Manhattan, London  
+**File**: `gov.uscourts.nysd.447706.1330.21_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0021_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Giuffre
-  - Key terms: massage, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0024_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0025_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0026_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Dershowitz, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0027_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0029_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0030_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.19 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0031_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Was Jeffrey, Lexington
+Avenue, Court
+Reporter, Maxwell Exhibit, Philip Barden, Did Jeffrey, United Kingdom, Case No, Americas
+New York  
+**Locations**: New York, United Kingdom  
+**File**: `gov.uscourts.nysd.447706.1330.19_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0033_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0034_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0035_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
-  - Key terms: flight
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0037_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0038_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Clinton, Dershowitz, Maxwell
-  - Key terms: massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0040_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
-  - Key terms: girl
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0041_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Clinton, Maxwell, Epstein
-  - Key terms: girl, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.7 2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0042_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: File Under Seal, Kelli Ann Willis, Notary Public, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Did Jeffrey, Did Maxwell, Errata Sheet  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.7_2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0044_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: minor, party
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell,
-  - File: `0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: flight, girl, party, island
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0047_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0049_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0054_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0057_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0058_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0060_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, party
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0062_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.22 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0065_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage
+**Document Type**: Email, Legal Document, Financial  
+**People Mentioned**: On Sun, Guardian
+So, The Guardian, Virginia Roberts, Registered Office, Gmax
+Ask, Jeffery Epstein, The Devonshires Foundation, Ms Maxwell, Kings Place  
+**Locations**: London  
+**File**: `gov.uscourts.nysd.447706.1330.22_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-
-  - File: `0066_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`
-  - People mentioned: Maxwell, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for
-  - File: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: island, girl, minor, massage, party
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Guiffre v. Maxwell
-  - File: `0071_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt`
-  - People mentioned: Clinton, Maxwell, Brunel, Andrew, Wexner
-  - Key terms: island, girl, flight, minor, massage
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Clinton, Dershowitz
-  - Key terms: massage
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0074_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Jeffrey Epstein
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Guiffre v. Maxwell
-  - File: `0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt`
-  - People mentioned: Clinton, Maxwell, Brunel, Andrew, Wexner
-  - Key terms: island, girl, flight, minor, massage
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0076_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: massage
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-
-  - File: `0080_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`
-  - People mentioned: Maxwell, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.2**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0082_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Avenue
+Denver, The Terramar Project, Jane Doe, Dear Laura  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.2.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0084_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
-  - Key terms: girl, minor, massage, island
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0088_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0089_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
-  - Key terms: island
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, party, island
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0093_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0094_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-(1) produce the documents_England
-  - File: `0096_01_05_24_From-Unknown_To-(1) produce the documents_England.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, party, island
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0098_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Clinton, Dershowitz, Maxwell
-  - Key terms: massage, party
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.13**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0099_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Andrew, Giuffre
-  - Key terms: party
+**Document Type**: Legal Document, Financial, Correspondence  
+**People Mentioned**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project  
+**Locations**: Paris, France  
+**File**: `gov.uscourts.nysd.447706.1327.13.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and
-  - File: `0102_01_05_24_From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: party, island
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0105_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Ghislaine Maxwell, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0106_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Wexner
-  - Key terms: girl, massage, island
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0109_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: flight, girl, massage, island
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0116_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0118_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0119_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, minor, massage, party
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-
-  - File: `0120_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`
-  - People mentioned: Maxwell, Giuffre
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.4 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0122_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage, island
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Protective Order, South Salem, On Point Events, Defendant
+Maxwell, In Request, This Motion, Menninger Decl, General Objections, Income You, The Florida  
+**Locations**: New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0123_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0124_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
+**Document Type**: Email  
+**People Mentioned**: Maxwell
+Subject, On Sat  
+**File**: `gov.uscourts.nysd.447706.1330.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0125_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Leslie Wexner, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, island
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0127_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: flight, girl, island
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0128_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Wexner
-  - Key terms: girl, massage, island
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0129_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: party
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0130_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Brunel, Giuffre
-  - Key terms: girl, minor
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, minor, party, island
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.16**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0132_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
-  - Key terms: party
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Notary Public, Professional Reporter, West Palm Beach, Chislnine Maxwell, Jenn Luc Brunel, And Snrnh Kellen, Modeling Agency, Sarah Kellen, Has Jeffrey Epstein, Ghislaine Mnx  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.16.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0137_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0140_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
-  - Key terms: flight
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0142_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0143_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Giuffre, Andrew
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Dershowitz, Maxwell
-  - Key terms: girl, flight, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Clinton, Dershowitz
-  - Key terms: flight, girl, minor
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-14_untitled
-  - File: `0147_01_05_24_From-Unknown_To-14_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0152_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: flight
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.5 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0155_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Virginia Roberts, Darshanee
+Majliyana Request, Law
+University, Protective Order, Meredith Schultz, Moisture
+Controls, Defendant
+Maxwell, Federal Rules, General Objections, Food Lion  
+**Locations**: Little St. James, New York, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.5_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_“Ghislaine
-  - File: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: girl, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-(a)Dr.Donahue,(b) Dr.Haye_To-Unknown_“(1)theparty's explanationforthefailuret
-  - File: `0163_01_03_24_From-(a)Dr.Donahue,(b) Dr.Haye_To-Unknown_“(1)theparty's explanationforthefailuret.txt`
-  - People mentioned: Maxwell, Andrew, Giuffre
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0165_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Maxwell, Andrew, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_(1) would not be a waiver under this rul
-  - File: `0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Andrew
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0169_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Maxwell, Epstein, Brunel
-  - Key terms: massage, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0170_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1331.4**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-
-  - File: `0174_01_03_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`
-  - People mentioned: Maxwell, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Evidence
+An, Law
+University, No Alleged Spoliation, Preserve The Journal, Numerex Corp, Palm Beach Police, United States Attorney, Federal Rules, Defendant Can Show, Miss Maxwell  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1331.4.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0175_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Epstein, Brunel, Andrew, Giuffre
-  - Key terms: flight, girl, massage, party
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0176_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Andrew, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0177_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0178_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Andrew, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0180_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Maxwell, Andrew, Giuffre
-  - Key terms: girl, massage
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0183_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2
-  - File: `0189_01_03_24_From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2.txt`
-  - People mentioned: Maxwell, Epstein, Dershowitz, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0190_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-31**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_legal advice
-  - File: `0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Lesley Groff, Duces Tecum, Brunswick Corp, Biovail Corp, Sarah Ransome, Protective Order, Ghislaine
+Maxwell, Concord Boat Corp, Sarah Kellen, Jeffrey Epstein  
+**File**: `1331-31.pdf`  
 
+---
 
-### 2025-11-01
+**20250125 - EMAIL - Re**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**From**: jeffrey E  
+**To**: G Maxwell  
+**Preview**: ==================================================================================================== EMAIL #0113 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell  
+**File**: `0113_Sunday, January 25,_From-jeffrey E_To-G Maxwell_Re_.txt`  
 
+---
 
-### 2025-11-01
+**20250216 - EMAIL - untitled**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad
-  - File: `0194_01_03_24_From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Brunel
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0048 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-02
+**20250216 - EMAIL - untitled**
 
-**[Email]** Email from **06** to **2017**
-  - Subject: From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De
-  - File: `0110_02_06_2017_From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0092 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0092_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-02
+**20250216 - EMAIL - untitled**
 
-**[Email]** Email from **16** to **2016**
-  - Subject: From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week
-  - File: `0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0095 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0095_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-06
+**20250324 - EMAIL - untitled**
 
-**[Email]** Email from **15** to **2016**
-  - Subject: From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------
-  - File: `0151_06_15_2016_From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0139 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Jean-Luc Brunel, Epstein, Brunel, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, party  
+**File**: `0139_Wednesday, March 24,_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-07
+**20250714 - EMAIL - Giuffre- Conferralregardingsearchterms**
 
-**[Email]** Email from **19** to **06 PALM BEACH P**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0182_7_19_06 PALM BEACH P_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Dershowitz, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage, island
+**From**: LauraMenninger  
+**To**: MeredithSchultz  
+**Preview**: ==================================================================================================== EMAIL #0061 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Maxwell, Giuffre  
+**File**: `0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt`  
 
+---
 
-### 2025-11-08
+**20250827 - EMAIL - RE  Hi There**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: flight, island
+**From**: Richards, Jason R  
+**To**: Robert Giuffre  
+**Preview**: ==================================================================================================== EMAIL #0184 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: flight, girl, minor  
+**File**: `0184_Wednesday, August 27_From-Richards, Jason R_To-Robert Giuffre_RE_ Hi There.txt`  
 
+---
 
-### 2025-11-11
+**20250908 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **(Name ofp erson to whom t**
-  - Subject: Sigrid Mccawley, Esq. of Boies, Schiller
-  - File: `0164_Sen,er's sfg11utur,,_From-Unknown_To-(Name ofp erson to whom t_Sigrid Mccawley, Esq. of Boies, Schiller.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Trump, Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-15
+**20251017 - EMAIL - untitled**
 
-**[Email]** Email from ** Befo** to **From-Unknown**
-  - Subject: To-Unknown_untitled
-  - File: `0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Dershowitz, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage, party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0087 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-15
+**20251020 - EMAIL - untitled**
 
-**[Email]** Email from ** Befo** to **From-Unknown**
-  - Subject: To-Unknown_untitled
-  - File: `0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Prince Andrew, Clinton, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage, party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0138 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl  
+**File**: `0138_Thursday, October 20_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-18
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0103_Friday, November 18,_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Giuffre
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0003 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0003_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-22
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell, Case No. 15-cv-7433-**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0154_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Maxwell, Ghislaine Maxwell, Andrew, Giuffre
-  - Key terms: massage
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0007 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`  
 
+---
 
-### 2025-11-22
+**20251101 - EMAIL - From-JaneDoe2 To-Unknown untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0157_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Maxwell, Epstein, Jeffrey Epstein, Giuffre
-  - Key terms: girl, minor, massage, island
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0008 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-22
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
-  - Key terms: flight, girl, massage, island
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0011 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0011_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0012 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0012_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, party  
+**File**: `0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown 11**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0017 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: minor  
+**File**: `0017_01_04_24_From-Unknown_To-Unknown_11.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0019 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0019_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0020 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Prince Andrew, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0020_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0021 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, massage  
+**File**: `0021_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz, Ghislaine Maxwell  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0024 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0024_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Giuffre, Maxwell, Alan Dershowitz, Ghislaine Maxwell  
+**File**: `0025_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0026 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, massage, party  
+**File**: `0026_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0027 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0027_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0029 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0029_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0030 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0030_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0031 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0031_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0033 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0033_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0034 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0034_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0035 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight  
+**File**: `0035_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0037 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Ghislaine Maxwell  
+**File**: `0037_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0038 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Clinton, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: party, massage  
+**File**: `0038_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0040 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl  
+**File**: `0040_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0041 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, girl  
+**File**: `0041_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0042 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0042_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0044 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, minor  
+**File**: `0044_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell,**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight, island, girl, party  
+**File**: `0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0047 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0047_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0049 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, minor  
+**File**: `0049_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0054 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0054_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0057 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0057_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0058 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0058_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0060 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, girl  
+**File**: `0060_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0062 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0062_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0065 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0065_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell, Case No. 15-cv-7433-**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0066 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0066_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-1. Ms. Maxwell’s sexual a “Defendant should be ordered to sit for**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Virginia Giuffre, Bill Clinton  
+**Key Terms**: island, party, massage, minor, girl  
+**File**: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Guiffre v. Maxwell**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0071 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Clinton, Wexner, Brunel, Maxwell  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0071_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Brunel, Prince Andrew  
+**Key Terms**: massage  
+**File**: `0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0074 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Ghislaine Maxwell, Maxwell, Jeffrey Epstein, Epstein  
+**File**: `0074_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Guiffre v. Maxwell**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0075 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Clinton, Wexner, Brunel, Maxwell  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0076 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0076_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: massage  
+**File**: `0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell, Case No. 15-cv-7433-**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0080 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0080_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0082 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0082_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0084 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0084_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0088 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0088_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0089 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island  
+**File**: `0089_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, minor, party  
+**File**: `0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0093 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0093_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0094 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0094_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-(1) produce the documents England**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0096 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, party  
+**File**: `0096_01_05_24_From-Unknown_To-(1) produce the documents_England.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0098 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Clinton, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: party, massage  
+**File**: `0098_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0099 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0099_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-(cid 120) submit responsi (i) consistent with these rules and**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0102 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party  
+**File**: `0102_01_05_24_From-Unknown_To-(cid_120) submit responsi_(i) consistent with these rules and.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0105 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0105_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0106 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Wexner, Virginia Roberts, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage  
+**File**: `0106_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0109 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: flight, island, girl, massage  
+**File**: `0109_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0116 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0116_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0118 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0118_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0119 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: minor, party, girl, massage  
+**File**: `0119_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell, Case No. 15-cv-7433-**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0120 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0120_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0122 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage  
+**File**: `0122_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0123 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0123_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0124 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0124_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0125 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0125_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Wexner, Alan Dershowitz, Brunel, Leslie Wexner, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, minor  
+**File**: `0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0127 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight, island, girl  
+**File**: `0127_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0128 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Wexner, Virginia Roberts, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, girl, massage  
+**File**: `0128_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0129 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Trump, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0129_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0130 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Brunel, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, minor  
+**File**: `0130_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, minor, party  
+**File**: `0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0132 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0132_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0137 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0137_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0140 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight  
+**File**: `0140_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0142 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Epstein  
+**Key Terms**: party  
+**File**: `0142_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0143 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Roberts, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0143_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein  
+**Key Terms**: party, massage, minor, flight, girl  
+**File**: `0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Prince Andrew, Virginia Giuffre  
+**Key Terms**: flight, girl, minor  
+**File**: `0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-14 untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0147 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party  
+**File**: `0147_01_05_24_From-Unknown_To-14_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0152 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight  
+**File**: `0152_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0155 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party, girl, massage  
+**File**: `0155_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown “Ghislaine**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Bill Clinton, Maxwell  
+**Key Terms**: party, girl  
+**File**: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-(a)Dr.Donahue,(b) Dr.Haye To-Unknown “(1)theparty's explanationforthefailuret**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0163 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre  
+**Key Terms**: party  
+**File**: `0163_01_03_24_From-(a)Dr.Donahue,(b) Dr.Haye_To-Unknown_“(1)theparty's explanationforthefailuret.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0165 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Prince Andrew, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0165_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown (1) would not be a waiver under this rul**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0169 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Ghislaine Maxwell  
+**Key Terms**: island, party, massage  
+**File**: `0169_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0170 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0170_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell, Case No. 15-cv-7433-**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0174 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre  
+**File**: `0174_01_03_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0175 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Brunel, Maxwell, Giuffre  
+**Key Terms**: flight, party, girl, massage  
+**File**: `0175_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0176 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0176_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0177 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0177_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0178 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Virginia Giuffre, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0178_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0180 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Prince Andrew, Maxwell, Giuffre, Ghislaine Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0180_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0183 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**File**: `0183_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown JaneDoe#1andJaneDoe#2**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0189 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Maxwell, Epstein, Giuffre  
+**File**: `0189_01_03_24_From-Unknown_To-Unknown_JaneDoe#1andJaneDoe#2.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0190 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0190_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown legal advice**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Marty Weinberg, counsel f Investigation of Jeffrey Epsteinat 7. Ad**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0194 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Jean-Luc Brunel, Andrew, Epstein, Brunel, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0194_01_03_24_From-Unknown_To-Marty Weinberg, counsel f_Investigation of Jeffrey Epsteinat 7. Ad.txt`  
+
+---
+
+**20251102 - EMAIL - From-Unknown To-Sarah Ransome Laura A. Menninger, 150 E. 10th Ave., De**
+
+**From**: 06  
+**To**: 2017  
+**Preview**: ==================================================================================================== EMAIL #0110 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0110_02_06_2017_From-Unknown_To-Sarah Ransome_Laura A. Menninger, 150 E. 10th Ave., De.txt`  
+
+---
+
+**20251102 - EMAIL - From-Brad Edwards To-JEAN LUC BRUNEL, c o Joe Depositions next week**
+
+**From**: 16  
+**To**: 2016  
+**Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Brunel, Virginia Giuffre, Maxwell  
+**Key Terms**: party  
+**File**: `0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`  
+
+---
+
+**20251106 - EMAIL - From-Unknown To-Ellmax, LLC c o Registere ----- ----------- -----------**
+
+**From**: 15  
+**To**: 2016  
+**Preview**: ==================================================================================================== EMAIL #0151 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Virginia Roberts, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party  
+**File**: `0151_06_15_2016_From-Unknown_To-Ellmax, LLC c_o Registere_----- ----------- -----------.txt`  
+
+---
+
+**20251107 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 19  
+**To**: 06 PALM BEACH P  
+**Preview**: ==================================================================================================== EMAIL #0182 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, massage  
+**File**: `0182_7_19_06 PALM BEACH P_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251108 - EMAIL - untitled**
+
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: flight, island  
+**File**: `0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251111 - EMAIL - Sigrid Mccawley, Esq. of Boies, Schiller**
+
+**From**: Unknown  
+**To**: (Name ofp erson to whom t  
+**Preview**: ==================================================================================================== EMAIL #0164 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0164_Sen,er's sfg11utur,,_From-Unknown_To-(Name ofp erson to whom t_Sigrid Mccawley, Esq. of Boies, Schiller.txt`  
+
+---
+
+**20251115 - EMAIL - To-Unknown untitled**
+
+**From**:  Befo  
+**To**: From-Unknown  
+**Preview**: ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Giuffre, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: party, girl, massage  
+**File**: `0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251115 - EMAIL - To-Unknown untitled**
+
+**From**:  Befo  
+**To**: From-Unknown  
+**Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, massage, party  
+**File**: `0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251118 - EMAIL - untitled**
+
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0103 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0103_Friday, November 18,_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251122 - EMAIL - untitled**
+
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0154 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Maxwell, Andrew, Giuffre, Ghislaine Maxwell  
+**Key Terms**: massage  
+**File**: `0154_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251122 - EMAIL - untitled**
+
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0157 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Virginia Roberts, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0157_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251122 - EMAIL - untitled**
+
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Virginia Roberts, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: flight, island, girl, massage  
+**File**: `0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+
+---
 

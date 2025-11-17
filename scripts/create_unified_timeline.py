@@ -268,31 +268,9 @@ This timeline integrates all sources:
 
 """
     
-    # Add events by year/month
-    for year_month in sorted(by_year_month.keys()):
-        events = by_year_month[year_month]
-        
-        # Parse year/month for header
-        year, month = year_month.split('-')
-        month_name = datetime(int(year), int(month), 1).strftime('%B %Y')
-        
-        timeline_md += f"\n### {month_name}\n\n"
-        timeline_md += f"**Events this month**: {len(events)}\n\n"
-        
-        # Group by day
-        by_day = defaultdict(list)
-        for event in events:
-            day = event['date'].strftime('%Y-%m-%d')
-            by_day[day].append(event)
-        
-        for day in sorted(by_day.keys()):
-            day_events = by_day[day]
-            day_formatted = datetime.strptime(day, '%Y-%m-%d').strftime('%A, %B %d, %Y')
-            
-            timeline_md += f"\n#### {day_formatted}\n\n"
-            
-            for event in day_events:
-                timeline_md += format_event(event)
+    # Add all events in strict chronological order
+    for event in dated_events:
+        timeline_md += format_event(event)
     
     # Add undated events section
     if undated_events:
@@ -313,45 +291,162 @@ This timeline integrates all sources:
     
     return timeline_md
 
+def extract_title_from_content(event):
+    """Extract a meaningful title from the event content"""
+    filename = event.get('filename', '')
+    
+    # For emails, use subject
+    if event['type'] == 'email':
+        subject = event.get('subject', 'untitled')
+        # Clean up subject
+        subject = subject.replace('_', ' ').strip()
+        if len(subject) > 100:
+            subject = subject[:97] + '...'
+        return subject
+    
+    # For court documents, extract title from filename
+    if event['type'] == 'court_document':
+        # Remove extension and clean up
+        title = filename.replace('.pdf', '').replace('_', ' ')
+        
+        # Common court document patterns
+        if 'complaint' in title.lower():
+            return 'Civil Complaint Filed'
+        elif 'deposition' in title.lower():
+            return 'Deposition Transcript'
+        elif 'motion' in title.lower():
+            return 'Court Motion Filed'
+        elif 'order' in title.lower():
+            return 'Court Order'
+        elif 'exhibit' in title.lower():
+            return 'Court Exhibits'
+        elif 'affidavit' in title.lower():
+            return 'Affidavit Filed'
+        else:
+            # Use cleaned filename
+            if len(title) > 100:
+                title = title[:97] + '...'
+            return title
+    
+    # For flight logs
+    if event['type'] == 'flight':
+        locations = event.get('locations', [])
+        if len(locations) >= 2:
+            return f"Flight: {locations[0]} → {locations[-1]}"
+        elif locations:
+            return f"Flight to {locations[0]}"
+        else:
+            return "Flight Log Entry"
+    
+    # For other documents, use doc types or filename
+    doc_types = event.get('doc_types', [])
+    if doc_types:
+        return ' / '.join([dt.replace('_', ' ').title() for dt in doc_types[:2]])
+    
+    # Fallback to cleaned filename
+    title = filename.replace('.pdf', '').replace('_', ' ')
+    if len(title) > 100:
+        title = title[:97] + '...'
+    return title if title else 'Document'
+
 def format_event(event):
-    """Format a single event for the timeline"""
+    """Format a single event for the timeline with enhanced details"""
     event_type = event['type']
-    source = event.get('source', 'Unknown')
+    date_obj = event.get('date')
     
-    md = f"**[{source}]** "
+    # Format date as YYYYMMDD
+    if date_obj:
+        date_str = date_obj.strftime('%Y%m%d')
+    else:
+        date_str = 'UNDATED'
     
+    # Get category
+    category_map = {
+        'email': 'EMAIL',
+        'flight': 'FLIGHT',
+        'court_document': 'COURT',
+        'document': 'DOCUMENT'
+    }
+    category = category_map.get(event_type, 'OTHER')
+    
+    # Get title
+    title = extract_title_from_content(event)
+    
+    # Format main entry line
+    md = f"**{date_str} - {category} - {title}**\n\n"
+    
+    # Add detailed description based on type
     if event_type == 'email':
-        md += f"Email from **{event['from']}** to **{event['to']}**\n"
-        md += f"  - Subject: {event['subject']}\n"
-        md += f"  - File: `{event['filename']}`\n"
-        if event['people']:
-            md += f"  - People mentioned: {', '.join(event['people'][:5])}\n"
-        if event['key_terms']:
-            md += f"  - Key terms: {', '.join(event['key_terms'])}\n"
+        from_person = event.get('from', 'Unknown')
+        to_person = event.get('to', 'Unknown')
+        
+        md += f"**From**: {from_person}  \n"
+        md += f"**To**: {to_person}  \n"
+        
+        if event.get('content_preview'):
+            preview = event['content_preview'].strip()
+            if len(preview) > 200:
+                preview = preview[:197] + '...'
+            md += f"**Preview**: {preview}  \n"
+        
+        if event.get('people'):
+            people_list = ', '.join(event['people'][:8])
+            md += f"**People Mentioned**: {people_list}  \n"
+        
+        if event.get('key_terms'):
+            terms = ', '.join(event['key_terms'])
+            md += f"**Key Terms**: {terms}  \n"
+        
+        md += f"**File**: `{event['filename']}`  \n"
     
     elif event_type == 'flight':
-        md += f"Flight Log Entry\n"
-        md += f"  - File: `{event['filename']}`\n"
-        if event['people']:
-            md += f"  - Passengers/People: {', '.join(event['people'][:10])}\n"
-        if event['locations']:
-            md += f"  - Locations: {', '.join(event['locations'])}\n"
+        if event.get('people'):
+            passengers = ', '.join(event['people'][:15])
+            md += f"**Passengers**: {passengers}  \n"
+        
+        if event.get('locations'):
+            locations = ' → '.join(event['locations'])
+            md += f"**Route**: {locations}  \n"
+        
+        md += f"**Source**: `{event['filename']}`  \n"
     
     elif event_type == 'court_document':
-        md += f"Court Document\n"
-        md += f"  - File: `{event['filename']}`\n"
-        md += f"  - Types: {', '.join(event.get('doc_types', []))}\n"
-        if event['people']:
-            md += f"  - People mentioned: {', '.join(event['people'][:10])}\n"
+        doc_types = event.get('doc_types', [])
+        if doc_types:
+            types_str = ', '.join([dt.replace('_', ' ').title() for dt in doc_types])
+            md += f"**Document Type**: {types_str}  \n"
+        
+        if event.get('people'):
+            people_list = ', '.join(event['people'][:12])
+            md += f"**People Mentioned**: {people_list}  \n"
+        
+        if event.get('locations'):
+            locations = ', '.join(event['locations'][:5])
+            md += f"**Locations**: {locations}  \n"
+        
+        md += f"**File**: `{event['filename']}`  \n"
     
     elif event_type == 'document':
-        md += f"Document\n"
-        md += f"  - File: `{event['filename']}`\n"
-        md += f"  - Types: {', '.join(event.get('doc_types', []))}\n"
-        if event['people']:
-            md += f"  - People mentioned: {', '.join(event['people'][:5])}\n"
+        doc_types = event.get('doc_types', [])
+        if doc_types:
+            types_str = ', '.join([dt.replace('_', ' ').title() for dt in doc_types])
+            md += f"**Document Type**: {types_str}  \n"
+        
+        if event.get('people'):
+            people_list = ', '.join(event['people'][:8])
+            md += f"**People Mentioned**: {people_list}  \n"
+        
+        if event.get('locations'):
+            locations = ', '.join(event['locations'][:5])
+            md += f"**Locations**: {locations}  \n"
+        
+        text_len = event.get('text_length', 0)
+        if text_len > 0:
+            md += f"**Length**: {text_len:,} characters  \n"
+        
+        md += f"**File**: `{event['filename']}`  \n"
     
-    md += "\n"
+    md += "\n---\n\n"
     return md
 
 def create_vip_timelines(all_events):
@@ -398,11 +493,11 @@ def create_vip_timelines(all_events):
 
 ## Chronological Events
 
+All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE format):
+
 """
         
         for event in dated:
-            date_str = event['date'].strftime('%Y-%m-%d')
-            vip_md += f"\n### {date_str}\n\n"
             vip_md += format_event(event)
         
         # Save VIP timeline

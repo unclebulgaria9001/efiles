@@ -2,7 +2,7 @@
 
 **Total Events**: 121  
 **Dated Events**: 119  
-**Generated**: 2025-11-17 10:48:30
+**Generated**: 2025-11-17 11:24:08
 
 ---
 
@@ -17,1085 +17,1298 @@
 
 ## Chronological Events
 
+All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE format):
 
-### 2010-03-24
+**20100324 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Dershowitz, Maxwell
-  - Key terms: island, girl, flight, minor, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2015-01-22
+**20150122 - DOCUMENT - Deposition**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-01-22
+**20150122 - DOCUMENT - Deposition**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-01-22
+**20150122 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-01-22
+**20150122 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - DOCUMENT - Deposition**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - DOCUMENT - Deposition**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - DOCUMENT - Deposition**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2015-02-19
+**20150219 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2016-02-16
+**20160216 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2016-02-16
+**20160216 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
 Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
 My Commission, Certified Realtime
-Reporter
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2016-02-24
+**20160224 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2016-02-24
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2016-02-24
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2016-02-24
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2016-02-24
-
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2016-02-24
+**20160224 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2016-02-24
+**20160224 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2016-02-24
+**20160224 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2016-04-12
+**20160224 - COURT - 1331-29**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: island, girl, flight, minor, massage, party
-
-
-### 2016-06-21
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2016-06-21
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2016-06-21
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
-My Commission, Certified Realtime
-Reporter
-
-
-### 2016-06-21
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
-My Commission, Certified Realtime
-Reporter
-
-
-### 2020-06-02
-
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: flight, girl, minor, massage
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
-Farmer, South University Street, Philip Barden
-Devonshires, Ghislaine Maxwell, Of New York
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1329.0_1.pdf`
-  - Types: legal_document
-  - People mentioned: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
-List
-
-
-### 2024-01-05
-
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1329.0_1.pdf`
-  - Types: legal_document
-  - People mentioned: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
-List
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.19.pdf`
-  - Types: deposition
-  - People mentioned: Palm
-Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts
-
-
-### 2024-01-05
-
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2024-01-05
+**20160224 - COURT - 1331-29**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2024-01-05
+**20160224 - COURT - 1331-29**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2024-01-05
+**20160224 - COURT - 1331-29**
 
-**[Court Filing]** Court Document
-  - File: `1331-29.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Bradley Edwards
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
 Farmer, South University Street, Philip Barden
 Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
 Laura, Finsbury Circus
-London, United States District, Alan Dershowitz
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2024-01-05
+**20160412 - EMAIL - untitled**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0067 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20160621 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20160621 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20160621 - COURT - gov.uscourts.nysd.447706.1327.22**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
 Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
 My Commission, Certified Realtime
-Reporter
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2024-01-05
+**20160621 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
 Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
 My Commission, Certified Realtime
-Reporter
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2024-01-05
+**20200602 - EMAIL - untitled**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
-My Commission, Certified Realtime
-Reporter
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Wexner, Alan Dershowitz, Virginia Giuffre, Bill Clinton  
+**Key Terms**: flight, minor, girl, massage  
+**File**: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
-My Commission, Certified Realtime
-Reporter
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1327.22.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
-Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
-My Commission, Certified Realtime
-Reporter
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.43_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1329.0_1.pdf`
-  - Types: legal_document
-  - People mentioned: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240103 - COURT - 1320-12**
+
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition**
+
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition**
+
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition**
+
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition**
+
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach  
+**Locations**: New York, Palm Beach, Florida, London  
+**Length**: 7,449 characters  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London  
+**Locations**: New York, Florida, United Kingdom, London  
+**Length**: 3,207 characters  
+**File**: `1331-29.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 3,278 characters  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 18,373 characters  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Legal Document**
+
+**Document Type**: Legal Document  
+**People Mentioned**: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
 List, Intervenors
-Julie Brown, See Nixon, The Document, Senior United States, John Does
+Julie Brown, See Nixon, The Document  
+**Locations**: New York  
+**Length**: 3,535 characters  
+**File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1329.0_1.pdf`
-  - Types: legal_document
-  - People mentioned: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
+**Document Type**: Legal Document  
+**People Mentioned**: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
 List, Intervenors
-Julie Brown, See Nixon, The Document, Senior United States, John Does
+Julie Brown, See Nixon, The Document  
+**Locations**: New York  
+**Length**: 3,535 characters  
+**File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
 
+---
 
-### 2025-09-08
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Prince Andrew, Clinton, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Email]** Email from **Jenna** to **Sharon.Churcher**
-  - Subject: RE_ Re_
-  - File: `0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`
-  - People mentioned: Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton, Dershowitz
-  - Key terms: girl, flight, minor, massage, party
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.19**
 
-**[Email]** Email from **04** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: party, island
+**Document Type**: Deposition  
+**People Mentioned**: Palm
+Beach, File Under Seal, Alan Dershowitz, Bob Norman, Ghislaine Maxwell, Alfredo Rodriguez, Updated On, Miami Beach, Follow Local, Virgginia Roberts  
+**Locations**: New York, Palm Beach, Florida, London  
+**File**: `gov.uscourts.nysd.447706.1328.19.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-29**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-29**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0025_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Andrew, Giuffre
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-29**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - 1331-29**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_Giuffre v. Maxwell,
-  - File: `0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: flight, girl, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Bradley Edwards
+Farmer, South University Street, Philip Barden
+Devonshires, Ghislaine Maxwell, Of New York, Andrews Ave, Menninger
+Laura, Finsbury Circus
+London, United States District, Alan Dershowitz  
+**Locations**: New York, Florida, United Kingdom, London  
+**File**: `1331-29.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for
-  - File: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: island, girl, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
+My Commission, Certified Realtime
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Clinton, Dershowitz
-  - Key terms: massage
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
+My Commission, Certified Realtime
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: massage
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
+My Commission, Certified Realtime
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
+My Commission, Certified Realtime
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1327.22**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Notary Public, Kelli Ann Willis, Boies Schiller, Las Olas Boulevard, Registered
+Professional Reporter, Fort Lauderdale, Alan Dershowitz, Filed Under Seal, Florida
+My Commission, Certified Realtime
+Reporter  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1327.22.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Leslie Wexner, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Jeffrey Epstein
-  - Key terms: girl, minor, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Dershowitz, Maxwell
-  - Key terms: girl, flight, minor, massage, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Clinton, Dershowitz
-  - Key terms: flight, girl, minor
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_“Ghislaine
-  - File: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: girl, party
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_(1) would not be a waiver under this rul
-  - File: `0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Andrew
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.43 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled
-  - File: `0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
-  - Key terms: minor, party, island
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: Detective Recarey, Notary Public, West Palm Beach, Like Jeep, In New Jersey, Miami Beach, With Sarah, Sarah Kellen, When Alan Dershowitz, If Rodriguez  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.43_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1329.0 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_legal advice
-  - File: `0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`
-  - People mentioned: Ghislaine Maxwell, Dershowitz, Maxwell, Epstein, Giuffre
+**Document Type**: Legal Document  
+**People Mentioned**: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
+List, Intervenors
+Julie Brown, See Nixon, The Document, Senior United States, John Does  
+**Locations**: New York  
+**File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
 
+---
 
-### 2025-11-01
+**20240105 - COURT - gov.uscourts.nysd.447706.1329.0 1**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, minor, massage, island
+**Document Type**: Legal Document  
+**People Mentioned**: Federal Rule, Intervenor Alan Dershowitz, This Document, Warner Commc, Epstein
+List, Intervenors
+Julie Brown, See Nixon, The Document, Senior United States, John Does  
+**Locations**: New York  
+**File**: `gov.uscourts.nysd.447706.1329.0_1.pdf`  
 
+---
 
-### 2025-11-02
+**20250908 - EMAIL - untitled**
 
-**[Email]** Email from **16** to **2016**
-  - Subject: From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week
-  - File: `0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Dershowitz, Maxwell, Epstein
-  - Key terms: party
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Trump, Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-15
+**20251101 - EMAIL - RE  Re**
 
-**[Email]** Email from ** Befo** to **From-Unknown**
-  - Subject: To-Unknown_untitled
-  - File: `0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Dershowitz, Maxwell, Epstein, Giuffre, Jeffrey Epstein
-  - Key terms: girl, massage, party
+**From**: Jenna  
+**To**: Sharon.Churcher  
+**Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Prince Andrew, Virginia Giuffre  
+**Key Terms**: party, massage, minor, flight, girl  
+**File**: `0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`  
 
+---
 
-### 2025-11-15
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from ** Befo** to **From-Unknown**
-  - Subject: To-Unknown_untitled
-  - File: `0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Prince Andrew, Clinton, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage, party, island
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0013 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0013_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 04  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0014 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, party  
+**File**: `0014_01_04_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0022 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz, Ghislaine Maxwell  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0022_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0025 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Giuffre, Maxwell, Alan Dershowitz, Ghislaine Maxwell  
+**File**: `0025_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0036 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: party  
+**File**: `0036_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown Giuffre v. Maxwell,**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0046 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: flight, island, girl, party  
+**File**: `0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-1. Ms. Maxwell’s sexual a “Defendant should be ordered to sit for**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Virginia Giuffre, Bill Clinton  
+**Key Terms**: island, party, massage, minor, girl  
+**File**: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0073 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Brunel, Prince Andrew  
+**Key Terms**: massage  
+**File**: `0073_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0079 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: massage  
+**File**: `0079_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0086 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0091 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Virginia Giuffre, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, minor, party  
+**File**: `0091_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0104 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0126 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Wexner, Alan Dershowitz, Brunel, Leslie Wexner, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, minor  
+**File**: `0126_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0131 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: island, girl, minor, party  
+**File**: `0131_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0144 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Prince Andrew, Virginia Giuffre, Maxwell, Jeffrey Epstein  
+**Key Terms**: party, massage, minor, flight, girl  
+**File**: `0144_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0146 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Prince Andrew, Virginia Giuffre  
+**Key Terms**: flight, girl, minor  
+**File**: `0146_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown “Ghislaine**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Bill Clinton, Maxwell  
+**Key Terms**: party, girl  
+**File**: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown (1) would not be a waiver under this rul**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0168 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Giuffre, Ghislaine Maxwell  
+**File**: `0168_01_03_24_From-Unknown_To-Unknown_(1) would not be a waiver under this rul.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Sigrid McCawley, Esq. Boi untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0179 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**Key Terms**: island, minor, party  
+**File**: `0179_01_03_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown legal advice**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0192 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Alan Dershowitz, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0192_01_03_24_From-Unknown_To-Unknown_legal advice.txt`  
+
+---
+
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
+
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0193 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Brunel, Prince Andrew, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: minor, island, girl, massage  
+**File**: `0193_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251102 - EMAIL - From-Brad Edwards To-JEAN LUC BRUNEL, c o Joe Depositions next week**
+
+**From**: 16  
+**To**: 2016  
+**Preview**: ==================================================================================================== EMAIL #0171 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Virginia Roberts, Alan Dershowitz, Brunel, Virginia Giuffre, Maxwell  
+**Key Terms**: party  
+**File**: `0171_02_16_2016_From-Brad Edwards_To-JEAN LUC BRUNEL, c_o Joe_Depositions next week.txt`  
+
+---
+
+**20251115 - EMAIL - To-Unknown untitled**
+
+**From**:  Befo  
+**To**: From-Unknown  
+**Preview**: ==================================================================================================== EMAIL #0052 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Dershowitz, Epstein, Giuffre, Maxwell, Jeffrey Epstein, Alan Dershowitz  
+**Key Terms**: party, girl, massage  
+**File**: `0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+
+---
+
+**20251115 - EMAIL - To-Unknown untitled**
+
+**From**:  Befo  
+**To**: From-Unknown  
+**Preview**: ==================================================================================================== EMAIL #0090 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, massage, party  
+**File**: `0090_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt`  
+
+---
 

@@ -2,7 +2,7 @@
 
 **Total Events**: 56  
 **Dated Events**: 56  
-**Generated**: 2025-11-17 10:48:30
+**Generated**: 2025-11-17 11:24:08
 
 ---
 
@@ -17,453 +17,540 @@
 
 ## Chronological Events
 
+All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE format):
 
-### 2002-02-02
+**20020202 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Donald Trump, Prince Andrew, Bill Clinton, Trump, Maxwell  
+**Key Terms**: island, party  
+**File**: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2009-09-08
+**20090908 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2009-09-08
+**20090908 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2009-09-08
+**20090908 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2009-09-08
+**20090908 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**Length**: 155,243 characters  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - COURT - 1320-12**
 
-**[Court Filing]** Court Document
-  - File: `1320-12.pdf`
-  - Types: deposition, legal_document, correspondence
-  - People mentioned: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey
+**Document Type**: Deposition, Legal Document, Correspondence  
+**People Mentioned**: Red Ice Creations, Virginia Roberts, And Alan Dershowitz, Meredith Schultz, Michael Jackson, That Ghislaine, Palm Beach Police, New Mexico, Donald Trump, Did Jeffrey  
+**Locations**: New Mexico, Manhattan, Virgin Islands, New York, Palm Beach  
+**File**: `1320-12.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump  
+**Locations**: New York, Palm Beach, Florida  
+**Length**: 15,414 characters  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.42 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.42_1.pdf`
-  - Types: deposition, legal_document
-  - People mentioned: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal
+**Document Type**: Deposition, Legal Document  
+**People Mentioned**: And Kevin Spacey, Were Prince Andrew, Notary Public, West Palm Beach, Palm Beach Lakes, Frederick Fekkai, Biscayne Boulevard, Donald Trump, But Prince Andrew, Filed Under Seal  
+**Locations**: New York, Palm Beach, Florida  
+**File**: `gov.uscourts.nysd.447706.1328.42_1.pdf`  
 
+---
 
-### 2025-09-08
+**20250908 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Prince Andrew, Clinton, Dershowitz, Maxwell, Epstein
-  - Key terms: girl, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0111 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Trump, Maxwell  
+**Key Terms**: girl, massage  
+**File**: `0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt`  
+
+---
 

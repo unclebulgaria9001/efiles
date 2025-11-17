@@ -2,7 +2,7 @@
 
 **Total Events**: 144  
 **Dated Events**: 144  
-**Generated**: 2025-11-17 10:48:30
+**Generated**: 2025-11-17 11:24:08
 
 ---
 
@@ -17,1507 +17,1757 @@
 
 ## Chronological Events
 
+All events listed in strict chronological order (YYYYMMDD - CATEGORY - TITLE format):
 
-### 2002-02-02
+**20020202 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0121 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Donald Trump, Prince Andrew, Bill Clinton, Trump, Maxwell  
+**Key Terms**: island, party  
+**File**: `0121_Order, February 2, 2_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2002-05-25
+**20020525 - EMAIL - (1) Ms. Sharon Churcher, Plaintiff’s fri**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: (1) Ms. Sharon Churcher, Plaintiff’s fri
-  - File: `0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Dershowitz, Maxwell
-  - Key terms: girl, massage, party, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0187 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, girl, massage, party  
+**File**: `0187_Wednesday, May 25, 2_From-Unknown_To-Unknown_(1) Ms. Sharon Churcher, Plaintiff’s fri.txt`  
 
+---
 
-### 2010-03-24
+**20100324 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Dershowitz, Maxwell
-  - Key terms: island, girl, flight, minor, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0149 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Brunel, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: island, massage, minor, flight, girl  
+**File**: `0149_sday, March 24, 2010_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2020-06-02
+**20200602 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: flight, girl, minor, massage
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0141 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Wexner, Alan Dershowitz, Virginia Giuffre, Bill Clinton  
+**Key Terms**: flight, minor, girl, massage  
+**File**: `0141_2, June 20, 2016_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Presumptive Ten Deposition, Law
-University, Plaintiff Virginia Giuffre
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
-Cases
-Atkinson, Rules
-Fed, Law
-University, Plaintiff Virginia Giuffre, President Bill Clinton
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Document]** Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February
-
-
-### 2024-01-03
-
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-27.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 26,549 characters  
+**File**: `1320-27.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-24.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Presumptive Ten Deposition, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment
+Virginia, Electronic Filing  
+**Locations**: New York, Florida  
+**Length**: 27,708 characters  
+**File**: `1320-24.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-21.pdf`
-  - Types: deposition, legal_document, financial
-  - People mentioned: Page
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
 Cases
 Atkinson, Rules
 Fed, Law
 University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
-Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen
+Virginia, Electronic Filing, Defendant Maxwell  
+**Locations**: New York, Florida  
+**Length**: 24,558 characters  
+**File**: `1320-21.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-03
+**20240103 - DOCUMENT - Deposition / Legal Document**
 
-**[Court Filing]** Court Document
-  - File: `1320-28.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
-As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**Length**: 65,058 characters  
+**File**: `1320-28.pdf`  
 
+---
 
-### 2024-01-05
+**20240103 - COURT - 1320-27**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-27**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-27.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-24**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Presumptive Ten Deposition, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment  
+**Locations**: New York, Florida  
+**File**: `1320-24.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-21**
+
+**Document Type**: Deposition, Legal Document, Financial  
+**People Mentioned**: Page
+Cases
+Atkinson, Rules
+Fed, Law
+University, Plaintiff Virginia Giuffre, President Bill Clinton, New York
+Virginia, Electronic Filing, Defendant Maxwell, Fifth Amendment, Sarah Kellen  
+**Locations**: New York, Florida  
+**File**: `1320-21.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240103 - COURT - 1320-28**
+
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Attachedas Exhibit, President Bill Clinton, Recurrent Rule, Internet Law Library, On February, Ross Gow
+As, South Salem, Attachedas Exhibit Nis, Louis Freeh, See Sharon Churcher  
+**Locations**: Virgin Islands, New York, London, Little St. James, France  
+**File**: `1320-28.pdf`  
+
+---
+
+**20240105 - DOCUMENT - Deposition / Legal Document**
+
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University
+University, Protective Order, Bradley Trust, Meredith Schultz  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**Length**: 46,531 characters  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - DOCUMENT - Deposition / Legal Document**
 
-**[Document]** Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**Length**: 56,824 characters  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - FLIGHT - Flight: Manhattan → Florida**
 
-**[Flight Log]** Flight Log Entry
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Passengers/People: Letters Rogatory, Summon Two Separate, Given
+**Passengers**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
-  - Locations: Manhattan, New York, United Kingdom, London, Palm Beach, Florida
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Route**: Manhattan → New York → United Kingdom → London → Palm Beach → Florida  
+**Source**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1328.23**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1328.23.pdf`
-  - Types: deposition, legal_document, flight_log, financial
-  - People mentioned: Letters Rogatory, Summon Two Separate, Given
+**Document Type**: Deposition, Legal Document, Flight Log, Financial  
+**People Mentioned**: Letters Rogatory, Summon Two Separate, Given
 Defendant, President Bill Clinton, Law
-University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should
+University, Protective Order, Bradley Trust, Meredith Schultz, Figueroa June, Financial Information Should  
+**Locations**: Manhattan, New York, United Kingdom, London, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1328.23.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2024-01-05
+**20240105 - COURT - gov.uscourts.nysd.447706.1330.4 1**
 
-**[Court Filing]** Court Document
-  - File: `gov.uscourts.nysd.447706.1330.4_1.pdf`
-  - Types: deposition, legal_document, financial, correspondence
-  - People mentioned: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump
+**Document Type**: Deposition, Legal Document, Financial, Correspondence  
+**People Mentioned**: Virginia Roberts, Sex Slave, President Bill Clinton, Emergency Motion, Googled Tatiana, Protective Order, Hyatt Corporation Tom, Palm Beach Police, New Mexico, Donald Trump  
+**Locations**: New Mexico, Virgin Islands, New York, Little St. James, Palm Beach  
+**File**: `gov.uscourts.nysd.447706.1330.4_1.pdf`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - RE  Re**
 
-**[Email]** Email from **Jenna** to **Sharon.Churcher**
-  - Subject: RE_ Re_
-  - File: `0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`
-  - People mentioned: Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton, Dershowitz
-  - Key terms: girl, flight, minor, massage, party
+**From**: Jenna  
+**To**: Sharon.Churcher  
+**Preview**: ==================================================================================================== EMAIL #0010 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Virginia Roberts, Alan Dershowitz, Prince Andrew, Virginia Giuffre  
+**Key Terms**: party, massage, minor, flight, girl  
+**File**: `0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0028 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0028_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-1. Ms. Maxwell’s sexual a “Defendant should be ordered to sit for**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for
-  - File: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Bill Clinton, Clinton, Dershowitz
-  - Key terms: island, girl, minor, massage, party
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0068 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Brunel, Virginia Giuffre, Bill Clinton  
+**Key Terms**: island, party, massage, minor, girl  
+**File**: `0068_01_05_24_From-Unknown_To-1. Ms. Maxwell’s sexual a_“Defendant should be ordered to sit for.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **05** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
+**From**: 05  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0145 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Epstein, Clinton, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre, Ghislaine Maxwell  
+**File**: `0145_01_05_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown “Ghislaine**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_“Ghislaine
-  - File: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`
-  - People mentioned: Ghislaine Maxwell, Prince Andrew, Bill Clinton, Clinton, Maxwell
-  - Key terms: girl, party
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0160 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Dershowitz, Epstein, Clinton, Alan Dershowitz, Prince Andrew, Bill Clinton, Maxwell  
+**Key Terms**: party, girl  
+**File**: `0160_01_03_24_From-Unknown_To-Unknown_“Ghislaine.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0162 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0162_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0167 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0167_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-01
+**20251101 - EMAIL - From-Unknown To-Unknown untitled**
 
-**[Email]** Email from **03** to **24**
-  - Subject: From-Unknown_To-Unknown_untitled
-  - File: `0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: island, girl, flight, minor, massage, party
+**From**: 03  
+**To**: 24  
+**Preview**: ==================================================================================================== EMAIL #0173 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Brunel, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell  
+**Key Terms**: island, party, massage, minor, flight, girl  
+**File**: `0173_01_03_24_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-08
+**20251108 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Virginia Giuffre, Prince Andrew, Bill Clinton, Clinton
-  - Key terms: flight, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0166 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Prince Andrew, Virginia Giuffre, Bill Clinton, Maxwell, Jeffrey Epstein  
+**Key Terms**: flight, island  
+**File**: `0166_8 Brenda Rodriguez,_From-Unknown_To-Unknown_untitled.txt`  
 
+---
 
-### 2025-11-22
+**20251122 - EMAIL - untitled**
 
-**[Email]** Email from **Unknown** to **Unknown**
-  - Subject: untitled
-  - File: `0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`
-  - People mentioned: Ghislaine Maxwell, Bill Clinton, Clinton, Maxwell, Epstein
-  - Key terms: flight, girl, massage, island
+**From**: Unknown  
+**To**: Unknown  
+**Preview**: ==================================================================================================== EMAIL #0158 - ORGANIZED EXTRACTION ================================================================  
+**People Mentioned**: Andrew, Epstein, Clinton, Virginia Roberts, Bill Clinton, Maxwell, Jeffrey Epstein, Giuffre  
+**Key Terms**: flight, island, girl, massage  
+**File**: `0158_22 James Christe, vi_From-Unknown_To-Unknown_untitled.txt`  
+
+---
 
