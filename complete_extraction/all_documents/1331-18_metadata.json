@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-18",
   "filename": "1331-18.pdf",
-  "extraction_date": "2025-11-17T10:34:00.965247",
+  "extraction_date": "2025-11-17T10:40:44.848462",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,23 +56,23 @@
     }
   ],
   "people": [
-    "Avenue\nDenver",
-    "Deposition Exhibit",
-    "Certified Realtime",
-    "Certified Realtime\nReporter",
-    "West Flagler Street",
-    "Registered\nProfessional Reporter",
-    "West\nFlagler Street",
-    "Podhurst Orseck",
     "Notary Public",
     "Kelli Ann Willis",
-    "East Las Olas",
-    "Jeffrey Epstein",
-    "Florida\nCommission",
-    "Bill Clinton",
+    "Registered\nProfessional Reporter",
     "Boulevard\nFort Lauderdale",
+    "West\nFlagler Street",
+    "East Las Olas",
+    "Avenue\nDenver",
     "Police Interview",
-    "Further Examination"
+    "Certified Realtime",
+    "Further Examination",
+    "Bill Clinton",
+    "West Flagler Street",
+    "Certified Realtime\nReporter",
+    "Podhurst Orseck",
+    "Deposition Exhibit",
+    "Jeffrey Epstein",
+    "Florida\nCommission"
   ],
   "locations": [
     "New York",

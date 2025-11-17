@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.28_3",
   "filename": "gov.uscourts.nysd.447706.1327.28_3.pdf",
-  "extraction_date": "2025-11-17T10:32:17.157230",
+  "extraction_date": "2025-11-17T10:39:03.936100",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -104,34 +104,34 @@
     }
   ],
   "people": [
-    "Jean Luc Brunel",
-    "Can Jeffrey Epstein",
-    "Did Virginia",
+    "Did Emmy",
+    "Caroline Casey",
+    "Notary Public",
+    "Chris Tucker",
+    "Virginia Roberts",
+    "West Palm Beach",
+    "Is Eva Dubin",
     "When Virginia",
+    "Jeffrey Veseki",
+    "Does Jeffrey",
     "Kevin Spacey",
-    "Was Johanna Sjoberg",
-    "Would Virginia",
-    "Sarah Kellen",
+    "Not Annie Farmer",
+    "Did Sarah Kellen",
     "When Johanna Sjoberg",
-    "Federal Government",
-    "Americas\nNew York",
-    "Alexander Dixon",
-    "Eva Dubin",
-    "Jean Luc",
-    "Annie Farmer",
-    "Exhibit No",
-    "Has Jeffrey Epstein",
-    "Les Wexner",
-    "Did Emmy Taylor",
-    "Alfredo Rodriguez"
+    "Did Nadia",
+    "Was Annie Farmer",
+    "Sarah Kellen",
+    "Eva Anderson",
+    "Johanna\nPage",
+    "Would Jeffrey Epstein"
   ],
   "locations": [
-    "London",
+    "Virgin Islands",
     "New York",
-    "Florida",
     "United Kingdom",
+    "London",
     "Palm Beach",
-    "Virgin Islands"
+    "Florida"
   ],
   "images": []
 }

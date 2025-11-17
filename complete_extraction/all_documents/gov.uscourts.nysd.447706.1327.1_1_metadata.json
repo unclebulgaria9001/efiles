@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.1_1",
   "filename": "gov.uscourts.nysd.447706.1327.1_1.pdf",
-  "extraction_date": "2025-11-17T10:31:44.533424",
+  "extraction_date": "2025-11-17T10:38:31.232583",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,23 +57,23 @@
     }
   ],
   "people": [
+    "Jeffy Epstein",
+    "File Under Seal",
+    "Tony Figueroa",
     "Figueroa\nSouthern Reporting",
-    "Virginia Giuffre",
-    "And Ms",
     "Was Ms",
     "Would Jeffrey",
-    "Did Ms",
-    "For Jeffrey",
-    "Tony Figueroa",
-    "And Virginia Giuffre",
-    "Jeffy Epstein",
-    "Gillian Maxwell",
-    "Jeffrey Epstein",
-    "File Under Seal",
-    "Sounds British",
-    "Anthony Lewis Zach",
+    "And Ms",
     "Ghislaine Maxwell",
-    "Southern Reporting Company"
+    "Southern Reporting Company",
+    "For Jeffrey",
+    "Sounds British",
+    "Gillian Maxwell",
+    "Virginia Giuffre",
+    "Anthony Lewis Zach",
+    "And Virginia Giuffre",
+    "Jeffrey Epstein",
+    "Did Ms"
   ],
   "locations": [],
   "images": []

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.10",
   "filename": "gov.uscourts.nysd.447706.1330.10.pdf",
-  "extraction_date": "2025-11-17T10:32:25.300303",
+  "extraction_date": "2025-11-17T10:39:12.172350",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -54,17 +54,17 @@
     }
   ],
   "people": [
+    "File Under Seal",
+    "Notary Public",
+    "Lexington\nAvenue",
+    "Court\nReporter",
+    "Virginia Roberts",
+    "Philip Barden",
     "Case No",
+    "Americas\nNew York",
     "Ross Gow",
     "Leslie Fagin",
-    "Lexington\nAvenue",
-    "Philip Barden",
-    "Americas\nNew York",
-    "Virginia Roberts",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "File Under Seal",
-    "Court\nReporter"
+    "Jeffrey Epstein"
   ],
   "locations": [
     "New York"

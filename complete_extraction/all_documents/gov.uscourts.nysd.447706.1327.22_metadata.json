@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.22",
   "filename": "gov.uscourts.nysd.447706.1327.22.pdf",
-  "extraction_date": "2025-11-17T10:32:04.126342",
+  "extraction_date": "2025-11-17T10:38:50.793366",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -48,17 +48,17 @@
     }
   ],
   "people": [
-    "Alan Dershowitz",
-    "Boies Schiller",
-    "Certified Realtime\nReporter",
-    "Registered\nProfessional Reporter",
     "Notary Public",
-    "Jeffrey Epstein",
     "Kelli Ann Willis",
+    "Boies Schiller",
+    "Las Olas Boulevard",
+    "Registered\nProfessional Reporter",
     "Fort Lauderdale",
+    "Alan Dershowitz",
     "Filed Under Seal",
     "Florida\nMy Commission",
-    "Las Olas Boulevard"
+    "Certified Realtime\nReporter",
+    "Jeffrey Epstein"
   ],
   "locations": [
     "New York",

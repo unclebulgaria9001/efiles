@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.24",
   "filename": "gov.uscourts.nysd.447706.1331.24.pdf",
-  "extraction_date": "2025-11-17T10:33:22.649562",
+  "extraction_date": "2025-11-17T10:40:07.639026",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email"
@@ -28,18 +28,18 @@
     }
   ],
   "people": [
-    "Jane Doe",
-    "Ms Roberts",
-    "Philip Barde\nSubject",
-    "Philip Barden",
-    "Virginia Roberts",
     "Alan Oerschwitz",
     "File Under Seal",
-    "Victoria Roberts",
-    "Ms Robert",
-    "Ghislaine Maxwell",
+    "Ms Roberts",
+    "Virginia Roberts",
     "Ross Gow\nCc",
-    "Forw\nFrom"
+    "Philip Barden",
+    "Philip Barde\nSubject",
+    "Ghislaine Maxwell",
+    "Forw\nFrom",
+    "Ms Robert",
+    "Jane Doe",
+    "Victoria Roberts"
   ],
   "locations": [],
   "images": []

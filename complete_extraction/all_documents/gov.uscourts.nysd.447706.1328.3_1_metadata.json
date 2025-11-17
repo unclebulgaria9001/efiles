@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.3_1",
   "filename": "gov.uscourts.nysd.447706.1328.3_1.pdf",
-  "extraction_date": "2025-11-17T10:33:22.210607",
+  "extraction_date": "2025-11-17T10:40:07.214330",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,15 +56,15 @@
     }
   ],
   "people": [
-    "Jane Doe",
-    "Court Reporter",
-    "Notary Public",
-    "Paul Katz Professional",
-    "Florida Professional Reporter",
-    "One Florida Park",
-    "Southern Reporting Company",
     "Palm Coast",
-    "Drive South"
+    "Notary Public",
+    "Court Reporter",
+    "Florida Professional Reporter",
+    "Drive South",
+    "Southern Reporting Company",
+    "Jane Doe",
+    "One Florida Park",
+    "Paul Katz Professional"
   ],
   "locations": [
     "New York",

@@ -1,44 +1,29 @@
 # Top 300 People - Complete Analysis
 
-**Generated**: 2025-11-17 10:37:34  
-**Total People Analyzed**: 1,427  
-**Top 300 Represent**: 5,779 mentions
+**Generated**: 2025-11-17 10:44:12  
+**Total People Analyzed**: 1,428  
+**Top 300 Represent**: 5,885 mentions
 
 ---
 
 ## Summary Statistics
 
-- **Total Mentions (Top 300)**: 5,779
-- **Average Mentions**: 19.3
+- **Total Mentions (Top 300)**: 5,885
+- **Average Mentions**: 19.6
 - **Documents Covered**: 187
 
 ---
 
 ## Top 300 People
 
-### 1. Jane Doe
+### 1. Jeffrey Epstein
 
 **Statistics**:
-- Total Mentions: 474
-- Documents: 34
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 135 co-occurrences
-  - Top terms: sex(23), massage(21), sexual(20)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2 about Jane Doe 2 when you met her?...
-
----
-
-### 2. Jeffrey Epstein
-
-**Statistics**:
-- Total Mentions: 221
-- Documents: 38
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 122 co-occurrences
-  - Top terms: sex(23), sexual(20), massage(19)
+- Total Mentions: 373
+- Documents: 36
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 159 co-occurrences
+  - Top terms: sex(23), sexual(21), massage(19)
 - Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
 **Sample Context**:
@@ -46,14 +31,29 @@
 
 ---
 
+### 2. Protective Order
+
+**Statistics**:
+- Total Mentions: 303
+- Documents: 27
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 151 co-occurrences
+  - Top terms: sex(19), sexual(18), abuse(14)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Giuffre’s privacy by revealing confidential documents under the Protective Order. However,...
+
+---
+
 ### 3. Ghislaine Maxwell
 
 **Statistics**:
-- Total Mentions: 199
-- Documents: 36
+- Total Mentions: 280
+- Documents: 69
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 137 co-occurrences
-  - Top terms: sex(23), sexual(19), massage(16)
+- Sensitive Terms: 202 co-occurrences
+  - Top terms: sex(35), sexual(28), massage(23)
 - Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
 **Sample Context**:
@@ -61,52 +61,82 @@
 
 ---
 
-### 4. Special Master
+### 4. Jane Doe
 
 **Statistics**:
-- Total Mentions: 183
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 05/03/22, 05/03/22, 05/03/22
-
-**Sample Context**:
-> Edward J. Pozzuoli, Special Master...
-
----
-
-### 5. Request No
-
-**Statistics**:
-- Total Mentions: 159
-- Documents: 7
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 71 co-occurrences
-  - Top terms: sex(7), sexual(7), trafficking(7)
+- Total Mentions: 260
+- Documents: 23
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 62 co-occurrences
+  - Top terms: massage(13), sex(12), sexual(10)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Request No. 17 made by You or on Your behalf.” Defendant objected to these requests and...
+> 2 about Jane Doe 2 when you met her?...
 
 ---
 
-### 6. Menninger Decl
+### 5. This Request
 
 **Statistics**:
-- Total Mentions: 97
-- Documents: 11
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 46 co-occurrences
-  - Top terms: sex(7), sexual(5), abuse(5)
+- Total Mentions: 173
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(4), sexual(2), trafficking(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Declaration of Laura A. Menninger (“Menninger Decl.”), Ex. A (GM00784-...
+> 2. This Request calls for the production of all responsive Documents in your possession,...
 
 ---
 
-### 7. Sarah Kellen
+### 6. Virginia Roberts
+
+**Statistics**:
+- Total Mentions: 145
+- Documents: 31
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 176 co-occurrences
+  - Top terms: sex(27), sexual(22), underage(17)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> January 2, 2015 Internet Ross Gow Jane Doe 3 is Virginia Roberts - so not a new...
+
+---
+
+### 7. Meredith Schultz
+
+**Statistics**:
+- Total Mentions: 106
+- Documents: 44
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 211 co-occurrences
+  - Top terms: sex(25), sexual(23), abuse(21)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Meredith Schultz (Pro Hac Vice)...
+
+---
+
+### 8. Palm Beach Police
+
+**Statistics**:
+- Total Mentions: 93
+- Documents: 19
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 156 co-occurrences
+  - Top terms: victim(18), sex(16), sexual(16)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Defendant also makes reference to the Palm Beach police repo1i, which details Epstein's...
+
+---
+
+### 9. Sarah Kellen
 
 **Statistics**:
 - Total Mentions: 89
@@ -121,29 +151,14 @@
 
 ---
 
-### 8. Ross Gow
+### 10. Prince Andrew
 
 **Statistics**:
-- Total Mentions: 89
-- Documents: 25
+- Total Mentions: 86
+- Documents: 23
 - Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 63 co-occurrences
-  - Top terms: sex(10), sexual(8), abuse(7)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2015 Correspondence from Ross Gow to Ghislaine Maxwell....
-
----
-
-### 9. Prince Andrew
-
-**Statistics**:
-- Total Mentions: 79
-- Documents: 20
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 143 co-occurrences
-  - Top terms: sex(19), sexual(18), massage(16)
+- Sensitive Terms: 176 co-occurrences
+  - Top terms: sex(22), sexual(21), massage(20)
 - Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
 **Sample Context**:
@@ -151,22 +166,35 @@
 
 ---
 
-### 10. Sharon Church
+### 11. Work
+Product
 
 **Statistics**:
-- Total Mentions: 79
-- Documents: 1
-- Document Types: email, financial, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), massage(1), minor(1)
-- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
-
-**Sample Context**:
-> Sharon Churcher...
+- Total Mentions: 80
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 ---
 
-### 11. Cynthia Hopkins
+### 12. Notary Public
+
+**Statistics**:
+- Total Mentions: 78
+- Documents: 50
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 126 co-occurrences
+  - Top terms: massage(28), sex(27), sexual(25)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Reporter and Notary Public within and...
+
+---
+
+### 13. Cynthia Hopkins
 
 **Statistics**:
 - Total Mentions: 77
@@ -181,22 +209,7 @@
 
 ---
 
-### 12. Fifth Amendment
-
-**Statistics**:
-- Total Mentions: 74
-- Documents: 12
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 77 co-occurrences
-  - Top terms: sex(11), sexual(10), abuse(9)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Epstein, Ms. Giuffre deposed Epstein, but he improperly invoked the Fifth Amendment and...
-
----
-
-### 13. Sarah Ransome
+### 14. Sarah Ransome
 
 **Statistics**:
 - Total Mentions: 74
@@ -211,102 +224,55 @@
 
 ---
 
-### 14. Avenue
-Denver
+### 15. Fifth Amendment
 
 **Statistics**:
 - Total Mentions: 73
-- Documents: 60
+- Documents: 11
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 336 co-occurrences
-  - Top terms: sex(41), sexual(35), victim(33)
+- Sensitive Terms: 72 co-occurrences
+  - Top terms: sex(10), sexual(9), abuse(9)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Epstein, Ms. Giuffre deposed Epstein, but he improperly invoked the Fifth Amendment and...
 
 ---
 
-### 15. Southern Reporting Company
+### 16. Menninger Decl
 
 **Statistics**:
-- Total Mentions: 69
+- Total Mentions: 64
 - Documents: 8
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 9 co-occurrences
-  - Top terms: sex(4), massage(3), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> PLACE: Southern Reporting Company...
-
----
-
-### 16. Nadia Marcinkova
-
-**Statistics**:
-- Total Mentions: 61
-- Documents: 26
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 163 co-occurrences
-  - Top terms: sex(21), sexual(19), massage(16)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> April 13, 2010, Deposition of Nadia Marcinkova....
-
----
-
-### 17. Case No
-
-**Statistics**:
-- Total Mentions: 60
-- Documents: 33
-- Document Types: legal_document, deposition, correspondence
 - Sensitive Terms: 39 co-occurrences
-  - Top terms: sex(10), sexual(9), massage(8)
+  - Top terms: sex(5), sexual(4), abuse(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> CASE NO. 15-CV-07433-RWS...
+> Declaration of Laura A. Menninger (“Menninger Decl.”), Ex. A (GM00784-...
 
 ---
 
-### 18. Pro Hac Vice
+### 17. Attorney
+Client
 
 **Statistics**:
-- Total Mentions: 60
-- Documents: 12
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: victim(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Application to Appear Pro Hac Vice....
-
----
-
-### 19. This Interrogatory
-
-**Statistics**:
-- Total Mentions: 60
+- Total Mentions: 64
 - Documents: 1
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/04/24, 01/04/24, 01/04/24
-
-**Sample Context**:
-> Ms. Maxwell objects to this Interrogatory as vague and ambiguous, specifically by not defining...
+- Document Types: deposition, legal_document
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 ---
 
-### 20. Sealed Exhibit
+### 18. Sealed Exhibit
 
 **Statistics**:
-- Total Mentions: 55
-- Documents: 13
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 4 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
+- Total Mentions: 63
+- Documents: 16
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(4), sexual(3), underage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
@@ -314,112 +280,82 @@ Denver
 
 ---
 
-### 21. Log Privilege Doc
+### 19. Civil Action
+
+**Statistics**:
+- Total Mentions: 54
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(4), sexual(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> AO 88A ( Rev. 12113) Subpoena to Testify at a Deposi1ion m a Civil Action...
+
+---
+
+### 20. Miami Beach
+
+**Statistics**:
+- Total Mentions: 53
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: massage(6), sex(3), sexual(3)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
+
+**Sample Context**:
+> Well-known attorney and Miami Beach resident Alan Dershowitz emphatically denied alleggations made in...
+
+---
+
+### 21. New Mexico
 
 **Statistics**:
 - Total Mentions: 52
-- Documents: 2
-- Document Types: deposition, legal_document, email
+- Documents: 16
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 147 co-occurrences
+  - Top terms: sex(15), sexual(15), massage(14)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 23 strip at his property in New Mexico?...
+
+---
+
+### 22. Southern Reporting Company
+
+**Statistics**:
+- Total Mentions: 52
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
 - Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), underage(1), minor(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> Log Privilege Doc...
-
----
-
-### 22. Meredith Schultz
-
-**Statistics**:
-- Total Mentions: 51
-- Documents: 18
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 11 co-occurrences
-  - Top terms: sex(2), trafficking(2), sexual(1)
+  - Top terms: sex(3), massage(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Meredith Schultz (Pro Hac Vice)...
+> Southern Reporting Company (386)257-3663...
 
 ---
 
-### 23. Civil Procedure
+### 23. Tony Figueroa
 
 **Statistics**:
-- Total Mentions: 51
-- Documents: 27
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 213 co-occurrences
-  - Top terms: sex(24), sexual(21), abuse(21)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> internet, but that is not what is contemplated by Rule 26(b)(1), Federal Rules of Civil Procedure,...
-
----
-
-### 24. Salt Lake City
-
-**Statistics**:
-- Total Mentions: 50
-- Documents: 50
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 151 co-occurrences
-  - Top terms: sex(22), sexual(19), massage(17)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Salt Lake City, UT 84112...
-
----
-
-### 25. The Defendant
-
-**Statistics**:
-- Total Mentions: 49
-- Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 35 co-occurrences
+- Total Mentions: 47
+- Documents: 13
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 15 co-occurrences
   - Top terms: sex(5), sexual(4), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> LiButti, 107 F.3d at 124. The Defendant may also request additional cautionary instrnctions, and...
+> Excerpts from June 24, 2016 Deposition of Tony Figueroa....
 
 ---
 
-### 26. Notary Public
-
-**Statistics**:
-- Total Mentions: 46
-- Documents: 33
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 65 co-occurrences
-  - Top terms: massage(17), sex(15), sexual(14)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Reporter and Notary Public within and...
-
----
-
-### 27. Kelli Ann Willis
-
-**Statistics**:
-- Total Mentions: 46
-- Documents: 23
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 69 co-occurrences
-  - Top terms: massage(17), sex(13), sexual(13)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> before Kelli Ann Willis, a Registered...
-
----
-
-### 28. Confidential
+### 24. Confidential
 Page
 
 **Statistics**:
@@ -432,85 +368,59 @@ Page
 
 ---
 
-### 29. Incident Report Program
-
-**Statistics**:
-- Total Mentions: 44
-- Documents: 2
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 12 co-occurrences
-  - Top terms: nude(2), sex(1), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> rime: 15:01:37 Incident Report Program: CMS301L...
-
----
-
-### 30. Tony Figueroa
+### 25. Federal Rules
 
 **Statistics**:
 - Total Mentions: 42
-- Documents: 8
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 14 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Excerpts from June 24, 2016 Deposition of Tony Figueroa....
-
----
-
-### 31. Virginia Roberts
-
-**Statistics**:
-- Total Mentions: 42
-- Documents: 12
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 53 co-occurrences
-  - Top terms: sex(10), sexual(10), massage(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2 with Virginia Roberts....
-
----
-
-### 32. Any Document
-
-**Statistics**:
-- Total Mentions: 40
-- Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 38 co-occurrences
-  - Top terms: sex(5), sexual(5), victim(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 4. Identify each Communication, including the transmission of any Document, that...
-
----
-
-### 33. Work
-Product
-
-**Statistics**:
-- Total Mentions: 40
-- Documents: 1
-- Document Types: deposition, legal_document
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
----
-
-### 34. Fort Lauderdale
-
-**Statistics**:
-- Total Mentions: 39
-- Documents: 33
+- Documents: 26
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 108 co-occurrences
-  - Top terms: massage(22), sex(17), sexual(16)
+- Sensitive Terms: 202 co-occurrences
+  - Top terms: sex(24), sexual(21), abuse(21)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> internet, but that is not what is contemplated by Rule 26(b)(1), Federal Rules of Civil Procedure,...
+
+---
+
+### 26. Pro Hac Vice
+
+**Statistics**:
+- Total Mentions: 42
+- Documents: 9
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 52 co-occurrences
+  - Top terms: sex(6), massage(6), sexual(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Sigrid McCawley (Pro Hac Vice)...
+
+---
+
+### 27. Kelli Ann Willis
+
+**Statistics**:
+- Total Mentions: 41
+- Documents: 22
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 58 co-occurrences
+  - Top terms: massage(16), sex(12), sexual(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> before Kelli Ann Willis, a Registered...
+
+---
+
+### 28. Fort Lauderdale
+
+**Statistics**:
+- Total Mentions: 40
+- Documents: 38
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 67 co-occurrences
+  - Top terms: massage(17), sex(12), sexual(12)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
@@ -518,7 +428,50 @@ Product
 
 ---
 
-### 35. The Requested Documents
+### 29. Law
+University
+
+**Statistics**:
+- Total Mentions: 40
+- Documents: 38
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 199 co-occurrences
+  - Top terms: sex(23), sexual(22), abuse(22)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 30. United States District
+
+**Statistics**:
+- Total Mentions: 40
+- Documents: 31
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 46 co-occurrences
+  - Top terms: victim(6), sex(6), sexual(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> United States District Court...
+
+---
+
+### 31. Alfredo Rodriguez
+
+**Statistics**:
+- Total Mentions: 39
+- Documents: 14
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 110 co-occurrences
+  - Top terms: sex(11), sexual(11), massage(11)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
+
+**Sample Context**:
+> A former Epstein employee, the late Alfredo Rodriguez, testified under oath that Dershowitz was at the Palm...
+
+---
+
+### 32. The Requested Documents
 
 **Statistics**:
 - Total Mentions: 39
@@ -533,7 +486,22 @@ Product
 
 ---
 
-### 36. Your Attorneys
+### 33. Ross Gow
+
+**Statistics**:
+- Total Mentions: 38
+- Documents: 15
+- Document Types: legal_document, deposition, email
+- Sensitive Terms: 33 co-occurrences
+  - Top terms: sex(5), abuse(4), sexual(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 2015 Correspondence from Ross Gow to Ghislaine Maxwell....
+
+---
+
+### 34. Your Attorneys
 
 **Statistics**:
 - Total Mentions: 38
@@ -548,52 +516,50 @@ Product
 
 ---
 
-### 37. Punitive Damages
+### 35. Filed Under Seal
 
 **Statistics**:
-- Total Mentions: 36
-- Documents: 2
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 15 co-occurrences
-  - Top terms: sex(2), sexual(2), underage(2)
+- Total Mentions: 34
+- Documents: 23
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: massage(11), sex(11), sexual(8)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Ms. Giuffre’s punitive damages claim as well as press reports suggesting that the Defendant may...
+> (Filed Under Seal)...
 
 ---
 
-### 38. Court Reporter
-
-**Statistics**:
-- Total Mentions: 35
-- Documents: 14
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 33 co-occurrences
-  - Top terms: sex(8), massage(8), sexual(5)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Court Reporter and Notary Public...
-
----
-
-### 39. Miami Beach
+### 36. First Amendment
 
 **Statistics**:
 - Total Mentions: 33
 - Documents: 3
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 18 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 32 co-occurrences
+  - Top terms: sex(3), sexual(3), minor(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Well-known attorney and Miami Beach resident Alan Dershowitz emphatically denied alleggations made in...
+> D. No Right of Access Exists Under the First Amendment......................................18...
 
 ---
 
-### 40. United Sta
+### 37. New York
+Virginia
+
+**Statistics**:
+- Total Mentions: 32
+- Documents: 30
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 101 co-occurrences
+  - Top terms: sex(14), sexual(12), abuse(11)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 38. United Sta
 
 **Statistics**:
 - Total Mentions: 32
@@ -608,14 +574,74 @@ Product
 
 ---
 
-### 41. Quinney College
+### 39. Client Communications
 
 **Statistics**:
 - Total Mentions: 31
-- Documents: 30
+- Documents: 4
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 117 co-occurrences
-  - Top terms: sex(15), sexual(13), abuse(13)
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> attorney-client communications regarding media advice; (2) pre...
+
+---
+
+### 40. Boies Schiller
+
+**Statistics**:
+- Total Mentions: 30
+- Documents: 20
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 62 co-occurrences
+  - Top terms: massage(14), sex(12), sexual(11)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> offices of Boies Schiller & Flexner, 401...
+
+---
+
+### 41. Civil Procedure
+
+**Statistics**:
+- Total Mentions: 30
+- Documents: 15
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 63 co-occurrences
+  - Top terms: sex(12), sexual(9), abuse(8)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Civil Procedure. She admits she simply had not, prior to designating testimony, even attempted...
+
+---
+
+### 42. Las Olas Boulevard
+
+**Statistics**:
+- Total Mentions: 29
+- Documents: 24
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 74 co-occurrences
+  - Top terms: massage(16), sex(14), sexual(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Las Olas Boulevard, Fort Lauderdale, Florida,...
+
+---
+
+### 43. Quinney College
+
+**Statistics**:
+- Total Mentions: 29
+- Documents: 28
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 105 co-occurrences
+  - Top terms: sex(13), sexual(12), abuse(12)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
@@ -623,82 +649,67 @@ Product
 
 ---
 
-### 42. United State
-
-**Statistics**:
-- Total Mentions: 31
-- Documents: 1
-- Document Types: legal_document, financial
-- Sensitive Terms: 5 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> offtme1 that may have been committed by Epstein against the United States from in or...
-
----
-
-### 43. East Las Olas
-
-**Statistics**:
-- Total Mentions: 30
-- Documents: 24
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 34 co-occurrences
-  - Top terms: sex(8), massage(6), sexual(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 401 East Las Olas Boulevard, Suite 1200...
-
----
-
-### 44. Daily Mail
+### 44. Virgin Islands
 
 **Statistics**:
 - Total Mentions: 29
-- Documents: 15
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 162 co-occurrences
-  - Top terms: sex(15), sexual(14), abuse(14)
+- Documents: 9
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 43 co-occurrences
+  - Top terms: sex(8), sexual(7), massage(7)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> January 3, 2015 Internet Daily Mail http://www.dailymail.co.uk/news/article-...
+> 4 Virgin Islands?...
 
 ---
 
-### 45. Respectfully Submitted
+### 45. West Palm Beach
 
 **Statistics**:
 - Total Mentions: 28
-- Documents: 28
+- Documents: 17
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 107 co-occurrences
-  - Top terms: sex(12), sexual(12), massage(11)
+- Sensitive Terms: 72 co-occurrences
+  - Top terms: sex(10), massage(10), sexual(8)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Respectfully Submitted,...
+> West Palm Beach, Florida 33401...
 
 ---
 
-### 46. Royal Palm Beach
+### 46. File Under Seal
 
 **Statistics**:
-- Total Mentions: 28
-- Documents: 7
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 41 co-occurrences
-  - Top terms: sex(6), abuse(5), sexual(4)
-- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+- Total Mentions: 27
+- Documents: 26
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 82 co-occurrences
+  - Top terms: sex(16), sexual(15), massage(12)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
 **Sample Context**:
-> Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page~ 1...
+> (File Under Seal)...
 
 ---
 
-### 47. Work Product
+### 47. Did Jeffrey
+
+**Statistics**:
+- Total Mentions: 27
+- Documents: 12
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 53 co-occurrences
+  - Top terms: massage(9), sex(8), sexual(8)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 9 Q. Did Jeffrey ever tell you that he took a...
+
+---
+
+### 48. Work Product
 
 **Statistics**:
 - Total Mentions: 27
@@ -713,7 +724,7 @@ Product
 
 ---
 
-### 48. Kress Court Reporting
+### 49. Kress Court Reporting
 
 **Statistics**:
 - Total Mentions: 27
@@ -728,95 +739,108 @@ Product
 
 ---
 
-### 49. Alan Dershowitz
+### 50. Your Honor
+
+**Statistics**:
+- Total Mentions: 27
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
+
+**Sample Context**:
+> 3 MS. MENNINGER: Thank you, your Honor, Laura Menninger...
+
+---
+
+### 51. Growing Together
 
 **Statistics**:
 - Total Mentions: 26
-- Documents: 9
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 53 co-occurrences
-  - Top terms: massage(6), sex(5), sexual(5)
-- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
-
-**Sample Context**:
-> Alan Dershowitz: 'Sex slave' accuser is serial liar, prostitute | News - Home Page 1 of 3...
-
----
-
-### 50. File Under Seal
-
-**Statistics**:
-- Total Mentions: 25
-- Documents: 25
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 68 co-occurrences
-  - Top terms: sex(14), sexual(13), massage(10)
-- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
-
-**Sample Context**:
-> (File Under Seal)...
-
----
-
-### 51. Law
-University
-
-**Statistics**:
-- Total Mentions: 25
-- Documents: 25
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 91 co-occurrences
-  - Top terms: sex(11), sexual(10), trafficking(10)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 52. North Andrews Avenue
-
-**Statistics**:
-- Total Mentions: 25
-- Documents: 25
+- Documents: 6
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 99 co-occurrences
-  - Top terms: sex(11), sexual(11), massage(10)
+- Sensitive Terms: 51 co-occurrences
+  - Top terms: sex(6), sexual(6), abuse(6)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 425 North Andrews Avenue, Suite 2...
+> one facility named “Growing Together” that was located in or around...
 
 ---
 
-### 53. Alfredo Rodriguez
+### 52. Log Privilege Doc
 
 **Statistics**:
-- Total Mentions: 24
-- Documents: 9
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 52 co-occurrences
-  - Top terms: massage(7), sex(6), sexual(6)
-- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
+- Total Mentions: 26
+- Documents: 1
+- Document Types: deposition, legal_document
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> A former Epstein employee, the late Alfredo Rodriguez, testified under oath that Dershowitz was at the Palm...
+> Log Privilege Doc...
 
 ---
 
-### 54. Jeffrey Pagliuca
+### 53. Certified Realtime
+Reporter
+
+**Statistics**:
+- Total Mentions: 25
+- Documents: 22
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 58 co-occurrences
+  - Top terms: massage(16), sex(12), sexual(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 54. Salt Lake City
 
 **Statistics**:
 - Total Mentions: 24
 - Documents: 24
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 87 co-occurrences
-  - Top terms: sex(10), sexual(10), massage(9)
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Jeffrey Pagliuca, Esq....
+> Salt Lake City, UT 84112...
 
 ---
 
-### 55. Reporting Company
+### 55. Respectfully Submitted
+
+**Statistics**:
+- Total Mentions: 24
+- Documents: 24
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 85 co-occurrences
+  - Top terms: sex(9), sexual(9), massage(9)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Respectfully Submitted,...
+
+---
+
+### 56. Sealed Composite Exhibit
+
+**Statistics**:
+- Total Mentions: 24
+- Documents: 10
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(2), trafficking(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 3. Attached hereto as Sealed Composite Exhibit 1 is a true and correct copy of...
+
+---
+
+### 57. Reporting Company
 
 **Statistics**:
 - Total Mentions: 24
@@ -831,7 +855,7 @@ University
 
 ---
 
-### 56. Registered
+### 58. Registered
 Professional Reporter
 
 **Statistics**:
@@ -844,50 +868,82 @@ Professional Reporter
 
 ---
 
-### 57. Did Maxwell
+### 59. Document Requests Concerning
 
 **Statistics**:
 - Total Mentions: 23
-- Documents: 7
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 25 co-occurrences
-  - Top terms: sex(7), sexual(7), massage(7)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> 7 Q. Did Maxwell ever share with you whether it...
+> “Document Requests Concerning Punitive Damages” until the motion is resolved....
 
 ---
 
-### 58. United States District
+### 60. Registered No
 
 **Statistics**:
 - Total Mentions: 23
-- Documents: 18
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), massage(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
+
+**Sample Context**:
+> St, Kensington, London, W8 STT. Registered No 84121 England....
+
+---
+
+### 61. South Salem
+
+**Statistics**:
+- Total Mentions: 22
+- Documents: 22
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 4 co-occurrences
-  - Top terms: victim(2), sex(1), sexual(1)
+- Sensitive Terms: 76 co-occurrences
+  - Top terms: sex(11), sexual(8), abuse(7)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> United States District Court...
+> FARMER, JAFFE, WEISSING, EDWARDS, FISTOS South Salem, NY 10590...
 
 ---
 
-### 59. David Boies
-Boies
+### 62. University St
 
 **Statistics**:
-- Total Mentions: 23
-- Documents: 23
+- Total Mentions: 22
+- Documents: 20
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 77 co-occurrences
-  - Top terms: sex(9), sexual(9), massage(8)
+- Sensitive Terms: 65 co-occurrences
+  - Top terms: sex(8), sexual(7), massage(7)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 383 University St....
 
 ---
 
-### 60. Lesley Groff
+### 63. Search Terms
+
+**Statistics**:
+- Total Mentions: 22
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), massage(1), trafficking(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> DEFENDANT’S SUBMISSION REGARDING “SEARCH TERMS” AND NOTICE OF...
+
+---
+
+### 64. Lesley Groff
 
 **Statistics**:
 - Total Mentions: 22
@@ -902,7 +958,21 @@ Boies
 
 ---
 
-### 61. Laura Menninger
+### 65. Type
+Attorney
+Client
+
+**Statistics**:
+- Total Mentions: 22
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+---
+
+### 66. Laura Menninger
 
 **Statistics**:
 - Total Mentions: 21
@@ -917,67 +987,65 @@ Boies
 
 ---
 
-### 62. Did Ghislaine
+### 67. Court Reporter
 
 **Statistics**:
-- Total Mentions: 20
-- Documents: 6
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 31 co-occurrences
-  - Top terms: sex(6), sexual(6), massage(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2 Q. Did Ghislaine ever describe to you what...
-
----
-
-### 63. Defendant Ghislaine Maxwell
-
-**Statistics**:
-- Total Mentions: 20
-- Documents: 15
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 36 co-occurrences
-  - Top terms: sex(9), sexual(6), massage(5)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> DEFENDANT GHISLAINE MAXWELL’S...
-
----
-
-### 64. Bill Clinton
-
-**Statistics**:
-- Total Mentions: 20
-- Documents: 11
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 65 co-occurrences
-  - Top terms: sex(9), sexual(8), abuse(7)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Mr. Freeh may have knowledge concerning travel of Bill Clinton....
-
----
-
-### 65. Juan Alessi
-
-**Statistics**:
-- Total Mentions: 20
+- Total Mentions: 21
 - Documents: 12
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 29 co-occurrences
-  - Top terms: sex(4), sexual(3), massage(3)
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(6), massage(6), sexual(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> June 1, 2016, Deposition of Juan Alessi....
+> 8 COLEMAN, LLP 9 WIii the court reporter please swear In...
 
 ---
 
-### 66. General Objections
+### 68. Ghislaine
+Maxwell
+
+**Statistics**:
+- Total Mentions: 21
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: abuse(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 69. Hi Shazza
+
+**Statistics**:
+- Total Mentions: 21
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), massage(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
+
+**Sample Context**:
+> Hi shazza,...
+
+---
+
+### 70. Prop Type
+
+**Statistics**:
+- Total Mentions: 20
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+
+**Sample Context**:
+> UCR Prop Type CONSUMABLE GOODS Quantity. 1...
+
+---
+
+### 71. General Objections
 
 **Statistics**:
 - Total Mentions: 20
@@ -992,196 +1060,67 @@ Boies
 
 ---
 
-### 67. Ghislaine
-Maxwell
-
-**Statistics**:
-- Total Mentions: 20
-- Documents: 1
-- Document Types: legal_document
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 68. Stored Information
-
-**Statistics**:
-- Total Mentions: 20
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), victim(1), victims(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> electronically stored information, or objects, and must permit inspection, copying, testing, or sampling of the...
-
----
-
-### 69. Adverse Inference Instruction
+### 72. North Andrews Ave
 
 **Statistics**:
 - Total Mentions: 19
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(2), trafficking(2), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> SUPPLEMENT TO MOTION FOR ADVERSE INFERENCE INSTRUCTION BASED...
-
----
-
-### 70. Any Documents
-
-**Statistics**:
-- Total Mentions: 19
-- Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 38 co-occurrences
-  - Top terms: sex(5), sexual(5), victim(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> e. any Documents You have to support or corroborate Your claim of such...
-
----
-
-### 71. Produce Documents
-
-**Statistics**:
-- Total Mentions: 19
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(2), abuse(2), trafficking(1)
-- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
-
-**Sample Context**:
-> AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Pem1it Inspection of Premises in a Civil Action...
-
----
-
-### 72. Certified Realtime
-Reporter
-
-**Statistics**:
-- Total Mentions: 18
-- Documents: 18
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 43 co-occurrences
-  - Top terms: massage(13), sex(9), sexual(9)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 73. Stanley Pottinger
-Bradley
-
-**Statistics**:
-- Total Mentions: 18
-- Documents: 18
-- Document Types: legal_document, deposition, financial
+- Documents: 19
+- Document Types: legal_document, financial, deposition
 - Sensitive Terms: 37 co-occurrences
-  - Top terms: sex(7), sexual(4), abuse(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 74. University Street
-
-**Statistics**:
-- Total Mentions: 18
-- Documents: 18
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 35 co-occurrences
-  - Top terms: sex(7), sexual(4), massage(4)
+  - Top terms: sex(8), sexual(5), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Meredith Schultz 383 S. University Street...
+> 425 North Andrews Ave., Ste. 2...
 
 ---
 
-### 75. Sharon Churcher
+### 73. Answer Deposition Questions
 
 **Statistics**:
-- Total Mentions: 18
-- Documents: 2
-- Document Types: legal_document, correspondence, deposition
-- Sensitive Terms: 9 co-occurrences
-  - Top terms: sex(2), sexual(2), abuse(2)
-- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
-
-**Sample Context**:
-> 16 Q Do you recall telling Sharon Churcher that...
-
----
-
-### 76. Las Olas Boulevard
-
-**Statistics**:
-- Total Mentions: 17
-- Documents: 17
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 45 co-occurrences
-  - Top terms: massage(13), sex(9), sexual(9)
+- Total Mentions: 19
+- Documents: 8
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 36 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Las Olas Boulevard, Fort Lauderdale, Florida,...
+> DEFENDANT TO ANSWER DEPOSITION QUESTIONS...
 
 ---
 
-### 77. South Salem
+### 74. Recovered Date
 
 **Statistics**:
-- Total Mentions: 17
-- Documents: 17
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 28 co-occurrences
-  - Top terms: sex(6), massage(4), sexual(3)
+- Total Mentions: 19
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+
+**Sample Context**:
+> Recovered by . OFC. MANCINO Recovered Date 11/04/97...
+
+---
+
+### 75. The United States
+
+**Statistics**:
+- Total Mentions: 19
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> FARMER, JAFFE, WEISSING, EDWARDS, FISTOS South Salem, NY 10590...
+> offtme1 that may have been committed by Epstein against the United States from in or...
 
 ---
 
-### 78. Twin Lakes Rd
-
-**Statistics**:
-- Total Mentions: 17
-- Documents: 17
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 28 co-occurrences
-  - Top terms: sex(6), massage(4), sexual(3)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Bradley J. Edwards 49 Twin Lakes Rd....
-
----
-
-### 79. University St
-
-**Statistics**:
-- Total Mentions: 17
-- Documents: 17
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 19 co-occurrences
-  - Top terms: victim(2), sex(2), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 383 University St....
-
----
-
-### 80. Wellington Imaging
+### 76. Wellington Imaging
 
 **Statistics**:
 - Total Mentions: 17
@@ -1196,172 +1135,123 @@ Bradley
 
 ---
 
-### 81. Jean Luc Brunel
+### 77. Daily Mail
 
 **Statistics**:
 - Total Mentions: 17
-- Documents: 8
-- Document Types: legal_document, correspondence, financial
-- Sensitive Terms: 45 co-occurrences
-  - Top terms: sex(6), massage(5), sexual(5)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Documents: 9
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 100 co-occurrences
+  - Top terms: sex(9), sexual(8), abuse(8)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
 
 **Sample Context**:
-> Sarah Kellen, Glenn and Eva Dubin, Jean Luc Brunel, Nadia Marcincova and Bill...
+> 19 7 - Daily Mail. 155...
 
 ---
 
-### 82. Original Message
+### 78. Offense Report Program
 
 **Statistics**:
 - Total Mentions: 17
-- Documents: 4
-- Document Types: email, correspondence, financial
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: sex(2), minor(2), victim(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
 **Sample Context**:
-> -----Original Message---...
+> Time: 8:52:07 Offense Report Program: CMS301L...
 
 ---
 
-### 83. Agren Blando Court
+### 79. Agren Blando
 
 **Statistics**:
 - Total Mentions: 17
-- Documents: 2
+- Documents: 1
 - Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(2), sexual(2), abuse(2)
-- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/04/24, 01/04/24, 05/26/2016
 
 **Sample Context**:
 > Agren Blando Court Reporting & Video, Inc....
 
 ---
 
-### 84. Joinder Motion
+### 80. East Las Olas
 
 **Statistics**:
-- Total Mentions: 17
-- Documents: 3
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 21 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+- Total Mentions: 16
+- Documents: 14
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 38 co-occurrences
+  - Top terms: sex(5), sexual(5), victim(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Virginia Giuffre, subsequently decided to reveal her name). The joinder motion argued that Jane...
+> 401 East Las Olas Boulevard, Suite 1200...
 
 ---
 
-### 85. Ghislaine Max
-
-**Statistics**:
-- Total Mentions: 17
-- Documents: 1
-- Document Types: email, deposition, legal_document
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: massage(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> Ghislaine Maxwell,...
-
----
-
-### 86. Boies Schiller
+### 81. Stanley Pottinger
+Bradley
 
 **Statistics**:
 - Total Mentions: 16
 - Documents: 16
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 38 co-occurrences
-  - Top terms: massage(12), sex(8), sexual(8)
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 61 co-occurrences
+  - Top terms: sex(7), sexual(6), victim(6)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> offices of Boies Schiller & Flexner, 401...
 
 ---
 
-### 87. New Mexico
+### 82. Case No
 
 **Statistics**:
 - Total Mentions: 16
-- Documents: 6
-- Document Types: legal_document, deposition, flight_log
-- Sensitive Terms: 34 co-occurrences
-  - Top terms: sex(5), sexual(5), massage(5)
+- Documents: 16
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(6), sexual(5), underage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 23 strip at his property in New Mexico?...
+> Case No.:...
 
 ---
 
-### 88. Louella Rabuyo
+### 83. This Motion
 
 **Statistics**:
 - Total Mentions: 16
-- Documents: 5
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 16 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> October 20, 2009, Deposition of Louella Rabuyo....
-
----
-
-### 89. Annie Farmer
-
-**Statistics**:
-- Total Mentions: 16
-- Documents: 3
-- Document Types: deposition, legal_document, flight_log
+- Documents: 2
+- Document Types: deposition, legal_document, financial
 - Sensitive Terms: 22 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
+  - Top terms: sex(2), sexual(2), underage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 6 question. 6 Q. How do you know Annie Farmer?...
+> of the Original Action and This Motion ....................................................12(cid:3)...
 
 ---
 
-### 90. First Set
-
-**Statistics**:
-- Total Mentions: 16
-- Documents: 5
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 17 co-occurrences
-  - Top terms: sex(2), sexual(2), minor(2)
-- Associated Dates: 01/05/24, 01/05/24, 10/27/2015
-
-**Sample Context**:
-> 10/27/2015 Plaintiff’s First Set of Requests for Production...
-
----
-
-### 91. Exhibit No
+### 84. Menninger
+Laura
 
 **Statistics**:
 - Total Mentions: 15
-- Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 33 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(3)
-- Associated Dates: 05/03/22, 05/03/22, 05/03/22
-
-**Sample Context**:
-> 7 (Thereupon, Defendant's VR Exhibit No. 1,...
+- Documents: 13
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: drug(3), victim(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 92. Schultz Decl
+### 85. Schultz Decl
 
 **Statistics**:
 - Total Mentions: 15
@@ -1376,22 +1266,22 @@ Bradley
 
 ---
 
-### 93. Protective Order
+### 86. Plaintiff Virginia Giuffre
 
 **Statistics**:
 - Total Mentions: 14
-- Documents: 4
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: abuse(2), sex(1), sexual(1)
+- Documents: 13
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 89 co-occurrences
+  - Top terms: sex(11), sexual(10), massage(10)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Giuffre’s privacy by revealing confidential documents under the Protective Order. However,...
+> Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,...
 
 ---
 
-### 94. Meredith Schultz
+### 87. Meredith Schultz
 Meredith
 
 **Statistics**:
@@ -1404,37 +1294,48 @@ Meredith
 
 ---
 
-### 95. Refuse Silence
+### 88. Reopen Defendant
 
 **Statistics**:
 - Total Mentions: 14
-- Documents: 4
+- Documents: 5
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> in Opposition to Plaintiff’s Motion to Reopen Defendant’s Deposition...
+
+---
+
+### 89. Twin Lakes Rd
+
+**Statistics**:
+- Total Mentions: 14
+- Documents: 14
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(4), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Bradley J. Edwards 49 Twin Lakes Rd....
+
+---
+
+### 90. David Boies
+Boies
+
+**Statistics**:
+- Total Mentions: 14
+- Documents: 14
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 31 co-occurrences
-  - Top terms: victim(4), sex(3), sexual(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> also has knowledge concerning "Victim's Refuse Silence, Inc."...
 
 ---
 
-### 96. David Rodgers
-
-**Statistics**:
-- Total Mentions: 14
-- Documents: 8
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 47 co-occurrences
-  - Top terms: sex(6), sexual(5), massage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> June 3, 2016, Deposition of David Rodgers....
-
----
-
-### 97. See Schultz Decl
+### 91. See Schultz Decl
 
 **Statistics**:
 - Total Mentions: 14
@@ -1449,22 +1350,7 @@ Meredith
 
 ---
 
-### 98. Federal Rules
-
-**Statistics**:
-- Total Mentions: 14
-- Documents: 9
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 48 co-occurrences
-  - Top terms: sex(8), sexual(6), abuse(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> is aware that Rule 48(b) of the Federal Rules ofC riminal Proecdure provides that the Court...
-
----
-
-### 99. Viewing Case Number
+### 92. Viewing Case Number
 
 **Statistics**:
 - Total Mentions: 14
@@ -1479,22 +1365,22 @@ Meredith
 
 ---
 
-### 100. Second Set
+### 93. Producing Documents
 
 **Statistics**:
 - Total Mentions: 14
-- Documents: 3
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 24 co-occurrences
-  - Top terms: sex(2), sexual(2), underage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
 **Sample Context**:
-> Defendant’s Second Set of Discovery Requests to Plaintiff, and for Sanctions...
+> (A) production of documents, electronically stored information, or (l) Producing Documents or Electronically Stored Information. These...
 
 ---
 
-### 101. Producing Electronically Stored
+### 94. Producing Electronically Stored
 
 **Statistics**:
 - Total Mentions: 14
@@ -1509,22 +1395,37 @@ Meredith
 
 ---
 
-### 102. Sigrid Mccawley
+### 95. Alan Dershowitz
 
 **Statistics**:
-- Total Mentions: 14
-- Documents: 6
-- Document Types: legal_document, correspondence, deposition
-- Sensitive Terms: 17 co-occurrences
-  - Top terms: sex(3), victim(3), victims(3)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+- Total Mentions: 13
+- Documents: 7
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: massage(5), sex(4), sexual(3)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
 **Sample Context**:
-> Sigrid Mccawley, Esq. of Boies, Schiller & Flexner LLP, 401 E. Las Olas Blvd., Suite 1200, Ft. Lauderdale, FL 33301,...
+> Alan Dershowitz: 'Sex slave' accuser is serial liar, prostitute | News - Home Page 1 of 3...
 
 ---
 
-### 103. Philip Barden
+### 96. Did Maxwell
+
+**Statistics**:
+- Total Mentions: 13
+- Documents: 5
+- Document Types: deposition, legal_document
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 7 Q. Did Maxwell ever share with you whether it...
+
+---
+
+### 97. Philip Barden
 
 **Statistics**:
 - Total Mentions: 13
@@ -1539,102 +1440,72 @@ Meredith
 
 ---
 
-### 104. Johanna Sjoberg
+### 98. Entered By
 
 **Statistics**:
 - Total Mentions: 13
-- Documents: 13
-- Document Types: legal_document, deposition, financial
+- Documents: 1
+- Document Types: legal_document, correspondence
 - Sensitive Terms: 7 co-occurrences
-  - Top terms: victim(2), victims(2), sex(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
 **Sample Context**:
-> May 18, 2016, Deposition of Johanna Sjoberg....
+> Entered By.: JARRETT, DAWN M. 11/10/97...
 
 ---
 
-### 105. The First Amendment
+### 99. Attachedas Exhibit
 
 **Statistics**:
 - Total Mentions: 13
 - Documents: 1
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> II.(cid:3) THE FIRST AMENDMENT AND THE COMMON LAW REQUIRE...
+> 2. Attachedas Exhibit A(filedunderseal)is atrue andcorrect copyof excerpts...
 
 ---
 
-### 106. Filed Under Seal
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 12
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 15 co-occurrences
-  - Top terms: massage(5), sex(5), sexual(3)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> (Filed Under Seal)...
-
----
-
-### 107. In Palm Beach
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 6
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 23 co-occurrences
-  - Top terms: sex(6), sexual(6), massage(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 24 A. She explained that she lived in Palm Beach...
-
----
-
-### 108. Americas
-New York
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 12
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 34 co-occurrences
-  - Top terms: sex(8), sexual(8), massage(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 109. The Motion For
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2016. By Order dated April 15, 2016, the motion for...
-
----
-
-### 110. Palm Beach Gardens
+### 100. Did Ghislaine
 
 **Statistics**:
 - Total Mentions: 12
 - Documents: 5
 - Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 19 co-occurrences
-  - Top terms: massage(5), sex(4), sexual(3)
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 2 Q. Did Ghislaine ever describe to you what...
+
+---
+
+### 101. Avenue
+Denver
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 9
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: sex(6), victim(5), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 102. Palm Beach Gardens
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: massage(5), sex(3), sexual(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
@@ -1642,110 +1513,112 @@ New York
 
 ---
 
-### 111. Maria Farmer
+### 103. Adriana Ross
 
 **Statistics**:
 - Total Mentions: 12
-- Documents: 3
-- Document Types: deposition, legal_document
+- Documents: 7
+- Document Types: legal_document, deposition, financial
 - Sensitive Terms: 21 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
+  - Top terms: sex(4), sexual(3), trafficking(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> concerning sexual activity involving two women named Annie and Maria Farmer. Motion at 6....
+> 22 co-conspirators are Sarah Kellen, Adriana Ross, and...
 
 ---
 
-### 112. Jean Luc
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 2
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 16 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 15 brought to Jeffrey's home by Jean Luc Brunel 15 Q. Then I believe you testified you...
-
----
-
-### 113. When Mr
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 22 co-occurrences
-  - Top terms: sex(3), massage(3), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> -Q: Not sure. When Mr. Dershowitz was visiting,--...
-
----
-
-### 114. Rights Act
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 4
-- Document Types: legal_document, deposition, flight_log
-- Sensitive Terms: 37 co-occurrences
-  - Top terms: sex(4), sexual(4), minor(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> THE FLORIDA CRIME VICTIMS RIGHTS ACT CASE...
-
----
-
-### 115. This Request
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 4 co-occurrences
-  - Top terms: sex(1), trafficking(1), abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
-
-**Sample Context**:
-> 2. Unless indicated otherwise, the Relevant Period for this Request is from 1996 to...
-
----
-
-### 116. Definition No
-
-**Statistics**:
-- Total Mentions: 12
-- Documents: 2
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 17 co-occurrences
-  - Top terms: sex(2), sexual(2), minor(2)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> 11. Ms. Maxwell objects to Definition No. 1 regarding “Agent” to the extent that it...
-
----
-
-### 117. Communication Attorney
+### 104. Question Number
 
 **Statistics**:
 - Total Mentions: 12
 - Documents: 1
-- Document Types: unknown
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+- Document Types: deposition, legal_document
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 1. 2011.03.15 E-Mails 1000- Ghislaine Maxwell Brett Jaffe, Esq. Attorney / Client Communication Attorney-Client...
+> A. Objected to Question Number 1: ....................................................................................... 13...
 
 ---
 
-### 118. The Interrogatories
+### 105. Your Employment
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 33 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 10. Identify any Income from any source other than Your Employment that You have...
+
+---
+
+### 106. Crime Victims
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 3
+- Document Types: legal_document, deposition, flight_log
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> procedure, criminal, and crime victims’ rights....
+
+---
+
+### 107. Defendant Maxwell
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 41 co-occurrences
+  - Top terms: sex(4), sexual(4), underage(4)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> who assisted in making the defamatory statement, women Defendant Maxwell hired to recruit...
+
+---
+
+### 108. Under Florida
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> Florida, and under Florida law did not constitute any waiver of attorney-client privilege. Indeed,...
+
+---
+
+### 109. Emergency Room
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
+
+**Sample Context**:
+> physicianswho cared for Ms. Giuffre on a one-off basis in the Emergency Room. It is...
+
+---
+
+### 110. The Interrogatories
 
 **Statistics**:
 - Total Mentions: 12
@@ -1760,13 +1633,13 @@ New York
 
 ---
 
-### 119. Leslie Fagin
+### 111. Leslie Fagin
 
 **Statistics**:
 - Total Mentions: 11
 - Documents: 10
 - Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 21 co-occurrences
+- Sensitive Terms: 23 co-occurrences
   - Top terms: sex(6), sexual(6), underage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
@@ -1775,22 +1648,22 @@ New York
 
 ---
 
-### 120. Palm Beach Police
+### 112. Roadhouse Grill
 
 **Statistics**:
 - Total Mentions: 11
-- Documents: 5
+- Documents: 4
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 40 co-occurrences
-  - Top terms: victim(5), victims(5), sex(4)
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: sex(4), sexual(4), minor(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Defendant also makes reference to the Palm Beach police repo1i, which details Epstein's...
+> the Roadhouse Grill. According to the police reports and court records, Plaintiff...
 
 ---
 
-### 121. Electronic Filing
+### 113. Electronic Filing
 
 **Statistics**:
 - Total Mentions: 11
@@ -1805,37 +1678,22 @@ New York
 
 ---
 
-### 122. Court Order
+### 114. Direct Defendant
 
 **Statistics**:
 - Total Mentions: 11
-- Documents: 4
+- Documents: 3
 - Document Types: legal_document, deposition, financial
-- Sensitive Terms: 22 co-occurrences
-  - Top terms: sex(3), trafficking(3), sexual(2)
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> second deposition the only pertinent questions permitted by the Court Order. See Fed. R. Civ. P....
+> Direct Defendant to Answer Deposition Questions Filed Under Seal...
 
 ---
 
-### 123. Fifth Amendment Privilege
-
-**Statistics**:
-- Total Mentions: 11
-- Documents: 1
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 12 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> procuring underage girls. The Supreme Comt has made clear that a Fifth Amendment privilege...
-
----
-
-### 124. Toll Free
+### 115. Toll Free
 
 **Statistics**:
 - Total Mentions: 11
@@ -1850,124 +1708,65 @@ New York
 
 ---
 
-### 125. The Second Circuit
-
-**Statistics**:
-- Total Mentions: 11
-- Documents: 5
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 44 co-occurrences
-  - Top terms: sex(5), abuse(5), underage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> The Second Circuit has identified four factors which are relevant to the determination as to...
-
----
-
-### 126. Luc Brunel
+### 116. The Court
 
 **Statistics**:
 - Total Mentions: 11
 - Documents: 2
-- Document Types: legal_document, correspondence, deposition
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(2), sexual(2), underage(1)
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(2), underage(2), abuse(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 22 Jean-Luc Brunel, yourself and Nadia Marcinkova to 2 2 Q. Based on the objection, do you know what a...
+> 2 As to other questions that the parties sought to compel Mr. Epstein to answer, the Court...
 
 ---
 
-### 127. Relevant Period
+### 117. Presumptive Ten Deposition
 
 **Statistics**:
 - Total Mentions: 11
-- Documents: 4
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 23 co-occurrences
-  - Top terms: sex(4), trafficking(3), abuse(3)
-- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> 2. Unless indicated otherwise, the Relevant Period for this Request is from 1996 to...
+> EXCEED PRESUMPTIVE TEN DEPOSITION LIMIT...
 
 ---
 
-### 128. Growing Together
+### 118. Black Caddy Escalade
 
 **Statistics**:
 - Total Mentions: 11
 - Documents: 1
-- Document Types: legal_document, correspondence
-- Sensitive Terms: 4 co-occurrences
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 11 co-occurrences
   - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/03/24
+- Associated Dates: 11/07/05, 11/07/05, 7/19/06
 
 **Sample Context**:
-> 8 Q You went to Growing Together?...
+> driveway and a Black Caddy Escalade in driveway, At 1325 Hours I...
 
 ---
 
-### 129. Sharon Churcher
-Subject
-
-**Statistics**:
-- Total Mentions: 11
-- Documents: 1
-- Document Types: email, financial, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), massage(1), minor(1)
-- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
-
----
-
-### 130. Plaintiff Virginia Giuffre
+### 119. Court
+Southern District
 
 **Statistics**:
 - Total Mentions: 10
-- Documents: 9
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 79 co-occurrences
-  - Top terms: sex(8), sexual(8), abuse(8)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,...
-
----
-
-### 131. Did Jeffrey
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 5
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 9 Q. Did Jeffrey ever tell you that he took a...
-
----
-
-### 132. Menninger
-Laura
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 8
+- Documents: 10
 - Document Types: legal_document, deposition, financial
 - Sensitive Terms: 4 co-occurrences
-  - Top terms: victim(1), abuse(1), drug(1)
+  - Top terms: victim(2), sex(1), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 133. Main Street
-Armonk
+### 120. Jeffrey Pagliuca
 
 **Statistics**:
 - Total Mentions: 10
@@ -1977,112 +1776,70 @@ Armonk
   - Top terms: victim(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> Jeffrey Pagliuca, Esq....
+
 ---
 
-### 134. Compel Non
+### 121. Florida Professional Reporter
+
+**Statistics**:
+- Total Mentions: 10
+- Documents: 7
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(4), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Florida Professional Reporter...
+
+---
+
+### 122. The Florida Court
 
 **Statistics**:
 - Total Mentions: 10
 - Documents: 3
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 11 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(2)
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 4. Defendant has moved to compel non-privileged documents, ECF...
+> Dershowitz. The Florida Court's ruling is therefore highly...
 
 ---
 
-### 135. Bradley Edwards
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 6
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 28 co-occurrences
-  - Top terms: sex(5), sexual(4), massage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> advice. Similarly, Bradley Edwards, who Defendant has already...
-
----
-
-### 136. Les Wexner
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 7
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 53 co-occurrences
-  - Top terms: sex(7), sexual(7), massage(7)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 6 Q. Did Jeffrey Epstein ever tell you 6 nature to wear for Les Wexner?...
-
----
-
-### 137. All Communications
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 6
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 60 co-occurrences
-  - Top terms: sex(6), sexual(6), victim(6)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 1. All Communications and Documents identified in Interrogatories 1-14,...
-
----
-
-### 138. Boulevard
-Palm Beach
-
-**Statistics**:
-- Total Mentions: 10
-- Documents: 2
-- Document Types: deposition, legal_document
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: nude(2), sex(1), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 139. Exceed Presumptive Ten
+### 123. On February
 
 **Statistics**:
 - Total Mentions: 10
 - Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 33 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 38 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> EXCEED PRESUMPTIVE TEN DEPOSITION LIMIT...
+> New York. On February 8, 2017, an investigator from Alpha Group Investigations went to 9 East...
 
 ---
 
-### 140. The Requests
+### 124. York
+Virginia
 
 **Statistics**:
 - Total Mentions: 10
-- Documents: 1
-- Document Types: legal_document, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> 2. Ms. Maxwell objects to the Requests to the extent they attempt to impose any...
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(1), victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 141. Video Deposition
+### 125. Video Deposition
 
 **Statistics**:
 - Total Mentions: 10
@@ -2095,37 +1852,46 @@ Palm Beach
 
 ---
 
-### 142. North Andrews Ave
+### 126. Main Street
+Armonk
 
 **Statistics**:
 - Total Mentions: 9
 - Documents: 9
-- Document Types: legal_document, financial, deposition
+- Document Types: deposition, legal_document, financial
 - Sensitive Terms: 1 co-occurrences
-  - Top terms: sex(1)
+  - Top terms: victim(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 425 North Andrews Ave., Ste. 2...
 
 ---
 
-### 143. If Epstein
+### 127. Defendant
+Maxwell
 
 **Statistics**:
 - Total Mentions: 9
-- Documents: 5
+- Documents: 4
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 54 co-occurrences
-  - Top terms: sex(5), sexual(5), massage(5)
+- Sensitive Terms: 46 co-occurrences
+  - Top terms: sex(4), sexual(4), underage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> subpoena. If Epstein appears live at trial, then Ms. Giuffre will, of course, simply present that...
 
 ---
 
-### 144. Nadia Marcincova
+### 128. Menninger
+Jeffrey
+
+**Statistics**:
+- Total Mentions: 9
+- Documents: 9
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 28 co-occurrences
+  - Top terms: sex(6), massage(4), sexual(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 129. Nadia Marcincova
 
 **Statistics**:
 - Total Mentions: 9
@@ -2140,22 +1906,22 @@ Palm Beach
 
 ---
 
-### 145. Maxwell Depo
+### 130. El Brillo Way
 
 **Statistics**:
 - Total Mentions: 9
-- Documents: 4
+- Documents: 6
 - Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 15 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(2)
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 1 Maxwell Depo. Tr. at 287:24-25....
+> 7 A. Yes. 7 wild parties ever at El Brillo Way?...
 
 ---
 
-### 146. Key Documents
+### 131. Key Documents
 
 **Statistics**:
 - Total Mentions: 9
@@ -2170,7 +1936,7 @@ Palm Beach
 
 ---
 
-### 147. And Ms
+### 132. And Ms
 
 **Statistics**:
 - Total Mentions: 9
@@ -2185,110 +1951,65 @@ Palm Beach
 
 ---
 
-### 148. Did Virginia
+### 133. Style Weather Answers
 
 **Statistics**:
 - Total Mentions: 9
-- Documents: 3
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 28 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
+- Documents: 2
+- Document Types: email, correspondence
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 14 question. I have no idea. 14 Q. Did Virginia ever stay at your home...
+> 6 Home Mail News Sport flnance Celebrity Style Weather Answers Fllckr Mobile More v...
 
 ---
 
-### 149. Virgin Islands
+### 134. Louella Rabuyo
 
 **Statistics**:
 - Total Mentions: 9
-- Documents: 5
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(4)
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 4 Virgin Islands?...
+> LOUELLA RABUYO...
 
 ---
 
-### 150. Jeffrey Epst
+### 135. Party Witness
 
 **Statistics**:
 - Total Mentions: 9
 - Documents: 1
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 2 co-occurrences
-  - Top terms: sex(1), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> any civil or criminal claims regarding Jeffrey Epstein, Ghislaine Maxwell, Natalya...
-
----
-
-### 151. When Jeffrey
-
-**Statistics**:
-- Total Mentions: 9
-- Documents: 5
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 32 co-occurrences
-  - Top terms: sex(5), sexual(5), massage(5)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 3 Q. When Jeffrey was pressuring you to do more...
-
----
-
-### 152. Prose Court Reporting
-
-**Statistics**:
-- Total Mentions: 9
-- Documents: 1
-- Document Types: deposition, legal_document, correspondence
 - Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
+  - Top terms: sex(1), underage(1), abuse(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Prose Court Reporting Services...
+> examined, however, from the perspective of a non-party witness' loyalty to the plaintiff or...
 
 ---
 
-### 153. With Defendant
+### 136. Defendant Has Not
 
 **Statistics**:
 - Total Mentions: 9
 - Documents: 1
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 10 co-occurrences
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 9 co-occurrences
   - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> 2Ms. Giuffre’s counsel met and conferredwith Defendant’s counsel both in person and by phone in an...
+> D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-...
 
 ---
 
-### 154. Registered
-No
-
-**Statistics**:
-- Total Mentions: 9
-- Documents: 1
-- Document Types: email, financial, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), massage(1), minor(1)
-- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
-
----
-
-### 155. Florida
+### 137. Florida
 My Commission
 
 **Statistics**:
@@ -2301,7 +2022,7 @@ My Commission
 
 ---
 
-### 156. Detective Recarey
+### 138. Detective Recarey
 
 **Statistics**:
 - Total Mentions: 8
@@ -2316,33 +2037,50 @@ My Commission
 
 ---
 
-### 157. Nicole Simmons
-Nicole
-
-**Statistics**:
-- Total Mentions: 8
-- Documents: 8
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: sex(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 158. New
-York
+### 139. Boies
+Schiller
 
 **Statistics**:
 - Total Mentions: 8
 - Documents: 6
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 17 co-occurrences
-  - Top terms: sex(5), sexual(5), massage(5)
+- Sensitive Terms: 39 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 159. Compel Plaintiff
+### 140. Nadia Marcinkova
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 5
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> April 13, 2010, Deposition of Nadia Marcinkova....
+
+---
+
+### 141. Motion In Limine
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: legal_document, deposition
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> DEFENDANT’S REPLY IN SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN...
+
+---
+
+### 142. Compel Non
 
 **Statistics**:
 - Total Mentions: 8
@@ -2353,11 +2091,11 @@ York
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> has moved to compel Plaintiff to disclose alleged on-going...
+> 4. Defendant has moved to compel non-privileged documents, ECF...
 
 ---
 
-### 160. By Order
+### 143. By Order
 
 **Statistics**:
 - Total Mentions: 8
@@ -2372,22 +2110,22 @@ York
 
 ---
 
-### 161. Clinton Foundation
+### 144. President Bill Clinton
 
 **Statistics**:
 - Total Mentions: 8
-- Documents: 2
+- Documents: 6
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 9 co-occurrences
-  - Top terms: sex(2), trafficking(2), abuse(2)
+- Sensitive Terms: 59 co-occurrences
+  - Top terms: sex(6), sexual(6), massage(6)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> information about her connection to the Clinton Foundation, claiming that such a request is...
+> statements about various interactions with former-President Bill Clinton. Of course, if...
 
 ---
 
-### 162. Menninger In Support
+### 145. Menninger In Support
 
 **Statistics**:
 - Total Mentions: 8
@@ -2400,37 +2138,20 @@ York
 
 ---
 
-### 163. Reported By
+### 146. Ireland Limited
 
 **Statistics**:
 - Total Mentions: 8
-- Documents: 5
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 16 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
+- Documents: 1
+- Document Types: email, legal_document, correspondence
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Reported By:...
+> & Ireland Limited is the holding company for the News UK group,...
 
 ---
 
-### 164. Did Sharon Churcher
-
-**Statistics**:
-- Total Mentions: 8
-- Documents: 3
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 19 co-occurrences
-  - Top terms: sex(3), sexual(2), trafficking(2)
-- Associated Dates: 05/03/22, 05/03/22, 05/03/22
-
-**Sample Context**:
-> 9 Q. Did Sharon Churcher ask you about...
-
----
-
-### 165. Employee Id
+### 147. Employee Id
 
 **Statistics**:
 - Total Mentions: 8
@@ -2445,7 +2166,50 @@ York
 
 ---
 
-### 166. Detective Pagan
+### 148. Income You
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 57 co-occurrences
+  - Top terms: sex(5), sexual(5), minor(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> d. any Income You received in exchange for such sexual trafficking; and...
+
+---
+
+### 149. Donald Trump
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 36 co-occurrences
+  - Top terms: sex(5), underage(5), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Donald Trump, Flavio Briatore, and Courtney Love, among others.8 Even the late Elie Wiesel’s...
+
+---
+
+### 150. Requested
+Documents
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 33 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 151. Detective Pagan
 
 **Statistics**:
 - Total Mentions: 8
@@ -2460,22 +2224,22 @@ York
 
 ---
 
-### 167. Florida Professional Reporter
+### 152. Maria Farmer
 
 **Statistics**:
 - Total Mentions: 8
-- Documents: 5
+- Documents: 2
 - Document Types: deposition, legal_document
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(2), massage(1)
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Florida Professional Reporter...
+> 13 to Maria Farmer and what Mr . Epstein was...
 
 ---
 
-### 168. Virginia Roberts Giuffre
+### 153. Virginia Roberts Giuffre
 
 **Statistics**:
 - Total Mentions: 8
@@ -2490,67 +2254,22 @@ York
 
 ---
 
-### 169. Sandra Townsend
-
-**Statistics**:
-- Total Mentions: 8
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 4 co-occurrences
-  - Top terms: sex(1), massage(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Electronically signed by Sandra Townsend (401-377-676-2895)...
-
----
-
-### 170. Legal Support
-
-**Statistics**:
-- Total Mentions: 8
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> U.S. Legal Support...
-
----
-
-### 171. In Sydney
+### 154. Clinton Foundation
 
 **Statistics**:
 - Total Mentions: 8
 - Documents: 2
-- Document Types: legal_document, correspondence, deposition
-- Sensitive Terms: 9 co-occurrences
-  - Top terms: sex(2), sexual(2), abuse(2)
-- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(2), trafficking(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
 **Sample Context**:
-> 5 A In Sydney....
+> Initiative, the Clinton Foundation (a/k/a William J. Clinton Foundation, a/k/a the Bill, Hilary &...
 
 ---
 
-### 172. Permit Inspection
-
-**Statistics**:
-- Total Mentions: 8
-- Documents: 1
-- Document Types: email, deposition, legal_document
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: massage(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> INFORMAT[ON, OR OBJECTS OR TO PERMIT INSPECTION OF PRE.MISES...
-
----
-
-### 173. Survivors Charter
+### 155. Survivors Charter
 
 **Statistics**:
 - Total Mentions: 8
@@ -2565,63 +2284,110 @@ York
 
 ---
 
-### 174. New York
-Virginia
+### 156. Transit Auth
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
+
+**Sample Context**:
+> e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3...
+
+---
+
+### 157. This Court Should
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> A. This Court should Order Production of Documents Responsive to Requests...
+
+---
+
+### 158. Documents Responsive
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> A. This Court should Order Production of Documents Responsive to Requests...
+
+---
+
+### 159. Emmy Taylor
 
 **Statistics**:
 - Total Mentions: 7
 - Documents: 7
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 175. This Court Should
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
+- Sensitive Terms: 46 co-occurrences
+  - Top terms: sex(7), sexual(7), massage(7)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> A. This Court should Order Production of Documents Responsive to Requests...
+> 19 A. At that point, I met Emmy Taylor, and she...
 
 ---
 
-### 176. Documents Responsive
+### 160. Palm Beach Atlantic
 
 **Statistics**:
 - Total Mentions: 7
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 35 co-occurrences
+  - Top terms: sex(6), sexual(6), massage(6)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> A. This Court should Order Production of Documents Responsive to Requests...
+> 10 Palm Beach Atlantic College....
 
 ---
 
-### 177. Sealed Composite Exhibit
+### 161. Undisclosed Email Account
 
 **Statistics**:
 - Total Mentions: 7
-- Documents: 2
-- Document Types: deposition, legal_document
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), trafficking(1), abuse(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 3. Attached hereto as Sealed Composite Exhibit 1 is a true and correct copy of...
+> Data from Defendant’s (Non-Existent) Undisclosed Email Account and For an Adverse...
 
 ---
 
-### 178. Paul Katz Professional
+### 162. Cassell
+Meredith Schultz
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 7
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 163. One Florida Park
 
 **Statistics**:
 - Total Mentions: 7
@@ -2632,57 +2398,12 @@ Virginia
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> B. Paul Katz Professional Center...
+> One Florida Park Drive South...
 
 ---
 
-### 179. Federal Practice
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 39 co-occurrences
-  - Top terms: sex(4), sexual(3), underage(3)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 8 C. Wright & A. Miller, Federal Practice and Procedure, § 2258 ............................................... 30...
-
----
-
-### 180. Designated By Plaintiff
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 2
-- Document Types: legal_document, deposition
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: sex(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL...
-
----
-
-### 181. For Use At
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 2
-- Document Types: legal_document, deposition
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: sex(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL...
-
----
-
-### 182. Lexington
-Avenue
+### 164. Court
+Reporter
 
 **Statistics**:
 - Total Mentions: 7
@@ -2694,7 +2415,7 @@ Avenue
 
 ---
 
-### 183. Unavailable Witness
+### 165. Unavailable Witness
 
 **Statistics**:
 - Total Mentions: 7
@@ -2709,7 +2430,7 @@ Avenue
 
 ---
 
-### 184. Adverse Inference
+### 166. May Be
 
 **Statistics**:
 - Total Mentions: 7
@@ -2720,24 +2441,71 @@ Avenue
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> obtain adverse inferences from his Fifth Amendment invocations. and Esplin should be...
+> B. Esp-lin May Be an Unavailable Witness..................................................................4...
 
 ---
 
-### 185. Declaration Of Laura
+### 167. The Second Circuit
 
 **Statistics**:
 - Total Mentions: 7
 - Documents: 4
-- Document Types: legal_document
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(4), sexual(3), massage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Declaration Of Laura A. Menninger In Support Of...
+> LiButti, 107 F.3d at 123–24. The Second Circuit emphasized, however, that whether these or...
 
 ---
 
-### 186. Bella Klen
+### 168. Maxwell Depo
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 1 Maxwell Depo. Tr. at 287:24-25....
+
+---
+
+### 169. Reported By
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 6
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(2), massage(2), nude(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Reported By:...
+
+---
+
+### 170. Australian Avenue South
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), underage(2), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 250 Australian Avenue South...
+
+---
+
+### 171. Bella Klen
 
 **Statistics**:
 - Total Mentions: 7
@@ -2750,50 +2518,48 @@ Avenue
 
 ---
 
-### 187. Adriana Ross
+### 172. The Times
 
 **Statistics**:
 - Total Mentions: 7
-- Documents: 4
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 5 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
+- Documents: 1
+- Document Types: email, legal_document, correspondence
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 22 co-conspirators are Sarah Kellen, Adriana Ross, and...
+> Subject: Re: The Times -Ghislaine Maxwell...
 
 ---
 
-### 188. Leslie Groff
+### 173. Judge Sweet
 
 **Statistics**:
 - Total Mentions: 7
 - Documents: 3
-- Document Types: deposition, legal_document, financial
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 13 called co-conspirators of Epstein. And Leslie Groff...
-
----
-
-### 189. West Palm Beach
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 16 co-occurrences
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
   - Top terms: sex(2), sexual(2), massage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> West Palm Beach, Florida 33401...
+> Order from Judge Sweet....
 
 ---
 
-### 190. For Jeffrey
+### 174. Americas
+New York
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 7
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(4), sexual(4), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 175. For Jeffrey
 
 **Statistics**:
 - Total Mentions: 7
@@ -2808,7 +2574,7 @@ Avenue
 
 ---
 
-### 191. Email Correspondence
+### 176. Email Correspondence
 
 **Statistics**:
 - Total Mentions: 7
@@ -2821,22 +2587,7 @@ Avenue
 
 ---
 
-### 192. The Plaintiff
-
-**Statistics**:
-- Total Mentions: 7
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 15 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> involving the Plaintiff and others, sex involving Plaintiff and Mr. Epstein, sex involving the...
-
----
-
-### 193. Maxwell Dep
+### 177. Maxwell Dep
 
 **Statistics**:
 - Total Mentions: 7
@@ -2851,7 +2602,22 @@ Avenue
 
 ---
 
-### 194. Certified Realtime
+### 178. United States Attorney
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(3), sexual(3), minor(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> THEREFORF., on the authority of R. Alexander Acosta, United States Attorney for...
+
+---
+
+### 179. Certified Realtime
 
 **Statistics**:
 - Total Mentions: 7
@@ -2866,7 +2632,50 @@ Avenue
 
 ---
 
-### 195. Doo Ccuomuretn Rt
+### 180. El Brillo
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: massage(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 2 at 358 El Brillo Way; is that correct?...
+
+---
+
+### 181. Virginia Ro
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 6. "Virginia Ro eans Virginia Giuffre, formerly known as Virginia Roberts,...
+
+---
+
+### 182. Boulevard
+Palm Beach
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 183. Doo Ccuomuretn Rt
 
 **Statistics**:
 - Total Mentions: 7
@@ -2881,20 +2690,52 @@ Avenue
 
 ---
 
-### 196. Common Interest Communication
+### 184. Sigrid Mccawley
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, correspondence, email
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> Menninger to Sigrid McCawley dated April 25, 2016 concerning discovery....
+
+---
+
+### 185. In Support
 
 **Statistics**:
 - Total Mentions: 7
 - Documents: 1
-- Document Types: unknown
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> 6. 2015.01.06 E-Mail 1029 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest...
+> In her Amended Corrected Reply In Support of Motion to Exceed Ten Depositions, Plaintiff represents that she...
 
 ---
 
-### 197. Officer Recarey
+### 186. Bradley Edwards
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> counsel, including without limitation Mr. Bradley Edwards, which were requested in...
+
+---
+
+### 187. Officer Recarey
 
 **Statistics**:
 - Total Mentions: 6
@@ -2909,7 +2750,7 @@ Avenue
 
 ---
 
-### 198. Electronic
+### 188. Electronic
 Court Filing
 
 **Statistics**:
@@ -2922,7 +2763,7 @@ Court Filing
 
 ---
 
-### 199. Mr Epstein
+### 189. Mr Epstein
 
 **Statistics**:
 - Total Mentions: 6
@@ -2937,22 +2778,52 @@ Court Filing
 
 ---
 
-### 200. Flight Logs
+### 190. Eva Anderson
 
 **Statistics**:
 - Total Mentions: 6
-- Documents: 3
-- Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 20 co-occurrences
-  - Top terms: sex(2), sexual(2), underage(2)
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 11. Attached hereto as Sealed Exhibit 9 are true and correct copies of flight logs...
+> 10 girl walk into Eva Anderson's home?...
 
 ---
 
-### 201. Individual Rules
+### 191. Police Report
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> THE HEARSAY POLICE REPORT IS INADMISSABLE...
+
+---
+
+### 192. Exclude In Toto
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: legal_document, deposition
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> in Limine to Exclude In Toto certain depositions designated by Plaintiff for use at trial and states...
+
+---
+
+### 193. File Excess Pages
 
 **Statistics**:
 - Total Mentions: 6
@@ -2963,11 +2834,26 @@ Court Filing
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Individual Rules of Practice. This motion is granted....
+> Plaintiff filed her motion for leave to file excess pages...
 
 ---
 
-### 202. Glenn Dubin
+### 194. Maxwell Exhibit
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: drug(1), drugs(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 2 (Maxwell Exhibit 17, email, marked...
+
+---
+
+### 195. Glenn Dubin
 
 **Statistics**:
 - Total Mentions: 6
@@ -2982,8 +2868,8 @@ Court Filing
 
 ---
 
-### 203. Court
-Reporter
+### 196. Lexington
+Avenue
 
 **Statistics**:
 - Total Mentions: 6
@@ -2995,7 +2881,7 @@ Reporter
 
 ---
 
-### 204. Pearl Street
+### 197. Pearl Street
 New
 
 **Statistics**:
@@ -3008,20 +2894,7 @@ New
 
 ---
 
-### 205. Judge
-United States
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 6
-- Document Types: legal_document, correspondence, deposition
-- Sensitive Terms: 5 co-occurrences
-  - Top terms: sex(1), sexual(1), trafficking(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 206. Of Defendant
+### 198. Of Defendant
 
 **Statistics**:
 - Total Mentions: 6
@@ -3034,80 +2907,37 @@ United States
 
 ---
 
-### 207. Reply Or
+### 199. The Florida
 
 **Statistics**:
 - Total Mentions: 6
 - Documents: 2
-- Document Types: legal_document, deposition, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Defendant’s Motion For Leave to File A Sur-Reply Or, Alternatively,...
-
----
-
-### 208. Menninger
-Jeffrey
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 6
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 49 co-occurrences
-  - Top terms: sex(6), sexual(5), victim(5)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 209. Jane Does
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 6
-- Document Types: legal_document, email, financial
-- Sensitive Terms: 35 co-occurrences
-  - Top terms: sex(4), massage(4), underage(4)
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> The US lawyers for the Jane Does are filling additional discovery motions and if I speak I open my self to being...
+> by the Florida Department of Children and Families. Each Florida document at issue here is...
 
 ---
 
-### 210. El Brillo Way
+### 200. Professor Cassell
 
 **Statistics**:
 - Total Mentions: 6
-- Documents: 4
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
 
 **Sample Context**:
-> 7 A. Yes. 7 wild parties ever at El Brillo Way?...
+> 1 not Professor Cassell and Mr. Edwards were defamed...
 
 ---
 
-### 211. Street Number
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 1
-- Document Types: legal_document, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
-
-**Sample Context**:
-> Street Number WILLOWS, 156 MARTIN CIR...
-
----
-
-### 212. Menninger
+### 201. Menninger
 Haddon
 
 **Statistics**:
@@ -3120,35 +2950,7 @@ Haddon
 
 ---
 
-### 213. Adverse Inference
-Instruction
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(2), trafficking(2), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 214. States Attorney
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 1
-- Document Types: legal_document, financial
-- Sensitive Terms: 5 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> IT APPEARING that the Unitl,d States Attorney's Office and the Federal Bureau of...
-
----
-
-### 215. When Virginia
+### 202. When Virginia
 
 **Statistics**:
 - Total Mentions: 6
@@ -3163,7 +2965,7 @@ Instruction
 
 ---
 
-### 216. One Florida Park
+### 203. Palm Coast
 
 **Statistics**:
 - Total Mentions: 6
@@ -3174,11 +2976,26 @@ Instruction
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> One Florida Park Drive South...
+> Palm Coast, Florida 32137...
 
 ---
 
-### 217. The Document
+### 204. Paul Katz Professional
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 5
+- Document Types: deposition, legal_document
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> B. Paul Katz Professional Center...
+
+---
+
+### 205. The Document
 
 **Statistics**:
 - Total Mentions: 6
@@ -3193,20 +3010,38 @@ Instruction
 
 ---
 
-### 218. Archive Sarah Ransome
+### 206. Lexington Avenue
 
 **Statistics**:
 - Total Mentions: 6
-- Documents: 1
-- Document Types: email, correspondence
+- Documents: 4
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Archive Sarah Ransome...
+> Flexner, LLP, 575 Lexington Avenue , New...
 
 ---
 
-### 219. Present Epstein Testimony
+### 207. When Required
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(3), sexual(1), trafficking(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> (A) When Required. On timely !ftOtion, the court for the district where lnfonnation and any copies it has; must not use or disclose the infonnation...
+
+---
+
+### 208. Fifth
+Amendment
 
 **Statistics**:
 - Total Mentions: 6
@@ -3216,68 +3051,172 @@ Instruction
   - Top terms: sex(1), underage(1), abuse(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-**Sample Context**:
-> Inference (“Motion to Present Epstein Testimony”) at 10-13, and defendant Maxwell has argued why...
+---
+
+### 209. Alan
+Dershowitz
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 220. Cingular Wireless
+### 210. Jean Luc Brunel
 
 **Statistics**:
 - Total Mentions: 6
 - Documents: 2
-- Document Types: email, deposition, legal_document
-- Sensitive Terms: 11 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, Feb 2, 2007
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: underage(1), minor(1), sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Unread Sent via BlackBerry from Cingular Wireless...
+> 25 6/1/2005 from Jean Luc Brunel with a phone...
 
 ---
 
-### 221. Robert Giuffre
+### 211. The State Of
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 1 BY MR. LANGINO: 1 THE STATE OF FLORIDA, )...
+
+---
+
+### 212. Alan Der
 
 **Statistics**:
 - Total Mentions: 6
 - Documents: 1
-- Document Types: email, deposition, legal_document
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), underage(1), minor(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> To: Robert Giuffre...
+> 18 Q And between those same years of 2002 and 18 Q Generally, Alan Dershowitz is familiar...
 
 ---
 
-### 222. Jane
-Doe
-
-**Statistics**:
-- Total Mentions: 6
-- Documents: 2
-- Document Types: legal_document
-- Sensitive Terms: 20 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
-- Associated Dates: 01/03/24, December 30, 2014, December 30, 2014
-
----
-
-### 223. Charter School
+### 213. Underage Girl
 
 **Statistics**:
 - Total Mentions: 6
 - Documents: 1
 - Document Types: deposition, legal_document
-- Associated Dates: 01/04/24, 01/04/24, 01/04/24
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> 11 Q When you were at Survivors Charter School,...
+> Questions About Recruiting Girls, an Underage Girl in London,...
 
 ---
 
-### 224. Biscayne Boulevard
+### 214. At Plaintiff
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: abuse(1), drug(1), drugs(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> At Plaintiff’s depositiononMay3,2016,shedescribedreceivingtreatment from Dr....
+
+---
+
+### 215. Did Sharon Churcher
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(1), trafficking(1)
+- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
+
+**Sample Context**:
+> 12 Q (BY MS. MENNINGER) Did Sharon Churcher...
+
+---
+
+### 216. Luc Brunel
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24
+
+**Sample Context**:
+> 1 to have sex with Jean Luc Brunel?...
+
+---
+
+### 217. Ellen Schultz
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> Pottinger,Ellen Schultz,DavidBoies,Jack...
+
+---
+
+### 218. Donna Oliver
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
+
+**Sample Context**:
+> Donna Oliver P.A.” (Mtn. at 4, emphasis original)....
+
+---
+
+### 219. Andrews Ave
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: abuse(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 425 N. Andrews Ave., Suite 2...
+
+---
+
+### 220. Biscayne Boulevard
 
 **Statistics**:
 - Total Mentions: 5
@@ -3292,65 +3231,72 @@ Doe
 
 ---
 
-### 225. Yet Defendant
+### 221. Defendant
+Ghislaine Maxwell
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 222. University Street
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Meredith Schultz 383 S. University Street...
+
+---
+
+### 223. Electronic
+Court
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 5
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 52 co-occurrences
-  - Top terms: sex(5), sexual(5), massage(5)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> assault. Yet Defendant’s responses to Ms. Giuffre’s interrogatories shockingly called this child...
 
 ---
 
-### 226. Ty Gee
+### 224. Drive South
+Suite
 
 **Statistics**:
 - Total Mentions: 5
-- Documents: 3
-- Document Types: legal_document, deposition
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: sex(1)
+- Documents: 4
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Ty Gee...
 
 ---
 
-### 227. Eva Dubin
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 3
-- Document Types: legal_document, deposition, correspondence
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: sex(2), massage(2), trafficking(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 21 A. He is the husband of Eva Dubin....
-
----
-
-### 228. Maxwell Exhibit
+### 225. Flight Logs
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 2
-- Document Types: deposition, legal_document, correspondence
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 2 (Maxwell Exhibit 17, email, marked...
+> 11. Attached hereto as Sealed Exhibit 9 are true and correct copies of flight logs...
 
 ---
 
-### 229. Sweet
+### 226. Sweet
 United Stat
 
 **Statistics**:
@@ -3363,7 +3309,37 @@ United Stat
 
 ---
 
-### 230. The Dubins
+### 227. Strike Plaintiff
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> to Strike Plaintiff’s Misrepresentations of Fact to the Court...
+
+---
+
+### 228. The Protective Order
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> “confidential,” under the terms of the protective order at issue in this case....
+
+---
+
+### 229. The Dubins
 
 **Statistics**:
 - Total Mentions: 5
@@ -3378,66 +3354,83 @@ United Stat
 
 ---
 
-### 231. Jack Scarola
+### 230. Oper Lie
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+
+**Sample Context**:
+> Oper Lie entry Race . . ... Black...
+
+---
+
+### 231. Misrepresentations Of Fact
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 1
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 13 co-occurrences
+- Sensitive Terms: 7 co-occurrences
   - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 05/03/22, 05/03/22, 05/03/22
-
-**Sample Context**:
-> Jack Scarola, Esquire...
-
----
-
-### 232. West Flagler Street
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 5
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 11 co-occurrences
-  - Top terms: massage(4), sex(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 13 Plaintiff, 15 25 West Flagler Street...
+> PLAINTIFF’S MISREPRESENTATIONS OF FACT TO THE COURT...
 
 ---
 
-### 233. Did Ms
+### 232. New Information
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 2
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(2), sexual(2), massage(2)
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Q: Did Ms. Maxwell ever call you and ask you to bring a girl to her?...
+> ON NEW INFORMATION...
 
 ---
 
-### 234. The Honorable Loretta
+### 233. Las Olas Blvd
 
 **Statistics**:
 - Total Mentions: 5
-- Documents: 5
-- Document Types: legal_document, correspondence
-- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
+- Documents: 4
+- Document Types: legal_document, deposition, email
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> The Honorable Loretta A. Preska...
+> 401 E. Las Olas Blvd., Suite 1200...
 
 ---
 
-### 235. District Court
-Southern
+### 234. Carolyn Andriamo
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Q. Have you ever heard the name of Carolyn Andriamo, A-N-D-R-I-A-M-O?...
+
+---
+
+### 235. Preska
+District Court
 
 **Statistics**:
 - Total Mentions: 5
@@ -3460,8 +3453,8 @@ Southern
 
 ---
 
-### 237. Preska
-District Court
+### 237. Judge
+United States
 
 **Statistics**:
 - Total Mentions: 5
@@ -3471,20 +3464,59 @@ District Court
 
 ---
 
-### 238. Palm Beach
-Police
+### 238. District Court
+Southern
 
 **Statistics**:
 - Total Mentions: 5
-- Documents: 4
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
+
+---
+
+### 239. The Honorable Loretta
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
+
+**Sample Context**:
+> The Honorable Loretta A. Preska...
+
+---
+
+### 240. Louis Freeh
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 46 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(4)
+- Sensitive Terms: 34 co-occurrences
+  - Top terms: sex(3), sexual(3), minor(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> was debunked by none other than former FBI head, Louis Freeh. Id....
+
+---
+
+### 241. Maxwell
+Case No
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(5), underage(3), minor(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 239. Improper Objections
+### 242. Improper Objections
 
 **Statistics**:
 - Total Mentions: 5
@@ -3499,48 +3531,106 @@ Police
 
 ---
 
-### 240. United States Attorney
+### 243. See
+Menninger Decl
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 244. Paul Cassell
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: email, legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Cc:SigridMcCawley; JeffPagliuca; BradEdwards; Paul Cassell (cassellp@law.utah.edu)...
+
+---
+
+### 245. Meredith
+Meredith
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: email, legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
+
+### 246. Did Emmy
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 10 A. I've just been instructed not to 10 Q. Did Emmy ever have sex with...
+
+---
+
+### 247. Would Jeffrey Epstein
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 1
-- Document Types: legal_document, financial
-- Sensitive Terms: 5 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> THEREFORF., on the authority of R. Alexander Acosta, United States Attorney for...
+> 17 day would Jeffrey Epstein get a massage? 17 Q. Do you recall, you said you don't...
 
 ---
 
-### 241. Palm Coast
+### 248. New
+York
 
 **Statistics**:
 - Total Mentions: 5
-- Documents: 4
+- Documents: 3
 - Document Types: deposition, legal_document
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(2), massage(1)
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Palm Coast, Florida 32137...
 
 ---
 
-### 242. Sarah Ransome
-Lesley
+### 249. And Ghislaine
 
 **Statistics**:
 - Total Mentions: 5
-- Documents: 1
-- Document Types: email, correspondence
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 24 A. Not that I recall. And Ghislaine's...
 
 ---
 
-### 243. Teresa Whalen
+### 250. Teresa Whalen
 
 **Statistics**:
 - Total Mentions: 5
@@ -3555,7 +3645,7 @@ Lesley
 
 ---
 
-### 244. Judith Lightfoot
+### 251. Judith Lightfoot
 
 **Statistics**:
 - Total Mentions: 5
@@ -3570,22 +3660,7 @@ Lesley
 
 ---
 
-### 245. Which Ms
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> or Reasonably Foreseeable Litigation to Which Ms. Giuffre Was a Party..............6...
-
----
-
-### 246. Joseph Recarey
+### 252. Joseph Recarey
 
 **Statistics**:
 - Total Mentions: 5
@@ -3600,7 +3675,7 @@ Lesley
 
 ---
 
-### 247. Laine Maxwell
+### 253. Laine Maxwell
 
 **Statistics**:
 - Total Mentions: 5
@@ -3615,7 +3690,37 @@ Lesley
 
 ---
 
-### 248. Dave Rodgers
+### 254. Ghislaine Maxwel
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 12 Q. Did Ghislaine Maxwell introduce you to 12 lawyer, I must invoke my Fifth Amendment right....
+
+---
+
+### 255. Lynn Miller
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: abuse(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Alessi; May 24,2016, Deposition of Lynn Miller; June 21, 2016, Deposition of Detective Joseph...
+
+---
+
+### 256. Dave Rodgers
 
 **Statistics**:
 - Total Mentions: 5
@@ -3630,7 +3735,52 @@ Lesley
 
 ---
 
-### 249. Only One Form
+### 257. Under New York
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 1. Under New York law, defamation per se as alleged in this case...
+
+---
+
+### 258. Nadia Marcinko
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(2), victim(2), victims(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 63. Nadia Marcinko formerly Nadia Marcinkova...
+
+---
+
+### 259. Any Documents
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 17. Any Documents concerning Your residency during the years 2006-2007, including...
+
+---
+
+### 260. Appearance Not Required
 
 **Statistics**:
 - Total Mentions: 5
@@ -3641,11 +3791,11 @@ Lesley
 - Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
 **Sample Context**:
-> subpoena. The court for the district where compliance is required must (C) Electronically Stored Information Produced in Only One Form. The...
+> (A) Appearance Not Required. A person commanded to produce of undue burden or cost. On motion to compel discovery or for a protective...
 
 ---
 
-### 250. Claiming Privilege
+### 261. Committee Note
 
 **Statistics**:
 - Total Mentions: 5
@@ -3656,26 +3806,11 @@ Lesley
 - Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
 **Sample Context**:
-> in the subpoena a written objection to inspecting, copying, testing, or (2) Claiming Privilege or Protection....
+> For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013)....
 
 ---
 
-### 251. Royal Palm
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> Royal Palm Beach, FL33441...
-
----
-
-### 252. Failure To Comply
+### 262. Failure To Comply
 
 **Statistics**:
 - Total Mentions: 5
@@ -3688,65 +3823,35 @@ Lesley
 
 ---
 
-### 253. Det Caristo
+### 263. Ghislaine Maxwell Jeffrey
 
 **Statistics**:
 - Total Mentions: 5
 - Documents: 1
-- Document Types: deposition, legal_document, flight_log
+- Document Types: unknown
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> 6. 2015.01.06 E-Mail 1029 Ghislaine Maxwell Jeffrey Epstein Common Interest Communication Common Interest...
+
+---
+
+### 264. Nadia Marcinkova April
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
 - Sensitive Terms: 11 co-occurrences
   - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 11/07/05, 11/07/05, 7/19/06
-
-**Sample Context**:
-> On January 25, 2006, Det Caristo and I, responded to._....
-
----
-
-### 254. Joint Defense Agreement
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 1
-- Document Types: legal_document, financial
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
 - Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
 **Sample Context**:
-> Federal Rules of Evidence, any common interest privilege, joint defense agreement or any other...
+> SeeMcCawley Decl. at Exhibit 7,Nadia Marcinkova April 13, 2010 Dep. Tr. at p. 29-30...
 
 ---
 
-### 255. The Complaint
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 2
-- Document Types: legal_document, financial, deposition
-- Sensitive Terms: 17 co-occurrences
-  - Top terms: sex(2), sexual(2), minor(2)
-- Associated Dates: 01/03/24, 01/03/24, 01/03/24
-
-**Sample Context**:
-> and not reasonably calculated to lead to the discovery of admissible evidence. The Complaint at...
-
----
-
-### 256. Virginia Giuffre
-Subject
-
-**Statistics**:
-- Total Mentions: 5
-- Documents: 1
-- Document Types: email, financial, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), massage(1), minor(1)
-- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
-
----
-
-### 257. Highly Material
+### 265. Highly Material
 
 **Statistics**:
 - Total Mentions: 5
@@ -3761,37 +3866,37 @@ Subject
 
 ---
 
-### 258. Palm Beach Atlantic
+### 266. In Palm Beach
 
 **Statistics**:
 - Total Mentions: 4
-- Documents: 4
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 13 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 10 Palm Beach Atlantic College....
-
----
-
-### 259. South University Street
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 4
+- Documents: 3
 - Document Types: deposition, legal_document
-- Sensitive Terms: 13 co-occurrences
+- Sensitive Terms: 9 co-occurrences
   - Top terms: sex(3), sexual(3), massage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 383 South University Street...
+> 24 A. She explained that she lived in Palm Beach...
 
 ---
 
-### 260. United Kingdom
+### 267. Defendant Ghislaine Maxwell
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> DEFENDANT GHISLAINE MAXWELL’S...
+
+---
+
+### 268. United Kingdom
 
 **Statistics**:
 - Total Mentions: 4
@@ -3804,74 +3909,123 @@ Subject
 
 ---
 
-### 261. Cassell
-Meredith Schultz
+### 269. Ives Dairy Road
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 4
-- Document Types: legal_document, financial
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: massage(4), sex(2), sexual(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 14 Vs. 12 1031 Ives Dairy Road...
 
 ---
 
-### 262. Defendant
-Ghislaine Maxwell
+### 270. Bill Clinton
 
 **Statistics**:
 - Total Mentions: 4
-- Documents: 4
-- Document Types: legal_document, financial
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: victim(1), sex(1), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Mr. Freeh may have knowledge concerning travel of Bill Clinton....
 
 ---
 
-### 263. Santa Fe
+### 271. Notary Public
+Southern
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 4
 - Document Types: deposition, legal_document, flight_log
-- Sensitive Terms: 24 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 7 Palm Beach to SAF. Is SAF Santa Fe?...
 
 ---
 
-### 264. Recarey Dep
+### 272. Steven Olson
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 4
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 39 co-occurrences
+- Sensitive Terms: 28 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> (cid:120) Dr. Steven Olson,JaneDoe2...
+
+---
+
+### 273. Employment You
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 47 co-occurrences
   - Top terms: sex(4), sexual(4), massage(4)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> 11 See McCawley Decl. at Exhibit 5, Recarey Dep. Tr. at 125:16-23 (“Q. Did you ever ascertain...
+> 9. Identify any Employment You have had from 1996 until the present,...
 
 ---
 
-### 265. John Wiley
+### 274. Limine To Exclude
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> DEFENDANT’S REPLY IN SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN...
+
+---
+
+### 275. Depositions Designated By
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL...
+
+---
+
+### 276. Protective
+Order
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 16 co-occurrences
-  - Top terms: sex(3), sexual(3), massage(3)
+- Document Types: legal_document, deposition, flight_log
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> burden." John Wiley & Sons, Inc. v. Book Dog Books, LLC, 298...
 
 ---
 
-### 266. Former Testimony
+### 277. Deposition Should Be
 
 **Statistics**:
 - Total Mentions: 4
@@ -3882,24 +4036,67 @@ Ghislaine Maxwell
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> B. If the Rodriguez Deposition is Not Admissible Under the Former Testimony...
+> B. Deposition Should Be Allowed...................................................7...
 
 ---
 
-### 267. Federal
-Rules
+### 278. Sjoberg Dep
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 38 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> See Schultz Dec. at Exhibit 1, May 18, 2016, Sjoberg Dep. Tr. at 39:25-40:9.There is no...
+
+---
+
+### 279. Juan Alessi
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 3
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 20 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(2)
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), trafficking(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> from the deposition of Juan Alessi, designated as Confidential under the Protective Order....
 
 ---
 
-### 268. Richard Kahn
+### 280. Declaration Of Laura
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: legal_document
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Declaration Of Laura A. Menninger In Support Of...
+
+---
+
+### 281. Leslie Groff
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 13 called co-conspirators of Epstein. And Leslie Groff...
+
+---
+
+### 282. Richard Kahn
 
 **Statistics**:
 - Total Mentions: 4
@@ -3912,89 +4109,65 @@ Rules
 
 ---
 
-### 269. Florida
-Prose Court
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 270. The Florida
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 9 co-occurrences
-  - Top terms: sex(1), sexual(1), minor(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> by the Florida Department of Children and Families. Each Florida document at issue here is...
-
----
-
-### 271. Lake Worth
+### 283. Avenue North
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 4
 - Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(1)
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: massage(4), sex(2), sexual(1)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Lake Worth, Florida 33461...
+> 2290 10th Avenue North 3 Florida at Large, in the above cause....
 
 ---
 
-### 272. Street Number
-City
+### 284. Royal Palm Beach
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(3), underage(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Department and the Royal Palm Beach Police Departments all likewise have never concluded...
+
+---
+
+### 285. Giuffre Did Not
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 1
-- Document Types: legal_document, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> Ross.”GM_01141. Ms. Giuffre did not have the opportunity to question Defendant about t■he...
 
 ---
 
-### 273. Number
-City
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: legal_document, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: sex(1), sexual(1), abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
-
----
-
-### 274. Direct Defendant
+### 286. Adverse Inference Instruction
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 2
-- Document Types: legal_document, deposition
+- Document Types: deposition, legal_document, financial
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> the Court’s Order and Direct Defendant to Answer Deposition Questions Filed Under Seal....
+> SUPPLEMENT TO MOTION FOR ADVERSE INFERENCE INSTRUCTION BASED...
 
 ---
 
-### 275. Was Jeffrey
+### 287. Was Jeffrey
 
 **Statistics**:
 - Total Mentions: 4
@@ -4009,22 +4182,97 @@ City
 
 ---
 
-### 276. Marianne Strong
+### 288. Errata Sheet
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> indicated on the attached Errata Sheet ....
+
+---
+
+### 289. While Dershowitz
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 1
-- Document Types: email, financial, correspondence
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), underage(1), abuse(1)
-- Associated Dates: 01/05/24, 01/05/24, 2/21/2014
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> To: Marianne Strong[mariannestrong@stronglit.com]...
+> girls. McCawley Dec at 2,Dershowitz Flights.While Dershowitz said he was “never” in the places where Virginia...
 
 ---
 
-### 277. Ms Maxwell
+### 290. Legal Standard
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> A. Legal Standard......................................................................................................10...
+
+---
+
+### 291. The Order
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> extension of time in relation to the opposition motion to which it was attached. The Order makes no mention of it....
+
+---
+
+### 292. Vicky Ward
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> description of their living environments, and whether journalist Vicky Ward ever told Ms....
+
+---
+
+### 293. The Guardian
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: legal_document, financial, email
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), underage(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> So this isn't getting better ... latest from our chums at The Guardian....
+
+---
+
+### 294. Ms Maxwell
 
 **Statistics**:
 - Total Mentions: 4
@@ -4039,20 +4287,35 @@ City
 
 ---
 
-### 278. Meredith
-Meredith
+### 295. The Terramar Project
 
 **Statistics**:
 - Total Mentions: 4
-- Documents: 2
-- Document Types: email, legal_document, correspondence
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
+- Documents: 3
+- Document Types: legal_document, financial, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(3), massage(3), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> mindspring.com); (3) any of Ms. Maxwell's email account associated with The Terramar Project...
+
+---
+
+### 296. Prince
+Andrew
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: legal_document, financial, email
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: sex(3), massage(3), trafficking(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 279. United States Code
+### 297. United States Code
 
 **Statistics**:
 - Total Mentions: 4
@@ -4067,82 +4330,37 @@ Meredith
 
 ---
 
-### 280. Jeff Pagliuca
+### 298. Does Jeffrey
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 3
-- Document Types: legal_document, email, correspondence
-- Sensitive Terms: 16 co-occurrences
-  - Top terms: sex(3), rape(2), massage(2)
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> Cc: Jeff Pagliuca; Sigrid S. McCawley - Boies, Schiller & Flexner LLP (smccawley@bsfllp.com); 'brad@pathtojustice.com'...
+> 5 A. When I was present at the house, I 5 Q. How many homes does Jeffrey have?...
 
 ---
 
-### 281. State Attorney
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 2
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(2), trafficking(1), sexual(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> police from Epstein’s home, and turned over to the Palm Beach County State Attorney as part of...
-
----
-
-### 282. See Rule
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 42 co-occurrences
-  - Top terms: sex(4), sexual(4), massage(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> that you immediately withdraw those interrogatories. See Rule 33.3, Local Rules for the...
-
----
-
-### 283. Carol Roberts Kess
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 4
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 41 co-occurrences
-  - Top terms: sex(4), sexual(4), abuse(4)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> i. Carol Roberts Kess;...
-
----
-
-### 284. When Alan Dershowitz
+### 299. Exhibit No
 
 **Statistics**:
 - Total Mentions: 4
 - Documents: 3
 - Document Types: deposition, legal_document, financial
-- Sensitive Terms: 22 co-occurrences
-  - Top terms: massage(3), sex(2), sexual(2)
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(2), sexual(2), victim(2)
 - Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 **Sample Context**:
-> “Q: Okay. When Alan Dershowitz was at the house I understood...
+> 8 incident report, Exhibit No. 1, correct?...
 
 ---
 
-### 285. Deposition Exhibit
+### 300. Deposition Exhibit
 
 **Statistics**:
 - Total Mentions: 4
@@ -4154,225 +4372,6 @@ Meredith
 
 **Sample Context**:
 > 4 Deposition Exhibit 11.)...
-
----
-
-### 286. North Flagler Drive
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 4
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 7 co-occurrences
-  - Top terms: massage(4), sex(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 9 515 North Flagler Drive...
-
----
-
-### 287. Are Judicial Documents
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> B.(cid:3) The Requested Documents Are Judicial Documents .................................16(cid:3)...
-
----
-
-### 288. Related Cases
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 3
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 28 co-occurrences
-  - Top terms: sex(3), sexual(3), underage(3)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> VI. RELATED/ (See instructions): a) Re-filed Case □YES □ NO b) Related Cases ~ ES □ NO...
-
----
-
-### 289. Drive South
-Suite
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 3
-- Document Types: deposition, legal_document
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(2), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 290. El Brillo
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 1 co-occurrences
-  - Top terms: massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2 at 358 El Brillo Way; is that correct?...
-
----
-
-### 291. Finance
-Pumla Griszell
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: email, correspondence
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
----
-
-### 292. Did Ghislaine Maxwell
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 2
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 10 co-occurrences
-  - Top terms: sex(2), sexual(2), underage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 19 Q. Did Ghislaine Maxwell ever ask you to go...
-
----
-
-### 293. President Clinton
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 2
-- Document Types: deposition, legal_document
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(2), massage(2), underage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 25 get a message to Mr. Epstein? 2 5 President Clinton, did you ever --...
-
----
-
-### 294. Modeling Agency
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document, financial
-- Sensitive Terms: 6 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 4 lrnppencd here. It hns deteriorated here for 4 females through a modeling agency?...
-
----
-
-### 295. County Of Dade
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 2
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 2 co-occurrences
-  - Top terms: massage(2)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 2 Q. Are you currently in fear of Mr. Epstein? 2 COUNTY OF DADE. )...
-
----
-
-### 296. Motion Should Be
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> A. Defendant’s Motion Should Be Denied Because it is Untimely and Defendant...
-
----
-
-### 297. Pfizer Inc
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document
-- Sensitive Terms: 8 co-occurrences
-  - Top terms: sex(1), sexual(1), massage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> In re Pfizer Inc. Securities Litigation,...
-
----
-
-### 298. Reporting Services
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Prose Court Reporting Services...
-
----
-
-### 299. Australian Av
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> 10:37 • 6:51 p.m. 18 250 Australian Avenue South...
-
----
-
-### 300. Job No
-
-**Statistics**:
-- Total Mentions: 4
-- Documents: 1
-- Document Types: deposition, legal_document, correspondence
-- Sensitive Terms: 3 co-occurrences
-  - Top terms: sex(1), sexual(1), underage(1)
-- Associated Dates: 01/05/24, 01/05/24, 01/05/24
-
-**Sample Context**:
-> Prose Court Reporting Services 24 Job No.: 1484...
 
 ---
 

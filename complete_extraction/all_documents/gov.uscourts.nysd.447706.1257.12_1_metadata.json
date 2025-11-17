@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1257.12_1",
   "filename": "gov.uscourts.nysd.447706.1257.12_1.pdf",
-  "extraction_date": "2025-11-17T10:31:16.817584",
+  "extraction_date": "2025-11-17T10:38:01.987850",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -75,35 +75,35 @@
     }
   ],
   "people": [
-    "The Dubins",
-    "Court Reporter",
-    "Daily Mail",
-    "Possibly April",
-    "Exhibit No",
-    "Civil Procedure",
-    "Special Master",
-    "Just Sharon",
-    "Meridith Schultz",
-    "Prince Andrew",
-    "Did Sharon Churcher",
-    "On Little Saint",
-    "Has Professor Cassell",
-    "Ed Pozzuoli",
-    "Richard Simpson",
-    "Eva Anderson",
-    "Jack Scarola",
-    "Wall Street",
+    "George Mitchell",
     "Virginia Roberts",
-    "Eva Anderson Dubin"
+    "Palm Beach Lakes",
+    "South Dadeland Boulevard",
+    "Professor Cassell",
+    "Eva Anderson",
+    "Esquire Deposition Solutions",
+    "New Mexico",
+    "Anderson Dubin",
+    "Thailand Western Union",
+    "Prince Andrew",
+    "Daily Mail",
+    "Oliver Street",
+    "Floor\nMiami",
+    "Brittany Henderson",
+    "The Dubins",
+    "Just Sharon",
+    "Wall Street",
+    "Florida Professional",
+    "Ed Pozzuoli"
   ],
   "locations": [
-    "Little Saint James",
-    "New York",
-    "France",
-    "Florida",
     "New Mexico",
+    "Virgin Islands",
+    "New York",
+    "Little Saint James",
+    "France",
     "Palm Beach",
-    "Virgin Islands"
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.36",
   "filename": "gov.uscourts.nysd.447706.1328.36.pdf",
-  "extraction_date": "2025-11-17T10:31:03.716127",
+  "extraction_date": "2025-11-17T10:37:46.663196",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -55,26 +55,26 @@
     }
   ],
   "people": [
-    "University Street",
-    "Salt Lake City",
-    "Twin Lakes Rd",
-    "South Salem",
-    "Juan Alessi",
-    "Stanley Pottinger\nBradley",
-    "Of Defendant",
     "Menninger In Support",
-    "Reply Or",
-    "Nicole Simmons\nNicole",
-    "East Las Olas",
-    "Johanna Sjoberg",
-    "Declaration Of Laura",
     "Of\nDefendant",
+    "Protective Order",
+    "South Salem",
     "North Andrews Ave",
     "Strike Plaintiff",
+    "Twin Lakes Rd",
+    "Ghislaine Maxwell",
     "Protective\nOrder",
-    "Tony Figueroa",
+    "Menninger\nLaura",
     "United States District",
-    "Menninger\nLaura"
+    "Stanley Pottinger\nBradley",
+    "Tony Figueroa",
+    "Cassell\nMeredith Schultz",
+    "Salt Lake City",
+    "Of Defendant",
+    "Juan Alessi",
+    "Declaration Of Laura",
+    "East Las Olas",
+    "Defendant\nGhislaine Maxwell"
   ],
   "locations": [
     "New York"

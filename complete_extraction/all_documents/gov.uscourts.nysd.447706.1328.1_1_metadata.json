@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.1_1",
   "filename": "gov.uscourts.nysd.447706.1328.1_1.pdf",
-  "extraction_date": "2025-11-17T10:33:23.070066",
+  "extraction_date": "2025-11-17T10:40:07.983043",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -60,26 +60,26 @@
     }
   ],
   "people": [
-    "University Street",
-    "Salt Lake City",
-    "Twin Lakes Rd",
-    "South Salem",
-    "Juan Alessi",
-    "Declaration Of Jeffrey",
-    "Stanley Pottinger\nBradley",
-    "Pagliuca In Support",
-    "Defendant Ghislaine Maxwell",
-    "Of Defendant",
-    "Pagliuca\nJeffrey",
-    "Response In Opposition",
-    "Nicole Simmons\nNicole",
-    "East Las Olas",
-    "Johanna Sjoberg",
-    "Direct Defendant",
     "Of\nDefendant",
+    "Declaration Of Jeffrey",
+    "Protective Order",
+    "South Salem",
     "North Andrews Ave",
+    "Answer Deposition Questions",
+    "Pagliuca In Support",
+    "Twin Lakes Rd",
+    "Ghislaine Maxwell",
+    "Filed Under Seal",
     "Protective\nOrder",
-    "Tony Figueroa"
+    "United States District",
+    "Stanley Pottinger\nBradley",
+    "Tony Figueroa",
+    "Cassell\nMeredith Schultz",
+    "Salt Lake City",
+    "Of Defendant",
+    "Direct Defendant",
+    "Virginia Giuffre",
+    "Rinaldo Rizzo"
   ],
   "locations": [
     "New York"

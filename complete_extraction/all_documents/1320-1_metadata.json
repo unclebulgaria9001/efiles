@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-1",
   "filename": "1320-1.pdf",
-  "extraction_date": "2025-11-17T10:34:31.452309",
+  "extraction_date": "2025-11-17T10:41:13.862372",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -42,8 +42,8 @@
   ],
   "people": [
     "Ross Gow",
-    "Philip Barden",
     "Jeffrey\nWe",
+    "Philip Barden",
     "Jane Does"
   ],
   "locations": [],

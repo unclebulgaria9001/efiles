@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.16_1",
   "filename": "gov.uscourts.nysd.447706.1327.16_1.pdf",
-  "extraction_date": "2025-11-17T10:33:11.169263",
+  "extraction_date": "2025-11-17T10:39:56.548920",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -63,15 +63,15 @@
     }
   ],
   "people": [
+    "Jeff Pagliuca",
+    "Meredith Schultz\nCc",
     "Conferralregardingsearchterms\nMeredith",
     "Laura Menninger\nSent",
-    "Jeff Pagliuca",
+    "Meredith Schultz",
     "Menninger\nHaddon",
-    "Conferral\nAlthoughmanyofyourothersearchtermsareatremendousstretch",
-    "Meredith Schultz\nCc",
-    "If\nIdonothearfromyou",
     "Prince\nAndrew",
-    "Meredith Schultz"
+    "Conferral\nAlthoughmanyofyourothersearchtermsareatremendousstretch",
+    "If\nIdonothearfromyou"
   ],
   "locations": [
     "Paris",

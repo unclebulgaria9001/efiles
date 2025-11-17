@@ -1,8 +1,8 @@
 # VIP Tracking - Complete Analysis
 
-**Generated**: 2025-11-17 10:37:34  
+**Generated**: 2025-11-17 10:44:12  
 **VIPs Tracked**: 15  
-**VIPs with Mentions**: 14
+**VIPs with Mentions**: 15
 
 ---
 
@@ -10,21 +10,21 @@
 
 | VIP | Total Mentions | Documents | Sensitive Terms | Primary Doc Type |
 |-----|----------------|-----------|-----------------|------------------|
-| Jeffrey Epstein | 1,271 | 115 | 1622 | legal_document |
-| Ghislaine Maxwell | 898 | 84 | 762 | legal_document |
-| Sarah Kellen | 388 | 37 | 516 | legal_document |
-| Sarah Ransome | 378 | 37 | 235 | legal_document |
-| Virginia Giuffre | 301 | 51 | 783 | legal_document |
-| Prince Andrew | 286 | 59 | 593 | legal_document |
-| Nadia Marcinkova | 195 | 28 | 528 | legal_document |
-| Adriana Ross | 128 | 34 | 116 | legal_document |
-| Alan Dershowitz | 110 | 21 | 307 | legal_document |
-| Bill Clinton | 103 | 20 | 412 | legal_document |
-| Lesley Groff | 90 | 5 | 3 | legal_document |
-| Jean-Luc Brunel | 82 | 10 | 139 | legal_document |
-| Johanna Sjoberg | 59 | 23 | 146 | legal_document |
-| Leslie Wexner | 20 | 7 | 106 | deposition |
-| Donald Trump | 0 | 0 | 0 | N/A |
+| Jeffrey Epstein | 1,814 | 110 | 1481 | legal_document |
+| Ghislaine Maxwell | 1,075 | 101 | 913 | legal_document |
+| Virginia Giuffre | 641 | 75 | 1187 | legal_document |
+| Sarah Kellen | 371 | 35 | 521 | legal_document |
+| Sarah Ransome | 333 | 34 | 224 | legal_document |
+| Prince Andrew | 307 | 52 | 727 | legal_document |
+| Adriana Ross | 96 | 29 | 134 | legal_document |
+| Alan Dershowitz | 91 | 19 | 260 | legal_document |
+| Lesley Groff | 85 | 5 | 3 | legal_document |
+| Nadia Marcinkova | 72 | 19 | 190 | legal_document |
+| Bill Clinton | 57 | 17 | 279 | legal_document |
+| Jean-Luc Brunel | 36 | 7 | 65 | legal_document |
+| Johanna Sjoberg | 28 | 13 | 157 | legal_document |
+| Donald Trump | 24 | 5 | 108 | deposition |
+| Leslie Wexner | 4 | 2 | 12 | deposition |
 
 ---
 
@@ -33,37 +33,37 @@
 ### Jeffrey Epstein
 
 **Statistics**:
-- Total Mentions: 1,271
-- Documents: 115
-- Sensitive Term Co-occurrences: 1622
+- Total Mentions: 1,814
+- Documents: 110
+- Sensitive Term Co-occurrences: 1481
 
 **Document Types**:
-- Legal Document: 358 documents
-- Deposition: 317 documents
-- Correspondence: 131 documents
-- Financial: 118 documents
-- Email: 38 documents
+- Legal Document: 321 documents
+- Deposition: 290 documents
+- Financial: 123 documents
+- Correspondence: 104 documents
+- Email: 39 documents
 
 **Associated Sensitive Terms**:
-- sex: 256 co-occurrences
-- sexual: 215 co-occurrences
-- massage: 198 co-occurrences
-- underage: 142 co-occurrences
-- abuse: 133 co-occurrences
+- sex: 230 co-occurrences
+- sexual: 188 co-occurrences
+- massage: 181 co-occurrences
 - victim: 121 co-occurrences
-- minor: 100 co-occurrences
-- victims: 90 co-occurrences
-- trafficking: 84 co-occurrences
-- minors: 73 co-occurrences
+- underage: 119 co-occurrences
+- abuse: 118 co-occurrences
+- minor: 99 co-occurrences
+- victims: 92 co-occurrences
+- minors: 71 co-occurrences
+- trafficking: 71 co-occurrences
 
-**Associated Dates**: 2/21/2014, 3/7/2011, January 25, 2015, June 27, 2016, 06/27/2016, January 5, 2024, 2/19/2015, Feb 2, 2007, 05/03/2016, 01/04/24
+**Associated Dates**: January 5, 2024, January 10, 2015, 2/19/2015, 7/19/06, 01/03/24, December 30, 2014, 01/04/24, 2/21/2014, June 27, 2016, 10/27/2015
 
 **Sample Mentions**:
 > as a "sex slave" for wealthy financier -- and convicted sex offender -- Jeffrey Epstein.
 
 > 7. Jeffrey Epstein
 
-> 9 Maxwell and Jeffrey Epstein and a 15-year-old
+> 5 Q. Is she paid for by Jeffrey Epstein?
 
 
 ---
@@ -71,30 +71,30 @@
 ### Ghislaine Maxwell
 
 **Statistics**:
-- Total Mentions: 898
-- Documents: 84
-- Sensitive Term Co-occurrences: 762
+- Total Mentions: 1,075
+- Documents: 101
+- Sensitive Term Co-occurrences: 913
 
 **Document Types**:
-- Legal Document: 218 documents
-- Deposition: 176 documents
-- Financial: 83 documents
-- Correspondence: 45 documents
-- Email: 21 documents
+- Legal Document: 282 documents
+- Deposition: 223 documents
+- Financial: 81 documents
+- Correspondence: 64 documents
+- Email: 19 documents
 
 **Associated Sensitive Terms**:
-- sex: 135 co-occurrences
-- sexual: 110 co-occurrences
-- massage: 98 co-occurrences
-- victim: 60 co-occurrences
-- abuse: 56 co-occurrences
-- underage: 55 co-occurrences
-- minor: 42 co-occurrences
-- trafficking: 36 co-occurrences
-- victims: 33 co-occurrences
-- assault: 28 co-occurrences
+- sex: 152 co-occurrences
+- sexual: 124 co-occurrences
+- massage: 102 co-occurrences
+- abuse: 88 co-occurrences
+- victim: 75 co-occurrences
+- underage: 73 co-occurrences
+- minor: 61 co-occurrences
+- trafficking: 57 co-occurrences
+- victims: 50 co-occurrences
+- minors: 32 co-occurrences
 
-**Associated Dates**: January 25, 2015, 10/27/2015, 2/19/2015, Feb 2, 2007, 01/04/24, February 24, 2016, July 8, 2016, 01/03/24, 01/05/24
+**Associated Dates**: 05/03/2016, 06/27/2016, 2/19/2015, December 30, 2014, 01/03/24, 01/04/24, February 24, 2016, July 8, 2016, 09/21/15, 10/27/2015
 
 **Sample Mentions**:
 > She wrote that she was introduced to Epstein at the mansion by heiress Ghislaine Maxwell, the daughter of the
@@ -106,33 +106,71 @@
 
 ---
 
+### Virginia Giuffre
+
+**Statistics**:
+- Total Mentions: 641
+- Documents: 75
+- Sensitive Term Co-occurrences: 1187
+
+**Document Types**:
+- Legal Document: 206 documents
+- Deposition: 181 documents
+- Financial: 132 documents
+- Correspondence: 66 documents
+- Email: 43 documents
+
+**Associated Sensitive Terms**:
+- sex: 178 co-occurrences
+- sexual: 140 co-occurrences
+- underage: 111 co-occurrences
+- massage: 109 co-occurrences
+- abuse: 100 co-occurrences
+- victim: 97 co-occurrences
+- minor: 85 co-occurrences
+- trafficking: 83 co-occurrences
+- victims: 76 co-occurrences
+- minors: 54 co-occurrences
+
+**Associated Dates**: 05/03/22, 06/27/2016, June 27, 2016, 01/03/24, 2/19/2015, 01/04/24, 2/21/2014, 09/21/15, 3/7/2011, 01/05/24
+
+**Sample Mentions**:
+> Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,
+
+> 1. Plaintiff Virginia Giuffre ("Giuffreu or "Plaintiffu) has
+
+> Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
+
+
+---
+
 ### Sarah Kellen
 
 **Statistics**:
-- Total Mentions: 388
-- Documents: 37
-- Sensitive Term Co-occurrences: 516
+- Total Mentions: 371
+- Documents: 35
+- Sensitive Term Co-occurrences: 521
 
 **Document Types**:
-- Legal Document: 113 documents
-- Deposition: 99 documents
-- Financial: 67 documents
-- Correspondence: 50 documents
-- Flight Log: 12 documents
+- Legal Document: 108 documents
+- Deposition: 94 documents
+- Financial: 65 documents
+- Correspondence: 42 documents
+- Flight Log: 15 documents
 
 **Associated Sensitive Terms**:
 - sex: 77 co-occurrences
-- sexual: 70 co-occurrences
-- massage: 69 co-occurrences
-- underage: 45 co-occurrences
+- sexual: 71 co-occurrences
+- massage: 64 co-occurrences
+- underage: 48 co-occurrences
 - abuse: 41 co-occurrences
-- minor: 38 co-occurrences
-- victim: 33 co-occurrences
-- trafficking: 32 co-occurrences
-- victims: 29 co-occurrences
-- minors: 26 co-occurrences
+- minor: 39 co-occurrences
+- trafficking: 33 co-occurrences
+- victim: 31 co-occurrences
+- minors: 30 co-occurrences
+- victims: 27 co-occurrences
 
-**Associated Dates**: 01/03/24, 01/05/24, 01/04/24, Feb 2, 2007
+**Associated Dates**: 01/05/24, 01/04/24, Feb 2, 2007, 01/03/24
 
 **Sample Mentions**:
 > 12 Sarah Kellen's computer. Was she hooked into your 12 MR. EDWARDS: Form.
@@ -147,30 +185,30 @@
 ### Sarah Ransome
 
 **Statistics**:
-- Total Mentions: 378
-- Documents: 37
-- Sensitive Term Co-occurrences: 235
+- Total Mentions: 333
+- Documents: 34
+- Sensitive Term Co-occurrences: 224
 
 **Document Types**:
-- Legal Document: 60 documents
-- Deposition: 46 documents
-- Correspondence: 36 documents
+- Legal Document: 56 documents
+- Deposition: 43 documents
 - Financial: 28 documents
-- Email: 22 documents
+- Correspondence: 24 documents
+- Email: 13 documents
 
 **Associated Sensitive Terms**:
-- sex: 44 co-occurrences
-- sexual: 41 co-occurrences
-- massage: 25 co-occurrences
-- victim: 20 co-occurrences
-- abuse: 17 co-occurrences
-- trafficking: 16 co-occurrences
-- victims: 15 co-occurrences
+- sex: 42 co-occurrences
+- sexual: 40 co-occurrences
+- massage: 23 co-occurrences
+- victim: 18 co-occurrences
+- abuse: 16 co-occurrences
 - underage: 15 co-occurrences
+- trafficking: 14 co-occurrences
+- victims: 12 co-occurrences
 - minor: 12 co-occurrences
-- assault: 8 co-occurrences
+- minors: 9 co-occurrences
 
-**Associated Dates**: 01/03/24, 01/05/24, 01/04/24, Feb 2, 2007
+**Associated Dates**: 01/05/24, 01/04/24, Feb 2, 2007, 01/03/24
 
 **Sample Mentions**:
 > discovered wi lness, Sarah Ransome, to be called as a witness at trial because she can testify
@@ -182,71 +220,33 @@
 
 ---
 
-### Virginia Giuffre
-
-**Statistics**:
-- Total Mentions: 301
-- Documents: 51
-- Sensitive Term Co-occurrences: 783
-
-**Document Types**:
-- Legal Document: 130 documents
-- Deposition: 122 documents
-- Financial: 79 documents
-- Correspondence: 50 documents
-- Email: 34 documents
-
-**Associated Sensitive Terms**:
-- sex: 114 co-occurrences
-- sexual: 92 co-occurrences
-- victim: 66 co-occurrences
-- massage: 65 co-occurrences
-- minor: 62 co-occurrences
-- abuse: 62 co-occurrences
-- underage: 56 co-occurrences
-- victims: 56 co-occurrences
-- trafficking: 51 co-occurrences
-- assault: 42 co-occurrences
-
-**Associated Dates**: 2/21/2014, 3/7/2011, June 27, 2016, 2/19/2015, 01/04/24, 05/03/22, 01/03/24, 01/05/24
-
-**Sample Mentions**:
-> Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,
-
-> “Pagliuca Decl.”), Composite Ex. A (Testimony of Plaintiff Virginia Giuffre on May 3, 2016), at
-
-> Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
-
-
----
-
 ### Prince Andrew
 
 **Statistics**:
-- Total Mentions: 286
-- Documents: 59
-- Sensitive Term Co-occurrences: 593
+- Total Mentions: 307
+- Documents: 52
+- Sensitive Term Co-occurrences: 727
 
 **Document Types**:
-- Legal Document: 106 documents
-- Deposition: 91 documents
-- Financial: 27 documents
-- Correspondence: 27 documents
-- Flight Log: 11 documents
+- Legal Document: 110 documents
+- Deposition: 88 documents
+- Financial: 36 documents
+- Correspondence: 29 documents
+- Flight Log: 13 documents
 
 **Associated Sensitive Terms**:
-- sex: 80 co-occurrences
-- sexual: 72 co-occurrences
-- massage: 72 co-occurrences
-- underage: 58 co-occurrences
-- abuse: 54 co-occurrences
-- victim: 42 co-occurrences
-- minor: 39 co-occurrences
-- trafficking: 35 co-occurrences
-- victims: 34 co-occurrences
-- minors: 28 co-occurrences
+- sex: 97 co-occurrences
+- sexual: 84 co-occurrences
+- massage: 80 co-occurrences
+- abuse: 70 co-occurrences
+- underage: 61 co-occurrences
+- victim: 55 co-occurrences
+- minor: 49 co-occurrences
+- trafficking: 47 co-occurrences
+- victims: 41 co-occurrences
+- minors: 30 co-occurrences
 
-**Associated Dates**: 2/19/2015, 05/03/2016, 01/04/24, February 24, 2016, July 8, 2016, 05/03/22, 01/03/24, December 30, 2014, 01/05/24
+**Associated Dates**: 05/03/2016, 05/03/22, 2/19/2015, December 30, 2014, 01/03/24, 01/04/24, February 24, 2016, July 8, 2016, 10/27/2015, 01/05/24
 
 **Sample Mentions**:
 > Related: Billionaire's 'sex slave' details alleggations aggainst Prince Andrew,, Dershowitz
@@ -258,78 +258,40 @@
 
 ---
 
-### Nadia Marcinkova
-
-**Statistics**:
-- Total Mentions: 195
-- Documents: 28
-- Sensitive Term Co-occurrences: 528
-
-**Document Types**:
-- Legal Document: 84 documents
-- Deposition: 80 documents
-- Financial: 52 documents
-- Correspondence: 24 documents
-- Flight Log: 15 documents
-
-**Associated Sensitive Terms**:
-- sex: 69 co-occurrences
-- sexual: 63 co-occurrences
-- massage: 52 co-occurrences
-- victim: 44 co-occurrences
-- abuse: 40 co-occurrences
-- underage: 39 co-occurrences
-- trafficking: 38 co-occurrences
-- victims: 37 co-occurrences
-- minor: 35 co-occurrences
-- minors: 35 co-occurrences
-
-**Associated Dates**: 01/03/24, 01/05/24, 7/19/06, 11/07/05
-
-**Sample Mentions**:
-> April 13, 2010, Deposition of Nadia Marcinkova.
-
-> against Nadia Marcinkova for Ignoring Subpoena (pending). Similarly, the Court will recall that
-
-> Kellan and Nadia Marcinkova. Again, they both took the Fifth on all substantive questions. In
-
-
----
-
 ### Adriana Ross
 
 **Statistics**:
-- Total Mentions: 128
-- Documents: 34
-- Sensitive Term Co-occurrences: 116
+- Total Mentions: 96
+- Documents: 29
+- Sensitive Term Co-occurrences: 134
 
 **Document Types**:
-- Legal Document: 41 documents
-- Deposition: 27 documents
-- Financial: 21 documents
+- Legal Document: 44 documents
+- Deposition: 33 documents
+- Financial: 24 documents
+- Correspondence: 18 documents
 - Email: 15 documents
-- Correspondence: 15 documents
 
 **Associated Sensitive Terms**:
-- sex: 17 co-occurrences
-- sexual: 14 co-occurrences
-- abuse: 12 co-occurrences
-- victim: 10 co-occurrences
+- sex: 23 co-occurrences
+- sexual: 17 co-occurrences
+- abuse: 16 co-occurrences
+- trafficking: 14 co-occurrences
+- victim: 12 co-occurrences
+- victims: 11 co-occurrences
+- minor: 9 co-occurrences
 - underage: 9 co-occurrences
-- minor: 8 co-occurrences
-- victims: 8 co-occurrences
-- drug: 7 co-occurrences
-- drugs: 6 co-occurrences
-- trafficking: 6 co-occurrences
+- massage: 7 co-occurrences
+- drug: 5 co-occurrences
 
-**Associated Dates**: 10/27/2015, 01/04/24, January 10, 2015, 01/03/24, 01/05/24
+**Associated Dates**: January 10, 2015, 01/03/24, 01/04/24, 09/21/15, 01/05/24
 
 **Sample Mentions**:
 > 22 co-conspirators are Sarah Kellen, Adriana Ross, and
 
-> Adriana Ross, Lesley Oro~ or Nadia MarcinkoviL Further, upon execution of this
+> Q. Okay. The other people mentioned as co-conspirators are Sarah Kellen, Adriana Ross, and
 
-> 25 the organization, is Sarah Kellen, Adriana Ross and
+> Adriana Ross, Lesley Oro~ or Nadia MarcinkoviL Further, upon execution of this
 
 
 ---
@@ -337,75 +299,37 @@
 ### Alan Dershowitz
 
 **Statistics**:
-- Total Mentions: 110
-- Documents: 21
-- Sensitive Term Co-occurrences: 307
+- Total Mentions: 91
+- Documents: 19
+- Sensitive Term Co-occurrences: 260
 
 **Document Types**:
-- Legal Document: 49 documents
-- Deposition: 47 documents
-- Financial: 25 documents
-- Correspondence: 15 documents
-- Email: 4 documents
+- Legal Document: 44 documents
+- Deposition: 42 documents
+- Financial: 19 documents
+- Correspondence: 16 documents
+- Flight Log: 2 documents
 
 **Associated Sensitive Terms**:
-- sex: 35 co-occurrences
-- sexual: 35 co-occurrences
-- massage: 34 co-occurrences
-- victim: 31 co-occurrences
-- minor: 24 co-occurrences
-- underage: 22 co-occurrences
-- abuse: 21 co-occurrences
-- trafficking: 20 co-occurrences
-- victims: 18 co-occurrences
-- minors: 17 co-occurrences
+- sex: 33 co-occurrences
+- massage: 33 co-occurrences
+- sexual: 30 co-occurrences
+- underage: 24 co-occurrences
+- abuse: 22 co-occurrences
+- minor: 21 co-occurrences
+- victim: 19 co-occurrences
+- minors: 18 co-occurrences
+- victims: 10 co-occurrences
+- assault: 10 co-occurrences
 
-**Associated Dates**: January 5, 2024, 2/19/2015, 01/04/24, 01/03/24, 01/05/24
+**Associated Dates**: January 5, 2024, 2/19/2015, 01/03/24, 01/04/24, 01/05/24
 
 **Sample Mentions**:
 > Alan Dershowitz: 'Sex slave' accuser is serial liar, prostitute | News - Home Page 1 of 3
 
 > 5. Alan Dershowitz
 
-> forth Alan Dershowitz as a witness at trial to testify that Ms. Giuffre is lying, and that he never
-
-
----
-
-### Bill Clinton
-
-**Statistics**:
-- Total Mentions: 103
-- Documents: 20
-- Sensitive Term Co-occurrences: 412
-
-**Document Types**:
-- Legal Document: 63 documents
-- Deposition: 56 documents
-- Financial: 39 documents
-- Correspondence: 10 documents
-- Flight Log: 5 documents
-
-**Associated Sensitive Terms**:
-- sex: 57 co-occurrences
-- sexual: 49 co-occurrences
-- abuse: 44 co-occurrences
-- massage: 41 co-occurrences
-- underage: 40 co-occurrences
-- trafficking: 39 co-occurrences
-- victim: 34 co-occurrences
-- minor: 30 co-occurrences
-- assault: 26 co-occurrences
-- victims: 26 co-occurrences
-
-**Associated Dates**: 06/27/2016, 05/03/2016, 01/04/24, 01/03/24, 01/05/24
-
-**Sample Mentions**:
-> Mr. Freeh may have knowledge concerning travel of Bill Clinton.
-
-> individuals such as Donald Trump, Bill Clinton, Prince Andrew. See, e.g., New York Post, “The ‘sex
-
-> many trips Bill Clinton and Alan Dershowitz took on pedophile Jeffrey Epstein’s private jet with
+> 18 7 Photograph 331 19 Alan Dershowitz?
 
 
 ---
@@ -413,16 +337,16 @@
 ### Lesley Groff
 
 **Statistics**:
-- Total Mentions: 90
+- Total Mentions: 85
 - Documents: 5
 - Sensitive Term Co-occurrences: 3
 
 **Document Types**:
-- Legal Document: 9 documents
-- Email: 8 documents
-- Correspondence: 8 documents
-- Deposition: 6 documents
-- Financial: 6 documents
+- Legal Document: 8 documents
+- Email: 7 documents
+- Correspondence: 7 documents
+- Deposition: 5 documents
+- Financial: 5 documents
 
 **Associated Sensitive Terms**:
 - abuse: 3 co-occurrences
@@ -439,40 +363,115 @@
 
 ---
 
-### Jean-Luc Brunel
+### Nadia Marcinkova
 
 **Statistics**:
-- Total Mentions: 82
-- Documents: 10
-- Sensitive Term Co-occurrences: 139
+- Total Mentions: 72
+- Documents: 19
+- Sensitive Term Co-occurrences: 190
 
 **Document Types**:
-- Legal Document: 26 documents
-- Correspondence: 16 documents
-- Deposition: 13 documents
-- Financial: 8 documents
+- Legal Document: 39 documents
+- Deposition: 34 documents
+- Financial: 25 documents
+- Correspondence: 5 documents
 - Flight Log: 3 documents
 
 **Associated Sensitive Terms**:
-- sex: 22 co-occurrences
-- sexual: 20 co-occurrences
-- underage: 17 co-occurrences
-- massage: 16 co-occurrences
-- abuse: 15 co-occurrences
-- minor: 14 co-occurrences
-- minors: 12 co-occurrences
-- trafficking: 9 co-occurrences
-- victim: 4 co-occurrences
-- victims: 4 co-occurrences
+- sex: 25 co-occurrences
+- sexual: 23 co-occurrences
+- victim: 18 co-occurrences
+- victims: 17 co-occurrences
+- massage: 17 co-occurrences
+- underage: 16 co-occurrences
+- abuse: 16 co-occurrences
+- minor: 15 co-occurrences
+- minors: 15 co-occurrences
+- trafficking: 14 co-occurrences
 
-**Associated Dates**: 01/03/24, December 30, 2014, 01/05/24, 01/04/24
+**Associated Dates**: 01/05/24, 01/04/24, 01/03/24
 
 **Sample Mentions**:
-> 22 Jean-Luc Brunel, yourself and Nadia Marcinkova to 2 2 Q. Based on the objection, do you know what a
+> April 13, 2010, Deposition of Nadia Marcinkova.
 
+> 23 Nadia Marcinkova. So we'll get to them in a minute
+
+> 1 Nadia Marcinkova all people that you would also
+
+
+---
+
+### Bill Clinton
+
+**Statistics**:
+- Total Mentions: 57
+- Documents: 17
+- Sensitive Term Co-occurrences: 279
+
+**Document Types**:
+- Legal Document: 42 documents
+- Deposition: 37 documents
+- Financial: 28 documents
+- Correspondence: 9 documents
+- Flight Log: 4 documents
+
+**Associated Sensitive Terms**:
+- sex: 36 co-occurrences
+- sexual: 32 co-occurrences
+- abuse: 30 co-occurrences
+- trafficking: 29 co-occurrences
+- massage: 26 co-occurrences
+- victim: 24 co-occurrences
+- underage: 23 co-occurrences
+- minor: 21 co-occurrences
+- assault: 21 co-occurrences
+- victims: 19 co-occurrences
+
+**Associated Dates**: 05/03/2016, 06/27/2016, 01/03/24, 01/04/24, 01/05/24
+
+**Sample Mentions**:
+> Mr. Freeh may have knowledge concerning travel of Bill Clinton.
+
+> 3 conversations about Bill Clinton and others.
+
+> 18 Bill Clinton.
+
+
+---
+
+### Jean-Luc Brunel
+
+**Statistics**:
+- Total Mentions: 36
+- Documents: 7
+- Sensitive Term Co-occurrences: 65
+
+**Document Types**:
+- Legal Document: 12 documents
+- Correspondence: 7 documents
+- Deposition: 5 documents
+- Financial: 2 documents
+
+**Associated Sensitive Terms**:
+- sex: 10 co-occurrences
+- sexual: 10 co-occurrences
+- massage: 9 co-occurrences
+- abuse: 9 co-occurrences
+- minor: 7 co-occurrences
+- underage: 6 co-occurrences
+- minors: 4 co-occurrences
+- trafficking: 3 co-occurrences
+- victim: 3 co-occurrences
+- victims: 3 co-occurrences
+
+**Associated Dates**: 01/05/24, 01/04/24, December 30, 2014, 01/03/24
+
+**Sample Mentions**:
 > 1 to have sex with Jean Luc Brunel?
 
-> Sarah Kellen, Glenn and Eva Dubin, Jean Luc Brunel, Nadia Marcincova and Bill
+> 22 of list of underage minor l'emnles nnmes and phone 22 Q .Jenn Luc Brunel is somebody that you
+
+> 25 6/1/2005 from Jean Luc Brunel with a phone
 
 
 ---
@@ -480,37 +479,74 @@
 ### Johanna Sjoberg
 
 **Statistics**:
-- Total Mentions: 59
-- Documents: 23
-- Sensitive Term Co-occurrences: 146
+- Total Mentions: 28
+- Documents: 13
+- Sensitive Term Co-occurrences: 157
 
 **Document Types**:
-- Legal Document: 59 documents
-- Deposition: 52 documents
-- Financial: 11 documents
-- Correspondence: 8 documents
+- Legal Document: 28 documents
+- Deposition: 25 documents
+- Financial: 13 documents
+- Correspondence: 9 documents
 - Flight Log: 7 documents
 
 **Associated Sensitive Terms**:
-- sex: 23 co-occurrences
+- sex: 22 co-occurrences
 - sexual: 22 co-occurrences
 - massage: 22 co-occurrences
-- underage: 14 co-occurrences
-- victim: 9 co-occurrences
+- underage: 16 co-occurrences
+- abuse: 11 co-occurrences
+- victim: 11 co-occurrences
+- minor: 10 co-occurrences
+- minors: 10 co-occurrences
+- victims: 10 co-occurrences
 - trafficking: 9 co-occurrences
-- abuse: 9 co-occurrences
-- victims: 8 co-occurrences
-- minor: 8 co-occurrences
-- minors: 8 co-occurrences
 
-**Associated Dates**: 01/03/24, 01/05/24, 01/04/24
+**Associated Dates**: 01/05/24, 01/04/24, 01/03/24
 
 **Sample Mentions**:
-> May 18, 2016, Deposition of Johanna Sjoberg.
+> 10 Q. When Johanna Sjoberg worked for 10 introducing Anuska to Jeffrey Epstein?
 
-> from the deposition of Johanna Sjoberg, designated as Confidential under the Protective Order.
+> 10 Q. When Johanna Sjoberg worked for
 
-> Excepts from the May 18, 2016 Deposition of Johanna Sjoberg.
+> 24 A. Johanna Sjoberg.
+
+
+---
+
+### Donald Trump
+
+**Statistics**:
+- Total Mentions: 24
+- Documents: 5
+- Sensitive Term Co-occurrences: 108
+
+**Document Types**:
+- Deposition: 15 documents
+- Legal Document: 15 documents
+- Correspondence: 9 documents
+- Financial: 6 documents
+
+**Associated Sensitive Terms**:
+- sex: 15 co-occurrences
+- underage: 15 co-occurrences
+- massage: 12 co-occurrences
+- sexual: 9 co-occurrences
+- abuse: 9 co-occurrences
+- assault: 6 co-occurrences
+- victim: 6 co-occurrences
+- nude: 6 co-occurrences
+- drug: 6 co-occurrences
+- drugs: 6 co-occurrences
+
+**Associated Dates**: 01/05/24, 01/03/24
+
+**Sample Mentions**:
+> Donald Trump, Flavio Briatore, and Courtney Love, among others.8 Even the late Elie Wiesel’s
+
+> 17 Q. Donald Trump?
+
+> 23 A. She could have been 17, 18, 19. 23 Donald Trump's residence. And I wait in the car while
 
 
 ---
@@ -518,35 +554,25 @@
 ### Leslie Wexner
 
 **Statistics**:
-- Total Mentions: 20
-- Documents: 7
-- Sensitive Term Co-occurrences: 106
+- Total Mentions: 4
+- Documents: 2
+- Sensitive Term Co-occurrences: 12
 
 **Document Types**:
-- Deposition: 14 documents
-- Legal Document: 14 documents
-- Correspondence: 8 documents
-- Financial: 6 documents
-- Flight Log: 2 documents
+- Deposition: 4 documents
+- Legal Document: 4 documents
 
 **Associated Sensitive Terms**:
-- sex: 14 co-occurrences
-- sexual: 14 co-occurrences
-- massage: 14 co-occurrences
-- underage: 8 co-occurrences
-- minor: 8 co-occurrences
-- assault: 8 co-occurrences
-- minors: 6 co-occurrences
-- trafficking: 6 co-occurrences
-- abuse: 6 co-occurrences
-- victim: 6 co-occurrences
+- sex: 4 co-occurrences
+- sexual: 4 co-occurrences
+- massage: 4 co-occurrences
 
-**Associated Dates**: 01/03/24, 01/05/24
+**Associated Dates**: 01/05/24
 
 **Sample Mentions**:
-> 6 Q. Did Jeffrey Epstein ever tell you 6 nature to wear for Les Wexner?
+> 4 Q. You know Mr . Les Wexner , correct?
 
-> questioned about a number of celebrities, including David Copperfield, Kevin Spacey, and Les Wexner, among
+> 4 Q. You know Mr. Les Wexner , correct?
 
 > 4 Q. You know Mr . Les Wexner , correct?
 

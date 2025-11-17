@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1329.0_1",
   "filename": "gov.uscourts.nysd.447706.1329.0_1.pdf",
-  "extraction_date": "2025-11-17T10:32:56.397108",
+  "extraction_date": "2025-11-17T10:39:42.340722",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -23,18 +23,18 @@
     }
   ],
   "people": [
-    "Warner Commc",
+    "Federal Rule",
     "Intervenor Alan Dershowitz",
+    "This Document",
+    "Warner Commc",
     "Epstein\nList",
     "Intervenors\nJulie Brown",
-    "This Document",
-    "Senior United States",
-    "The Document",
-    "John Does",
-    "Federal Rule",
     "See Nixon",
-    "District Judge",
-    "Miami Herald Media"
+    "The Document",
+    "Senior United States",
+    "John Does",
+    "Miami Herald Media",
+    "District Judge"
   ],
   "locations": [
     "New York"

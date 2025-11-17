@@ -1,10 +1,10 @@
 # Complete Document Extraction Index
 
-**Generated**: 2025-11-17 10:37:21
+**Generated**: 2025-11-17 10:44:00
 
-**Total Documents**: 390
+**Total Documents**: 392
 **Total Images**: 0
-**Total Dates Found**: 6214
+**Total Dates Found**: 6242
 
 ---
 
@@ -362,7 +362,14 @@
   - People: 15
   - Linked Emails: [{'email_file': '0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0018'}, {'email_file': '0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt', 'email_id': '0075'}, {'email_file': '0114_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0114'}, {'email_file': '0153_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0153'}]
 
-### Deposition (135 documents)
+### Deposition (136 documents)
+
+- **001_complaint.pdf**
+  - Text: 18,041 chars
+  - Images: 0
+  - Dates: 28
+  - People: 41
+  - Linked Emails: [{'email_file': '0011_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0011'}, {'email_file': '0022_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0022'}]
 
 - **1320-10.pdf**
   - Text: 51,359 chars
@@ -1426,7 +1433,14 @@
   - People: 12
   - Linked Emails: [{'email_file': '0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt', 'email_id': '0009'}]
 
-### Financial (67 documents)
+### Financial (68 documents)
+
+- **001_complaint.pdf**
+  - Text: 18,041 chars
+  - Images: 0
+  - Dates: 28
+  - People: 41
+  - Linked Emails: [{'email_file': '0011_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0011'}, {'email_file': '0022_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0022'}]
 
 - **1320-10.pdf**
   - Text: 51,359 chars
@@ -1970,7 +1984,14 @@
   - People: 216
   - Linked Emails: [{'email_file': '0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt', 'email_id': '0001'}, {'email_file': '0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0006'}, {'email_file': '0011_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0011'}, {'email_file': '0017_01_04_24_From-Unknown_To-Unknown_11.txt', 'email_id': '0017'}, {'email_file': '0022_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0022'}, {'email_file': '0027_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0027'}, {'email_file': '0064_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0064'}]
 
-### Legal Document (172 documents)
+### Legal Document (173 documents)
+
+- **001_complaint.pdf**
+  - Text: 18,041 chars
+  - Images: 0
+  - Dates: 28
+  - People: 41
+  - Linked Emails: [{'email_file': '0011_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0011'}, {'email_file': '0022_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0022'}]
 
 - **1320-1.pdf**
   - Text: 1,895 chars
@@ -3124,7 +3145,7 @@
   - People: 31
   - Linked Emails: [{'email_file': '0003_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0003'}, {'email_file': '0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0006'}, {'email_file': '0036_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0036'}, {'email_file': '0064_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0064'}]
 
-### Unknown (206 documents)
+### Unknown (207 documents)
 
 - **._1320-1.pdf**
   - Text: 44 chars
@@ -4285,6 +4306,12 @@
   - People: 0
 
 - **._gov.uscourts.nysd.447706.1331.6.pdf**
+  - Text: 44 chars
+  - Images: 0
+  - Dates: 0
+  - People: 0
+
+- **003_exhibits.pdf**
   - Text: 44 chars
   - Images: 0
   - Dates: 0

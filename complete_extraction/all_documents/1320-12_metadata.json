@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-12",
   "filename": "1320-12.pdf",
-  "extraction_date": "2025-11-17T10:35:32.425892",
+  "extraction_date": "2025-11-17T10:42:07.968678",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -82,34 +82,34 @@
     }
   ],
   "people": [
-    "Did Virginia",
+    "Red Ice Creations",
+    "Virginia Roberts",
+    "And Alan Dershowitz",
+    "Meredith Schultz",
+    "Michael Jackson",
+    "That Ghislaine",
+    "Palm Beach Police",
+    "New Mexico",
+    "Donald Trump",
+    "Did Jeffrey",
+    "Empire State Building",
+    "Errata Sheet",
+    "Third Street\nSuite",
+    "Palm Beach Atlantic",
+    "And Virginia",
+    "Tom Pritzker",
+    "Prince Andrew",
     "Daily Mail",
-    "Cate Blanchett",
-    "George Lucas",
-    "Tipper Gore",
-    "Brazilian Court",
-    "Boulevard\nFort Lauderdale",
-    "Les Wexner",
-    "Would Epstein",
-    "Further Examination",
-    "Nadia Marcinkova",
-    "Avenue\nDenver",
-    "Only Dershowitz",
-    "So Jeffrey",
-    "When Jeffrey",
-    "Dore Louis",
-    "Did Ghislaine",
-    "Kelli Ann Willis",
-    "Palm Beach Daily",
-    "Michael Jackson"
+    "Valerie Rivera",
+    "Besides Virginia"
   ],
   "locations": [
-    "New York",
-    "Florida",
     "New Mexico",
-    "Palm Beach",
     "Manhattan",
-    "Virgin Islands"
+    "Virgin Islands",
+    "New York",
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

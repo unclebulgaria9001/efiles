@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.5_1",
   "filename": "gov.uscourts.nysd.447706.1328.5_1.pdf",
-  "extraction_date": "2025-11-17T10:33:42.533218",
+  "extraction_date": "2025-11-17T10:40:26.883198",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -117,31 +117,31 @@
     }
   ],
   "people": [
-    "Daily Mail",
-    "Januar Internet Bolton",
-    "Federal Practice",
-    "Januar Internet Jewish",
-    "Januar Internet Express",
-    "See Document Request",
-    "Avenue\nDenver",
-    "Request No",
-    "Second Set",
-    "Civil Procedure",
-    "All Communications",
-    "Physician Medical Release",
-    "Your Attorneys",
-    "Release\nProvided\nDr",
-    "Ltr Central Coast",
-    "Gow Victoria Roberts",
-    "Westmead Hospital\nHospital",
-    "General Objections",
     "Virginia Roberts",
-    "Sellathuri\nLtr"
+    "Darshanee\nMajliyana Request",
+    "Law\nUniversity",
+    "Protective Order",
+    "Meredith Schultz",
+    "Moisture\nControls",
+    "Defendant\nMaxwell",
+    "Federal Rules",
+    "General Objections",
+    "Food Lion",
+    "Income You",
+    "All Medical Records",
+    "Release Form\nGeiger",
+    "Your Attorneys",
+    "Daily Mail",
+    "Form\nStreeter\nPhysician",
+    "Counsel\nRelease\nProvided",
+    "Donahue\nRequest",
+    "University St",
+    "Marshall Dore\nLouis"
   ],
   "locations": [
+    "Little St. James",
     "New York",
-    "Florida",
-    "Little St. James"
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-29",
   "filename": "1320-29.pdf",
-  "extraction_date": "2025-11-17T10:36:26.263733",
+  "extraction_date": "2025-11-17T10:43:00.085626",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -53,14 +53,14 @@
     }
   ],
   "people": [
-    "Case No",
-    "Court Reporter",
-    "Leslie Fagin",
-    "Main Street",
-    "Americas\nNew York",
+    "Boies\nSchiller",
     "Notary Public",
     "New\nYork",
-    "Boies\nSchiller"
+    "Court Reporter",
+    "Case No",
+    "Americas\nNew York",
+    "Main Street",
+    "Leslie Fagin"
   ],
   "locations": [
     "New York"

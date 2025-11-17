@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-26",
   "filename": "1331-26.pdf",
-  "extraction_date": "2025-11-17T10:33:37.557605",
+  "extraction_date": "2025-11-17T10:40:22.050152",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,14 +61,14 @@
     }
   ],
   "people": [
-    "Case No",
-    "Jean Luc Brunel",
-    "Leslie Fagin",
-    "Lexington\nAvenue",
-    "Americas\nNew York",
-    "Notary Public",
     "File Under Seal",
-    "Court\nReporter"
+    "Notary Public",
+    "Lexington\nAvenue",
+    "Court\nReporter",
+    "Case No",
+    "Americas\nNew York",
+    "Jean Luc Brunel",
+    "Leslie Fagin"
   ],
   "locations": [
     "New York"

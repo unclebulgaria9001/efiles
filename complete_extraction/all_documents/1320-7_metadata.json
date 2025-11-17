@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-7",
   "filename": "1320-7.pdf",
-  "extraction_date": "2025-11-17T10:34:40.999471",
+  "extraction_date": "2025-11-17T10:41:22.673713",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -115,32 +115,32 @@
     }
   ],
   "people": [
-    "Jane Doe",
-    "Boulevard\nPlaintiff",
-    "Court Reporter",
-    "West Flagler Street",
-    "Sarah Kellen",
-    "Luc Bernell",
-    "Dated January",
-    "Brillo Way",
     "Vs Lake Worth",
+    "Ives Dairy Road",
+    "Notary Public",
+    "West Palm Beach",
+    "Miami Beach",
+    "Taking Deposition",
+    "Brillo Way",
+    "Sarah Kellen",
     "Biscayne Boulevard",
-    "East Las Olas",
-    "Kress Court Reporting",
-    "Jeffrey Epstein",
     "Boulevard\nSuite",
     "Virgin Islands",
-    "And Sarah Kellen",
-    "Case No",
-    "Galaxy Aviation",
-    "North Flagler Drive",
-    "County Of Dade"
+    "Ghislaine Maxwell",
+    "Avenue North",
+    "The State Of",
+    "Court Reporter",
+    "Dated January",
+    "Kress Court Reporting",
+    "Fort Lauderdale",
+    "Palm Beach Gardens",
+    "Jane Doe"
   ],
   "locations": [
+    "Virgin Islands",
     "New York",
     "Palm Beach",
-    "Florida",
-    "Virgin Islands"
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.40",
   "filename": "gov.uscourts.nysd.447706.1328.40.pdf",
-  "extraction_date": "2025-11-17T10:31:32.248283",
+  "extraction_date": "2025-11-17T10:38:18.921483",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -50,31 +50,31 @@
     }
   ],
   "people": [
-    "On Wed",
-    "God Bless",
-    "Take Care",
+    "Literary Agency",
     "Street\nNew York",
-    "Jeffrey Epstein\nReceived",
-    "Normal\nSubject",
-    "Marianne Strong",
-    "Page Six",
-    "Orad Edwards",
-    "Maiianne Strong\nJane",
-    "Post Inquiry",
-    "Jeffrey Epstein",
-    "Emily Smith",
-    "Jenna\nOn Thursday",
-    "Public Relations",
-    "The Marianne Strong",
-    "Jenna\nMatianne Strong",
+    "Take Care",
+    "President\nMarianne Strong",
     "Upper East Side",
+    "Page Six",
+    "Jenna\nOn Thursday",
+    "Jenna\nMatianne Strong",
+    "Post Inquiry",
+    "Emily Smith",
+    "Today Emily",
+    "Maiianne Strong\nJane",
+    "The Marianne Strong",
+    "Jeffrey Epstein\nReceived",
     "Virginia Giuffre\nHi",
-    "Literary Agency"
+    "Virginia Giuffre\nSent",
+    "Lord Colin Campbell",
+    "Jeffrey Epstein",
+    "Normal\nSubject",
+    "Orad Edwards"
   ],
   "locations": [
+    "Manhattan",
     "New York",
-    "Florida",
-    "Manhattan"
+    "Florida"
   ],
   "images": []
 }

@@ -1,0 +1,97 @@
+{
+  "doc_id": "001_complaint",
+  "filename": "001_complaint.pdf",
+  "extraction_date": "2025-11-17T10:43:52.791119",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 18041,
+  "images_extracted": 0,
+  "dates_found": 28,
+  "people_found": 41,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "09/21/15",
+      "position": 40
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 386
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 1905
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 3497
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 5227
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 6829
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 8545
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 10185
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 11921
+    },
+    {
+      "date_string": "09/21/15",
+      "position": 13845
+    }
+  ],
+  "people": [
+    "Lexington Avenue\nNew",
+    "Virginia Roberts",
+    "Crime\nVictims",
+    "Dated September",
+    "On December",
+    "Brockman\nBoies Schiller",
+    "Prosecution Agreement",
+    "Defendant Maxwell",
+    "Boies\nBoies Schiller",
+    "The New York",
+    "On July",
+    "West Palm\nBeach",
+    "Ghislaine Maxwell",
+    "Defendant\nMaxwell",
+    "Ghislaine\nMaxwell",
+    "Daily News",
+    "The Jane Doe",
+    "United States District",
+    "Lexington Ave\nNew",
+    "Ross Gow"
+  ],
+  "locations": [
+    "Manhattan",
+    "New York",
+    "Florida",
+    "London"
+  ],
+  "images": []
+}

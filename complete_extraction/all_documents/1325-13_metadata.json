@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-13",
   "filename": "1325-13.pdf",
-  "extraction_date": "2025-11-17T10:37:09.788415",
+  "extraction_date": "2025-11-17T10:43:41.155135",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -38,16 +38,16 @@
     }
   ],
   "people": [
-    "Lightfoot\nConsulting Psychologist",
-    "Meredith Schultz\nSubject",
-    "Madam\nMs Judith",
     "Meredith Schultz\nFrom",
-    "Bernadette Martin",
     "File Under Seal",
+    "Bernadette Martin",
+    "Virginia Giuffre\nDear",
+    "Madam\nMs Judith",
+    "Kind Regards\nBernadette",
     "Martin\nPh",
     "Pacific Highway",
-    "Kind Regards\nBernadette",
-    "Virginia Giuffre\nDear"
+    "Meredith Schultz\nSubject",
+    "Lightfoot\nConsulting Psychologist"
   ],
   "locations": [],
   "images": []

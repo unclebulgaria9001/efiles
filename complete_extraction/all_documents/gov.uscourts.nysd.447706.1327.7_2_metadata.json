@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.7_2",
   "filename": "gov.uscourts.nysd.447706.1327.7_2.pdf",
-  "extraction_date": "2025-11-17T10:31:31.644933",
+  "extraction_date": "2025-11-17T10:38:18.331735",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,19 +56,19 @@
     }
   ],
   "people": [
-    "Did Maxwell",
-    "Boies Schiller",
-    "Certified Realtime\nReporter",
-    "Errata Sheet",
-    "My Commission Expires",
-    "Registered\nProfessional Reporter",
-    "Notary Public",
-    "Did Ghislaine",
-    "Kelli Ann Willis",
     "File Under Seal",
-    "Fort Lauderdale",
+    "Kelli Ann Willis",
+    "Notary Public",
+    "Boies Schiller",
     "Las Olas Boulevard",
-    "Did Jeffrey"
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
+    "Did Jeffrey",
+    "Did Maxwell",
+    "Errata Sheet",
+    "Certified Realtime\nReporter",
+    "Did Ghislaine",
+    "My Commission Expires"
   ],
   "locations": [
     "New York",

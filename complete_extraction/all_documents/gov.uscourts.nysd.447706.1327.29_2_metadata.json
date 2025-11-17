@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.29_2",
   "filename": "gov.uscourts.nysd.447706.1327.29_2.pdf",
-  "extraction_date": "2025-11-17T10:33:15.290488",
+  "extraction_date": "2025-11-17T10:40:00.480833",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,33 +57,33 @@
     }
   ],
   "people": [
-    "Jane Doe",
-    "Did Virginia",
-    "Sarah Kellen",
-    "George Lucas",
-    "Did Ghislaine Maxwell",
-    "Tipper Gore",
-    "Saint Jeff",
-    "New Mexico",
-    "In Palm Beach",
-    "Mongolian Barbecue",
-    "So Jeffrey",
-    "Did Ghislaine",
-    "Jeffrey Epstein",
+    "Notary Public",
     "Kelli Ann Willis",
-    "Did Prince Andrew",
-    "Al Gore",
+    "Virginia Roberts",
+    "George Lucas",
+    "Las Olas Boulevard",
+    "So Jeffrey",
     "Michael Jackson",
-    "Besides Virginia",
-    "Did Glenn",
-    "Prince Andrew"
+    "And Ghislaine",
+    "El Brillo Way",
+    "Certified Realtime\nReporter",
+    "Sarah Kellen",
+    "Did Ghislaine",
+    "New Mexico",
+    "Donald Trump",
+    "Breakers Row",
+    "Virgin Islands",
+    "Ghislaine Maxwell",
+    "Did Jeffrey",
+    "Prince Andrew",
+    "Tipper Gore"
   ],
   "locations": [
-    "New York",
-    "Florida",
     "New Mexico",
+    "Virgin Islands",
+    "New York",
     "Palm Beach",
-    "Virgin Islands"
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.22_1",
   "filename": "gov.uscourts.nysd.447706.1330.22_1.pdf",
-  "extraction_date": "2025-11-17T10:31:53.971430",
+  "extraction_date": "2025-11-17T10:38:40.498964",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -86,26 +86,26 @@
     }
   ],
   "people": [
-    "Reputation Limited",
-    "Senior Clerk",
+    "On Sun",
+    "Guardian\nSo",
+    "The Guardian",
+    "Virginia Roberts",
+    "Registered Office",
+    "Gmax\nAsk",
+    "Jeffery Epstein",
     "The Devonshires Foundation",
-    "York Way",
-    "On Sat",
-    "On Wednesday",
-    "Guardian\nTo",
-    "Best\nPhilip\nSent",
-    "England Number",
-    "Legal\nOmbudsman",
-    "Jane Does",
-    "Legal Ombudsman",
-    "Finsbury Circus",
-    "Solicitors Regulation Authority",
-    "Guardian\nThis",
-    "Guardian News",
-    "Had Geordie",
     "Ms Maxwell",
-    "Jeffrey\nWe",
-    "Philip Barden\nSent"
+    "Kings Place",
+    "Legal\nOmbudsman",
+    "Jon Swaine\nDate",
+    "Solicitors Regulation Authority",
+    "Best\nPhilip\nSent",
+    "Philip\nSent",
+    "Guardian Media Group",
+    "Guardian\nThis",
+    "Monday\nBest\nRoss",
+    "Senior Clerk",
+    "Guardian News"
   ],
   "locations": [
     "London"

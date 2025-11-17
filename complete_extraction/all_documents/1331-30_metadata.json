@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-30",
   "filename": "1331-30.pdf",
-  "extraction_date": "2025-11-17T10:34:05.275468",
+  "extraction_date": "2025-11-17T10:40:49.330677",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,30 +62,30 @@
     }
   ],
   "people": [
-    "Any Document",
-    "Any Documents",
-    "Sarah Ransome",
-    "Menninger Decl",
-    "Compel Non",
-    "Avenue\nDenver",
-    "All Communications",
-    "Party Witness To",
-    "Menninger\nJeffrey",
-    "Bradley\nEdwards",
     "Virginia Roberts",
-    "Plaintiff Ransome",
-    "Ghislaine Maxwell",
-    "Respond To Deposition",
+    "Protective Order",
+    "Sarah Ransome",
+    "South Salem",
     "See\nMenninger Decl",
-    "Whether Alan Dershowitz",
-    "James\nPatterson",
-    "Deposition Questions",
+    "Boies\nSchiller",
+    "Labatt Ltd",
+    "Plaintiff Ransome",
+    "Menninger Decl",
+    "Defamation Action",
+    "Stanley Pottinger\nBradley",
+    "Jeffrey Epstein",
+    "Pagliuca\nTy Gee",
     "Nadia Marcincova",
-    "The Motion"
+    "Boies Schiller",
+    "Any Documents",
+    "Avenue\nDenver",
+    "East Las Olas",
+    "Deposition Questions",
+    "Ransome Dep"
   ],
   "locations": [
-    "New York",
-    "Virgin Islands"
+    "Virgin Islands",
+    "New York"
   ],
   "images": []
 }

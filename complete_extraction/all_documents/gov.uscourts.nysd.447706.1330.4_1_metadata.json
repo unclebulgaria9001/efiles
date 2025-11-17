@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.4_1",
   "filename": "gov.uscourts.nysd.447706.1330.4_1.pdf",
-  "extraction_date": "2025-11-17T10:32:24.820178",
+  "extraction_date": "2025-11-17T10:39:11.633068",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -79,34 +79,34 @@
     }
   ],
   "people": [
+    "Virginia Roberts",
+    "Sex Slave",
+    "President Bill Clinton",
     "Emergency Motion",
-    "Daily Mail",
-    "The Independent",
-    "Tatiana Kovylina",
     "Googled Tatiana",
-    "Larry Summers",
-    "See Cassell Decl",
-    "Les Wexner",
-    "Nadia Marcinkova",
-    "Steven Pinker",
+    "Protective Order",
+    "Hyatt Corporation Tom",
+    "Palm Beach Police",
+    "New Mexico",
+    "Donald Trump",
     "The Requested Documents",
-    "See Ex",
-    "Israel Ehud",
-    "Daily Mail Article",
-    "Juan\nAlessi",
-    "Prince Andrew",
-    "When Mr",
-    "When Alan Dershowitz",
-    "Mike Pazulo",
-    "David Gross"
+    "Flavio Briatore",
+    "See\nDershowitz Decl",
+    "Alfredo Rodriguez",
+    "Requested\nDocuments",
+    "Other Facts That",
+    "In August",
+    "Martin Nowak",
+    "Harvard Law School",
+    "Valda Veira Cotrin"
   ],
   "locations": [
-    "New York",
-    "Florida",
-    "Little St. James",
     "New Mexico",
+    "Virgin Islands",
+    "New York",
+    "Little St. James",
     "Palm Beach",
-    "Virgin Islands"
+    "Florida"
   ],
   "images": []
 }

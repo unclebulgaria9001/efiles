@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.25",
   "filename": "gov.uscourts.nysd.447706.1331.25.pdf",
-  "extraction_date": "2025-11-17T10:33:03.698710",
+  "extraction_date": "2025-11-17T10:39:49.452168",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -49,15 +49,15 @@
     }
   ],
   "people": [
-    "Case No",
-    "Court Reporter",
-    "Lisa Barrett",
-    "Essex Chambers",
-    "Chancery Lane",
     "File Under Seal",
     "Claim No",
     "Ghislaine Maxwell",
-    "Accredited Real"
+    "Essex Chambers",
+    "Case No",
+    "Accredited Real",
+    "Chancery Lane",
+    "Lisa Barrett",
+    "Court Reporter"
   ],
   "locations": [
     "New York",

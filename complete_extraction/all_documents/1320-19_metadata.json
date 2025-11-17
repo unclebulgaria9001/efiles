@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-19",
   "filename": "1320-19.pdf",
-  "extraction_date": "2025-11-17T10:35:01.455596",
+  "extraction_date": "2025-11-17T10:41:41.884957",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -20,32 +20,32 @@
     }
   ],
   "people": [
-    "Jean Luc Brunel",
-    "Jane Doe",
-    "Luc Brunel",
-    "New Mexico",
-    "In Sydney",
-    "What Growing Together",
-    "Jeffrey Epstein",
-    "Prince Andrew",
-    "Bill Richardson",
-    "Virgin Islands",
-    "Sharon Churcher",
-    "Corrected Motion Pursuant",
-    "Palm Beach County",
-    "Naomi Campbell",
-    "Glenn Dubin",
-    "Growing Together",
-    "Ghislaine Maxwell",
     "Joinder In Action",
+    "So Glenn",
     "Including Mr",
-    "Marvin Minsky"
+    "New Mexico",
+    "Ghislaine Maxwell",
+    "Virgin Islands",
+    "Growing Together",
+    "Prince Andrew",
+    "Luc Brunel",
+    "Jane Doe",
+    "Jean Luc Brunel",
+    "Sharon Churcher",
+    "When Ghislaine Maxwell",
+    "Glenn Dubin",
+    "El Brillo",
+    "Jeffrey Epstein",
+    "Corrected Motion Pursuant",
+    "Marvin Minsky",
+    "In Sydney",
+    "What Growing Together"
   ],
   "locations": [
-    "France",
+    "Virgin Islands",
     "Palm Beach",
-    "New Mexico",
-    "Virgin Islands"
+    "France",
+    "New Mexico"
   ],
   "images": []
 }

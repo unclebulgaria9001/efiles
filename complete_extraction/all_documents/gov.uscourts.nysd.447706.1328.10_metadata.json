@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.10",
   "filename": "gov.uscourts.nysd.447706.1328.10.pdf",
-  "extraction_date": "2025-11-17T10:33:10.202042",
+  "extraction_date": "2025-11-17T10:39:55.614546",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,31 +61,31 @@
     }
   ],
   "people": [
-    "Court Reporter",
-    "Americas\nNew York",
-    "New\nYork",
-    "Les\nRegistered Professional",
-    "Les Wexner",
-    "In Palm Beach",
-    "Mr Epstein",
-    "Did Mr",
-    "Maria Farmer",
-    "Continued Videotaped Deposition",
-    "Was Johanna",
-    "Carolyn Andriamo",
-    "Virgin Islands",
-    "Case No",
-    "Leslie Fagin",
-    "Tony Figueroa",
-    "Virginia Roberts",
-    "Confidential\nPage",
     "Notary Public",
-    "Judge Sweet"
+    "Carolyn Andriamo",
+    "Virginia Roberts",
+    "Mr Epstein",
+    "Les\nRegistered Professional",
+    "Virgin Islands",
+    "Lexington Avenue",
+    "Filed Under Seal",
+    "Did Mr",
+    "Court Reporter",
+    "Les Wexner",
+    "Judge Sweet",
+    "New\nYork",
+    "Tony Figueroa",
+    "Continued Videotaped Deposition",
+    "Maria Farmer",
+    "Leslie Fagin",
+    "Confidential\nPage",
+    "In Palm Beach",
+    "Case No"
   ],
   "locations": [
+    "Virgin Islands",
     "New York",
-    "Palm Beach",
-    "Virgin Islands"
+    "Palm Beach"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.14",
   "filename": "gov.uscourts.nysd.447706.1328.14.pdf",
-  "extraction_date": "2025-11-17T10:34:15.214711",
+  "extraction_date": "2025-11-17T10:40:58.890510",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -53,27 +53,27 @@
     }
   ],
   "people": [
-    "Deposition Exhibit",
-    "The Cessna",
-    "Did Jeffrey Epstein",
-    "Boies Schiller",
-    "Certified Realtime\nReporter",
-    "Registered\nProfessional Reporter",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Kelli Ann Willis",
-    "Fort Lauderdale",
-    "Filed Under Seal",
     "New Mexico",
-    "Santa Fe",
+    "Notary Public",
+    "Kelli Ann Willis",
+    "Boies Schiller",
+    "Las Olas Boulevard",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
     "Ghislaine Maxwell",
-    "Las Olas Boulevard"
+    "The Cessna",
+    "Filed Under Seal",
+    "Santa Fe",
+    "Did Jeffrey Epstein",
+    "Certified Realtime\nReporter",
+    "Deposition Exhibit",
+    "Jeffrey Epstein"
   ],
   "locations": [
+    "New Mexico",
     "New York",
     "Palm Beach",
-    "Florida",
-    "New Mexico"
+    "Florida"
   ],
   "images": []
 }

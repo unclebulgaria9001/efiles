@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-9",
   "filename": "1325-9.pdf",
-  "extraction_date": "2025-11-17T10:37:16.841122",
+  "extraction_date": "2025-11-17T10:43:47.730690",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,19 +56,19 @@
     }
   ],
   "people": [
-    "Did Maxwell",
-    "Jane Doe",
-    "Boies Schiller",
-    "Certified Realtime\nReporter",
-    "Registered\nProfessional Reporter",
-    "Notary Public",
-    "Kelli Ann Willis",
     "File Under Seal",
+    "Kelli Ann Willis",
+    "Notary Public",
+    "Boies Schiller",
+    "Las Olas Boulevard",
+    "Registered\nProfessional Reporter",
     "Fort Lauderdale",
-    "Florida\nMy Commission",
-    "Prince Andrew",
     "And Ms",
-    "Las Olas Boulevard"
+    "Jane Doe",
+    "Florida\nMy Commission",
+    "Certified Realtime\nReporter",
+    "Did Maxwell",
+    "Prince Andrew"
   ],
   "locations": [
     "New York",

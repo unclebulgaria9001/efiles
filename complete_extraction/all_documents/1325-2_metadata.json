@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-2",
   "filename": "1325-2.pdf",
-  "extraction_date": "2025-11-17T10:37:02.155945",
+  "extraction_date": "2025-11-17T10:43:33.900217",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -114,33 +114,33 @@
     }
   ],
   "people": [
-    "Registered\nNo",
-    "Oo Thu",
-    "York Correspondent\nTelephone",
-    "Original Message",
-    "Sharon Church",
-    "Kenneth Starr",
-    "Mail Online",
-    "Hi Sandra",
-    "Matenal Page",
-    "Tbc Story",
-    "Sharon Churcher\nSubject",
-    "Thanks\nMatey",
-    "Vtrginia Giuffre\nSent",
-    "Prnltcled Material Page",
-    "Virginia Giuffre\nSubject",
-    "Australian Walkabout Park",
-    "Jarred Weisfeld\nSubject",
-    "Virginia Giuffre\nDate",
-    "Copynght Prmectcd Moten",
-    "Thanks Matell\nSincerely"
+    "Thanks Matey",
+    "Xoxo\nJenna",
+    "Dear Ms",
+    "Virginia Roberts",
+    "Jenna\nLet",
+    "Registered No",
+    "The Observer",
+    "Jarred Weisfeld\nSent",
+    "Wall Streeters",
+    "Hi Shazza",
+    "Yours\nSandra",
+    "Hi Jenna\nThirty",
+    "Special Forces",
+    "Virginia Roberts\nIrene",
+    "Palm Beach Postwebarchive",
+    "Teala Davis",
+    "Crown Plaza",
+    "Sharon Cburcher\nSubject",
+    "Synopsis\nHi Shazza",
+    "Virginia Giuffre\nReceived"
   ],
   "locations": [
     "Paris",
-    "London",
     "New York",
-    "Florida",
-    "Palm Beach"
+    "London",
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

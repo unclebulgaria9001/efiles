@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.9",
   "filename": "gov.uscourts.nysd.447706.1330.9.pdf",
-  "extraction_date": "2025-11-17T10:31:25.871021",
+  "extraction_date": "2025-11-17T10:38:12.268779",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -74,21 +74,21 @@
     }
   ],
   "people": [
-    "Case No",
-    "Dear Sigrid",
-    "Ross Gow",
-    "Menninger\nCase",
-    "Lago Club",
-    "East Las Olas",
-    "Menninger\nLaura",
-    "Barry\nDate",
-    "Guiffeeagainst Ms",
-    "File Under Seal",
-    "Fort Lauderdale",
     "Gmax\nSubject",
-    "Ross Gow\nSent",
+    "File Under Seal",
+    "Dear Sigrid",
+    "Best\nRoss",
+    "Guiffeeagainst Ms",
+    "Fort Lauderdale",
+    "East Las Olas",
     "First Request",
-    "Best\nRoss"
+    "Ross Gow\nSent",
+    "Barry\nDate",
+    "Case No",
+    "Menninger\nLaura",
+    "Menninger\nCase",
+    "Ross Gow",
+    "Lago Club"
   ],
   "locations": [],
   "images": []

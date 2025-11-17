@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.5_1",
   "filename": "gov.uscourts.nysd.447706.1330.5_1.pdf",
-  "extraction_date": "2025-11-17T10:33:19.617641",
+  "extraction_date": "2025-11-17T10:40:04.501447",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email"
@@ -44,8 +44,8 @@
     }
   ],
   "people": [
-    "On Sat",
-    "Maxwell\nSubject"
+    "Maxwell\nSubject",
+    "On Sat"
   ],
   "locations": [],
   "images": []

@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-16",
   "filename": "1325-16.pdf",
-  "extraction_date": "2025-11-17T10:36:38.031850",
+  "extraction_date": "2025-11-17T10:43:11.564426",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -39,25 +39,25 @@
     }
   ],
   "people": [
-    "University Street",
-    "Salt Lake City",
-    "Twin Lakes Rd",
-    "South Salem",
-    "Stanley Pottinger\nBradley",
     "Menninger In Support",
     "Of Reply",
-    "Nicole Simmons\nNicole",
-    "East Las Olas",
-    "Declaration Of Laura",
-    "North Andrews Ave",
-    "United States District",
-    "Menninger\nLaura",
     "Of\nReply",
-    "Anthony Figuera",
-    "Defendant\nGhislaine Maxwell",
+    "Protective Order",
+    "South Salem",
+    "North Andrews Ave",
+    "Twin Lakes Rd",
+    "Menninger\nLaura",
+    "United States District",
+    "Stanley Pottinger\nBradley",
     "Cassell\nMeredith Schultz",
-    "Motion To Reopen",
-    "Protective Order"
+    "Salt Lake City",
+    "Anthony Figuera",
+    "Declaration Of Laura",
+    "East Las Olas",
+    "Defendant\nGhislaine Maxwell",
+    "University Street",
+    "Nicole Simmons\nNicole",
+    "Motion To Reopen"
   ],
   "locations": [
     "New York"
