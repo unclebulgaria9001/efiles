@@ -6,6 +6,24 @@
 
 ---
 
+## ⚠️ LEGAL DISCLAIMER
+
+**IMPORTANT**: This repository contains analytical research based on publicly available court documents and sources. 
+
+**READ THE FULL [LEGAL DISCLAIMER](LEGAL_DISCLAIMER.md) BEFORE USING THIS REPOSITORY.**
+
+### Key Points:
+- ✅ **Educational/Research purposes only** - Not for legal proceedings
+- ✅ **No legal advice** - Consult an attorney for legal matters
+- ✅ **No warranty of accuracy** - Information may contain errors
+- ✅ **Presumption of innocence** - Allegations are not facts
+- ✅ **Use at your own risk** - No liability for damages
+- ✅ **Publicly available sources only** - Court documents, depositions, news reports
+
+**By using this repository, you agree to the terms in the [LEGAL DISCLAIMER](LEGAL_DISCLAIMER.md).**
+
+---
+
 ## 📁 Repository Structure
 
 ```
