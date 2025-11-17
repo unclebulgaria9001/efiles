@@ -1,0 +1,143 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.3",
+  "filename": "gov.uscourts.nysd.447706.1331.3.pdf",
+  "extraction_date": "2025-11-17T10:18:56.193998",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 78452,
+  "images_extracted": 0,
+  "dates_found": 78,
+  "people_found": 194,
+  "locations_found": 10,
+  "linked_emails": [
+    {
+      "email_file": "0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt",
+      "email_id": "0001"
+    },
+    {
+      "email_file": "0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0005"
+    },
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    },
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0021_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0021"
+    },
+    {
+      "email_file": "0027_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0027"
+    },
+    {
+      "email_file": "0031_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0031"
+    },
+    {
+      "email_file": "0032_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0032"
+    },
+    {
+      "email_file": "0050_____________From-Unknown_To-4 _______________________________________________DATE____________.txt",
+      "email_id": "0050"
+    },
+    {
+      "email_file": "0053_04_25_2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0053"
+    },
+    {
+      "email_file": "0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt",
+      "email_id": "0072"
+    },
+    {
+      "email_file": "0080_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0080"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 122
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1593
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3898
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5965
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8054
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9605
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11036
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12444
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14146
+    }
+  ],
+  "people": [
+    "Dulwich Hill",
+    "Royal Palm\nBeach",
+    "The Entrance Road",
+    "Carol Roberts Kess",
+    "Campbelltown Hospital",
+    "National Enquirer",
+    "Ron Eppinger\nResponse",
+    "Local Rule",
+    "Zorro Ranch Rd",
+    "Ron Eppinger",
+    "Court\nSouthern District",
+    "Alan\nDershowitz",
+    "Royal Oaks Medical",
+    "Local Civil\nRule",
+    "Glenning Valley",
+    "Jack Scarola",
+    "Quentin St",
+    "Stan\nPottinger",
+    "Miller Road",
+    "Avenue\nDenver"
+  ],
+  "locations": [
+    "Zorro Ranch",
+    "London",
+    "New York",
+    "New Mexico",
+    "Paris",
+    "Florida",
+    "Virgin Islands",
+    "France",
+    "Palm Beach",
+    "Little St. James"
+  ],
+  "images": []
+}

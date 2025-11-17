@@ -1,0 +1,110 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.21",
+  "filename": "gov.uscourts.nysd.447706.1328.21.pdf",
+  "extraction_date": "2025-11-17T10:17:15.937600",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 45692,
+  "images_extracted": 0,
+  "dates_found": 118,
+  "people_found": 121,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    },
+    {
+      "email_file": "0063_Fri 2_21_2014 1_17_2_From-Virginia Giuffre_To-Marianne Strong[mariannes_Re_ NYC Post Inquiry re_ Jeffrey Epstein.txt",
+      "email_id": "0063"
+    },
+    {
+      "email_file": "0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt",
+      "email_id": "0078"
+    },
+    {
+      "email_file": "0079_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0079"
+    },
+    {
+      "email_file": "0080_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0080"
+    },
+    {
+      "email_file": "0081_Monday,July18,20162__From-LauraMenninger_To-'MeredithSchultz'_RE_Giuffre- Conferralregardingsearchterm.txt",
+      "email_id": "0081"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 133
+    },
+    {
+      "date_string": "04/25/2016",
+      "position": 1158
+    },
+    {
+      "date_string": "03/04/201",
+      "position": 1177
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1235
+    },
+    {
+      "date_string": "4/25/16",
+      "position": 1263
+    },
+    {
+      "date_string": "11/04/97",
+      "position": 1399
+    },
+    {
+      "date_string": "11/04/97",
+      "position": 1431
+    },
+    {
+      "date_string": "11/04/97",
+      "position": 1462
+    },
+    {
+      "date_string": "11/09/97",
+      "position": 1786
+    }
+  ],
+  "people": [
+    "Entered By",
+    "Female\nEthnic Origin",
+    "Sex Offenses",
+    "Male\nEthnic Origin",
+    "Home Phone No",
+    "Original Report Reported",
+    "Palm Beach Residency",
+    "Detective Division",
+    "Reported By",
+    "Horne Phone No",
+    "Adam Niseoneohn",
+    "Case Status",
+    "Police Department",
+    "Assignment Date",
+    "Maximum Weight",
+    "Detectives Pervenecki",
+    "Arrest\nException Clear",
+    "State Class",
+    "Palm Beach Truancy",
+    "White Sex"
+  ],
+  "locations": [
+    "Florida",
+    "Palm Beach"
+  ],
+  "images": []
+}

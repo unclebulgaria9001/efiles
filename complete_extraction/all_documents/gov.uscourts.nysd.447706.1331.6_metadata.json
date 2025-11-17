@@ -1,0 +1,103 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.6",
+  "filename": "gov.uscourts.nysd.447706.1331.6.pdf",
+  "extraction_date": "2025-11-17T10:19:36.944015",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 14505,
+  "images_extracted": 0,
+  "dates_found": 20,
+  "people_found": 31,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0003_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0003"
+    },
+    {
+      "email_file": "0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0006"
+    },
+    {
+      "email_file": "0036_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0036"
+    },
+    {
+      "email_file": "0064_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0064"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 139
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 755
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4939
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8631
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8735
+    },
+    {
+      "date_string": "7/19/06",
+      "position": 8842
+    },
+    {
+      "date_string": "12/21/05",
+      "position": 9154
+    },
+    {
+      "date_string": "12/21/05",
+      "position": 9196
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11955
+    }
+  ],
+  "people": [
+    "Flagler Drive\nSuite",
+    "When Mr",
+    "Joseph Recarey",
+    "Entered By",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis",
+    "South East",
+    "Toll Free",
+    "Incident Report Program",
+    "Laine Maxwell",
+    "Case Agent Det",
+    "Registered\nProfessional Reporter",
+    "Reported By",
+    "On Thursday",
+    "Zip Disks",
+    "Condensed Transcript",
+    "El Brillo Way",
+    "Teresa Whalen",
+    "Notary Public"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

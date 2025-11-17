@@ -1,0 +1,1175 @@
+# Document: 1320-18.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 74
+# People Found: 214
+# Locations Found: 3
+# Linked Emails: 2
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 1 of 40
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+RESPONSE TO MOTION TO COMPEL ATTORNEY-CLIENT COMMUNICATIONS
+AND ATTORNEY WORK PRODUCT MATERIALS
+BOIES, SCHILLER & FLEXNER LLP
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 2 of 40
+TABLE OF CONTENTS
+(cid:3)
+TABLE OF CONTENTS...............................................................................................................................(cid:3)i(cid:3)
+TABLE OF AUTHORITIES(cid:3).......................................................................................................................(cid:3)iii(cid:3)
+INTRODUCTION(cid:3)........................................................................................................................................(cid:3)1(cid:3)
+FACTUAL BACKGROUND(cid:3).......................................................................................................................(cid:3)2(cid:3)
+The CVRA Case(cid:3)...........................................................................................................................................(cid:3)2(cid:3)
+The Dershowitz case(cid:3)........................................................................................................................(cid:3)4(cid:3)
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument(cid:3)................................(cid:3)5(cid:3)
+Ms. Giuffre’s Deposition in the Defamation Case(cid:3)...........................................................................(cid:3)7(cid:3)
+The Settlement of the Defamation Case(cid:3)..........................................................................................(cid:3)7(cid:3)
+LEGAL STANDARDS FOR WAIVER(cid:3).......................................................................................................(cid:3)8(cid:3)
+A.(cid:3)Federal Rule of Evidence 502 Controls on the Issue of Waiver(cid:3).................................................(cid:3)8(cid:3)
+B.(cid:3)Florida Law(cid:3).................................................................................................................................(cid:3)9(cid:3)
+C. Federal Law(cid:3)..............................................................................................................................(cid:3)11(cid:3)
+DISCUSSION(cid:3).............................................................................................................................................(cid:3)14(cid:3)
+I. (cid:3)MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.(cid:3)..............................................(cid:3)14(cid:3)
+A.(cid:3) The Florida Court Presiding over the Defamation Action Has Already Rejected the
+Same Waiver Claim that Defendant is Advancing Here.(cid:3)................................................(cid:3)14(cid:3)
+B. (cid:3) Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s Attorney-Client
+Privilege.(cid:3).........................................................................................................................(cid:3)18(cid:3)
+C. (cid:3) Ms. Giuffre’s Confidential Communications With Her Attorneys Were Never “At
+Issue” in the Florida Dershowitz Litigation.(cid:3)...................................................................(cid:3)19(cid:3)
+D. (cid:3) Defendant Has Not Met the Other Requirements for Showing Waiver of Attorney-
+Client Privilege.(cid:3)...............................................................................................................(cid:3)21(cid:3)
+E. (cid:3) Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client Communications
+in her Action Here.(cid:3)..........................................................................................................(cid:3)23(cid:3)
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.(cid:3)...............................(cid:3)25(cid:3)
+III.EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.(cid:3)........................................................................................(cid:3)27(cid:3)
+A.(cid:3) Work Product Protection Has Not Been Waived.(cid:3)...........................................................(cid:3)27(cid:3)
+B.(cid:3) Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.(cid:3)...................(cid:3)29(cid:3)
+i(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 3 of 40
+IV.COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED BY A
+JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY ATTORNEY-
+CLIENT AND WORK-PRODUCTION PROTECTION.(cid:3)........................................................(cid:3)31(cid:3)
+CONCLUSION(cid:3)...........................................................................................................................................(cid:3)31(cid:3)
+(cid:3)
+(cid:3)
+ii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 4 of 40
+TABLE OF AUTHORITIES
+Cases(cid:3)
+Allen v. West Point-Pepperell, Inc.,
+848 F.Supp. 423 (S.D.N.Y.1994)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Allied Irish Banks v. Bank of Am., N.A.,
+240 F.R.D. 96 (S.D.N.Y. 2007)(cid:3)..............................................................................................................(cid:3)12(cid:3)
+Am. Re-Ins. Co. v. U.S. Fid. & Guar. Co.,
+40 A.D.3d 486, 837 N.Y.S.2d 616 (2007)(cid:3)..............................................................................................(cid:3)22(cid:3)
+Aristocrat Leisure Ltd. v. Deutsche Bank Trust Co. Americas,
+No. 04 CIV 10014 PKL,
+2009 WL 3111766 (S.D.N.Y. Sept. 28, 2009)(cid:3)........................................................................................(cid:3)14(cid:3)
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A.,
+210 F.R.D. 506 (S.D.N.Y. 2002)(cid:3)................................................................................................(cid:3)10,(cid:3)13,(cid:3)14(cid:3)
+Brookings v. State,
+495 So.2d 135 (Fla. 1986)(cid:3).......................................................................................................................(cid:3)23(cid:3)
+Bus. Integration Servs., Inc. v. AT&T Corp.,
+No. 06 CIV. 1863 (JGK), 2008 WL 318343 (S.D.N.Y. Feb. 4, 2008)(cid:3)...................................................(cid:3)18(cid:3)
+Butler v. Harter,
+152 So.3d 705 (Fla. 1st DCA, 2014)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Charter One Bank, F.S.B. v. Midtown Rochester, L.L.C.,
+191 Misc. 2d 154, 738 N.Y.S.2d 179 (Sup. Ct. 2002)(cid:3)............................................................................(cid:3)28(cid:3)
+Coates v. Akerman, Senterfitt & Eidson, P.A.,
+940 So.2d 504 (Fla. 2nd DCA 2006)(cid:3)..........................................................................................(cid:3)11,(cid:3)12,(cid:3)20(cid:3)
+Columbia Hosp. Corp. of S. Broward v. Fain,
+16 So.3d 236 (Fla. 4th DCA 2009)(cid:3).........................................................................................................(cid:3)31(cid:3)
+Connell v. Bernstein-Macaulay, Inc.,
+407 F.Supp. 420 (S.D.N.Y.1976)(cid:3)............................................................................................................(cid:3)13(cid:3)
+Coyne v. Schwartz, Gold, Cohen, Zakarin & Kotler, P.A.,
+715 So.2d 1021 (Fla. 4th DCA 1998)(cid:3)......................................................................................................(cid:3)21(cid:3)
+CSX Transp., Inc. v. Carpenter,
+725 So.2d 434 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)30(cid:3)
+Delap v. State,
+440 So.2d 1242 (Fla. 1983)(cid:3).....................................................................................................................(cid:3)22(cid:3)
+Diaz–Verson v. Walbridge Aldinger Co.,
+54 So.3d 1007 (Fla. 2d DCA 2010)(cid:3)........................................................................................................(cid:3)20(cid:3)
+Dillenbeck v. Hess,
+73 N.Y.2d 278, 290, 536 N.E.2d 1126 (N.Y. 1989)(cid:3)...............................................................................(cid:3)14(cid:3)
+Does 1 and 2 v. United States,
+817 F.Supp.2d 1337 (S.D. Fla. 2011)(cid:3).......................................................................................................(cid:3)2(cid:3)
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014)(cid:3)....................................................................................................................(cid:3)3(cid:3)
+Eastern Air Lines, Inc. v. Gellert,
+431 So.2d 329 (Fla. 3d DCA 1983)(cid:3)........................................................................................................(cid:3)28(cid:3)
+Elliott Associates, L.P. v. Banco de la Nacion,
+194 F.3d 363 (2d Cir. 1999)(cid:3)....................................................................................................................(cid:3)18(cid:3)
+iii(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 5 of 40
+Falco v. N. Shore Labs. Corp.,
+866 So.2d 1255 (Fla. 1st DCA 2004)(cid:3)......................................................................................................(cid:3)31(cid:3)
+Ferreira v. Capitol Specialty Ins. Corp.,
+31 Misc. 3d 1209(A),
+929 N.Y.S.2d 199 (N.Y. Sup. Ct. 2011)(cid:3).................................................................................................(cid:3)14(cid:3)
+First Union National Bank v. Turney,
+824 So.2d 172 (Fla. 1st DCA 2002)(cid:3)........................................................................................................(cid:3)10(cid:3)
+Ford Motor Co. v. Hall-Edwards,
+997 So.2d 1148 (Fla. 3d DCA 2008)(cid:3)......................................................................................................(cid:3)10(cid:3)
+Genovese v. Provident Life and Accident Ins. Co.,
+74 So.3d 1064 (Fla. 2011)(cid:3)...........................................................................................................(cid:3)12,(cid:3)20,(cid:3)29(cid:3)
+Giuffre v. Maxwell, DE 135, 2016 WL 175918(cid:3)...................................................................................(cid:3)12,(cid:3)32(cid:3)
+Goldman, Sachs & Co. v. Blondis,
+412 F.Supp. 286 (N.D.Ill.1976)(cid:3)..............................................................................................................(cid:3)28(cid:3)
+Guarantee Ins. Co. v. Heffernan Ins. Brokers, Inc.,
+300 F.R.D. 590 (S.D. Fla. 2014)(cid:3).................................................................................................(cid:3)10,(cid:3)11,(cid:3)21(cid:3)
+GUS Consulting GMBH v. Chadbourne & Parke LLP,
+20 Misc. 3d 539, 858 N.Y.S.2d 591 (Sup. Ct. 2008)(cid:3)..............................................................................(cid:3)32(cid:3)
+Hagans v. Gatorland Kubota, LLC/Sentry Ins.,
+45 So.3d 73 (Fla. 1st DCA 2010)(cid:3)............................................................................................................(cid:3)10(cid:3)
+Hearn v. Rhay,
+68 F.R.D. 574 (E.D. Wash. 1975)(cid:3)...............................................................................................(cid:3)10,(cid:3)13,(cid:3)16(cid:3)
+HSH Nordbank AG New York Branch v. Swerdlow,
+259 F.R.D. 64 (S.D.N.Y. 2009)(cid:3)..............................................................................................................(cid:3)26(cid:3)
+In re Bank of New York Mellon Corp. Forex Transactions Litig.,
+66 F. Supp. 3d 406 (S.D.N.Y. 2014)(cid:3).......................................................................................................(cid:3)14(cid:3)
+In re Bank of New York Mellon,
+42 Misc. 3d 171, 177, 977 N.Y.S.2d 560 (Sup. Ct. 2013)(cid:3)......................................................................(cid:3)14(cid:3)
+In re Cnty. of Erie,
+546 F.3d 222 (2d Cir. 2008)(cid:3)........................................................................................................(cid:3)12,(cid:3)13,(cid:3)25(cid:3)
+In re von Bulow,
+828 F.2d 94 (2d Cir. 1987)(cid:3)................................................................................................................(cid:3)14,(cid:3)23(cid:3)
+Jane Doe 1 v. United States,
+No. 9:08-cv-80736 (S.D. Fla. July 7, 2008)(cid:3)..............................................................................................(cid:3)2(cid:3)
+Jane Does 1 and 2 v. United States,
+950 F.Supp.2d 1262 (S.D. Fla. 2013)(cid:3).......................................................................................................(cid:3)3(cid:3)
+Jenney v. Airdata Wiman, Inc.,
+846 So.2d 664 (Fla. 2d DCA 2003)(cid:3)........................................................................................................(cid:3)22(cid:3)
+Jenney v. Airdata Wiman, Inc.,
+846 So.2d 664 (Fla. 2nd DCA 2003)(cid:3)......................................................................................................(cid:3)11(cid:3)
+Koon v. State,
+463 So.2d 201 (Fla. 1985)(cid:3).................................................................................................................(cid:3)19,(cid:3)22(cid:3)
+Lynch v. State,
+2 So.3d 47 (Fla. 2008)(cid:3).............................................................................................................................(cid:3)23(cid:3)
+McCullough v. Kubiak,
+158 So. 3d 739 (Fla. 4th DCA, 2015)(cid:3)......................................................................................................(cid:3)22(cid:3)
+McWatters v. State,
+36 So.3d 613 (Fla. 2010)(cid:3).........................................................................................................................(cid:3)12(cid:3)
+iv(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 6 of 40
+Mitchell v. Superior Court,
+37 Cal. 3d 591, 691 P.2d 642 (Cal. 1984)(cid:3)...............................................................................................(cid:3)26(cid:3)
+Montana v. United States,
+440 U.S. 147 (1979)(cid:3)................................................................................................................................(cid:3)17(cid:3)
+Montanez v. Publix Super Markets, Inc.,
+135 So. 3d 510 (Fla. Dist. Ct. App. 2014)(cid:3)..............................................................................................(cid:3)26(cid:3)
+N. Broward Hosp. Dist. v. Button,
+592 So.2d 367 (Fla. 4th DCA 1992)(cid:3).......................................................................................................(cid:3)31(cid:3)
+Niesig v. Team I,
+76 N.Y.2d 363, 558 N.E.2d 1030 (1990)(cid:3)................................................................................................(cid:3)23(cid:3)
+Nomura Asset Capital Corp. v. Cadwalader, Wickersham & Taft LLP,
+62 A.D.3d 581, 880 N.Y.S.2d 617 (N.Y. App. Div. 2009)(cid:3).....................................................................(cid:3)25(cid:3)
+O'Brien v. Fed. Trust Bank, F.S.B.,
+727 So. 2d 296 (Fla. Dist. Ct. App. 1999)(cid:3)..............................................................................................(cid:3)17(cid:3)
+Paradise Divers, Inc. v. Upmal,
+943 So. 2d 812 (Fla. Dist. Ct. App. 2006)(cid:3)........................................................................................(cid:3)28,(cid:3)29(cid:3)
+Parklane Hosiery Co., Inc. v. Shore,
+439 U.S. 322 (1979)(cid:3)................................................................................................................................(cid:3)17(cid:3)
+Pereira v. United Jersey Bank,
+Nos. 94 Civ 1565 & 94 Civ 1844, 1997 WL 773716 (S.D.N.Y. Dec.11, 1997)(cid:3).....................................(cid:3)13(cid:3)
+Perrignon v. Bergen Brunswig Corp.,
+77 F.R.D. 455 (N.D. Cal.1978)(cid:3)...............................................................................................................(cid:3)28(cid:3)
+Procacci v. Seitlin,
+497 So. 2d 969 (Fla. Dist. Ct. App. 1986)(cid:3)..............................................................................................(cid:3)28(cid:3)
+Procter & Gamble Co. v. Swilley,
+462 So.2d 1188 (Fla. 1st DCA 1985)(cid:3)......................................................................................................(cid:3)30(cid:3)
+Rhone-Poulenc Rorer, Inc. v. Home Indem. Co.,
+32 F.3d 851 (3d Cir.1994)(cid:3).......................................................................................................................(cid:3)13(cid:3)
+Rhone–Poulenc Rorer, Inc. v. Home Indemnity Co.,
+32 F.3d 851 (3d Cir. 1994)(cid:3)......................................................................................................................(cid:3)11(cid:3)
+Rogers v. State,
+742 So.2d 827 (Fla. 2d DCA 1999)(cid:3)........................................................................................................(cid:3)12(cid:3)
+Rousso v. Hannon,
+146 So.3d 66 (Fla. 3d DCA 2014)(cid:3)..........................................................................................................(cid:3)10(cid:3)
+Savino v. Luciano,
+92 So.2d 817 (Fla. 1957)(cid:3)...................................................................................................................(cid:3)12,(cid:3)20(cid:3)
+Schetter v. Schetter,
+239 So.2d 51 (Fla. 4th DCA 1970)(cid:3)..........................................................................................................(cid:3)18(cid:3)
+Schnell v. Schnall,
+550 F. Supp. 650 (S.D.N.Y.1982)(cid:3)...........................................................................................................(cid:3)19(cid:3)
+Southern Bell Tel. & Tel. Co. v. Deason,
+632 So.2d 1377 (Fla.1994)(cid:3)......................................................................................................................(cid:3)30(cid:3)
+State v. T.A.,
+528 So.2d 974 (Fla. 2d DCA, 1988)(cid:3).......................................................................................................(cid:3)30(cid:3)
+Surf Drugs, Inc. v. Vermette,
+236 So.2d 108 (Fla. 1970)(cid:3).......................................................................................................................(cid:3)28(cid:3)
+Swidler & Berlin v. United States,
+524 U.S. 399 (1998)(cid:3)..................................................................................................................................(cid:3)8(cid:3)
+v(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 7 of 40
+Taylor v. State,
+855 So.2d 1 (Fla. 2003)(cid:3)...........................................................................................................................(cid:3)22(cid:3)
+Ulico Cas. Co. v. Wilson, Elser, Moskowitz, Edelman & Dicker,
+1 A.D.3d 223, 767 N.Y.S.2d 228 (2003)(cid:3)................................................................................................(cid:3)26(cid:3)
+Universal City Development Partners, Ltd. v. Pupillo,
+54 So.3d 612, 614 (Fla. 5th DCA, 2011)(cid:3)...........................................................................................(cid:3)28,(cid:3)31(cid:3)
+West Bend Mutual Ins. Co. v. Higgins,
+9 So.3d 655(Fla. 5th DCA 2009)(cid:3)...........................................................................................................(cid:3)29(cid:3)
+Zirkelbach Const. Inc. v. Rajan,
+93 So.3d 1124 (Fla. 2d DCA 2012)(cid:3)........................................................................................................(cid:3)30(cid:3)
+Zois v. Cooper,
+268 B.R. 890 (S.D.N.Y. 2001)(cid:3)................................................................................................................(cid:3)17(cid:3)
+Statutes(cid:3)
+18 U.S.C. § 3771(a)(9)(cid:3)..................................................................................................................................(cid:3)3(cid:3)
+Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771(cid:3)...............................................................................(cid:3)2(cid:3)
+Fla. Stat. Ann. § 90.502(cid:3)..............................................................................................................................(cid:3)26(cid:3)
+Fla. Stat. Ann. § 90.502(1)(c)(cid:3).......................................................................................................................(cid:3)9(cid:3)
+Fla. Stat. Ann. § 90.502(2)(cid:3)....................................................................................................................(cid:3)11,(cid:3)22(cid:3)
+Fla. Stat. Ann. § 90.502(3)(cid:3)..........................................................................................................................(cid:3)11(cid:3)
+Fla. Stat. Ann. § 90.502(4)(cid:3)..........................................................................................................................(cid:3)26(cid:3)
+Fla. Stat. Ann. § 90.507(cid:3)..............................................................................................................................(cid:3)12(cid:3)
+N.Y. C.P.L.R. § 4503(a)(cid:3).............................................................................................................................(cid:3)14(cid:3)
+Pub. L. 114-22, Title I, § 113(a), (c)(1), May 29, 2015, 129 Stat. 240(cid:3).........................................................(cid:3)3(cid:3)
+(cid:3)(cid:3)
+Rules(cid:3)
+Fed. R. Evid. 502(c)(cid:3)................................................................................................................................(cid:3)9,(cid:3)18(cid:3)
+Fed. R. Evid. 502(c)(1)(cid:3)...............................................................................................................................(cid:3)27(cid:3)
+Fed. R. Evid. 502(c)(2)(cid:3)...............................................................................................................................(cid:3)27(cid:3)
+Fed. R. Evid. 502(cid:3)................................................................................................................................(cid:3)1,(cid:3)8,(cid:3)27(cid:3)
+Fla. R. Civ. P. 1.280(b)(3)(cid:3)..........................................................................................................................(cid:3)27(cid:3)
+Treatises(cid:3)
+Charles W. Ehrhardt, 1 Fla. Prac., Evidence § 502.6 (2015 ed.)(cid:3)................................................................(cid:3)18(cid:3)
+Paul G. Cassell, Nathanael J. Mitchell & Bradley J. Edwards,
+Crime Victims’ Rights During Criminal Investigations? Applying the Crime
+Victims’ Rights Act before Criminal Charges are Filed, 104 J. CRIM.L.&
+CRIMINOLOGY 59 (2014)(cid:3)..........................................................................................................................(cid:3)2(cid:3)
+(cid:3)(cid:3)
+Other(cid:3)Authorities(cid:3)
+N.Y. C.P.L.R. 4503 (McKinney)(cid:3)................................................................................................................(cid:3)19(cid:3)
+vi(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 8 of 40
+Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
+response to Defendant’s Motion to Compel All Attorney-Client Communications and Attorney
+Work Product Placed at Issue by Plaintiff and Her Attorneys (DE 164). The motion should be
+denied in its entirety.
+INTRODUCTION
+Defendant argues Ms. Giuffre and two of her attorneys (Cassell and Edwards) have
+somehow placed “at issue” her confidential attorney-client communications and therefore have
+made a “sweeping waiver” of attorney-client privilege in this case. Defendant, however, fails to
+cite the controlling law on this issue: Federal Rule of Evidence 502. Enacted in 2008, Rule 502
+was designed to block exactly the kind of argument Defendant is making. Rule 502 provides
+that litigants are entitled to the mostprotective law on attorney-client privilege, either state law
+where the disclosure was made or federal law. The alleged disclosures in this case were made in
+Florida, and under Florida law did not constitute any waiver of attorney-client privilege. Indeed,
+Defendant does not reveal to the Court that the Florida judge who handled the case during which
+the alleged “waivers” occurred (the Dershowitz case) has already considered – and rejected in
+their entirety – the very arguments that Defendant is advancing here.
+In addition, none of the alleged disclosures were made by Ms. Giuffre, who as the holder
+of the privilege is the only individual with authority to waive it. Moreover, none of the alleged
+disclosures concerned the substance of confidential attorney-client communications. And finally,
+Ms. Giuffre will not be seeking to introduce or otherwise take advantage of any confidential
+attorney-client communications in this case. Accordingly, for these and other reasons, the Court
+should deny Defendant’s motion in its entirety.
+1(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 9 of 40
+FACTUAL BACKGROUND
+The CVRA Case
+(cid:3)
+The facts relevant to this issue begin in 2008, when attorney Bradley J. Edwards (soon
+joined by co-counsel Professor Paul Cassell) filed a pro bono action in the Southern District of
+Florida under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771. Filed on behalf of Jane
+Doe 1 (and later Jane Doe 2) the CVRA action alleged that federal government had failed to
+protect the rights of Jane Doe 1 and other similarly situated victims of sex offenses committed by
+Jeffrey Epstein. SeeDeclaration of Sigrid McCawley (“McCawley Decl.”) at Exhibit 1,
+Complaint filed in Jane Doe 1 v. United States, No. 9:08-cv-80736 (S.D. Fla. July 7, 2008). Jane
+Does 1 and 2 achieved many victories in the case, including a ruling that the CVRA rights of
+victims could apply before charges were filed, Does 1 and 2 v. United States, 817 F.Supp.2d
+1337 (S.D. Fla. 2011);1 that they had standing to challenge the non-prosecution agreement
+reached between the Government and Epstein, Jane Does 1 and 2 v. United States, 950
+F.Supp.2d 1262 (S.D. Fla. 2013); and that plea negotiations were not protected from disclosure
+by any federal rule of evidence, Does v. United States, 749 F.3d 999 (11th Cir. 2014). Congress
+has also followed the developments in the case closely, recently amending the CVRA to insure
+that in the future crime victims receive notice of any non-prosecution agreement entered into by
+the Government. See Pub. L. 114-22, Title I, § 113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241
+(adding 18 U.S.C. § 3771(a)(9) to give crime victims “[t]he right to be informed in a timely
+manner of any plea bargain or deferred prosecution agreement).
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+1See generally Paul G. Cassell, Nathanael J. Mitchell & Bradley J. Edwards, Crime Victims’ Rights During
+Criminal Investigations? Applying the Crime Victims’ Rights Act before Criminal Charges are Filed, 104 J. CRIM.
+L.&CRIMINOLOGY 59 (2014).
+2(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 10 of 40
+On December 30, 2014, Cassell and Edwards filed a Motion Pursuant to Rule 21 for
+Joinder in the Action on behalf two additional victims: Jane Doe 3 and Jane Doe 4. (Jane Doe 3,
+Virginia Giuffre, subsequently decided to reveal her name). The joinder motion argued that Jane
+Does 3 and 4 should be allowed to join the two existing plaintiffs in the action because they had
+suffered the same violations of their rights under the CVRA. McCawley Decl., Exhibit 2, Jane
+Does’ 3 and 4 Joinder Motion.2 To establish that they were “victims” of Epstein’s sex crimes
+with standing to join the suit, Jane Does 3 and 4 alleged that they had suffered sexual abuse from
+Epstein. For example, Jane Doe 3 alleged that she had been forced by Epstein to have sexual
+relations with various persons, including Alan Dershowitz – who had been one of Epstein’s
+defense attorneys negotiating the non-prosecution deal and arranging to keep it secret from the
+victims. McCawley Decl., Exhibit 2 at 4. Jane Doe 3 also alleged that Defendant (i.e., Ghislaine
+Maxwell) had participated in the sexual abuse of Jane Doe 3. Id. at 4-5.
+After Dershowitz also filed a motion to intervene to contest the allegations (DE 282),
+Jane Doe 3 filed a response to Dershowitz’s intervention motion. McCawley Decl., Exhibit 3,
+Response to Motion to Intervene.3 The response explained that the allegations against
+Dershowitz were relevant to at least eight separate issues in the CVRA case. Id. at 18-26. The
+-response also explained some of the evidence supporting the allegations against Dershowitz,
+including:
+(cid:120) sworn testimony from one of Epstein’s household employees (Juan Alessi) that
+Dershowitz came “pretty often” to Epstein’s Florida mansion and got massages
+while he was there;
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+2 The Joinder Motion attached as an exhibit is a “corrected” motion, filed on January 2, 2015. As discussed below,
+several paragraphs in this motion were later stricken by Judge Marra.
+3 This document is currently restricted/under seal in the CVRA case, although an order sealing it is not found in the
+Court record so far as can be determined. In light of the sealing of the document, we have marked aspects of this
+pleading dealing with the document as confidential.
+3(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 11 of 40
+(cid:120) sworn testimony from another of Epstein’s household employees (Alfredo
+Rodriquez) that Dershowitz was present alone at the home of Epstein, without his
+family, in the presence of young girls;
+(cid:120) invocations of Fifth Amendment rights to remain silent by three of Epstein’s
+identified co-conspirators (Sarah Kellen, Nadia Marcinkova, and Adrianna
+Mucinska) when asked questions about whether Dershowitz had been involved
+with massages by young girls;
+(cid:120) refusals by Jeffrey Epstein to discuss Dershowitz’s involvement but instead to
+- invoke his Fifth Amendment right.
+Id. at 26-38.
+Several months later, on April 7, 2015, the Court (Marra, J.) denied Jane Doe 3 and Jane
+Doe 4’s motion for joinder. McCawley Decl., Exhibit. 4, Order denying Jane Doe 3’s motion to
+join. With regard to the eight separate issues as to which the allegations against Dershowitz
+were relevant, the Court addressed only the first (establishing “victim” status) and found that the
+“factual details regarding with whom and where the Jane Does engaged in sexual activities are
+immaterial and impertinent to this central claim (i.e., that they were known victims of Mr.
+Epstein and the Government owed them CVRA duties), especially considering that these details
+involve non-parties who are not related to the respondent Government.” Id. at 5.4 Accordingly,
+the Court struck the factual details from the victims’ pleading as unnecessary at that time. The
+Court specifically recognized, however, that the details could be reasserted by the parties to the
+action – i.e., Jane Doe 1 and Jane Doe 2 – if they could “demonstrate a good faith basis for
+believing that such details are pertinent to a matter presented for the Court’s consideration.” Id.
+at 6. Following the Court’s ruling, additional litigation has proceeded in the CVRA case.
+The Dershowitz case
+(cid:3)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+4 In asserting that the non-parties were “not related to the respondent Government,” the Court did not address Jane
+Doe 3’s argument that Dershowitz, as one of Epstein’s defense counsel, had helped negotiate the non-prosecution
+agreement and helped to arrange to keep it secret from the victims.
+4(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 12 of 40
+While the CVRA case was moving forward in the Southern District of Florida on behalf
+of Jane Does 1 and 2, separate litigation developed between the pro bono attorneys who had filed
+the lawsuit (Cassell and Edwards) and Dershowitz. After the filing of the joinder motion in the
+CVRA case, Dershowitz took the airwaves to attack not only Jane Doe 3, but also Cassell and
+Edwards. Typical of these attacks was one levelled on CNN, in which Dershowitz alleged:
+If they [Cassell and Edwards] had just done an hours’ worth of research and work,
+they would have seen she is lying through her teeth. . . . They’re prepared to lie,
+cheat, and steal. These are unethical lawyers. . . . They can’t be allowed to have
+a bar card to victimize more innocent people.
+Hala Gorani – CNN Live (Jan. 5, 2015).5
+Cassell and Edwards then filed a state law defamation action against Dershowitz in
+Broward County, Florida. SeeMcCawley Decl., Exhibit. 5, Complaint in Edwards and Cassell
+v. Dershowitz. The complaint alleged that Dershowitz had engaged in a “massive public media
+assault on the reputation and character” of Cassell and Edwards. Id. at 4. Ms. Giuffre was not a
+party to this defamation lawsuit.
+The Florida Court Rejects a Waiver of Attorney Clients Privilege Argument
+(cid:3)
+As Cassell and Edwards’ Florida defamation action moved forward, Dershowitz sought
+to make an argument that they had somehow waived their client’s (Ms. Giuffre’s) attorney-client
+privilege. On September 8, 2015, Dershowitz filed a motion to compel Cassell and Edwards to
+produce documents and additional responses to interrogatories. McCawley Decl., Exhibit. 6,
+Motion to Compel. In his motion, Dershowitz argued that Cassell and Edwards “have waived
+any privilege or protection that would otherwise attach to responsive documents and information
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+5 Available at http://www.cnn.com/videos/world/2015/01/05/wrn-uk-sex-abuse-allegations-alan-dershowitz-
+intv.cnn.
+5(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 13 of 40
+by bringing this defamation action placing at issue the truthfulness of Jane Doe No. 3’s
+allegations against Dershowitz . . . .” Id. at 3-5. In his motion and reply pleading (McCawley
+Decl., Exhibit 8, Reply in Support of Motion to Compel), Dershowitz argued that Cassell and
+Edwards’ actions throughout the case constituted a waiver of attorney-client privilege.
+Cassell and Edwards responded, arguing that Ms. Giuffre was not a party of the
+defamation action and that she was the only person who could waive her privilege. McCawley
+Decl., Exhibit 7 at 4-6, Response in Opposition to Motion to Compel. Cassell and Edwards also
+argued that there had been no waiver because confidential attorney-client communications with
+Ms. Giuffre were not “at issue” in the defamation case. Id. at 6-9. Cassell and Edwards also
+later filed a sur-reply, further elaborating on the argument that Ms. Giuffre had not waived any
+attorney-client privilege by publicly discussing her sexual abuse by Epstein and his associates.
+McCawley Decl., Exhibit 9, Sur-Reply in Support Opposition to Motion to Compel. Cassell and
+Edwards also explained that communications with Ms. Giuffre were protected not only
+beginning in March 2014, but even earlier than that date when Ms. Giuffre understood that she
+was obtaining legal services from Cassell and Edwards. Id. at 1.
+Following this extensive briefing on waiver issues,6 on December 8, 2015, the Florida
+Court (Lynch, J.) ruled, denying Dershowitz’s argument that attorney-client privilege had been
+waived. McCawley Decl., Exhibit 10, Order Denying Motion to Compel. Specifically, the Court
+denied the motion to compel, explaining “Pre March 2014 communications are protected by the
+work product privilege and the witness has not waived the communications that were protected
+by the attorney-client privilege. Also, there was no waiver by the [Cassell and Edwards] by
+filing suit.” Id. at 1.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+6 And following the filing of Cassell and Edwards’ summary judgment motion, filed on November 26, 2015.
+6(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 14 of 40
+Ms. Giuffre’s Deposition in the Defamation Case
+(cid:3)
+As the defamation action moved forward, Dershowitz subpoenaed Ms. Giuffre to a
+deposition. McCawley Decl., Exhibit 11, Composite Exhibit of excerpts from transcript of
+deposition of Ms. Giuffre. During the deposition, held in Fort Lauderdale, Florida, Ms. Giuffre
+was represented by the undersigned legal counsel, who asserted objections to revealing attorney-
+client information where the questions called for revealing confidential attorney client
+communications. See, e.g., id. at 22-23; 131-32; 173-74; 183; 208. During the deposition, Ms.
+Giuffre specifically stated that “I decide not to waive my [attorney-client] privilege at this time.”
+Id. at 174. Ms. Giuffre also denied that Cassell and Edwards had ever pressured her into
+identifying someone as being involved in her sexual abuse. Id.at 200-12
+The Settlement of the Defamation Case
+(cid:3)
+Ultimately, Cassell, Edwards, and Dershowitz agreed to settle their defamation case.
+That settlement included both a public statement and confidential monetary payments. As part
+of the settlement, Cassell and Edwards withdrew their allegations against Dershowitz in the
+defamation case contained in the then-pending summary judgment motion. McCawley Decl.,
+Exhibit 12, Notice of Withdrawal of Summary Judgment Motion. As explained in the notice of
+withdrawal of this motion, “the withdrawal of the referenced filings is not intended to be, and
+should not be construed as being, an acknowledgement by Edwards and Cassell that the
+allegation made by Ms. Giuffre were mistaken. Edwards and Cassell do acknowledge that the
+public filing in the Crime Victims’ Rights Act case of their client’s allegation against Defendant
+Dershowitz became a major distraction from the merits of the well-founded Crime Victims’
+Rights Act by causing delay and, as a consequence, turned out to be a tactical mistake.” Id. All
+these actions settling the Florida defamation case took place in Florida.
+7(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 15 of 40
+LEGAL STANDARDS FOR WAIVER
+A. Federal Rule of Evidence 502 Controls on the Issue of Waiver
+(cid:3)
+Defendant asks this Court to find that Ms. Giuffre has somehow waived her attorney-
+client privilege regarding various communications in this case. This is no small step. The
+attorney-client privilege is one of the “oldest recognized privileges for confidential
+communications.” Swidler & Berlin v. United States, 524 U.S. 399, 403 (1998)). The
+privilege’s purpose is to “encourage full and frank communication between attorneys and their
+clients and thereby promote broader public interests in the observance of law and the
+administration of justice.” 524 U.S. at 403 (internal quotation marks omitted).
+In setting out the legal standards pertaining to waiver of attorney-client privilege,
+Defendant fails to cite the controlling – and protective – law on the issue. In a federal case,
+issues of alleged waiver of attorney-client privilege must be resolved under the new standards in
+Federal Rule of Evidence 502. In 2008, Congress enacted Federal Rule of Evidence 502, which
+is entitled “Attorney-Client Privilege and Work Product; Limitations on Waiver.” New rule 502
+places a number of protections in place to reduce litigation over claims that a party has somehow
+“waived” attorney client privilege. See generally Adv. Comm. Note, Rule 502. Notably,
+Defendant does not discuss, or even cite, Rule 502 in her motion.
+The issue currently before the Court is specifically controlled by Rule 502(c), which
+covers situations where a disclosure in a state proceeding is alleged, in a federal proceeding, to
+establish waiver. Rule 502(c) provides the greater of protections found in federal or state law:
+(c) Disclosure Made in a State Proceeding. When the disclosure is made in a state
+proceeding and is not the subject of a state-court order concerning waiver, the
+disclosure does not operate as a waiver in a federal proceeding if the disclosure:
+(1) would not be a waiver under this rule if it had been made in a federal
+proceeding; or
+(2) is not a waiver under the law of the state where the disclosure
+occurred.
+8(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 16 of 40
+As is readily apparent from the text of the rule, there are two separate ways in which a party can
+prove that no waiver of attorney-client privilege has occurred: (1) by demonstrating that no
+waiver exists under federal law; or (2) by demonstrating that no waiver exists under the state law
+where the disclosure occurred. Between these two possibilities, the drafters of the rule decided
+to apply the most protective law that governs waiver. See Fed. R. Evid. 502(c), Adv. Comm.
+Notes (“The [Advisory] Committee [on the Federal Rules of Evidence] determined that the
+proper solution for the federal court is to apply the law that is most protective of privilege and
+work product” (emphasis added)).
+B. Florida Law
+C. (cid:3)
+Florida’s protective law on the attorney-client privilege provides that neither an attorney
+nor a client may be compelled to divulge confidential communications between a lawyer and
+client which were made during the rendition of legal services. Fla. Stat. Ann. § 90.502(1)(c).
+Communication denotes more than just giving legal advice; it also includes giving information to
+the lawyer to enable him to render sound and informed advice. Hagans v. Gatorland Kubota,
+LLC/Sentry Ins., 45 So.3d 73, 76 (Fla. 1st DCA 2010).
+Under Florida law, while the burden of establishing the attorney-client privilege usually
+rests on the party claiming it, First Union National Bank v. Turney, 824 So.2d 172, 185 (Fla. 1st
+DCA 2002), when communications appear on their face to be privileged, the burden is on the
+party seeking disclosure to prove facts which would make an exception to the privilege
+applicable. Ford Motor Co. v. Hall-Edwards, 997 So.2d 1148, 1153 (Fla. 3d DCA 2008); Rousso
+v. Hannon, 146 So.3d 66, 70 (Fla. 3d DCA 2014). In this case, Defendant does not appear to
+dispute that an attorney-client privilege exists with regard to the communications between Ms.
+Giuffre and her attorneys. Rather, Defendant’s argument is that the privilege has somehow been
+9(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 17 of 40
+waived.SeeMotion to Compel at 1-2. Therefore, under Florida law, Defendant must shoulder
+the burden of overcoming the privilege. (Of course, because Defendant failed to even cite, much
+less discuss, Florida law, she has not carried that burden.)
+Defendant asserts that she can force disclosure of the privileged communications between
+Ms. Giuffre and her counsel under the “at issue” doctrine. To establish this alleged waiver,
+Defendant’s motion relies on a federal district court case – Hearn v. Rhay, 68 F.R.D. 574 (E.D.
+Wash. 1975), which was cited in Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A., 210
+F.R.D. 506. 509-10 (S.D.N.Y. 2002) (Ellis, M.J.). See Motion to Compel at 8. As discussed
+below, as a matter of controlling federal authority, these cases have been repudiated by the
+Second Circuit. And to the same effect, Florida law also rejects the expansive Hearn approach
+to waiver. See Guarantee Ins. Co. v. Heffernan Ins. Brokers, Inc., 300 F.R.D. 590, 593-95 (S.D.
+Fla. 2014) (discussing Florida authorities). Florida law disfavors waiver of the attorney-client
+privilege and will not readily find an “at issue” waiver. See Guarantee Ins. Co. v. Heffernan Ins.
+Brokers, Inc., 300 F.R.D. 590, 593 (S.D. Fla. 2014) (citing Coates v. Akerman, Senterfitt &
+Eidson, P.A., 940 So.2d 504, 508 (Fla. 2nd DCA 2006) (refusing to find waiver based on the at-
+issue doctrine)). In contrast to Hearn, under Florida law, at-issue waiver only occurs “when a
+party ‘raises a claim that will necessarily require proof by way of a privileged communication.’”
+Coates, 940 So.2d at 508 (quoting Jenney v. Airdata Wiman, Inc., 846 So.2d 664, 668 (Fla. 2nd
+DCA 2003)) (emphasis in original). Indeed, in 2014, the Southern District of Florida rejected the
+Hearn “at issue” analysis and instead, adopted the analysis of the Third Circuit as outlined in
+Rhone–Poulenc Rorer, Inc. v. Home Indemnity Co., 32 F.3d 851 (3d Cir. 1994). Guarantee Ins,
+300 F.R.D. at 595. The Third Circuit deemed the Hearn test to be of “dubious validity” because,
+although it “dress[es] up [its] analysis with a checklist of factors, [it] appear[s] to rest on a
+10(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 18 of 40
+conclusion that the information sought is relevant and should in fairness be disclosed.” Id. at 864.
+The Third Circuit specifically rejected Hearnebecause relevance is not the standard for
+determining whether or not evidence should be protected from disclosure as privileged. Rhone,
+32 F.3d at 863. Florida law tracks that of the Third Circuit. See 300 F.R.D. at 593-95 (citing
+Florida case law).
+Also, under Florida law, the client – not her attorneys – holds the attorney-client
+privilege. See Fla. Stat. Ann. § 90.502(3); see also Fla. Stat. Ann. § 90.502(2) (a client has a
+privilege to refuse to disclose, and to prevent any other person from disclosing, the contents of
+confidential communications when such other person learned of the communications because
+they were made in the rendition of legal services to the client). Some Florida courts have even
+recognized serious due process issues could be created by a procedure through which a client lost
+their privilege without an opportunity to be heard in the proceedings. See, e.g., Rogers v. State,
+742 So.2d 827, 829 (Fla. 2d DCA 1999). Under Florida law, so long as a client has a reasonable
+expectation of privacy in the communication, under § 90.507, the privilege is protected.
+McWatters v. State, 36 So.3d 613, 636 (Fla. 2010). Also under Florida law, only the client – not
+her attorney – can waive attorney-client privilege. See Savino v. Luciano, 92 So.2d 817 (Fla.
+1957), Coates v. Akerman, Senterfitt & Edison, P.A., 940 So.2d 504 (Fla. 2d DCA 2006), and
+Genovese v. Provident Life and Accident Ins. Co., 74 So.3d 1064 (Fla. 2011).
+C. Federal Law
+(cid:3)
+Rather than discuss Florida privilege law, Defendant exclusively cites federal case law.
+SeeMot. to Compel at ii-iii (table of authorities citing only federal cases). Yet as this Court has
+previously held in ruling on an earlier privilege motion made by the Defendant, state law
+generally provides the rule of decision in this diversity case. See Giuffre v. Maxwell, DE 135 at
+11(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 19 of 40
+6, 2016 WL 175918 at * 6 (applying New York privilege law) (citing Allied Irish Banks v. Bank
+of Am., N.A., 240 F.R.D. 96, 102 (S.D.N.Y. 2007) (“Because this Court’s subject matter
+jurisdiction is based upon diversity . . . state law provides the rule of decision concerning the
+claim of attorney-client privilege.”)). Accordingly, an argument can be made that New York
+state law applies in this case7 – but Defendant does not explain why she jumps to federal law.
+As explained above, in the particular context of a waiver argument, Federal Rule of
+Evidence 502 applies the more protective of state law or federal law in determining whether a
+waiver of privilege has occurred. In this case, the controlling federal law is at least as protective
+as Florida law. The controlling federal law here comes from the Second Circuit, including In re
+Cnty. of Erie, 546 F.3d 222 (2d Cir. 2008) – a case not even cited, much less discussed, by the
+Defendant. In view of the importance of the attorney-client privilege, the Second Circuit in that
+case held that any finding of waiver should be made with “caution.” Id. at 228.
+Rather than cite this controlling Second Circuit precedent, Defendant relies on a 2002
+case from this Court applying the Hearn “at issue” doctrine. See Mot. to Compel at 8 (citing
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A., 210 F.R.D. 506. 509-10 (S.D.N.Y.
+2002) (Ellis, Magistrate Judge) (quoting Hearn v. Rhay, 68 F.R.D. 574, 581 (E.D. Wash. 1975)).
+Defendant goes on to argue that “courts have generally applied the Hearn [at issue] doctrine
+liberally, finding a broad waiver of attorney-client privilege where a party asserts a position ‘the
+truth of which can only be assessed by examination of the privilege communication.” Mot. to
+Compel at 8 (internal quotation omitted).
+Defendant fails to recognize that the Second Circuit has explicitly disavowed the Hearn
+doctrine. In In re Cnty. of Erie, 546 F.3d 222 (2d Cir. 2008), the Second Circuit explained that
+“[c]ourts in our Circuit and others have criticized Hearn and have applied its tests unevenly.” Id.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+7 As a protective matter, Ms. Giuffre will also provide citations to New York state authorities in this response.
+12(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 20 of 40
+at 227-28.8 The Second Circuit also noted that the Hearn test “has been subject to academic
+criticism. See, e.g., Richard L. Marcus, The Perils of Privilege: Waiver and the Litigator, 84
+MICH.L.REV. 1605, 1628-29 (1986); Note, Developments in the Law-Privileged
+Communications, 98HARV.L.REV. 1650, 1641-42 (1985) (identifying “the faults in the Hearn
+approach”). In light of these strong criticisms of Hearn, the Second Circuit decided that “[w]e
+agree with its critics that the Hearn test cuts too broadly and therefore conclude that the District
+Court erred in applying it here. . . . Nowhere in the Hearn test is found the essential element of
+reliance on privileged advice in the assertion of the claim or defense in order to effect a waiver.”
+546 F.3d at 229 (emphasis added). The Second Circuit held that, for an “at issue” waiver to
+occur, “a party must rely on privileged advice from his counsel to make his claim or defense.”
+Id. (emphasis added).
+In light of the Second Circuit’s holding, recent cases from this Court have explained that
+“reliance on privileged advice in the assertion of the claim or defense is an ‘essential element’ of
+a claim of waiver.” Aristocrat Leisure Ltd. v. Deutsche Bank Trust Co. Americas, No. 04 CIV
+10014 PKL, 2009 WL 3111766, at *16 (S.D.N.Y. Sept. 28, 2009).9 For the sake of
+completeness, it may be relevant to note that New York state privilege law applies the same
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+8 The Second Circuit cited numerous cases, including cases from this Court – e.g., Pereira v. United Jersey Bank,
+Nos. 94 Civ 1565 & 94 Civ 1844, 1997 WL 773716, at *3 (S.D.N.Y. Dec.11, 1997) (“Hearn is problematic insofar
+as there are very few instances in which the Hearn factors, taken at face value, do not apply and, therefore, a large
+majority of claims of privilege would be subject to waiver.”); Allen v. West Point-Pepperell, Inc., 848 F.Supp. 423,
+429 (S.D.N.Y.1994) (noting that district courts within this Circuit have reached conflicting decisions in the
+application of Hearn, and rejecting reliance “upon a line of cases in which courts have unhesitatingly applied a
+variation of the Hearn balancing test”); Connell v. Bernstein-Macaulay, Inc., 407 F.Supp. 420, 422 (S.D.N.Y.1976)
+(“The actual holding in [Hearn] is not in point because the party there asserting the privilege had expressly relied
+upon the advice of counsel as a defense to the plaintiff's action.”); Rhone-Poulenc Rorer, Inc. v. Home Indem. Co.,
+32 F.3d 851, 864 (3d Cir.1994) (deeming Hearn to be of “dubious validity” because, although it “dress[es] up [its]
+analysis with a checklist of factors, [it] appear[s] to rest on a conclusion that the information sought is relevant and
+should in fairness be disclosed”).
+9 The Aristocrat Leisure case accordingly rejected a party’s reliance on the same authority that Defendant relies
+upon here. See Aristocrat, 2009 WL 3111766 at *16 n.6 (discussing Bank Brussels Lambert v. Credit Lyonnais
+(Suisse), S.A., 210 F.R.D. 506 (S.D.N.Y. 2010), and then noting in the next sentence that the Hearn test relied upon
+by Bank Brussels’ “recently has been criticized by the Second Circuit on this very issue.”).
+13(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 21 of 40
+specific and protective standard. See In re Bank of New York Mellon, 42 Misc. 3d 171, 177, 977
+N.Y.S.2d 560, 565 (Sup. Ct. 2013) (“’at issue’ waiver occurs ‘when the party has asserted a
+claim or defense that he intends to prove by use of the privileged materials.’ An example of an
+affirmative act that does constitute ‘at issue’ waiver of privilege is a party’s ‘assert[ing] as an
+affirmative defense [its] reliance upon the advice of counsel.’”).10
+DISCUSSION
+I. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE
+WHEN EDWARDS AND CASSELL FILED AND PURSUED THEIR OWN
+DEFAMATION ACTION AGAINST ALAN DERSHOWITZ.
+Defendant’s lead argument is that Cassell and Edwards waived Ms. Giuffre’s attorney-
+client privilege when they filed and pursued a defamation action against Alan Dershowitz. See
+Mot. to Compel at 10. This claim is meritless for numerous reasons, including the fact (not
+disclosed by Defendant) that this very argument has been fully litigated before the Florida court
+handling that defamation action, which specifically rejectedany finding of waiver.
+A. The Florida Court Presiding over the Defamation Action Has Already
+Rejected the Same Waiver Claim that Defendant is Advancing Here.
+The claim that Cassell and Edwards somehow waived Ms. Giuffre’s attorney-client by
+pursuing their own, personal defamation action against Dershowitz has already been the subject
+of extensive briefing – and, ultimately, a Florida court ruling. Defendant has scoured the docket
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+10 New York and federal authorities also hold that when attorneys are not acting on the client’s behalf, they cannot
+waive their client’s privilege. N.Y. C.P.L.R. § 4503(a); Dillenbeck v. Hess, 73 N.Y.2d 278, 290, 536 N.E.2d 1126,
+1134 (N.Y. 1989) (“[T]he sine qua non of any evidentiary privilege is that it is personal to, and can only be waived
+by, the privilege holder.”). See also In re von Bulow, 828 F.2d 94, 100-01 (2d Cir. 1987) (“Of course, the privilege
+belongs solely to the client and may only be waived by him. An attorney may not waive the privilege without his
+client's consent.”); In re Bank of New York Mellon Corp. Forex Transactions Litig., 66 F. Supp. 3d 406, 410
+(S.D.N.Y. 2014) (same); Ferreira v. Capitol Specialty Ins. Corp., 31 Misc. 3d 1209(A), 929 N.Y.S.2d 199 (N.Y.
+Sup. Ct. 2011) (“CPLR 4503 makes clear that an attorney cannot waive the attorney-client privilege rather waiver is
+only effective when done by the beneficiary of the privilege or their personal representative.”).
+14(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 22 of 40
+in the Dershowitz defamation case to collect every flyspeck of information that she believes
+support her argument that a “waiver” has taken place. SeeMot. to Compel at 10-12 and
+numerous associated exhibits. But, remarkably, she has not revealed to this Court the most
+relevant information from the docket: that the Florida court considered the same waiver issues
+and rejecting the same arguments that the Defendant now advances. This Florida court ruling,
+applying Florida law, is controlling here.
+As discussed above in the factual section of this response, in the Florida case, Dershowitz
+filed a motion to compel advancing legal and factual arguments identical to those the Defendant
+is advancing here. SeeMcCawley Decl., Ex. 6 at 3, Dershowitz motion to compel (arguing that
+Cassell and Edwards “have waived any privilege or protection that would otherwise attach to
+responsive documents and information by bringing this defamation action placing at issue the
+truthfulness of Jane Doe No. 3’s allegations against Dershowitz . . . .”). Id. at 3. Citing Hearn
+v. Rhay, 68 F.R.D. 574, 581 (E.D. Wash. 1975), Dershowitz claimed that information Ms.
+Giuffre had confidentially provided to Cassell and Edwards as her attorneys had become “at
+issue” in the defamation action. McCawley Decl., Ex. 6 at 4-5. Dershowitz argued broadly that
+a whole host of alleged attorney-client communications were “at issue” in the case, including:
+(1) Jane Doe No. 3’s allegations against Dershowitz asserted in the action
+captioned Jane Doe #1, et al. v. United States of America, Case No. 08-cv-80736
+(S.D. Fla.) (the “Federal Action”); (2) [Cassell and Edwards’] investigation into
+Jane Doe No. 3’s allegations against Dershowitz; (3) [Cassell and Edwards’]
+assertion in the Complaint that Dershowitz was an alleged participant in the
+criminal conduct committed by Jeffrey Epstein (“Epstein”); and (4) Jane Doe No.
+3’s whereabouts and activities during the time when she claims to have been “sex
+slave” for Epstein.
+15(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 23 of 40
+Ex. 6 at 3. As the briefing on the issue continued, in an October 26, 2015 response filing,
+Dershowitz argued that Ms. Giuffre’s public statements waived the privilege,11 along with
+actions by her attorneys Cassell and Edwards. Ex. 8 at 5-8.12
+After all these arguments were fully briefed, the Florida court (Lynch, J.) rejected
+Dershowitz’s arguments that any waiver of the attorney-client privilege had taken place.
+McCawley Decl., Ex. 10 at 1 (“Defendant/Counterclaim Plaintiff’s Motion to Compel
+Production of documents and complete responses to interrogatories is hereby denied.”). In a
+December 8, 2015, order, Judge Lynch provided a short explanation of his reasoning and entered
+an order denying Dershowitz’s waiver motion. Id.
+In her pending motion to compel, Defendant recycles the same arguments that
+Dershowitz made, such as the claim that Cassell and Edwards waived privilege by filing suit
+(Mot. Compel at 10), that her March 2011 interview with Scarola and Edwards was a waiver (id.
+at 10), and other similar claims (id. at 11-13). But Dershowitz already litigated these issues a
+few months ago in the Dershowitz case – and his claims were rejected by the Florida court.
+Defendant is now collaterally estopped from relitigating these identical issues here, because
+Dershowitz had a full and fair opportunity to litigate those issues and Defendant was in a
+“common interest” agreement with Dershowitz at the time. The doctrine of collateral estoppel
+protects litigants – and the courts – from relitigating identical issues and promotes efficiency by
+barring unnecessary litigation. See Parklane Hosiery Co., Inc. v. Shore, 439 U.S. 322, 326
+(1979). As this Court has explained, for collateral estoppel to apply, there must have been a full
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+11 Dershowitz specifically listed the following public statements by Ms. Giuffre as illustrations of how she had
+waived her privilege: (1) Ms. Giuffre’s March 5, 2011, interview with the Daily Mail; (2) Ms. Giuffre’s April 7,
+2011, recorded telephone interview with attorneys Jack Scarola and Brad Edwards; (3) the January 2015 release of
+Ms. Giuffre’s diary by Radar Online; (4) Ms. Giuffre’s statements to “numerous other third parties,” including
+former boyfriends and the FBI; and (5) Ms. Giuffre’s filing of this suit against Defendant. Ex. 6 at 6-8.
+12 Dershowitz specifically argued that (among other illustrations) Cassell’s answers to interrogatories and testimony
+at his deposition in the case had waived privilege. Ex. 6 at 11-12.
+16(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 24 of 40
+and fair opportunity to litigate the decision that now controls and the issue in the prior action
+must be identical to and decisive of the issue in the instant action. Zois v. Cooper, 268 B.R. 890,
+893 (S.D.N.Y. 2001), aff'd sub nom. In re Zois, 73 F. App’x 509 (2d Cir. 2003). A non-party
+can be bound by a decision, so long as her interests were “effectively represented.” Zois, 268
+B.R. at 893.13 As this Court can readily determine from reviewing the pleadings Dershowitz
+filed in the Florida case, see McCawley Decl. at Ex. 6 & 8, Dershowitz fully briefed identical
+issues to those presented here. And he was effectively representing Maxwell at the time. The
+elements of collateral estoppel apply.
+Moreover, entirely apart from collateral estoppel doctrine, Judge Lynch’s decision is
+highly persuasive. Judge Lynch was the presiding judge over the Dershowitz matter, so he was
+intimately familiar with (for example) what matters were “at issue” in that particular case.
+Moreover, Judge Lynch is, of course, a Florida judge skilled in applying Florida legal principles.
+His ruling on whether a waiver of attorney client privilege existed under Florida law should be
+given heavy weight here. See Elliott Associates, L.P. v. Banco de la Nacion, 194 F.3d 363, 370
+(2d Cir. 1999). Finally, Defendant’s briefing entirely ignores even the existence of Judge
+Lynch’s ruling. In such circumstances where the Defendant has failed to offer any reason for
+questioning Judge Lynch’s holding, this Court should follow Judge Lynch’s lead and hold that
+no waiver of the attorney-client privilege exists under Florida law. And, because Florida law
+controlled when the disclosures took place, under Fed. R. Evid. 502(c), no waiver exists in this
+proceeding.
+(cid:3)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+13 Zois relied on New York law. Florida law is to the same effect, as is federal doctrine. See O'Brien v. Fed. Trust
+Bank, F.S.B., 727 So. 2d 296, 298 (Fla. Dist. Ct. App. 1999) (“Collateral estoppel prevents relitigation of issues
+where the identical issues previously have been litigated between the parties or their privies.”); Montana v. United
+States, 440 U.S. 147, 153-54 (1979).
+17(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 25 of 40
+B. Actions by Cassell and Edwards Do Not Waive Ms. Giuffre’s
+Attorney-Client Privilege.(cid:3)
+Not only has Judge Lynch already ruled on the attorney-client privilege issue, but his
+ruling was entirely correct. Defendant’s argument rests on the proposition that Cassell and
+Edwards had authority to waive Ms. Giuffre’s privilege while they pursued their Florida
+defamation action. But in filing their own, personal defamation claims against Dershowitz in a
+lawsuit where Ms. Giuffre was not a party, Cassell and Edwards were not acting on Ms.
+Giuffre’s behalf. Defendant never attempts to even explain, much less prove, how that
+defamation action could have benefitted Ms. Giuffre. And Florida law is clear that when
+attorneys are not acting on the client’s behalf, they cannot waive their client’s privilege. See
+Charles W. Ehrhardt, 1 Fla. Prac., Evidence § 502.6 (2015 ed.); Schetter v. Schetter, 239 So.2d
+51, 52 (Fla. 4th DCA 1970).
+To find that an attorney waived his client’s privilege, a clear record must exist concerning
+the attorney’s attorney to waive privilege. See Bus. Integration Servs., Inc. v. AT&T Corp., No.
+06 CIV. 1863 (JGK), 2008 WL 318343, at *2 (S.D.N.Y. Feb. 4, 2008). Here, to the contrary,
+the record is clear that Ms. Giuffre did not authorize any waiver of her attorney-client privilege.
+SeeMcCawley Decl., Ex. 13, affidavit of Ms. Giuffre (Ms. Giuffre did not authorize any
+waiver). Accordingly, under Florida law, Cassell and Edwards’ actions did not waive Ms.
+Giuffre’s privilege.14
+The main examples Defendant offers in support of her waiver argument come from a
+summary judgment motion that Cassell and Edwards filed. See Mot. to Compel at 16. Of
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+14 For the sake of completeness, it is worth noting that both federal law and New York state law likewise require that
+a client waive attorney-client privilege. See, e.g., Schnell v. Schnall, 550 F. Supp. 650, 653 (S.D.N.Y.1982) (no
+waiver of attorney-client privilege where attorney testified at hearing without presence or authorization of client);
+N.Y. C.P.L.R. 4503 (McKinney) (“Unless the client waives the privilege, an attorney . . . shall not disclose, or be
+allowed to disclose such communication, nor shall the client be compelled to disclose such communication, in any
+action, disciplinary trial or hearing, or administrative action, proceeding or hearing conducted by or on behalf of any
+state, municipal or local governmental agency or by the legislature or any committee or body thereof.”).
+18(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 26 of 40
+course, that motion was filed on their behalf – not Ms. Giuffre’s. To be sure, that motion
+contained (among other supporting information) a sworn affidavit from Ms. Giuffre.15 But the
+routine step of submitting an affidavit is not a waiver of attorney-client protections, as discussed
+at greater length in Part II.D., infra. And, in any event, Defendant does not include that affidavit
+among her supporting materials to her motion, much less explain how the recitation of factual
+information in that affidavit constitutes a waiver by Ms. Giuffre with respect to communications
+with her attorneys. See Koon v. State, 463 So.2d 201, 203-04 (Fla. 1985) (no waiver when the
+client merely discloses facts which were part of the communication with the client’s attorney).
+Ms. Giuffre has not waived her privilege.
+C. Ms. Giuffre’s Confidential Communications With Her Attorneys Were
+Never “At Issue” in the Florida Dershowitz Litigation.(cid:3)
+Defendant’s argument that Ms. Giuffre’s attorney-client privilege has been waived under
+the “at issue” doctrine also fails under Florida law because her confidential communications
+were never at issue in the Dershowitz litigation.
+Florida law on when confidential attorney-client communications are at issue comes from
+the Florida Supreme Court’s decision in Savino v. Luciano, 92 So.2d 817 (Fla. 1957). There, the
+Florida Supreme Court announced the test for determining whether confidential communications
+were “at issue” as whether a claim or defense would “necessarilyrequire that the privileged
+matter be offered in evidence.” Id.at 819 (emphasis added); see alsoDiaz–Verson v. Walbridge
+Aldinger Co., 54 So.3d 1007, 1011 (Fla. 2d DCA 2010). More recent decisions from Florida
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+15 The “evidentiary support” for the summary judgment motion rested on 16 additional exhibits, including such
+obviously non-privileged materials as a Palm Beach Police Department report; flight logs from Epstein’s jet;
+excerpts from deposition testimony of Epstein, Juan Alessi, Alfredo Rodriquez, and Alan Dershowitz; photographs;
+and Epstein’s telephone directory. See Menninger Dec., Ex. E at 28.
+19(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 27 of 40
+have emphasized that Savino does not mean that a party waives attorney-client privilege merely
+by bringing or defending a lawsuit. Coates v. Akerman, Senterfitt & Edison, P.A., 940 So.2d 504
+(Fla. 2d DCA 2006). Instead, waiver occurs only when a party “must necessarily use the
+privilege information to establish its claim or defense.” Id.at 510-11 (emphasis added). Most
+recently, in Genovese v. Provident Life and Accident Ins. Co., 74 So. 3d 1064, 1069 (Fla. 2011),
+as revised on denial of reh’g (Nov. 10, 2011), the Florida Supreme Court cited both Coates and
+Savino to hold that the “at issue” doctrine allows discovery of privileged material only when the
+holder of the privilege – the client – raises the advice of counsel as a claim or defense in the
+action and the communication is essential to the claim or defense. Id.
+Under these restrictive standards, Ms. Giuffre’s communications were never at issue in
+her attorneys’ personal, defamation case against Dershowitz. Consider, for example, a typical
+allegation Cassell and Edwards’ complaint:
+Immediately following the filing of what Defendant, Dershowitz, knew to be an
+entirely proper and well-founded pleading, Dershowitz initiated a massive public
+media assault on the reputation and character of Bradley J. Edwards and Paul G.
+Cassell accusing them of intentionally lying in their filing, of having leveled
+knowingly false accusations against the Defendant, Dershowitz, without ever
+conducting any investigation of the credibility of the accusations, and of having
+acted unethically to the extent that their willful misconduct warranted and
+required disbarment.
+McCawley Decl., Ex. 5 at 4 (¶ 17). As is immediately apparent, this allegation does not require
+an examination of Ms. Giuffre’s confidential communications with her attorneys. Instead, it
+requires an assessment of Dershowitz’s state of mind with regard to his knowledge of the
+information that Cassell and Edwards had to support the filing of the allegations. And, as
+supporting exhibits to the pleadings Cassell and Edwards filed made clear, the adequacy of their
+investigation could be readily established from many sources that did not have any connection to
+what Ms. Giuffre may or may not have told them in confidence. See, e.g., McCawley Decl., Ex.
+20(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 28 of 40
+3 at 26-38 (recounting information supporting allegations against Dershowitz, such as sworn
+testimony from household employees and invocations of the Fifth Amendment by Epstein and
+his co-conspirators).
+To be sure, Dershowitz tried to make an argument that Ms. Giuffre’s communications
+with her attorneys might have some arguable relevance to the case. But Judge Lynch rejected
+that very argument – and quite properly so. Relevance is insufficient to waive privilege under
+Florida law. Guarantee Ins, 300 F.R.D. at 594 (citing Coyne v. Schwartz, Gold, Cohen, Zakarin
+& Kotler, P.A., 715 So.2d 1021, 1022 (Fla. 4th DCA 1998)). A client does not waive the
+attorney-client privilege simply because her credibility could be impeached by communications
+with her former attorney. See Jenney v. Airdata Wiman, Inc., 846 So.2d 664, 668 (Fla. 2d DCA
+2003). Accordingly, under Florida law, Ms. Giuffre’s confidential communications with her
+attorneys were never at issue in the Florida litigation.16
+D. Defendant Has Not Met the Other Requirements for Showing Waiver of
+Attorney-Client Privilege.
+For the foregoing reasons, Defendant has failed to make the required showing for an “at
+issue” waiver of attorney-client privilege. But even more fundamentally, Defendant has failed to
+establish other elements necessary to find a waiver of attorney-client privilege. Defendant
+repeatedly refers to routine litigation actions, such as the filing of in-court affidavits, as a basis
+for finding some kind of waiver of privilege. SeeMot. to Compel at 16. But it is obvious that
+such actions do not waive attorney-client protection. Litigation requires some limited
+communication to third parties — including the court and opposing counsel — of information
+learned in the course of the attorney-client relationship. Therefore, Florida law recognizes an
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+16 The same result would obtain under New York state law. See, e.g., Am. Re-Ins. Co. v. U.S. Fid. & Guar. Co., 40
+A.D.3d 486, 492, 837 N.Y.S.2d 616, 622 (2007) (the at-issue “doctrine applies where a party, through its affirmative
+acts, places privileged material at issue and has selectively disclosed the advice”).
+21(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 29 of 40
+absolute privilege to protect attorneys’ statements made in communications that are preliminary
+to a proposed judicial proceeding, or in the institution of, or during the course and as a part of, a
+judicial proceeding. Fla. Stat. Ann. § 90.502(2); see alsoMcCullough v. Kubiak, 158 So. 3d
+739, 740 (Fla. 4th DCA, 2015). A waiver of the attorney-client privilege occurs only if the client
+voluntarily discloses in court the substance of a communication with her attorney. See, e.g.,
+Delap v. State, 440 So.2d 1242, 1247 (Fla. 1983) (criminal defendant sought to use in court
+favorably testimony from his investigator while blocking inquiry into other testimony). No
+waiver occurs when the client merely discloses facts which were part of the communication with
+the client’s attorney. See Koon v. State, 463 So.2d 201, 203-04 (Fla. 1985); see also Taylor v.
+State, 855 So.2d 1, 26 n.29 (Fla. 2003). Thus, the privilege attaches to the communication with
+counsel, not to the underlying facts. Brookings v. State, 495 So.2d 135, 139 (Fla. 1986); see also
+Lynch v. State, 2 So.3d 47, 66 (Fla. 2008).17 As a result, allegations that Giuffre disclosed to
+third parties the same facts that she may have related to Cassell and Edwards, without any
+evidence that she disclosed the substance of her confidential consultation with Edwards and
+Cassell, cannot overcome her privilege.18
+To hold otherwise would eviscerate the attorney-client privilege. Such a ruling would
+mean that every time an attorney filed a declaration by his client that contained the factual basis
+for the client’s claim, the opposing party would have the right to examine all privileged
+communications. Defendant has not cited any authority either in Florida (or elsewhere) to
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+17 New York state privilege law is to the same effect. See, e.g., Niesig v. Team I, 76 N.Y.2d 363, 372, 558 N.E.2d
+1030, 1034 (1990) (because “the privilege applies only to confidential communications with counsel (see, CPLR
+4503), it does not immunize the underlying factual information . . . from disclosure to an adversary”). (cid:3)(cid:3)
+18 As an illustration, Defendant notes that in 2011 Ms. Giuffre gave an interview to the Daily Mail. Mot. to Compel
+at 15. But Defendant does not explain how that interview disclosed any attorney-client communications. And
+because any such disclosures would have been extrajudicial, they would be narrowly construed. In re von Bulow,
+828 F.2d 94, 103 (2d Cir. 1987).
+22(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 30 of 40
+support his extreme assertion that Ms. Giuffre waived her privilege simply by allowing an
+affidavit to be filed in a court proceeding.
+Defendant also claims Cassell, at his deposition in the Dershowitz case, waived attorney-
+client privilege by discussing factual information related to his investigation of Ms. Giuffre’s
+allegations (for example, flight log information). Cassell’s deposition testimony did not
+constitute a waiver of Ms. Giuffre’s attorney-client privilege. Indeed, Ms. Giuffre’s own
+separate attorney (undersigned counsel, Ms. McCawley, from the law firm of Boies, Schiller &
+Flexner, LLP) raised a standing objection to Cassell answering any question that would require
+divulging any attorney/client communications. McCawley Decl., Ex. 14, deposition excerpt of
+Paul Cassell, Volume I, dated Oct. 16, 2015,at 39:24 – 40:2 (“Virginia Roberts does not waive
+her attorney/client privilege with her lawyers, and they are not entitled to testify as to
+information that she intended to be confidential that she communicated to her lawyers.”).19
+Defendant also argues that because Cassell said at some (unspecified) point in his deposition that
+he “knew” some (unidentified) information about Ms. Giuffre, he must have been revealing
+attorney-client communications. Mot. to Compel at 17 (“Of course, the information [Cassell and
+Edwards] “knew” about [Ms. Giuffre was a direct result of her attorney-client communications
+with them . . . .”). But Cassell knew a vast amount of information about Ms. Giuffre from the
+factual record in the case, such as the flight logs demonstrating flights that she took with Epstein
+and Defendant on Epstein’s jet. Defendant’s logic is simply incorrect.
+E. Ms. Giuffre Will Not Seek to Use Confidential Attorney-Client
+Communications in her Action Here.
+For all the reasons just explained, Ms. Giuffre has not waived her attorney-client
+privilege through events that occurred in the Dershowitz case. But one additional point bears
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+19 In her “excerpts” from Cassell’s deposition, Defendant has not included this portion. See Menninger Dec., Ex. L.
+23(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 31 of 40
+emphasis: Defendant attempts to argue that the trial in this case will somehow be unfair if she
+does not receive access to confidential attorney-client communications that Ms. Giuffre had with
+her lawyers earlier. Mot. to Compel at 20-21. But regardless of what may or may not have been
+at issue in the Dershowitz case, confidential communications will not be at issue here. For
+example, Defendant writes that “[i]t would be prejudicial for [Ms. Giuffre] to be able to support
+her claim in this case that she is not a liar using her attorney’s testimony . . . .” Id. at 21. To be
+clear, Ms. Giuffre has no intention of calling, for example, Cassell and Edwards to testify at trial
+in an attempt to support her claims. Thus, this will not be a case where it will be “misleading to
+the court or any jury to hear testimony from [Ms. Giuffre’s] counsel about all the factual basis,
+work product and thought process on which they relied in making the allegations in the Joinder
+Motion,” Mot. to Compel at 22, for the simple reason that that Ms. Giuffre’s counsel will not be
+witnesses in the case. Nor will Ms. Giuffre be presenting a “state of mind” defense that might
+require a more extensive inquiry into attorney-client communications. SeeIn re Cty. of Erie, 546
+F.3d 222, 229 (2d Cir. 2008) (noting absence of good faith or state of mind issues as a reason for
+not finding “at issue” waiver of privilege); Nomura Asset Capital Corp. v. Cadwalader,
+Wickersham & Taft LLP, 62 A.D.3d 581, 582, 880 N.Y.S.2d 617, 618-20 (N.Y. App. Div. 2009)
+(finding no waiver where plaintiff disavowed any intention to use confidential attorney-client
+communications; relevance alone insufficient to put privileged materials “at issue” because, “if
+that were the case, a privilege would have little effect”).
+To be sure, at trial Ms. Giuffre will present factual testimony supporting her version of
+events – just as, no doubt, Defendant will try to present testimony supporting her version. But
+such testimony (from both sides) does not create any waiver of attorney-client privilege. Instead,
+such testimony is simply the presentation of competing facts, from which the jury can decide
+24(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 32 of 40
+who is telling the truth. None of this creates any need for Defendant to force Ms. Giuffre to
+reveal confidential communications.
+II. MS. GIUFFRE DID NOT WAIVE HER ATTORNEY-CLIENT PRIVILEGE BY
+DENYING FABRICATED EVICENCE DURING HER DEPOSITION.
+Defendant spends significant time arguing that Ms. Giuffre’s answers to several
+deposition questions about the absence of any communications from Cassell and Edwards that
+she provide false information constituted a waiver of attorney client privilege. Mot. to Compel
+at 11 (arguing that “never” answer to the question “Has Brad [Edwards] ever pressured you or
+encouraged you in any way or under any circumstances at any time to provide false information
+about Jeffrey Epstein” constituted a waiver of attorney-client privilege). While the arguments
+above are sufficient to dispose of this claim, it is worth emphasizing several additional points
+about this specific testimony.
+First, disclosing the absence of communication is not the same as exposing any
+communication. It is a fundamental requirement of a waiver argument that a communication be
+exposed, see Fla. Stat. Ann. § 90.502 (extending privilege to a “communication between lawyer
+and client”), not the absence of such a communication. SeeMontanez v. Publix Super Markets,
+Inc.,135 So. 3d 510, 512-13 (Fla. Dist. Ct. App. 2014) (rejecting argument that client waived her
+attorney-client privilege by stating that an interrogatory answer was not “her” answer because
+this did not disclose the substance of her communications with her attorney). Cf. Mitchell v.
+Superior Court, 37 Cal. 3d 591, 602, 691 P.2d 642, 647 (Cal. 1984) (“Relevant case law makes it
+clear that mere disclosure of the fact that a communication between client and attorney had
+occurred does not amount to disclosure of the specific content of that communication, and as
+such does not necessarily constitute a waiver of the privilege.”).
+25(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 33 of 40
+Second, the questions highlighted by Defendant asked Ms. Giuffre whether she had ever
+communicated with her attorneys Cassell and Edwards for purposes of committing a crime or
+fraud. SeeMot. to Compel at 11 (recounting questions). If such a communication involving
+perjury had existed, it would not have been covered by the attorney-client privilege in the first
+instance because it would have involved an on-going crime or fraud. See Fla. Stat. Ann. §
+90.502(4) (“There is no lawyer-client privilege under this section when . . . [t]he services of the
+lawyer were sought or obtained to enable or aid anyone to commit or plan to commit what the
+client knew was a crime or fraud.”).20 Answering those questions by denying the existence of a
+crime or fraud accordingly did not constitute waiver of confidentiality over any otherwise-
+protected communication. Indeed, any other conclusion would essentially abolish the attorney-
+client privilege. A party could simply accuse the opposing side of fabricating evidence and,
+-when that accusation was denied, argue that attorney-client privilege had been waived. This is
+not the law.
+Finally, it is important to note that throughout her deposition, Ms. Giuffre’s attorney
+strenuously objected to any effort by Dershowitz to obtain attorney-client information. See
+McCawley Decl., Exhibit 11, Composite Exhibit of Deposition Excerpts from the Deposition of
+Virginia Giuffre at 131-32; 173-74; 183; 200-12.21 Clearly, at her deposition, Ms. Giuffre did
+not voluntarily waive any attorney-client privilege she held.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+20 Again, for sake of completeness, it is worth noting that federal and New York state law also contain a crime-fraud
+exception to the attorney client privilege. HSH Nordbank AG New York Branch v. Swerdlow, 259 F.R.D. 64, 73
+(S.D.N.Y. 2009); Ulico Cas. Co. v. Wilson, Elser, Moskowitz, Edelman & Dicker, 1 A.D.3d 223, 224, 767 N.Y.S.2d
+228 (2003) (attorney-client privilege “may not be invoked where it involves client communications that may have
+been in furtherance of a fraudulent scheme, an alleged breach of fiduciary duty or an accusation of some other
+wrongful conduct”).
+21 Once again, these objections are not included in Defendant’s excerpts from the deposition.
+26(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 34 of 40
+III. EDWARDS AND CASSELL HAVE NOT WAIVED WORK-PRODUCT
+PROTECTION AND MAXWELL HAS NOT DEMONSTRATED NEED TO
+PENETRATE THE PROTECTION.
+A. Work Product Protection Has Not Been Waived.
+For many of the same reasons that Ms. Giuffre has not waived her attorney-client
+privilege, the work-product protection has not been waived. Fed. R. Evid. 502’s protections
+against waiver apply not only to the attorney-client privilege but also to the work-product
+doctrine. On the facts of this case, Rule 502 thus extends all work-product protections that exist
+“under the law of the state where the disclosure occurred,” Fed. R. Evid. 502(c)(2) – i.e., Florida
+law – as well as the protection that exists under federal law, Fed. R. Evid. 502(c)(1).
+Florida law provides that work-product protections extend to “documents and tangible
+things otherwise discoverable” if a party prepared those items “in anticipation of litigation or for
+trial.” Fla. R. Civ. P. 1.280(b)(3). The rationale supporting the work-product doctrine is that one
+party is not entitled to prepare his case through the investigative work product of his adversary
+where the same or similar information is available through ordinary investigative techniques and
+discovery procedures. Universal City Development Partners, Ltd. v. Pupillo, 54 So.3d 612, 614
+(Fla. 5th DCA, 2011). The work-product of the litigant, his attorney or agent, cannot be
+examined, absent rare and exceptional circumstances. Surf Drugs, Inc. v. Vermette, 236 So.2d
+108, 112 (Fla. 1970).
+In Florida (as elsewhere), a party “can make a limited waiver of its . . . work product
+privilege.” Paradise Divers, Inc. v. Upmal, 943 So. 2d 812, 814 (Fla. Dist. Ct. App. 2006). A
+waiver by disclosure only includes “other unrevealed communications only to the extent that
+they are relevant to the communication already disclosed.” Id.(citing Eastern Air Lines, Inc. v.
+Gellert, 431 So.2d 329, 332 (Fla. 3d DCA 1983)). Waiver by disclosure does “not mean . . . that
+27(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 35 of 40
+voluntary disclosure of confidential information effectively waives the privilege as to all
+conversations, or the whole breadth of discussion which may have taken place.” Procacci v.
+Seitlin, 497 So. 2d 969, 969-70 (Fla. Dist. Ct. App. 1986) (citingGoldman, Sachs & Co. v.
+Blondis, 412 F.Supp. 286, 288 (N.D.Ill.1976)). Instead, waiver by disclosure is confined to “that
+specific subject during that particular conversation.” Procacci, 497 So. 2d at 970 (quoting
+Perrignon v. Bergen Brunswig Corp., 77 F.R.D. 455, 461 (N.D. Cal.1978)).22
+As with her attorney-client privilege argument, Defendant has not even cited Florida law
+on waiver of work-product protection, much less explained how she meets its demanding
+requirements. Moreover, the illustrations she provides do not prove any general waiver of work-
+product protection. For example, Defendant relies on the claim that Cassell and Edwards have
+waived work-product protection by disclosing a transcript of a portion of a 2011 telephone
+interview with Ms. Giuffre by attorneys Jack Scarola and Brad Edwards. But that recorded
+interview was never a confidential communication between Mr. Giuffre and the lawyers, but
+rather (as the transcript of the call itself makes clear) a communication that could be presented
+“to any jury that might ultimately have to hear these facts.” McCawley Decl., Ex. 15 at 1,
+transcript of Scarola/Edwards interview on April 7, 2011 (emphasis added). In other words, the
+recorded call was simply the functional equivalent of an affidavit – and affidavits are routinely
+disclosed with waiving work product protections, under the law of Florida and elsewhere.
+Defendant also argues that Cassell and Edwards waived work-product protection by
+filing a summary judgment motion in the Dershowitz case which contained supporting exhibits
+(e.g., flight logs, sworn testimony by third-party witnesses, and other evidence). Mot. to Compel
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+22(cid:3)New York state law is to the same effect. See Charter One Bank, F.S.B. v. Midtown Rochester, L.L.C., 191 Misc.
+2d 154, 159, 738 N.Y.S.2d 179, 186 (Sup. Ct. 2002) (“ The disclosure of a document protected by the work-product
+rule does not result in a waiver of the privilege as to other documents.”).(cid:3)
+(cid:3)
+28(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 36 of 40
+at 16. But providing information in support of a summary judgment motion is a routine step that
+attorneys take every day. While the materials produced are obviously not subject to work
+product protection, other materials and communications do not somehow become subject to
+discovery. Paradise Divers, Inc., 943 So. 2d at 814.
+B. Defendant Has Not Proven “Need” to Penetrate Work-Product Protection.
+(cid:3)
+Defendant’s argument on work product protection also simply assumes that it is the same
+as the attorney-client privilege and can be waived under an “at issue theory.” But the “at issue”
+legal theory Defendant relies on to argue (incorrectly) that attorney-client privilege has been
+waived applies onlyto that privilege. The work product doctrine is quite distinct from attorney-
+client privilege, and application of the privileges and exceptions to them differ. See West Bend
+Mutual Ins. Co. v. Higgins, 9 So.3d 655,656(Fla. 5th DCA 2009); Genovese v. Provident Life &
+Accident Ins. Co., 74 So. 3d 1064, 1068 (Fla. 2011), as revised on denial of reh’g (2011). The
+function of the work product doctrine is to protect counsel’s mental impressions. West Bend
+Mutual, 9 So.3d at 656. To pierce the privilege, Defendant must show “that the substantial
+equivalent of the material cannot be obtained by other means.” Southern Bell Tel. & Tel. Co. v.
+Deason, 632 So.2d 1377, 1385 (Fla.1994). Defendant has not even identified any specific work-
+product she claims to need, much less shown why she cannot get the underlying information
+from other sources.
+Under the law of Florida (and elsewhere23), to establish “need,” a party must present
+testimony or evidence demonstrating the material requested is critical to the theory of the
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+23 Both federal and New York state law extend work product protections similar to those found in Florida law.
+See, e.g., Hickman v. Taylor, 329 U.S. 495, 511 (1947); N.Y. Civ. Practice Law & Rules § 3101(c) (McKinney).
+Indeed, New York state law may go even further than Florida’s and extends “absolute” work-product protection.
+SeeCharter One Bank, F.S.B. v. Midtown Rochester, L.L.C., 191 Misc. 2d 154, 159, 738 N.Y.S.2d 179, 185 (Sup.
+Ct. 2002) (section 3101(c) “affords absolute immunity from disclosure of attorney's work product.”).
+29(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 37 of 40
+requestor’s case, or to some significant aspect of the case. Zirkelbach Const. Inc. v. Rajan, 93
+So.3d 1124, 1130 (Fla. 2d DCA 2012). “[W]ell established in Florida is the principle that the
+unsworn analysis of a party’s attorney and/or a bare assertion of need and undue hardship to
+obtain the substantial equivalent [is] insufficient to satisfy this showing.” Butler v. Harter, 152
+So.3d 705, 712 (Fla. 1st DCA, 2014); see Procter & Gamble Co. v. Swilley, 462 So.2d 1188,
+1194 (Fla. 1st DCA 1985); State v. T.A., 528 So.2d 974, 975 (Fla. 2d DCA, 1988)
+(“[R]epresentations by counsel not made under oath and not subject to cross-examination, absent
+a stipulation, are not evidence). Further, Florida courts have held that “the showing of need
+encompasses a showing of diligence by the party seeking discovery of another party’s work
+product.” Butler v. Harter, 152 So.3d 705, 712 (Fla. 1st DCA, 2014); see alsoCSX Transp., Inc.
+v. Carpenter, 725 So.2d 434, 435 (Fla. 2d DCA 1999) (quashing order granting motion to
+compel discovery because the record did not contain affidavits supporting plaintiff’s argument
+that it was unable to obtain the substantially equivalent information by other means without
+undue hardship); Falco v. N. Shore Labs. Corp., 866 So.2d 1255, 1257 (Fla. 1st DCA 2004)
+(holding that need and undue hardship “must be demonstrated by affidavit or sworn testimony”);
+N. Broward Hosp. Dist. v. Button, 592 So.2d 367, 368 (Fla. 4th DCA 1992), (“[T]he unsworn
+assertions of plaintiff’s counsel were insufficient to constitute a showing of need and undue
+hardship.”),called into doubt on other grounds as stated in Columbia Hosp. Corp. of S. Broward
+v. Fain, 16 So.3d 236 (Fla. 4th DCA 2009).
+Here, Defendant has ample information from which she can present her case. At the core
+of this case is whether Ms. Giuffre “lied” when she said that the Defendant recruited her to be
+sexually abused by Jeffrey Epstein. Defendant can, of course, testify to her interactions with Ms.
+Giuffre, as well as call other witnesses regarding the circumstances of those interactions.
+30(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 38 of 40
+Defendant can also get information from her close friend, Epstein, about the circumstances of the
+interactions. Defendant and Epstein are not only good friends but they have a “common interest
+agreement” that facilitates transfer of information between the two of them. Finally, to make her
+showing that she is unable to obtain “equivalent information” from other sources, Defendant
+would have to explain in detail what other steps she has taken to secure information from other
+sources, including not only Epstein but other witnesses present at Epstein’s mansion. Having
+failed to do any of this, Defendant has not made a sufficient showing to obtain work-product
+information. Pupillo, 54 So.3d at 614.
+IV. COMMUNICATIONS WITH ATTORNEY JACK SCAROLA ARE COVERED
+BY A JOINT DEFENSE AGREEMENT AND ARE THUS PROTECTED BY
+ATTORNEY-CLIENT AND WORK-PRODUCTION PROTECTION.
+As a tag-along argument at the end of her motion, Defendant argues that Ms. Giuffre has
+not established the existence of a common interest or joint defense agreement that embraces Jack
+Scarola, the attorney for Cassell and Edwards in the Dershowitz litigation. Mot. to Compel at
+23-24. Disclosure of that agreement involved notice to the parties to the agreement. Now that
+appropriate notice has been provided, the agreement can be – and has been – disclosed. See
+McCawley Decl., Ex. 16, common interest agreement. In view of the existence of the valid
+agreement, it is clear that the referenced communications involving Scarola are protected. See,
+e.g.,Guiffre v. Maxwell, No. 15 CIV. 7433 (RWS), 2016 WL 1756918, at *6 (S.D.N.Y. May 2,
+2016) (noting common interest agreement protection) (citing GUS Consulting GMBH v.
+Chadbourne & Parke LLP, 20 Misc. 3d 539, 542, 858 N.Y.S.2d 591, 593 (Sup. Ct. 2008)).
+CONCLUSION
+(cid:3)
+Defendant’s motion to compel should be denied in its entirety.
+31(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 39 of 40
+Dated: June 1, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-520224
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on the 1st day of June, 2016, I electronically filed the
+foregoing document with the Clerk of Court by using the CM/ECF system. I also certify that the
+foregoing document is being served this day on the individuals identified below via transmission
+of Notices of Electronic Filing generated by CM/ECF.
+Laura A. Menninger, Esq.
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)
+24 This daytime business address is provided for identification and correspondence purposes only and is not intended
+to imply institutional endorsement by the University of Utah for this private representation.
+32(cid:3)
+Case 1:15-cv-07433-LAP Document 1320-18 Filed 01/03/24 Page 40 of 40
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Sigrid S. McCawley
+Sigrid S. McCawley
+33(cid:3)

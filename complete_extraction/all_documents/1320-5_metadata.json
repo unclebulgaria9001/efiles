@@ -1,0 +1,92 @@
+{
+  "doc_id": "1320-5",
+  "filename": "1320-5.pdf",
+  "extraction_date": "2025-11-17T10:20:30.533710",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 37431,
+  "images_extracted": 0,
+  "dates_found": 58,
+  "people_found": 77,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 132
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 877
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1696
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1824
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2763
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2896
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3785
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4737
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 5651
+    }
+  ],
+  "people": [
+    "Eva Dubin",
+    "Johanna\nSjoberg",
+    "Was Nadia",
+    "Questions About Meeting",
+    "Glen Dubin",
+    "John Luc Brunel",
+    "Eva Anderson",
+    "Would Virginia",
+    "Jean Luc",
+    "James Christe",
+    "Does Jeffrey",
+    "Alexander Dixon",
+    "Notary Public",
+    "Andrews Avenue\nFort",
+    "Questions About People",
+    "Americas\nNew York",
+    "Also Present",
+    "Questions About Mr",
+    "Underage Girl",
+    "Emmy Taylor"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "London"
+  ],
+  "images": []
+}

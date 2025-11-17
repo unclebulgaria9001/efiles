@@ -1,0 +1,65 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.38",
+  "filename": "gov.uscourts.nysd.447706.1328.38.pdf",
+  "extraction_date": "2025-11-17T10:18:56.686340",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 3972,
+  "images_extracted": 0,
+  "dates_found": 7,
+  "people_found": 12,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 809
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1872
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2935
+    },
+    {
+      "date_string": "June 1, 2016",
+      "position": 389
+    },
+    {
+      "date_string": "June 1, 2016",
+      "position": 389
+    }
+  ],
+  "people": [
+    "El Brillo Way",
+    "Notary Public",
+    "Fort Lauderdale",
+    "Boca Raton",
+    "Registered\nProfessional Reporter",
+    "El Brillo",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Jane Doe",
+    "Certified Realtime\nReporter",
+    "Boca Raton Resort",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

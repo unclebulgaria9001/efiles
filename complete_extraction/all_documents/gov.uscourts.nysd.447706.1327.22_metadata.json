@@ -1,0 +1,69 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.22",
+  "filename": "gov.uscourts.nysd.447706.1327.22.pdf",
+  "extraction_date": "2025-11-17T10:17:53.645354",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 3278,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 11,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 142
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 832
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1762
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2790
+    },
+    {
+      "date_string": "2/16/16",
+      "position": 3182
+    },
+    {
+      "date_string": "June 21, 2016",
+      "position": 408
+    },
+    {
+      "date_string": "June 21, 2016",
+      "position": 408
+    }
+  ],
+  "people": [
+    "Florida\nMy Commission",
+    "Notary Public",
+    "Filed Under Seal",
+    "Fort Lauderdale",
+    "Jeffrey Epstein",
+    "Alan Dershowitz",
+    "Registered\nProfessional Reporter",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

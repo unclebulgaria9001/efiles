@@ -1,0 +1,88 @@
+{
+  "doc_id": "1331-36",
+  "filename": "1331-36.pdf",
+  "extraction_date": "2025-11-17T10:19:15.085291",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 20238,
+  "images_extracted": 0,
+  "dates_found": 36,
+  "people_found": 69,
+  "locations_found": 4,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1824
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3968
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6585
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8815
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11016
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13067
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15995
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 18249
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 19500
+    }
+  ],
+  "people": [
+    "Jack Alan Goldberger",
+    "Undid Him",
+    "Quinney College",
+    "New York Daily",
+    "Fifth\nAmendment",
+    "New York Post",
+    "The Nature",
+    "Party Witness",
+    "United\nStates Attorney",
+    "Virgin Islands",
+    "Lake City",
+    "Present Epstein\nTestimony",
+    "Ghislaine Maxwell",
+    "The Second Circuit",
+    "Requiring Mr",
+    "Menninger\nHaddon",
+    "Plaintiff\nCase No",
+    "Sex Offender Who",
+    "Data Gen",
+    "Prince Andrew"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "Virgin Islands"
+  ],
+  "images": []
+}

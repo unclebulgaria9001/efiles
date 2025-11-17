@@ -1,0 +1,93 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.16",
+  "filename": "gov.uscourts.nysd.447706.1328.16.pdf",
+  "extraction_date": "2025-11-17T10:19:19.767424",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 21333,
+  "images_extracted": 0,
+  "dates_found": 13,
+  "people_found": 38,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0119_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0119"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 143
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 683
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4287
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7998
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11512
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14993
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 18448
+    },
+    {
+      "date_string": "09-8-591",
+      "position": 451
+    },
+    {
+      "date_string": "April 13, 2010",
+      "position": 573
+    }
+  ],
+  "people": [
+    "Jean Luc Brunel",
+    "Filed Under Seal",
+    "Chase Bnnk",
+    "Related Cases",
+    "Ghislaine Maxwell",
+    "The Fifth",
+    "Notmy Public",
+    "And Adam",
+    "My Commission",
+    "Ghislaine Mnx",
+    "Then Jeffrey Epstein",
+    "And Snrnh Kellen",
+    "Legal Support",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Professional Reporter",
+    "Sarah Kellen",
+    "Lascivious Molestation",
+    "Probation Officer",
+    "Alnn Dershowitz"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

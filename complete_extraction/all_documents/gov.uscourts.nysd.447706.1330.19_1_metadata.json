@@ -1,0 +1,92 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.19_1",
+  "filename": "gov.uscourts.nysd.447706.1330.19_1.pdf",
+  "extraction_date": "2025-11-17T10:17:21.875452",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 13603,
+  "images_extracted": 0,
+  "dates_found": 21,
+  "people_found": 14,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    },
+    {
+      "email_file": "0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt",
+      "email_id": "0104"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 870
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1804
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2860
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3872
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4869
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5826
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6797
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7753
+    }
+  ],
+  "people": [
+    "Ross Gow",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Brad Edwards",
+    "Philip Barden",
+    "Lexington\nAvenue",
+    "Americas\nNew York",
+    "United Kingdom",
+    "Court\nReporter",
+    "Was Jeffrey",
+    "Did Jeffrey",
+    "Leslie Fagin",
+    "Case No",
+    "Maxwell Exhibit"
+  ],
+  "locations": [
+    "New York",
+    "United Kingdom"
+  ],
+  "images": []
+}

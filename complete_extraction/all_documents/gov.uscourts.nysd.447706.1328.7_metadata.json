@@ -1,0 +1,93 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.7",
+  "filename": "gov.uscourts.nysd.447706.1328.7.pdf",
+  "extraction_date": "2025-11-17T10:19:41.775413",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log",
+    "financial"
+  ],
+  "text_length": 22471,
+  "images_extracted": 0,
+  "dates_found": 64,
+  "people_found": 62,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1486
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3555
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5694
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7814
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10416
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12483
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14919
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 17004
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 19088
+    }
+  ],
+  "people": [
+    "Annie Farmer",
+    "David Boies\nBoies",
+    "Composite Exhibit",
+    "Answer Deposition\nQuestions",
+    "Excerpted Rodgers Dep",
+    "Quinney College",
+    "Johanna\nSjoberg",
+    "Police Detective Joseph",
+    "Respectfully Submitted",
+    "North Andrews Avenue",
+    "Johanna Sjoberg",
+    "Tony Figueroa",
+    "Ghislaine Maxwell",
+    "Balliol College",
+    "Detective Joseph Recarey",
+    "Both Sarah Kellen",
+    "Oxford University",
+    "Maria Farmer",
+    "Rinaldo Rizzo",
+    "Carolyn Andriamo"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

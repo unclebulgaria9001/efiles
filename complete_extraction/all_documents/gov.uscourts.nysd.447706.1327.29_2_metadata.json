@@ -1,0 +1,89 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.29_2",
+  "filename": "gov.uscourts.nysd.447706.1327.29_2.pdf",
+  "extraction_date": "2025-11-17T10:19:03.369780",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 31847,
+  "images_extracted": 0,
+  "dates_found": 37,
+  "people_found": 40,
+  "locations_found": 5,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 815
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1697
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2634
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3655
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4584
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5576
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6698
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7713
+    }
+  ],
+  "people": [
+    "Did Virginia",
+    "Virgin Islands",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis",
+    "And Ghislaine",
+    "Besides Virginia",
+    "Registered\nProfessional Reporter",
+    "Tipper Gore",
+    "Saint Jeff",
+    "Prince Andrew",
+    "Breakers Row",
+    "Al Gore",
+    "Taco Bell",
+    "Virginia Roberts",
+    "El Brillo Way",
+    "Did Ghislaine Maxwell",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Fort Lauderdale"
+  ],
+  "locations": [
+    "New York",
+    "Palm Beach",
+    "Florida",
+    "Virgin Islands",
+    "New Mexico"
+  ],
+  "images": []
+}

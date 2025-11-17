@@ -1,0 +1,95 @@
+{
+  "doc_id": "1320-30",
+  "filename": "1320-30.pdf",
+  "extraction_date": "2025-11-17T10:20:47.642858",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 25849,
+  "images_extracted": 0,
+  "dates_found": 32,
+  "people_found": 34,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0017_01_04_24_From-Unknown_To-Unknown_11.txt",
+      "email_id": "0017"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 124
+    },
+    {
+      "date_string": "05/03/2016",
+      "position": 194
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 1119
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 1655
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 2337
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 3524
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 4450
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 5410
+    },
+    {
+      "date_string": "5/3/2016",
+      "position": 6365
+    }
+  ],
+  "people": [
+    "Secret Service",
+    "Andrews Avenue\nSuite",
+    "By Brad Edwards",
+    "Boulevard\nSuite",
+    "Denver Colorado",
+    "Agren Blando Court",
+    "Did Sharon Churcher",
+    "In Sydney",
+    "Ghislaine Maxwell",
+    "Paralegal\nNicholas",
+    "Certified Shorthand Reporter",
+    "Civil Procedure",
+    "How Epstein",
+    "And Ghislaine",
+    "By Laura",
+    "Brenda Rodriguez",
+    "Prince Andrew",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Fort Lauderdale"
+  ],
+  "locations": [
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

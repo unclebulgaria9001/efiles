@@ -1,0 +1,81 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.25",
+  "filename": "gov.uscourts.nysd.447706.1328.25.pdf",
+  "extraction_date": "2025-11-17T10:16:26.572456",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 8884,
+  "images_extracted": 0,
+  "dates_found": 12,
+  "people_found": 15,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 153
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 844
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1921
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2917
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3927
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4885
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5894
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6845
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7847
+    }
+  ],
+  "people": [
+    "Palm Beach Atlantic",
+    "Notary Public",
+    "Filed Under Seal",
+    "Fort Lauderdale",
+    "Emmy Taylor",
+    "Registered\nProfessional Reporter",
+    "Las Olas Boulevard",
+    "Did Maxwell",
+    "Boies Schiller",
+    "Did Ghislaine",
+    "In Palm Beach",
+    "Certified Realtime\nReporter",
+    "Did Jeffrey",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

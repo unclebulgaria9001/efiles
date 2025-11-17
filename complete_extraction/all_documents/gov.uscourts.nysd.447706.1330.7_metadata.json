@@ -1,0 +1,83 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.7",
+  "filename": "gov.uscourts.nysd.447706.1330.7.pdf",
+  "extraction_date": "2025-11-17T10:18:22.661962",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 15967,
+  "images_extracted": 0,
+  "dates_found": 20,
+  "people_found": 17,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 122
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 812
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1817
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2751
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3647
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4631
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5709
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6559
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7498
+    }
+  ],
+  "people": [
+    "To Detective Pagan",
+    "Notary Public",
+    "Detective Pagan",
+    "Fort Lauderdale",
+    "Palm Beach Police",
+    "Registered\nProfessional Reporter",
+    "Exhibit No",
+    "Christina Venero",
+    "Las Olas Boulevard",
+    "Narrative No",
+    "Johanna Sjoberg",
+    "Boies Schiller",
+    "And Venero",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis",
+    "Deposition Exhibit"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

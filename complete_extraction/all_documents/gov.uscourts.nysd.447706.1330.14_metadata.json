@@ -1,0 +1,84 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.14",
+  "filename": "gov.uscourts.nysd.447706.1330.14.pdf",
+  "extraction_date": "2025-11-17T10:18:21.004868",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 7400,
+  "images_extracted": 0,
+  "dates_found": 9,
+  "people_found": 16,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0044_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0044"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 151
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 997
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2348
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3678
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4854
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6233
+    },
+    {
+      "date_string": "February 16, 2010",
+      "position": 442
+    },
+    {
+      "date_string": "February 16, 2010",
+      "position": 442
+    }
+  ],
+  "people": [
+    "Adriana Ross",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Australian Avenue South",
+    "Reporting\nJob No",
+    "Ghislaine Maxwell",
+    "Sarah Kellen",
+    "Nadia Marcinkova",
+    "Leslie Groff",
+    "Richard Kahn",
+    "Reported By",
+    "West Palm Beach",
+    "Florida\nProse Court",
+    "And Leslie Groff",
+    "Bella Klen",
+    "Cynthia Hopkins"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

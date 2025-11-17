@@ -1,0 +1,95 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.42_1",
+  "filename": "gov.uscourts.nysd.447706.1328.42_1.pdf",
+  "extraction_date": "2025-11-17T10:19:06.414120",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 15414,
+  "images_extracted": 0,
+  "dates_found": 7,
+  "people_found": 30,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt",
+      "email_id": "0001"
+    },
+    {
+      "email_file": "0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt",
+      "email_id": "0009"
+    },
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0108_Friday, February 09,_From-5arah Ransome (mailto__To-Pumla Griszell Sent_ Frid_RE_ FIT website.txt",
+      "email_id": "0108"
+    },
+    {
+      "email_file": "0119_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0119"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 142
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2557
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6881
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11290
+    },
+    {
+      "date_string": "September 8, 2009",
+      "position": 754
+    },
+    {
+      "date_string": "September 8, 2009",
+      "position": 754
+    }
+  ],
+  "people": [
+    "Miss Germany",
+    "When Mr",
+    "Filed Under Seal",
+    "Incorporation Papers",
+    "Noble Prize",
+    "Misses Yugoslavia",
+    "President Clinton",
+    "Were Prince Andrew",
+    "Incident Report",
+    "Avenue North",
+    "Prince Andrew",
+    "Lake Worth",
+    "West Flagler Street",
+    "Reported By",
+    "David Copperfield",
+    "Notary Public",
+    "And Kevin Spacey",
+    "Biscayne Boulevard",
+    "But Prince Andrew",
+    "East Las Olas"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

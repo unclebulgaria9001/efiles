@@ -1,0 +1,1308 @@
+# Document: gov.uscourts.nysd.447706.1328.18.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 124
+# People Found: 233
+# Locations Found: 3
+# Linked Emails: 19
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 1 of 50
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSE IN OPPOSITION TO
+DEFENDANT’S SECOND MOTION TO COMPEL AND FOR SANCTIONS
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 2 of 50
+TABLE OF CONTENTS
+Page
+I. INTRODUCTION ...............................................................................................................1
+II. DEFENDANT’S ENTIRE MOTION SHOULD BE DENIED ...........................................1
+III. MOTION TO COMPEL RESPONSES TO INTERROGATORIES SHOULD BE
+DENIED ...............................................................................................................................2
+A. Interrogatory No. 5.................................................................................................. 2
+1. Ms. Giuffre’s Counsel’s Communications With the Media Are
+Outside the Scope of Rule 26 and Any Attempt at Collection Would
+be Unduly Burdensome ..............................................................................2
+2. Defendant is Already in Possession of Ms. Giuffre’s Communications
+With the Media ...........................................................................................3
+B. Interrogatory No. 6.................................................................................................. 5
+C. Interrogatory No. 7.................................................................................................. 8
+D. Interrogatory No. 8................................................................................................ 10
+E. Interrogatory No. 13.............................................................................................. 10
+1. Ms. Giuffre Has Answered This Interrogatory Completely .....................10
+2. This Court Has Already Ruled Against Defendant on Pre-1999
+Medical Records, so Defendant is Estopped From Bringing This
+Argument ..................................................................................................15
+3. This Request is Overly Burdensome and Disallowed Under New
+York Law ..................................................................................................17
+4. The Physician-patient Privilege Applies to These Documents ................19
+F. Interrogatory No. 14.............................................................................................. 20
+1. This Discovery is Barred by FRE 412 ......................................................20
+2. This Request if Propounded for Improper Purposes and Harassment ......21
+3. This Request Seeks Irrelevant Information ..............................................22
+i
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 3 of 50
+4. Sexual Assault Records are a Medical Event and Are Barred by This
+Court’s Order ............................................................................................23
+5. Information About Ms. Giuffre’s Sexual Abuse is Protected by
+Florida Statutes .........................................................................................24
+6. Defendant Makes Misrepresentations to the Court ..................................25
+7. Defendant Has Violated the Court’s Protective Order (DE 62) ...............25
+IV. PLAINTIFF’S ANSWERS TO DEFENDANT’S REQUESTS FOR ADMISSIONS
+ARE NOT DEFICIENT AND DEFENDANT’S MOTION SHOULD BE DENIED ......26
+A. Requests for Admission Nos. 1-8 and 13.............................................................. 26
+B. Requests for Admission Nos. 12 ........................................................................... 28
+V. PLAINTIFF’S RESPONSES TO DEFENDANT’S OVERLY BROAD REQUESTS
+FOR PRODUCTION ARE COMPLIANT WITH HER DISCOVERY
+OBLIGATIONS UNDER THE APPLICABLE RULES AND DEFENDANT’S
+MOTION SHOULD BE DENIED ....................................................................................30
+A. Request for Production No. 1................................................................................ 30
+B. Request for Production No. 4................................................................................ 36
+C. Request for Production No. 9................................................................................ 36
+D. Request for Production No. 10.............................................................................. 40
+E. Requests for Production No. 11 and No. 12 ......................................................... 40
+VI. CONCLUSION ..................................................................................................................42
+CERTIFICATE OF SERVICE ..................................................................................................... 44
+ii
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 4 of 50
+TABLE OF AUTHORITIES
+Page
+Cases
+Blodgett v. Siemens Industry, Inc.,
+2016 WL 4203490 (E.D.N.Y., 2016)......................................................................................... 2
+Does 1 and 2 v. United States,
+817 F. Supp. 2d 1337 (S.D. Fla. 2011) .................................................................................... 39
+Does v. United States,
+749 F.3d 999 (11th Cir. 2014) ................................................................................................. 39
+Dubin,
+125 F.R.D 372 (S.D.N.Y. 1989). ............................................................................................. 30
+Elghanian v. Schachter,
+1997 WL 607546 (S.D.N.Y. 1997) ............................................................................................ 1
+Evanko v. Electronic Systems Assoc., Inc.,
+No. 91 Civ. 2851, 1993 WL 14458 (S.D.N.Y. Jan. 8, 1993) ................................................... 17
+Gibbons v. Food Lion, Inc.,
+No. 98-1197-CIV-T-23F, 1999 WL 33226474 (M.D. Fla. Feb.19, 1999) .............................. 21
+Havenfield Corp. v. H & R Block, Inc.,
+67 F.R.D. 93 (W.D.Mo.1973) .................................................................................................. 30
+Jane Doe 1 v. United States,
+No. 9:08-cv-80736 (S.D. Fla. July 7, 2008).............................................................................. 38
+Jane Does 1 and 2 v. United States,
+950 F. Supp. 2d 1262 (S.D. Fla. 2013) .................................................................................... 39
+Manessis v. New York City Dep’t of Transp.,
+No. 02 CIV. 359SASDF, 2002 WL 31115032 (S.D.N.Y. Sept. 24, 2002) ............................. 17
+S.E.C. v. Micro-Moisture Controls,
+21 F.R.D. 164 (S.D.N.Y.1957) ................................................................................................ 30
+Sgambellone v. Wheatley,
+165 Misc.2d 954, 630 N.Y.S.2d 835 (N.Y. Sup.Ct. 1995) ...................................................... 17
+Silva v. Pioneer Janitorial Servs., Inc.,
+No. CIV.A. 10-11264-JGD, 2011 WL 4729783 (D. Mass. Oct. 4, 2011) ......................... 21, 22
+iii
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 5 of 50
+Spin Master Ltd. v. Bureau Veritas Consumer Products Service, Inc.,
+2016 WL 690819 (W.D.N.Y., 2016) ....................................................................................... 30
+T. Rowe Price Small-Cap Fund, Inc. v. Oppenheimer & Co., Inc.,
+174 F.R.D. 38 (S.D.N.Y. 1997) ............................................................................................... 31
+Thalheim v. Eberheim,
+124 F.R.D. 34 (D.Conn.1988).................................................................................................. 30
+United States v. Consolidated Edison Co.,
+1988 WL 138275 (E.D.N.Y. Dec. 15, 1988) ........................................................................... 30
+Wachtman v. Trocaire College,
+532 N.Y.S.2d 943 (N.Y. App. Div. 1988) ............................................................................... 17
+Statutes
+18 U.S.C. § 3771 ..................................................................................................................... 38, 39
+18 U.S.C. § 3771(a)(9) .................................................................................................................. 39
+Fla. Stat. § 39.202(6)..................................................................................................................... 25
+Fla. Stat. § 480.041 ....................................................................................................................... 19
+Fla. Stat. § 794.026 ....................................................................................................................... 25
+Fla. Stat. § 985.036 ....................................................................................................................... 25
+Fla. Stat. § 985.04 ......................................................................................................................... 25
+Fla. Stat. § 985.054 ....................................................................................................................... 25
+Rules
+Fed. R. Civ. P. 26 ................................................................................................................... passim
+Fed. R. Civ. P. 26(a)(1)(A)(i) ......................................................................................................... 1
+Fed. R. Civ. P. 26(b)(1).......................................................................................................... passim
+Fed. R. Civ.P. 26(c) ...................................................................................................................... 21
+Fed. R. Civ. P. 33.3 .................................................................................................................. .9, 35
+Fed. R. Civ. P. 35(a)(5) ................................................................................................................. 30
+Fed. R. Civ. P. 36 .......................................................................................................................... 30
+iv
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 6 of 50
+Fed. R. Civ. P. 36(a)(4) ................................................................................................................. 29
+Fed. R. Civ. P. 36(a)(5) ................................................................................................................. 29
+Fed. R. Civ. P. 37 ............................................................................................................................ 2
+Fed. R. Civ. P. 37.1 ................................................................................................................ passim
+Fed. R. Evid. 412 ................................................................................................................... passim
+Other Authorities
+8 C. Wright & A. Miller, Federal Practice and Procedure, § 2258 ............................................... 30
+Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771 ............................................................... 38
+Andrew Taslitz, “Rape and the Culture of the Courtroom” (1999) .............................................. 26
+Pub. L. 114-22, Title I, § 113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241................................. 39
+v
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 7 of 50
+Plaintiff Virginia Giuffre (“Ms. Giuffre”), by and through her undersigned counsel,
+hereby files this Response in Opposition to Defendant’s Motion to Compel and her baseless
+Motion for Sanctions (DE 354).
+I. INTRODUCTION
+For the third time, Defendant attempts to elevate a routine discover dispute into
+something over which she seeks sanctions, despite the complete lack of a basis for sanctions and
+a complete lack of case law supporting her request.1 All three of Defendant’s requests for
+sanctions have been frivolous, legally unreasonable, without factual foundation, and for an
+improper purpose. Rule 11 provides for the imposition of sanctions in those circumstances. See
+Elghanian v. Schachter, 1997 WL 607546, at *2 (S.D.N.Y. 1997) (Sweet, J.)
+Indeed, in Defendant’s entire “argument” for sanctions, she only cites one case - a case
+from the District of the District of Columbia - for the proposition that Plaintiff should be
+sanctioned because her interrogatory responses were unsigned.2 However, Defendant’s
+interrogatory responses are also unsigned. Defendant’s thirty-seven page brief is riddled with
+these half-truths in a grasping attempt to distort reality as the documentary and testimonial
+evidence piles up against her. By Defendant’s logic, Ms. Giuffre should have already moved for
+sanctions against Defendant for Defendant’s unsigned interrogatories, but unlike Defendant, Ms.
+Giuffre would not burden the Court with a frivolous request for sanctions.
+II. DEFENDANT’S ENTIRE MOTION SHOULD BE DENIED
+Defendant’s motion violates Local Rule 37.1, and should be denied for that reason before
+the Court even reaches the merits. Local Rule 37.1 states that, “upon any motion or application
+1 Defendant’s first baseless request for sanctions was improperly raised in a response brief (DE
+228) to a routine motion for extension of time - a motion this Court granted (June 23, 2016,
+Minute Order). Defendant’s second baseless request (DE 231) centered on the fact that Ms.
+Giuffre listed her physicians in response to interrogatories instead of in her Rule 26 disclosures.
+2 Ms. Giuffre has signed her amended interrogatories, and has served them on Defendant.
+1
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 8 of 50
+involving discovery or disclosure requests or responses under Fed. R. Civ. P. 37, the moving
+party shall specify and quote or set forth verbatim in the motion papers each discovery request
+and response to which the motion or application is addressed.” For the majority of discovery
+items upon which Defendant moves, Defendant has wholly failed to do this. Instead, Defendant
+edits out a great deal of Ms. Giuffre’s answers and objections to the interrogatories, skipping
+entire data sets put forth in response to the interrogatories, and skipping Ms. Giuffre most cogent
+objections.
+This is improper conduct. Upon a motion to compel, a Court is called upon to evaluate
+the discovery requests as well as the responses and objections. Local Rule 37.1 is designed to
+protect against the exact type of self-serving editing of the opposing party’s objections that
+Defendant has done in this brief. Accordingly, the Court should deny Defendant’s motion in its
+entirety for failure to comply with Local Rule 37.1. See Blodgett v. Siemens Industry, Inc., 2016
+WL 4203490, at *1 (E.D.N.Y., 2016) (denying motion without prejudice for failure to comply
+with Local Rule 37.1 (which is the same rule in the Eastern District of New York)).
+III. MOTION TO COMPEL RESPONSES TO INTERROGATORIES SHOULD BE
+DENIED
+A. Interrogatory No. 5
+1. Ms. Giuffre’s Counsel’s Communications With the Media Are Outside the
+Scope of Rule 26 and Any Attempt at Collection Would be Unduly
+Burdensome
+Interrogatory No. 5 seeks a catalogue of Ms. Giuffre and her counsel’s communications
+with the media, broadly defined, and without limitation of time or subject matter. First, the
+interrogatory request should be denied because Ms. Giuffre already produced her
+communications with the media, which included production of close to 200 e-mails. Despite
+having these key communications, Defendant is now pushing for all communications that any of
+2
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 9 of 50
+her counsel ever had with any media without any time or subject matter limitation. The search
+for, and production of, all communications involving her counsel and the media is unduly
+burdensome and wholly irrelevant. Given the nature of Ms. Giuffre’s counsel’s practices, the
+media reach out to Ms. Giuffre’s counsel frequently, regarding a number of issues, and none of
+Ms. Giuffre’s counsel catalogue or record any of these communications. Complete retrieval
+would be inordinately burdensome. Even Defendant’s more limited request put forth in the
+instant motion seeking communications with the media regarding this case is overly broad. This
+would require a marshaling of enormous resources, and under Rule 26(b)(1), there is no need
+expressed by Defendant to justify this heavy burden. Notably, Defendant has deposed Ms.
+Giuffre in detail on topics relating to media inquiries and she also has of Ms. Giuffre’s e-mail
+communications with the media produced by Ms. Giuffre. This request should be denied on these
+grounds alone.
+Though she claims Ms. Giuffre’s counsel’s communications with the media somehow go
+to her defenses, tellingly, Defendant fails to explain how they do, or put forth any case law in
+support this proposition. Additionally, there’s no explanation (or case law) as to how any such
+communications could go to Defendant’s damages. Defendant does not explain and does not
+elaborate. Defendant has failed to articulate relevance or any supporting case law for this
+discovery, and the request should be denied for this reason as well.
+2. Defendant is Already in Possession of Ms. Giuffre’s Communications
+With the Media
+Regarding Ms. Giuffre’s communications with the media, Defendant already has them.
+And, importantly, Defendant didn’t have to hunt and peck for these communications, as she is
+trying to lead the Court to believe. Ms. Giuffre’s communications with the media consist of
+email communications between Ms. Giuffre and Sharon Churcher, and Ms. Giuffre and Jarred
+3
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 10 of 50
+Weissfeld. The overwhelming majority of them were produced in her second rolling production
+and continued on a rolling basis through the fifth production (all of which were small
+productions). Specifically, there are approximately 175 of these documents, and all were
+produced within a narrow Bates range.3 Defendant had knowledge of these documents as soon as
+Ms. Giuffre produced them. Moreover, these documents are featured in Defendant’s briefs,
+Defendant issued subpoenas to both Sharon Churcher and Jarred Weissfeld months ago, and
+Defendant has deposed Ms. Giuffre about her media contacts. See McCawley Decl. at Composite
+Exhibit 1, Defendant’s May 31, 2016, Subpoenas to Churcher and Weissfeld.
+Yet, Defendant cited a number of cases wherein discovery was buried amid voluminous
+productions so as to be hidden or to cause delayed or cumbersome discovery of them. They are
+inapposite. Defendant didn’t have to “comb through literally thousands of pages of documents”
+to “find” these. Again, they were presented to Defendant in small production batches, starting
+with the second production. Moreover, Defendant can gather all of these documents via an
+electronic search with a simple keystroke.
+By suggesting to the Court that Ms. Giuffre’s communications with the media were
+somehow hidden or buried in her production, Defendant makes an argument in bad faith. Indeed,
+Defendant’s argument is tantamount to making a false representation to the Court.
+Finally, all of these communications were email communications. So, on their face, they
+tell Defendant “the date of any such Communication;” “the form of any such Communication,
+whether oral or written and if written, the format of any such Communication;” “the identities of
+all the persons involved in such Communication” (this is revealed from the to/from/cc lines); and
+the other data. Defendant also knows, very well, the identities of the individuals involved
+3 These communications were produced at Giuffre003191-4274; Giuffre004275-4301;
+Giuffre004302-4371; Giuffre004372-4746; Giuffre004747-5092.
+4
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 11 of 50
+(including the identity of the organization with which they are affiliated), particularly as the
+communicators each received one of Defendant’s subpoenas.
+At the end of the day, the only thing Ms. Giuffre could do to answer this any more than
+she already has is to go through the burdensome and redundant exercise of writing down, for
+each of the approximately 175 emails, (1) the fact that it is an email; (2) what name appears in
+the “to” field; (3) what name appears in the “from” field; (4) what name appears in the “cc” field;
+and (5) what date appears on the email. Ms. Giuffre submits to the Court that making such a
+catalogue is a redundant exercise that is not appropriate under Rule 26(b)(1) which, under the
+2015 amendment, takes into account “the parties’ relative access to relevant information.” Ms.
+Giuffre also submits to the Court that moving to compel Ms. Giuffre to make such a list based on
+documents she already produced to the Defendant is frivolous and a waste of resources.
+B. Interrogatory No. 6
+Defendant’s Interrogatory No. 6 seeks any “false statements” attributed to Defendant that
+were published. Defendant also seeks the date, place, and form of publication, publishing entity,
+the URL address, etc., of all such statements. Ms. Giuffre knows, with certainty, of certain
+statements made by Defendant, and, together, they are the subject of this action. Ms. Giuffre
+made a listing of various websites that published those statements in response to this
+interrogatory. This compilation was part of Ms. Giuffre’s interrogatory answer that Defendant
+misleadingly omits from her motion in violation of Local Rule 37.1. Based upon Ms. Giuffre’s
+answer, there is nothing else to compel. Yet, Defendant moves to compel answers that Ms.
+Giuffre does not have.
+Specifically, Ms. Giuffre does not have the knowledge (and certainly does not have the
+documents relating to) every time Defendant may have defamed her. That is information that lies
+solely in the possession of the Defendant. Indeed, Ms. Giuffre sought this very information from
+5
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 12 of 50
+Defendant in her Requests Nos. 17 and 18, in which she requested documents “concerning any
+statement made by You or on Your behalf to the press or any other group or individual, including
+draft statements, concerning Ms. Giuffre, by You, Ross Gow, or any other individual, from 2005
+to the present, including the dates of any publications, and if published online, the Uniform
+Resource Identifier (URL) address” and “all documents concerning which individuals or entities
+You or Your agents distributed or sent any statements concerning Ms. Giuffre referenced in
+Request No. 17 made by You or on Your behalf.” Defendant objected to these requests and
+refused to produce any documents. Ms. Giuffre’s motion to compel is pending.
+As stated above, Ms. Giuffre knows that Defendant defamed her through the statement
+issued on her behalf by Ross Gow, and she knows Defendant defamed her when she affirmed
+that statement on video the next day in New York. But, she doesn’t know all Defendant’s
+defamatory statements, nor does she know where Defendant made them, or to whom she issued
+them. Defendant is trying to turn logic on its head with this request which, essentially, says:
+“You tell me the people to whom I have sent my own defamatory statements.” Indeed,
+Defendant’s own language belies her argument. In the instant brief, Defendant says: “The
+interrogatory required Plaintiff, among other things, to provide each “exact false statement” that
+she attributes to Ms. Maxwell and that was published anywhere in the world.” How Ms. Giuffre
+can know every person to whom Defendant made defamatory statements is unexplained. For
+example, if Defendant took her defamatory statements to a media outlet that chose not to publish
+them, there is no way for Ms. Giuffre to know that. The only person who knows the full extent of
+Defendant’s defamation of Ms. Giuffre is defendant, which is why Ms. Giuffre sent her a request
+for the same information.
+6
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 13 of 50
+However, to make a good faith effort of a response, Ms. Giuffre compiled many
+examples of Defendant’s defamation, examples that were absent from Defendant’s brief, in
+contravention of Rule 37.1:
+Date Nature Publishing Statement/URL
+Entity
+January 2, 2015 Internet Ross Gow Jane Doe 3 is Virginia Roberts - so not a new
+individual. The allegations made by Victoria
+Roberts against Ghislaine Maxwell are untrue. The
+original allegations are not new and have been fully
+responded to and shown to be untrue.
+Each time the story is re told it changes with new
+salacious details about public figures and world
+leaders and now: it is alleged by Ms. Roberts that
+Alan Dershowitz is involved in having sexual
+relations with her, which he denies.
+Ms. Roberts’s claims are obvious lies and should
+be treated as such and not publicized as news, as
+they are defamatory,
+Ghislaine Maxwell’s original response to the lies
+and defamatory claims remains the same. Maxwell
+strongly denies allegations of an unsavoury nature,
+which have appeared in the British press and
+elsewhere and reserves her right to seek redress at
+the repetition of such old defamatory claims.
+January 3, 2015 Internet Telegraph http://www.telegraph.co.uk/news/uknews/theroyalfam
+ily/11323872/Prince-Andrew-denies-having-relations-
+with-sex-slave-girl.html
+January 4, 2015 Internet Express http://www.express.co.uk/news/world/550085/Ghislai
+ne-Maxwell-Jeffrey-Epstein-not-madam-paedophile-
+Florida-court-case-Prince-Andrew
+January 3, 2015 Internet Daily Mail http://www.dailymail.co.uk/news/article-
+2895366/Prince-Andrew-lobbied-government-easy-
+Jeffrey-Epstein-Palace-denies-claims-royal-tried-use-
+influence-help-billionaire-paedophile-2008-police-
+probe.html
+January 3, 2015 Internet Huffington Post http://www.huffingtonpost.co.uk/2015/01/03/duk
+e-of-york-sex-abuse-claims_n_6409508.html
+January 4, 2015 Internet Jewish News http://www.jewishnews.co.uk/dershowitz-nothing-
+Online prince-andrews-sex-scandal/
+January 2, 2015 Internet Bolton News http://www.theboltonnews.co.uk/news/na
+tional/11700192.Palace_denies_Andrew_sex
+_case_claim/
+January 5, 2015 Internet/ NY Daily News http:/www.nydailynews.com/news/world/alleged-
+Broadcast madame-accused-supplying-prince-andrew-arti
+cle-1.2065505
+7
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 14 of 50
+January 5, 2015 Internet/ AOL UK http:/www.aol.co.uk/video/ghislaine-maxwell-
+Broadcast declines-to-comment-on-prince-andrew-allegations-
+518587500/
+Ms. Giuffre recently updated this response to include an additional URL containing
+defamatory content:
+January 8, 2015 Internet The Sun https://www.thesun.co.uk/archives/news/6754/princ
+e-andrews-pal-ghislaine-groped-teen-
+girls/?CMP=spklr-128508300-Editorial-TWITTER-
+TheSunNewspaper-20150108-News
+Spending hours trolling the Internet for additional examples of entities that have
+published Defendant’s defamatory statements is not appropriate under Rule 26(b)(1), which
+takes into account “whether the burden or expense of the proposed discovery outweighs the
+likely benefit.” Here, scouring the Internet for additional examples of the publication of the
+defamatory statements that are already known (and, illogically, for those that are unknown) is not
+an appropriate discovery request.
+If Defendant would respond to Ms. Giuffre’s requests, Ms. Giuffre would be able to
+answer this interrogatory in full. Only Defendant has access to a comprehensive list of her
+defamatory statements and of the outlets to which she distributed them. Indeed, as the Court
+knows from the documents it reviewed in camera and found were not privileged, Defendant and
+Dershowitz were regularly communicating regarding how best to attack Ms. Giuffre.
+Accordingly, the Court should deny Defendant’s motion
+C. Interrogatory No. 7
+This interrogatory seeks a catalogue of all of defamatory statements made against Ms.
+Giuffre. This Interrogatory calls for a legal conclusion as to what statements constitute
+“defamation,” and is, thus, improper, particularly as it is not limited to what has already been
+determined to be defamatory. Specifically, this interrogatory calls for Ms. Giuffre to search for
+8
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 15 of 50
+any statements made about her, throughout the internet and other sources, and determine whether
+or not they constitute defamation. Accordingly, this request is overly broad. See December 29,
+2005 Discovery Order, American Civil Liberties Union, et. al. v. Alberto R. Gonzales, No. 98--
+5591, at p. 6 (E.D. Pa. Dec. 29, 2005) (“I find that interrogatory P is over-broad because it is not
+limited to speech defendant has already determined to be ‘harmful to minors’ under COPA but
+appears to command defendant to search for all speech over the entire internet and determine
+whether it is harmful to minors. As a result, defendant need not response to plaintiffs’
+interrogatory P.”), at McCawley Decl. at Exhibit 2, for ease of reference.
+Alan Dershowitz is the only other known person to defame Ms. Giuffre. As with
+Interrogatory No. 5, there is no way for Ms. Giuffre to know the full extent of Alan Dershowitz’s
+defamation of her. She knows that he has called her a “prostitute” and a “bad mother” during his
+press conferences. See McCawley Decl. at Exhibit 3, Local 10 News article dated January 22,
+2015. But, Ms. Giuffre does not know the full extent of Alan Dershowitz’s defamation, nor has
+she conducted legal analysis regarding any such defamation.
+Any party could attempt a Google search of such things to locate certain sources on the
+internet, but that is not what is contemplated by Rule 26(b)(1), Federal Rules of Civil Procedure,
+as such an exercise is unduly burdensome, and such information is well outside of Ms. Giuffre’s
+possession, custody, and control. Moreover, only Alan Dershowitz (Defendant’s joint defense
+partner) knows the comprehensive list of his defamatory statements and of the outlets to which
+he distributed them. Rule 26(b)(1) limits the scope of discovery based on an evaluation of “the
+parties’ relative access to relevant information.” As Dershowitz himself has admitted, he is
+actively involved with Defendant in this litigation. Defendant’s access to this information
+relative to Ms. Giuffre’s is unparalleled. It is unduly burdensome for Ms. Giuffre to troll the
+9
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 16 of 50
+internet for any instances of Dershowitz defaming her. He is not a party to this action. And, Ms.
+Giuffre’s single count of defamation does not allege in facts in relation to Dershowitz.
+Accordingly, the Court should deny Defendant’s motion.
+D. Interrogatory No. 8
+Defendant seeks a list of all the individuals to whom Epstein trafficked Ms. Giuffre.
+Under Local Rule 33.3 interrogatories “may only be served (1) if they are a more practical
+method of obtaining the information sought than a request for production or a deposition, or (2)
+if ordered by the Court.” Defendant has already lit upon “a more practical method of obtaining
+the information sought.” She asked Ms. Giuffre for this information in her deposition. Moreover,
+Dershowitz, Defendant’s joint defense partner, asked for this information when he took her
+deposition, and Ms. Giuffre produced that deposition transcript to Defendant.
+This request is redundant, as this information has already been sought and Ms. Giuffre
+responded to questions at her May 3, 2016, deposition. See, e.g., May 3, 2016, Giuffre Dep. Tr.
+at 192-193, 200; 14; 191-193; 193-194; 201-202; 2020-203; 204; January 16, 2016, Giuffre Dep.
+Tr. at 15; 34; 50-51; 24; 41; 45; 51-54; 6; 38; 24-25; 18-19; 21; 61; 17-18; 20-21; 33; 18; 15-16;
+and 21.
+E. Interrogatory No. 13
+1. Ms. Giuffre Has Answered Interrogatory No. 13 Completely
+As discussed above, Defendant’s entire motion violates Local Rule 37.1, but she does so
+most egregiously here. This interrogatory seeks Ms. Giuffre’s health care provider for any
+physical, mental, or emotional condition, prior to the Defendant’s defamation. Defendant does
+not include Ms. Giuffre’s hard-won and fulsome answer, which includes a bevy of providers
+going back many years. The reason for Defendant’s Rule violation with regard to this
+10
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 17 of 50
+interrogatory is quite obvious, and done in bad faith. Ms. Giuffre listed every physician known to
+her. The list is extensive. It looked like this:
+“Health Care Providers known to Ms. Giuffre who may have provided treatment
+subsequent to the defamation are as follows4:
+(cid:120) Dr. Steven Olson,JaneDoe2
+(cid:120) Dr. Chris Donohue,JaneDoe2
+(cid:120) Dr. Peter Del Mar,JaneDoe2
+(cid:120) St. Thomas More Hospital,JaneDoe2
+(cid:120) Ms. Judith Lightfoot,JaneDoe2
+4 Health care providers known to have provided treatment both prior to and subsequent to
+Defendant’s January 3, 2015 defamation of Ms. Giuffre are listed in the supplemental responses
+for both Interrogatories 12 and 13. There may be additional crossover of providers that have
+treated Ms. Giuffre prior to the defamation, listed in the supplemental response to Integratory 13,
+who also provided treatment subsequent to the defamation. Ms. Giuffre reserves the right to
+revise, amend, and supplement her response to Interrogatory No. 12 with providers listed in her
+supplemental response to Interrogatory 13 if and when she becomes aware of any additional
+crossover.
+11
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 18 of 50
+(cid:120) Medicare AustraliaJaneDoe2
+(cid:120) Dr. Rauf Yousaf,JaneDoe2
+(cid:120) CVS PharmacyJaneDoe2
+(cid:120) Walgreens PharmacyJaneDoe2
+“Health Care Providers known to Ms. Giuffre who may have provided treatment prior to
+the defamation are as follows5:
+(cid:120) Dr. John HarrisJaneDoe2
+(cid:120) Dr. Darshanee MajaliyanaJaneDoe2
+(cid:120) Dr. K. L. Lee JaneDoe2
+5 Health care providers known to have provided treatment both prior to and subsequent to
+Defendant’s January 3, 2015 defamation of Ms. Giuffre are listed in the supplemental responses
+for both Interrogatories 12 and 13. There may be additional crossover of providers that have
+treated Ms. Giuffre subsequent to the defamation, listed in the supplemental response to
+Integratory 12, who also provided treatment prior to the defamation. Ms. Giuffre reserves the
+right to revise, amend, and supplement her response to Interrogatory No. 13 with providers listed
+in her supplemental response to Interrogatory 12 if and when she becomes aware of any
+additional crossover.
+12
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 19 of 50
+JaneDoe2
+(cid:120) Dr. M. SellathuraiJaneDoe2
+(cid:120) Dr. Carol Hayek,JaneDoe2
+(cid:120) Dr. Ahmed El Moghazi,JaneDoe2
+(cid:120) Dr. Stephen Edmond,JaneDoe2
+(cid:120) Campbelltown Hospital,JaneDoe2
+(cid:120) Westmead Hospital,JaneDoe2
+(cid:120) Ms. Judith Lightfoot,JaneDoe2
+(cid:120) Royal Oaks Medical Center,JaneDoe2
+13
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 20 of 50
+(cid:120) Dr. Mona Devanesan,JaneDoe2
+(cid:120) Dr. Karen Kutikoff JaneDoe2
+(cid:120) Wellington Imaging AssociatesJaneDoe2
+(cid:120) Dr. Ranjit Thind,JaneDoe2
+(cid:120) Medicare AustraliaJaneDoe2
+(cid:120) Dr. Wah Wah San,JaneDoe2
+(cid:120) -CVS PharmacyJaneDoe2
+(cid:120) Walgreens PharmacyJaneDoe2
+6 In addition, counsel for Ms. Giuffre made multiple phone calls to potential medical records
+custodians in and attempt to locate Dr. Kutikoff’s records. These efforts were unsuccessful.
+7 On information and belief, this occurred after 1999 and prior to the January 3, 2015
+defamation. Based on the uncertainty of the exact date, Ms. Giuffre reserves the right to revise,
+amend, and supplement her responses to Interrogatories 12 and 13.
+8 Records from Medicare Australia are generally limited to 3 years. Ms. Giuffre is continuing to
+pursue additional records from prior to July 19, 2013 through their offices in Australia.
+9 Ms. Giuffre has now identified Dr. Wah Wah San and Dr. Wah San to be the same provider to
+the best of her knowledge. She had previously listed both names.
+14
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 21 of 50
+Additionally, since Ms. Giuffre served this answer, she has learned of three other physicians who
+may have treated her, and have served Defendant with that information:
+(cid:120) Dr. Timothy D. Hartwig, D.O.was identified in records produced by CVS pharmacy.
+Ms. Giuffre has requested those records, seeGIUFFRE008346-8348.
+(cid:120) Dr. James T. Nichols, M.D.was identified in records produced by CVS pharmacy. Ms.
+Giuffre has requested those records, see GIUFFRE008349-8351.
+(cid:120) Dr. Rodolfo Torres Jr., M.D.was identified in records produced by CVS pharmacy.
+Ms. Giuffre has requested those records, seeGIUFFRE008352-8354.
+Local Rule 37.1 exists for a reason. These answers are nowhere in Defendant’s brief. Ms. Giuffre
+is not withholding any medical records after 1999, including her pediatric records. The Court
+should deny Defendant’s request.
+2. This Court Has Already Ruled Against Defendant on Pre-1999 Medical
+Records, so Defendant is Estopped From Bringing This Argument
+regarding Interrogatory No. 13
+Defendant makes another argument bad faith. Defendant tries to argue - to the very Court
+that held otherwise - that medical records are discoverable prior to 1999. That is false. That was
+not the Court’s holding. The Court already, and specifically, rejected Defendant’s argument:
+MS. MENNINGER: Your Honor, the next topic are plaintiff’s medical records.
+THE COURT: I think I understand that. There is one thing, though. Are there any
+pre ‘99 medical records?
+MS. MENNINGER: Your Honor, the case law is quite clear that injuries that
+were preexisting --
+THE COURT: I’m sorry. Excuse me. Go ahead.
+MS. MENNINGER: JaneDoe2
+15
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 22 of 50
+JaneDoe2
+THE COURT: What’s the basis of your statement that we will call it the
+flashback?
+MS. MENNINGER: Your Honor, I believe --
+THE COURT: Because, quite frankly, I was unaware of that. Is that my
+error? Are you telling me something that’s not quite right?
+***
+THE COURT: . . . The medical records of the period ‘99 to 2002 will be produced
+and the plaintiff will indicate whether that production is complete or, if it isn’t
+complete, when it will be complete.
+As for the pre-’99 medical records, based on where we are at the moment, I do not
+believe that those are relevant. Because the damage issue relates, in my view,
+solely to the defamation. If that changes in any way, I will revisit that issue.
+April 21, 2106 Hr. Tr. at 11:15-12:25; 20:17-25.
+Nothing since the hearing has changed. Ms. Giuffre has not added a claim or a new
+category of damages or made any representations concerning her pre-1999 medical history. The
+Court has heard Defendant’s argument, and correctly rejected it. Defendant puts forth no new
+argument or facts that should disturb this ruling.
+Defendant tries to argue that she only wants the “names”of the physicians, and not the
+records. This argument is fatally flawed. The names of Ms. Giuffre’s physicians are necessarily
+part of her medical records. Additionally, the identity of a physician’s name also gives
+information regarding the type of medical treatment Ms. Giuffre received, particularly ifthat
+physician is specialist or works within a certain field.
+16
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 23 of 50
+JaneDoe2
+The tail is already wagging the dog regarding Ms. Giuffre’s search for, and
+production of,her medical records from 1999 to the present, the overwhelming majority of
+which are not at all relevant to this defamation case. Again, this Court held that Ms. Giuffre does
+not have to disclose her pre-1999 medical records, and Defendant gives no reason to disturb that
+ruling. Defendant is thus estopped from making this argument.
+3. Interrogatory No. 13 is Disallowed Under New York Law
+JaneDoe2
+Being
+granted some medical discovery is not unlimited under New York law. See, e.g., Manessis v.
+New York City Dep’t of Transp., No. 02 CIV. 359SASDF, 2002 WL 31115032, at *2 (S.D.N.Y.
+Sept. 24, 2002) (concluding that “ability to pursue discovery regarding [plaintiff’s] medical
+records should be limited in some manner”);Evanko v. Electronic Systems Assoc., Inc., No. 91
+Civ. 2851, 1993 WL 14458 at *2 (S.D.N.Y. Jan. 8, 1993) (applying the New York state
+physician-patient privilege, and holding that where plaintiff claimed that she suffered
+emotional distress, defendants did not have “a license to rummage through all aspects of the
+plaintiff’s life in search of a possible source of stress or distress,”including plaintiff’s medical
+records) (emphasis added); Wachtman v. Trocaire College, 532 N.Y.S.2d 943, 944 (N.Y. App.
+Div. 1988) (holding that the scope of a waiver of the physician-patient privilege in personal
+injury cases is “limited and does not permit discovery of information involving unrelated
+illnesses and treatment”). Even in a personal injury action (as opposed to a defamation action),
+the opposing party does not have carte blancheaccess to all medical records. SeeSgambellone v.
+17
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 24 of 50
+Wheatley, 165 Misc.2d 954, 958, 630 N.Y.S.2d 835, 838 (N.Y. Sup.Ct. 1995) (holding that in a
+personal injury action, plaintiff’s waiver of the physician-patient privilege “is not a wholesale
+waiver of all information about the plaintiff’s entire physical and mental conditions but a
+waiver only of the physical and/or mental condition that is affirmatively placed in
+controversy”).
+4. Interrogatory No. 13 is Overly Burdensome
+Defendant’s request for Ms. Giuffre’s pediatric medical records is also overly
+burdensome. Pursuant to the Federal Rules of Civil Procedure, if requested documents are not
+yielded in a “reasonable inquiry,” Ms. Giuffre is not obligated to expend all of her time and
+resources on a quest to gather medical files from her birth to the present. Defendant wrongly
+suggests that it is only burdensome because her “mental condition was so complex or required so
+much medical attention that it would be unduly burdensome for her to ‘track down’ all her
+medical providers.” This is mere fiction, like much of Defendant’s brief, but even Defendant’s
+fictitious argument cuts against her request: she admits it is burdensome. At any rate, Ms. Giuffre
+made no such claim about the nature of the burden. It is one thing for Defendant to argue the
+law, but it is improper to make up facts. Ms. Giuffre’s claim of burden is based on the fact that it
+is burdensome for anyone to track down pediatric medical records from one’s childhood because
+such records are hard if not impossible to find. Like all children, as a child, Ms. Giuffre was not
+responsible for seeking, arranging, paying for, or managing her health care. She does not
+remember any physicians or their names or any treatments.10 There is no practicable or non-
+burdensome way of obtaining that information. This Court already denied this request for good
+reason.
+10 Ms. Giuffre has provided pediatric records that she was able to collect from the time period
+she was with Defendant an Epstein including an emergency hospital visit when Ms. Giuffre was
+underage that Defendant and Epstein took her to in New York City.
+18
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 25 of 50
+Defendant’s request for pediatric records is also overly-broad because, as this Court
+correctly noted, Ms. Giuffre is not seeking damages based on anything prior to Defendant
+abusing her. Defendant has told the Court that before she was sexually trafficked her as a minor,
+Tellingly, Defendant does not state upon what basis she makes the claim that they are relevant,
+nor does she say what relevance it has on Defendant’s defamation of her in 2015. Of course,
+Defendant has no supporting case law.
+Finally, Ms. Giuffre does not allege that she was trafficked by Defendant in 1999.
+Through discovery, Ms. Giuffre has been able to obtain documents that established that
+Defendant trafficked her starting in the summer 2000. Ms. Giuffre was 16 until August 9 of
+2000, and was 17 thereafter. Defendant seems to think that it is much better, or even excusable to
+traffic a 16 or 17 year old than a 15 year old. Maxwell Dep. Tr. 33:3-4 (April 22, 2016)
+(“Virginia Roberts who your [sic] are referring to was a masseuse aged 17”). See McCawley
+Dec. at Exhibit 4. Of course, like the other young girls they abused, Ms. Giuffre was not a
+massage therapist.11 Despite Defendant’s view that being a older than 15 is fine for massaging
+her convicted pedophile boyfriend, the law makes it illegal to traffic humans at any age;
+particularly when they are children under the age of 18.
+5. The Physician-patient Privilege Applies to Information sought by
+Interrogatory No. 13
+The physician patient privilege most certainly applies to an individual’s pediatric medical
+records. The identity of a physician’s name also gives information regarding the type of medical
+treatment Ms. Giuffre received, particularly if that physician is specialist. Defendant cites no
+case law whatsoever in her argument that no privilege applies to this information.
+11 See McCawley Decl. at Exhibit 5, Recarey Dep. Tr. at 125:16-23 (“Q. Did you ever ascertain
+whether or not FP had any formal training in massage therapy? THE WITNESS: She did not.
+None of the high school girls that I interviewed or anyone under the age of 18 had any formal
+massage training.”)
+19
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 26 of 50
+Defendant says that Ms. Giuffre’s claim of medical damages somehow necessitates
+Defendant having access to Ms. Giuffre’s childhood medical records. This argument is without
+merit. As Defendant knows, as was explained in detail in Ms. Giuffre’s Rule 26 disclosures, Ms.
+Giuffre’s claim of damages relates to the harm she suffered by being publically defamed by
+Defendant, who was also her abuser. Defendant has no case law to back up the claim that Ms.
+Giuffre’s childhood records are necessary for any category of damages; therefore, it should be
+denied.
+F. Interrogatory No. 14
+Defendant asks for a list of all of the people who have subjected Ms. Giuffre to sexual
+abuse prior to 1999. This request is plainly harassing, and covers sexual abuse Ms. Giuffre
+experienced in the years prior to turning 16.
+1. This Discovery sought in Interrogatory No. 14 is Barred by FRE 412
+This discovery is not relevant as this evidence is barred under Federal Rule of Evidence
+412, which applies to civil cases. Defendant’s argument under Federal Rule Evidence 412 is
+completely misplaced. The Rule absolutely applies in this defamation action. Defendant cannot
+show evidence of a child being raped in order to show that her defamatory statements are untrue
+or did not harm Ms. Giuffre’s reputation. Such an argument is unsupported by case law, and
+Defendant cites to none. Defendant defamed Ms. Giuffre when she was thirty-one years old.
+There is no way that Defendant can make a credible argument that someone raping Ms. Giuffre
+when she was 14 somehow affects the truth of Defendant’s 2015 defamatory statements. Nor can
+the rape of a child prove an absence of damage to Ms. Giuffre’s reputation as an adult. Indeed,
+Defendant is wrongfully attempting to publicize the fact that Ms. Giuffre was raped as a 14 year
+old (See Motion for Protection Order DE 335). Neither logic nor case law support this position.
+20
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 27 of 50
+This request is particularly improper as it cannot conceivably lead to admissible
+evidence. While Federal Rule of Civil Procedure 26 controls the limits of discovery, FRE 412
+informs discovery over the boundaries of the proper inquiry into an alleged sexual assault
+victim’s sexual conduct and history. Silva v. Pioneer Janitorial Servs., Inc., No. CIV.A. 10-
+11264-JGD, 2011 WL 4729783, at *1 (D. Mass. Oct. 4, 2011). See also Gibbons v. Food Lion,
+Inc., No. 98–1197–CIV–T–23F, 1999 WL 33226474, at *2 (M.D. Fla. Feb.19, 1999) (stating that
+a majority of courts that have considered whether Fed. R. Evid. 412 is applicable to discovery
+“have found that Rule 412 has significance in the resolution of a discovery dispute”).
+“As explained in the Advisory Committee Notes regarding the 1994 amendments to Rule
+412, ‘[t]he rule aims to safeguard the alleged victim against the invasion of privacy, potential
+embarrassment and sexual stereotyping that is associated with public disclosure of intimate
+sexual details and the infusion of sexual innuendo into the factfinding process.’ Moreover,
+although the Advisory Committee Notes acknowledge that the procedures set forth in the Rule
+for determining the admissibility of evidence relating to an alleged victim’s past sexual conduct
+or predisposition do not apply to discovery, they nevertheless provide as follows:
+In order not to undermine the rationale of Rule 412 ... courts should enter appropriate
+orders pursuant to Fed. R. Civ. P. 26(c) to protect the victim against unwarranted
+inquiries and to ensure confidentiality. Courts should presumptively issue protective
+orders barring discovery unless the party seeking discovery makes a showing that the
+evidence sought to be discovered would be relevant under the facts and theories of the
+particular case, and cannot be obtained except through discovery. In an action for sexual
+harassment, for instance, while some evidence of the alleged victim’s sexual behavior
+and/or predisposition in the workplace may perhaps be relevant, non-workplace conduct
+will usually be irrelevant.”
+Silva, 2011 WL 4729783, at *1. (emphasis added). Accordingly, Ms. Giuffre objects to this
+request based on the Federal Rules of Evidence and prevailing case law applying such Rules.
+2. Interrogatory No. 14 is Propounded for Improper Purposes and
+Harassment
+21
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 28 of 50
+Interrogatory No. 14 seeks information concerning Ms. Giuffre being sexually abused as
+a child. It is worth recalling that this request is being propounded by Defendant, who sexually
+abused Ms. Giuffre as a child. The purpose of this request appears to be nothing other than
+harassment. Defendant is not entitled to a full-scale production of everything that has happened
+to Ms. Giuffre through the entire course of her life time, particularly with regard to events that
+clearly predate Defendant’s meeting and abusing Ms. Giuffre. A victim of sexual abuse should
+not be re-abused by having to disclose to one of her abusers (plus all the abusers who are her
+joint defense partners, including Jeffrey Epstein) details of other childhood sexual abuse.
+This Court’s Protective Order allows convicted pedophile Jeffrey Epstein to see all
+discovery in this case, even that marked confidential. The discovery sought here is not pertinent
+to any issue in the case and would merely serve to feed Defendant Maxwell and Jeffrey Epstein’s
+prurient and continued interest her.
+It has become increasingly clear that Defendant’s counsel is seeking these documents for
+the improper purpose of harassment. Ms. Giuffre was only 14 years old at the time of the sexual
+assault. Yet Defendant’s responses to Ms. Giuffre’s interrogatories shockingly called this child
+victim of sexual abuse a “sexually permissive woman.” (Defendant’s Response to Plaintiff’s
+First Set of Interrogatories). This blame-the-victim strategy is ironic for two reasons. First, Ms.
+Giuffre was a minor child, not a “woman,” when Defendant sexually abused her. Second, it was
+Defendant and Mr. Epstein who trafficked her to other individuals - therefore, it was Defendant
+and Mr. Epstein’s “permission” given to others to use Ms. Giuffre’s sexually. In any event,
+Defendant can have no legitimate purpose for this discovery.
+3. Interrogatory No. 14 Seeks Irrelevant Information
+Furthermore, discovery concerning Ms. Giuffre’s prior sexual assault is not relevant to
+the claim at issue in this case, the defenses at issue, or the damages claimed, and therefore well
+22
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 29 of 50
+outside the scope of discovery permitted by Fed. R. Civ. P. 26. Specifically, Ms. Giuffre’s sexual
+abuse as minor child neither proves nor disproves Defendant and Epstein’s sexual abuse;
+therefore, it is not within the scope of discovery permitted by Fed. R. Civ. P. 26, particularly
+since the December 1, 2015, amendments to the Rule. “Parties may obtain discovery regarding
+any non-privileged matter that is relevant to any party’s claim or defense and proportional to the
+needs of the case, considering the importance of the issues at stake in the action, the amount in
+controversy, the parties’ relative access to relevant information, the parties’ resources, the
+importance of the discovery in resolving the issues, and whether the burden or expense of the
+proposed discovery outweighs its likely benefit.” Fed. R. Civ. P. 26(b)(1). Engaging in discovery
+on such irrelevant, but painful, topics would be extraordinarily embarrassing, oppressive, and
+traumatic for Ms. Giuffre, and it is wholly irrelevant to any party’s claim or defense.
+Accordingly, such discovery is not sought in good faith.
+Additionally, to the extent that it is available to Ms. Giuffre, all of this information is
+already in the possession of Maxwell as she obtained and produced police reports regarding Ms.
+Giuffre, which Ms. Giuffre did not have in her possession. Ms. Giuffre was also questioned for
+seven hours in her May 3, 2016, deposition by Defendant’s attorney.
+4. Sexual Assault Records are Records a Medical Event, and Are Barred by
+This Court’s Order - Discovery Related to Interrogatory No. 14 is
+Inappropriate
+Moreover, this Court has excluded the production of medical records from prior to 1999,
+stating, “the damage issue relates, in my view, solely to the defamation.” (April 21, 2016,
+Hearing Transcript at 20:23-24). This holding applies equally to pre-1999 sexual assault records
+for two reasons. First, sexual assault is not only a crime, but a physical injury, and an injury for
+which medical treatment is often needed and for which a forensic medical exam is often
+23
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 30 of 50
+performed. Accordingly, any documentation of sexual assault is necessarily akin to a medical
+record, and, therefore, precluded under the Court’s April 21, 2016 Order.
+5. Information Sought in Interrogatory No. 14 related to Ms. Giuffre’s
+Sexual Abuse is Protected by Florida Statutes
+Finally, this abuse took place in Florida, and information relating to those events is
+protected from disclosure by law. Florida statutes protect “[a]ny information in a videotaped
+statement of a minor who is alleged to be or who is a victim of sexual battery . . . which reveals
+that minor’s identity.” Fla. Stat. § 119.071. Additionally, Fla. Stat. § 985.036 protects records
+where a juvenile is a victim of a crime. Further, Fla. Stat § 794.026 creates a civil right of action
+against an individual who communicates to others, identifying information concerning the victim
+of a sexual offense. Additionally, Second, Fla. Stat. § 985.04 and Fla. Stat. § 985.054 make
+juvenile law enforcement records confidential from members of the public, and states that
+information obtained by a law enforcement agent participating in the assessment of a juvenile is
+confidential. Finally, certain of the police reports implicate Ms. Giuffre’s involvement with the
+Florida Department of Children and Families, see e.g., GM_00750, and if such reports are part of
+the State’s Department of Children and Families’ records, they are confidential pursuant to Fla.
+Stat. § 39.202(6).
+While Defendant, a sex abuser of minors, says that the Protective Order is all the privacy
+Ms. Giuffre needs regarding being raped as a 14 year old, Federal Rules of Civil Procedure,
+Federal Rules of Evidence, Florida statutes, and case law say otherwise. Indeed, Defendant is
+engaging in double-speak on the Protective Order: her joint defense partner Alan Dershowitz is
+attempting, through his baseless motion to intervene, to challenge the confidential designations
+of various documents in the case, and strip away the Protective Order’s protections. Finally,
+Defendant incorrectly states “[n]one of this illegal or inappropriate sexual contact, conduct or
+24
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 31 of 50
+assault is within the right to privacy.” Defendant cites no case law or statutes to back this up. Of
+course, the opposite is true, as evidenced by the statutes and case law cited above.
+6. Defendant Makes Misrepresentations to the Court regarding Interrogatory
+No. 14
+Defendant wrongly states, in the public record, there is “an abundance of evidence
+suggesting that well before she met Ms. Maxwell, Plaintiff had engaged in illegal sex activities
+or falsely claimed she was the victim of illegal sex activities.” This is a lie. There is evidence that
+Ms. Giuffre was raped as a child and there is evidence that she was abused as a child. There is no
+evidence that Ms. Giuffre did anything illegal sexually and there is no evidence that she “falsely
+claimed” she was raped. It is an old story to discredit the victim of sexual abuse by lying about
+and using that victim’s sexual past. See “Rape and the Culture of the Courtroom,” by Andrew
+Taslitz (1999). Federal Rule of Evidence 412, and all the rape shield laws, were erected to forbid
+this inappropriate tactic. Id. With no self-reflection, Defendant asserts that she is seeking
+documents relating to Ms. Giuffre’s sexual activities as a child “whether she was a willing
+participant.” However, the time-frame on this request was before Ms. Giuffre’ could possibly be
+a “willing participant,” because she was well under the age of consent.
+7. Defendant Has Violated the Court’s Protective Order (DE 62) in Her
+Argument Concerning Interrogatory No. 14
+Defendant’s statements about Ms. Giuffre “falsely claiming” to be a victim constitute a
+misrepresentation to the Court, and it is violation of the Protective Order. Ms. Giuffre has
+designated police reports concerning her rape as a fourteen year old to be confidential under the
+Protective Order. In contravention of that Order and in contravention of Ms. Giuffre’s
+designation, Defendant put that in the public realm by her filing DE 354, which did not redact
+this information. This Court should sanction Defendant for such behavior.
+25
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 32 of 50
+IV. PLAINTIFF’S ANSWERS TO DEFENDANT’S REQUESTS FOR ADMISSIONS
+ARE NOT DEFICIENT AND DEFENDANT’S MOTION SHOULD BE DENIED
+Before rebutting Defendant’s unsupported arguments, she notes for the Court that for 27
+out of 33 answers to Request for Admission Ms. Giuffre served upon Defendant, Defendant
+began her answer with the phrase, “Denied in Part.” Now, Defendant complains that Ms. Giuffre
+used the same phraseology in response to some of Defendant’s Requests for Admission. Such a
+complaint is unfounded.
+A. Requests for Admission Nos. 1-8 and 13
+At the time of filing the Complaint, to the best of her recollection, Ms. Giuffre recollected
+that she met Defendant in the summer 1999 when she was working at Mar-a-Lago, a club in
+Palm Beach, Florida. Based on documents produced pursuant to litigation, Ms. Giuffre has
+learned that, instead, she met Defendant at the Mar-a-Lago club in 2000. During the summer of
+2000, Ms. Giuffre was 16 until August 3, when she turned 17. Accordingly, Ms. Giuffre has
+learned that she did not meet Defendant when she was 15, but, rather, likely at 16. Either way,
+Ms. Giuffre was indisputably a minor when Defendant recruited her to have sex with convicted
+pedophile Jeffrey Epstein, with whom Defendant shared a household. Thereafter, Ms. Giuffre
+flew on Epstein’s private jets with over Defendant 23 times while she was a minor.
+Defendant makes much ado that she recruited a 16 or 17 year old for sex with Epstein
+rather than a 15 year old, and makes much ado over Ms. Giuffre’s mistaken memory. Ms.
+Giuffre did not attend middle school or high school in a linear fashion, nor did she have any
+continuity of residence during those years. Instead, Ms. Giuffre’s middle school and high school
+years were tumultuous. Based on her Palm Beach County, Florida records, it appears that,
+according to those records, for the 1993-1994 school year, when Ms. Giuffre’s was 10, Ms.
+26
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 33 of 50
+Giuffre attended fifth grade in Florida, at the Loxahatchee Elementary School.12 However, for
+the 1994-1995 and the 1995-1996 school years, there are no records.13 Indeed, it appears that for
+the 1996-1997 school years, when she was 13, Ms. Giuffre attended Crestwood Middle School,
+but was only present, at most, 40 days of the 180-day school year.14 For the 1997-1998 school
+years, when Ms. Giuffre was 14, it appears she attended Royal Palm Beach High School, but was
+absent 33 days, failed the grade, and had to repeat it. It is unsurprising that school year had so
+many absences and lack of academic standing: when she was 14 years old, she was raped. In
+both January and February of that school year, she was reported missing by her mother.
+GM_000752-754; GM_00783. Later in February, Ms. Giuffre was the victim of sexual assault.
+GM_00756-758; GM_00759; GM_00766.
+Ms. Giuffre has no records for the following school year. For the 1998-1999 schoolyear,
+records show that when Ms. Giuffre was supposed to be repeating 9th grade, Ms. Giuffre was
+absent at least 25 days. GM_00888. After 9th grade, Ms. Giuffre doesn’t continue school. In, the
+next schoolyear, from 1999-2000, the transcript first reflects that there were no courses taken in
+1999, and starting in June of 2000, the transcripts reflects a “Grade 30” school code. “Grade 30”
+means that Ms. Giuffre was supposed to be on a GED course plan. GM_00888; 00893. After
+that, flight logs show, and Epstein’s pilot testified, that Ms. Giuffre was on 44 flights on
+Epstein’s jet, before she turned 18, flying all over the country and internationally. During this
+time period, according to school records, Ms. Giuffre attended school for, at most, 13 days at
+Royal Palm Beach High School (GM_0888) for 10th grade, then spent, at most, possibly 56 days
+at Survivor’s Charter school (out of a 180 day school year). (GM00888). Ms. Giuffre then was
+12 See McCawley Decl. at Sealed Exhibit 6, School Records, GM_00888.
+13 Id.
+14 Id. GM_00888.
+27
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 34 of 50
+back with Defendant and Epstein, and went on five more flights on Epstein’s plane before finally
+escaping abroad.
+Accordingly, the records and testimony in this case establish that Ms. Giuffre had no
+continuity of education or residence or other markers that normally anchor specific events in
+time for a high schooler. Instead, she attended multiple schools sporadically, she was sexually
+assaulted at 14, she ran away from home multiple times, and then ended up being abused by
+Defendant and Epstein, traveling all around. It is not surprising that Ms. Giuffre had trouble
+identifying specific calendar dates.
+At any rate, in compliance with Rule 36(a)(4), Ms. Giuffre stated which part of the
+statement she denies. She denies statements involve her age. She was not 15, but 16, turning 17
+in August the summer she was trafficked by Defendant and when she met Epstein. She was
+sexually trafficked as a minor child by Defendant and Epstein; she did celebrate one of her
+teenage birthdays with Defendant; Defendant did tell her that she would soon be too old for
+[convicted pedophile] Jeffrey Epstein’s taste; she did work at Mar-a-Lago the summer of 2000
+when she was a minor; she did work for Epstein from 2000-2002. Ms. Giuffre will not deny
+those parts of Defendant’s requests for admission; and she did see recall seeing Al Gore during
+the time she was with Epstein and Defendant.
+B. Requests for Admission Nos. 12
+Ms. Giuffre’s objection to Request for Admission No. 12 is correct pursuant to Rule
+36(a)(5), Fed. R. Civ. P.15 Rule 36(a)(5) states “[t]he grounds for objecting to a request must be
+stated. A party must not object solely on the ground that the request presents a genuine issue for
+trial.” Ms. Giuffre’s objections are compliant with this Rule. Here, Defendant has made up a
+15 Again, in violation of Local Rule 37.1, Defendant omits the case law that Ms. Giuffre put forth
+in support of her objection.
+28
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 35 of 50
+fictitious scenario and asks Ms. Giuffre to admit or deny it. This fictitious scenario is not
+something that Ms. Giuffre has ever alleged. As stated in the objection, Defendant has interposed
+and comingled facts which comprise the foundation of this request for admission. Specifically,
+Ms. Giuffre has never alleged that “she had a conversation with Bill Clinton regarding him flying
+with Ghislaine Maxwell in a helicopter.” Instead, Ms. Giuffre has been quoted by a reporter as
+saying, “I flew to the Caribbean with Jeffrey and then Ghislaine Maxwell went to pick up Bill
+[Clinton] in a huge black helicopter that Jeffrey had bought her.” Sara Nathan, Bill Clinton
+Pictured with Jeffrey Epstein’s Social Fixer, Daily Mail, (12 January 2015).
+As a threshold matter, a court must determine whether the statements set forth in a
+request for admissions satisfy the formal requirements of Rule 36: “(e)ach request for admissions
+must be direct, simple and ‘limited to singular relevant facts,’” United States v. Consolidated
+Edison Co., 1988 WL 138275 (E.D.N.Y. [Dec. 15, 1988] ) (quoting S.E.C. v. Micro–Moisture
+Controls, 21 F.R.D. 164, 166 (S.D.N.Y.1957)), so that “it can be admitted or denied without
+explanation.” [8 C. Wright & A. Miller,] Federal Practice and Procedure, § 2258 [(1970)]. A
+request “should not state ‘half a fact’ or ‘half-truths’ which require the answering party to qualify
+responses.” Havenfield Corp. v. H & R Block, Inc., 67 F.R.D. 93, 96–97 (W.D.Mo.1973); Dubin,
+125 F.R.D. at 375–76. See also Thalheim v. Eberheim, 124 F.R.D. 34, 35 (D.Conn.1988) (court
+must consider phraseology of requests as carefully as that of answers or objections).
+At the end of the day, in making a determination under Rule 35(a)(5), “the Court is
+reminded that the ‘purpose of the rule is to reduce the costs of litigation by eliminating the
+necessity of proving facts that are not in substantial dispute, to narrow the scope of disputed
+issues, and to facilitate the presentation of cases to the trier of fact.’” Spin Master Ltd. v.
+Bureau Veritas Consumer Products Service, Inc., 2016 WL 690819, at *18 (W.D.N.Y., 2016)
+29
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 36 of 50
+(emphasis added), quoting T. Rowe Price Small-Cap Fund, Inc. v. Oppenheimer & Co., Inc., 174
+F.R.D. 38, 43 (S.D.N.Y. 1997). Admitting or denying this statement does not eliminate the
+necessity of proving facts, as this is not a fact in dispute. It does not narrow the scope of disputed
+issues. It does not facilitate the presentation of the case to the trier of fact. Admitting or denying
+this request for admission no more furthers the case than asking Ms. Giuffre, for example, to
+admit or deny that the sky is green. Ms. Giuffre has made neither statement - therefore, it is
+outside the scope of requests for admission.
+Of course, what Defendant is attempting with this request for admission is obvious.
+Defendant has made up a scenario Ms. Giuffre never claimed to have happened in order to
+induce her to deny it, so that Defendant can, later, falsely claim to a jury that Ms. Giuffre lied
+about the scenario. The Court should not countenance this type of blatant gamesmanship.
+Accordingly, Ms. Giuffre had objected to answering this request for admission as it is based on
+“half-truths,” which make it impossible to answer without a qualified response.
+V. PLAINTIFF’S RESPONSES TO DEFENDANT’S OVERLY BROAD REQUESTS
+FOR PRODUCTOIN ARE COMPLIANT WITH HER DISCOVERY
+OBLIGATIONS UNDER THE APPLICABLE RULES AND DFEENDANT’S
+MOTION SHOULD BE DENIED
+A. Request for Production No. 1
+Defendant puts forth no case law in support of her motion to compel Request No. 1.
+Request No. 1 seeks “[a]ll communications and documents identified in Interrogatories 5-14,
+above. Again, in violation of Local Rule 37.1, Defendant fails to tell the Court what those
+interrogatories are. The Court should know that Defendant’s Interrogatories 5-14 are as follows:
+5. Identify each Communication that You or Your Attorneys have had with
+any author, reporter, correspondent, columnist, writer, commentator, investigative
+journalist, photojournalist, newspaper person, freelance reporter, stringer, or any other
+employee of any media organization or independent consultant to the same, including:
+a. the date of any such Communication;
+30
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 37 of 50
+b. the form of any such Communication, whether oral or written and if
+written, the format of any such Communication;
+c. the identities of all persons involved in such Communication, including,
+the identity of the media organization with whom the agent is or was
+affiliated;
+d. the article title, date of publication, and means of publication of any
+article, report, or re-printing of any such Communication made by You or
+Your Attorneys;
+e. the amount of Income that You and/or Your Attorneys received in
+exchange for any such Communication;
+f. the dates on which You and/or Your Attorneys received any such Income
+for any such Communication.
+6. Identify any “false statements” attributed to Ghislaine Maxwell which
+were “published globally, including within the Southern District of New York” as You
+contend in paragraph 9 of Count I of Your Complaint, including:
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the
+purportedly false statement;
+d. the URL or internet address for any internet version of such publication;
+and the nature of the publication, whether in print, internet, broadcast or
+some other form of media.
+7. State whether You believe that You have ever been defamed by anyone
+other than Ghislaine Maxwell. If so, as to each alleged act of Defamation, state
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the
+purportedly false statement;
+d. the URL or internet address for any internet version of such publication;
+and
+e. the nature of the publication, whether in print, internet, broadcast or some
+other form of media.
+8. Identify the individuals referenced in Your pleadings filed in the U.S.
+District Court for the Southern District of Florida, Jane Doe I and Jane Doe 2 v.
+United States of America, 08-cv-80736-KAM, as the “high-profile non-party
+individuals” to whom Mr. Jeffrey Epstein sexually trafficked You, “including
+numerous prominent American politicians, powerful business executives, foreign
+presidents, a well-known Prime Minister, and other world leaders,” including as
+to each episode of alleged sexual trafficking:
+a. the date of any such sexual trafficking;
+b. the location of any such sexual trafficking;
+c. any witnesses to any such sexual trafficking;
+d. any Income You received in exchange for such sexual trafficking; and
+31
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 38 of 50
+e. any Documents You have to support or corroborate Your claim of such
+sexual trafficking.
+9. Identify any Employment You have had from 1996 until the present,
+including without limitation, the name of Your employer or the name of any
+Person who engaged You for such Employment, the address and telephone
+number for any such Employment, the beginning and ending dates of any such
+Employment, Your job title in such Employment, and Your Income from such
+Employment.
+10. Identify any Income from any source other than Your Employment that
+You have received from January 1, 1996 until the present, including the Person or
+entity providing such Income, the amount of the Income, the dates on which any
+such Income was received, and the nature of the Income, whether a loan,
+investment proceeds, legal settlement, asset sale, gift, or other source.
+11. Identify any facts upon which You base Your contention that You have
+suffered as a result of the Alleged Defamation by Ghislaine Maxwell “past and
+future lost wages and past and future loss of earning capacity and actual earnings
+– precise amounts yet to be computed, but not less than $5,000,000.”
+12. Identify any Health Care Provider from whom You received any treatment
+for any physical, mental or emotional condition, that You suffered from
+subsequent to any Alleged Defamation by Ghislaine Maxwell, including:
+a. the Health Care Provider’s name, address, and telephone number;
+b. the type of consultation, examination, or treatment provided;
+c. the dates You received consultation, examination, or treatment;
+d. whether such treatment was on an in-patient or out-patient basis;
+e. the medical expenses to date;
+f. whether health insurance or some other person or organization or entity
+has paid for the medical expenses; and
+g. for each such Health Care Provider, please execute the medical and mental
+health records release attached hereto as Exhibit A.
+13. Identify any Health Care Provider from whom You received any treatment
+for any physical, mental or emotional condition, including addiction to alcohol,
+prescription or illegal drugs, that You suffered from prior to the Alleged
+Defamation by Ghislaine Maxwell, including:
+a. the Health Care Provider’s name, address, and telephone number;
+b. the type of consultation, examination, or treatment provided;
+c. the dates You received consultation, examination, or treatment;
+d. whether such treatment was on an in-patient or out-patient basis;
+e. the medical expenses to date;
+g. whether health insurance or some other person or organization or entity
+has paid for the medical expenses; and
+32
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 39 of 50
+h. For each such Health Care Provider, please execute the medical and
+mental health records release attached hereto as Exhibit A.
+14. Identify any Person who You believe subjected You to, or with whom
+You engaged in, any illegal or inappropriate sexual contact, conduct or assault
+prior to June 1999, including the names of the individuals involved, the dates of
+any such illegal or inappropriate sexual contact, conduct or assault, whether
+Income was received by You or anyone else concerning such event, whether a
+police report was ever filed concerning such event and the outcome of any such
+case, as well as the address and location of any such event.
+Regarding documents related to Interrogatory No. 5, as described above, Ms. Giuffre
+has already produced her communications with the media, and a request for communications
+among her counsel and the media is overly-broad to the point of total impracticality and
+absurdity. Therefore, this request should be denied.
+Regarding documents related to Interrogatory No, 6, Ms. Giuffre has already produced
+documents (or world-wide-web links to documents) in which Defendant has defamed her. Any
+more exhaustive search of the internet for additional documents, is not something contemplated
+by the Local Rules. Additionally, Ms. Giuffre has no documents related to any other defamation
+of Ms. Giuffre Defendant may have caused. Therefore, there is nothing further to “compel,” and
+this request should be denied. Defendant should be producing this responsive material, not Ms.
+Giuffre.
+Regarding documents related to Interrogatory No. 7, Ms. Giuffre does not have
+documents relating to other’s defamation of her. She knows of a few statements made by Alan
+Dershowitz, but causing Ms. Giuffre to go through a time-consuming, burdensome, and, frankly,
+emotionally upsetting, exercise of searching around for whatever else he may have said is
+outside the scope of Rule 26, as discussed above, particularly as Ms. Giuffre has not based any
+part of her claim off of those statements. Accordingly, this request should be denied.
+33
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 40 of 50
+Regarding documents related to Interrogatory No. 8, seeking all documents relating to
+individuals to whom Ms. Giuffre was trafficked, Ms. Giuffre has already produced the
+documents in her possession. She has produced the photo of her when she was 17, taken inside
+Defendant’s apartment, with Prince Andrew’s hand around her bare waist while she was standing
+next to Defendant, and she has produced the deposition transcript wherein she testified about to
+whom she was trafficked, in Edwards v. Cassell, Broward County Case Number CACE 15-
+000072 on January 16, 2016. See GIUFFRE005094- GIUFFRE007566. Ms. Giuffre additionally
+testified regarding the subject matter requested in this interrogatory on in the above-captioned
+case in her deposition on May 3, 2016, and that deposition transcript is also within Defendant’s
+possession. Because Ms. Giuffre has provided an answer to this interrogatory in her deposition,
+which was a more practical method of obtaining the information sought, this interrogatory is
+improper under the Local Rules as well as wholly duplicative.
+Regarding documents related to Interrogatory No. 9, which seeks Ms. Giuffre’s
+employment history, Ms. Giuffre has already answered that, and produced any corresponding
+documents she has and has obtained since the commencement of litigation. Ms. Giuffre dropped
+her claim for lost wages in her Amended Rule 26 disclosures rendering this interrogatory
+irrelevant which seeks over 20 years of employment information. Defendant puts forth no case
+law for the proposition that she is entitled to this discovery. Accordingly, Defendant’s request
+should be denied.
+Regarding documents related to Interrogatory No. 10 requests information concerning
+Ms. Giuffre’s income. Ms. Giuffre has already produced her responsive document, including
+bank statements showing electronic funds transfers. Accordingly, there is nothing to compel
+regarding this Interrogatory, and Defendant’s request should be denied.
+34
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 41 of 50
+Regarding documents related to Interrogatory No. 11, which concerns facts about Ms.
+Giuffre’s lost wages, Ms. Giuffre has withdrawn her lost wage claim, and therefore, this
+interrogatory is no longer relevant.
+Regarding documents related to Interrogatory No. 12, concerns Ms. Giuffre’s health
+care providers subsequent to the defamation. Ms. Giuffre has already produced the documents
+and medical records associated with these providers, as described above. Accordingly, there is
+nothing to compel regarding this Interrogatory, and Defendant’s request should be denied.
+Regarding documents related to Interrogatory No. 13, concerns Ms. Giuffre’s health
+care providers prior to the defamation. Not only has Ms. Giuffre disclosed her health care
+providers from 1999 through the present, but she has retrieved and produced her medical records,
+and executed and sent releases for each and every one of them. Regarding any documents that
+may exist relating to any pre-1999 medical records, Ms. Giuffre incorporates her argument
+regarding the same, above, including the doctor-patient privilege.
+Regarding documents related to Interrogatory No. 14, which concerns sexual assault
+Ms. Giuffre experienced as a young teenager, prior to Defendant’s sexual assault of her while
+still a minor, Ms. Giuffre has no documents beyond the police reports that Defendant produced.
+This request should be denied, anyway, pursuant to the statues and case law set forth above.
+Despite Defendant’s efforts to hide the vast categories of documents that fall within the
+ambit of Interrogatory No. 1 (in contravention of Local Rule 37.1), as the Court can see,
+Interrogatory No. 1 is a sprawling, over-broad, request, that seeks documents that are either (1)
+non-discoverable pursuant to this Court’s April 21, 2016, Order; (2) protected by statutes and
+case law; (3) protected by the doctor-patient privilege; (4) are wholly irrelevant to this action;
+and (5) seek documents that are not within the possession, custody or control of Ms. Giuffre, or
+35
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 42 of 50
+are unduly burdensome. As described in full above, Ms. Giuffre has produced what documents
+she has in response to these requests. This Court should deny Defendant’s motion to compel the
+documents related to this request for all of the foregoing reasons.
+B. Request for Production No. 4
+Defendant puts forth no case law in support of her motion to compel Request for
+Production No. 4. In this request, Defendant deliberately targets attorney-client privileged
+communication by seeking communications between Ms. Giuffre’s attorneys and the nearly 100
+individuals on Ms. Giuffre’s witness list, with no date or subject matter limitations. This is an
+improper request. Certain attorneys for Ms. Giuffre represent other individuals listed on the Rule
+26 Disclosures in separate legal matters, and revelation of such communications would violate
+privileges that do not belong to Ms. Giuffre, but rather belong to other victims of sexual abuse
+who have not waived such privileges.
+In her brief, Defendant urges the Court to overlook the facial overbreadth of her requests
+and, instead, read them “reasonably.” Based on a reasonable reading of this request, Ms. Giuffre
+has produced her counsel’s communications with the attorneys for witnesses on Ms. Giuffre’s
+disclosures that took place subsequent to filing the complaint,16 including communications with
+counsel for Johanna Sjoberg (which is also responsive to Defendant’s Request No. 7, seeking
+those communications specifically). Requiring anything further would be overly burdensome,
+and would violate the attorney-client privilege of third-parties.
+C. Request for Production No. 9
+16 The overwhelming majority of Ms. Giuffre’s counsel’s communications with witnesses’
+counsel were email communications on which Defendant’s counsel were copied. Ms. Giuffre did
+not produce email communications in which Defendant’s counsel were copied, as such an
+exercise is unnecessary. Instead, Ms. Giuffre’s counsel produced communications with
+witnesses’ counsel upon which Defendant’s counsel was not copied.
+36
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 43 of 50
+Defendant’s Request for Production No. 9 is, possibly, the best example of facial
+overbreadth in this entire dispute. Therefore, it is unsurprising that Defendant puts forth no case
+law in support of her motion to compel Request for Production No. 9. In this request, Defendant
+seeks all documents concerning any communications between Ms. Giuffre’s attorneys and “any
+witness” in the case captioned Jane Doe #1 and Jane Doe #2 v. United States, Case no. 08-cv-
+90736-KAM, in the United States District Court for the Southern District of Florida (the Crime
+Victim’s Rights Act case, or “CVRA case”). Some background on the CVRA case is necessary
+to address the overbreadth of this Request.
+In 2008, one of Ms. Giuffre’s attorneys, Bradley J. Edwards (soon joined by co-counsel,
+and former United States District Court Judge, Professor Paul Cassell) filed a pro bono action in
+the Southern District of Florida under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771.
+Filed on behalf of Jane Doe 1 (and later Jane Doe 2) the CVRA action alleged that federal
+government had failed to protect the rights of Jane Doe 1 and other-situated victims of sex
+crimes committed by Jeffrey Epstein, a politically-connected billionaire. See Complaint filed in
+Jane Doe 1 v. United States, No. 9:08-cv-80736, DE 1 (S.D. Fla. July 7, 2008). It will not
+surprise the Court that the victims alleged that, while they were underage girls, Epstein and his
+co-conspirators sexually abused them in his Florida mansion under the guise of obtaining
+“massages.” The victims further alleged that the Government concealed from them a plea
+bargain under which the federal government extended to Epstein a non-prosecution agreement
+(NPA) in exchange for Epstein’s guilty plea to low level state offenses. The CVRA case has
+been litigated for nearly eight years, with litigation continuing to date.
+Jane Does 1 and 2 have achieved many precedent-setting victories in the case, including a
+ruling that the CVRA rights of victims could apply before charges were filed, Does 1 and 2 v.
+37
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 44 of 50
+United States, 817 F. Supp. 2d 1337 (S.D. Fla. 2011); that they had standing to challenge the
+non-prosecution agreement reached between the Government and Epstein, Jane Does 1 and 2 v.
+United States, 950 F. Supp. 2d 1262 (S.D. Fla. 2013); and that Epstein’s plea negotiations were
+not protected from disclosure by any federal rule of evidence, Does v. United States, 749 F.3d
+999 (11th Cir. 2014). Congress has also followed the developments in the case closely, recently
+amending the CVRA to insure that in the future crime victims receive notice of any non-
+prosecution agreement entered into by the Government. See Pub. L. 114-22, Title I, § 113(a),
+(c)(1), May 29, 2015, 129 Stat. 240, 241 (adding 18 U.S.C. § 3771(a)(9) to give victims “[t]he
+right to be informed in a timely manner of any plea bargain or deferred prosecution agreement).
+With regard to communications by Ms. Giuffre’s attorneys, this request seeks clearly
+privileged materials, because Ms. Giuffre’s attorneys represent not only Ms. Giuffre (Jane Doe
+3) in the CVRA matter, but also Jane Doe 1, Jane Doe 2, and Jane Doe 4. Any communications
+between the four Jane Does, via Ms. Giuffre’s attorneys, plainly would be subject to attorney-
+client protection, joint prosecution protection, and work product protection as well.
+With regard to contact with “witnesses,” the request is vague, unduly burdensome, and
+overbroad. The CVRA case centers on issues surrounding whether the U.S. Government failed to
+confer and otherwise protect the rights of victims (including Janes Does 1, 2, 3, and 4) during
+plea negotiations with Jeffrey Epstein. Accordingly, some of the main “witnesses” in the case are
+the Government prosecutors who handled the plea negotiations. Several of the same prosecutors
+who handled the plea negotiations are also involved in defending the CVRA case. The CVRA
+has been in litigation for nearly eight years, and there have extensive communications with the
+prosecutors (including communications concerning approximately 10,000 pages of documents
+that were requested by victims’ counsel and provided to Judge Marra for in camera review). The
+38
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 45 of 50
+request appears designed to target all of these communications, and such communications, going
+back eight years, would necessitate a review of several hundreds of thousands of emails over that
+time to identify communications with the Government prosecutors. The burden would be
+substantial and the relevance would be essentially non-existent. Whatever communications Ms.
+Giuffre’s attorneys would have had with government prosecutors about CVRA notifications
+concerning a prosecution of Epstein would not shed light on whether Defendant Maxwell
+defamed Ms. Giuffre.
+Moreover, many materials related to this case remain under Judge Marra’s protective
+order. Accordingly, before Ms. Giuffre’s counsel could even have the option to release certain
+materials that the Government has provided to him as an attorney in the case, defendant Maxwell
+would have to approach Judge Marra and seek a modification of the protective order.
+The request is also vague because it is not clear precisely what “witnesses” Defendant
+Maxwell is concerned about. There have, for example, been communications between Ms.
+Giuffre’s lawyers and lawyers for Mr. Epstein and Mr. Dershowitz connected with procedural
+and other aspects of this case. Again, the relevance of such communications seems basically non-
+existent to the action. But because the case has spanned eight years, collecting such
+communications would be difficult and overly burdensome. Moreover, Defendant Maxwell has a
+close working relationship and/or joint defense arrangement with both Mr. Epstein and Mr.
+Dershowitz. There is no reason to burden Ms. Giuffre’s attorneys will collecting such
+communications when she can collect them in other ways.
+Defendant fails to make an argument addressing Ms. Giuffre’s overbreadth argument and
+undue burden argument. Defendant also fails to make an argument explaining any relevance of
+39
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 46 of 50
+these documents. And, again, Defendant puts forth no case law in support of her position to
+compel. The Court should deny this request.
+D. Request for Production No. 10
+This request seeks the same documents as Request No. 9 with regard to the Dershowitz
+litigation.17 Defendant sets forth no new or differentiated argument with regard to this request,
+and Defendant puts forth no case law in support of her motion to compel Request for Production
+No. 10. This request has nearly all of the same defects as Request No. 9. For the reasons stated
+above, it should be denied.
+E. Requests for Production No. 11 and No. 12
+With these requests, Defendant seeks “statements” obtained from witnesses in the CVRA
+case and the Dershowitz case, described above. This request directly targets privileged
+documents. In this discussion, Defendant puts forth her one and only example of case law.
+However, Defendant’s District of Ohio case is not applicable. It holds that affidavits are not
+normally protected as work product. Even should this Court adopt this premise, and adopt
+Defendant’s argument, there are not affidavits to produce. Based on the best of their recollection,
+Ms. Giuffre’s counsel do not have any affidavits that are (1) not part of the docket/filings in the
+CVRA case in the Southern District of Florida, or (2) not already produced to Defendant in this
+litigation.
+Even looking for such documents it would require the review of hundreds of thousands of
+documents which would take hours upon hours of attorney time. Again, the CVRA case centers
+17 While the CVRA case was moving forward in the Southern District of Florida on behalf of
+Jane Does 1 and 2, separate litigation developed between the pro bono attorneys who had filed
+the lawsuit (Cassell and Edwards) and Dershowitz. After Cassell and Edwards filed the joinder
+motion in the CVRA case, Dershowitz took the airwaves to attack not only Jane Doe 3’s
+allegations against him, but also Cassell and Edwards’ decision to file the allegations. Cassell
+and Edwards then filed a state law defamation action against Dershowitz in Broward County,
+Florida. Ultimately, Cassell, Edwards, and Dershowitz agreed to settle their defamation case.
+40
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 47 of 50
+on issues surrounding whether the U.S. Government failed to confer and otherwise protect the
+rights of victims (including Janes Does 1, 2, 3, and 4) during plea negotiations with Jeffrey
+Epstein. It has been in litigation for nearly eight years, and there have been extensive
+communications with the prosecutors (including communications concerning approximately
+10,000 pages of documents that were requested by victims’ counsels and provided to Judge
+Marra for in camera review). It is not clear whether the request is designed to request all of these
+communications as “statements,” but if it does capture these communications going back eight
+year, it would involve a review of several hundreds of thousands of emails over that time to
+identify communications with the Government prosecutor. The burden would be substantial and
+the relevance would be essentially non-existent. Whatever statements Ms. Giuffre’s attorneys
+obtained from government prosecutors about CVRA notifications concerning a prosecution of
+Epstein would not shed light on whether Defendant Maxwell defamed Ms. Giuffre. Moreover,
+many materials remain under Judge Marra’s protective order. Accordingly, before Ms. Giuffre’s
+counsel could even have the option to release certain materials that the Government has provided
+to him as an attorney in the case, defendant Maxwell would have to approach Judge Marra and
+seek a modification of the protective order.
+The request is also vague because it is not clear precisely what “statements” Defendant
+Maxwell is concerned about. There have, for example, been communications between Ms.
+Giuffre’s lawyers and lawyers for Mr. Epstein and Mr. Dershowitz connected with procedural
+and other aspects of this case. Again, the relevance of such communications seems basically non-
+existent to the action. But because the case has spanned eight years, collecting such
+communications would be difficult.
+41
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 48 of 50
+Finally, if Defendant is now seeking sworn affidavits, there is no practicable way to
+search for those things. As stated above, upon counsel’s best memory, any affidavits are part of
+the CVRA case docket or already produced in this litigation. If there happen to be others, to
+search for them, through 8 years of litigation, would certainly be a Herculean task, and not one
+that would necessarily yield any responsive documents. Defendant’s requests are poorly drafted.
+Defendant’s arguments are unavailing. And, Defendant’s sole case does not go to this request
+regarding “statements.” Even an attempt at compliance would be grossly overly burdensome.
+The Court should deny Defendant’s motion to compel with regard to these requests.
+VI. CONCLUSION
+Defendant’s brief is bereft of case law, lacking the authority upon which this Court can
+grant her overly-broad requests, many of which have already been fully satisfied. Similarly,
+Defendant’s motion for sanctions is completely baseless, and should be denied. For the foregoing
+reasons, Ms. Giuffre respectfully requests Defendant’s Motion to Compel and for Sanctions be
+denied in its entirety.
+DATED: August 17, 2016.
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Meredith Schultz
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+42
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 49 of 50
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-520218
+18 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+43
+Case 1:15-cv-07433-LAP Document 1328-18 Filed 01/05/24 Page 50 of 50
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on August 17, 2016, I electronically filed the foregoing
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+document is being served to all parties of record via transmission of the Electronic Court Filing
+System generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith Schultz
+Meredith Schultz
+44

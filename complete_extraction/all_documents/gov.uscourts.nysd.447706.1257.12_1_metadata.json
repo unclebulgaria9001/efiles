@@ -1,0 +1,109 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1257.12_1",
+  "filename": "gov.uscourts.nysd.447706.1257.12_1.pdf",
+  "extraction_date": "2025-11-17T10:17:08.842400",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 225051,
+  "images_extracted": 0,
+  "dates_found": 235,
+  "people_found": 96,
+  "locations_found": 7,
+  "linked_emails": [
+    {
+      "email_file": "0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0006"
+    },
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    },
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt",
+      "email_id": "0072"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "05/03/22",
+      "position": 46
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 125
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 801
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 1846
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 2669
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 3843
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 4770
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 5708
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 6772
+    },
+    {
+      "date_string": "05/03/22",
+      "position": 7680
+    }
+  ],
+  "people": [
+    "South Dadeland Boulevard",
+    "Court Reporter\nNotary",
+    "Exhibit Number",
+    "Eva Dubin",
+    "The Dubins",
+    "Wall Street",
+    "Glen Dubin",
+    "Eva Anderson",
+    "Anderson Dubin",
+    "About Dershowitz",
+    "Possibly April",
+    "Floor\nMiami",
+    "Little Saint Jeff",
+    "Roadside Grill",
+    "Federal Bureau",
+    "Has Brad Edwards",
+    "Maria Vilafana",
+    "Has Professor Cassell",
+    "Reported By",
+    "Thailand Western Union"
+  ],
+  "locations": [
+    "New York",
+    "New Mexico",
+    "Florida",
+    "Virgin Islands",
+    "Little Saint James",
+    "France",
+    "Palm Beach"
+  ],
+  "images": []
+}

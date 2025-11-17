@@ -1,0 +1,1212 @@
+# Document: gov.uscourts.nysd.447706.1328.5_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document
+# Images Extracted: 0
+# Dates Found: 109
+# People Found: 170
+# Locations Found: 3
+# Linked Emails: 15
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 1 of 45
+EXHIBIT B
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 2 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSES AND OBJECTIONS TO DEFENDANT’S SECOND
+REQUEST FOR PRODUCTION AND DEFENDANT’S INTERROGATORIES,
+PLAINTIFF’S ANSWERS TO DEFENDANT’S REQUESTS FOR ADMISSION
+Pursuant to Federal Rules of Civil Procedure 26, 33, 34, Plaintiff hereby serves her
+responses and objections to Defendant’s Second Set of Discovery Requests and serves her
+Answers to Defendant’s Requests for Admission.
+GENERAL OBJECTIONS
+Defendant’s Discovery Requests violate Rule 33, Fed. R. Civ. P., which provides “a party
+may serve on any other party no more than 25 interrogatories, including all discrete subparts” –
+in that Defendant has served a total of 59 interrogatories in this case, including subparts, in
+violation of Rule 33.
+Ms. Giuffre objects to Defendant’s Second Set of Discovery Requests to the extent they
+seek information that is protected by any applicable privilege, including but not limited to,
+attorney client privilege, work product privilege, joint defense privilege, public interest privilege,
+and any other applicable privilege.
+1
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 3 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre objects to the requests to the extent Defendant’s Second Set of Discovery
+Requests call for the production of documents or information that is already in the possession,
+custody, or control of the Defendant. Ms. Giuffre further objects to the requests to the extent that
+Defendant’s Second Set of Discovery Requests are duplicative of documents and information
+that can equally or more readily be obtained by the Defendant.
+Ms. Giuffre objects to the requests to the extent that they seek documents that are not
+relevant, material, or necessary to this action and, thus, are not reasonably calculated to lead to
+the discovery of admissible evidence. Ms. Giuffre further objects because Defendant’s Second
+Set of Requests for Production seeks documents that are in no way limited to their relation to this
+case. Indeed, they seek documents that are not important to resolving the issues; documents that
+are not relevant to any party’s claim or defense; and documents that are not proportional to the
+needs of the case. Such requests would create a heavy burden on Ms. Giuffre that outweighs any
+benefit. Such discovery is prohibited by the Federal Rules of Civil Procedure, particularly under
+the 2015 amendments to Rule 26(b)(1), Fed. R. Civ. P., and is wholly inappropriate.
+Ms. Giuffre objects to the requests to the extent that they are overly broad and unduly
+burdensome, as individually logging all privileged responsive documents would be overly
+burdensome. Plaintiff contends that requests targeting such privileged information are overly
+broad under Rule 26(b)(1), Fed. R. Civ. P. Specifically, Ms. Giuffre objects to the requests as
+overly burdensome to the extent that they would require logging voluminous and ever-increasing
+privileged communications between Ms. Giuffre and her counsel after the date litigation
+commenced on September 21, 2015. Ms. Giuffre additionally objects to the requests as overly
+burdensome to the extent that they would require logging voluminous privileged documents
+between Ms. Giuffre and her counsel related to Jane Doe #1 and Jane Doe #2 v. United States,
+2
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 4 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Case no. 08-80736 CIV-Marra, pending in the Southern District of Florida; Bradley Edwards
+and Paul Cassell v. Alan Dershowitz, Case no. CACE 15-000072, from the Seventeenth Judicial
+Circuit, Broward County, Florida; and Jane Doe No. 102 v. Jeffrey Epstein, Case No. 09-80656-
+CIV-Marra/Johnson (Southern District of Florida). Accordingly, due to the undue burden of
+individually logging responsive privileged documents related to Defendant’s overly broad
+requests, Plaintiff has employed categorical logging of such privileged responsive documents
+pursuant to Local Civil Rule 26.2(c).
+Ms. Giuffre objects to the requests in that they seek to invade her privacy for the sole
+purpose of harassing and intimidating Ms. Giuffre who was a minor victim of sexual trafficking.
+Ms. Giuffre objects to the requests to the extent they are overly broad and unduly
+burdensome.
+Ms. Giuffre’s responses to Defendant’s Second Set of Discovery Requests as being made
+after reasonable inquiry into the relevant facts, and are based only upon the information and
+documentation that is presently known to her. Ms. Giuffre reserves the right to modify and/or
+supplement her responses. Ms. Giuffre has produced documents and information in response to
+these Requests.
+Ms. Giuffre incorporates her above-listed general objections in the responses herein.
+INTERROGATORIES
+5. Identify each Communication that You or Your Attorneys have had with any
+author, reporter, correspondent, columnist, writer, commentator, investigative journalist,
+photojournalist, newspaper person, freelance reporter, stringer, or any other employee of any
+media organization or independent consultant to the same, including:
+a. the date of any such Communication;
+3
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 5 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+b. the form of any such Communication, whether oral or written and if written, the
+format of any such Communication;
+c. the identities of all persons involved in such Communication, including, the identity
+of the media organization with whom the agent is or was affiliated;
+d. the article title, date of publication, and means of publication of any article, report, or
+re-printing of any such Communication made by You or Your Attorneys;
+e. the amount of Income that You and/or Your Attorneys received in exchange for any
+such Communication;
+f. the dates on which You and/or Your Attorneys received any such Income for any
+such Communication.
+Response to Interrogatory No. 5:
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as its subparts, in
+combination with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms.
+Giuffre objects in that it seeks information protected by the attorney-client privilege, work
+product protections, and any other applicable privilege or protection as stated in the General
+Objections.
+Ms. Giuffre further objects to this interrogatory on the grounds that it is overly broad and
+unduly burdensome as it is not limited in time, manner, or subject matter. The request is grossly
+over broad in that it does not require the communication to have any connection with Ms.
+Giuffre or this case whatsoever. Indeed, a response to this interrogatory would require each of
+Ms. Giuffre’s attorneys to research and find any communication they have ever had with a
+journalist, for every year of their practice, regardless of what case was involved, and regardless
+of what year the communication was made. Ms. Giuffre’s attorney’s, collectively, have worked
+4
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 6 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+on hundreds (if not thousands) of matters, and collectively have well over 100 years of combined
+practice experience. Accordingly, a request that each of these attorneys list all communications
+with the media is facially overbroad.
+Additionally, Ms. Giuffre objects to this Interrogatory because a response would cause
+Ms. Giuffre the incredible and undue burden of having to catalogue literally hundreds of
+communications that she has already produced in this case.
+Moreover, Ms. Giuffre objects because this interrogatory calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence. Communications with the media regarding cases that bear no relation to
+the subject matter of this case, from decades in the past, are facially invalid and not calculated to
+lead to the discovery of admissible evidence.
+Ms. Giuffre additionally objects to the extent that this interrogatory seeks the
+communications of her attorneys, any author, reporter, correspondent, columnist, writer,
+commentator, investigative journalist, photojournalist, newspaper person, freelance reporter,
+stringer, or any other employee of any media organization or independent consultant as such
+interrogatory is overly broad and unduly burdensome. Furthermore, Ms. Giuffre is not obligated
+to produce anything currently in the possession of Defendant Maxwell or her attorneys.
+Notwithstanding such objections, Ms. Giuffre has already produced her responsive
+communications, which are found in documents Bates labelled GIUFFRE000001 to
+GIUFFRE007566.
+6. Identify any “false statements” attributed to Ghislaine Maxwell which were
+“published globally, including within the Southern District of New York” as You contend in
+paragraph 9 of Count I of Your Complaint, including:
+5
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 7 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the purportedly false
+statement;
+d. the URL or internet address for any internet version of such publication; and the
+nature of the publication, whether in print, internet, broadcast or some other form of
+media.
+Response to Interrogatory No. 6:
+Ms. Giuffre objects because the information interrogatory above is in the possession of
+Defendant who has failed to comply with her production obligations in this matter, and has failed
+to comply with her production obligations with this very subject matter. See Document Request
+No. 17 from Ms. Giuffre’s Second Request for Production of Documents to Defendant Ghislaine
+Maxwell.1 Maxwell has not produced all “URL or Internet addresses for any internet version of
+such publication” that she directed her agent, Ross Gow, to send.
+1 Request No. 17 stated: Produce all documents concerning any statement made by You or on
+Your behalf to the press or any other group or individual, including draft statements, concerning
+Ms. Giuffre, by You, Ross Gow, or any other individual, from 2005 to the present, including the
+dates of any publications, and if published online, the Uniform Resource Identifier (URL)
+address. In response, Defendant stated: “Ms. Maxwell objects to this Request on the grounds that
+it is cumulative and duplicative. Ms. Maxwell also objects to this Request to the extent it calls
+for information that exists within the public domain, the internet or in public court records and
+which are equally available to both parties and can be obtained from some other source that is
+more convenient, less burdensome, and less expensive. Ms. Maxwell further objects to this
+Request to the extent it seeks documents or information protected by the attorney/client
+privilege, the work-product doctrine, or any other applicable privilege. Ms. Maxwell is not
+producing documents that are available in the public domain. Ms. Maxwell has been unable to
+locate any additional documents responsive to this Request.”
+6
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 8 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre further objects because the information requested above is in the possession
+of Defendant’s agent, who caused the false statements to be issued to various media outlets. Ms.
+Giuffre has not had the opportunity to depose Maxwell’s agent Ross Gow; therefore, this answer
+remains incomplete. Consequently, Ms. Giuffre reserves the right to modify and/or supplement
+her responses, as information is largely in the possession of the Defendant and her agent.
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as its subparts, in
+combination with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms.
+Giuffre objects to this request because it is in the public domain. Ms. Giuffre also objects in that
+it seeks information protected by the attorney-client/work product privilege, and any other
+applicable privilege stated in the General Objections.
+Notwithstanding such objections, Ms. Giuffre has already produced documents
+responsive to this request; Bates labelled GIUFFRE000001 to GIUFFRE007566, and
+supplements such responsive documents with the following list of publications. While the
+identification of an exhaustive responsive list would be unduly burdensome, in an effort to make
+a good faith effort towards compliance, Ms. Giuffre provides the following examples, which are
+incomplete based on the aforementioned reasons:
+Date Nature Publishi Statement/URL
+ng
+Entity
+Januar Internet Ross Jane Doe 3 is Virginia Roberts - so not a new individual. The allegations made by
+Gow Victoria Roberts against Ghislaine Maxwell are untrue. The original allegations are
+y 2, not new and have been fully responded to and shown to be untrue.
+2015 Each time the story is re told it changes with new salacious details about public
+figures and world leaders and now it is alleged by Ms. Roberts that Alan
+Dershowitz is involved in having sexual relations with her, which he denies.
+Ms. Roberts’s claims are obvious lies and should be treated as such and not
+publicized as news, as they are defamatory.
+Ghislaine Maxwell's original response to the lies and defamatory claims remains the
+same. Maxwell strongly denies allegations of an unsavoury nature, which have
+appeared in the British press and elsewhere and reserves her right to seek redress at
+7
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 9 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+the repetition of such old defamatory claims.
+Januar Internet Telegrap http://www.telegraph.co.uk/news/uknews/theroyalfamily/11323872/Prince-
+h Andrew-denies-having-relations-with-sex-slave-girl.html
+y 3,
+2015
+Januar Internet Express http://www.express.co.uk/news/world/550085/Ghislaine-Maxwell-Jeffrey-Epstein-
+not-madam-paedophile-Florida-court-case-Prince-Andrew
+y 4,
+2015
+Januar Internet Daily http://www.dailymail.co.uk/news/article-2895366/Prince-Andrew-lobbied-
+Mail government-easy-Jeffrey-Epstein-Palace-denies-claims-royal-tried-use-influence-
+y 3, help-billionaire-paedophile-2008-police-probe.html
+2015
+Januar Internet Huffingt http://www.huffingtonpost.co.uk/2015/01/03/duke-of-york-sex-abuse-
+on Post claims_n_6409508.html
+y 3,
+2015
+Januar Internet Jewish http://www.jewishnews.co.uk/dershowitz-nothing-prince-andrews-sex-scandal/
+News
+y 4, Online
+2015
+Januar Internet Bolton http://www.theboltonnews.co.uk/news/national/11700192.Palace_denies_Andrew_s
+News ex_case_claim/
+y 2,
+2015
+Januar Internet NY http://www.nydailynews.com/news/world/alleged-madame-accused-supplying-
+Daily prince-andrew-article-1.2065505
+y 5, / News
+2015 Broadca
+st
+Januar Internet AOL UK http://www.aol.co.uk/video/ghislaine-maxwell-declines-to-comment-on-prince-
+andrew-allegations-518587500/
+y 5, /
+2015 Broadca
+st
+8
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 10 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+7. State whether You believe that You have ever been defamed by anyone other than
+Ghislaine Maxwell. If so, as to each alleged act of Defamation, state
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the purportedly false
+statement;
+d. the URL or internet address for any internet version of such publication; and
+e. the nature of the publication, whether in print, internet, broadcast or some other form
+of media.
+Response to Interrogatory No. 7:
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as its subparts, in
+combination with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms.
+Giuffre also objects in that it seeks information protected by the attorney-client/work product
+privilege, and any other applicable privilege stated in the General Objections.
+Without waiving the aforementioned objections, Alan Dershowitz published statements
+about Ms. Giuffre in January 2015 and thereafter that remain in the public realm. Ms. Giuffre
+does not have knowledge as to every time and place that she was defamed by Dershowitz, and
+she is not required to provide such an exhaustive list as all relevant instances of defamation are
+available through public sources, and identification of the numerous publically made statements
+would be unduly burdensome. Furthermore, upon information and belief, all defamatory
+statements made towards Ms. Giuffre by Dershowitz are within the knowledge and possession of
+Maxwell and her attorneys or can be easily obtained by contacting Dershowitz.
+9
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 11 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+8. Identify the individuals referenced in Your pleadings filed in the U.S. District
+Court for the Southern District of Florida, Jane Doe I and Jane Doe 2 v. United States of
+America, 08-cv-80736-KAM, as the “high-profile non-party individuals” to whom Mr. Jeffrey
+Epstein sexually trafficked You, “including numerous prominent American politicians, powerful
+business executives, foreign presidents, a well-known Prime Minister, and other world leaders,”
+including as to each episode of alleged sexual trafficking:
+a. the date of any such sexual trafficking;
+b. the location of any such sexual trafficking;
+c. any witnesses to any such sexual trafficking;
+d. any Income You received in exchange for such sexual trafficking; and
+e. any Documents You have to support or corroborate Your claim of such sexual
+trafficking.
+Response to Interrogatory No. 8:
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as its subparts, in
+combination with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms.
+Giuffre also objects in that it seeks information protected by the attorney-client/work product
+privilege, and any other applicable privilege stated in the General Objections.
+Ms. Giuffre refers to the list of witnesses identified in her Revised Rule 26 Disclosures.
+Also, notwithstanding previously-noted objections, Ms. Giuffre testified in Edwards v. Cassell,
+Broward County Case Number CACE 15-000072 on January 16, 2016, regarding the subject
+matter requested. See GIUFFRE005094- GIUFFRE007566. Ms. Giuffre additionally testified
+regarding the subject matter requested in this interrogatory on in the above-captioned case in her
+deposition on May 3, 2016. Additionally, Ms. Giuffre was trafficked to other individuals whose
+name she never learned or whose names she does not remember. Identification of any other
+10
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 12 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+individuals would be irrelevant and unduly burdensome. Moreover, as specifically provided in
+Rule 33.3(b), “[d]uring discovery, interrogatories other than those seeking information described
+in paragraph (a) [] may only be served (1) if they are a more practical method of obtaining the
+information sought than a request for production or a deposition or (2) if ordered by the Court.”
+Because Ms. Giuffre has provided an answer to this interrogatory in her deposition, which was a
+more practical method of obtaining the information sought, this interrogatory is improper under
+the Local Rules as well as wholly duplicative.
+11. Identify any facts upon which You base Your contention that You have suffered
+as a result of the Alleged Defamation by Ghislaine Maxwell “past and future lost wages and past
+and future loss of earning capacity and actual earnings – precise amounts yet to be computed, but
+not less than $5,000,000.”
+Response to Interrogatory No. 11:
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as it, in combination
+with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms. Giuffre also
+objects in that it seeks information protected by the attorney-client/work product privilege, and
+any other applicable privilege stated in the General Objections.
+Ms. Giuffre incorporates by reference herein her Revised Rule 26 disclosures. Notably,
+Ms. Giuffre’s Rule 26 disclosures have been revised to reflect that she is not seeking a specific
+monetary damage in the form of a specific lost wage claim.
+13. Identify any Health Care Provider from whom You received any treatment for any
+physical, mental or emotional condition, including addiction to alcohol, prescription or illegal
+drugs, that You suffered from prior to the Alleged Defamation by Ghislaine Maxwell, including:
+a. the Health Care Provider’s name, address, and telephone number;
+11
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 13 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+b. the type of consultation, examination, or treatment provided;
+c. the dates You received consultation, examination, or treatment;
+d. whether such treatment was on an in-patient or out-patient basis;
+e. the medical expenses to date;
+g. whether health insurance or some other person or organization or entity has paid for
+the medical expenses; and
+h. For each such Health Care Provider, please execute the medical and mental health
+records release attached hereto as Exhibit A.
+Response to Interrogatory No. 13:
+Ms. Giuffre objects to this interrogatory because it violates this Court’s Order. The Court
+has excluded the production of medical records from prior to 1999, stating, “the damage issue
+relates, in my view, solely to the defamation.” (April 21, 2016, Hearing Transcript at 20:23-24).
+This holding applies to pre-1999 medical records. As this interrogatory is not limited to the time
+period ordered by this Court, Ms. Giuffre objects.
+Ms. Giuffre objects to this interrogatory in that it is overbroad and not limited in scope to
+the medical information relating to the abuse she suffered from Defendant and Jeffrey Epstein.
+Ms. Giuffre objects because Rule 26 does not allow discovery that is so burdensome as to
+require a Herculean effort by an adult to track down every possible prescription ever written for
+Ms. Giuffre, or every physician who ever treated Ms. Giuffre, even as a small child. Such a
+request is not only impractical and unduly burdensome, but likely impossible. Accordingly, such
+an interrogatory is merely for the purpose of imposing a burden on Ms. Giuffre and her
+attorneys, not to mention the purposes of harassment.
+12
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 14 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Pursuant to the Rules, if requested documents are not yielded in a “reasonable inquiry,”
+Ms. Giuffre is not obligated to expend all of her time and resources on a quest to gather medical
+files from her birth to the present to find any prescriptions ever written for her for anything at all.
+See, e.g., Manessis v. New York City Dep't of Transp., No. 02 CIV. 359SASDF, 2002 WL
+31115032, at *2 (S.D.N.Y. Sept. 24, 2002) (concluding that “ability to pursue discovery
+regarding [plaintiff’s] medical records should be limited in some manner”); Evanko v. Electronic
+Systems Assoc., Inc., No. 91 Civ. 2851, 1993 WL 14458 at *2 (S.D.N.Y. Jan. 8, 1993) (applying
+the New York state physician-patient privilege, and holding that where plaintiff claimed that she
+suffered emotional distress, defendants did not have “a license to rummage through all aspects of
+the plaintiff's life in search of a possible source of stress or distress,” including plaintiff’s
+medical records); Wachtman v. Trocaire College, 532 N.Y.S.2d 943, 944 (N.Y. App. Div. 1988)
+(holding that the scope of a waiver of the physician-patient privilege in personal injury cases is
+“limited and does not permit discovery of information involving unrelated illnesses and
+treatment”); Sgambellone v. Wheatley, 165 Misc.2d 954, 958, 630 N.Y.S.2d 835, 838 (N.Y.
+Sup.Ct. 1995) (holding that in a personal injury action, plaintiff's waiver of the physician-patient
+privilege “is not a wholesale waiver of all information about the plaintiff’s entire physical and
+mental conditions but a waiver only of the physical and/or mental condition that is affirmatively
+placed in controversy”) (emphasis in original).
+Finally, Ms. Giuffre objects in that it seeks information protected by the doctor-patient
+privilege, and any other applicable privilege stated in the General Objections. Ms. Giuffre
+further objects to this interrogatory in that it violates Rule 33 as its subparts, in combination with
+the other interrogatories, exceed the allowable twenty-five interrogatories. Ms. Giuffre further
+13
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 15 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+objects to this request in that it is overbroad and seeks confidential medical information of a sex
+abuse victim and is not limited in scope to the issues in this case.
+Without waiving such objections, Ms. Giuffre has already produced her responsive
+documents Bates labelled GIUFFRE000001 to GIUFFRE007566, and supplements such
+documents as follows:
+MEDICAL HEALTHCARE ACTION
+RELATED GIUFFRE PRODUCTION
+PROVIDER PROVIDED TAKEN
+Giuffre005342-005346 St.
+-
+Thomas More Hospital Records (Dr.
+3/8/16
+Olsen)
+Dr. Olsen JaneDoe2 Letter
+Giuffre005492-005496 St.
+Request
+Thomas More Hospital Records (Dr.
+Olsen)
+Giuffre005498 Centura Health
+5/23/16
+Centura JaneDoe2 Release Form (All Medical Records)
+Letter
+Health Giuffre005501-005569 Responsive
+Request
+Records (Centura Health)
+3/8/16
+Ltr
+Giuffre and counsel contacted
+Dr. Carol Request
+JaneDoe2 physician’s office via telephone and
+Hayek 4/28/16
+email to follow up.
+Ltr
+Request
+4/5/16
+Dr. Chris
+JaneDoe2 Ltr Giuffre 006631-006635 (Dr. Donahue)
+Donahue
+Request
+JaneDoe2
+Giuffre005315 005322
+Dr. John 4/5/16
+The Entrance Medical Centre
+Harris/Dr. Ltr
+(Dr. John Harris and Dr. Darshanee
+Majliyana Request
+Mahaliyana)
+.
+4/5/16 Giuffre005339 005341
+Dr. Wah
+JaneDoe2 Ltr Central Coast Family Medicine
+Wah
+Request (Dr. Wah Wah)
+JaneDoe2 4/5/16 Giuffre005089 005091
+Dr. Sellathuri
+Ltr (“Dr. M. Sella”)
+14
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 16 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+MEDICAL HEALTHCARE ACTION
+RELATED GIUFFRE PRODUCTION
+PROVIDER PROVIDED TAKEN
+Request
+Royal Oaks 4/5/16 Giuffre005347 005349
+Medical JaneDoe2 Ltr Royal Oaks Medical Center’s
+Center Request Response (No Records)
+NY JaneDoe2
+Giuffre003258 003290 New
+Presbyterian Produced
+York Presbyterian Hospital
+Hospital
+Giuffre003193 003241
+Campbelltow JaneDoe2 Camselltown Hospital/Camden
+n Hospital/ Hospital (Dr. Elbeaini)
+Produced
+Sydney West Giuffre003242 003257
+Hospital Macarthur Health Service (Dr.
+Elbeaini)
+-
+Sydney West
+Hospital / JaneDoe2 Giuffre 003291-003298 Sydney
+Produced
+Westmead West/Westmead Hospital
+Hospital
+Release
+Provided
+Dr. Karen to 04/29/16 Sent via e-mail signed release
+Kutikoff Defendan to Menninger (obtain records directly).
+t’s
+Counsel
+Release
+Provided
+Wellington
+to 04/29/16 Sent via e-mail signed release
+Imaging
+Defendan to Menninger (obtain records directly).
+Associates
+t’s
+Counsel
+Release
+Provided
+Growing to 04/29/16 Sent via e-mail signed release
+Together Defendan to Menninger (obtain records directly).
+t’s
+Counsel
+Giuffre 005431-005438 Medical
+5/4/16 Release Form with documents (Ms.
+Ms. Judith
+JaneDoe2 Ltr Lightfoot)
+Lightfoot
+Request Giuffre006636 Correspondence stating
+no further records available.
+Dr. Mona JaneDoe2 3/28/16 Evidence of efforts to obtain records
+Devanesan Ltr and of Dr. Devanesan’s retirement were
+15
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 17 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+MEDICAL HEALTHCARE ACTION
+RELATED GIUFFRE PRODUCTION
+PROVIDER PROVIDED TAKEN
+Request produced as GIUFFRE005335-5338.
+Dr. Scott ER Giuffre 005498-005569 Centura Health
+JaneDoe2
+Robert Treating Medical Release Form
+Geiger Physician (Requested Entire Medical Record)
+ER Giuffre 005498-005569 Centura Health
+Dr. Joseph JaneDoe2
+Treating Medical Release Form
+Heaney
+Physician (Requested Entire Medical Record)
+ER
+Treating Giuffre 005498-005569 Centura Health
+Donna JaneDoe2
+Physician Medical Release Form
+Oliver, PA
+Referral (Requested Entire Medical Record)
+ENT
+ER Giuffre 005498-005569 Centura Health
+Dr. Michele JaneDoe2
+Treating Medical Release Form
+Streeter
+Physician (Requested Entire Medical Record)
+The records in the chart above bear the date of treatment, the type of treatment, and
+indicate whether the treatment was inpatient or outpatient. Ms. Giuffre is not certain as to her the
+sum of her medical expenses from 1999 to the present, and therefore is unable to answer that
+subpart. Ms. Giuffre is not aware of what health insurance carrier or other organization paid for
+her historical medical expenses unless it is identified on the records produced to the Defendant.
+Subpart (h) is an inappropriate interrogatory; however, for each provider listed above, Ms.
+Giuffre already submitted medical releases for all records related to Ms. Giuffre.
+14. Identify any Person who You believe subjected You to, or with whom You
+engaged in, any illegal or inappropriate sexual contact, conduct or assault prior to June 1999,
+including the names of the individuals involved, the dates of any such illegal or inappropriate
+sexual contact, conduct or assault, whether Income was received by You or anyone else
+concerning such event, whether a police report was ever filed concerning such event and the
+outcome of any such case, as well as the address and location of any such event.
+16
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 18 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Response to Interrogatory No. 14:
+Ms. Giuffre objects to this request in that it is overbroad and invades Ms. Giuffre right to
+privacy (including her constitutionally-protected right of privacy) by seeking confidential
+information relating to the sexual abuse of a minor sex abuse victim. Ms. Giuffre objects to this
+request in that it seeks sexual assault information for a period prior to the sexual abuse at issue in
+this matter, and for a period when she was a minor child. The Court has excluded the production
+of medical records from prior to 1999, stating, “the damage issue relates, in my view, solely to
+the defamation.” (April 21, 2016, Hearing Transcript at 20:23-24). This holding applies equally
+to pre-1999 sexual assault for two reasons. First, sexual assault is not only a crime, but a physical
+injury, and an injury for which medical treatment is needed and for which a forensic medical
+exam is often performed. Accordingly, any documentation of sexual assault is necessarily akin to
+a medical record, and therefore precluded under the Court’s April 21, 2016 Order. Furthermore,
+this Court’s holding likely expands specifically to sexual abuse and assault prior to 1999,
+because the holding was in response to the following argument from Ms. Menninger: “She has
+also alleged, for example, that many, several, three, I think, at last count, or four individuals had
+sexually abused her prior to ever meeting Mr. Epstein.” (April 21, 2016, Hearing Transcript at
+11:24-12:2).
+Additionally, it has become increasingly clear that Defendant’s counsel is seeking these
+documents for the improper purpose of harassment as part of Defendant’s counsel’s campaign to
+blame the victim and make Ms. Giuffre (who was 15 years old or younger at the time of the
+requested documents). Maxwell’s counsel has used offensive language in this proceeding at
+every turn. First, Ms. Menninger called Ms. Giuffre a “professional victim” in open court.
+(January 14, 2016 Hearing Transcript at 5:9). Then, Mr. Pagliuca stated that Ms. Giuffre “cried
+17
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 19 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+rape” in reference to police reports describing incidents that took place when Ms. Giuffre was
+fourteen years old. (March 21, 2016, meet and confer call). Then, Defendant’s responses to Ms.
+Giuffre’s interrogatories shockingly called this victim of sexual abuse a “sexually permissive
+woman.” (Defendant’s Response to Plaintiff’s First Set of Interrogatories). This last blame-the-
+victim contention is strange and ironic for two reasons. First, Ms. Giuffre was a minor child, not
+a “woman,” when Defendant sexually abused her. Second, it was Defendant and Mr. Epstein
+who trafficked her to other individuals - therefore, it was Defendant and Mr. Epstein’s
+“permission” given to others to use Ms. Giuffre’s sexually. Such language from Defendant and
+her counsel is wholly inappropriate.
+Ms. Giuffre also objects to this request because such events would have taken place in
+Florida, and information relating to those events is protected from disclosure by law. Florida
+statutes protect “[a]ny information in a videotaped statement of a minor who is alleged to be or
+who is a victim of sexual battery . . . which reveals that minor’s identity.” Fla. Stat. § 119.071.
+Additionally, Fla. Stat. 985.036 protects records where a juvenile is a victim of a crime. Further,
+Section 794.026, Fla. Stat., creates a civil right of action against an individual who
+communicates to others, identifying information concerning the victim of a sexual offense.
+Additionally, Second, Fla. Stat. § 985.04 and Fla. Stat. § 985.054 make juvenile law enforcement
+records confidential from members of the public, and states that information obtained by a law
+enforcement agent participating in the assessment of a juvenile is confidential. Finally, certain of
+the police reports implicate Ms. Giuffre’s involvement with the Florida Department of Children
+and Families, see e.g., GM_00750, and if such reports are part of the State’s Department of
+Children and Families’ records, they are confidential pursuant to Fla. Stat. § 39.202(6).
+Accordingly, Ms. Giuffre objects to this request for the reasons stated in this paragraph.
+18
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 20 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre additionally objects to this request in that it is sought solely to harass, and
+intimidate Ms. Giuffre who is a victim of sexual abuse by the Defendant. Ms. Giuffre objects on
+the basis that Defendant is not entitled to a full-scale production of everything that has happened
+throughout the entire course of her life time, particularly the time sought in this request which
+predates Defendant’s meeting and abuse of Ms. Giuffre. A victim of sexual abuse should not be
+re-abused by having to disclose events that occurred prior to the time that she was sexually
+abused by Maxwell and her co-conspirators.
+Furthermore, discovery concerning Ms. Giuffre’s prior sexual assault is not relevant to
+the claim at issue in this case, the defenses at issue, or the damages claimed, and therefore well
+outside the scope of discovery permitted by Fed. R. Civ. P. 26. Specifically, Ms. Giuffre’s sexual
+abuse as minor child neither proves nor disproves Defendant and Epstein’s sexual abuse;
+therefore, it is not within the scope of discovery permitted by Fed. R. Civ. P. 26, particularly
+since the December 1, 2015, amendments to the Rule. “Parties may obtain discovery regarding
+any nonprivileged matter that is relevant to any party's claim or defense and proportional to the
+needs of the case, considering the importance of the issues at stake in the action, the amount in
+controversy, the parties’ relative access to relevant information, the parties’ resources, the
+importance of the discovery in resolving the issues, and whether the burden or expense of the
+proposed discovery outweighs its likely benefit.” Fed. R. Civ. P. 26(b)(1). Giving testimony on
+such irrelevant, but painful, topics would be extraordinarily embarrassing, oppressive, and
+traumatic for Ms. Giuffre, and it is wholly irrelevant to any party’s claim or defense.
+Accordingly, such discovery is not sought in good faith.
+This request is particularly improper as it cannot conceivably lead to admissible
+evidence. While Federal Rule of Civil Procedure 26 controls the limits of discovery, FRE 412
+19
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 21 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+informs discovery over the boundaries of the proper inquiry into an alleged sexual assault
+victim's sexual conduct and history. Silva v. Pioneer Janitorial Servs., Inc., No. CIV.A. 10-
+11264-JGD, 2011 WL 4729783, at *1 (D. Mass. Oct. 4, 2011). See also Gibbons v. Food Lion,
+Inc., No. 98–1197–CIV–T–23F, 1999 WL 33226474, at *2 (M.D. Fla. Feb.19, 1999) (stating that
+a majority of courts that have considered whether Fed. R. Evid. 412 is applicable to discovery
+“have found that Rule 412 has significance in the resolution of a discovery dispute”).
+“As explained in the Advisory Committee Notes regarding the 1994 amendments to Rule
+412, ‘[t]he rule aims to safeguard the alleged victim against the invasion of privacy, potential
+embarrassment and sexual stereotyping that is associated with public disclosure of intimate
+sexual details and the infusion of sexual innuendo into the factfinding process.’ Moreover,
+although the Advisory Committee Notes acknowledge that the procedures set forth in the Rule
+for determining the admissibility of evidence relating to an alleged victim's past sexual conduct
+or predisposition do not apply to discovery, they nevertheless provide as follows:
+In order not to undermine the rationale of Rule 412 ... courts should enter appropriate
+orders pursuant to Fed.R.Civ.P. 26(c) to protect the victim against unwarranted
+inquiries and to ensure confidentiality. Courts should presumptively issue protective
+orders barring discovery unless the party seeking discovery makes a showing that the
+evidence sought to be discovered would be relevant under the facts and theories of the
+particular case, and cannot be obtained except through discovery. In an action for
+sexual harassment, for instance, while some evidence of the alleged victim's sexual
+behavior and/or predisposition in the workplace may perhaps be relevant, non-workplace
+conduct will usually be irrelevant.
+Silva, 2011 WL 4729783, at *1. (emphasis added). Accordingly, Ms. Giuffre objects to this
+request based on the Federal Rules of Evidence and prevailing case law applying such Rules.
+Ms. Giuffre objects to this interrogatory in that it violates Rule 33 as it, in combination
+with the other interrogatories, exceed the allowable twenty-five interrogatories. Ms. Giuffre
+20
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 22 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+objects in that it seeks information protected by the attorney-client/work product privilege, and
+any other applicable privilege stated in the General Objections.
+Additionally, to the extent that it is available to Ms. Giuffre, all of this information is
+already in the possession of Maxwell as she obtained and produced police reports regarding Ms.
+Giuffre, which Ms. Giuffre did not have in her possession. Ms. Giuffre was also questioned for
+seven hours in her May 3, 2016, deposition by Defendant’s attorney. Finally, where a party
+possesses records and documents obtained or generated illegally, the court has the equitable
+power to vindicate and protect the rights of the parties affected. Socialist Workers Party v.
+Attorney Gen. of U.S., 666 F. Supp. 621, 623 (S.D.N.Y. 1987). For all of the foregoing reasons,
+Ms. Giuffre objects to this request.
+21
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 23 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+REQUESTS FOR ADMISSION
+1. Admit that you were not 15 years old when you first met Ghislaine Maxwell.
+Response to Request For Admission No. 1:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through
+August 9, 2000, she was 16 years old; from August 9, 2000 through December 2000 she was 17
+years old. While she now knows, based on this discovery, that she was not 15 years old, she now
+has conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage minor.
+2. Admit that you were not 15 years old when you first met Jeffrey Epstein.
+Response to Request For Admission No. 2:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through
+August 9, 2000, she was 16 years old; from august 9, 2000 through December 2000 she was 17
+years old. While she now knows, based on this discovery, that she was not 15 years old, she now
+has conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage
+minor.
+22
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 24 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+3. Admit that you were not 15 years old at the time you claim you were sexually
+trafficked by Jeffrey Epstein.
+Response to Request For Admission No. 3:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through
+August 9, 2000, she was 16 years old; from August 9, 2000 through December 2000 she was 17
+years old. While she now knows, based on this discovery, that she was not 15 years old, she now
+has conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage minor.
+4. Admit that Ghislaine Maxwell did not celebrate your 16th birthday with You.
+Response to Request For Admission No. 4:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through
+August 9, 2000, she was 16 years old; from August 9, 2000 through December 2000 she was 17
+years old. While she now knows, based on this discovery, that she was not 15 years old, she now
+has conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage minor.
+While she now knows, based on this discovery, that it could not have been her 16th birthday that
+Ghislaine celebrated, she now has conclusive proof that she was an underage minor when
+23
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 25 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ghislaine Maxwell approached and recruited her for illegal purposes, and she remembers
+celebrating a birthday with Ghislaine Maxwell.
+5. Admit that Ghislaine Maxwell did not make a joke on your 16th birthday after
+You blew out an array of candles and said You “would be soon getting too old for Jeffrey’s taste,
+and soon they’d have to trade me in.”
+Response to Request For Admission No. 5:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through august
+9, 2000, she was 16 years old; from august 9, 2000 through December 2000 she was 17 years
+old. While she now knows, based on this discovery, that she was not 15 years old, she now has
+conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage minor.
+While she now knows, based on this discovery, that it was not her 16th birthday that she
+celebrated with Ghislaine Maxwell, she now has conclusive proof that she was an underage
+minor when Ghislaine Maxwell approached and recruited me for illegal purposes, and she
+remember celebrating a birthday with Ghislaine Maxwell, during which she made the referenced
+joke.
+6. Admit that you did not work at Mar-a-Lago when you were 15 years old.
+Response to Request For Admission No. 6:
+Denied in part. At the time Ms. Giuffre made the statement, many years after the events
+occurred, she firmly believed she was 15 years old when she was recruited away from her job at
+24
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 26 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Mar-a-Lago by Ghislaine Maxwell. She later obtained some records from Mar-a-Lago which
+indicated that she was employed there during the year 2000. From January, 2000 through
+August 9, 2000, she was 16 years old; from August 9, 2000 through December 2000 she was 17
+years old. While she now knows, based on this discovery, that she was not 15 years old, she now
+has conclusive proof that she was an underage minor when Ghislaine Maxwell approached her,
+recruited her, introduced her to Jeffrey Epstein, and sexually trafficked her as an underage
+minor.
+7. Admit that you did not work for Jeffrey Epstein for four years.
+Response to Request For Admission No. 7:
+Denied in part. At the time she made the statement, many years after the events occurred,
+and based purely from memory without the assistance of any documents, she firmly believed she
+was with Jeffrey Epstein over a four year period. With the assistance of various records obtained
+after she made that statement, she now knows that she was not with Jeffrey Epstein for four
+years. She was sent to Thailand by Jeffrey Epstein in September 2002 and that was the last time
+she saw him.
+8. Admit that You did not spend four years as an underage sex slave for Jeffrey
+Epstein.
+Response to Request For Admission No. 8:
+Denied in part. At the time she made the statement, many years after the events occurred
+and based purely from memory without the assistance of any documents, she firmly believed she
+was with Jeffrey Epstein over a four year period. With the assistance of various records obtained
+after she made that statement, she now knows that she was not with Jeffrey Epstein for four
+years; however she was a sex slave for Jeffrey Epstein for years.
+25
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 27 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+9. Admit that you were no younger than 17 years old when you worked at Mar-a-
+Lago.
+Response to Request For Admission No. 9:
+Denied. After thorough investigation, she has only been able to discover the year in
+which she worked at Mar-a-Lago was 2000, and consequently was recruited by Ghislaine
+Maxwell, for sex with Epstein. The month has not been made available, therefore denied.
+10. Admit that You never observed Ghislaine Maxwell ever have any sexual contact
+with any person under the age of 18.
+Response to Request For Admission No. 10:
+Denied.
+11. Admit that You never observed Bill Clinton on the island of Little St. James.
+Response to Request For Admission No. 11:
+Denied.
+12. Admit that You never had a conversation with Bill Clinton regarding him flying
+with Ghislaine Maxwell in a helicopter.
+Response to Request For Admission No. 12:
+Objection. Defendant Maxwell has clearly incorrectly interposed and comingled the facts
+which comprise the foundation of this request for admission. Ms. Giuffre has never alleged that
+she “had a conversation with Bill Clinton regarding him flying with Ghislaine Maxwell in a
+helicopter.” Instead, Ms. Giuffre has alleged, “I flew to the Caribbean with Jeffrey and then
+Ghislaine Maxwell went to pick up Bill [Clinton] in a huge black helicopter that Jeffrey had
+bought her.” Sara Nathan, Bill Clinton Pictured with Jeffrey Epstein’s Social Fixer, Daily Mail,
+(12 January 2015).
+26
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 28 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+As a threshold matter, a court must determine whether the statements set forth in a
+request for admissions satisfy the formal requirements of Rule 36: “(e)ach request for admissions
+must be direct, simple and ‘limited to singular relevant facts,’” United States v. Consolidated
+Edison Co., 1988 WL 138275 (E.D.N.Y. [Dec. 15, 1988] ) (quoting S.E.C. v. Micro–Moisture
+Controls, 21 F.R.D. 164, 166 (S.D.N.Y.1957)), so that “it can be admitted or denied without
+explanation.” [8 C. Wright & A. Miller,] Federal Practice and Procedure, § 2258 [(1970)]. A
+request “should not state ‘half a fact’ or ‘half-truths' which require the answering party to qualify
+responses.” Havenfield Corp. v. H & R Block, Inc., 67 F.R.D. 93, 96–97 (W.D.Mo.1973); Dubin,
+125 F.R.D. at 375–76. See also Thalheim v. Eberheim, 124 F.R.D. 34, 35 (D.Conn.1988) (court
+must consider phraseology of requests as carefully as that of answers or objections).
+Consequently, Ms. Giuffre objects to answering this request for admission as it is based
+on “half-truths,” which make it impossible to answer without a qualified response.
+13. Admit that You never observed Al Gore on the island of Little St. James.
+Response to Request For Admission No. 13:
+Denied in part. Her memory from 15 or more years ago is that it was on the island where
+she met Mr. Gore, although she has testified that she could have been incorrect on that
+location. While traveling with Epstein and Maxwell, she met so many people and was taken to
+so many places as a minor that perfect recall of exact locations is difficult, but based on her best
+recollection, denied.
+14. Admit that You never had sexual contact with Alan Dershowitz.
+Response to Request For Admission No. 14:
+Denied.
+15. Admit that You never had sexual contact with Andrew, Duke of York.
+27
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 29 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Response to Request For Admission No. 15:
+Denied.
+28
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 30 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+REQUESTS FOR PRODUCTION
+1. All Communications and Documents identified in Interrogatories 5-14, above.
+Response to Request For Production No. 1:
+Ms. Giuffre objects in that it seeks information protected by the attorney-client/work
+product privilege, and any other applicable privilege stated in the General Objections. Ms.
+Giuffre objects to this request on the grounds that it is wildly overly broad and unduly
+burdensome, and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence, as described more fully
+above in response to the interrogatories. For example, Interrogatory Number 5, would cover
+documents spanning over 100 years collectively from attorneys, and compliance with this
+production request would be literally impossible due to the untethered scope of the request. Ms.
+Giuffre objects to this request in that it seeks to invade the privacy rights of a sex abuse victims,
+and is meant for the improper purpose of harassing and intimidating this victim.
+2. All Documents reviewed or relied upon in answering Interrogatory Nos. 5-14
+above.
+Response to Request For Production No. 2:
+Ms. Giuffre objects in that it seeks information protected by the attorney-client/work
+product privilege, and any other applicable privilege stated in the General Objections. Ms.
+Giuffre objects to this request in that it is overly broad incorporating the interrogatories that total
+59 subparts. Ms. Giuffre objects to this request for the reasons stated above in response to
+interrogatories, and in that it seeks to invade the privacy rights of a sex abuse victim and is meant
+for the improper purpose of harassing and intimidating this victim.
+29
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 31 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+3. All Documents reviewed or relied upon in answering Requests for Admission
+Nos. 1-15 above.
+Response to Request For Production No. 3:
+Ms. Giuffre objects in that it seeks information protected by the attorney-client/work
+product privilege, and any other applicable privilege stated in the General Objections. Ms.
+Giuffre objects to this request in that it is overly broad incorporating the interrogatories that total
+59 subparts. Ms. Giuffre objects to this request in that it seeks to invade the privacy rights of a
+sex abuse victims and is meant for the improper purpose of harassing and intimidating this
+victim.
+Subject to and without waving the above objections, Ms. Giuffre is withholding
+production of documents that are privileged pursuant to the attorney-client privilege, the work
+product privilege, and the public interest privilege. Ms. Giuffre is also withholding electronic
+renditions of photographs that depict the faces of her minor children, including school portraits
+and other photographs taken that reveal the faces of her minor children.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE007566.
+4. All Documents relating to any Communications between or among You or Your
+attorneys or any agent for You or Your attorneys, and any of the following individuals or with
+their attorneys, agents or representatives:
+a. Any witness disclosed in Plaintiff’s Rule 26(a) disclosures;
+b. Any witness disclosed in Defendant’s Rule 26(a) disclosures;
+c. Any witness identified by You in response to Interrogatory No. 8 and No. 14.
+Response to Request For Production No. 4:
+30
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 32 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre objection to this request on the grounds that it is overly broad and unduly
+burdensome in that it is not limited in time, and it seeks documents relating to hundreds of
+individuals. Ms. Giuffre objects because compliance with this request is unduly burdensome.
+For example,, this request seeks documents relating to over 100 individuals, and has no date or
+time limitations or subject matter limitations whatsoever. Ms. Giuffre objects to this request in
+that documents responsive to this request are within the possession, custody and control of the
+defendant and Jeffrey Epstein with whom she claims a joint defense privilege and defendant has
+refused to produce responsive documents to Ms. Giuffre’s request seeking communications
+between the Defendant and Ms. Giuffre and between Jeffrey Epstein and Ms. Giuffre. Ms.
+Giuffre objects in that it seeks information protected by the attorney-client/work product
+privilege, and any other applicable privilege stated in the General Objections. Specifically,
+counsel’s communications with witnesses are protected under the work product doctrine. Ms.
+Giuffre objects to this request in that it is sought solely to harass and intimidate Ms. Giuffre, and
+invade her privacy, by seeking her private communications with her various family members,
+including aunts, uncles and parents and siblings. Ms. Giuffre further objects as this request calls
+for the production of documents that are irrelevant to this action and not reasonably calculated to
+lead to the discovery of admissible evidence.
+Ms. Giuffre is withholding production of documents that are privileged pursuant to the
+attorney-client privilege, the work product privilege, and the public interest privilege. Ms.
+Giuffre is also withholding electronic renditions of photographs that depict the faces of her minor
+children, including school portraits and other photographs taken that reveal the faces of her
+minor children.
+31
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 33 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre additionally objects to the extent that this request seeks the communications
+of her attorneys, as such request is overly broad and unduly burdensome. This is especially true
+given that certain attorneys for Ms. Giuffre additionally represent other individuals listed on the
+Rule 26 Disclosures in separate legal matters, and revelation of such communications would
+violate privileges that do not belong to Ms. Giuffre, but rather belong to other victims of sexual
+abuse who have not waived such privileges. Accordingly, Ms. Giuffre is withholding these
+documents from production based on her objections.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE007566, which includes her
+communications with many of the individuals set forth in this request. However, producing
+documents with the additional, newly-added individuals would be overly burdensome, as there is
+no limitation as to time period, scope or subject-matter.
+5. All photographs or video containing any image of You and the following
+individuals. To the extent You have such photographs and video in their original, native format,
+please produce them in that format (not a paper copy).
+a. Any of the individuals identified by You in response to Interrogatory No. 8 and No.
+14.
+Response to Request For Production No. 5:
+Ms. Giuffre objects to this request in that documents responsive to this request are within
+the possession, custody and control of the Defendant and Jeffrey Epstein with whom she claims a
+joint defense privilege and defendant has refused to produce responsive documents to Ms.
+Giuffre’s request seeking communications between the Defendant and Ms. Giuffre and between
+Jeffrey Epstein and Ms. Giuffre.
+32
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 34 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE007566, and will produce non-
+privileged documents responsive to this Request and will continue to supplement her production
+limited to documents that do not depict images of her minor children. Ms. Giuffre does not have
+“original, native format,” as requested so she is producing the paper copies she has in her
+possession, custody and control.
+Furthermore, Ms. Giuffre has now produced the pictures in her possession related to the
+above-referenced case. Any remaining photographs not produced are solely in the possession of
+the Defendant and her co-conspirators.
+6. All Documents concerning any Communications between you or your attorneys
+and any witness or any potential witness in Giuffre v. Maxwell.
+Response to Request For Production No. 6:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it seeks documents relating to hundreds of individuals, and calls for
+the production of documents that are irrelevant to this action and not reasonably calculated to
+lead to the discovery of admissible evidence. Ms. Giuffre objects because compliance with this
+request is unduly burdensome. Ms. Giuffre objects to this request in that documents responsive
+to this request are within the possession, custody and control of the defendant and Jeffrey Epstein
+with whom she claims a joint defense privilege, and defendant has refused to produce responsive
+documents to Ms. Giuffre’s request seeking communications between the Defendant and Ms.
+Giuffre and between Jeffrey Epstein and Ms. Giuffre.
+Ms. Giuffre further objects to this request to the extent is seeks documents protected by
+the attorney client, work product, joint defense, public interest or any other applicable privilege.
+33
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 35 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre objects to this request in that it is sought solely to harass and intimidate Ms. Giuffre,
+and invade her privacy, by seeking her private communications with her various family
+members, including aunts, uncles and parents and siblings.
+Subject to and without waving the above objections, Ms. Giuffre is withholding
+production of documents that are privileged pursuant to the attorney-client privilege, the work
+product privilege, and the public interest privilege. Ms. Giuffre is also withholding electronic
+renditions of photographs that depict the faces of her minor children, including school portraits
+and other photographs taken that reveal the faces of her minor children.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE007566, and will produce non-
+privileged documents responsive to this Request limited to documents that do not depict images
+of her minor children as described supra and will continue to supplement this production. Ms.
+Giuffre will produce Ms. Giuffre’s counsel’s communications with attorneys for witnesses in this
+case from the date of filing this litigation to the present that are related to this litigation.
+7. All Documents concerning any Communications between You and Your
+attorneys and Johanna Sjoberg or her lawyer, Marshall Dore Louis.
+Response to Request For Production No. 7:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence. Subject to
+and not waiving the above objections, Ms. Giuffre will produce Ms. Giuffre’s counsel’s
+communications with Marshall Dore Louis from the date of filing this litigation to the present.
+34
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 36 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+8. All Documents concerning any Communications between You and Your attorneys
+and Allyson Chambers or her lawyer, Marshall Dore Louis.
+Response to Request For Production No. 8:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence.
+Ms. Giuffre will produce Ms. Giuffre’s counsel’s communications with Marshall Dore
+Louis from the date of filing this litigation to the present relating to the above-captioned case.
+9. All Documents concerning any Communications between You or Your attorneys
+and any witness in the case captioned Jane Doe #1 and Jane Doe #2 v. United States, Case No.
+08-ev-80736-KAM, in the U.S. District Court for the Southern District of Florida (“CVRA”
+case).
+Response to Request For Production No. 9:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence, and because
+it would require the review of hundreds of thousands of documents which would take hours upon
+hours of attorney time. Ms. Giuffre objects in that it seeks information protected by the attorney-
+client/work product privilege, and any other applicable privilege stated in the General
+Objections.
+With regard to communications by Ms. Giuffre's attorneys, this request seeks clearly
+privileged materials, because Ms. Giuffre's attorneys represent not only Ms. Giuffre (Jane Doe 3)
+in the CVRA matter, but also Jane Doe 1, Jane Doe 2, and Jane Doe 4. Any communications
+35
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 37 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+between the four Jane Does, via Ms. Giuffre's attorneys, would be plainly be subject to attorney
+client protection, not to mention work product protection as well.
+With regard to contact with "witnesses,” the request is vague, unduly burdensome, and
+overbroad. The CVRA case centers on issues surrounding whether the U.S. Government failed
+to confer and otherwise protect the rights of victims (including Janes Does 1, 2, 3, and 4) during
+plea negotiations with Jeffrey Epstein. Accordingly, some of the main "witnesses" in the case
+are the Government prosecutors who handled the plea negotiations. Several of the same
+prosecutors who handled the plea negotiations are also involved in defending the CVRA case.
+The CVRA has been in litigation for nearly eight years, and there have extensive
+communications with the prosecutors (including communications concerning approximately
+10,000 pages of documents that were requested by victims’ counsel and provided to Judge Marra
+for in camera review). The request appears designed to target all of these communications, and
+such communications, going back eight years, would necessitate a review of several hundreds of
+thousands of emails over that time to identify communications with the Government prosecutors.
+The burden would be substantial and the relevance would be essentially non-existent. Whatever
+communications Ms. Giuffre's attorneys would have had with government prosecutors about
+CVRA notifications concerning a prosecution of Epstein would not shed light on whether
+Defendant Maxwell defames Ms. Giuffre in attacking her as, for example, a liar.
+Moreover, many materials related to this case remain under Judge Marra’s protective
+order. Accordingly, before Ms. Giuffre’s counsel could even have the option to release certain
+materials that the Government has provided to him as an attorney in the case, defendant Maxwell
+would have to approach Judge Marra and seek a modification of the protective order.
+36
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 38 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+The request is also vague because it is not clear precisely what "witnesses" Defendant
+Maxwell is concerned about. There have, for example, between communications between Ms.
+Giuffre's lawyers and lawyers for Mr. Epstein and Mr. Dershowitz connected with procedural
+and other aspects of this case. Again, the relevance of such communications seems basically
+non-existent to the action. But because the case has spanned eight years, collecting such
+communications would be difficult and overly burdensome. Moreover, Defendant Maxwell has
+a close working relationship and/or joint defense arrangement with both Mr. Epstein and Mr.
+Dershowitz. There is no reason to burden Ms. Giuffre's attorneys will collecting such
+communications when she can collect them in other ways.
+10. All Documents concerning any Communications between you or your attorneys
+and any witness or potential witness in Edwards and Cassell v Dershowitz (“Dershowitz” case).
+Response to Request For Production No. 10:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence, and because
+it would require the review of hundreds of thousands of documents which would take hours upon
+hours of attorney time. It is not clear what the phrase "concerning" is designed to cover. As a
+third-party witness in that action, Ms. Giuffre had numerous communications with, for example,
+her attorneys in relation to that matter, and therefore, these communications are subject to the
+attorney client privilege and protected by the work product doctrine. It unclear what documents
+"concerning" communications with “witnesses” refers to, and it could expansively cover a vast
+number of documents, emails, and other communications that have taken place over the course
+of this litigation.
+37
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 39 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+With regard to communications by Ms. Giuffre's attorneys, this request seeks clearly
+privileged materials (or materials covered by the work product doctrine).
+With regard to "witnesses" or “potential witnesses,” the request is vague, unduly
+burdensome, and overbroad. The Dershowitz case centers on issues surrounding whether the
+Ms. Giuffre's lawyers (Edwards and Cassell) had conduct a sufficient investigation before filing
+a motion to join Jane Doe 3 (and Jane Doe 4) into the CVRA case. That investigation involves
+not only attorney-client materials, but also work product protections for Jane Doe 1 and Jane Doe
+2. This request, then, covers communications going back eight years, and it would involve a
+review of several hundreds of thousands of emails over that time to identify communications
+relevant to the potential "witnesses" who might have been able to shed light on the claims in the
+CVRA case and, in turn, whether sex abuse had been committed by Alan Dershowitz. The
+burden would be substantial and the relevance would be essentially non-existent. Such a burden
+is not countenanced by Rule 26 or the prevailing case law. Whatever communications Ms.
+Giuffre's attorneys may have had as part of their (work product protected) investigation would
+not shed light on whether Defendant Maxwell defames Ms. Giuffre in attacking her as, for
+example, a liar.
+The request is also vague because it is not clear precisely what "witnesses" Defendant
+Maxwell is concerned about. There have, for example, between communications between Ms.
+Giuffre's lawyers and lawyers for Mr. Epstein and Mr. Dershowitz Again, the relevance of such
+communications seems basically non-existent to the action. But because their investigations
+have spanned eight years, collecting such communications would be difficult. Moreover,
+Defendant Maxwell has a close working relationship and/or joint defense arrangement with both
+Mr. Epstein and Mr. Dershowitz. There is no reason to burden Ms. Giuffre's attorneys with
+38
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 40 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+collecting such communications when she can collect them in other ways. Indeed, in light of the
+fact that Maxwell and Dershowitz have a close working relationship, it is unduly burdensome
+that Maxwell seeks these items not from her ally but from attorneys for her legal adversary.
+11. Any statement obtained by You or Your attorneys from any witness or potential
+witness in the CVRA case.
+Response to Request For Production No. 11:
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence, and because
+it would require the review of hundreds of thousands of documents which would take hours upon
+hours of attorney time. Ms. Giuffre objects in that it seeks information protected by the attorney-
+client/work product privilege, and any other applicable privilege stated in the General
+Objections.
+Ms. Giuffre objects because the term “statement” is vague and ambiguous, unduly
+burdensome and overbroad. With regard to communications to Ms. Giuffre's attorneys, this
+request seeks clearly privileged materials, because Ms. Giuffre's attorneys represent not only Ms.
+Giuffre (Jane Doe 3) in the matter, but also Jane Doe 1, Jane Doe 2, and Jane Doe 4.
+The CVRA case centers on issues surrounding whether the U.S. Government failed to
+confer and otherwise protect the rights of victims (including Janes Does 1, 2, 3, and 4) during
+plea negotiations with Jeffrey Epstein.
+The CVRA has been in litigation for nearly eight years, and there have extensive
+communications with the prosecutors (including communications concerning approximately
+10,000 pages of documents that were requested by victims’ counsels and provided to Judge
+39
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 41 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Marra for in camera review). It is not clear whether the request is designed to request all of these
+communications as “statements,” but if it does capture these communications going back eight
+year, it would involve a review of several hundreds of thousands of emails over that time to
+identify communications with the Government prosecutor. The burden would be substantial and
+the relevance would be essentially non-existent. Whatever statements Ms. Giuffre's attorneys
+obtained from government prosecutors about CVRA notifications concerning a prosecution of
+Epstein would not shed light on whether Defendant Maxwell defames Ms. Giuffre in attacking
+her as, for example, a liar. Moreover, many materials remain under Judge Marra’s protective
+order. Accordingly, before Ms. Giuffre’s counsel could even have the option to release certain
+materials that the Government has provided to him as an attorney in the case, defendant Maxwell
+would have to approach Judge Marra and seek a modification of the protective order.
+The request is also vague because it is not clear precisely what "statements" Defendant
+Maxwell is concerned about. There have, for example, between communications between Ms.
+Giuffre's lawyers and lawyers for Mr. Epstein and Mr. Dershowitz connected with procedural
+and other aspects of this case. Again, the relevance of such communications seems basically
+non-existent to the action. But because the case has spanned eight years, collecting such
+communications would be difficult. Moreover, Defendant Maxwell has a close working
+relationship and/or joint defense arrangement with both Mr. Epstein and Mr. Dershowitz. There
+is no reason to burden Ms. Giuffre's attorneys will collecting such statements when she can
+collect them in other ways.
+12. Any statement obtained by You or Your attorneys from any witness or potential
+witness in the Dershowitz case.
+Response to Request For Production No. 12:
+40
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 42 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Ms. Giuffre objects to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence, and because
+it would require the review of hundreds of thousands of documents which would take hours upon
+hours of attorney time. Ms. Giuffre objects in that it seeks information protected by the attorney-
+client/work product privilege, and any other applicable privilege stated in the General
+Objections.
+Ms. Giuffre objects because the term “statement” is vague and ambiguous, unduly
+burdensome and overbroad. The Dershowitz case centers on issues surrounding whether the Ms.
+Giuffre's lawyers (Edwards and Cassell) had conduct a sufficient investigation before filing a
+motion to join Jane Doe 3 (and Jane Doe 4) into the CVRA case. That investigation involves
+not only attorney-client materials, but also work product protections for Jane Doe 1 and Jane Doe
+2. The request potentially covers communications or “statements” going back eight years, and it
+would involve a review of several hundreds of thousands of emails over that time to identify
+“statements” made by any “witness” or “potential witness" who might have been able to shed
+light on whether sex abuse had been committed by Alan Dershowitz. The burden would be
+substantial and the relevance would be essentially non-existent Whatever communications Ms.
+Giuffre's attorneys may have had as part of their (work product protected) investigation would
+not shed light on whether Defendant Maxwell defames Ms. Giuffre in attacking her as, for
+example, a liar.
+With regard to communications to Ms. Giuffre's attorneys, this request seeks clearly
+privileged materials, because Ms. Giuffre's attorneys represent not only Ms. Giuffre (Jane Doe 3)
+in the matter, but also Jane Doe 1, Jane Doe 2, and Jane Doe 4 in the CVRA litigation.
+41
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 43 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+The CVRA has been in litigation for nearly eight years, and there have extensive
+communications with the prosecutors (including communications concerning approximately
+10,000 pages of documents that were requested by victims’ counsels and provided to Judge
+Marra for in camera review). It is not clear whether the request is designed to request all of these
+communications as “statements,” but if it does capture these communications going back eight
+year, it would involve a review of several hundreds of thousands of emails over that time to
+identify communications with the Government prosecutor. The burden would be substantial and
+the relevance would be essentially non-existent. Whatever statements Ms. Giuffre's attorneys
+obtained from government prosecutors about CVRA notifications concerning a prosecution of
+Epstein would not shed light on whether Defendant Maxwell defames Ms. Giuffre in attacking
+her as, for example, a liar.
+The request is also vague because it is not clear precisely what "statements" Defendant
+Maxwell is concerned about. There have, for example, between communications between Ms.
+Giuffre's lawyers and lawyers for Mr. Epstein and Mr. Dershowitz connected with procedural
+and other aspects of these cases. Again, the relevance of such communications seems basically
+non-existent to the action. Moreover, Defendant Maxwell has a close working relationship
+and/or joint defense arrangement with both Mr. Epstein and Mr. Dershowitz. In light of the fact
+that Maxwell and Dershowitz have a close working relationship, it is unduly burdensome that
+Maxwell seeks these items not from her ally but from attorneys for her legal adversary. There is
+no reason to burden Ms. Giuffre's attorneys will collecting such statements when she can collect
+them in other ways.
+Dated: July 1, 2016
+42
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 44 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+Telephone: (954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+Telephone: (954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+Telephone: (801) 585-5202
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on July 1, 2016, I electronically sent the foregoing document
+to the counsel below via e-mail.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+43
+Case 1:15-cv-07433-LAP Document 1328-5 Filed 01/05/24 Page 45 of 45
+This document is CONFIDENTIAL under the Court’s Protective Order (DE 62)
+jpagliuca@hmflaw.com
+44

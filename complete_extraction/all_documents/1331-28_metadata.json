@@ -1,0 +1,71 @@
+{
+  "doc_id": "1331-28",
+  "filename": "1331-28.pdf",
+  "extraction_date": "2025-11-17T10:16:35.052523",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 2199,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 16,
+  "locations_found": 1,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 1308
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1375
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 1056
+    },
+    {
+      "date_string": "March 2, 2017",
+      "position": 1162
+    },
+    {
+      "date_string": "March 2, 2017",
+      "position": 1437
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 1056
+    },
+    {
+      "date_string": "March 2, 2017",
+      "position": 1162
+    },
+    {
+      "date_string": "March 2, 2017",
+      "position": 1437
+    }
+  ],
+  "people": [
+    "United States District",
+    "Menninger\nLaura",
+    "Salt Lake City",
+    "South Salem",
+    "Defendant\nGhislaine Maxwell",
+    "Twin Lakes Rd",
+    "Nicole Simmons\nNicole",
+    "Philip Barden",
+    "Work Product",
+    "Client Communication",
+    "East Las Olas",
+    "University Street",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "North Andrews Ave",
+    "Client\nCommunications"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

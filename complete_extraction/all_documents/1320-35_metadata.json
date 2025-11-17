@@ -1,0 +1,41 @@
+{
+  "doc_id": "1320-35",
+  "filename": "1320-35.pdf",
+  "extraction_date": "2025-11-17T10:21:04.463835",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 301501,
+  "images_extracted": 0,
+  "dates_found": 2,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0120_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0120"
+    },
+    {
+      "email_file": "0122_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0122"
+    },
+    {
+      "email_file": "0123_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0123"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 124
+    }
+  ],
+  "people": [],
+  "locations": [],
+  "images": []
+}

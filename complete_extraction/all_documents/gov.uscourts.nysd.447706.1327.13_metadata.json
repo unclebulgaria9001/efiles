@@ -1,0 +1,75 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.13",
+  "filename": "gov.uscourts.nysd.447706.1327.13.pdf",
+  "extraction_date": "2025-11-17T10:17:51.214291",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 10599,
+  "images_extracted": 0,
+  "dates_found": 39,
+  "people_found": 4,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2172
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4707
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5261
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5909
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6557
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7181
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7791
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8400
+    }
+  ],
+  "people": [
+    "Dear Laura",
+    "The Terramar Project",
+    "Jane Doe",
+    "Maxwell\nCase No"
+  ],
+  "locations": [
+    "Paris",
+    "France"
+  ],
+  "images": []
+}

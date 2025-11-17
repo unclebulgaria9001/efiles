@@ -1,0 +1,83 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.8_1",
+  "filename": "gov.uscourts.nysd.447706.1327.8_1.pdf",
+  "extraction_date": "2025-11-17T10:20:00.416803",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 6877,
+  "images_extracted": 0,
+  "dates_found": 14,
+  "people_found": 18,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 149
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 879
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2046
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3114
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4109
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5143
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6323
+    },
+    {
+      "date_string": "June 24, 2016",
+      "position": 448
+    },
+    {
+      "date_string": "July 5, 2016",
+      "position": 6511
+    }
+  ],
+  "people": [
+    "Palm Coast",
+    "Drive South\nSuite",
+    "Southern Reporting Company",
+    "Jeffrey Epstein",
+    "Notary Public",
+    "Florida\nMy Commission",
+    "Digital Certificate Authenticated",
+    "No She",
+    "By Symantec",
+    "Court Reporter",
+    "Florida Professional Reporter",
+    "Notary Public\nSouthern",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "For Jeffrey",
+    "Paul Katz Professional",
+    "One Florida Park",
+    "Reporting Company"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,90 @@
+{
+  "doc_id": "1320-4",
+  "filename": "1320-4.pdf",
+  "extraction_date": "2025-11-17T10:20:31.811657",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 14853,
+  "images_extracted": 0,
+  "dates_found": 19,
+  "people_found": 27,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 122
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 841
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1660
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2592
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3692
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4563
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 5503
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 6329
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 7193
+    }
+  ],
+  "people": [
+    "Annie Farmer",
+    "Did Emmy",
+    "President Clinton",
+    "Has Annie Farmer",
+    "When Jeffrey",
+    "James Christe",
+    "Court\nReporter",
+    "South University Street",
+    "Does Jeffrey",
+    "Virginia Roberts",
+    "Salt Lake City",
+    "Notary Public",
+    "Andrews Avenue\nFort",
+    "Jeffrey Epstein",
+    "Did Emmy Taylor",
+    "Americas\nNew York",
+    "Also Present",
+    "Bill Clinton",
+    "East Las Olas",
+    "Leslie Fagin"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

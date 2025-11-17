@@ -1,0 +1,79 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.17",
+  "filename": "gov.uscourts.nysd.447706.1328.17.pdf",
+  "extraction_date": "2025-11-17T10:19:31.987846",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 16440,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 33,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 143
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2330
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5972
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9612
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13523
+    },
+    {
+      "date_string": "July 29, 2009",
+      "position": 2118
+    },
+    {
+      "date_string": "July 29, 2009",
+      "position": 2118
+    }
+  ],
+  "people": [
+    "Las Olas City",
+    "Filed Under Seal",
+    "Kress Court Reporting",
+    "Rue Notre Dame",
+    "County Of Dade",
+    "Ghislaine Maxwell",
+    "Duces Tecum",
+    "Taking Deposition",
+    "Luc Bernell",
+    "Vs\nLake Worth",
+    "Avenue North",
+    "The State Of",
+    "West Flagler Street",
+    "Galaxy Aviation",
+    "Miami Beach",
+    "North Miami",
+    "Ives Dairy Road",
+    "Boulevard\nPlaintiff",
+    "Notary Public",
+    "Jeffrey Epstein"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

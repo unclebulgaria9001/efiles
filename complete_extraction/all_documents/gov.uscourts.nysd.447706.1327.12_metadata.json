@@ -1,0 +1,85 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.12",
+  "filename": "gov.uscourts.nysd.447706.1327.12.pdf",
+  "extraction_date": "2025-11-17T10:17:48.081090",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 19469,
+  "images_extracted": 0,
+  "dates_found": 47,
+  "people_found": 71,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 469
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 657
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2630
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4629
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6521
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9667
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12417
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14548
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 16338
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 18028
+    }
+  ],
+  "people": [
+    "Those Requests",
+    "Jean Luc Brunel",
+    "Revised List",
+    "Court Order",
+    "Submission Concerning Search",
+    "The First Responses",
+    "Search Terms",
+    "Search Terms\nFinally",
+    "Eva Dubin",
+    "Bradley Edwards",
+    "First Request",
+    "Defendant Ghislaine Maxwell",
+    "See\nMenninger Decl",
+    "University Street",
+    "See Menninger\nDecl",
+    "Scott Rothstein",
+    "The\nSecond Requests",
+    "Production\nMs",
+    "First Discovery Requests",
+    "Terramar Project"
+  ],
+  "locations": [
+    "New York",
+    "United Kingdom"
+  ],
+  "images": []
+}

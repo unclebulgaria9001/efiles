@@ -1,0 +1,887 @@
+# Document: gov.uscourts.nysd.447706.1328.6_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial, correspondence
+# Images Extracted: 0
+# Dates Found: 58
+# People Found: 132
+# Locations Found: 5
+# Linked Emails: 3
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 1 of 32
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+No. 15 Civ. 7433 (RWS)
+Plaintiff,
+-against-
+GHISLAINE MAXWELL,
+Defendant.
+MEMORANDUM OF LAW IN SUPPORT OF PROPOSED INTERVENOR ALAN M.
+DERSHOWITZ’S MOTION FOR PERMISSIVE INTERVENTION AND UNSEALING
+OF JUDICIAL DOCUMENTS, OR IN THE ALTERNATIVE MODIFICATION OF
+PROTECTIVE ORDER
+Emery Celli Brinckerhoff & Abady LLP
+600 Fifth Avenue, 10th Floor
+New York, New York 10020
+(212) 763-5000
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 2 of 32
+TABLE OF CONTENTS
+PAGE NO.
+TABLE OF AUTHORITIES ...................................................................................................... iii-v
+PRELIMINARY STATEMENT .....................................................................................................1(cid:3)
+FACTUAL AND PROCEDURAL BACKGROUND.....................................................................4(cid:3)
+I.(cid:3) MS. GIUFFRE’S ALLEGED RELATIONSHIP WITH
+JEFFREY EPSTEIN AND BELATED ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................4(cid:3)
+II.(cid:3) MS. GIUFFRE AND HER ATTORNEYS’ CONTINUING
+INSISTENCE ON, AND REPETITION OF, ACCUSATIONS
+AGAINST PROFESSOR DERSHOWITZ..............................................................5(cid:3)
+III.(cid:3) THE EXCULPATORY EMAILS, REPLY BRIEF,
+AND MANUSCRIPT ..............................................................................................6(cid:3)
+IV.(cid:3) THE REVELATION OF THE EXCULPATORY DOCUMENTS TO
+PROFESSOR DERSHOWITZ ..............................................................................11(cid:3)
+ARGUMENT .................................................................................................................................11(cid:3)
+I.(cid:3) PROFESSOR DERSHOWITZ SHOULD BE PERMITTED TO INTERVENE
+UNDER FEDERAL RULE OF CIVIL PROCEDURE 24(B) ..............................11(cid:3)
+A.(cid:3) There Is Significant Overlap Between the Subject Matter
+of the Original Action and This Motion ....................................................12(cid:3)
+B.(cid:3) There Is No Risk of Undue Delay or Prejudice .........................................12(cid:3)
+C.(cid:3) Professor Dershowitz Has a Compelling Interest in Access
+That Is Not Represented by Any Existing Party ........................................13(cid:3)
+II.(cid:3) THE FIRST AMENDMENT AND THE COMMON LAW REQUIRE
+PUBLIC ACCESS TO THE REQUESTED DOCUMENTS ................................14(cid:3)
+A.(cid:3) Legal Standard ...........................................................................................14(cid:3)
+1.(cid:3) The Common Law Test .................................................................15(cid:3)
+2.(cid:3) The First Amendment Test ............................................................15(cid:3)
+B.(cid:3) The Requested Documents Are Judicial Documents .................................16(cid:3)
+C.(cid:3) The Common Law Right of Access Applies to the Requested
+Documents .................................................................................................17(cid:3)
+i
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 3 of 32
+1.(cid:3) The Weight of the Presumption of Access Is Strong .....................17(cid:3)
+2.(cid:3) There Are No Countervailing Interests That Outweigh
+the Right of Access ........................................................................19(cid:3)
+D.(cid:3) The First Amendment Guarantees Access to the Requested
+Documents .................................................................................................20(cid:3)
+III.(cid:3) ALTERNATIVELY, THE PROTECTIVE ORDER SHOULD BE MODIFIED
+TO PERMIT DISCLOSURE OF THE REQUESTED DOCUMENTS ................22(cid:3)
+CONCLUSION ..............................................................................................................................26(cid:3)
+ii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 4 of 32
+TABLE OF AUTHORITIES
+PAGE NO(s).
+Cases(cid:3)
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014) ...................................... 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir. 1986) ................................................................................................. 16
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir. 2001) ........................................................................................ 16
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012) ....................................... 16
+Diversified Grp., Inc. v. Daugerdas,
+217 F.R.D. 152 (S.D.N.Y. 2003) ...................................................................................... 11
+Gambale v. Deutsche Bank AG,
+377 F.3d 133 (2d Cir. 2004).............................................................................................. 22
+Gucci Am., Inc. v. Guess?, Inc.,
+No. 09 Civ. 4373, 2010 WL 1416896 (S.D.N.Y. Apr. 8, 2010) ....................................... 16
+In re EPDM Antitrust Litig.,
+255 F.R.D. 308 (D. Conn. 2009)................................................................................. 23, 24
+In re Gushlak,
+No. 11-MC-0218, 2012 WL 3683514 (E.D.N.Y. July 27, 2012) ............................... 17, 19
+In re N.Y. Times Co.,
+828 F.2d 110 (2d Cir. 1987).............................................................................................. 18
+In re Newsday, Inc.,
+895 F.2d 74 (2d Cir. 1990)................................................................................................ 19
+In re Omnicom Grp., Inc. Secs. Litig.,
+No. 02 Civ. 4483, 2006 WL 3016311 (S.D.N.Y. Oct. 23, 2006) ............................... 17, 19
+In re September 11 Litig.,
+262 F.R.D. 274 (S.D.N.Y. 2009) ...................................................................................... 23
+Jane Doe #1 v. United States of America,
+No. 08 Civ. 80736 (S.D. Fla.) ....................................................................................... 4, 21
+Jessup v. Luther,
+227 F.3d 993 (7th Cir. 2000) ............................................................................................ 12
+iii
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 5 of 32
+Lenart v. Coach Inc.,
+131 F. Supp. 3d 61 (S.D.N.Y. 2015) ................................................................................. 19
+Leucadia, Inc. v. Applied Extrusion Techs., Inc.,
+998 F.2d 157 (3d Cir. 1993).............................................................................................. 16
+Long Island Lighting Co. v. Barbash,
+779 F.2d 793 (2d Cir. 1985).............................................................................................. 18
+Louissier v. Universal Music Grp., Inc.,
+214 F.R.D. 174 (S.D.N.Y. 2003) ...................................................................................... 22
+Lugosch v. Pyramid Co. of Onodaga,
+435 F.3d 110 (2d Cir. 2006)....................................................................................... passim
+Mills v. Alabama,
+384 U.S. 214 (1966) .......................................................................................................... 14
+Mokhiber v. Davis,
+537 A.2d 1100 (D.C. Ct. App. 1988) .......................................................................... 19, 21
+Newsday LLC v. Cnty. of Nassau,
+730 F.3d 156 (2d Cir. 2013).............................................................................................. 14
+Nixon v. Warner Commc’ns, Inc.,
+435 U.S. 589 (1978) .......................................................................................................... 13
+S.E.C. v. Oakford Corp.,
+No. 00 Civ. 2426, 2001 WL 266996 (S.D.N.Y. Mar. 16, 2010) ...................................... 17
+S.E.C. v. TheStreet.com,
+273 F.3d 222 (2d Cir. 2001)........................................................................................ 22, 24
+Schiller v. City of N.Y.,
+No. 04 Civ. 7922, 2006 WL 2788256 (S.D.N.Y. Sept. 27, 2006) .............................. 13, 17
+Skyline Steel, LLC v. PilePro, LLC,
+No. 13 Civ. 8171, 2015 WL 556545 (S.D.N.Y. Feb. 9, 2015) ......................................... 19
+Tradewinds Airlines, Inc. v. Soros,
+No. 08 Civ. 5901, 2016 WL 3951181 (S.D.N.Y. July 20, 2016) ............................... 23, 24
+U.S.P.S. v. Brennan,
+579 F.2d 188 (2d Cir. 1978).............................................................................................. 11
+United States v. Amodeo (Amodeo I),
+44 F.3d 141 (2d Cir. 1995)................................................................................................ 14
+United States v. Amodeo (Amodeo II),
+71 F.3d 1044 (2d Cir. 1995)........................................................................................ 14, 17
+iv
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 6 of 32
+United States v. Bryan,
+339 U.S. 323 (1950) .......................................................................................................... 18
+United States v. Erie Cnty.,
+763 F.3d 235 (2d Cir. 2014).................................................................................. 15, 20, 21
+United States v. Erie Cnty.,
+No. 09 Civ. 849, 2013 WL 4679070 (W.D.N.Y. Aug. 30, 2103) ..................................... 12
+United States v. Graham,
+257 F.3d 143 (2d Cir. 2001).............................................................................................. 15
+United States v. Martoma,
+No. S1 12 Cr. 973, 2014 WL 164181 (S.D.N.Y. Jan. 9, 2014) ........................................ 20
+United States v. Sattar,
+471 F. Supp. 2d 380 (S.D.N.Y. 2006) ............................................................................... 16
+Vazquez v. City of N.Y.,
+No. 10 Civ. 6277, 2014 WL 11510954 (S.D.N.Y. May 2, 2014) ..................................... 22
+Westmoreland v. CBS, Inc.,
+752 F.2d 16 (2d Cir. 1984)................................................................................................ 14
+Rules & Statutes(cid:3)
+Fed. R. Civ. P. 24 .................................................................................................................... 11, 14
+Fed. R. Civ. P. 26 .............................................................................................................. 22, 24, 25
+Fed. R. Civ. P. 45 .......................................................................................................................... 18
+Other Authorities(cid:3)
+Casey Sullivan, Alan Dershowitz Extends Truce Offer to David Boies Amid Bitter Feud,
+BLOOMBERG LAW (Apr. 11, 2016), https://bol.bna.com/alan-dershowitz-extends-
+truce-offer-to-david-boies-amid-bitter-feud/ ...................................................................... 6
+v
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 7 of 32
+PRELIMINARY STATEMENT
+At nearly 78 years of age, Alan M. Dershowitz, the highly regarded Harvard Law
+professor, criminal defense lawyer, and author, is entitled to enjoy the reputation for strict
+personal rectitude that he has earned. Unfortunately, however, over the course of the last year
+and a half, that reputation has been unfairly sullied, tainted by false and grotesque allegations of
+pedophilia and rape peddled to the press by Virginia Giuffre, the plaintiff in this lawsuit, and
+republished all over the world. Professor Dershowitz has done everything in his power to
+combat this assault on his reputation, from proclaiming his innocence in public, to marshalling
+every bit of information within his control to demonstrate that the allegations cannot be true, to
+submitting to a full investigation of the charges by former federal judge and FBI Director Louis
+Freeh, who exonerated him. And still the stories keep coming.
+Now, having been named as a witness in this action by both plaintiff and defendant,
+Professor Dershowitz has been granted access to certain materials subject to this Court’s
+stipulated Protective Order and filed under seal—and those materials, some of them in Ms.
+Giuffre’s own words, confirm his absolute innocence. They demonstrate that Ms. Giuffre did
+not accuse Professor Dershowitz of sexual misconduct until years after she first named other
+prominent men who she claimed had abused her; that there was “no proof” that Professor
+Dershowitz had ever done anything wrong; and that Ms. Giuffre concocted her malicious
+allegations against Professor Dershowitz, and used his name in her statements and book
+proposal, not because he abused her—he didn’t—but because he is famous and she believed that
+his name would help sell the book.
+In this application, Professor Dershowitz seeks to intervene in this case for the limited
+purpose of obtaining relief that is modest and narrowly tailored: the unsealing of portions of a
+brief filed in connection with a motion to quash a subpoena (“Reply Brief”), and certain emails
+1
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 8 of 32
+submitted as part of that same motion (“Emails”), as well as a draft of Ms. Giuffre’s memoir
+(“Manuscript”) that was filed in connection with a motion to extend the parties’ deadline for
+deposition discovery. Unsealing of these three documents (the “Requested Documents”) is
+required because they are all judicial documents to which a presumption of public access applies.
+In the alternative, if the Court declines to unseal the Requested Documents on the basis that they
+are judicial documents, Professor Dershowitz seeks modification of the Court’s March 18, 2016
+stipulated Protective Order to permit the dissemination of the Requested Documents. The
+Requested Documents concern allegations by Ms. Giuffre whose substance has already been
+widely aired in public—including, apparently, on camera to ABC News—and which have been
+widely circulated for sale to publishers and journalists. Ms. Giuffre’s efforts to gain publicity
+and a book deal based on public interest in her claims should forfeit any asserted right to
+maintain the confidentiality of these documents.
+Separately and together, the Requested Documents demonstrate that the allegations of
+sexual misconduct against Professor Dershowitz—which were lodged by Ms. Giuffre in public
+court filings and repeated worldwide in the press—are nothing more than a recent fabrication, a
+made up story designed to increase commercial interest in Ms. Giuffre’s book and promote its
+sale to a publisher and eventually to readers. Accessing these materials without restriction, and
+making them public, is essential to Professor Dershowitz’s ability to defend himself.
+There is no basis for the Requested Documents to remain secret, much less for their
+secrecy to be maintained by court order. Ms. Giuffre has done everything in her power to
+publicize her false allegations against Professor Dershowitz: through her lawyers, she publicly
+filed the accusations in a federal court proceeding; she and her lawyers stood by her claims, in
+both court filings and public statements to the media, even after her lawyers had issued a public
+statement acknowledging that filing them had been a “mistake;” she shopped a book manuscript
+2
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 9 of 32
+to agents, publishers, and the press with the goal of maximizing the public attention paid to her
+slanderous story; and she even sought and obtained a lengthy interview with ABC News with the
+intent that it be broadcast on national television news programs. Ms. Giuffre and her attorneys
+cannot credibly argue that documentary evidence undermining the accusations she has spent
+years working to make public are “secret” and should be kept so under the authority of this
+Court.
+Disclosing the Requested Documents would violate no right of privacy. By publicly
+leveling false accusations against Professor Dershowitz in graphic detail and seeking to publicize
+those accusations in the media, Ms. Giuffre has forfeited any claim that her own (defamatory)
+words are somehow confidential. Indeed, what Ms. Giuffre’s own counsel have referred to as
+the “strong current media interest in the case”—which Ms. Giuffre has worked to sustain,
+including by selling her story—bolsters the public’s right to access the Requested Documents.
+Were Ms. Giuffre to prevail in her efforts to suppress these documents of high public interest, the
+result would be absurd and unfair: Ms. Giuffre’s false allegations would remain in the public
+record, while the innocent victim of her slanders would be barred from using her own words to
+disprove them. No one should be permitted to game the legal system so perversely.
+The law recognizes Professor Dershowitz’s right to the Requested Documents under the
+First Amendment, the common-law right of access to judicial documents, and governing Second
+Circuit jurisprudence, which forbids sealing and secrecy for their own sake. Here, having
+waived any privacy interest she may have had by both disseminating the allegations against
+Professor Dershowitz and by filing this lawsuit against Ghislaine Maxwell, Ms. Giuffre should
+not be heard to say that her own words, and the words of those with whom she communicated,
+are somehow “confidential.” They are not. This Court should grant Professor Dershowitz the
+right to intervene in this action and unseal the Requested Documents.
+3
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 10 of 32
+FACTUAL AND PROCEDURAL BACKGROUND
+I. MS. GIUFFRE’S ALLEGED RELATIONSHIP WITH JEFFREY EPSTEIN AND
+BELATED ACCUSATIONS AGAINST PROFESSOR DERSHOWITZ
+In 2006, Professor Dershowitz was retained by financier Jeffrey Epstein to join a team of
+lawyers hired to defend Epstein against accusations that he had solicited sex workers and had
+inappropriate sexual encounters with underage girls.1 Declaration of Alan M. Dershowitz
+(“Dershowitz Decl.”) ¶¶ 6-7. In 2008, Epstein pleaded guilty to certain offenses involving sex
+with minors. Id. ¶ 7. Ms. Giuffre has alleged that she was one of Epstein’s victims, although
+Epstein was neither charged nor convicted of any conduct toward her. Id. ¶ 8. Ms. Giuffre
+claims that she was held as a “sex slave” and trafficked by Epstein, who she alleges facilitated
+sexual encounters with a number of men. Id.
+In the period from 2006 through 2014, Ms. Giuffre submitted to interviews with law
+enforcement, told her story to the media, drafted a tell-all memoir, and filed a lawsuit alleging
+that Mr. Epstein had trafficked her to many of his prominent associates. Id. ¶¶ 10-14. During
+this period, Ms. Giuffre never once claimed to have had any sexual contact with Professor
+Dershowitz, much less that he had sexually abused her. Id. Then, in December 2014, Ms.
+Giuffre—represented by attorneys Bradley Edwards and Paul Cassell—filed a motion to join an
+action (the “CVRA Action”) that had been initially filed in the United States District Court for
+the Southern District of Florida in 2008 by another of Mr. Epstein’s alleged victims, who was
+designated as “Jane Doe.” Jane Doe #1 v. United States of America, No. 08 Civ. 80736 (S.D.
+Fla.) (hereinafter, Doe v. USA); Dershowitz Decl. ¶ 16. In late 2014 and early 2015, Ms.
+Giuffre’s lawyers alleged in public court filings in the CVRA Action that Mr. Dershowitz had
+had sex with Ms. Giuffre on numerous occasions while she was a minor, including in Florida, on
+1 Professor Dershowitz had been acquainted with Mr. Epstein through academic events for a number of years prior
+to his retention as Mr. Epstein’s counsel, but had neither witnessed nor heard about allegations of sexual misconduct
+by Mr. Epstein before being hired to represent him. Dershowitz Decl. ¶ 6.
+4
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 11 of 32
+Mr. Epstein’s private planes, in the British Virgin Islands, in New Mexico, and in New York.
+Dershowitz Decl. ¶ 17. Unlike much of the record in the CVRA Action, these allegations were
+not sealed; instead, they were filed publicly without any evidence to support them and without
+affording Professor Dershowitz an opportunity to dispute them. Id. Although Ms. Giuffre
+elaborated these false allegations in subsequent filings, eventually, the presiding judge in the
+CRVA Action struck them as a sanction against the lawyers who had filed them. But the damage
+to Professor Dershowitz’s reputation had been done—and it would persist. Id. ¶¶ 18-19.
+In the wake of the grotesque allegation that he is a pedophile and a sex criminal,
+Professor Dershowitz loudly and publicly defended himself. In January 2015, Ms. Giuffre’s
+attorneys, Mr. Edwards and Mr. Cassell, sued Professor Dershowitz for defamation, citing
+comments he made in his own defense. Id. ¶ 21. During discovery in that action, Ms. Giuffre
+never produced the Emails or the Manuscript despite a court order requiring her to provide all
+statements referencing Professor Dershowitz by name; she also falsely testified under oath in her
+deposition that she never exchanged emails with Sharon Churcher or other members of the press
+about Professor Dershowitz. Id. ¶¶ 22-23. The defamation action ultimately settled in April
+2016, and the parties released a joint statement in which attorneys Cassell and Edwards admitted
+that it was a mistake to accuse Professor Dershowitz of sexual misconduct in their filings in the
+CVRA Action and withdrew those allegations. Id. ¶ 24 & Ex. H. Also in April 2016, Professor
+Dershowitz released the results of a thorough investigation led by former FBI Director and
+federal judge Louis Freeh, which found that “the totality of the evidence” “refutes the allegations
+made against” Professor Dershowitz by Ms. Giuffre. Id. ¶ 25 & Ex. I.
+II. MS. GIUFFRE AND HER ATTORNEYS’ CONTINUING INSISTENCE ON, AND
+REPETITION OF, ACCUSATIONS AGAINST PROFESSOR DERSHOWITZ
+Despite the settlement of the defamation case and the resulting joint statement, the court
+order striking the “lurid” allegations against Professor Dershowitz in the CVRA Action, and the
+5
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 12 of 32
+results of Judge Freeh’s investigation, Ms. Giuffre and her counsel have republished Ms.
+Giuffre’s allegations against Professor Dershowitz. Id. ¶ 26. For example, on April 8, 2016, just
+after the settlement of the defamation case, Mr. Cassell and Mr. Edwards made a court filing that
+stated that Ms. Giuffre “reaffirms” her allegations against him, and that their mistake in filing
+those allegations in the CVRA Action was merely “tactical.” Id. ¶ 26 & Ex. J. David Boies,
+another of Ms. Giuffre’s attorneys in this case, was described as saying that Ms. Giuffre “stands
+by her allegations” against Professor Dershowitz. See Casey Sullivan, Alan Dershowitz Extends
+Truce Offer to David Boies Amid Bitter Feud, BLOOMBERG LAW (Apr. 11, 2016),
+https://bol.bna.com/alan-dershowitz-extends-truce-offer-to-david-boies-amid-bitter-feud/. These
+statements—which falsely imply that Professor Dershowitz is guilty of sexual misconduct—are
+highly injurious to his reputation, especially when they come from otherwise-credible lawyers.
+Id. ¶ 26. The claim that Professor Dershowitz engaged in sexual misconduct with Ms. Giuffre
+has also continued to receive attention in the press. See id. ¶ 27 & Ex. K. Professor Dershowitz
+has learned that Ms. Giuffre sat for an interview with ABC News, presumably as part of her
+efforts to increase public interest in (and the commercial value of) her “story.” Id. ¶ 27. The
+interview was announced on social media by an organization with which Mr. Edwards is
+associated and was said to be slated to appear on ABC’s Good Morning America, World News
+Tonight, and Nightline programs. Id. While the ABC News interview apparently has not yet
+run, there is no assurance that it will not run in the future. Id.
+III. THE EXCULPATORY EMAILS, REPLY BRIEF, AND MANUSCRIPT
+Each of the Requested Documents corroborates Professor Dershowitz’s claims of
+innocence and undermines both Ms. Giuffre’s credibility generally and the veracity of her
+accusations against Professor Dershowitz specifically.
+6
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 13 of 32
+First, the Emails, consisting of one exchange dated May 10-11, 2011 and another dated
+June 8, 2011, discuss, among other topics, Ms. Giuffre’s Manuscript, which purports to recount
+her experiences with Epstein and other prominent people. Id. ¶ 34. Within the May 2011
+exchange, Ms. Giuffre writes to Ms. Churcher on May 10, 2011:
+“Hello gorgeous, I hope this message comes to you on a bright,
+sunny day!!! I took your advice about what to offer Sandra and she
+accepted. Were drawing up a contract through her agent right now
+and getting busy to meet my deadline. Just wondering if you have
+any information on you from when you and I were doing
+interviews about the J.E. story. I wanted to put the names of these
+assholes, oops, I meant to say, pedo’s, that J.E. sent me to. With
+everything going on my brain feels like mush and it would be a
+great deal of help!...”
+Dershowitz Decl., Ex. A at GIUFFRE004096-97. In an e-mail dated May 11, 2011, Ms.
+Churcher replies to Mrs. Giuffre, urging her to use Professor Dershowitz’s name in her book
+proposal despite the lack of any evidence of his involvement in wrongdoing:
+Don't forget Alan Dershowitz...JE’s buddy and lawyer..good name
+for your pitch as he repped Claus von Bulow and a movie was
+made about that case...title was Reversal of Fortune. We all suspect
+Alan is a pedo and tho no proof of that, you probably met him
+when he was hanging put [sic] w JE.”
+Id. at GIUFFRE004096.2
+The June 8, 2011 exchange shows Ms. Churcher corresponding with a book agent to
+promote Ms. Giuffre’s book; Ms. Giuffre is copied on the message. Ms. Churcher mentions
+Professor Dershowitz as one of Epstein’s lawyers, together with Kenneth Starr, but not as an
+abuser:
+Hi Jarred
+Hopefully you have Virginia' s book pitch by now.
+She has some amazing names which she can share with you in
+confidence and I think she also has a human interest story that
+2 The relevant excerpts of the Requested Documents are reproduced herein without any alterations or corrections to
+spelling, grammar, or typographical errors.
+7
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 14 of 32
+could appeal to the Oprah/female set as well as the Wall Streeters
+who follow Epstein — a hedge fund king.
+Here are a few of our stories about Virginia, plus some examples
+of the massive US and other international media pickup. Vanity
+Fair are doing a piece I believe in their August issue. The FBI have
+reopened the Epstein case due to Virginia’s revelations. I also am
+attaching a link to a NY Magazine profile of Epstein.....written
+before his world combusted. The FBI believe he was essentially
+running a private — and mobile -- brothel for some of the world’s
+richestand most influential men.
+He got off the first time round after retaining Kenneth Starr (who
+witchhunted Bill Clinton) and Alan Dershowitz (von Bulow's
+appeal lawyer, who inspired the movie Reversal of Fortune). The
+US Justice Dept is investigating corruption allegations against at
+least one prosecutor involved in the case.
+Best regards,
+Sharon
+Id. at GIUFFRE004028-29.
+The Emails were filed under seal in connection with Ms. Churcher’s motion to quash her
+deposition subpoena. Dershowitz Decl. ¶ 38. The Reply Brief, also filed under seal in pertinent
+part, characterizes these emails from Ms. Churcher’s perspective, asserting as follows:
+Churcher makes no suggestion that [Ms. Giuffre] had sexual
+contact with Dershowitz. To the contrary, she states that there was
+‘no proof’ that he was a ‘pedo’—which directly contradicts such a
+suggestion in itself—but only that [Ms. Giuffre] ‘probably met him
+when he was hanging out with [Jeffrey Epstein]’.
+Dershowitz Decl., Ex. M at 8.
+Finally, the Manuscript—which was filed in connection with Ms. Maxwell’s opposition
+to Ms. Giuffre’s request for an extension of the deposition discovery deadline—further
+corroborates that Ms. Giuffre’s allegations against Professor Dershowitz are a recent fabrication.
+The draft mentions Professor Dershowitz only once, claiming, falsely, that he once walked into a
+room while Ms. Giuffre was in bed after a sexual encounter with Jeffrey Epstein:
+8
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 15 of 32
+Jeffrey’s business was running well from the looks of his
+attentiveness the office he owned in the Upper East Side of
+Manhattan. Alan Dershowitz, his colleague in finances and
+personal solicitor, a bird of the same feather, I had seen hanging
+around the island and Jeffrey’s Manhattan mansion, more and
+more these days. Alan’s taste for the young and beautiful was a
+bias for a blooming business relationship between him and Jeffrey.
+After an explicit session of Jeffrey’s vulgar pilgrimage into my
+body, we were interrupted by a knock at the door by Jeffrey’s good
+friend, Alan. I wrapped myself up in Jeffrey’s pink bed sheets,
+which is the color preference he chose to sleep in because it
+reminded him of the same color of his own words " Pussy", and
+covered my face from the unexpected intrusion. Jeffrey got up and
+wrapped a towel around his loins and answered the door
+completely calm. Opening the bedroom door and letting Alan
+inside they began to converse about business immediately, right in
+front of me. Jeffrey started to tell Alan what needed to be done
+while he jostled some notes down quickly. I peeked my head from
+underneath the covers thinking they were too wrapped up in their
+work to notice me get up and dressed, and Jeffrey turned back to
+me and told me to just stay there this would only take a second.
+Going back to Alan he turned his focus back into work and hustled
+out a few more orders before letting Alan out of the door and
+returning his attention to me.
+Dershowitz Decl., Ex. B at 112. Putting aside that this account is a complete fabrication—
+Professor Dershowitz had no business dealings with Mr. Epstein and was not his lawyer at the
+time in question—the Manuscript contains no mention anywhere of any sexual contact between
+Professor Dershowitz and Ms. Giuffre, or between Professor Dershowitz and any other person.
+Indeed, though the Manuscript describes sexual encounters Ms. Giuffre allegedly had with a
+different member of the Harvard faculty—whom she identifies by name and physical
+characteristics—it levels no such accusation against Professor Dershowitz. Dershowitz
+Decl. ¶ 37.
+The Requested Documents, taken together with other evidence currently in the public
+record, prove the following:
+(cid:120) Before her email correspondence with Sharon Churcher in 2011, Ms.
+Giuffre did not in any way accuse Professor Dershowitz of sexual abuse,
+9
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 16 of 32
+even though she had accused other prominent people of abusing her and
+had plenty of opportunity to do so.
+(cid:120) In an exchange of emails in 2011, Ms. Churcher, who was advising Ms.
+Giuffre about how to maximize her payments for selling her story, first
+raised the idea of mentioning Professor Dershowitz in connection with the
+alleged abuse, despite the fact that there was “no proof” that he was
+involved.
+(cid:120) After receiving this email, Ms. Giuffre did in fact put Mr. Dershowitz in
+her book draft, but she conspicuously did not accuse him of sexual abuse
+or even any sexual contact, even though she explicitly named others who
+she claimed had abused her.
+(cid:120) In a subsequent email exchange between Ms. Churcher, Ms. Giuffre, and
+Mr. Weisfeld, Ms. Churcher described several categories of prominent
+individuals with whom Ms. Giuffre claimed to have had sexual
+encounters. Professor Dershowitz’s name, along with that of Kenneth
+Starr, is mentioned in the email, but only as one of the lawyers who
+negotiated Mr. Epstein’s plea agreement, not as one the “amazing names”
+of those who allegedly abused Ms. Giuffre.
+(cid:120) Ms. Giuffre lied during her deposition in the defamation case brought by
+her lawyers against Professor Dershowitz, testifying that there were no
+emails between herself and Ms. Churcher that mentioned Professor
+Dershowitz by name. Her lawyers did not correct this testimony.
+(cid:120) In her Reply Brief, Ms. Churcher has confirmed that Professor Dershowitz
+was not among the prominent individuals that Ms. Giuffre was accusing of
+sexual misconduct. The Reply Brief affirmatively argues that Ms.
+Churcher was “not suggesting” that Professor Dershowitz had sex with
+Ms. Giuffre, but merely mentioned him to remind Ms. Giuffre that Epstein
+and Professor Dershowitz knew each other.
+Id. ¶ 43.
+The Requested Documents strongly corroborate Professor Dershowitz’s denials of Ms.
+Giuffre’s malicious and false allegations against him, and undermine her credibility by showing
+that she has lied under oath about him before. Id. ¶ 44. Because Ms. Giuffre and her lawyers
+continue to publicly stand by Ms. Giuffre’s accusations against Professor Dershowitz, he has a
+compelling need to use the Requested Documents in defending his reputation. Id. ¶ 47.
+10
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 17 of 32
+IV. THE REVELATION OF THE EXCULPATORY DOCUMENTS TO PROFESSOR
+DERSHOWITZ
+In or about May 2016, Professor Dershowitz was named as a witness in this case by both
+plaintiff and defendant. Id. ¶ 29. Thereafter, he was contacted by defense counsel Ms. Laura
+Menninger, in anticipation of his possible future testimony. Id. ¶ 30. After Professor
+Dershowitz agreed to abide by the terms of the stipulated Protective Order in this case (the
+“Protective Order”), Ms. Menninger sent Professor Dershowitz the Requested Documents to
+review pursuant to a provision permitting documents produced confidentially in discovery to be
+shown to potential witnesses. See id. ¶¶ 30, 32; Ex. L. Professor Dershowitz was previously
+unaware that the Requested Documents existed. Id. ¶¶ 40-41.
+ARGUMENT
+I. PROFESSOR DERSHOWITZ SHOULD BE PERMITTED TO INTERVENE
+UNDER FEDERAL RULE OF CIVIL PROCEDURE 24(B)
+“On timely motion, the court may permit anyone to intervene,” Fed. R. Civ. P. 24(b)(1),
+provided the proposed intervenor “has a claim or defense that shares with the main action a
+common question of law or fact,” id. R. 24(b)(1)(B). The decision to permit intervention under
+Rule 24(b) is discretionary, U.S.P.S. v. Brennan, 579 F.2d 188, 191 (2d Cir. 1978), though the
+Court “must consider whether the intervention will unduly delay or prejudice the adjudication of
+the original parties’ rights,” Fed. R. Civ. P. 24(b)(3). “Additional relevant factors include the
+nature and extent of the intervenors’ interests, the degree to which those interests are adequately
+represented by other parties, and whether parties seeking intervention will significantly
+contribute to the full development of the underlying factual issues in the suit and to the just and
+equitable adjudication of the legal questions presented.” Diversified Grp., Inc. v. Daugerdas,
+217 F.R.D. 152, 157 (S.D.N.Y. 2003) (internal quotation marks and alteration omitted).
+“It is well-settled that intervention pursuant to Rule 24(b) is the proper procedure for a
+third party to seek to modify a protective order in a private suit.” Id. (collecting authorities).
+11
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 18 of 32
+Likewise, permissive intervention “has generally been found to be most appropriate for a non-
+party to intervene in order to assert the right to public access” for judicial documents. United
+States v. Erie Cnty., No. 09 Civ. 849, 2013 WL 4679070, at *5 (W.D.N.Y. Aug. 30, 2103)
+(collecting authorities), rev’d on other grounds, 763 F.3d 235 (2d Cir. 2014). Here, all relevant
+considerations support granting Professor Dershowitz’s motion for permissive intervention.
+A. There Is Significant Overlap Between the Subject Matter of the Original
+Action and This Motion
+Many courts have held that a non-party’s assertion of a right to access sealed or
+confidential litigation materials itself presents a question of law common among the parties and
+the proposed intervenor, satisfying the prerequisites for permissive intervention. “[W]hen a
+district court enters a closure order, the public’s interest in open access is at issue and that
+interest serves as the necessary legal predicate for intervention.” Jessup v. Luther, 227 F.3d 993,
+998 (7th Cir. 2000). “Because an intervenor asserting the right of public access is not becoming
+a party to the underlying merits of a case, further specificity is not required.” Erie Cnty., 2013
+WL 4679070, at *5. Even if a more particularized showing of factual or legal commonality were
+needed, Professor Dershowitz could easily make it. This lawsuit concerns the veracity of Ms.
+Giuffre’s allegations of sexual abuse—allegations of which Professor Dershowitz has been a
+repeated target. The Requested Documents are relevant to the credibility both of Ms. Giuffre’s
+claims generally and of her allegations against Professor Dershowitz specifically. Both parties
+have listed Professor Dershowitz as a key witness in this case, Dershowitz Decl. ¶ 29, and he is
+likely to provide testimony as the litigation proceeds.
+B. There Is No Risk of Undue Delay or Prejudice
+Professor Dershowitz’s motion seeks extremely narrow and tailored relief: the unsealing
+of a small number of already-filed documents or the modification of a blanket Protective Order
+as to one discovery document. Dershowitz Decl. ¶ 3. In the context of this complex case, where
+12
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 19 of 32
+a number of discovery disputes and other applications have been submitted to the Court in just
+the last few weeks, this modest request is unlikely to appreciably affect the schedule of the
+litigation or to delay its ultimate disposition. See Schiller v. City of N.Y., No. 04 Civ. 7922, 2006
+WL 2788256, at *3 (S.D.N.Y. Sept. 27, 2006) (noting that intervention “for the limited purpose
+of challenging strictures on the dissemination of information should not impede the progress of
+the litigation”).
+C. Professor Dershowitz Has a Compelling Interest in Access That Is Not
+Represented by Any Existing Party
+As the Supreme Court has recognized, the public’s right to access judicial proceedings
+and documents extends well beyond those with direct interests in the subject matter of the
+litigation at issue: “American decisions generally do not condition enforcement of this right on a
+proprietary interest in the document or upon a need for it as evidence in a lawsuit.” Nixon v.
+Warner Commc’ns, Inc., 435 U.S. 589, 597 (1978) (noting that “the citizen’s desire to keep a
+watchful eye on the workings of public agencies” is a sufficient basis to compel access). Even
+if a more concrete stake were needed, Professor Dershowitz has a compelling interest in
+obtaining and disclosing the Requested Documents, which corroborate his denials of Ms.
+Giuffre’s heinous allegations against him and undermine her credibility. He also plans to rely on
+them to defend against a request for sanctions against him that is pending on appeal in a Florida
+court. Dershowitz Decl. ¶ 46. Although Professor Dershowitz has valiantly fought to clear his
+name—by, among other efforts, marshaling incontrovertible proof of his innocence, asserting
+defamation claims in court, and commissioning a thorough investigation led by a respected
+former federal judge that exonerated him—he has found himself unable to stem the tide of media
+reports and public statements by Ms. Giuffre and her lawyers labeling him a pedophile and
+sexual abuser. Professor Dershowitz seeks to intervene here to assert his First Amendment and
+13
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 20 of 32
+federal common-law rights to access information he needs to defend his hard-earned reputation.
+That interest is more than a sufficient basis to permit intervention under Rule 24(b).
+II. THE FIRST AMENDMENT AND THE COMMON LAW REQUIRE PUBLIC
+ACCESS TO THE REQUESTED DOCUMENTS
+A. Legal Standard
+“Federal courts employ two related but distinct presumptions in favor of public access to
+court proceedings and records: a strong form rooted in the First Amendment and a slightly
+weaker form based in federal common law.” Newsday LLC v. Cnty. of Nassau, 730 F.3d 156,
+163 (2d Cir. 2013). “Underlying that First Amendment right of access is the common
+understanding that a major purpose of that Amendment was to protect the free discussion of
+governmental affairs.” Westmoreland v. CBS, Inc., 752 F.2d 16, 22 (2d Cir. 1984) (quoting Mills
+v. Alabama, 384 U.S. 214, 218 (1966)). Similarly, the common law right of access, which “is
+said to predate the Constitution,” United States v. Amodeo (Amodeo I), 44 F.3d 141, 145 (2d Cir.
+1995), rests on “the need for federal courts, although independent—indeed, particularly because
+they are independent—to have a measure of accountability and for the public to have confidence
+in the administration of justice,” United States v. Amodeo (Amodeo II), 71 F.3d 1044, 1048 (2d
+Cir. 1995).
+Both the First Amendment and common law rights of access create a presumption against
+secrecy for “judicial documents.” See Newsday, 730 F.3d at 164 (First Amendment); Amodeo I,
+44 F.3d at 145-46 (common law). The Second Circuit has explained that “the item filed must be
+relevant to the performance of the judicial function and useful in the judicial process in order for
+it to be designated a judicial document.” Amodeo I, 44 F.3d at 145. Once an item’s status as a
+“judicial document” has been established, the common law and the First Amendment demand
+distinct analyses to determine whether the presumption of access is overcome.
+14
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 21 of 32
+1. The Common Law Test
+In determining the applicability of the common-law right of access to a given document,
+courts are charged with determining the weight of the presumption of access under the particular
+circumstances presented. The presumption applies to all judicial documents, but the strength of
+the presumption varies according to the importance of a given document in the judicial process.
+The weight afforded to the presumption of access is “governed by the role of the material at issue
+in the exercise of Article III judicial power and the resultant value of such information to those
+monitoring the federal courts.” Lugosch v. Pyramid Co. of Onodaga, 435 F.3d 110, 119 (2d Cir.
+2006). The Second Circuit has explained that “documents that directly affect an adjudication
+and play a significant role in determining litigants’ substantive rights receive the benefit of a
+relatively strong presumption, while the public interest in other documents is not as pressing.”
+United States v. Graham, 257 F.3d 143, 153 (2d Cir. 2001) (internal quotation marks and
+citations omitted). “Finally, after determining the weight of the presumption of access, the court
+must balance competing considerations against it.” Lugosch, 435 F.3d at 120 (internal quotation
+marks omitted). “Such countervailing factors include but are not limited to the danger of
+impairing law enforcement or judicial efficiency and the privacy interests of those resisting
+disclosure.” Id. (internal quotation marks omitted).
+2. The First Amendment Test
+Even where the common law right of access is found to be inapplicable, the First
+Amendment may still require disclosure of judicial documents. The First Amendment right of
+access is “stronger than its common law ancestor and counterpart.” United States v. Erie Cnty.,
+763 F.3d 235, 239 (2d Cir. 2014). In deciding First Amendment access claims, the Second
+Circuit considers “(a) whether the documents have historically been open to the press and
+general public (experience) and (b) whether public access plays a significant positive role in the
+15
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 22 of 32
+functioning of the particular process in question (logic).” Id. (internal quotation marks omitted).
+“Once a First Amendment right of access to judicial documents is found, the documents may be
+sealed only if specific, on the record findings are made demonstrating that closure is essential to
+preserve higher values and is narrowly tailored to serve that interest.” Id. (internal quotation
+marks and alteration omitted).
+B. The Requested Documents Are Judicial Documents
+For a document to appropriately be deemed a “judicial document,” “[i]t is sufficient that
+the document was submitted to the Court for purposes of seeking or opposing an adjudication.”
+United States v. Sattar, 471 F. Supp. 2d 380, 385 (S.D.N.Y. 2006). Here, the Emails and the
+Reply Brief have been submitted to the Court in connection with Ms. Churcher’s efforts to quash
+her deposition subpoena and Defendant’s opposition to those efforts, while the Manuscript was
+submitted to the Court in connection with a motion to extend the deposition discovery deadline.
+Accordingly, all qualify as “judicial documents.”
+Courts in this district3 have repeatedly held that documents submitted in support of or
+opposition to a discovery motion are judicial documents. See, e.g., Alexander Interactive, Inc. v.
+Adorama, Inc., No. 12 Civ. 6608, 2014 WL 4346174, at *2 (S.D.N.Y. Sept. 2, 2014) (“Here, the
+documents to be submitted are in support of a motion to compel discovery and presumably will
+be necessary to or helpful in resolving that motion. They are, therefore, judicial documents.”);
+Dandong v. Pinnacle Performance Ltd., No. 10 Civ. 8086, 2012 WL 6217646, at *2 (S.D.N.Y.
+Dec. 3, 2012) (applying presumption of public access to papers filed in connection with a motion
+for reconsideration of a discovery order); Gucci Am., Inc. v. Guess?, Inc., No. 09 Civ. 4373,
+2010 WL 1416896, at *2 (S.D.N.Y. Apr. 8, 2010) (holding that “declarations and a
+3 Some federal Courts of Appeals have suggested that the presumption of access does not apply to documents filed
+in connection with discovery motions. See, e.g., Chi. Tribune Co. v. Bridgestone/Firestone, Inc., 263 F.3d 1304,
+1312-13 (11th Cir. 2001); Leucadia, Inc. v. Applied Extrusion Techs., Inc., 998 F.2d 157, 165 (3d Cir. 1993);
+Anderson v. Cryovac, Inc., 805 F.2d 1, 11 (1st Cir. 1986). But the Second Circuit has never adopted such a rule, and
+the weight of district court authority in the Southern District of New York rejects this approach.
+16
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 23 of 32
+memorandum of law” seeking to limit discovery “clearly constitute ‘judicial documents’”); In re
+Omnicom Grp., Inc. Secs. Litig., No. 02 Civ. 4483, 2006 WL 3016311, at *2 (S.D.N.Y. Oct. 23,
+2006) (holding that letter briefs and attached exhibits submitted to the court in connection with a
+privilege dispute were “submitted in this case to request the court to exercise its adjudicative
+powers in favor of the parties’ respective views of a discovery dispute” and therefore were
+judicial documents); Schiller, 2006 WL 2788256, at *5 (holding that briefs and supporting
+papers submitted in connection with a dispute over the confidentiality of discovery materials
+were “created by or at the behest of counsel and presented to a court in order to sway a judicial
+decision” and were therefore “judicial documents that trigger the presumption of public access”);
+S.E.C. v. Oakford Corp., No. 00 Civ. 2426, 2001 WL 266996, at *1 (S.D.N.Y. Mar. 16, 2001)
+(applying presumption of access to judicial documents to motion papers filed in connection with
+a discovery dispute); see also In re Gushlak, No. 11-MC-0218, 2012 WL 3683514, at *3
+(E.D.N.Y. July 27, 2012) (holding that documents filed in support of and opposition to a motion
+for discovery assistance, including motions to quash, were judicial documents). The Requested
+Documents were submitted to the Court to influence its adjudication of the motion to quash and
+the motion to extend the deposition deadline, and they are therefore judicial documents.
+C. The Common Law Right of Access Applies to the Requested Documents
+1. The Weight of the Presumption of Access Is Strong
+Treating materials submitted in connection with a discovery motion as judicial
+documents that the public may presumptively access gives effect to the purposes of the common
+law right, which is to facilitate public monitoring of the exercise of judicial power. “Monitoring
+both provides judges with critical views of their work and deters arbitrary judicial behavior.”
+Amodeo II, 71 F.3d at 1048.
+17
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 24 of 32
+The motion in connection with which the Emails and the Reply Brief were submitted
+concerns whether the Court should overrule a claim of privilege and compel testimony on pain of
+contempt. See Fed. R. Civ. P. 45(g) (providing that the court “may hold in contempt a person
+who, having been served, fails without adequate excuse to obey [a] subpoena or an order related
+to it”). Compelling testimony is a quintessential exercise of coercive judicial power that the
+public is entitled to monitor. See United States v. Bryan, 339 U.S. 323, 331-32 (1950)
+(elaborating the importance of balancing “the great power of testimonial compulsion” against
+exemptions “grounded in a substantial individual interest which has been found, through
+centuries of experience, to outweigh the public interest in the search for truth”). Just as
+disclosure of pretrial suppression proceedings in criminal cases “enhances the basic fairness of
+the judicial process and the appearance of fairness that is essential to public confidence in the
+system,” In re N.Y. Times Co., 828 F.2d 110, 114 (2d Cir. 1987), affording access to proceedings
+concerning the permissibility of civil discovery provides an important check on the exercise of
+Article III power.
+Likewise, the Court should afford a strong presumption of access to the Manuscript,
+which was submitted as part of Defendant’s opposition to a request to extend a discovery
+deadline. The Second Circuit has recognized that a district court’s decisions concerning the
+scope and timing of discovery may “affect a party’s substantial rights.” Long Island Lighting
+Co. v. Barbash, 779 F.2d 793, 795 (2d Cir. 1985). As one court has aptly explained:
+The discovery process is clearly an important element of civil
+litigation. The manner in which it proceeds may prove decisive to
+the outcome of particular disputes, and the availability of
+mandatory discovery has greatly affected the way in which our
+courts do justice. Moreover, discovery procedures have become a
+continuing focus of controversy and reform within the judiciary
+and the legal community. This debate has arisen precisely because
+discovery is so important in trial practice. If we take as our
+standard that the public’s right of access attaches to decisions ‘of
+18
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 25 of 32
+major importance to the administration of justice, then discovery
+motions and hearings fall within the ambit of this right.
+Mokhiber v. Davis, 537 A.2d 1100, 1112 (D.C. Ct. App. 1988) (internal quotation marks and
+citations omitted). Courts in this district have repeatedly recognized that filings submitted in
+connection with a motion to alter the pace or schedule of litigation are subject to public access.
+See, e.g., Lenart v. Coach Inc., 131 F. Supp. 3d 61, 72 (S.D.N.Y. 2015) (applying presumption of
+public access to “papers filed in connection with [a] motion to stay”); Skyline Steel, LLC v.
+PilePro, LLC, No. 13 Civ. 8171, 2015 WL 556545, at *4 (S.D.N.Y. Feb. 9, 2015) (same).
+“While adjudication of the ultimate merits of the case arguably triggers the highest
+degree of protection against sealing, this does not imply that motion papers addressed to a
+discovery dispute do not trigger the public-access presumption.” In re Omnicom Grp., 2006 WL
+3016311, at *4. Because the Requested Documents were submitted by the parties in connection
+with discovery motions to be adjudicated by the Court, “those documents are entitled to the
+strongest presumption of public access.” In re Gushlak, 2012 WL 3683514, at *4.
+2. There Are No Countervailing Interests That Outweigh the Right of
+Access
+The limited unsealing Professor Dershowitz seeks threatens none of the harms courts
+have recognized as sufficient to outweigh the right of access to judicial documents. As an initial
+matter, Professor Dershowitz seeks to reveal unflattering (and false) statements about himself.
+Thus, the general rule “that the common law right of access is qualified by recognition of the
+privacy rights of the persons whose intimate relations may thereby be disclosed,” In re Newsday,
+Inc., 895 F.2d 74, 79 (2d Cir. 1990), has no application. Nor does Ms. Giuffre possess any claim
+to privacy concerning the information Professor Dershowitz seeks to unseal. The Requested
+Documents discuss her allegations against a number of public figures, and relate to the
+preparation of a book manuscript with the goal of international publication and distribution.
+19
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 26 of 32
+Nothing could be less private. Indeed, both Ms. Giuffre’s relationship with Ms. Churcher and
+the nature of her allegations against Professor Dershowitz have been the subject of publicly
+available court filings in this and other actions and of numerous media stories. Dershowitz Decl.
+¶¶ 15-20, 26-27; Ex. K. Any claim to confidentiality has been waived. See infra Part III.
+In short, the Requested Documents contain none of the kinds of information that give
+courts pause in granting public access to judicial documents. “The information at issue . . . does
+not involve the type of medical, health-related, family, or personal financial matter to which
+courts grant the greatest protection.” United States v. Martoma, No. S1 12 Cr. 973, 2014 WL
+164181, at *6 (S.D.N.Y. Jan. 9, 2014). It involves only contemporaneous evidence of a scheme
+to cook up false and defamatory allegations against Professor Dershowitz. He is entitled to
+access and use that evidence to defend himself.
+D. The First Amendment Guarantees Access to the Requested Documents
+Even if the common law did not compel the conclusion that the Requested Documents
+must be made public, the First Amendment would supply an alternative basis for their disclosure.
+The First Amendment presumption of access to judicial documents applies when “experience
+and logic” indicate that “the documents have historically been open to the press and general
+public,” and that “public access plays a significant positive role in the functioning of the
+particular process in question.” Lugosch, 435 F.3d at 120 (internal quotation marks omitted).
+With respect to the experience prong, the Second Circuit has held that “the notion of
+public access to judicial documents is a capacious one: the courts of this country have long
+recognized a general right to inspect and copy public records and documents, including judicial
+records and documents,” in order to facilitate public monitoring. Erie Cnty., 763 F.3d at 241
+(internal quotation marks omitted). Discovery motions and the documents supporting them are
+routinely filed in courts across the country without sealing and with the understanding that such
+20
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 27 of 32
+documents are publicly accessible. And while the relatively recent history of modern civil
+discovery practice means there is no ancient common-law analogue to the contemporary
+discovery motion, “[t]his absence, of course, is not surprising, for compelled discovery is a child
+of the first Federal Rules of Civil Procedure adopted in 1938.” Mokhiber, 537 A.2d at 1111. “It
+would make little sense to shut off access for what is, practically speaking, a new kind of judicial
+process just because that particular procedure did not exist at common law. Instead, the public
+should enjoy the right to view new kinds of proceedings when they are like traditional ones in
+this significant respect: that access will serve the same values and policies which underlie” the
+public right of access. Id. at 1112.
+As to the logic prong of the Second Circuit’s test, it is clear that public monitoring has an
+important role to play here. Ms. Giuffre’s allegations against Professor Dershowitz have been
+the subject of significant public interest and have been discussed at length in an array of
+international news stories. Indeed, in the CVRA Action, Ms. Giuffre’s own counsel cited
+“strong current media interest in the case” to oppose sealing the pleadings, pointing to Ms.
+Churcher’s stories among others as examples. Doe v. United States, No. 08 Civ. 80736 (S.D.
+Fla.), ECF No. 51, at 7. “The issues involved are manifestly ones of public concern and
+therefore ones which the public has an interest in overseeing.” Erie Cnty., 763 F.3d at 242.
+Because experience and logic dictate that the First Amendment right of access applies to
+the Requested Documents, their continued sealing would only be permissible on the basis of
+“specific, on-the-record findings that higher values necessitate a narrowly tailored sealing.”
+Lugosch, 435 F.3d at 126. Here, no such findings have ever been made; indeed, the Court has
+granted boilerplate sealing applications with no findings or judicial scrutiny whatsoever. See,
+e.g., ECF No. 254. There would be no basis to find that continuing secrecy is warranted, let
+alone “essential to preserve higher values.”
+21
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 28 of 32
+III. ALTERNATIVELY, THE PROTECTIVE ORDER SHOULD BE MODIFIED TO
+PERMIT DISCLOSURE OF THE REQUESTED DOCUMENTS
+Even where discovery materials are found not to be judicial documents, that does not
+automatically entitle them to confidential treatment. See Vazquez v. City of N.Y., No. 10 Civ.
+6277, 2014 WL 11510954, at *1 (S.D.N.Y. May 2, 2014). Here, although Professor Dershowitz
+is in rightful possession of the Requested Documents, he is prohibited from disseminating them
+by the parties’ stipulated, blanket Protective Order. See Dershowitz Decl. Ex. L. That order
+permits the parties to designate documents as confidential without particularized judicial
+scrutiny, which is how the Requested Documents became subject to a protective order in the first
+instance. Because there is no basis for judicial protection of the Requested Documents, the
+Protective Order should be modified to permit its disclosure.
+Federal Rule of Civil Procedure 26(c) permits issuance of a protective order only upon
+“good cause shown,” and requires that such orders issue only “to protect a party or person from
+annoyance, embarrassment, oppression, or undue burden or expense.” “[I]f good cause is not
+shown, the discovery materials in question should not receive judicial protection and therefore
+would be open to the public for inspection.” Gambale v. Deutsche Bank AG, 377 F.3d 133, 142
+(2d Cir. 2004) (internal quotation marks omitted). A protective order requires “particular and
+specific demonstration of fact as distinguished from stereotyped and conclusory statements”
+showing the harm that would result from disclosure. Louissier v. Universal Music Grp., Inc.,
+214 F.R.D. 174, 177 (S.D.N.Y. 2003).
+The Second Circuit’s general rule that a protective order should not be modified “absent a
+showing of improvidence in the grant of the order or some extraordinary circumstance or
+compelling need,” S.E.C. v. TheStreet.com, 273 F.3d 222, 229 (2d Cir. 2001), applies only when
+the parties have reasonably relied on the protective order in producing discovery. That is not the
+case here, where the protective order is a sweeping and generic stipulation permitting the parties,
+22
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 29 of 32
+and not the Court, to set the standards for access. “A blanket protective order is more likely to
+be subject to modification than a more specific, targeted order because it is more difficult to
+show a party reasonably relied on a blanket order in producing documents or submitting to a
+deposition.” In re EPDM Antitrust Litig., 255 F.R.D. 308, 319 (D. Conn. 2009).
+“Stipulated blanket orders are even less resistant to a reasonable request for modification.” Id.
+“An examination of Second Circuit case law reveals the following factors are relevant
+when determining whether a party has reasonably relied on the protective order[:] (1) the scope
+of the protective order; (2) the language of the order itself; (3) the level of inquiry the court
+undertook before granting the order; and (4) the nature of reliance on the order.” In re
+September 11 Litig., 262 F.R.D. 274, 277 (S.D.N.Y. 2009) (internal quotation marks omitted).
+Here, all four factors weigh against a finding of reasonable reliance. First, the Protective Order
+contains “expansive language granting the parties broad latitude to self-designate materials” as
+confidential, making it unreasonable for any party to rely on the prospect of indefinite and
+ironclad confidentiality protections in producing discovery. See EPDM, 255 F.R.D. at 320.
+Second, the Protective Order allows challenges to confidentiality designations, see Dershowitz
+Decl., Ex. L ¶ 11, and permits the Court to modify the order “at any time” for good cause, id. ¶
+14. “Given this provision, it is difficult to see how the [parties] can reasonably argue that they
+produced documents in reliance on the fact that the documents would always be kept secret.”
+Lugosch, 435 F.3d at 126.
+Third, “[t]he level of inquiry undertaken before the Order was entered also weighs in
+favor of modification because the Court ‘so ordered’ the parties’ stipulation without having
+cause to determine whether all the documents covered actually warranted protection.”
+Tradewinds Airlines, Inc. v. Soros, No. 08 Civ. 5901, 2016 WL 3951181, at *2 (S.D.N.Y. July
+20, 2016). While this practice can be salutary to the extent it preserves judicial resources and
+23
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 30 of 32
+promotes efficiency in complex civil discovery, it strongly weakens the parties’ claim to a
+reasonable expectation that every document marked confidential will remain subject to a Rule
+26(c) order indefinitely. See EPDM, 255 F.R.D. at 319. “Finally, the nature of the reliance on
+the Order weighs in favor of modification because there is no indication that the [parties] relied
+on the Order to produce documents they would not have otherwise disclosed.” Tradewinds
+Airlines, 2016 WL 3951181, at *2. Indeed, Ms. Giuffre could not reasonably have believed that
+she could avoid disclosing her own descriptions of, and communications about, the very subject
+matter of this lawsuit, which she commenced. See Lugosch, 435 F.3d at 125.
+Even if the parties’ reliance on the Protective Order could be deemed reasonable, which it
+cannot, Professor Dershowitz would handily satisfy TheStreet.com’s requirement of a compelling
+need or extraordinary circumstance. First, as one Court in this district explained recently,
+“courts within this circuit have found there to be a ‘compelling need’ or ‘extraordinary
+circumstance’ warranting modification where a blanket protective order is entered without a
+showing of good cause.” Tradewinds Airlines, 2016 WL 3951181, at *2 (collecting authorities).
+More importantly, under the circumstances, Professor Dershowitz’s need for the Requested
+Documents is undeniable. They strongly corroborate his denials of the sexual abuse allegations
+Ms. Giuffre belatedly levied against him, which were themselves first presented in documents
+filed publicly on a federal court docket. Dershowitz Decl. ¶ 43. Professor Dershowitz has a
+compelling need to use all available evidence to defend himself against Ms. Giuffre’s
+allegations, which have persisted despite a thorough investigation exonerating him and continue
+to be republished in the media. Dershowitz Decl. ¶¶ 16, 18, 45. Professor Dershowitz will also
+use the Requested Documents to defend against a sanctions motion that is pending in a state
+court in Florida, providing an independent basis to modify the Protective Order. See id. ¶ 46.
+24
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 31 of 32
+In contrast, there is no basis for a finding of good cause to protect the content of the
+Requested Documents, all of which concern Ms. Giuffre’s own allegations. She cannot credibly
+claim that disclosure will cause her “annoyance, embarrassment, oppression, or undue burden or
+expense,” see Fed. R. Civ. P. 26(c). Indeed, Ms. Giuffre has waived any claimed to
+confidentiality. She has publicly filed her accusations of sexual misconduct against an array of
+individuals, including Professor Dershowitz, in at least two lawsuits besides this one.
+Dershowitz Decl. ¶¶ 10-12, 15-20. She has sold her story to the media and sat for extensive
+interviews with Ms. Churcher and other reporters about the very same allegations that are the
+subject of the Requested Documents. Id. ¶¶ 13, 26-27. She even “agreed to waive her
+anonymity” in order to disseminate her story publicly. Sharon Churcher, Exclusive: Girl at
+Center of Underage Sex Procurement Case That Scandalised America Describes How She Was
+Introduced to the Prince, MAIL ON SUNDAY, Feb. 27, 2011. More recently, Ms. Giuffre sat for an
+interview with ABC News, hoping to increase public interest in her allegations. Dershowitz
+Decl. ¶ 27. Although the interview has not yet aired, it could be broadcast at any time, likely
+repeating once again the same allegations for which Ms. Giuffre has claimed confidentiality in
+the context of litigation discovery. See id. And her lawyers have continued to give interviews
+insinuating Professor Dershowitz’s guilt even after reaching a settlement with him and agreeing
+to release a public statement withdrawing their own public filing of the accusations against him.
+See Dershowitz Decl., Ex. H.
+In short, disseminating the information contained in the Requested Documents, which she
+has designated “confidential” in the context of this lawsuit, has been Ms. Giuffre’s life’s work
+for years. Having made every effort to publicize these allegations for personal and commercial
+gain, Ms. Giuffre should not be permitted now to make an abrupt about-face and claim that they
+are entitled to this Court’s protection from public dissemination.
+25
+Case 1:15-cv-07433-LAP Document 1328-6 Filed 01/05/24 Page 32 of 32
+CONCLUSION
+For the foregoing reasons, Professor Dershowitz respectfully requests that the Court grant
+his motion for permissive intervention and unseal the Requested Documents, or in the alternative
+modify the Protective Order to permit their dissemination.
+Dated: August 11, 2016
+New York, New York
+EMERY CELLI BRINCKERHOFF
+& ABADY LLP
+___________/s/_________________
+-
+Andrew G. Celli, Jr.
+David A. Lebowitz
+600 Fifth Avenue, 10th Floor
+New York, New York 10020
+(212) 763-5000
+Attorneys for Proposed Intervenor
+Alan M. Dershowitz
+26

@@ -1,0 +1,90 @@
+{
+  "doc_id": "1325-12",
+  "filename": "1325-12.pdf",
+  "extraction_date": "2025-11-17T10:23:05.971475",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 12703,
+  "images_extracted": 0,
+  "dates_found": 38,
+  "people_found": 33,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0017_01_04_24_From-Unknown_To-Unknown_11.txt",
+      "email_id": "0017"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 143
+    },
+    {
+      "date_string": "05/26/2016",
+      "position": 211
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 374
+    },
+    {
+      "date_string": "5/26/2016",
+      "position": 1070
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1128
+    },
+    {
+      "date_string": "5/26/2016",
+      "position": 1796
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1854
+    },
+    {
+      "date_string": "5/26/2016",
+      "position": 2632
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2690
+    }
+  ],
+  "people": [
+    "Arapahoe Avenue",
+    "Protected\nHealth Information",
+    "Physician Group Patient",
+    "Denver Colorado",
+    "Agren Blando Court",
+    "Lake City",
+    "File Under Seal",
+    "Certified Shorthand Reporter",
+    "By Paul",
+    "Civil Procedure",
+    "By Laura",
+    "Laura Menninger",
+    "Maxwell\nCase No",
+    "Registered Professional Reporter",
+    "Central Coast",
+    "Family Medicine",
+    "Produce Documents",
+    "Virginia Giuffre",
+    "Notary Public",
+    "Permit Inspection"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,881 @@
+# Document: gov.uscourts.nysd.447706.1328.41.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 91
+# People Found: 183
+# Locations Found: 3
+# Linked Emails: 4
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 1 of 31
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+RESPONSE IN OPPOSITION TO MOTION TO INTERVENE (DE 362)
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 2 of 31
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES..........................................................................................................ii
+I. INTRODUCTION..............................................................................................................1
+II. FACTUAL AND PROCEDURAL BACKGROUND........................................................3
+A. [REDACTED]...........................................................................................................3
+B. The Litigation Involving Dershowitz -The Florida Defamation Case...................5
+II. DERSHOWITZ RELEASES CONFIDENTIAL INFORMATION IN VIOLATION
+OF A FLORIDA COURT ORDER....................................................................................8
+III. THE PROTECTIVE ORDER IN THIS CASE..................................................................9
+IV. ARGUMENT....................................................................................................................10
+A. Legal Standard......................................................................................................10
+B. These Are Not Judicial Documents and Therefore Should Not be Disclosed......11
+C. Even Were the Court to Deem the Documents to be Judicial Documents, the
+Presumption of Access is Weak............................................................................15
+D. No Right of Access Exists Under the First Amendment......................................18
+E. The Second Circuit Has a Presumption Against Modifying Protective Orders
+Upon Which Parties Reasonably Relied...............................................................20
+1. The Record in this Case Shows That the Protective Order Was Not
+Improvidently Granted..............................................................................20
+2. The Parties and Deponents in This Case Have Reasonably Relied Upon
+the Protective Order..................................................................................21
+3. Dershowitz Seeks These Materials For an Illegitimate Purpose Which
+Disqualifies Him from Relief....................................................................22
+4. Under This Court’s Order, Non-Parties Cannot Challenge Confidentiality
+Designations and Dershowitz has Already Agreed to be Bound by the
+Parties’ Confidentiality Designations.......................................................24
+V. CONCLUSION.................................................................................................................25
+i
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 3 of 31
+TABLE OF AUTHORITIES
+Page
+Cases
+Alexander Interactive, Inc. v. Adorama, Inc.,
+No. 12 Civ. 6608, 2014 WL 4346174 (S.D.N.Y. Sept. 2, 2014)........................................15, 16
+Anderson v. Cryovac, Inc.,
+805 F.2d 1 (1st Cir.1986)..........................................................................................................13
+Bond v. Utreras,
+585 F.3d 1061 (7th Cir.2009)...................................................................................................13
+Calloway v. Westinghouse Elec. Corp.,
+115 F.R.D. 73 (M.D. Ga. 1987)................................................................................................24
+Chi. Tribune Co. v. Bridgestone/Firestone, Inc.,
+263 F.3d 1304 (11th Cir.2001).................................................................................................13
+Dandong v. Pinnacle Performance Ltd.,
+No. 10 Civ. 8086, 2012 WL 6217646 (S.D.N.Y. Dec. 3, 2012)...............................................15
+Dorsett v. County of Nassau,
+289 F.R.D. 54 (E.D.N.Y. 2012)..........................................................................................22, 23
+Dorsett v. County of Nassau,
+762 F.Supp.2d 500 (E.D.N.Y. 2011)........................................................................................17
+Edmondson v. State of Neb. ex. rel. Meyer,
+383 F.2d 123 (8th Cir. 1967)....................................................................................................25
+Flynn v. Hubbard,
+82 F.2d 1084 (1st Cir. 1986).....................................................................................................25
+Forsyth County v. U.S. Army Corps of Engineers,
+2009 WL 1312511 (N.D. Ga. May 8, 2009).............................................................................25
+Gosmile, Inc. v. Dr. Jonathan Levine, D.M.D. P.C.,
+2012 WL 1382557 (S.D.N.Y. 2012).........................................................................................14
+In re September 11 Litigation,
+262 F.R.D. 274 (S.D. N.Y. 2009).............................................................................................21
+In re Teligent, Inc.,
+640 F.3d 53 (2d Cir.2011).........................................................................................................21
+In re Zyprexa Injunction,
+474 F.Supp.2d 385 (E.D.N.Y. 2007)..................................................................................17, 19
+ii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 4 of 31
+Iridium India Telecom Ltd. v. Motorola, Inc.,
+165 Fed.Appx. 878 (2d Cir.2005).............................................................................................23
+Jane Doe No. 2 v. Epstein,
+No. 9:08-cv-80119-cv-KAM (S.D. Fla. Sept. 8, 2009)..............................................................4
+Joy v. North,
+692 F.2d 880 (2d Cir.1982).......................................................................................................17
+Kamakana v. City and County of Honolulu,
+447 F.3d 1172 (9th Cir. 2006)..................................................................................................12
+Leucadia, Inc. v. Applied Extrusion Technologies, Inc.,
+998 F.2d 157 (3d Cir. 1993)......................................................................................................13
+Levin v. U.S.,
+633 Fed. Appx. 69 (2nd Cir. 2016).......................................................................................1, 10
+LiButti v. United States,
+107 F.3d 110 (2d Cir. 1997)........................................................................................................5
+Liz Claiborne, Inc. v. Mademoiselle Knitwear, Inc.,
+1996 WL 346352 (S.D.N.Y.June 26, 1996)........................................................................1, 10
+Louis Vuitton Malletier, S.A. v. My Other Bag, Inc.,
+156 F.Supp.3d 425 (S.D.N.Y.2016).........................................................................................17
+Lugosch v. Pyramid Co. of Onondaga,
+435 F.3d 110 (2d Cir. 2006)......................................................................................................15
+Martindell v. International Telephone & Telegraph Corp.,
+594 F.2d 291 (2d Cir.1979).......................................................................................................22
+MasterCard Intern. Inc. v. Visa Intern. Service Ass'n, Inc.,
+471 F.3d 377 (2d Cir. 2006)......................................................................................................11
+Medical Diagnostic Imaging, PLLC v. Carecore Nat., LLC,
+2009 WL 2135294 (S.D.N.Y. 2009).........................................................................................23
+Newsday LLC v. County of Nassau,
+730 F.3d 156 (2d Cir. 2013)................................................................................................19, 20
+Nixon v. Warner Communications, Inc.,
+98 S.Ct. 1306, 435 U.S. 589 (1978)..........................................................................................24
+S.E.C. v. TheStreet.Com,
+273 F.3d 222 (2d Cir. 2001)......................................................................................................14
+iii
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 5 of 31
+Stern v. Cosby,
+529 F.Supp.2d 417 (S.D.N.Y. 2007).........................................................................................16
+U.S. v. Amodeo ("Amodeo I"),
+44 F.3d 141 (2d Cir. 1995).................................................................................................passim
+U.S. v. Amodeo ("Amodeo II"),
+71 F.3d 1044 (2d Cir. 1995)...............................................................................................passim
+Rules
+Fed. R. Civ. P. 24(b)(3).............................................................................................................1, 10
+Other Authorities
+8A Richard L. Marcus,
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)............................................21
+ALAN DERSHOWITZ,TAKING THE STAND:MY LIFE IN THE LAW(2013).......................................24
+"Did Dershowitz Shell Out Big Bucks to Get Settlement in Sex Case?"
+by Vivia Chen, April 12, 2016....................................................................................................9
+Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012)................................................21
+How Alan Dershowitz Bullied Rape Victims to Protect a Serial Child Molester,”
+by Rania Khalek, January 10, 2015............................................................................................5
+The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).........................................3
+Vanity Fair Reminds Us When Jeffrey Epstein Wasn’t aCreep,
+by Ray Gustini, in The Wire (June 21, 2011).............................................................................3
+iv
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 6 of 31
+I. INTRODUCTION
+The Court has before it a request from a non-party (Alan Dershowitz) to intervene in this
+case for the purpose of extractingand publicizing several emails and a draft manuscript from the
+Protective Order that has long been entered in this case. Dershowitz does not seek public access
+of these documents for the legitimate purpose of informing the public on this Court’s
+adjudication of its Article III powers. Instead, Dershowitz make clear that his purpose is to
+advance his own agenda, andcontinue to wage his media war on Ms. Giuffre, as he has already
+appeared on national news calling her a “prostitute” and a “bad mother.”1 This is not the typical
+intervention case where a non-party seeks documents it lacks access to, or where a news
+organization seeks to inform the public on court proceedings. Here, Alan Dershowitz seeks to
+inject himself into this litigation for the wrongful purpose of conducting a public smear
+campaign of Ms. Giuffre. He has no interests beyond his own. And, he has already violated
+another court order directinghim to stop wrongfully leakingconfidential information to the
+media.Unsurprisingly, Dershowitz’s motion fails to cite a single case in which a court granted a
+non-party,who already possessed the sealed documents in dispute,the right to freely disseminate
+those documents in the public domain for self-serving purposes.
+His motion for permissive intervention is committed to the discretion of the Court, and
+the Court should deny it. Fed. R. Civ. P. 24(b)(3); Liz Claiborne, Inc. v. Mademoiselle Knitwear,
+Inc., 1996 WL 346352, at *4 (S.D.N.Y. June 26, 1996) (Sweet, J.) (denying leave to intervene);
+Levin v. U.S., 633 Fed.Appx. 69, 70 (2nd Cir. 2016)(affirming denial of motion to intervene,
+“[b]ecause of the fact-intensive nature of an intervention decision, we review for ‘abuse of
+discretion’ a district court's order denying intervention . . . by permission.”)
+1McCawley Dec. at Exhibit 1, Local 10 News, January 22, 2015.
+1
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 7 of 31
+- Indeed, thedocuments in question could hardly “confirm his absolute innocence.” DE
+364at 1.The documents do not directly bear on Ms. Giuffre’s sworn and detailed statements
+about how Dershowitz sexually abused her,statements that are corroborated by a mountain of
+supporting evidence.2 Instead, according to Dershowitz, these materials create some sort of a
+web of circumstantial inferences suggesting his innocence.His attenuated reasoning hardly
+provides the kind of compelling reason neededto pierce the Protective Order. Instead,
+Dershowitz seeks these documents for the primary purpose of conducting a media blitz against
+Ms. Giuffre in advance of trial –clearlyto assist his joint defense partner, Defendant Maxwell,
+by poisoning the jury pool in this case.
+Dershowitz has no legal basis for his request. The documents in questions are not judicial
+documents, and thus neither a First Amendment nor common law right of access applies.
+Moreover, both the parties in this case have long reasonablyrelied on the existing Protective
+Order. Under that order, numerous documents involving child sex abuse and other sensitive
+subjects have been placed under seal. If Dershowitz is permitted to cherry pick the documents
+that he finds favorable and extract them from the protective order to serve his purposes, it would
+seem only fair that Ms. Giuffre be permitted to lift the protective order from currently-
+confidential documentsand testimonyin the court file which would support herposition.
+This Court entered the Protective Order “upon a showing of good cause.” Dershowitz is
+not a party to this litigation and provides no sound reason for modification. Accordingly, this
+Court should deny Dershowitz’s motion in its entirety.
+2As an overview, Dershowitz, who touted Epstein as a close friend, flew on Jeffrey Epstein’s private jet 15 times
+from 1996 through 2006, which was during the time period that Jeffrey was actively assaulting a number of minor
+children. Twice Dershowitz flew with Sarah Kellen, who was Defendant’s right hand recruiter of these underage
+girls. McCawley Dec at 2,Dershowitz Flights.While Dershowitz said he was “never” in the places where Virginia
+was during the period of 2000 –2002, public records directly contradict this statement and show that he actually had
+an apartment in New York not far from Epstein’s home for a year from 2000 –2001. McCawley Dec. at 3. While
+there is mounting evidence to support Ms. Giuffre’s allegations of Dershowitz’s involvement, that issue is not
+something the Court needs to decide because this case is about Defendant Maxwell’s conduct, not Dershowitz.
+2
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 8 of 31
+II. FACTUAL AND PROCEDURAL BACKGROUND
+A. Abundant Evidence Supports Ms. Giuffre’s Sworn Testimony That Alan
+Dershowitz Sexually Abused Her
+Dershowitz says he needs to see several documents because they will somehow
+“demonstrate that the allegations of sexual misconduct. . . are nothing more than a recent
+fabrication . . . .” DE 364 at 2. To the contrary,they will in no way prove the allegations are a
+“fabrication,” given the mountain of evidence supporting Ms. Giuffre’s sworn testimony.
+Ms. Giuffre has not made vague assertions, but described in detail what Dershowitz did
+to her and where.3 In response to Ms. Giuffre’s sworn testimony, Dershowitz does not arguethat
+any witnesses will be able to provehis innocence. Instead, he tries to build a circumstantial case
+that he could not have committed the sexual abuse. Dershowitz now claims, for example, that at
+the time of the abuse, he was merely “acquainted with Mr. Epstein through academic events . .
+..” DE 364at 4.4 But in 2005 (before news of Epstein’s criminal prosecution broke),Dershowitz
+stated “I’m on my 20th book…The only person outside of my immediate family that I send
+drafts to is Jeffrey.”5 Dershowitz has also been quoted as saying that, even if Epstein went
+bankrupt, “I would be as interested in him as a friend if we had hamburgers on the boardwalk in
+Coney Island and talked about his ideas.”6
+Dershowitz also claims that he never saw “Epstein in the presence of underage girls.” DE
+364at 3.7 This lack of observation is remarkable given that Epstein brazenly and repeatedly
+3Id. at 88-91, McCawley Dec at Exhibit 4, describing Dershowitz’s abuse of her in Epstein’s New York mansion.
+4In earlier media statements, Dershowitz took an even more extreme position, stating that “I have never been alone
+with . . . Jeffrey Epstein.” UMAR News, Jan. 5, 2015. https://www.youtube.com/watch?v=KXzcxsiQv7Q.
+And yet (among other occasions), a flight log shows Epstein and Dershowitz traveling together—alone.
+5The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).
+6Vanity Fair Reminds Us When Jeffrey Epstein Wasn’t a Creep, by Ray Gustini, in The Wire (June 21, 2011).
+7While Dershowitz swore under oath that he never saw any naked photos at Epstein’s Palm Beach mansion, the
+recently released video taken by the Palm Beach Police department during its investigation, reveals naked photos in
+a number of the common areas of Epstein’s Palm Beach home. McCawley Dec. at Exhibit 5.
+3
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 9 of 31
+abused numerous underage girls in his Florida mansion, his New York mansion, and several
+other places that Dershowitz apparently admits he visitedon multiple occasions.
+In 2009, one of Epstein’s household employees, Juan Alessi, testifiedabout the parade of
+young “massage therapists” entering Epstein’s Palm Beach mansion, and that Ms. Giuffre was
+one of the girls who came to Epstein’s mansion.8 Alessi also saw many celebrities came to the
+Florida mansion, including “a very famous lawyer that I’m sure you know, Alan Dershowitz.”
+Id. at 70:9-25. Alessi testified that Dershowitz came to the mansion “pretty often . . . at least four
+or five times a year” and would stayovernight “two [or] three days.” Id. at 73:22-25. Ms.
+Giuffre cameto the house when Dershowitz was there. Id. at 73:18-20. And, importantly,
+Dershowitz got massages while he was visiting Epstein’s home. Id. at 74:1-4.9 The private,
+upstairs room where Dershowitz got his “massages” was the room where Defendant Maxwell
+had “a laundry basket . . . full of those toys.” Id. at 76:11-15.
+In 2009, Epstein’s butler, Alfredo Rodriguez, testified that Dershowitz was at Epstein’s
+mansion when underage girls were there to give massages.10 Rodriguez also testified that
+Dershowitz was present alone at the home of Jeffery Epstein, without his family, in the presence
+of young girls.11 It also appears that Rodriguez would later circle Dershowitz’s name in Epstein’s
+address book as among the people with important information for the FBI to collect regarding
+sex trafficking. In addition, Sarah Kellen, Nadia Marcinkova, and Adrianna Mucinskaall
+8Juan Alessi Depo. at 46:21-47:4, 48:18-25, Jane Doe No. 2 v. Epstein, No. 9:08-cv-80119-cv-KAM (S.D. Fla.
+Sept. 8, 2009), McCawley Dec at Exhibit 6.
+9While Dershowitz loudly proclaimed to the media that he had “never” received a massage at Jeffrey Epstein’s
+home, he later retracted that knowingly false statement and admitted to having a massage. McCawley Dec at Exhibit
+7.
+10Alfredo Rodriguez Depo. at 278:13-25, 279:9-280:2, Jane Doe No. 2 v. Epstein(excerpts attached as Exhibit 8).
+11Id. at 199:12-13, 279:9-12, 426:16-25, 427:1.
+4
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 10 of 31
+implicated Dershowitz by invoking their Fifth Amendment right against self-incrimination12
+when asked questions about Dershowitz’s connection to Epstein’s abuse, including a specific
+question about whether Dershowitz had been involved with massages by young girls. McCawley
+Dec., Composite Ex. 9.13
+Finally, in Dershowitz’s vociferous attacks on Ms. Giuffre here, the Court will see an
+eerie parallel to the Jeffrey Epstein criminal investigation. Back in 2005, when the Palm Beach
+Police Department was first investigating Epstein’s sexual abuse, the Department accumulated
+overwhelming evidence placing underage girls at Epstein’s residence who gave statements that
+they were being sexually abused, the accounts bearing chillingly similar details. As he did to Ms.
+Giuffre, Dershowitz called those girlsliars anddefamedthem as prostitutes,14 in an effort to
+convince the State Attorney that these girls could not even believably establish that they had ever
+even gone to Epstein’s mansion. Later, Dershowitz wouldremarkablywrite to tell the Justice
+Department that “Epstein never targeted minors.”
+B. The Litigation Involving Dershowitz -The Florida Defamation Case15
+12In a civil proceeding such as this one, Ms. Giuffre is entitled to an inference in her favor when a witness takes the
+Fifth Amendment rather than answer a relevant question where that witness is associated with the other side of the
+case or otherwise in an adverse position to the victims. LiButti v. United States, 107 F.3d 110, 124 (2d Cir. 1997).
+13Dershowitz also refers to an “investigation” he paid for by former FBI Director Louis Freeh in an effort to
+proclaim his innocence. DE 364 at 5. Interestingly, while Dershowitz has provided a one-paragraph summary of the
+investigation to the press, he hasnot chosen to make the specifics of the investigation public, including what Freeh
+learned about Defendant Maxwell’s involvement in Jeffrey Epstein’s sex trafficking organization.
+14“How Alan Dershowitz Bullied Rape Victims to Protect a Serial Child Molester,” by Rania Khalek, January 10,
+2015, https://electronicintifada.net/blogs/rania-khalek/how-alan-dershowitz-bullied-rape-victims-protect-serial-
+child-molester; see alsoMcCawley Dec. at Exhibit 10,Recarey Dep. Tr. at 109:13-110:3 (“Q. What --what types of
+persuasions did Alan DERSHOWITZ use in an attempt to dissuade the prosecution of Alan DERSHOWITZ [sic] or
+his associates? THE WITNESS: Let’s see. He not only had --when they went out and badgered the victims, they
+went through all social media, found photographs of these victims either holding an alcoholic beverage and calling
+them --you see they're not saints. Youknow, they're consuming alcohol under the age of 21. Basically trying to
+dirty the victim as much as possible.”
+15Dershowitz says that he “loudly” proclaimed his innocence, but he also attacked Professor Cassell and Ms.
+Edwards. Dershowitz also repeatedlyand publicly attacked Ms. Giuffre, as discussed as greater length below.At no
+point did Cassell and Edwards ever agree that their client, Ms. Giuffre, was mistaken in her allegations against
+Dershowitz. See generally, Cassell Dec.
+5
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 11 of 31
+Dershowitz also misleadingly describes the Florida defamation action16 between himself
+and Cassell and Edwards. Remarkably, Dershowitz fails to note that same documents he seeks
+here (to use in the next installment of his media campaign) are the exact type of documents that
+Judge Lynch quashed from Dershowitz’s subpoena he served on Ms. Giuffre in the Florida
+Action. In short, a judge has already ruled that Dershowitz should be denied access to these
+documents. This baseless motion is nothing more than an attempt to make an end-run around
+Judge Lynch’s Order, by coming to this Court, and asking for what he was denied by another
+court.
+Indeed, Dershowitz fails to reveal three significant facts to this Court. First, Dershowitz
+fails to reveal to this Court is that he has already been sharply rebuked by a Florida judge for his
+efforts to take confidential materials to the media. Second, Dershowitz fails to tell this Court that
+the onlyongoing component to his Florida Action concerns sanctions against him for violating
+that Court’s Orderby his continuing to reveal confidential materials.
+I17
+Third, Dershowitz fails to
+tell this Court that the judge in the Florida Action already denied his request to access these
+materials.18 The parties to the Florida Action have settled all claims. Accordingly, there is no
+“compelling need” to reveal these documents to the media as they are wholly immaterial to
+whether Dershowitz should be sanctioned for violating Judge Lynch’s order, as it pertained to
+non-party Ms. Giuffre. In other words, the content of these confidential documents has no
+bearing on the disposition of the Florida Appeal, and Dershowitz cannot claim otherwise.
+Ms. Giuffre was not a party to the litigationbetween the attorneys in the Florida Action.
+During the course of the litigation, however, Dershowitz subpoenaed discovery from Ms.
+16Edwards and Cassell v. Dershowitz, Case No. CACE 15-000072, in the Circuit Court of the 17th Judicial circuit
+in and for Broward County, Florida (the “Florida Action”), presided over by Judge Lynch.
+17McCawley Dec. at Exhibit 11, June 2, 2016 Noticeof Appeal.
+18McCawley Dec.at Exhibit 12, November 12, 2015Order on Motion to Quash.
+6
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 12 of 31
+Giuffre. In particular, Dershowitz sought to obtain from Ms. Giuffre (a non-party to the action)
+all of her emails with the media. The Court granted in part Ms. Giuffre’s Motion to Quash and,
+among other things,denied Dershowitz’s discovery request relating tocommunications with
+media and denied Dershowitz’s request for “manuscripts or writings.”19 Dershowitz produced
+many documents in the course of discovery in that case –ironically, documents that he quickly
+placed under a protective order in Florida.Id.
+Dershowitz claims that the Churcher email somehow exonerates him, but the brief
+mention does no such thing. Indeed, while asserting that there is no “proof” that Dershowitz is a
+pedophile, Ms. Churcher also stated that “[w]e all suspect Alan is a pedo[phile].”2021 Similarly,
+Dershowitz believes that an excerpt from Ms. Giuffre’s manuscript she was somehow suggests
+his innocence, even though the passage in question recounts Dershowitz intruding on Epstein
+while he was sexually abusing Ms. Giuffre. DE 364 at 9. Apparently Dershowitz believes that
+because he is not described more often and prominently in the manuscript, that is proof of her
+19Judge Lynch Quashed discovery from non-party Virginia Giuffre on the Following: (1) Request 9 –“All
+documents concerning any communications by Jane Doe #3 or on Jane Doe #3’s behalf with any media outlet
+concerning Dershowitz or the Federal Action whether or not such communications were “on the record” or “off the
+record;” (2) Request 17 “All documents concerning any actual or potential book, television or movie contracts or
+deals concerning Jane Doe #3’s allegations about being a sex slave;” (3) Request 18 “All documents concerning any
+monetary payments or other consideration received by Jane Doe #3 from any media outlet in exchange for her
+statements whether ‘on the record’ or ‘off the record’regarding Epstein, Dershowitz, Prince Andrew, Duke of York,
+and/or being a sex slave;” (4) Request 20 “All documents showing any payments or renumeration of any kind made
+by Epstein or any of his agents or associates to you from January 1, 1999 through December 31, 2002;” and (4)
+Request 23: “All manuscripts and/or other writings whether published or unpublished, created in whole or in part by
+Jane Doe #3 concerning Epstein and any of his agents or associates.”
+20Dershowitz asserts that before this May 11,2011, email was sent by Ms. Churcher, that Ms. Giuffre “did not in
+any way accuse Professor Dershowitz of sexual abuse . . . .” DE 364at 9-10. But the support for this assertion
+appears to be a statement from Asst. U.S. Attorney Jeff Sloman that Dershowitz’s name had not come up in 2006 to
+2008 when Dershowitz was helping to negotiate Jeffrey Epstein’s plea deal.Dershowitz Dec., ¶ 5 (referring to
+unnamed Asst. U.S. Attorney). However, because of Dershowitz’s penchant for twisting words, Mr. Sloman has sent
+a corrective note that he left the U.S. Attorney’s Office in 2008 and does not know what the investigation of Epstein
+revealed after that time. Also, Dershowitz does not recount in his statement of facts that in March 2011, two months
+before Ms. Churcher sent the email in question to Ms. Giuffre, Ms. Giuffre had told attorney Jack Scarola in a
+recorded interview that Dershowitz has relevant information about Epstein’s sexual abuse.
+21Dershowitz wrongly suggests to this Court that Ms. Giuffre answered questions incorrectly in her deposition. Ms.
+Giuffre answered questions to the best of her recollection. Ms. Giuffre had never sent an email to Ms. Churcher with
+Dershowitz’s name in it –instead, as Dershowitz recounts, Ms. Churcher turns out to have sent one email to Ms.
+Giuffre with Dershowitz’s name in it.
+7
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 13 of 31
+innocence. But this inference is inconsistent with Ms. Giuffre’s description of the manuscript, in
+which she explained “[n]ot everything in it is –not everything is in there . . ..” McCawley Dec. at
+13, Giuffre Dep. Tr. at 41.
+II. DERSHOWITZ RELEASES CONFIDENTIAL INFORMATION IN VIOLATION
+OF A FLORIDA COURT ORDER
+The pending sanction motion in the Florida Court is an illustrative example of how
+Dershowitz willingly violates Court orders. On December 11,2015, in a transparent attempt to
+play his case to the media rather than try it before the court, Dershowitz filed a false affidavit
+with the Florida court purporting to describe confidential settlement communications with
+Giuffre’s counsel and attempting to discredit Giuffre. He filed his affidavit in the public court
+file, despite knowing Ms. Giuffre’s standing objections. He then alerted the media (specifically
+the New York Times) to these statements. After Giuffre filed an emergency motion to seal the
+affidavit, the court found in favor of Ms. Giuffre that the communications in the affidavit were in
+fact confidential settlement negotiations that should not have been disclosed and granted
+Giuffre’s motion. McCawley Dec., Ex. 15. During the hearing, the Florida court admonished
+Dershowitz not to reveal any otherconfidential settlement negations:
+MS. MCCAWLEY: Your Honor, if the intent here is to continue to spew the
+confidential settlement negotiations and have Dershowitz go to New York or other
+locations to say these things again, I would object to that. I think this Court needs to be
+very stern in its response that these are not appropriate to be disclosed.
+THE COURT: Well, I think he is aware of that.
+MR. SAFRA[Dershowitz’s attorney]: I'm aware, and I will convey to my client. . .22
+Ms. Giuffre had a pending motion for sanctions against Dershowitz for his conduct in
+wrongfully revealing and flatly mischaracterizing these settlement disclosures. McCawley Dec.
+22McCawley Dec. at Exhibit 14, December 18, 2015, Emergency Motion to Seal Hr. Tr. at 25:23-26:9 (emphasis
+added).
+8
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 14 of 31
+Sealed Ex. 16, Motion for Sanctions.Before that motion was heard, Dershowitz willfully
+violatedthe court’s order and again disclosed the confidential settlement communications,for
+which Giuffre again sought sanctions. McCawley Dec. Sealed Ex. 17, Supplement to Motion for
+Sanctions. However, before the sanction motionswereheard, Dershowitz settledthe underlying
+litigation. Dershowitz has insisted upon keepingconfidential the monetary settlement that
+resolved the claims against him.23 The trial court declined to retain jurisdiction to hear Ms.
+Giuffre’s sanctions claims after the settlement. Ms. Giuffre’s attorneys have appealed theruling
+to the Florida Court of Appeals and filed an opening brief on August 25, 2016.
+III. THE PROTECTIVE ORDERIN THIS CASE
+This is a case concerning sex abuse of minors, brought by a woman who was herself a
+minor victim of sex abuse. Accordingly, this Court has recognized from the outset the paramount
+importance of aprotective order in this case, announcing at one of the first hearings in the case
+that that “of course there should be a protective order in this case.”24 Thereafter, on March 18,
+2016, “[u]pon a showing of good cause,” the Protective Order was entered (DE 62 at p.1). The
+following month, this Court sought even greater strictures regarding the Protective Order.25
+Furthermore, as this Court will remember, it twice allowed the parties to submit
+suggested redactions to the public versions of its Orders (DE 135; June 20, 2016, Order26). While
+23“Did Dershowitz Shell Out Big Bucks to Get Settlement in Sex Case?” by Vivia Chen, April 12, 2016 at
+http://thecareerist.typepad.com/thecareerist/2016/04/did-dershowitz-shell-out-money-for-settlement-in-case-
+sex.html
+24March 17, 2016, Hearing Transcript at 4:25-5:1. McCawley Dec. at Exhibit 18.
+25“However, I’m also going to ask the parties to agree upon an order that would expandthe confidentiality
+agreement to this extent to this extent, to require the plaintiff to indicate to me and to the defense if there is anyone
+else who is going to be active in this litigation. I’ll tell you why I feel this way. I want to be sure that we can enforce
+the confidential aspect of that agreement, and I think that could be critical down the line. That’s the reason for those
+requests.” April 21, 2016, Hearing Transcript at 6:24-7:6. McCawley Dec. at Exhibit 19.
+26“This matter being subject to a Protective Order, the parties are directed to meet and confer regarding redactions
+to this Opinion consistent with that Order. The parties are further directed to jointly file a proposed redacted version
+of this Opinion or Notify the Court that none are necessary within two weeks of the date of receipt of this Opinion.”
+June 20, 2016, Sealed Order at p. 19.
+9
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 15 of 31
+the redactions were agreed to by the parties, they were solely at Defendant’s request.27 Indeed,
+this Court temporarily placed the entire docket under seal. June 23, 2016, Order. DE 251. Under
+these rulings, both parties designated hundreds of pages of materials confidential under the
+Court’s Order.
+IV. ARGUMENT
+A. Legal Standard
+The Court may denyDershowitz’s motion without even reaching the merits of whether
+the contested documents are judicial documents,which they absolutely are not.Fed. R. Civ. P.
+24(b)(3); Liz Claiborne, Inc. v. Mademoiselle Knitwear, Inc., 1996 WL 346352, at *4 (S.D.N.Y.
+June 26, 1996) (Sweet, J.) (denying leave to intervene); Levin v. U.S., 633 Fed.Appx. 69, 70
+(2nd Cir. 2016)(affirming district court’s denial of motion to intervene, explaining “[b]ecause of
+the fact-intensive nature of an intervention decision, we review for ‘abuse of discretion’ a district
+court's order denying intervention . . . by permission.”). Accordingly, this Court can deny
+-Dershowitz’s motion on the grounds that taking these documents to the media would prejudice
+Ms. Giuffre and because, having sat on the documents for months, the motion is untimely.28
+Dershowitz ’s motion mentions, then proceeds to ignore, the policy rationale that
+underlies both the First Amendment and common law right of access to judicial documents. Both
+27Without a good faith basis, Defendant proposed redacting this Court’s reference to Jeffrey Epstein’s name (44
+times) and the Court’s reference to Alan Dershowitz’s name (10 times) from this Court’s Order. DE 135Ms. Giuffre
+made no objection to Defendant’s self-serving maneuver toavoid being closely associated with Epstein and
+Dershowitz in the public eye.
+28The Court should not even reach the substance of Dershowitz’s motion, as he has failed to meet the requirements
+for permissive intervention, which, as Dershowitz admits, include timeliness. MasterCard Intern. Inc. v. Visa Intern.
+Service Ass'n, Inc., 471 F.3d 377, 390 (2d Cir. 2006). In MasterCardthe Second Circuit affirmed the district court’s
+denial of a motion for permissive intervention on timeliness grounds. That decision is highly persuasive here. First,
+Dershowitz has known of his potential “interest” in this case long before it was filed in September of 2015, as
+evidenced by the email communications between Dershowtiz and Defendant the Court reviewed in its in camera
+review before ordering Defendant to produce them. Yet Dershowitz waited until after discovery closed and until
+after he was safe from receiving a notice of deposition in this matter, before he filed his intervention motion.
+Unsurprisingly, his motion is devoid of any claim that his motion is timely, because such an argument could never
+succeed given Dershowitz ’s long-held knowledge of Ms. Giuffre and her allegations, the disposition of this case,
+and the fact that he sat on these documents for months before seeking relief.
+10
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 16 of 31
+legal principles exist so that courts may have accountability to the public; they do not exist to
+enable individuals on a personal vendetta to advance a public smear campaign against a victim of
+childhood sexual abuse. U.S. v. Amodeo, 71 F.3d 1044, 1048 (2d Cir. 1995) (“Amodeo II”) (“The
+presumption of access is based on the need for federal courts, although independent—indeed,
+particularly because they are independent—to have a measure of accountability and for the
+public to have confidence in the administration of justice.”). Indeed, the motion to intervene is
+devoid of any citations to precedent that allows an individual to exploit these bedrock legal
+principles solely for his personal benefit, rather than the public at large. Furthermore, the Court
+should not overlook the fact that that Dershowitz already possesses these documents because
+they were sent to him by Maxwell’s counsel who has named him as a witness, and, as
+demonstrated below, the Second Circuit does not provide a right of access to protected material
+when an individual seeks to use it solely for harm.
+B. These Are Not Judicial Documents and Therefore Should Not be Disclosed
+The Court can end its legal analysis of this motion quickly, as, contrary to Dershowitz’s
+suggestion, the documents in question are not judicial documents.This fact is fatal to the motion,
+as neither the First Amendment nor the common law right of access applies in a scenario where
+the materials in question are not judicial documents. U.S. v. Amodeo, 44 F.3d 141, 145 (2d Cir.
+1995) (“Amodeo I”) (noting material must be a “judicial document” to be “accessible to the
+public”).
+Dershowitz only became aware of the documents he now seeks because Ms. Giuffre
+produced them in discovery. It is established law in the Second Circuit that documents simply
+exchanged in the civil discovery context do not come within the purview of the First Amendment
+or the common law right of access. “Documents that play no role in the performance of Article
+III functions, such as those passed between the parties in discovery, lie entirely beyond the
+11
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 17 of 31
+presumption’s reach…” Amodeo II, 71 F.3d at 1050. Dershowitz suggests that because a
+subpoenaed third party filed one of the documents as an attachment to a motion to quash, and
+because Defendant filed the others as an exhibit to an opposition to extend discovery, that
+converts them into judicial documents and triggers the presumption of access. This argument is
+unavailing.The Second Circuit has held that the “mere filing of a paper or document with the
+court is insufficient to render that paper a judicial document subject to the right of public access.
+We think that the item filed must be relevant to the performance of the judicial function and
+useful in the judicial process in order for it to be designated a judicial document.” Amodeo I, 44
+F.3d at 145.
+Areview of the case law reveals that every circuit to have directly addressed this point
+has found that documents filed as exhibits to non-dispositive discovery motions do not qualify as
+judicial documents.Kamakana v. City and County of Honolulu, 447 F.3d 1172, 1179 (9th Cir.
+2006) (“We have, however, carved out an exception to the presumption of access to judicial
+records for a sealed discovery document [attached] to a non-dispositive motion, such that the
+usual presumption of the public's rightof access is rebutted”) (internal citation and quotations
+omitted); Bond v. Utreras, 585 F.3d 1061, 1075 n. 8 (7th Cir.2009); Chi. Tribune Co. v.
+Bridgestone/Firestone, Inc., 263 F.3d 1304, 1312–13 (11th Cir.2001) (holding that “material
+filed with discovery motions is not subject to the common-law right of access, whereas discovery
+material filed in connection with pretrial motions that require judicial resolution of the merits is
+subject to the common-law right”); Anderson v. Cryovac, Inc., 805 F.2d 1, 10 (1st Cir.1986)
+(“Although we agree that the public has a right of access to some parts of the judicial process, we
+conclude that this right does not extend to documents submitted to a court in connection with
+discovery proceedings.”); Leucadia, Inc. v. Applied Extrusion Technologies, Inc., 998 F.2d 157,
+12
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 18 of 31
+164 (3d Cir. 1993) (“holding that discovery motions and supporting materials are subject to a
+presumptive right of access would make raw discovery, ordinarily inaccessible to the public,
+accessible merely because it had to be included in motions precipitated by inadequate discovery
+responses or overly aggressive discovery demands. This would be a holding based more on
+expediency than principle.”).
+Therefore, five federal appellate courts have already rejected the argument that
+Dershowitz advances here. Dershowitz acknowledges that the Second Circuit has not yet reached
+this specific issue, but the holdings in Amodeo I and Amodeo II demonstrate that when the
+Second Circuit reaches this issue, it will reach exactly the same result. In Amodeo IIthe Second
+Circuit held that documents “passed between the parties in discovery, lie entirely beyond the
+presumption’s reach…” Amodeo II, 71 F.3d at 1050. In Amodeo Ithe Second Circuit noted the
+“mere filing of a paperor document with the court is insufficient to render that paper a judicial
+document subject to the right of public access.” Amodeo I, 44 F.3d at 145. Additionally, in the
+case cited by Dershowitz, S.E.C. v. TheStreet.Com, 273 F.3d 222, 233 (2d Cir. 2001),the Second
+Circuit rejected an argument that would “transform every document that a court reviews into a
+‘judicial document’presumptively open to the public, despite well-settled law to the contrary.”
+The Second Circuit has held (1) discovery materials are not judicial documents; (2) the
+mere filing of a document with the court does not render it a judicial document; and (3) a court
+simply reviewing a piece of discovery material does not make the document a “judicial
+document.” Therefore, there is no question that the Second Circuit would resolve the issue at
+hand in exactly the same way that every other circuit to address the issue has. This Court should
+follow every other circuit, and the guidance from the Second Circuit, and find that the mere
+13
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 19 of 31
+filing ofa piece of discovery material as part of a non-dispositive discovery motion does not
+convert the material into a judicial document.
+Finally, the Churcher emails cannot qualify as “judicial documents” on the separate and
+independent basis that the Court has not considered them, as the motion to which they are
+attached is still pending.29 Here again, Dershowitz’s motion misses the point of the First
+Amendment and common law rights of access. It is not the filing of a piece of discovery that
+makes it a judicial document, it is the Court’s review and consideration of that document that
+converts the document’s status. Gosmile, Inc. v. Dr. Jonathan Levine, D.M.D. P.C., 2012 WL
+1382557, at *1 (S.D.N.Y. 2012) (“Court did not weigh these documents [attached as exhibits] in
+its review of the parties' motions, considers them immaterial to the motions, and therefore does
+not consider them to be judicial documents.”).As Ms. Giuffre has shown, these principles exist
+for the accountability of the courts to the public, not for the personal benefit of an individual.
+In the face of this uniform precedent from the courts of appeal, Dershowitz cites only to a
+handful of district court opinions, many of which do not support the relief he seeks. For example,
+in Dershowitz’s first-cited case, Alexander Interactive, Inc. v. Adorama, Inc., No. 12 Civ. 6608,
+2014 WL 4346174, at *2 (S.D.N.Y. Sept. 2, 2014), the Court proceeded to deny access and
+instead sealed the materials at issue. In Dandong v. Pinnacle Performance Ltd., No. 10 Civ.
+8086, 2012 WL 6217646, at *2 (S.D.N.Y. Dec. 3, 2012) the court noted the materials at issue
+were nothing more than legal argument, and it gave the parties time to show “good cause” for
+keeping the documents sealed. The Court can reject these outlier opinions out of hand, as they do
+not comport with the holdings of the First, Third, Seventh, Ninth and Eleventh Circuits, nor are
+they in-line with the Second Circuit’s case law in Amodeo I, Amodeo II and TheStreet.Com.
+29It may well be the case that the Court never considered Ms. Giuffre’s draft manuscriptin ruling on the motion for
+extension of time in relation to the opposition motion to which it was attached. The Order makes no mention of it.
+DE June 20, 2016, Order. If the Court did not consider those exhibits, they do not qualify as judicial documents.
+14
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 20 of 31
+There simply is no legal basis for this Court to find that the documents Dershowitz seeks
+qualify as “judicial documents.”First, it is not clear that this Court has even reviewed or
+considered them, andif it has not, that fact alone is dispositive. Second, the law throughout the
+country is clear that routine, raw discovery materials submitted as exhibits to non-dispositive
+discovery motions do not convert into “judicial documents” and trigger a right ofpublic access.
+The Court should find that these documents are not “judicial documents” and summarily deny
+Dershowitz’s motion.
+C. Even Were the Court to Deem the Documents to be Judicial Documents,
+the Presumption of Access is Weak
+Even if the Court found these documents to be judicial documents -which they
+categorically are not -Dershowitz’s motion still fails because the common law presumption of
+access is extremely weak and easily overcome here by countervailing factors. Lugosch v.
+Pyramid Co. of Onondaga, 435 F.3d 110, 119–20 (2d Cir. 2006)(noting that if a court finds
+documents to be judicial, it must then assess the weight of the presumed access and determine if
+countervailing factors override the presumption).
+Once again, Dershowitz’s own cited cases are his undoing. In Alexander Interactive, the
+Court found that because the documents were submitted merely as exhibits to a motion to
+compel, “the presumption in favor of public access is weak.”2014 WL 4346174 at *2. It then
+proceeded to seal the documents in question, despite acknowledging the public right of access.
+See also Stern v. Cosby, 529 F.Supp.2d 417, 422 (S.D.N.Y. 2007) (“the presumption of public
+access -if any-that attaches to the transcript and videotape is low, at best. No such presumption
+attaches at all to the videotape, and even if the transcript is filed for purposes of a motion to
+compel, the presumption that would attach to the transcript would be low. On any such motion, I
+15
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 21 of 31
+would not be making any decision on the merits, but I would simply be reviewing excerpts of the
+transcripts to resolve a discovery dispute.”).
+This ruling is in-line with the Second Circuit’s directive regarding how to assess the
+weight of the presumption of access. “[T]he presumption of access must be governed by the role
+of the material at issue in the exercise of Article III judicial power and the resultant value of such
+information to thosemonitoring the federal courts. Generally, the information will fall
+somewhere on a continuum from matters that directly affect an adjudication to matters that come
+within a court's purview solely to insure their irrelevance.” Amodeo II, 71 F.3d at 1049. This is
+not a situation where the documents were relied upon as part of a dispositive summary judgment
+motion (where the presumption is highest). If the Court relied on the documents at all, which is
+not clear, it was for the limited purpose of determining entitlement to discovery. In this context,
+as the courts inAlexander Interactive, Stern andAmodeo IInoted, the presumption is weakest.
+Amodeo II, 71 F.3d at 1050 (“Where testimony or documents play only a negligible role in the
+performance of Article III duties, the weight of the presumption is low and amounts to little more
+than a prediction of public access absent a countervailing reason.”). Joy v. North, 692 F.2d 880,
+893 (2d Cir.1982) (“Discovery involves the use of compulsory process to facilitate orderly
+preparation for trial, not to educate or titillate the public.”); In re Zyprexa Injunction, 474
+F.Supp.2d 385, 423 (E.D.N.Y. 2007) (“Nonparties who are prohibited from accessing
+confidential documents . . . cannot claim an infringement on their freedom of speech: The right
+to speak and publish does not carry with it the unrestrained right to gather information.. .
+Discovery involves the use of compulsory process to facilitate orderly preparation for trial, not to
+educate or titillate the public.”)(internal citations and quotations omitted); Dorsett v. County of
+Nassau, 762 F.Supp.2d 500, 519 (E.D.N.Y. 2011) (“Assuming for the sake of argument that the
+16
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 22 of 31
+IAU Report did satisfy the judicial document inquiry, since the Report was passed between the
+parties in discovery, it lies entirely beyond the presumption's reach.”).
+Given that the presumption of access here is weak, if it exists at all, Ms. Giuffre easily
+overcomes it with her countervailing evidence. With regard to her draft manuscript, it is
+protected under trade secret and copyright law, and Dershowitz has no legal right to disseminate
+it to a public audience.30 Courts routinely seal materials in support of filings when they contain
+proprietary or similarly protected content.31 Louis Vuitton Malletier, S.A. v. My Other Bag, Inc.,
+156 F.Supp.3d 425, 445 N7 (S.D.N.Y. 2016) (“As for competing considerations that counsel in
+favor of allowing the parties to file their briefs under seal, the privacy interests of the parties in
+preventing the public disclosure of private business figures and communications are not
+insignificant. The Court therefore concludes that the balance of interests is in favor of allowing
+the parties' briefs to be filed under seal.”).This decision is particularly instructive here, as it
+involved summary judgment filings, where the access presumption is highest, as opposed to the
+discovery brief exhibits at issue here, where the presumption is lowest.
+Finally, the privacy and sensitivity of the information here is particularly compelling in
+light of what Dershowitz intends to do if the Court allows him to disseminate these documents.
+His prior conduct reveals,without a shred of doubt,that he has a personal vendetta against Ms.
+Giuffre, and he will take these documents and attempt to publicly disparage Ms. Giuffre, as he
+has done in the recent past.The Second Circuit does not allow a court to unseal private and
+30Ms. Giuffre hastestified at her deposition in this case that her draft manuscript does not contain everything that
+happened to her. McCawley Dec. at Exhibit 13, Giuffre Dep. Tr. at 41. Tellingly, Dershowitz does not seek to lift
+the confidentiality of the testimony of all the witnesses in this case which reveals a significant sex trafficking ring.
+Instead, Dershowitz seeks to reveal evidence which he can spin in an attempt to legitimize his public relations
+campaign against her, while keeping secret the evidence that would directly refute his spin.
+31Similarly, with regard to the Churcher emails, those are the same “private business communications” that the
+court in Louis Vuittonfound adequate to justify sealing the filings at issue. Indeed, the Second Circuit expressly
+recognizes such privacy rights as a legitimate basis to overcome the presumption of access. AmodeoII, 71 F.3d at
+1051 (“Such interests, while not always fitting comfortably under the rubric ‘privacy,’ are a venerable common law
+exception to the presumption of access.”).
+17
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 23 of 31
+otherwise protected material to enable a non-party to conduct a public smear campaign. Amodeo
+II, 71 F.3d at 1051 (“The nature and degree of injury must also be weighed. This will entail
+consideration not only of the sensitivity of the information and the subject but also of how the
+person seeking access intends to use the information…personal vendettas…need not be aided.”)
+(Emphasis added).
+In sum, the documents Dershowitz seeks involve no presumption of access whatsoever,
+as they are not judicial documents, but were the Court to find otherwise, the applicable
+presumption of access would be the lowest that exists under Second Circuit law. Ms. Giuffre
+requests that, in accord with the governing law, the Court hold that her proprietary interests
+outweigh any weak presumption of access.
+D. No Right of Access Exists Under the First Amendment
+Dershowitz should not have advanced a First Amendment right of access argument
+because it is wholly without merit. First and foremost, the documents at issue must be “judicial
+documents” to trigger a First Amendment right of access, and,as stated above, the materials at
+issue here are not. Newsday LLC v. County of Nassau, 730 F.3d 156, 166 (2d Cir. 2013) (“We
+must conduct an independent review of the Report to determine (a) whether it is a judicial
+documentto which the First Amendment right applies”) (emphasis added).
+Should the Court find otherwise, there remains no right of access under the First
+Amendment. As the Second Circuit has said, “[e]ven when it applies, moreover, the First
+Amendment right creates only a presumptiveright of access.”Id. at 164(Emphasis original). The
+right does not attach here because Dershowitz’s motion fails the Second Circuit’s “experience
+and logic” test for triggering a First Amendment right of access. That test “asks both whether the
+documents have historically been open to the press and general public and whether public access
+plays a significant positive role in the functioning of the particular process in question.”Id.
+18
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 24 of 31
+Dershowitz’s motion fails both parts of the test.“Protective orders prohibiting dissemination of
+materials discovered before trial are not the kind of classic prior restraint that require[ ] exacting
+First Amendment scrutiny.” In re Zyprexa Injunction, 474 F.Supp.2d at 417 (Internal quotations
+omitted).
+He argues that materials filed as part of discovery motions are routinely filed and
+available for public view. That argument is meritless, as it ignores the existence of the Protective
+Order in this case. Moreover, there is no “historical openness” to the press of a party’s raw
+discovery materials, quite the opposite. As Ms. Giuffre established above, the Second Circuit has
+found that there is no public right of access to material exchanged in discovery.Amodeo II, 71
+F.3d at 1050 (documents “passed between the parties in discovery, lie entirely beyond the
+presumption’s reach…”). And again, the Court should not lose sight of the policy rationale
+behind the First Amendment right of access: the accountability of the courts to the public.
+Dershowitz does not want to monitor this Court in any way whatsoever; instead,he wants to use
+this Court as a vehicle to conduct a public relations campaign against Ms. Giuffre.
+The Court will recall that Dershowitz has a joint-defense agreement with Defendant and
+is fully aligned with her interests in this case. Far from assisting the public in reviewing this
+Court’s work, Dershowitz seeks to spread misinformation, engage in hateful personal attacks,
+and taint the jury pool that will hear Ms. Giuffre’s case. The Court should not allow such -callous
+abuse of a First Amendment right, particularly as thereis no merit to Dershowitz’s claim (Br.at
+21) that “public monitoring has an important role to play here.” This claim is a smokescreen to
+cover his improper motives. Dershowitz suggests there has been “significant pub-lic interest” in
+Ms. Giuffre’s allegations against him, but that is irrelevant here for two reasons.First, Ms.
+Giuffre is not lodging accusations against Dershowitz in this case. Those allegations appeared in
+19
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 25 of 31
+the CVRA case Dershowitz references, and the Court will note that the CVRA court denied as
+moot Dershowitz’s intervention attempt there.Second, public interest in a case would only
+matter if the material was sought to allow the public to monitor the Court’s actions(which is
+why the courts in this district often recognize a news agency’sstandingto challenge protective
+orders32), not to feed any purported interest in Dershowitz personally.Again, the First
+Amendment right protects the public’s right to oversee the function of the Court; it does not exist
+to assist Dershowitz in pursuing his personal vendetta against Ms. Giuffre. Newsday, 730 F.3d at
+164 (“the need for public access to court proceedings is grounded in the need for federal courts ...
+to have a measure of accountability and for the public to have confidence in the administration
+of justice.”)(emphasis added).The Court must reject Dershowitz’s misguided attempt to
+manipulate a public right for his personal benefit.
+E. The Second Circuit Has a Presumption Against Modifying Protective
+Orders Upon Which Parties Reasonably Relied
+The Second Circuit has expressly acknowledged that its protective order modification test
+has, as a general matter, a “strong presumption against the modificationof a protective order, and
+orders should not be modified absent a showing of improvidence in the grant of the order or
+some extraordinary circumstance or compelling need.” In re Teligent, Inc., 640 F.3d 53, 59 (2d
+Cir.2011)(affirming denial of motion to lift confidentiality provisions of the protective order).33
+1. The Record in this Case Shows That the Protective Order Was Not
+Improvidently Granted
+32Not only is Dershowitz not a news agency, and therefore, should not be allowed to challenge the Protective Order,
+but his interests are fully represented by Defendant, as evidenced by Defendant’s privilege log (showing
+communications between Dershowitz’s counsel and Defendant’s counsel); Defendant’s sharing confidential
+documents with Dershowitz; and the 2015 email, sent over 9 months prior to this action, between Dershowitz and
+Defendant (that this Court ordered Defendant to produce to Ms. Giuffre after its in camera review) discussing Ms.
+Giuffre. Defendant cannot credibly claim that his and Defendant’s interests are not aligned.
+338A Richard L. Marcus, Federal Practice and Procedure § 2044.1 (3d ed. Westlaw 2012) (asserting that the Second
+Circuit has “embraced a very restrictive attitude toward modification of protective orders,” “emphasiz[ing] the need
+to foster use of protective orders as a means of facilitating discovery as a reason for resisting modification that
+would tend to make the orders appear unreliable”).
+20
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 26 of 31
+Despite Dershowitz’s argument, the Protective Order, entered “[u]pon a showing of good
+cause,” was not improvidently granted.(DE 62 at p.1). Indeed, even after the entry of the
+Protective Order, this Court has articulated its concern for preserving the protections of the
+Protective Order: “I want to be sure that we can enforce the confidential aspect of that
+agreement, and I think that could be critical down the line.”34 Indeed, “once a discovery
+protective order is in place, the applicable standard requires plaintiff seeking to modify the
+order to show improvidence in the grant of the protective orderor some extraordinary
+circumstance or compelling need.” In re September 11 Litigation, 262 F.R.D.274 (S.D. N.Y.
+2009). Dershowitz’s attempts to claim improvidence, carelessness, or shortsightedne-ss of this
+Court in granting the Protective Order are unavailing. To the contrary, this Court has, twice,
+found the case warrants a stringent Protective Order, and has specificallyexpressed concern for
+its ongoing efficacy.35 Dershowitz cannot point to a single reason why the Protective Order was
+improvidently granted other than the fact that it hinders the ability of him, a third party, toselect
+certain documents to use in a pre-trial smear campaign against one of the parties. Ms. Giuffre
+submits that one of the merits of the Protective Order is that it forecloses a pre-trial any media
+circus (created by either side)which would taint the jury pool.
+2. The Partiesand Deponents in This Case Have Reasonably Relied
+Upon the Protective Order
+The Second Circuit has been hesitant to permit modifications that might “unfairly disturb
+the legitimate expectations of the parties or deponents.” Dorsett v. County of Nassau, 289 F.R.D.
+54, 64 (E.D.N.Y. 2012). Indeed, “[i]t is presumptively unfair for courts to modify protective
+orders which assure confidentiality and upon which the parties have reasonably relied.” Id.,289
+F.R.D. at 64 (E.D.N.Y. 2012) (internal citationsand quotations omitted) (denying motion to lift
+34April 21, 2016, Hearing Transcript at 6:24-7:6. (McCawley Dec. at Exhibit 19).
+35March 17, 2016, Hearing Transcript at 4:25-5:1, supra; April 21, 2016, Hearing Transcript at 6:24-7:6, supra
+21
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 27 of 31
+confidentiality of report of policing failures surrounding the murder of a young mother).
+“Consequently, in a major decision in this field, Martindell v. International Telephone &
+Telegraph Corp., 594 F.2d 291 (2d Cir.1979), the Second Circuit determined that ‘absent a
+showing of improvidence in the grant of a Rule 26(c) protective order or some extraordinary
+circumstance or compelling need ... a witness should be entitled to rely upon the enforceability of
+aprotective order against any third parties.’” Id., quoting Martindell v. International Telephone
+& Telegraph Corp., 594 F.2d at 296(denying governmental access for criminal investigative
+purposes civil deposition transcripts taken under a protective order).
+In this case,Ms. Giuffre -and multiple other deponents -reasonably relied on this
+Court’s Protective Order in giving testimony and producing documents. Indeed, Ms. Giuffre has
+given testimony about being sexually assaulted in reasonable reliance upon the privacy of the
+Protective Order; furnished personal medical records under inreasonable reliance upon the
+Protective Order; and produced personal emails with close family members inreasonable
+reliance uponof the Protective Order.Medical Diagnostic Imaging, PLLC v. Carecore Nat.,
+LLC, 2009 WL 2135294, at *4 (S.D.N.Y. 2009) (denying motion to modify protective order
+because parties and third partieshave reasonably relied upon the terms of the protective order).
+Under Martindell, this Court cannot take away those protections after the fact.36
+3. Dershowitz Seeks These Materials For an Illegitimate PurposeWhich
+Disqualifies Him from Relief
+“Alitigant's purpose in seeking modification of an existing protective order is also
+relevant for determining whether to grant a modification. Requests to modify protective orders so
+that the public may access discovery materials is arguably subject to a more stringent
+36“The Second Circuit has explicitly rejected the notion that the Martindellstandard should be limited to cases
+where the government seeks to modify a protective order. Rather, Martindellhas been applied even when the third
+party seeking access to discovery is a private litigant. Dorsett v. County of Nassau, 289 F.R.D. at 66, citing Iridium
+India Telecom Ltd. v. Motorola, Inc., 165 Fed.Appx. 878, 880 (2d Cir.2005).
+22
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 28 of 31
+presumption against modification because there is no public right of access to discovery
+materials.” Dorsett,289 F.R.D. at 65 (Internal citations and quotations omitted). Dershowitz’s
+own words admit the true purpose behind the instant motion, and wholly contradict the flimflam
+he has presented to this Court: “My goal is to bring charges against the client and require her to
+speak in court.”37
+Indeed, in over 50statements to the press, he has explained to the world (if not this
+Court) his reasons for maintaining his attacks on Ms. Giuffre in the media, in which he has
+publicly called her a “prostitute” and a “bad mother” to her three minor children. McCawley
+Dec. at Exhibit 20, Local 10 News, January 22, 2015. For example, Dershowitz has made the
+following statements:
+! “The end result of this case should be she [Jane Doe No. 3] should go to jail, the lawyers
+should be disbarred and everybody should understand that I am completely and totally
+innocent.” McCawleyDec. at Exhibit 21, CNN International, New Day, January 6, 2015.
+! Dershowitz also stated, in an interview in Newsmax, that he is “considering” bringing a
+lawsuit against Jane Doe No. 3. “And we’re considering suing her for defamation as well, but
+right now she was trying to hide in Colorado and avoid service, but we found her and we
+served her and now she’ll besubjected to a deposition.”38
+By his own words, Dershowitz wants to intimidate and harass Ms. Giuffre with the specter of his
+sending her “to jail.”39
+EvenDershowitz’s own citedcases militate against the Court feeding his proposed public
+relations campaign: Nixon v. Warner Communications, Inc., 98 S.Ct. 1306, 1312, 435 U.S. 589,
+598 (1978) (“It is uncontested that the right to . . . copy judicial records is not absolute . . . access
+has been denied where court files might have become a vehicle for improper purposes”). In
+37McCawley Dec. at Exhibit 22, Australian Broadcasting System (ABC), January 6, 2015.
+38McCawley Dec. at Exhibit 23, Newsmax, April 8, 2015
+39Dershowitz has previously written: “There’s an old saying: ‘If you have the law on your side, bang on the law. If
+you have the facts on your side, bang on the facts. If you have neither, bang on the table.’ I have never believed
+that, but I do believe in a variation on that theme: If you don’t have the law or legal facts on your side, argue your
+case in the court of public opinion.”ALAN DERSHOWITZ,TAKING THE STAND:MY LIFE IN THE LAW(2013).
+23
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 29 of 31
+Nixon, the Supreme Court warned that lower courts should “exercise an informed discretion as to
+the release” of materials, because, “[o]therwise, there would exhibit a danger that the court could
+become a partner in the use of the subpoenaed material to gratify private spite or promote public
+scandal, with no corresponding assuranceof public benefit.” Nixon v. Warner Communications,
+Inc., 98 S.Ct. at 1315, 435 U.S. at 603(internal citations and quotations omitted).Under Nixon,
+•
+this Court should not allow itself to beDershowitz’s partner in gratifying his private spite and
+promoting public scandal that would necessarily prejudice Ms. Giuffre.40
+4. Under This Court’s Order, Non-Parties Cannot Challenge
+Confidentiality Designationsand Dershowitz has Already Agreed to
+be Bound by the Parties’ Confidentiality Designations in Exchange for
+Receipt of Documents
+The Protective Order (DE 62) does not allow non-parties, like Dershowitz, to make a
+challenge to the confidentiality designations or the efficacy of the Order. To the contrary, the
+Protective Order only states that parties can object to the confidentiality designations: “A party
+may object to the designation of particular CONFIDENTIAL INFORMATION by giving written
+notice to the party designating the disputed information . . . it shall be the obligation the party
+designating the information as CONFIDENTIAL to file an appropriate motion requesting that
+the Court determine whether the disputed information should be subject to the terms of this
+Protective Order.” (DE 62 at ¶ 11, p. 4). This Court’s Protective Order does not allow for non-
+parties to challenge these designations. Accordingly, Dershowitz cannot challenge the
+designations under this Order.
+40Similarly,under applications to intervene under Rule 24(a), numerous courts have declined to allow a mere
+“reputational” interest to justify intervention. Calloway v. Westinghouse Elec. Corp., 115 F.R.D. 73, 74 (M.D. Ga.
+1987) (“interest in his reputation alone . .. does not constitute the required interest relating to the property or
+transaction which is the subject of the present action necessary to allow intervention”); Flynn v. Hubbard, 82 F.2d
+1084, 1093 (1st Cir. 1986) (“the church “merely claim[ed] a generalized injury to reputation [that] identifies no legal
+detriment arising from a default judgment against Hubbard.”); Edmondson v. State of Neb. ex. rel. Meyer, 383 F.2d
+123 (8th Cir. 1967) (“The mere fact that Edmondson’s reputation is thereby injured is notenough [to support
+intervention].”); Forsyth County v. U.S. Army Corps of Engineers, 2009 WL 1312511, at *2 (N.D. Ga. May 8, 2009)
+(interest in protecting its reputation . . . is not direct, substantive, or derived from a legal right”).
+24
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 30 of 31
+Importantly, Dershowitz admits that he has agreed to be bound by the provisions of the
+Protective Order in exchange for receiving the documents. Accordingly, he has agreed to the
+confidentiality restrictions placed on the documents, no matter what the documents contained. As
+Dershowitz explicitly admits that he agreed to be bound by the Protective Order so that he could
+be privy to all of the discovery in this case, he also agreed to be bound by its confidentiality
+provisions, as well as the provisions that only allow parties to bring challenges to the Protective
+Order.
+V. CONCLUSION
+Based on the foregoing, the Court should deny Dershowitz’s motion in its entirety.
+August 29, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+25
+Case 1:15-cv-07433-LAP Document 1328-41 Filed 01/05/24 Page 31 of 31
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFYthat on August 29, 2016, I electronically filed the foregoing
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+document is being served to all parties of record via transmission of theElectronic Court Filing
+System generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith Schultz
+Meredith Schultz
+26

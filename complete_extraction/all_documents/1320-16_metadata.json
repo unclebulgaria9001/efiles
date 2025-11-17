@@ -1,0 +1,63 @@
+{
+  "doc_id": "1320-16",
+  "filename": "1320-16.pdf",
+  "extraction_date": "2025-11-17T10:22:28.262093",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 4244,
+  "images_extracted": 0,
+  "dates_found": 5,
+  "people_found": 52,
+  "locations_found": 1,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2367
+    },
+    {
+      "date_string": "May 16, 2016",
+      "position": 294
+    },
+    {
+      "date_string": "May 16, 2016",
+      "position": 294
+    }
+  ],
+  "people": [
+    "Basham Client",
+    "Client Communication Attorney",
+    "Work Product",
+    "New York\nGiuffre",
+    "Ghislaine Maxwell",
+    "Gow Client",
+    "Attorney Work Product",
+    "Darren Indyke",
+    "Ghislaine Maxwell Philip",
+    "Laura Darren Indyke",
+    "Laura Menninger Attorneys",
+    "Brett Jaffe",
+    "Ghislaine Maxwell Ross",
+    "Forwarding Common Interest",
+    "Client Privilege",
+    "Common Interest Privilege",
+    "Laura Menninger",
+    "Laura Mary Borja",
+    "Mary Borja",
+    "Maxwell Attorney Agent"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,86 @@
+{
+  "doc_id": "1325-17",
+  "filename": "1325-17.pdf",
+  "extraction_date": "2025-11-17T10:22:34.933148",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 9953,
+  "images_extracted": 0,
+  "dates_found": 17,
+  "people_found": 27,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 947
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1665
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2752
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4028
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 5124
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6088
+    },
+    {
+      "date_string": "9/11/2001",
+      "position": 6787
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 7029
+    }
+  ],
+  "people": [
+    "Abel\nVirginia Giuffre",
+    "Jenny Martin",
+    "North Andrews Avenue",
+    "Tony Figueroa",
+    "West Palm",
+    "Video Deposition",
+    "One Florida Park",
+    "Esquire\nFarmer",
+    "Drive South",
+    "Palm Coast",
+    "Survivors Charter",
+    "Gold Coast",
+    "Lake Worth",
+    "Esquire\nHaddon",
+    "Charter School",
+    "South Area",
+    "Florida Professional Reporter",
+    "Palm Beach High",
+    "Notary Public",
+    "Avenue\nDenver"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

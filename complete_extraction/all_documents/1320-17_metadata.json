@@ -1,0 +1,85 @@
+{
+  "doc_id": "1320-17",
+  "filename": "1320-17.pdf",
+  "extraction_date": "2025-11-17T10:22:27.616247",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 67608,
+  "images_extracted": 0,
+  "dates_found": 87,
+  "people_found": 55,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2080
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2148
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4705
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 8012
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 11142
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 14598
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 17919
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 20501
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 23260
+    }
+  ],
+  "people": [
+    "This Request",
+    "The\nDefinition",
+    "Punitive Damages",
+    "Bradley Edwards",
+    "Chelsea\nClinton Foundation",
+    "Clinton Foundation Climate",
+    "Instruction No",
+    "Income Tax Returns",
+    "From January",
+    "Defendant Ghislaine Maxwell",
+    "Change Initiative",
+    "Definition No",
+    "First Set",
+    "University Street",
+    "Virginia Roberts Giuffre",
+    "Ghislaine Maxwell",
+    "Civil Procedure",
+    "Local Civil Rule",
+    "Request No",
+    "First Requests"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

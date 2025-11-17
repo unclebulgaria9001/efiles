@@ -1,0 +1,564 @@
+# Document: gov.uscourts.nysd.447706.1331.4.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document
+# Images Extracted: 0
+# Dates Found: 45
+# People Found: 114
+# Locations Found: 3
+# Linked Emails: 6
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 1 of 21
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+____________________________/
+PLAINTIFF’S RESPONSE IN OPPOSITION
+TO DEFENDANT’S MOTION FOR SANCTIONS
+BOIES SCHILLER & FLEXNER LLP
+Sigrid S. McCawley (Pro Hac Vice)
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+Telephone: (954) 356-0011
+Facsimile: (954) 356-0022
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 2 of 21
+TABLE OF CONTENTS
+Page
+I. INTRODUCTION..............................................................................................................1
+II. LEGAL ARGUMENT........................................................................................................5
+A. Defendant’s Motion Should Be Denied Because it is Untimely and Defendant
+is Merely Trying to Deflect from Her Own Discovery Misconduct........................5
+B. There Was No Duty to PreserveThe Journal Because There Was No Pending
+or Reasonably Foreseeable Litigation to Which Ms. Giuffre Was a Party..............6
+C. There Was No Willful Destruction of Evidence......................................................8
+D. Defendant Cannot Show That The Journal Was Favorable to Her..........................9
+E. No Alleged Spoliation in the Context of an Unrelated Claim Attaches to a
+Future Defamation Claim......................................................................................13
+F. Defendant Can Show No Prejudice and She Has the “Best Evidence”.................14
+III. CONCLUSION.................................................................................................................16
+CERTIFICATE OF SERVICE.....................................................................................................18
+i
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 3 of 21
+TABLE OF AUTHORITIES
+Page
+Cases
+Brigham Young Univ. v. Pfizer, Inc.,
+282 F.R.D. 566 (D. Utah 2012)................................................................................................14
+Cedar Petrochemicals, Inc. v. Dongbu Chem. Co.,
+769 F. Supp. 2d 269 (S.D.N.Y. 2011).........................................................................................9
+Gutman v. Klein,
+2010 WL 4916722 (E.D.N.Y. Nov. 24, 2010)............................................................................6
+In re Methyl Tertiary Butyl Ether Prods. Liab. Litig.,
+643 F. Supp. 2d 482 (S.D.N.Y.2009).........................................................................................8
+In re Pfizer Inc. Securities Litigation,
+288 F.R.D. 297 (S.D.N.Y. 2013)....................................................................................9, 13, 14
+Jane Doe No. #1 and #2 v. United States,
+No. 9:08-cv-80736-KAM,S.D. Fla. [at DE 324].......................................................................7
+Kraus v. General Motors Corp.,
+2007 WL 3146911 (S.D.N.Y. Oct. 24, 2007).......................................................................6, 13
+Mercy v. County of Suffolk,
+748 F.2d 52 (2d Cir.1984)...........................................................................................................5
+Orbit One Commc’ns. v. Numerex Corp.,
+271 F.R.D. 429 (S.D.N.Y. 2010)..............................................................................................10
+Treppel v. Biovail Corp.,
+233 F.R.D. 363 (S.D.N.Y. 2006)..............................................................................................15
+United States v. Aleshire,
+2014 WL 11394905 (W.D. Wis. Oct. 20, 2014).......................................................................15
+Statutes
+18 U.S.C. § 3771.............................................................................................................................6
+18 U.S.C. § 3771(a)........................................................................................................................6
+18 U.S.C. § 3771(a)(8)....................................................................................................................7
+Rules
+Fed. Rul. Evid. 401.........................................................................................................................9
+ii
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 4 of 21
+By and through her undersigned counsel, Ms. Giuffre hereby submits her Response in
+Opposition to Defendant’s Motion for Sanctions. Defendant’s frivolous motion should be
+denied. As part of a therapeutic exercise,Ms. Giuffre burned a personal journal with memories
+of her sexual abuse in 2013 –two years before the defamation in this case occurred and three
+years before this litigation began. Sanctions are, accordingly, obviously not appropriate.
+I. INTRODUCTION
+On November 2, 2016, this Court entered an Order granting Ms. Giuffre an adverse
+inference instruction due to Defendant’s willful refusal to turn over electronic discovery. Just
+one month later,the Defendant filed this frivolous motion, asking for an adverse inference
+against Ms. Giuffre because Ms. Giuffre burned an emotionally painful journal as part of a
+healing process–healingfrom Defendant’s sex abuse–two years before this defamation cause
+of action accrued and three years beforethe start of this litigation,1 and because Ms. Giuffre
+could not find a notebook in which she recorded her dreams, an item for which there is no
+evidence of having evidentiary valuewhatsoever. Significantly, there is no evidence that the
+dream journal became missing after she had a duty to preserve it, and Defendant has made no
+showing that Ms. Giuffre had this dream journal in her possession while she had a duty to
+preserve. Ms. Giuffretestified that she thought it was located in her child’s closet, but upon
+searching for it, she was not able to find it. It is unknown even to Ms. Giuffre when it was lost.
+The basic facts appear to be uncontested. As Ms. Giuffre testified in her depositions, she
+was sexually abused by Epstein and the Defendant in and around 2000.Then, a decade after her
+sexual abuse, in around 2011 and 2012, she wrote some memories of that sexual abuse in a
+journal. Then in 2013, she burned that journal as a “spiritual” exercise to help her heal from the
+1 Indeed, Defendant raised this same issue at this Court’s hearing back in May of 2016, yet
+Defendant waited seven months, until after the Court issued an adverse inference against her, to
+file this motion for sanctions.
+1
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 5 of 21
+sexual abuse. Of course, the facts at issue in this case began in January 2015, when Defendant
+defamed Ms. Giuffre, leading to this lawsuit, filed in September 2015. Ms. Giuffre also testified
+that,at one point, she had a dream journal, but never testified that she had her dream journal
+during the pendency of this litigation or that her dream journal had anything related to this
+litigation within it.
+- Ms. Giuffre performed a diligent search for all documents even potentially connected to
+this case. She produced a 141 page manuscript from her electronic files,which was also written
+in 2011; she produced a huge number of photographs and travel documents from the time
+Defendant and Epstein abused her; andshe produced a copious amount of ESI from various
+sources. To leave no stone unturned, Ms. Giuffre paid $600 to retrieve storage boxes from a
+remote location and produced additional photographs found within those boxes. After a diligent
+search with the assistance of her attorneys, Ms. Giuffre was unable to locate thespiral bound
+notebook into which she used to record some of her dreams. However, the great number of
+documents produced by Ms. Giuffre, and those produced by third-parties, unambiguously point
+to the conclusion that this dream bookwould not have been useful to Defendant, because if it
+included anything related to this matter, it would likely have simply contained additional notes
+about Defendant’s involvement with Epstein in abusing her.
+From these simple facts, Defendant now seeks to spin a claim of “intentional destruction
+of evidence.” That the Defendant isaskingthe Court to somehow penalize Ms. Giuffrefor
+taking a step to heal from Defendant’s sexual abuse is perverse. In any event, it is wholly
+unsupported inlaw, as no duty exists to preserve documents before a cause of action accrues. Of
+course, Ms. Giuffre could not predict in 2013 that Defendant would later defame her in 2015.
+Therefore, Ms. Giuffre had no duty to preserveanything at that point in time. And, in any event,
+2
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 6 of 21
+she has performed a diligent search to locate all potentially relevant documents. Ms. Giuffre was
+-unable to find anything connected with the dream journal, which is obviously why she could not
+produce it.
+Defendant is unable to cite even a single case in which any court has imposed a
+“sanction” for document destruction entirely unrelated to the case before the court. Seemingto
+recognizethis problem, Defendant claims that Ms. Giuffre somehow was obligated to preserve
+her journal in 2013 because she was contemplating joininga case involving the Crime Victims
+Rights Act (CVRA) against the federal government then pending in the Southern District of
+Florida. If we understand the chain ofreasoning correctly, Defendant apparently argues that (1)
+Ms. Giuffre’s mere interest in theCVRA case in 2013,which later matured into a motion to join
+in 2014,somehow triggered some duty to preserve the notes about sex abuse(whichshe had
+made earlier in her journal in 2011 and 2012)when she was considering burning the notes in
+2013; (2) that duty to preserve those notes in 2013 potentially related tothe motion she filed in
+the CVRA case in 2014; and(3) that such a duty, somehow,attaches to a defamation claim due
+to statements made by the Defendant in 2015. This contrivedargument is wholly without merit
+for several reasons. First, Ms. Giuffre had no duty to preserve her journal in 2013. Second, even
+if any duty arose (which it did not), the duty would have been to the U.S. Attorney’s Office –
+which has not made any argument that its interests have been impaired. Third, any duty to
+preserve the journal would have been in connection with that litigation, not this defamation case
+which arose several years later. Fourth, in any event, Ms. Giuffre has produced a lengthy, 141-
+pagedraft manuscript that was written in 2011, the same year she was writing in her journal, as
+well as the notes from her treating psychologist from the same year.
+3
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 7 of 21
+Tellingly, Defendant cites no case law –in any jurisdiction –to support the proposition
+that any duty to preserve materials for a federal crime victim’s right case in the past (let alone
+one that involved wholly different parties and wholly different causes of action) somehow
+transfers to a New York state law defamation claim involving a different party that arose years
+1111
+later.To the contrary, even rulings in the Southern District of New York hold the opposite, but
+Defendant failed to cite those rulings. Instead, Defendant’s brief quotes extensively from cases
+in which parties destroyed evidence after the cause of action accrued and after the parties had
+notice of a duty to preserve. Those are inapposite.
+Because this is a losing argument for the Defendant, unsupported by law or logic,
+Defendant’s brief turns to fiction and fancy, making inflammatory claims against Ms. Giuffre
+and her attorneys that have absolutely no basis in fact. For example, Defendant’s brief states that
+“there is reason to suspect that Plaintiff acted in concert with or was encouraged by her attorneys
+to embellish her story.” Motion at 12. Tellingly absent from Defendant’s brief are any
+“reasons” or supporting factsfor that allegation.
+This Court has previous instructed Defendant to discontinue filing “frivolous or vexatious
+motions” based upon nothing but “a supposing of bad faith,” “lacking sufficient factual support
+to support a colorable argument:”
+Having provided no grounds to doubt the sworn representations of Plaintiff’s counsel,
+Defendant’s motion to compel these communications is denied. Defendant is granted
+leave to refile the motions with respect to media and business advice on the basis of
+relevant and non-specious factual support. Court intervention should not be invoked to
+resolve routine discovery matters on the basis of a supposition of bad faith. Further filing
+of frivolous or vexatious motions lacking sufficient factual support to support a colorable
+argument (or on the basis of misrepresented or false facts or law) will be met with
+sanctions.
+-June 20, 2016, Sealed Order at 13-14. The Defendant ignored this Order, and her motion should
+be denied.
+4
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 8 of 21
+II. LEGAL ARGUMENT
+A. Defendant’s Motion Should Be Denied Because it is Untimelyand Defendant
+is Merely Trying to Deflect from Her Own Discovery Misconduct
+The first reason the Court should deny this motion is that it is simply and obviously
+untimely. Defendant complained to this Court at least as early as May 20161, tha1t M1s. G1iuff-re
+had a bonfire two years prior to Defendant’s defamation. As counsel for Ms. Giuffre said at the
+1111
+time:
+There is absolutely no reason why my client should reasonably anticipate that her
+sex abuser would defame her in the global stage at that point [when she held the
+bonfire]. She is a child victim of sex abuse at the hands of the defendant [and] co-
+conspirators, and she decided to burn certain memories as a step toward the
+healing process. That is outside the control of counsel and certainly unrelated to
+anything going on in an action filed in 2015.
+May 12, 2016 Hr. Tr. at 10:1-8.
+Yet while these issues were before the Court by (at least) May, Defendant waited an
+additional seven monthsto file this motion that she claims should result in the complete
+dismissal of this action. Such delay is unreasonable. The Second Circuit has held that “a motion
+for Rule 37 sanctions should be promptly made thereby allowing the judge to rule on the matter
+when it is still fresh in his mind.” Mercy v. Countyof Suffolk, 748 F.2d 52, 56 (2d Cir.1984).
+Defendant gives no reason why she did not present this issue to the Court last May,andshe cites
+no new information in herbrief that developed during that time. Instead, the only intervening
+development with some connection to the motion may bethis Court’s November 2, 2016, Order,
+which concluded that the Defendant had withheld discovery materials. A few weeks later, the
+Defendant filed this motion accusing Ms. Giuffre of withholding discovery materials.2
+2 Defendant appears to have a pattern of filing seemingly tit-for-tat motions. In many such
+motions, Defendant copies the language of Plaintiff’s briefs word-for-word, despite there being
+few, if any, factual similarities. See, e.g., Plaintiff’s Motion to Compel for Improper Claim of
+5
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 9 of 21
+The key fact is that Defendant fails tooffer anyexplanation whatsoever for herdelayin
+bringing this motion. Therefore, this Court should reject Defendant’s motion as untimely. See
+Gutman v. Klein, 2010 WL 4916722, at *8 (E.D.N.Y. Nov. 24, 2010)(denying sanctions motion,
+in part, as untimely).
+B. There Was No Duty to Preserve The Journal Because There Was No Pending
+or Reasonably Foreseeable Litigation to Which Ms. Giuffre Was a Party
+Turning to the merits of Defendant’s motion, Ms. Giuffre could not have violated any
+duty to preserve herjournal because no such dutyexisted. “Spoliation is the destruction or
+significant alteration of evidence, or the failure to preserve property for another's use as evidence
+in pending or reasonably foreseeable litigation.” Kraus v. General Motors Corp., 2007 WL
+3146911, at *1 (S.D.N.Y. Oct. 24, 2007)(denying sanctions). Defendant fails to meet her
+burden because when Ms. Giuffre burned her journal in 2013, this litigation (filed in 2015) was
+not “pending.” Nor was this litigation “reasonably foreseeable.” In 2013, Ms. Giuffre had no
+way of foreseeing that, two years later in 2015, the Defendant would maliciously defame her.
+Defendant’s motion should be denied on this ground alone.
+Attempting to manufacture such a duty, Defendant points to the fact that in 2013, Ms.
+Giuffre was considering joining the CVRA case in Florida. It is also important to understand the
+context of that case. As the Court will recall from earlier briefing, in 2008, two child sexual
+abuse victims of Jeffrey Epstein brought suit against the United States Attorney for the Southern
+District of Florida under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771. The cause
+of action was premised upon the U.S. Attorney Office’s failure to timely notify Epstein’s victims
+of Epstein’s non-prosecutionagreement, as required under 18 U.S.C. § 3771(a). Six years after
+the lawsuit’s inception, on December 30, 2014, Ms. Giuffre filed a motion to join the CVRA
+Privilege (DE 33) (granted in part), and Defendant’s Motion to Compel for Improper Claim of
+Privilege (DE 155) (denied).
+6
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 10 of 21
+case. Several months later,Judge Marra denied Ms. Giuffre’s motion. SeeApril 7, 2015, Order
+Denying Petitioners’ Motion to Join under Rule 21 and Motion to Amend under Rule 15, Jane
+Doe No. #1 and #2 v. United States, No. 9:08-cv-80736-KAM, S.D. Fla. at DE 280 and DE 324.
+This ruling alone eliminatesany duty that even arguably could have attached to Ms.
+Giuffre in 2013– any contemplated litigation simply never later materialized. But, in any event,
+any duty that Ms. Giuffre may have had related to the CVRA case would have runto the sole
+defendant in that case –the U.S. Attorney’s Office. The Office had years earlier (in 2008)
+identified Ms. Giuffre as a protected “victim”of Jeffrey Epstein’s sex abuse, even mailing to Ms.
+Giuffre a notice of her rights as a crime victim under the CVRA. See Schultz Dec. at Exhibit 1,
+Victim Notification Letter. Accordingly, Ms. Giuffre’s status as a “victim” could never have
+been an issue in the CVRA case. The limited issue in the CVRA case is whether the
+Government properly discharged its duties to the victims to confer with them and notifying them
+of the non-prosecution agreement it signed with Jeffrey Epstein. The journal could only have
+related to issues about Ms. Giuffre’s victimization, and thus even in the unrelated CVRA case,
+which Ms. Giuffre was not allowed to join, the journal was not relevant.
+Beyond these problems for Defendant’s argument here, in 2014 the only duty that Ms.
+Giuffre could have had would have been to the U.S. Attorney’s Office. That Office presumably
+would have encouraged Ms. Giuffre to undertake whatever steps were needed to facilitate her
+healing from the terrible crimes Epstein and his co-conspirators inflicted on her. See 18 U.S.C.
+§3771(a)(8) (requiring federal government to treat crime victims “with fairness and with respect
+for the victim’s dignity and privacy”). Defendant’s claim here necessarily requires that
+Defendant step into the Government’s shoes to establish a breach of duty. Ms. Giuffre has
+7
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 11 of 21
+violated no duty she directly owed to the Government, and thus violated no duty she (arguably)
+indirectly owed to the Defendant.
+C. There Was No Willful Destruction of Evidence
+An additional reason for denying the motion is that Ms. Giuffre lacked any “culpable”
+state of mind. “A partymust have acted in bad faith –intentionally or willfully –in order to
+have a sufficiently culpable state of mind warranting an adverse inference . . . [which] may be
+met through ordinary negligence.” See In re Methyl Tertiary Butyl Ether Prods. Liab. Litig., 643
+I
+F. Supp. 2d 482, 495-96 (S.D.N.Y. 2009)(denying sanctions)(internal quotations omitted). In
+•
+burning her journal,in which she had written painful memoriesof repeated sexual abuse, Ms.
+Giuffre did not have a culpable state of mind, nor was she negligent. To the contrary, as
+Defendant conceded in her moving brief, Ms. Giuffre testified – at two depositions -that she
+burned her journal as a “spiritual”act of healing from her sexual abuse in an effort to move
+forward with life. Specifically, as Defendant notes, Ms. Giuffretestified, “I was burninglike
+-memories, thoughts, dreams that I had, just everything that was kind of affiliated with the abuse I
+endured”. See Schultz Decl.at Exhibit 2, January 16, 2016, Giuffre Dep. Tr. at 64:24-65:3. Ms.
+Giuffre also testified, “. . . it was not under the instruction of my lawyers to do this. My husband
+and I were pretty spiritual people and we believed that these memories were worth burning.” See
+Schultz Decl.at Exhibit 3, May 3, 2016, Giuffre Dep. Tr. at. 205:25-206:3.
+Accordingly,Ms. Giuffre’s state of mind was that of achild sex abuse victim who later,
+in pain,attemptedto achieve spiritual recovery by burning memories she had recently recorded
+of the sex abuse–abuse, it is worth recalling, she endured at the hands of Defendant and
+Epstein. Importantly, as Defendant concedes, this journal was not created at the time Defendant
+and Epstein subjected her to sexual abuse. (Q. “So you didnot write this journal at the time it
+happened?” A. “No.” Q. “You started writing this journal approximately a decade after you
+8
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 12 of 21
+-
+claim you finished being sexually trafficked, correct?” A. “Yes.” Id. at 206:16-22). Even if Ms.
+Giuffre contemplated any litigation having anything to do whatsoever with what was in that
+journal, she had no notice of any duty to preserve notes she had written as a healing exercise.
+Accordingly, Defendant’s motion fails for this r-eason as well.
+D. Defendant Cannot Show That the Journal Was Favorable to Her
+Ms. Giuffre did not act willfully (or evennegligently in 2013)when she burned some
+memoriesshe wrote down as a healing exercise from her childhood sexual abuse, an exercise
+undertaken long before becoming at all involved in any litigation,and long before Defendant
+defamed her. However, even if we assume that Ms. Giuffre was negligent (which she wasn’t),
+Defendant is only entitled to pursue relief if the materials destroyed were favorable to her case.
+Defendant cannot comeclose to meeting that burden.
+“If the spoliating party has acted only negligently, the moving party can satisfy the final
+requirement of the spoliation analysis if it can show that the lost materials were relevant.” In re
+Pfizer Inc. Securities Litigation, 288 F.R.D. 297, 315(S.D.N.Y. 2013)(denying sanctions).3
+“[T]he Court of Appeals has held that for the destroyed evidence to be ‘relevant’ it must be
+‘more than sufficiently probative to satisfy Rule 401 of the Federal Rules of Evidence.’” Id. A
+party may establish relevance by “‘adduc[ing] sufficient evidence from which a reasonable trier
+of fact could infer that ‘the destroyed [or unavailable] evidence would have been of the nature
+alleged by the party affected by its destruction.’” Id. Put more succinctly, a plaintiff must
+present extrinsic evidence that tends to show that the destroyed documents would have been
+favorable to her case. See Cedar Petrochemicals, Inc. v. Dongbu Chem. Co., 769 F.Supp. 2d
+269, 292 (S.D.N.Y. 2011)(denying sanctions). Indeed, “relevance requires a showing beyond
+3 ThePfizer Court applies a negligence standard which is applicable to the documents at issue
+here, should this Court find that any duty attaches, which it does not, as explained above.
+9
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 13 of 21
+the straightforward assertion that the opposing party has failed to produce requested
+information.” Id.at 293 (quoting Orbit One Commc’ns. v. Numerex Corp., 271 F.R.D. 429, 440
+(S.D.N.Y. 2010)(denying sanctions)).
+Defendant fails to show that the materials are “relevant”–that is, that the writings in Ms.
+Giuffre’s journal would be favorable to Defendant. To the contrary, all evidence in the record
+indicatesthat this journal would be highly unfavorable to Defendant.
+First, Ms. Giuffre has testified that it contains her recollections of her sex abuse, and Ms.
+Giuffre has testified that Defendant abused her:
+Q.So you burned notes of the men with whom you had sex while you were
+represented by counsel inlitigation, correct?
+A. This wasn't anything that was a publicdocument. This was my own private
+journal, and Ididn't want it anymore. So we burned it.
+SeeGiuffre May 3, 2016 Dep. Tr. at 206. Indeed, a contemporaneous document, the manuscript,
+stated the same thing:
+Nobody ever stopped to ask if I was comfortable or if I wanted to stop, no,
+instead, Ghislane [sic] only directed me to conclude the massage session by
+climbing up on the table to be fixated on Jeffrey, straddling him so he could
+[EXPLICIT] me . . . Jeffrey moaned in pleasure and Ghislane [sic] started to
+undress me from behind. Within moments I was completely naked and Ghislane
+[sic] had her top off . . . she sure did act like she loved having the control over me
+tellingme what to do throughout the entire threesome.
+Manuscript at p. 25-26; 29 (GIUFFRE004l58-4159). Accordingly, the evidence shows that the
+journal would implicate Defendant in sexual abuse.
+The evidence does not end there. Documents createdcontemporaneouslywith Ms.
+Giuffre authoring the journal –documents produced to Ms. Giuffre by a third party–strongly
+indicate that thejournal’s contentswould be highly unfavorable to Defendant. Indeed, in the
+moving brief, Defendant recountstestimony that this journal was authored in 2011 and 2012. At
+the same time, in 2011, Ms. Giuffre received treatment for her past sex abuse from her
+10
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 14 of 21
+psychologist, Judith Lightfoot. Ms. Lightfoot’s own records, written in 2011, describe
+Defendant as Ms. Giuffre’s abuser:
+. . . was approached by Ghislaine Maxwell who said she could help her get a job
+as a massage therapist . . . seemed respectable . . . was shown how to massage,
+etc., Geoff [sic] Epstein. Told to undress and perform sexual acts on person.
+Miss Maxwell promised her $200 a job.
+SeeSchultz Decl. at Exhibit 4, June 9, 2011 Lightfoot Records at GIUFFRE005437.
+As the Court can see, the same year Ms. Giuffrewrote in her journal about the abuse she
+endured, she wrote a manuscript detailing that abuse, and confided in her treating psychologist
+that Maxwell recruited her for sex with Epstein. Therefore, the contemporaneous records
+evidence Defendant’s guilt, and indicate that similar statements would be in Ms. Giuffre’s
+journal. Accordingly, this journal would merely be cumulativewith the volumes of other
+evidence showing Defendant’s involvement in the sexual abuse of Ms. Giuffre.
+Indeed, contemporaneous with Defendant’s abuse in the 2000-2002 time period, Tony
+Figueroa testified that Virginia confided in him that Defendant required her to participate in
+threesomeswith Defendant and Epstein during the time it happened:
+Q. I guess my question is: Did she ever tell you that she had started as a regular
+masseuse for him and then transitioned to something other than a masseuse?
+A.No. She never said that it transitioned. But she ended up explaining to me
+what had happened before, so...
+Q.What has --what is that?
+A.That her and Ms. Maxwell and Jeffrey would obviously be doing stuff, all
+three of them together. Like I said, that they would all go out to clubs to pick up
+girls and try and find them to bring back for Jeffrey. And then she told me about
+how, like I said, her and Ms. Maxwell and Jeffrey were all intimate together on
+multiple occasions.
+Q.When did she tell you this?
+A. I'm not exactly sure on the dates.
+11
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 15 of 21
+-Q.Was it while you were still together?
+A.Yes.
+Figueroa Dep. Tr. at 96:1-19.
+When Defendant argues that the journal or the dream journal would be unfavorable to
+Ms. Giuffre, Defendant ignores these and otherdamning facts. Defendant, again,fails to cite any
+countervailing fact, fails to point to any other evidence, and quotes no other testimony to support
+her argument that the journals would somehow be favorable to her. Instead, Defendant engages
+in wild speculationupon a mere “supposition of bad faith.” SeeMotion at 12, second paragraph.
+Defendant does not attempt to cite any evidence to support these conspiracy theories, as Ms.
+Giuffre herself has described the contents ofone her journal as memories of her sex abuse and
+-the contents of the other “dream”4 journal ofher (literal)dreams (that they occurredwhile she
+was asleep). Defendant does not explain what the evidentiary value of a party’s dreams may
+have regarding a defamation claim, nor could she.
+Accordingly, Defendant’s motion should fail for this reasonas well –she cannot make
+any showing whatsoever (much less carry her burden of proof) that the journal would be
+favorable to her. And,she completely ignores the blindingly obvious fact that the journal would
+likely be, if anything,highly favorable to Ms. Giuffre, it would simply contain more
+documentation of Defendant’s involvement in sexual abuse.
+4 Q. What do you do with those notes?
+A. Nothing, literally nothing. They’re in a notebook that if I need to write it down. I have a
+dream notebook as well where I’ll just write down my dreams and stuff.
+January 16, 2016, Giuffre Tr. at 195:15-19.
+12
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 16 of 21
+E. No Alleged Spoliation in the Context of an Unrelated Claim Attaches to a
+Future Defamation Claim
+Yet another fatal problem for Defendant’s motion is that it rests on the premisethat Ms.
+Giuffre violated a duty to preserve evidence that arose in a different case. The attenuated chain
+of reasoning is that Ms. Giuffre’s duty to preserve this journal with respect to this case arose in
+2013, when she heard about another case –the CVRA case (long before she and her attorneys
+made the decision to attempt to join that litigation). However, Southern District of New York
+courts haverejected this very argument that a duty to preserve can arise from unrelated litigation.
+See, e.g.,In re Pfizer Inc. Securities Litigation, 288 F.R.D. at 316 (holding no breach in duty to
+preserve where documents allegedly relevant to a previous litigation were not retained). In
+Pfizer, this Court explained:
+I conclude that Pfizer's duty to preserve in this case arose in 2004, not in 2001.
+The 2001 lawsuit was a patent action related to the identification of the enzyme
+that led to the development of Celebrex and Bextra. As such, it raised different
+factual issues from the instant action and would not have given Pfizer reasonable
+notice of the foreseeability of this securities fraud litigation.
+Id. at 316. Similarly, in 2013, Ms. Giuffre had not even made her application to join the CVRA
+case, a case that raises different factual issues from the instant action, namely, whether the
+United States District Attorney for theSouthern District of Florida failed to discharge its
+statutorily-mandated duty to Epstein’s victims upon entering into a plea agreement with Epstein.
+Ms. Giuffre’s supposed 2013 contemplation of the CVRA litigation against the government
+under an unfamiliarfederal victims’ rights statute would not have given Ms. Giuffre (a non-
+lawyer who was not a partyto that action) reasonable notice of the foreseeability of Ms. Maxwell
+defaming heron a global stagetwo years later. Cf.Kraus v. Gen. Motors Corp., 03Civ. 4467
+(CM), 2007 WL 3146911, at *2 (S.D.N.Y. Oct. 24, 2007) (McMahon, D.J.) (defendant was
+under no duty to preserve a car as evidence in products liability suit before complaint was filed
+13
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 17 of 21
+because it had not been previously notified of any injury that might reasonably lead to litigation
+and no litigation had been threatened); Brigham Young Univ. v. Pfizer, Inc., 282 F.R.D. 566, 572
+(D. Utah 2012) (rejecting argument that Pfizer’s duty to preserve extended back to earlier,
+unrelated litigations).
+The Pfizer court further explained: “In addition, the duty to preserve only extends to
+documents relevant to the claim of which the party has notice.” In re Pfizer Inc. Securities
+Litigation, 288 F.R.D. at317(emphasis added). To the extent Ms. Giuffre’s 2011-2012 journal is
+somehow relevant to the claim at issue in this case, there was no duty to preserve because the
+defamation claim against Defendant did not arise until 2015 and the earlier case involved a
+different issue. Similarly, Defendant makes no showing that Ms. Giuffre had possession of the
+dream journal during 2015, nor that it is relevant such that any duty attaches to it.
+F. Defendant Can Show No Prejudice and She Has the “Best Evidence”
+Still another fatal problem for Defendant’s argument is that she has received substantial
+information parallel to the journal Ms. Giuffre kept. Defendant has thus suffered no prejudice.
+As the Court is aware from previous discovery motions, Ms. Giuffre has produced a vast amount
+of material in this matter, including materials from the time of her abuse and from the time she
+kept her journal. Of particular note are a 141-page draft manuscript she wrotein 2011, around
+the same time as the journal,as well as numerous e-mail communications, and even pictures and
+travel receipts from the years 2000-2002. Of course, the materials from 2000-02 (photos, travel
+records, flight logs, etc.) were all created contemporaneouslywith Ms. Giuffre’s abuse, and
+would thus serve as the “best evidence” of what was happening then. (The Court will no doubt
+recall Defendant’s failing memory concerning events that happened at that time, such as
+Defendant’s failure to be able to recollect even one of the 23 flights on which she is listed as
+having traveled with Epstein and Ms. Giuffre, during the time Ms. Giuffre was a minor child.)
+14
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 18 of 21
+Even turning to the later time period whenMs. Giuffre wrote her journal, Defendant has better
+records than the journal which she can review –.e.g., the psychological records specifically
+-naming the Defendant as involved in Ms. Giuffre’s sexual abuse and Ms. Giuffre’s 141-page
+manuscript. Against this backdrop of many other available materials, the burned journal is
+obviously nothing more than cumulativecorroborating evidence.
+Second, with regard to Defendant’s second, fallback argument regarding the dream
+journal (which Ms. Giuffre has diligently searched for but been unable to locate), nothing
+suggests it contains any relevant content. Perhaps Defendant is going to argue that Ms. Giuffre’s
+dreams are somehow inconsistent with her sworn testimony, but this would be pseudo-science
+that has no place before the jury. Cf. SIGMUND FREUD,THE INTERPRETATION OF DREAMS (1889)
+(developing theory of the unconscious with respect to dream interpretation). Defe-ndant’s brief
+gives no hint as to what purpose notes about dreams could have in this litigation. Cf.United
+States v. Aleshire, 2014 WL 11394905, at *6 (W.D. Wis. Oct. 20, 2014) (“dreams themselves,
+however, would not be admitted”). In any event, Ms.Giuffre diligently attemptedto locate these
+notes but could not find them. C.f. Treppel v. Biovail Corp., 233 F.R.D. 363, 374 (S.D.N.Y.
+2006) (“Even in a case involving exclusively hard copy documents, there is no obligation on the
+part of a responding party to examine every scrap of paper . . . Rather, it must conduct a diligent
+search, which involves developing a reasonably comprehensive search strategy.”). And there is
+-no evidence that the dream journal was lost during (or even shortly before) the pendency of this
+litigation.
+If anything, Defendant’s argument about the dream notes shows how far afield she had to
+go from thecore issues in this case. Recall the basic outlines of this case: Ms. Giuffre filed a
+court document alleging that she had been sexually abused by Defendant and others. Defendant
+15
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 19 of 21
+called Ms. Giuffre a liar. Ms. Giuffre then filed this defamation suit, alleging that herallegations
+of sexual abuse were true. Ms. Giuffre gave her sworn testimony that the allegations were true
+and deposed multiple witnesses who supported her position. On the other hand, Defendant gave
+her sworn testimony that she, quite conveniently, could not remember the important events of the
+time (such as flying on 23 flights with Ms. Giuffre as a minor child and Epstein). Having failed
+to remember the critical events –and having failed to produce important documents about these
+events5 –Defendant propounded extensive discovery to Ms. Giuffre, to which Ms. Giuffre has
+diligently attempted to respond. Now, as the trial for this case is approaching, Defendant has
+filed a last ditch motion to dismiss, claiming that Ms. Giuffre’ missing notes of her dreams are
+somehow such critical information that thedefamation case should be dismissed. To simply
+describe the argument is to show how far-fetched Defendant’s position has become. The Court
+should deny this frivolous motion and prepare to try this case onMarch13, 2017.
+III. CONCLUSION
+The Defendant’s motion for sanctions due to Ms. Giuffre’s destruction of materials for
+entirely benign reasons,long before this litigation ever arose,should be denied in its entirely.
+5 A conveniently failing memory is not the only way in which Defendant has kept evidence of
+involvement in sexual abuse from being discovered. The day that the Palm Beach Police
+executed the warrant on Defendant and Epstein’s home, Defendant called the housekeeper and
+told her not to come in that morning. SeeSchultz Decl.at Exhibit 5, Louella Rabuyo’s October
+20, 2009 Dep. Tr. at 9; 11; 81-82Once the police arrived, they found that the computers had been
+rippedout of their places, leaving the monitors, mice, keyboards, and wires behind. SeeSchultz
+Dec. at Composite Exhibit 6, Police Report at p. 63, GIUFFRE000064; Recarey Dep. Tr. 72:25-
+73:18. This Court is also aware of multiple events triggering Defendant’s duty to preserve
+documents. For example, Defendant avoided her 2009 deposition in a case concerning Epstein
+by falsely claiming to be out of the country (she was, instead, photographed at Chelsey Clinton’s
+New York wedding). Additionally, in her Motion to Dismiss, Defendant claimed that in both
+2011 and 2015, she anticipated bringing litigation against tabloids. Defendant has not produced
+documents that she should have preserved pursuant to the police investigation, the 2009
+litigation, and her purported anticipated suits against the press as recently as 2015. And, on top
+of all this, the Court is aware of the Defendant’s failure to produce discovery, which lead to
+sanctions as ordered in November.
+16
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 20 of 21
+Dated: December 16, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Meredith Schultz
+Sigrid S. McCawley(Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-52026
+6 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+17
+Case 1:15-cv-07433-LAP Document 1331-4 Filed 01/05/24 Page 21 of 21
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFYthat on the 16th day of December, 2016, I electronically filed the
+foregoing document with the Clerk of Court by using the CM/ECF system. I also certify that the
+foregoing document is being served to all parties of recordvia transmission of the Electronic
+Court FilingSystem generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10thAvenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith L. Schultz
+Meredith L. Schultz
+18

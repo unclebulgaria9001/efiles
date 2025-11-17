@@ -1,0 +1,69 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.20_1",
+  "filename": "gov.uscourts.nysd.447706.1330.20_1.pdf",
+  "extraction_date": "2025-11-17T10:17:41.818081",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 889,
+  "images_extracted": 0,
+  "dates_found": 10,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0103_Friday, November 18,_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0103"
+    },
+    {
+      "email_file": "0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt",
+      "email_id": "0104"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 214
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 304
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 394
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 484
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 574
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 664
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 754
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 844
+    }
+  ],
+  "people": [],
+  "locations": [],
+  "images": []
+}

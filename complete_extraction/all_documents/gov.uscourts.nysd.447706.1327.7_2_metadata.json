@@ -1,0 +1,78 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.7_2",
+  "filename": "gov.uscourts.nysd.447706.1327.7_2.pdf",
+  "extraction_date": "2025-11-17T10:17:22.894418",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 7622,
+  "images_extracted": 0,
+  "dates_found": 11,
+  "people_found": 13,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 149
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 842
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1701
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2746
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3762
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4713
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5718
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6798
+    },
+    {
+      "date_string": "May 18, 2016",
+      "position": 420
+    }
+  ],
+  "people": [
+    "Errata Sheet",
+    "Notary Public",
+    "Fort Lauderdale",
+    "Registered\nProfessional Reporter",
+    "My Commission Expires",
+    "Las Olas Boulevard",
+    "Did Maxwell",
+    "Boies Schiller",
+    "Did Jeffrey",
+    "Did Ghislaine",
+    "Certified Realtime\nReporter",
+    "File Under Seal",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

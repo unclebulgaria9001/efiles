@@ -1,0 +1,54 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.39",
+  "filename": "gov.uscourts.nysd.447706.1328.39.pdf",
+  "extraction_date": "2025-11-17T10:19:08.264992",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 36056,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 1,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 272
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5537
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10966
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 18270
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 24672
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 30612
+    }
+  ],
+  "people": [
+    "Southern Reporting Company"
+  ],
+  "locations": [],
+  "images": []
+}

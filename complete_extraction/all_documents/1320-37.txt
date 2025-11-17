@@ -1,0 +1,1178 @@
+# Document: 1320-37.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 78
+# People Found: 194
+# Locations Found: 10
+# Linked Emails: 12
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 1 of 48
+EXHIBIT C
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 2 of 48
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S SECOND AMENDED SUPPLEMENTAL RESPONSE AND
+OBJECTIONS TO DEFENDANT’S FIRST SET OF
+DISCOVERY REQUESTS TO PLAINTIFF
+Plaintiff hereby serves her second amended supplemental responses and objections to
+Defendant’s First Set of Discovery Requests.
+GENERAL OBJECTIONS
+Defendant’s First Set of Discovery Requests violates Local Civil Rule 33.3. Defendant
+has served interrogatories that are in direct violation of that Rule because the interrogatories are
+not “restricted to those seeking names of witnesses with knowledge of information relevant to
+the subject matter of the action, the computation of each category of damage alleged, and the
+existence, custodian, location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar nature.” Local
+Civil Rule 33.3(a). Instead, they seek information under subsections (b) and (c) of Local Civil
+Rule 33.3, and therefore, they should not be served because they are not “a more practical
+method of obtaining the information sought than a request for production or a deposition,” and
+because they were served in advance of the period “30 days prior to the discovery cut-off date.”
+1
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 3 of 48
+Local Civil Rule 33.3(b), (c). The interrogatories you served violate Local Rule 33.3 and we ask
+that you immediately withdraw those interrogatories. See Rule 33.3, Local Rules for the
+Southern District of New York; see alsoShannon v. New York City Transit Auth., No. 00 CIV.
+5079 (Sweet, J.), 2001 WL 286727, at *3 (S.D.N.Y. Mar. 22, 2001); accord Gary Friedrich
+Enterprises, LLC v. Marvel Enterprises, Inc., No. 08 CIV. 1533 BSJ JCF, 2011 WL 1642381, at
+*4 (S.D.N.Y. Apr. 26, 2011). Specifically, Rule 33.3 provides:
+(a) Unless otherwise ordered by the Court, at the commencement of discovery,
+interrogatories will be restricted to those seeking names of witnesses with
+knowledge of information relevant to the subject matter of the action, the
+computation of each category of damage alleged, and the existence, custodian,
+location and general description of relevant documents, including pertinent
+insurance agreements, and other physical evidence, or information of a similar
+nature.
+(b) During discovery, interrogatories other than those seeking information described
+in paragraph (a) above may only be served (1) if they are a more practical method
+of obtaining the information sought than a request for production or a deposition,
+or (2) if ordered by the Court.
+(c) At the conclusion of other discovery, and at least 30 days prior to the discovery
+cut-off date, interrogatories seeking the claims and contentions of the opposing
+party may be served unless the Court has ordered otherwise.
+Similarly, Requests for Production numbers 1, 2, 4, 6(i), 9, 12, 30, 35 and 37 also violate
+Local Rule 33.3 in that they rely on the offending interrogatory requests. The Rule provides that
+a party must first try to obtain discovery through document production and testimony. Discovery
+does not close in this case until July 1, 2016, and Defendant has not yet noticed a deposition. As
+such, theseinterrogatories violate Local Rule 33.3 and are premature.
+Defendant’s First Set of Discovery Requests also violates Rule 33, Fed. R. Civ. P., which
+provides “a party may serve on any other party no more than 25 interrogatories, including all
+discrete subparts” –in that Defendant has served a total of 59 interrogatories, including subparts,
+2
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 4 of 48
+in violation of Rule 33. We ask that you immediately withdraw those interrogatories that exceed
+the 25 interrogatory limit set by Rule 33.
+Ms. Giuffre objects to Defendant’s First Set of Discovery Requests to the extent they
+seek information that is protected by any applicable privilege, including but not limited to,
+attorney client privilege, work product privilege, joint defense/common interest privilege, public
+interest privilege, and any other applicable privilege.
+Ms. Giuffre objects to the requests to the extent Defendant’s First Set of Discovery
+Requests call for the production of documents or information that is already in the possession,
+custody, or control of the Defendant. Ms. Giuffre further objects to the requests to the extent that
+Defendant’s First Set of Discovery Requests is duplicative of documents and information that
+can equally or more readily be obtained by the Defendant.
+Ms. Giuffre objects to the requests to the extent that they seek documents that are not
+relevant, material, or necessary to this action and, thus, are not reasonably calculated to lead to
+the discovery of admissible evidence. Many of the requests in the Defendant’s First Set of
+Discovery seek documents that are in no way limited to their relation to this case. Indeed, they
+seek documents that are not important to resolving the issues; documents that are not relevant to
+any party’s claim or defense; and documents that are not proportional to the needs of the case.
+Such requests create a heavy burden on Ms. Giuffre that outweighs any benefit. Such discovery
+is prohibited by the Federal Rules of Civil Procedure, particularly under the 2015 amendments to
+Rule 26(b)(1), Fed. R. Civ.P., and is wholly inappropriate.
+Ms. Giuffre objects to the requests to the extent that they are overly broad and unduly
+burdensome, as individually logging all privileged responsive documents would be overly
+burdensome. Plaintiff contends that requests targeting such privileged information are overly
+3
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 5 of 48
+broad under Rule 26(b)(1), Fed. R. Civ. P. Specifically, Ms. Giuffre objects to the requests as
+overly burdensome to the extent that they would require logging voluminous and ever-increasing
+privileged communications between Ms. Giuffre and her counsel after the date litigation
+commenced on September 21, 2015. Ms. Giuffre objects to the requests as overly burdensome to
+the extent that they would require logging voluminous privileged documents between Ms.
+Giuffre and her counsel related to Jane Doe #1 and Jane Doe #2 v. United States, Case no. 08-
+80736-CIV-Marra, pending in the Southern District of Florida; Bradley Edwards and Paul
+Cassell v. Alan Dershowitz, Case no. CACE 15-000072, pending in the Seventeenth Judicial
+Circuit, Broward County, Florida; and Jane Doe No. 102 v. Jeffrey Epstein, Case No. 09-80656-
+CIV-Marra/Johnson (Southern District of Florida). Accordingly, due the undue burden of
+individually logging responsive privileged documents related to Defendant’s overly broad
+requests, Plaintiff has employed categorical logging of such privileged responsive documents
+pursuant to Local Civil Rule 26.2(c).
+Ms. Giuffre objects to the requests in that they seek to invade her privacy for the sole
+purpose of harassing and intimidating Ms. Giuffre who was a victim of sexual trafficking. Ms.
+Giuffre objects to the requests to the extent they are overly broad and unduly burdensome.
+Ms. Giuffre objects to Defendant’s definition of “your attorneys” because it includes
+names of attorneys that do not represent her, including Spencer Kuvin and Jack Scarola.
+Ms. Giuffre’s responses to Defendant’s First Set of Discovery Requests are being made
+after reasonable inquiry into the relevant facts, and are based only upon the information and
+documentation that is presently known to her. Ms. Giuffre reserves the right to modify and/or
+supplement her responses. Ms. Giuffre is producing documents and information herewith, and
+she will continue to review and produce relevant documents until completion.
+4
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 6 of 48
+Ms. Giuffre incorporates her above-listed general objections in the responses herein.
+INTERROGATORIES
+1. State:
+a. Your present residential address;
+b. Each residential address You have had since 1998, including any
+residential treatment facilities;
+c. the dates You lived at each address;
+d. the other Persons who lived with You at each address and for what period
+of time they lived at such address.
+Response to Interrogatory One:
+Ms. Giuffre objects to this interrogatory in part because it violates Rule 33.3. Ms.
+Giuffre objects to this interrogatory in that it seeks information that is sought by Defendant only
+to harass and intimidate Ms. Giuffre who was a victim of sexual trafficking. Per the Plaintiff’s
+First Responses and Objections, andper our representations during the March 21, 2016 meet and
+confer phone call, we are working diligently to find information to supplement the below
+information with regard to address and dates, and once that information is obtained, Plaintiff will
+serve supplemental responses. Additionally, per the March 21, 2016 meet and confer phone call,
+we are addressing with the Plaintiff whether she will reveal here address to Defendant’s counsel
+confidentially and we will update you with her response.
+a. Due to safety concerns with respect to Ms. Giuffre and her minor children,
+she is not at liberty to reveal her present residential location. To ensure that
+Defendant is not prejudiced by the failure to provide information about Ms.
+5
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 7 of 48
+Giuffre’s specific residential location, Ms. Giuffre agrees to have her
+attorney’s accept service on her behalf of any necessary communication or
+filings in this matter to be addressed to: Sigrid McCawley, Esq. Boies
+Schiller & Flexner LLP, 401 East Las Olas Blvd., Suite 1200, Fort
+Lauderdale, FL 33316.
+b. Ms. Giuffre can recall living at the following addresses during the period of
+1998 to the present. Ms. Giuffre may have lived at other locations for which
+she does not presently have the address. Ms. Giuffre is providing the
+information she has presently to the best of her recollection and review of
+documents and will supplement to the extent she obtains additional
+information responsive to this interrogatory.
+c. Ms. Giuffre believes she has lived at the following residences:
+! In January 1998, Ms. Giuffre was 14 years old. Ms. Giuffre recalls
+one facility named “Growing Together” that was located in or around
+Palm Beach, but she does not recall the dates when she resided at the
+facility.
+! From 2000-2002, Ms. Giuffre lived and travelled with Jeffrey
+Epstein and stayed at his various mansions in New York (9 E.
+71st Street, New York, NY 10021-4102), Palm Beach (358 El
+Brillo Way, Palm Beach, Florida 33480, New Mexico (Zorro
+Ranch, 49 Zorro Ranch Rd., Stanley, New Mexico 87056),
+U.S.V.I. (Little St. James, 6100 Red Hook Quarters, Suite B3,
+6
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 8 of 48
+St. Thomas, Virgin Islands 00802), and Paris (22 Avenue Foch
+Apt 2DD, Paris, France 75116).
+! Jeffrey Epstein also rented a residence for Ms. Giuffre in Royal Palm
+Beach, the exact address and dates of rental are in the possession,
+custody and control of Jeffrey Epstein. Tony Figueroa, James Michael
+Austrich and a few other individuals for whom Ms. Giuffre cannot
+recall the names of, stayed with her from time to time at the residence
+that Jeffrey Epstein rented.
+! Ms. Giuffre’s parents’ address was 12959 Rackley Road, Loxahatchee,
+Florida 33470, and she lived there from time to time with her mother,
+her father, and her brothers.
+! 2C Quentin St. Basshill NSW in approximately 2003, but she is not
+certain of that date. At this location, Ms. Giuffre lived with Robert
+Giuffre.
+! N. Paramentata, NSW from approximately 2003 - 2005, but she is not
+certain of those dates. At this location, Ms. Giuffre lived with Robert
+Giuffre.
+! Blue Bay, NSW from approximately 2005 -2008 but is not certain of
+those dates. At this location, Ms. Giuffre lived with Robert Giuffre.
+! 3 Elk St., NSW from approximately 2008 -2009 but is not certain of
+those dates. At this location, Ms. Giuffre lived with Robert Giuffre.
+! 50 Robertson Road, Basshill, NSW, from 2009 through January of
+2010. At this location, Ms. Giuffre lived with Robert Giuffre.
+7
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 9 of 48
+! 50 Bundeena Rd., Glenning Valley, NSW from approximately January
+of 2010 through October 13, 2013. At this location, Ms. Giuffre lived
+with Robert Giuffre.
+! 5035 Winchester Drive, Titusville, FL from approximately November
+6, 2013 to October of 2014. At this location, Ms. Giuffre lived with
+Robert Giuffre.
+! 1270 J. Street, Penrose, CO 81240, from approximately October of
+2014 through October of 2015. At this location Ms. Giuffre lived with
+Robert Giuffre.
+2. Identify any email address, email account, cellphone number and cellphone
+provider, social media account and login or screen name, text or instant messaging account name
+and number, that You have used, applied for or been supplied between 1998 and the present.
+Response to Interrogatory No. 2
+Ms. Giuffre objects to this request in that it violates Rule 33.3. Ms. Giuffre objects to this
+request in that it is overly broad and seeks information solely toharass and intimidate Ms. Giuffre.
+For the period of 1998 to the present Ms. Giuffre provides the following information.
+During the time period that she was sexually trafficked by Jeffrey Epstein and the defendant, the
+defendant provided Ms. Giuffre with a cellphone so that she could be reached by the Defendant
+and Jeffrey Epstein at any time. Defendant is in possession of the information relating to this
+cellphone that she provided to Ms. Giuffre. Ms. Giuffre is responding with the information she
+canpresently recall, but to the extent she obtains additional information she will supplement this
+response. Ms. Giuffre’s e-mail address is robiejennag@y7mail.com. She can recall having the
+following cell numbers(321) 271-4948, +61414651273, 0407.433.252. Ms. Giuffre had a
+8
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 10 of 48
+Facebook account for a short time but it is no longer active.Per our representations during the
+March 21, 2015 meet and confer phone call, we are working diligently to find information to
+supplement the above information, and once that information is obtained, Plaintiff will serve
+supplemental responses.
+3. Identify each attorney who has represented you from 1998 to the present, the
+dates of any such representation, and the nature of the representation.
+Response to Interrogatory No. 3
+Ms. Giuffre objects to this interrogatory as it seeks privileged information relating to her
+representation by attorneys.
+o Ms. Giuffre responds as follows: Bob Josefsberg, Katherine W. Ezell, Amy Ederi
+(among other possible Podhurst Orseck, P.A. attorneys) represented Ms. Giuffre
+as a party in the litigation styled as Jane DoeNo. 102 v. Jeffrey Epstein, Case No.
+09-80656-CIV-Marra/Johnson, starting on January 27, 2009.
+o Stan Pottinger, David Boies, and Sigrid McCawley (along with other Boies
+Schiller & Flexner LLP (“Boies Schiller”) attorneys) represented Ms. Giuffre as a
+non-party in the litigation styled as Bradley Edwards and Paul Cassell v. Alan
+Dershowitz, Case no. 15-000072, Seventeenth Judicial Circuit, Broward County,
+Florida, startingin February, 2015.
+o Brad Edwards (along with other Farmer, Jaffe, Weissing, Edwards, Fistos &
+Lehrman, P.L. (“Farmer Jaffe”) attorneys), Paul Cassell, Stan Pottinger, David
+Boies and Sigrid McCawley (along with other Boies Schiller attorneys) represent
+Ms. Giuffre as a party in the litigation styled Giuffre v. Maxwell, 15-cv-07433-
+RWS in the Southern District of New York, the complaint of which was filed in
+September, 2015.
+o Paul Cassell represents Ms. Giuffre as a non-party in the litigation styled as Jane
+Doe #1 and Jane Doe #2 v. United States, Case No. 08-80736-CIV-Marra,
+Southern District of Florida, starting in May of 2014.
+o Brad Edwards (along with other Farmer, Jaffeattorneys)represents Ms. Giuffre
+as a non-party in the litigation styled as Jane Doe #1 and Jane Doe #2 v. United
+States, Case No. 08-80736-CIV-Marra, Southern District of Florida, starting in
+2011.
+9
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 11 of 48
+o Brad Edwards provided Ms. Giuffre with legal advice concerning media inquiries
+Ms. Giuffre had received starting in 2011.
+o Paul Cassell, Brad Edwards (along with other Farmer, Jaffe, attorneys), Stan
+Pottinger, David Boies (along with other Boies Schiller attorneys) represented
+Ms. Giuffre regarding investigations into potential legal action starting in the
+second half of 2014.
+o Paul Cassell, Brad Edwards (along with other Farmer, Jaffe, attorneys), Stan
+Pottinger, David Boies, and Sigrid McCawley (along with other Boies Schiller
+attorneys) represent Ms. Giuffre as a cooperating witness with regard to a law
+enforcement investigation, starting in May, 2015.
+o Paul Cassell providedMs. Giuffrewith legal advice concerning potential legal
+actionstarting in early 2011.
+o Paul Cassell andBrad Edwards (along with other Farmer, Jaffe, attorneys)
+represented Ms. Giuffre andVictims Refuse Silence, giving advice regarding
+Victims Refuse Silence, starting in October, 2014.
+o Meg Garvin(law professor at Lewis & Clark Law School, and the Executive
+Director of the National Crime Victim Law Institute)represented Ms. Giuffre and
+Victims Refuse Silence, giving advice regarding Victims Refuse Silence, starting
+in October,2014.
+o Sigrid McCawley (along with other Boies Schiller attorneys) represented Ms.
+Giuffre and Victims Refuse Silence, giving advice regarding Victims Refuse
+Silence, starting in February 2015.
+4. Identify each Communication, including the transmission of any Document, that
+You or Your Attorneys have had with any local, state or federal law enforcement agent or
+agency, whether in the United States or any other country, whether in Your capacity as a
+purported victim, witness, or perpetrator of any criminal activity, and whether as a juvenile or as
+an adult, including without limitation:
+a. the date of any such Communication;
+10
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 12 of 48
+b. the form of any such Communication, whether oral or written and if
+written, the format of any such Communication;
+c. the identities of all persons involved in the Communication, including the
+identity of the law enforcement agency with whom the agent is or was
+affiliated;
+d. the case number associated with any such Communication;
+e. the subject matter of any such Communication;
+f. the disposition of any case associated with any such Communication,
+irrespective of whether the matter was sealed, expunged or later dismissed.
+Response to Interrogatory No. 4
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects to this interrogatory in that it seeks protected information regarding confidential
+investigations. Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, joint defense/common interest privilege, the
+public interest privilege, and any other applicable privilege. Ms. Giuffre objects to the extent
+this seeks information regarding sexual assaults that occurred prior to her involvement with the
+Defendant and Jeffrey Epstein. Ms. Giuffre responds as follows: Ms. Giuffre, in accordance
+with the Court’s direction at the hearing on April 21, 2016, has submitted documents to the
+Court for In Camera review. Ms. Giuffre met with the FBI on or about March 17, 2011. Ms.
+Giuffre also corresponded with Maria Villafano from the U.S. Attorney’s office and that
+correspondence has been produced.
+5. Identify each Communication that You or Your Attorneys have had with any
+author, reporter, correspondent, columnist, writer, commentator, investigative journalist,
+11
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 13 of 48
+photojournalist, newspaper person, freelance reporter, stringer, or any other employee of any
+media organization or independent consultant to the same, including:
+a. the date of any such Communication;
+b. the form of any such Communication, whether oral or written and if
+written, the format of any such Communication;
+c. the identities of all persons involved in such Communication,
+including the identity of the media organization with whom the agent
+is or was affiliated;
+d. the article title, date of publication, and means of publication of any
+article, report, or re-printing of any such Communication made by
+You or Your Attorneys;
+e. the amount of Income that You and/or Your Attorneys received in
+exchange for any such Communication;
+f. the dates on which You and/or Your Attorneys received any such Income
+for any such Communication.
+Response to Interrogatory No. 5
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+product privilege, joint defense/common interest privilege, the public interest privilege, and any
+other applicable privilege. Ms. Giuffre objects in that this request is overly broad and unduly
+burdensome.
+12
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 14 of 48
+6. Identify any “false statements” attributed to Ghislaine Maxwell which were
+“published globally, including within the Southern District of New York” as You contend in
+paragraph 9 of Count 1 of Your Complaint, including:
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the
+purportedly false statement;
+d. the URL or internet address for any internet version of such publication; and
+e. the nature of the publication, whether in print, internet, broadcast or some
+other form of media.
+Response to Interrogatory No. 6
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms.
+Giuffre objects in that it seeks information protected by the attorney-client privilege, the
+attorney work product privilege, joint defense/common interest privilege, the public interest
+privilege, and any other applicable privilege. Ms. Giuffre further objects because the
+information requested above is in the possession of Defendant who has failed to comply with
+her production obligations in this matter.
+7. State whether You believe that You have ever been defamed by anyone other than
+Ghislaine Maxwell. If so, as to each alleged act of Defamation, state
+a. the exact false statement;
+b. the date of its publication;
+c. the publishing entity and title of any publication containing the
+purportedly false statement;
+13
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 15 of 48
+d. the URL or internet address for any internet version of such publication; and
+e. the nature of the publication, whether in print, internet, broadcast or some
+other form of media.
+Response to Interrogatory No. 7
+Ms. Giuffre objects to this request in that it violates Local Rule 33.3. Ms. Giuffre objects
+to this request in that it seeks information protected by the attorney client and work product
+privileges. Ms. Giuffre objects to this interrogatory in that it is not limited in time or to the
+subject nature of this litigation.
+8. Identify the individuals referenced in Your pleadings filed in the U.S. District
+Court for the Southern District of Florida, Jane Doe 1 and Jane Doe 2 v. United States of
+America, 08-cv-80736-KAM, as the “high-profile non-party individuals” to whom Mr. Jeffrey
+Epstein sexually trafficked You, “includingnumerous prominent American politicians, powerful
+business executives, foreign presidents, a well-known Prime Minister, and other world leaders,”
+including as to each episode of alleged sexual trafficking:
+a. the date of any such sexual trafficking;
+b. the location of any such sexual trafficking;
+c. any witnesses to any such sexual trafficking;
+d. any Income You received in exchange for such sexual trafficking; and
+e. any Documents You have to support or corroborate Your claim of such
+sexual trafficking.
+Response to Interrogatory No. 8
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+14
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 16 of 48
+product privilege, joint defense/common interest privilege, the public interest privilege, and any
+other applicable privilege.Additionally, Ms. Giuffre objects to this interrogatory because naming
+some such individuals would jeopardize her physical safety based on credible threats to the
+same.Ms. Giuffre refers to the list of witnesses identified in her Revised Rule 26 Disclosures.
+9. Identify any Employment You have had from 1996 until the present, including
+without limitation, the name of Your employer or the name of any Person who engaged You for
+suchEmployment, the address and telephone number for any such Employment, the beginning
+and ending dates of any such Employment, Your job title in such Employment, and Your
+Income from such Employment.
+Response to Interrogatory No. 9
+Ms. Giuffre objects to this request in that it is overly broad and unduly burdensome, and
+seeks information that is not relevant to this case.
+Ms. Giuffre responds as follows:
+! Ms. Giuffre workedat Mar a Lago as a locker room attendant for the spa area. Records
+produced in this case identify the date of employment as 2000, and she recalls being
+there in the summer. Ms. Giuffre previously attempted to gather employment records
+from Mar-A-Lago. See Giuffre002726. She earnedapproximately $9 per hour. The
+address is 1100 South Ocean Boulevard, Palm Beach, Florida 33480, with the telephone
+number of561-832-2600
+! Ms. Giuffre worked at Roadhouse Grill as a waitress in approximately 2002, but Ms.
+Giuffre is unsure of the exact dates of employment. Her wages primarily consisted of
+tips. Ms. Giuffre does not recall the location of Roadhouse Grill. A Google search for
+15
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 17 of 48
+the same yields an address at 8865 Southern Blv., West Palm Beach, FL 33411 and a
+telephone number of 561-651-0400.
+! Ms. Giuffre worked at Employment Training and Recruitment Australia from
+approximately 2005 through January of 2006, but Ms. Giuffre is unsure of the exact
+dates of employment. Ms. Giuffre was a receptionist earing approximately $15 per hour
+to the best of her recollection. Upon information and belief, this corporation is currently
+located in a different location from the location at which Ms. Giuffre was employed.
+Upon information and belief, based on an internet search, the new location of this entity
+is 123 Donniforn Street, Gofford NSW 2250, with a telephone number of 02-4323-1233
+! Ms. Giuffre worked at Gemma Catering/Wedding Receptions in approximately 2004.
+She received approximately $10/hr. She does not recall the name of the proprietor nor its
+location.
+! Ms. Giuffre worked at Manway Logistics in approximately 2003. Ms. Giuffre recalls it
+located in or around Sydney, Australia. An internet search yielded an address of 246
+Miller Road, Villawood NSW 2163, and a phone number of 02-8707-2300. Ms. Giuffre
+worked as a receptionist and earned approximately $20/hr.
+10. Identify any Income from any source other than Your Employment that You have
+received from January 1, 1996 until the present, including the Person or entity providing such
+Income, the amount of the Income, the dates on which any such Income was received, and
+the nature of the Income, whether a loan, investment proceeds, legal settlement, asset sale,
+gift, or other source.
+16
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 18 of 48
+Response to Interrogatory No. 10
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms.
+Giuffre objects to this request in that it is overly broad and seeks confidential financial
+information. Ms. Giuffre objects to this interrogatory in that it seeks information covered by
+confidentiality provisions. Ms. Giuffre objects to this information in that any payment
+information for the sexual trafficking she endured at the hands of Jeffrey Epstein and
+Ghislaine Maxwell is in the possession, custody and control of the Defendant and Jeffrey
+Epstein.
+Ms. Giuffre is in possession of a responsive document that contains a confidentiality
+provision. If Defendant obtains, and produces to Ms. Giuffre, a written waiver from her co-
+conspirator, Mr. Epstein, of the confidentiality provision, freeing Ms. Giuffre from any
+liability whatsoever under the confidentiality provision, she will produce the document.
+11. Identify any facts upon which You base Your contention that You have suffered
+as a result of the Alleged Defamation by Ghislaine Maxwell “past and future lost wages and
+past and future loss of earning capacity and actual earnings –precise amounts yet to be
+computed, but not less than $5,000,000.”
+Response to Interrogatory No. 11
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects to this interrogatory in that it prematurely seeks expert witness disclosures. Ms. Giuffre
+incorporates by reference herein her Revised Rule 26 disclosures, which includes her
+computation of damages.
+12. Identify any Health Care Provider from whom You received any treatment for any
+17
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 19 of 48
+physical, mental or emotional condition, that You suffered from subsequent toany
+Alleged Defamation by Ghislaine Maxwell, including:
+a. the Health Care Provider’s name, address, and telephone number;
+b. the type of consultation, examination, or treatment provided;
+c. the dates You received consultation, examination, or treatment;
+d. whether such treatment was on an in-patient or out-patient basis;
+e. the medical expenses to date;
+f. whether health insurance or some other person or organization or entity
+has paid for the medical expenses; and
+g. for each such Health Care Provider, please execute the medical and mental
+health records release attached hereto as Exhibit A.
+Response to Interrogatory No. 12
+Pursuant to this Court’s Order, Ms. Giuffre will provide information for health care
+providers from 1999 through the present. Ms. Giuffre continues to search for medical providers
+that appear in documents.
+! Dr. StevenOlson, St. Thomas More Hospital, 1338 Phay Avenue, Canon City,
+CO 81212, treated Ms. Giuffre as described in the medical records produced at
+GIUFFE005342-5346.
+! Dr. Mona Devansean, 11476 Okeechobee Blvd., Royal Palm Beach, FL. It
+appears Dr. Devansean is retired. We produced the letter we sent her as well as a
+document indicating the practice was closed at GIUFFRE005335-
+GIUFFRE0005338.
+18
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 20 of 48
+! Dr. Chris Donahue, 12 Clifton Village Shopping Centre, Captain Hook Hwy,
+Clifton Beach, QLD 4879 is believed to have treated Ms. Giuffre. Ms. Giuffre
+has sent a release to Dr. Donahue, and is awaiting a response.
+! Dr. John Harris and Dr. Darshanee Majaliyana at The Entrance Medical Centre,
+120 The Entrance Road, The Entrance 2261, 43321300, treated Ms. Giuffre as
+described in the records producedat GIUFFRE005315-5322.
+! Dr. Wah Wah, Central Coast Family Medicine, Unit 2, 17 Anzac Rd., Tuggerah
+2259, 0243518777 treated Ms. Giuffre as described in the medical records
+producedat GIUFFRE005339-5341.
+! Dr. M. Sellathurai (a/k/a Dr. Sella), Buss Hill Plaza, Medical Center, 753 Hume
+Highway, Bass Hill NSW 2197, 02297555292 treated Ms. Giuffre as described
+in the medical records produced at GIUFFRE005089-5091.
+! Royal Oaks Medical Center, 1855 Knox McRae Dr., Titusville, FL 32780, was
+believed to have possibly treated Ms. Giuffre, but Medical Center responded
+stating that they have no records for Ms. Giuffre, seeGIUFFRE005347-5349.
+! Dr. Carol Hayek, Denison Road, Dulwich Hill, NSW 2203. Records have been
+requested, but thus far have been denied. Another medical release was sent and is
+pending.
+! New York Presbyterian Hospital treated Ms. Giuffre as describedin the medical
+records produced at Giuffre003258-3298.
+! Campbelltown Hospital, 8 Moncrleff [illegible] Close, St. Helens treated Ms.
+Giuffre as described in the medical records produced at Giuffre003193-3257.
+19
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 21 of 48
+! Sydney West Hospital treated Ms. Giuffre as described in the medical records
+produced at Giuffre003291-3298.
+! Westmead Hospital treated Ms. Giuffre on as described in the medical records
+produced at GIUFFRE003291-003298.
+! As Defendant requested, Medical releases have been provided for:
+o Dr. Karen Kutikoff
+o Wellington Imaging Associates, PA
+o Growing Together
+13. Identify any Health Care Provider from whom You received any treatment for any
+physical, mental or emotional condition, including addiction to alcohol, prescription or illegal
+drugs, that You suffered from prior tothe Alleged Defamation by Ghislaine Maxwell, including:
+a. the Health Care Provider’s name, address, and telephone number;
+b. the type of consultation, examination, or treatment provided;
+c. the dates You received consultation, examination, or treatment;
+d. whether such treatment was on an in-patient or out-patient basis;
+e. the medical expenses to date;
+f. whether health insurance or some other person or organization or entity
+has paid for the medical expenses; and
+g. For each such Health Care Provider, please execute the medical and mental
+health records release attached hereto as Exhibit A.
+Response to Interrogatory No. 13
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects to this request in that it is overbroad and seeks confidential medical information of a sex
+20
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 22 of 48
+abuse victim and is not limited in scope to the issues in this case. Ms. Giuffre objects in that it
+seeks information protected by the attorney-client privilege, the attorney work product privilege,
+joint defense/common interest privilege, and any other applicable privilege. Ms. Giuffre
+objects to this request in that it is not limited in scope to the medical information relating to the
+abuse she suffered from Defendant and Jeffrey Epstein.
+14. Identify any Person who You believe subjected You to, or with whom You
+engaged in, any illegal or inappropriate sexual contact, conduct or assault prior to June 1999,
+including the names of the individuals involved, the dates of any such illegal or inappropriate
+sexual contact, conduct or assault, whether Income was received by You or anyone else
+concerning such event, whether a police report was ever filed concerning such event and the
+outcome of any such case, as well as the address and location of any such event.
+Response to Interrogatory No. 14
+Ms. Giuffre objects to this interrogatory in that it violates Local Rule 33.3. Ms. Giuffre
+objects to this request in that it is overbroad and seeks confidential medical information of a sex
+abuse victim. Ms. Giuffre objects to this request in that it seeks sexual assault information for a
+period prior to the sexual abuse at issue in this matter for a period when she was a minor child
+from the time Ms. Giuffre was born until she was 15. Ms. Giuffre objects to this request in that
+it is sought solely to harass, and intimidate Ms. Giuffre who is a victim of sexual abuse by the
+defendant.
+21
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 23 of 48
+REQUESTS FOR PRODUCTION
+1. All Communications and Documents identified in Interrogatories 1-14,
+above.
+Response to Request No. 1
+Ms. Giuffre objects to this request in that Defendant’s interrogatories violate Local Rule
+33.3. Ms. Giuffre objects in that it seeks information protected by the attorney-client privilege,
+the attorney work product privilege, joint defense/common interest privilege, the public interest
+privilege, and any other applicable privilege. Ms. Giuffre objects to this request on the grounds
+that it is overly broad and unduly burdensome, incorporating the interrogatories that total 59
+subparts, and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request in that it seeks to invade the privacy rights of a sex abuse victims, and is meant for the
+improper purpose of harassing and intimidating this victim.
+Subject to and without waving the above objections, Ms. Giuffreis withholding
+production of documents that are privileged pursuant to the attorney-client privilege, the work
+product privilege,and the public interest privilege. Ms. Giuffre is also withholding electronic
+renditions of photographs that depict the faces of her minor children, including school portraits
+and other photographs taken that reveal the faces of her minor children.
+Subjection to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+non-privileged documents responsive to this Request limited to documents that do not depict
+images of her minor children as described supra and will continue to supplement her production.
+22
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 24 of 48
+2. All Documents reviewed or relied upon in answering Interrogatory Nos.
+1-14 above.
+Response to Request No. 2
+Ms. Giuffre objects to this request in that defendant’s interrogatories violate Local Rule
+33.3. Ms. Giuffre objects to this request in that it seeks information that is protected by the
+attorney client, work product, and public interest, and other applicable privileges. Ms. Giuffre
+objects to this request in that it is overly broad incorporating the interrogatories that total 59
+subparts. Ms. Giuffre objects to this request in that it seeks to invade the privacy rights of a sex
+abuse victims and is meant for the improper purpose of harassing and intimidating this victim.
+Subject to and without waving the above objections, Ms. Giuffreis withholding
+production of documents that are privileged pursuant to the attorney-client privilege, the work
+product privilege, and the public interest privilege. Ms. Giuffre is also withholding electronic
+renditions of photographs that depict the faces of her minor children, including school portraits
+and other photographs taken that reveal the faces of her minor children.
+Subjection to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+non-privileged documents responsive to this Request limited to documents that do not depict
+images of her minor children as described supra andwill continue to supplement her production.
+3. All Documents from any law enforcement agency, whether local, state or
+federal, whether in the United States or elsewhere, which concern or relate to You in any
+way. These Documents should include, without limitation, any witness statements,
+including statements made by You.
+23
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 25 of 48
+Response to Request No. 3
+Ms. Giuffre objects to this request in that it seeks information that is protected by the
+attorney client, work product, public interest privilegeand other applicable privileges. Ms.
+Giuffre objects to this request in that it is not limited in time period.
+Subject to and without waiving the aboveobjections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will
+producenon-privileged documents responsive to this Request and will continue to
+supplement her production. Ms. Giuffre is withholding documents that concern or relate to
+any currently ongoing investigation by any law enforcement agency under the public interest
+privilege and other applicable privileges.
+4. All Documents reflecting any letter of engagement, any fee agreement, or
+any other type of writing reflecting an engagement of any attorney identified in
+response to Interrogatory No. 3.
+Response to Request No. 4
+Ms. Giuffre objects to this request in that it seeks information that is protected by the
+attorney client, work product, joint defense and other applicable privileges. Ms. Giuffre is
+withholding documents based on this objection.Specifically, Ms. Giuffre is withholding
+documents reflecting the engagements between herself and her attorneys she has engaged in
+relation to the above-captioned action and other actions as those documents involve
+privileged communications.
+5. All Documents relating to any Communications occurring from 1998 to the
+present with any of the following individuals or with their attorneys, agents or
+representatives:
+24
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 26 of 48
+a. Jeffrey Epstein;
+b. Ghislaine Maxwell
+c. Any witness disclosed in Plaintiff’s Rule 26(a) disclosures;
+d. Any witness identified by You in response to Interrogatory No. 8 and No.
+14;
+e. Sky Roberts;
+f. Lynn Roberts;
+g. Kimberley Roberts;
+h. Daniel LNU, half-brother of Plaintiff;
+i. Carol Roberts Kess;
+j. Philip Guderyon;
+k. Anthony Valladares;
+l. Anthony Figueroa;
+m. Ron Eppinger
+Response to Request No. 5
+Ms. Giuffre objection to this request on the grounds that it is overly broad and unduly
+burdensome, particularly as it seeks documents relating to over 60 individuals, and calls for the
+production of documents that are irrelevant to this action and not reasonably calculated to lead to
+the discovery of admissible evidence. Ms. Giuffre objects because compliance with this request
+is unduly burdensome. Ms. Giuffre objects to this request in that documents responsive to this
+request are within the possession, custody and control of the defendant and Jeffrey Epstein with
+whom she claims a joint defense privilege and defendant has refused to produce responsive
+documents to Ms. Giuffre’s request seeking communications between the Defendant and Ms.
+25
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 27 of 48
+Giuffre and between Jeffrey Epstein and Ms. Giuffre. Ms. Giuffre objects to this request to the
+extent is seeks documents protected by the attorney client, work product, joint defense, public
+interest or any other applicable privilege. Ms. Giuffre objects to this request in that it is sought
+solely to harass and intimidate Ms. Giuffre, and invade her privacy, by seeking her private
+communications with her various family members, including aunts, uncles and parents and
+siblings.
+Subject to and without waving the above objections, Ms. Giuffreis withholding
+production of documents that are privileged pursuant to the attorney-client privilege, the work
+product privilege, and the public interest privilege. Ms. Giuffre is also withholding electronic
+renditions of photographs that depict the faces of her minor children, including school portraits
+and other photographs taken that reveal the faces of her minor children.
+Subjection to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+non-privileged documents responsive to this Request limited to documents that do not depict
+images of her minor children as described supra and will continue to supplement this production.
+6. All photographs or video containing any image of You and the following
+individuals. To the extent You have such photographs and video in their original, native
+format, please produce them in that format (not a paper copy).
+a. Ghislaine Maxwell
+b. Alan Dershowitz
+c. Jeffrey Epstein
+d. Andrew Albert Christian Edward, the Duke of York (aka Prince
+Andrew)
+26
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 28 of 48
+e. Ron Eppinger
+f. Bill Clinton
+g. Stephen Hawking
+h. Al Gore
+i. Any of the individuals identified by You in response to Interrogatory
+No. 8 and No. 14.
+Response to Request No. 6
+Ms. Giuffre objects to this request in that documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein with whom
+she claims a joint defense privilege and defendant has refused to produce responsive
+documents to Ms. Giuffre’s request seeking communications between the Defendant and Ms.
+Giuffre and between Jeffrey Epstein and Ms. Giuffre.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+non-privileged documents responsive to this Request and will continue to supplement her
+production. Ms. Giuffre does not have “original, native format,” as requested so she is
+producing the paper copies she has in her possession, custody and control.
+7. All photographs and video of You in any of Jeffrey Epstein’s properties,
+including, but not limited to: his home in Palm Beach, Florida; his home in New York
+City, New York; his ranch in Santa Fe, New Mexico; and Little SaintJames Island in the
+U.S. Virgin Islands. To the extent You have such photographs and video in their original,
+native format, please produce them in that format (not a paper copy).
+27
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 29 of 48
+Response to Request No. 7
+Ms. Giuffre objects to this request in that documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein with whom
+she claims a joint defense privilege and defendant has refused to produce responsive
+documents to Ms. Giuffre’s request seeking communications between the Defendant and Ms.
+Giuffre and between Jeffrey Epstein and Ms. Giuffre.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+documents responsive to this Request and will continue to supplement her production. Ms.
+Giuffre does not have “original, native format,” as requested so she is producing the paper
+copies she has in her possession, custody and control. The Defendant has documents
+responsive to this request that she should produce.
+8. All photographs or video of You in any of Ms. Maxwell’s properties,
+including her home in London, England and her home in New York City, New York. To
+the extent You have such photographs or video in their original, native format, please
+produce them in that format (not a paper copy).
+Response to Request No. 8
+Ms. Giuffre objects to this request in that documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein with whom
+she claims a joint defense privilege and defendant has refused to produce responsive
+documents to Ms. Giuffre’s request seeking communications between the Defendant and Ms.
+Giuffre and between Jeffrey Epstein and Ms. Giuffre.
+28
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 30 of 48
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce
+non-privileged documents responsive to this Request and will continue to supplement her
+production. Ms. Giuffre does not have “original, native format,” as requested so she is
+producing the paper copies she has in her possession, custody and control. The Defendant has
+documents responsive to this request that she should produce.
+9. Any Documents reflecting rental agreements or purchase agreements for the
+residential addresses identified by You in response to Interrogatory No. 1.
+Response to Request No. 9
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request in that it seeks confidential financial information that is irrelevant to this action. Ms.
+Giuffre objects to this request to the extent is seeks documents protected by the attorney client,
+work product, joint defense, public interest or any other applicable privilege. Ms. Giuffre objects
+to this request in that the information regarding rental agreements for the apartments that
+Defendant and Jeffrey Epstein rented for her are in the Defendant’s possession, control and
+custody.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement this
+production.
+29
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 31 of 48
+10. All Documents relating to Your Employment and/or association with the
+Mar-a-Lago Club located in Palm Beach, Florida, including any application for
+Employment.
+Response to Request No. 10
+Ms. Giuffre objects to this request to the extent is seeks documents protected by the
+attorney client, work product, joint defense, public interest or any other applicable privilege.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement this
+production.
+11. Any Document reflecting any confidentiality agreement by and between, or
+concerning, You and the Mar-a-Lago Club.
+Response to Request No. 10
+Ms. Giuffre objects to this request to the extent is seeks documents protected by
+the attorney client, work product, joint defense, public interest or any other applicable
+privilege.
+Ms. Giuffre has been unable to locate any such documents.
+12. All Documents concerning any Employment by You from 1998 to the
+present or identified by You in response to Interrogatory No. 9, including any records of
+Your Employment at the Roadhouse Grill in Palm Beach, Florida.
+Response to Request No. 12
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+30
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 32 of 48
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request to the extent is seeks documents protected by the attorney client, work product, joint
+defense, public interest or any other applicable privilege.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, andwill produce non-
+privileged documents responsive to this Request, and will continue to supplement this
+production.
+13. All Documents concerning any allegations of theft by You from the
+Roadhouse Grill in Palm Beach, Florida from 1999 –2002.
+Response to Request No. 13
+Ms. Giuffre objects to this request in that it seeks information solely to harass, embarrass,
+and intimidate Ms. Giuffre. Ms. Giuffre objects to this request to the extent is seeks documents
+protected by the attorney-client privilege, the attorney work product privilege, joint
+defense/common interest privilege, public interest privilege, and any other applicable privilege.
+Ms. Giuffre objects to this request in that it wrongfully characterizes a “theft by You”. Ms.
+Giuffre objects to this request as it seeks documents of sealed juvenile records, and the only
+means of obtaining such records are either through court order or illegal means.
+Ms. Giuffre has been unable to locate any such documents.
+14. A copy of Your federal, state or local tax returns for the years 1998 to the
+present, whether from the United States or any other country.
+Response to Request No. 14
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+31
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 33 of 48
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request in that it seeks confidential financial information that is irrelevant to this action. Ms.
+Giuffre objects to this request in that it seeks financial information from her when she was a
+minor child starting at age 14. Ms. Giuffre objects in that it seeks information protected by the
+attorney-client privilege, the attorney work product privilege, joint defense/common interest
+privilege, the accountant client privilege, and any other applicable privilege.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement this
+production.
+15. All Documents concerning Your attendance at or enrollment in any
+school or educational program of whatever type, from 1998 to the present.
+Response to Request No. 15
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery ofadmissible evidence. Ms. Giuffre objects to this
+request to the extent is seeks documents protected by the attorney-client privilege, the attorney
+work product privilege, joint defense/common interest privilege, the public interest privilege, and
+any other applicable privilege. Ms. Giuffre objects to this request in that her school records from
+when she was a minor child are an invasion of privacy, and sought only to harass and embarrass
+her.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+32
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 34 of 48
+privileged documents responsive to this Request, and will continue to supplement this
+production.
+16. Any diary, journal or calendar concerning Your activities between 1996 –
+2002.
+Response to Request No. 16
+Ms. Giuffre objections to this Request on the grounds that the time period is overly
+broad and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects
+to this request to the extent it seeks proprietary and copyright protected materials. Ms.
+Giuffre objects in that it seeks information protected by the attorney-client privilege, the
+attorney work product privilege, joint defense/common interest privilege, and any other
+applicable privilege. Ms. Giuffre objects to this request in that it seeks highly personal
+and sensitive material from a time when she was being sexually trafficked.
+Ms. Giuffre has been unable to locate any such documents.
+17. All Documents relating to Your travel from the period of 1998 to the
+present, including, but not limited to a copy of Your passport that was valid for any
+part of that time period, any visa issued to You for travel, any visa application that
+You prepared or which was prepared on Your behalf, and travel itinerary, receipt, log,
+or Document (including any photograph) substantiating Your travel during that time
+period.
+Response to Request No. 17
+Ms. Giuffreobjections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+33
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 35 of 48
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffreobjects in that
+it seeks information protected by the attorney-client privilege, the attorney work product
+privilege, joint defense/common interest privilege, and any other applicable privilege. Ms.
+Giuffre objects to this request in that it is overly broad and not limited to travel records relevant
+to the abuse she suffered. Ms. Giuffre objects to this request in that it seeks information that is
+wholly irrelevant to this lawsuit.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement this
+production. Per the agreements made in the March 21, 2016 meet and confer, we will attempt to
+locate and make copies of Plaintiff’s current passport book.
+18. All Documents showing any payments or remuneration of any kind
+made by Jeffrey Epstein or any of his agents or associates to You from 1999 until the
+present.
+Response to RequestNo. 18
+Ms. Giuffre objects to this request in that documents responsive to this request are within
+the possession, custody and control of the defendant and Jeffrey Epstein with whom she claims a
+joint defense privilege and defendant has refused to produceresponsive documents. Ms. Giuffre
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+product privilege, joint defense/common interest privilege, the public interest privilege, and any
+other applicable privilege.
+At this point in time, Ms. Giuffre has been unable to locate any such documents, but
+continues to search for responsive documents.
+34
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 36 of 48
+19. Any Document reflecting a confidentiality agreement, settlement agreement,
+or any contractual agreement of any kind, between You and Jeffrey Epstein, or any
+attorneys for You and/or Mr. Epstein.
+Response to Request No. 19
+Ms. Giuffre objects to this request in that the documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein with whom
+she claims a joint defense privilege and defendant has refused to produce responsive
+documents. Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, joint defense/common interest privilege, the
+public interest privilege, and any other applicable privilege. Ms. Giuffre is in possession of a
+responsive document that contains a confidentiality provision. As discussed during the
+March 21, 2016 meet and confer, If Defendant obtains, and produces to Ms. Giuffre, a
+written waiver from her co-conspirator, Mr. Epstein, of the confidentiality provision,
+releasing Ms. Giuffre from any liability whatsoever under the confidentiality provision, she
+will produce the document.
+20. Any Document reflecting Your intent, plan or consideration of, asserting
+or threatening a claim or filing a lawsuit against another Person, any Document
+reflecting such a claim or lawsuit, including any complaint or draft complaint, or any
+demand for consideration with respect to any such claim or lawsuit against any Person.
+Response to Request No. 20
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and
+unduly burdensome and calls for the production of documents thatare irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence. Ms.
+35
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 37 of 48
+Giuffre objects to this request to the extent is seeks documents protected by the attorney
+client, work product, joint defense or any other applicable privilege. Ms. Giuffre objects
+because this request is overly broad and unduly burdensome in that it seeks wholly privileged
+communications from other cases the logging of which on a privilege log would be unduly
+burdensome. As such, Ms. Giuffreis providing categorical privilege entries relating to those
+matters.
+At this point in time, Ms. Giuffre has not found any non-privileged documents
+responsive to this request, but continues to search for responsive documents.
+21. All Documents relating to Your driver’s license from 1998 –2002.
+Response to Request No. 21
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request in that documents responsive to this request are within the possession, custody and
+control of the defendant and Jeffrey Epstein for whom she claims a joint defense privilege and
+defendant has refused to produce responsive documents.
+At this point in time, Ms. Giuffre has not found any documents responsive to this request,
+but continues to search for responsive documents.
+22. A copy of Your marriage license(s) from 1999 to the present.
+Response to Request No. 22
+Ms. Giuffre objections to this Request on the grounds that it is irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre
+36
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 38 of 48
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+product privilege, and any other applicable privilege.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this request, and will continue to supplement this production.
+23. All documents concerning Your naturalization application to Australia from
+1999 to the present.
+Response to Request No. 23
+Ms. Giuffre objections to this Request on the grounds that it is irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+product privilege, and any other applicable privilege.
+Ms. Giuffre has been unable to locate any such documents.
+24. All Documents concerning Your Employment in Australia, including, but not
+limited to employment applications, pay stubs, Documents reflecting Your Income
+including any tax Documents.
+Response to Request No. 24
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents thatare irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request in that it seeks confidential financial information Ms. Giuffre objects to this request to
+the extent is seeks documents protected by the attorney client, work product, joint defense, or
+37
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 39 of 48
+any other applicable privilege. Ms. Giuffre objects to this request in that it seeks overly broad
+financial information not tailored to the sexual abuse and defamation issues in this case.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this request, and will continue to supplement this production.
+25. All Documents concerning any massage therapist license obtained by
+You, including any massage therapy license issued in the United States, Thailand and/or
+Australia.
+Response to Request No. 25
+Ms. Giuffre objects to this request in that documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein for whom
+she claims a joint defense privilege and defendant has refused to produce responsive
+documents. Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, and any other applicable privilege.
+At this point in time, Ms. Giuffre has not found any non-privileged documents
+responsive to this request, but continues to search for responsive documents.
+26. All Documents concerning any prescription drugs taken by You,
+including the prescribing doctor, the dates of said prescription, and the dates of any
+fulfillment of any such prescription.
+Response to Request No. 26
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and
+unduly burdensome and calls for the production of documents that are irrelevant to this
+action and not reasonably calculated to lead to the discovery of admissible evidence. Ms.
+38
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 40 of 48
+Giuffre objects to this request in that it is not limited in date range in any way; therefore if
+she was on a prescription drug when she was 2 years old, she would have to produce that
+document. Ms. Giuffre also objects to this request in that it is not limited to prescription
+drugs she has taken as a result of the abuse she endured. Ms. Giuffre objects to this request
+to the extent it seeks confidential medical records that are not relevant to this action. Ms.
+Giuffre objects to this request to the extent is seeks documents protected by the attorney
+client, work product, or any other applicable privilege.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and is
+producing non-privileged documents responsive to the Request limited to documents
+relating to prescription drugs relating to her treatment for sexual abuse she sufferedat the
+hands of the Defendant and Jeffrey Epstein, and relating to conditions or symptoms arising
+after Defendant’s defamatory statement, and will continue to supplement this production.
+27. All Documents, written or recorded, which reference by name, or
+other description, Ghislaine Maxwell.
+Response to Request No. 27
+Ms. Giuffre objects in that it seeks information protected by the attorney-client privilege,
+the attorney work product privilege, joint defense/common interest privilege, the public interest
+privilege, and any other applicable privilege. Ms. Giuffre objects to this request to the extent it
+seeks proprietary or copyright protected materials.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+39
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 41 of 48
+privileged documents responsive to this Request, and will continue to supplement her
+production.
+28. All Documents reflecting notes of, or notes prepared for, any
+statements or interviews in which You referenced by name or other description,
+Ghislaine Maxwell.
+Response to RequestNo. 28
+Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, joint defense/common interest privilege,
+the public interest privilege, and any other applicable privilege. Ms. Giuffre objects to
+this request to the extent it seeks proprietary or copyright protected materials.
+At this point in time, Ms. Giuffre has not found any non-privileged documents
+responsive to this request, but continues to search for responsive documents.
+29. All Documents concerning any Communications by You or on Your behalf
+with any media outlet, including but not limited to the Daily Mail, Daily Express, the
+Mirror, National Enquirer, New York Daily News, Radar Online, and the New York Post,
+whether or not such communications were “on the record” or “off the record.”
+Response to Request No. 29
+Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, and any other applicable privilege. Ms.
+Giuffre objects to this request to the extent it seeks proprietary or copyright protected
+materials.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will
+40
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 42 of 48
+produce non-privileged documents responsive to this Request, and will continue to
+supplement her production.
+30. All Documents concerning any Income received by You from any media
+outlet in exchange for Your statements (whether “on the record” or “off the record”)
+regarding Jeffery Epstein, Alan M. Dershowitz, Prince Andrew, Bill Clinton or Ghislaine
+Maxwell or any of the individuals identified by You in response to Interrogatory Nos. 8
+and 14.
+Response to Request No. 30
+Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, and any other applicable privilege. Ms.
+Giuffre objects to this request to the extent it seeks proprietary or copyright protected
+materials. Ms. Giuffre objects to this request in that it seeks confidential financial
+information.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will
+produce non-privileged documents responsive to this Request, and will continue to
+supplement her production.
+31. All Documents concerning any actual or potential book, television or movie
+deals concerning Your allegations about being a sex slave, including but not limited to a
+potential book by former New York Police Department detective John Connolly and writer
+James Patterson.
+41
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 43 of 48
+Response to Request No. 31
+Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, and any other applicable privilege. Ms.
+Giuffre objects to this request to the extent it seeks proprietary or copyright protected
+materials. Ms. Giuffre objects to this request in that it seeks confidential financial
+information.
+Subject to and without waiving the above objections, Ms. Giuffre has already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will
+produce non-privileged documents responsive to this Request, and will continue to
+supplement her production.
+32. All manuscripts and/or other writings, whether published or unpublished,
+created in whole or in part by or in consultation with You, concerning, relating or
+referring to Jeffrey Epstein, Ghislaine Maxwell or any of their agents or associates.
+Response to Request No. 32
+Ms. Giuffre objects in that it seeks information protected by the attorney-client
+privilege, the attorney work product privilege, and any other applicable privilege. Ms.
+Giuffre objects to this request to the extent it seeks proprietary or copyright protected
+materials. Ms. Giuffre objects to this request in that it seeks confidential financial
+information.
+Subject to and without waiving the above objections, Ms. Giuffrehas already
+produced documents Bates labelled GIUFFRE000001 to GIUFFRE005353, andwill
+produce non-privileged documents responsive to this Request, and will continue to
+supplement her production.
+42
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 44 of 48
+33. All Documents concerning or relating to Victims Refuse Silence, the
+organization referred to in the Complaint, including articles of incorporation, any financial
+records for the organization, any Income You have received from the organization, and any
+Documents reflecting Your role within the organization or any acts taken on behalf of the
+Organization.
+Response to Request No. 33
+Ms. Giuffre objects in that it seeks information protected by the attorney-client privilege,
+the attorney work product privilege, and any other applicable privilege. Ms. Giuffre objects to
+this request to the extent it seeks proprietary or copyright protected materials. Ms. Giuffre
+objects to this request in that it seeks confidential financial information.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement her
+production.
+34. To the extent not produced in response to the above list of requested
+Documents, all notes, writings, photographs, and/or audio or video recordings made or
+recorded by You or of You at any time that refer or relate in any way to Ghislaine
+Maxwell.
+Response to Request No. 34
+Ms. Giuffre objects to this request in that documents responsive to this request are within
+the possession, custody and control of the defendant and Jeffrey Epstein for whom she claims a
+joint defense privilege and defendant has refused to produce responsive documents. Ms. Giuffre
+objects in that it seeks information protected by the attorney-client privilege, the attorney work
+43
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 45 of 48
+product privilege, and any other applicable privilege. Ms. Giuffre objects to this request to the
+extent is seeks proprietary and copyright protected material.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement her
+production.
+35. All phone records, including text messages, emails, social media
+Communications, letters or any other form of Communication, from or to You or
+associated with You in any way from 1998 to the present, which concern, relate to,
+identify, mention or reflect Ghislaine Maxwell, Jeffrey Epstein, Alan Dershowitz, Prince
+Andrew, Bill Clinton, or any of theindividuals identified in response to Interrogatory Nos.
+8 and 14.
+Response to Request No. 35
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevantto this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Ms. Giuffre objects to this
+request to the extent it seeks documents from “anyone associated with you” as that is vague and
+ambiguous. Ms. Giuffre objects to this request in that documents responsive to this request are
+within the possession, custody and control of the defendant and Jeffrey Epstein for whom she
+claims a joint defense privilege and defendant has refused to produce responsive documents.
+Ms. Giuffre objects in that it seeks information protected by the attorney-client privilege, the
+attorney work product privilege, the public interest privilege, and any other applicable privilege.
+44
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 46 of 48
+Ms. Giuffre objects to this request to the extent is seeks proprietary and copyright protected
+material.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement her
+production. While Ms. Giuffre has produced her documents, Ms. Giuffre’s response does not
+include documents “from anyone associated with you” based on the above referenced objection.
+36. All Documents relating to massages, including but not limited to any
+Documents reflecting the recruiting or hiring of masseuses, advertising for masseuses,
+flyers created for distribution at high schools or colleges, and records reflecting e-mails
+or calls to Persons relating to massages.
+Response to Request No. 36
+Ms. Giuffre objections to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery ofadmissible evidence. Ms. Giuffre objects to
+this request in that it is not time limited in any way. Ms. Giuffre objects to this request in that
+documents responsive to this request are within the possession, custody and control of the
+defendant and Jeffrey Epstein for whom she claims a joint defense privilege and defendant has
+refused to produce responsive documents. Ms. Giuffre objects in that it seeks information
+protected by the attorney-client privilege, the attorney work product privilege, public interest
+privilege, and any other applicable privilege.
+Ms. Giuffre has been unable to locate any such documents.
+45
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 47 of 48
+37. Statements or records from any bank into which You deposited money
+received from Jeffrey Epstein, any Person identified in Interrogatory No. 8or 14, any
+witness disclosed in Your Rule 26(a) disclosures, any media organization or any employee
+or affiliate of any media organization.
+Response to Request No. 37
+Ms. Giuffre objects in that it seeks information protected by the attorney-client privilege,
+the attorney work product privilege, joint defense/common interest privilege, the public interest
+privilege, and any other applicable privilege. Ms. Giuffre objects to this request in that it seeks
+personal financial information. Ms. Giuffre objectsto this request in that it is overly broad as it
+has no time limitation.
+Subject to and without waiving the above objections, Ms. Giuffre has already produced
+documents Bates labelled GIUFFRE000001 to GIUFFRE005353, and will produce non-
+privileged documents responsive to this Request, and will continue to supplement her
+production.
+Dated: April 29, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro HacVice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+46
+Case 1:15-cv-07433-LAP Document 1320-37 Filed 01/03/24 Page 48 of 48
+CERTIFICATE OF SERVICE
+I certify that on April 29, 2016, I electronically served Plaintiff Virginia Giuffre’s Second
+Amended Supplemental Responses and Objections to Defendant’s First Set of Discovery
+Requests on the following:
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+By: /s/ Sigrid McCawley______
+Sigrid McCawley
+47

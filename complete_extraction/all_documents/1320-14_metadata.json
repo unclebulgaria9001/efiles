@@ -1,0 +1,71 @@
+{
+  "doc_id": "1320-14",
+  "filename": "1320-14.pdf",
+  "extraction_date": "2025-11-17T10:22:19.000848",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email"
+  ],
+  "text_length": 2920,
+  "images_extracted": 0,
+  "dates_found": 7,
+  "people_found": 10,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0057_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0057"
+    },
+    {
+      "email_file": "0106_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0106"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1217
+    },
+    {
+      "date_string": "January 12, 2015",
+      "position": 199
+    },
+    {
+      "date_string": "February 24, 2015",
+      "position": 1298
+    },
+    {
+      "date_string": "January 12, 2015",
+      "position": 199
+    },
+    {
+      "date_string": "February 24, 2015",
+      "position": 1298
+    }
+  ],
+  "people": [
+    "Ross Gow",
+    "Berkeley Square\nLondon",
+    "Managing Partner",
+    "Daily Mail",
+    "Palm Beach\nCounty",
+    "Ross\nRoss Gow",
+    "Reputation\nLimited",
+    "Philip Barden\nSubject",
+    "Ghislaine\nSome",
+    "Royal Palm Beach"
+  ],
+  "locations": [
+    "Palm Beach",
+    "London"
+  ],
+  "images": []
+}

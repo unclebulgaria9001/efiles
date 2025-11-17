@@ -1,0 +1,64 @@
+{
+  "doc_id": "1331-32",
+  "filename": "1331-32.pdf",
+  "extraction_date": "2025-11-17T10:19:20.185009",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 4224,
+  "images_extracted": 0,
+  "dates_found": 5,
+  "people_found": 21,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 192
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2249
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2924
+    },
+    {
+      "date_string": "01-05-2017",
+      "position": 3329
+    }
+  ],
+  "people": [
+    "York\nVirginia",
+    "Sarah Emma Ashley",
+    "Virgin Islands",
+    "Ching Chang\nVice",
+    "The Kingdom",
+    "Ghislaine Maxwell",
+    "Nadia Macinkova",
+    "Nadia Marcinkova",
+    "Court\nSouthern District",
+    "Alan\nDershowitz",
+    "Ching Chang",
+    "Foreign Service Offlc",
+    "United States District",
+    "Jeffrey Epstein",
+    "New York City",
+    "Sarah Ransome",
+    "Sarah Ransome\nCase",
+    "Other Political Division",
+    "Case No",
+    "Consulate Gral"
+  ],
+  "locations": [
+    "New York",
+    "Virgin Islands"
+  ],
+  "images": []
+}

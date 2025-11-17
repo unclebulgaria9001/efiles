@@ -1,0 +1,91 @@
+{
+  "doc_id": "1331-30",
+  "filename": "1331-30.pdf",
+  "extraction_date": "2025-11-17T10:19:59.343521",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 35136,
+  "images_extracted": 0,
+  "dates_found": 39,
+  "people_found": 90,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0061_Thursday,July14,2016_From-LauraMenninger_To-MeredithSchultz_Giuffre- Conferralregardingsearchterms.txt",
+      "email_id": "0061"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 516
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 712
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2288
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4762
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6635
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8895
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10999
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13277
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15470
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 17729
+    }
+  ],
+  "people": [
+    "Natalya Malyshov",
+    "Molson Breweries",
+    "Defendant Ghislaine Maxwell",
+    "See Menninger\nDecl",
+    "Fashion\nInstitute",
+    "Reopen Discovery",
+    "Deposition Questions",
+    "Pumla Griszell",
+    "James\nPatterson",
+    "Natalya Malyshev Case",
+    "All Communications You",
+    "And\nResponse",
+    "Ransome Dep",
+    "Safeco Ins",
+    "Avenue\nDenver",
+    "North Andrews Ave",
+    "Whether Alan Dershowitz",
+    "Lesley Groff",
+    "Paul Cassell",
+    "Jane Doe"
+  ],
+  "locations": [
+    "New York",
+    "Virgin Islands"
+  ],
+  "images": []
+}

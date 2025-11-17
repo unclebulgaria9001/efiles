@@ -1,0 +1,65 @@
+{
+  "doc_id": "1325",
+  "filename": "1325.pdf",
+  "extraction_date": "2025-11-17T10:22:42.917281",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 852,
+  "images_extracted": 0,
+  "dates_found": 7,
+  "people_found": 8,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 43
+    },
+    {
+      "date_string": "January 4, 2024",
+      "position": 64
+    },
+    {
+      "date_string": "December 18, 2023",
+      "position": 327
+    },
+    {
+      "date_string": "December 28, 2023",
+      "position": 619
+    },
+    {
+      "date_string": "January 4, 2024",
+      "position": 64
+    },
+    {
+      "date_string": "December 18, 2023",
+      "position": 327
+    },
+    {
+      "date_string": "December 28, 2023",
+      "position": 619
+    }
+  ],
+  "people": [
+    "Email Correspondence",
+    "The Honorable Loretta",
+    "Judge\nUnited States",
+    "District Court\nSouthern",
+    "Case No",
+    "Dear Judge Preska",
+    "Pearl Street\nNew",
+    "Preska\nDistrict Court"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

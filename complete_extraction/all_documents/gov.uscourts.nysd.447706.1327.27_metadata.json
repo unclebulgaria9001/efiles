@@ -1,0 +1,28 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.27",
+  "filename": "gov.uscourts.nysd.447706.1327.27.pdf",
+  "extraction_date": "2025-11-17T10:18:45.997516",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 139179,
+  "images_extracted": 0,
+  "dates_found": 2,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    }
+  ],
+  "people": [],
+  "locations": [],
+  "images": []
+}

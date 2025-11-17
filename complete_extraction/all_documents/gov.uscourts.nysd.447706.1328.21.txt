@@ -1,0 +1,969 @@
+# Document: gov.uscourts.nysd.447706.1328.21.pdf
+# Extraction Method: pdfplumber
+# Document Types: legal_document, correspondence
+# Images Extracted: 0
+# Dates Found: 118
+# People Found: 121
+# Locations Found: 2
+# Linked Emails: 6
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 1 of 19
+EXHIBIT A
+GM_00784
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 2 of 19
+PALM BEACH COUNTY SHERIFF'S OFFICE
+CENTRAL RECORDS
+MPTIONS/CONFIDENTIAL
+C 119.071 (2)( c) Active criminal intellige igative C entification Information (Fingerprints, palm
+Information
+C 1 rn.071 (2)(e) Confession C ormants
+C 3E>t,.171 (15) Identity of 911 reports are confidential for period of 60 days after
+service
+C 11 ~W71 (2)(d) Surveillance t niques, procedures, an (2)(h)(1) Identity of victim of sexual battery, lewd and
+inventory of law enforcement resources, policies or ascivious offense upon a person less than 16 years old, child abuse,
+to mobilization, deployment or tactical operati s sexual offense
+C 119.071 (2)(1) Assets of crime victim C 985.04(1) Juvenile offender records
+formation contained in a motor vehicle record
+119.071 (5)(a)(5) Social se
+r telligence/investigative inform
+ice agency
+r
+39
+r
+C 11 ~3. d) Extra fee if request is voluminous or requires extensive r
+personnel, technology
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+Tracking 16-04-2729 RP 97-002687 Date: 04/25/2016
+Revised 03/04/201 I
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 3 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page~ 1
+Time: 8:52:07 Offense Report Program: CMS301L
+Day Of Week .. Tuesday Report Date . : 11/04/97 10:55
+Occur From Date: 11/04/97 10:52 Occur To Date : 11/04/97 10:52
+Dept Class .. SEX OFFENSE - LEWD AND LASCIVIOUS
+Street Number WILLOWS, 156 MARTIN CIR
+City .. , .. ROYAL PALM BEACH, FL 33411
+Zone/division Zone Two (2) (So of Okee/E thr Wil)
+Location Type RES-SNGL FAMILY Case Status . : CLEARED BY ARREST
+Report Officer: MANCINO, JR, DOMINIC
+supervisory Emp: HUGHES, THOMAS 11/09/97
+Verif. Employee: MANCINO, JR, DOMINIC 11/04/97
+Case Status Dt: 11/25/97
+************ CASE MAN AGE MEN T INFORMATION*************
+Case Number .. 1-97-002687
+Dept Class . . : SEX OFFENSE - LEWD AND LASCIVIOUS
+Case Status . : CtEARED BY ARREST Case Status Dt.: 11/25/97
+Investigator , . ROBKIN, R.
+***ASSIGNMENT HISTORY*** . . ..
+case Number .. 1-97-002687 Dept Unit .. DETECTIVE
+Investigator. : ROBKIN, ROBERT Supervisor . . PERVENECKI, DAVID
+Assignment Date: 11/04/97
+********************* 0 FF ENS E REPORT # l *******************
+State Class . : Sex Offenses - Incest/Indecent Exp
+Attmpt/Comm.itt: Committed Statute/Ordin : 800.04
+State Dispo .. Mult UCR Disposition: Cleared by Arrest
+Exception Clear: ARRESTED ON PRIMARY OFFENSE
+Arrest Case No.: 1-97-006345 People Arrested: 1
+*********PROPERTY INFORMATION # 1 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CONSUMABLE GOODS Quantity. 1
+Description . : SEAGRAMS VO LIQUOR Value : 1.00
+Recovered by . OFC. MANCINO Recovered Date 11/04/97
+Property type FOOD/LIQUOR/CONSUMABLE Recovery value 1.00
+*********PROPERTY INFORMATION # 2 *********************
+Category . . . SAFEKEEPING UCR Prop Type MISCELLANEOUS
+Quantity . . . 1
+Serial number W/BOOKS, PAPERS AND CLOTHING
+Description . BOOK BAGS Value . . . . : 1.00
+Recovered by . OFC. MANCINO Recovered Date 11/04/97
+Property type MISCELLANEOUS Recovery value 1.00
+*********PROPERTY INFORMATION # 3 *********************
+Category . . . PROP /EVIDENCE--NO VALUE
+UCR Prop Type MISCELLANEOUS Quantity. 4
+Serial number BACKYARD OF 156 MARTIN CIRCLE
+Description .. POLAROID PICTURES Value 1.00
+Recovered by . OFC. MANCINO Recovered Date 11/04/97
+Property type MISCELLANEOUS Recovery value 1.00
+*********PROPERTY INFORMATION # 4 *********************
+CERTIFIED
+lO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00785
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 4 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 2
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+Category . . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Name ..•.. ADIDAS Description SHOES
+Value . . . . 65.00 Recovered by OFC. WIKSE
+Recovered Date 11/04/97 15:25 Property type CLOTHING/FURS
+Recovery value 65.00
+*********PROPERTY INFORMATION # 5 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Description . SOCKS Value 1.00
+Recovered by. OFC. WIKSE Recovered Date 11/04/97 15:25
+Property type CLOTHING/FURS Recovery value 1.00
+*********PROPERTY INFORMATION # 6 *********************
+Category. . . PROP/BVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity ... 1
+Description .. JENCO Value 55.00
+Recovered by. : OFC. WIKSE Recovered Date 11/04/97 15:25
+Property type CLOTHING/FORS Recovery value 55.00
+*********PROPERTY INFORMATION # 7 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Description . : BOXER SHORTS Value 5.00
+Recovered by. : OFC. WIKSE Recovered Date 11/04/97 15:25
+Property type CLOTHING/FURS Recovery value 5.00
+********* p R OPERTY INFORMATION # 8 *********************
+Category ... PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Name ..... MECCA Description . . T SHIRT
+Value . . . . 30.00 Recovered by. OFC. WIKSE
+Recovered Date 11/04/97 15:25 Property type CLOTHING/FURS
+Rei;.;uvt::.Ly value 30.00
+*********PROPERTY INFORMATION # 9 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Name . . . . . : BUSCH Description . : BUSCH T SHIRT
+Value . . . . 15. 00 Recovered by . OFC. WIKSE
+Recovered Date 11/04/97 15:25 Property type CLOTHING/FORS
+Recovery value 15.00
+*********PROPERTY INFORMATION # 10 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity ... 1
+Description . : GREEN/WHITE SHIRT Value 30.00
+Recovered by. : OFC. WIKSE Recovered Date 11/04/97 15:20
+Property type CLOTHING/FORS Recovery value 30.00
+*********PROPERTY INFORMATION # 11 *********************
+CERTIFIED
+TO BE A TRUE coov
+Dir.
+r\l\..,
+L. BRADSHAW, SHERIFF
+GM_00786
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 5 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 3
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 {Continued)
+category ... : PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Name ..... 26 RBTREDD Description . SHOES
+Value . . . . 59.00 Recovered by. OFC. WIKSE
+Recovered Date 11/04/97 15:20 Property type CLOTHING/FURS
+Recovery value 59.00
+*********PROPERTY INFORMATION # 12 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+OCR Prop Type CLOTHING AND FURS Quantity. 1
+Name . . . . . [\t1AX SPORT Description • PANTS
+Value . . . . 1. 00 Recovered by . : OFC. WIKSE
+Recovered Date : 11/04/97 15:20 Property type CLOTHING/FURS
+Recovery value 1.00
+*********PROPERTY INFORMATION # 13 *********************
+Category. . . PROP/EVIDENCB--NO VALUE
+UCR Prop Type CLOTHING AND FORS Quantity. 1
+Description . BOXER SHORTS Value 1.00
+Recovered by. OFC. WIKSE Recovered Date 11/04/97 15:20
+Property type CLOTHING/FURS Recovery value : 1.00
+*********PROPERTY INFORMATION # 14 *********************
+Category . . . PROJ?/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 2
+Description . : SOCKS Value 1.00
+Recovered by. : OFC. WIKSE Recovered Date 11/04/97 14:40
+Property type CLOTHING/FURS Recovery value 1.00
+*********PROPERTY INFORMATION # 15 *********************
+Category . . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. . 2
+. .
+Name . . . . . NIKE Description . SHOES
+. .
+Value . . . . 90. 00 Recovered by OFC. WIKSE
+Reccverad Date 11/04./97 14:40 Property type CLOTHINGiF"uR.s
+Recovery value 90.00
+*********PROPERTY INFORMATION # 16 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity ... 1
+Description T SHIRT Value 1.00
+Recovered by . OFC. WIKSE Recovered Date 11/04/97 14:40
+Property type CLOTHING/FURS Recovery value 1.00
+*********PROPERTY INFORMATION # 17 *********************
+Category. . . PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING AND FURS Quantity. 1
+Description . BOXER SHORTS Value 1.00
+Recovered by. OFC. WIKSE Recovered Date 11/04/97 14:40
+Property type CLOTHING/FURS Recovery value 1.00
+*********PROPERTY INFORMATION # 18 *********************
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00787
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 6 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 4
+Time: 8:52:07 Offense Report Program: CMS301L
+l-97-002687 (Continued)
+Category ... PROP/EVIDENCE--NO VALUE
+UCR Prop Type CLOTHING ~p FURS Quantity 1
+Serial number BL/WHT Description CLINCH SHIRT
+Value .... 25.00 Recovered by OFC. WIKSE
+Recovered Date 11/04/97 14:40 Property type CLOTHING/FURS
+Recovery value 25.00
+*********PROPERTY INFORMATION # 19 *********************
+~tegory.. . . PROP/EVIDENCE--NO VALUE
+OCR Prop Type CLOTHING AND FURS Quantity . , .. 1
+Name. . . . . THIRD RAIL Description THIRD RAIL JEANS
+Value . . . . 35.00 Recovered by OFC. WIKSE
+Recovered Date 11/04/97 14:40 Property type CLOTHING/FURS
+Recovery value 35.00
+*********PROPERTY INFORMATION #
+Category ... : PROP/EVIDENCE--NO VALUE
+UCR Prop Type ; CLOTHING~ FURS Quantity. l
+Serial number : MULTI COLOR LEATHER Description . . BELT
+Value . . . . 10.00 Recovered by. OFC. WIKSE
+Recovered Date 11/04/97 14:40 Property type CLOTHING/FURS
+Recovery value 10.00
+*********VEHICLE INFORMATION # 1 *********************
+Case number . : 1-97-00~687
+*********COMPLAINANT INFORMATION - # 1 ************
+case Number -97-002687 Last Name
+Street Number
+City . . . .
+Home Phone No. ness Phone 561/000-0000
+Birth Date .. Birth Country Unknown
+Oper Lie entry Race . . ... Black
+Sex . . . . . Ethnic Origin BLACK
+**************SUSPECT/ ARRESTEE INF 0 # 1 **
+Case Number .. 1-97-002687 Prompt valid in:
+Street Number
+City . . . . .
+Horne Phone No. usinees Phone 561/000-0000
+Birth Date .. Maximum Age . 17
+Birth Country : Unknown Oper Lie entry Unknown
+Race . .. . . . : White Sex . . . . . Male
+Ethnic Origin WHITE Minimum Height 509
+Minimum Weight 150 Hair Color ... Black
+Hair Length . Short (Up to 1/2") Bye Color .. : Brown
+Complexion . . Medium Facial Hair . : Mustache Only
+Teeth . . . . Normal Build . . . MEDIUM
+Speech . . . . Normal Status Arrested
+Arrest Case No.: 1-97-006345 Shirt BLK BAGGY PANTS
+**************SUSPECT/ ARRESTEE I N F O R M A T I O N - # 2 **
+CERTIFIED
+TO BE A TRUE COPY
+RIC l. BRADSHAW, SHERIFF
+GM_00788
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 7 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 5
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-0~ued)
+Case Number . : 1-97-002687 Prompt valid in: -
+Street Number
+City . . . . .
+County .... ~M BEACH Home Phone N . o..
+Business Phone 407/000-0000 Birth Date :
+Maximum Age . : 17 Birth City :
+Birth Country United States
+Oper Lie No .. V616410800810 FL United States .
+. .
+Race ..... White sex Male
+Ethnic Origin WHITE Minimum Height 504
+Maximum Height 504 Minimum Weight .. 120
+.
+Maximum Weight 120 Occupation. . STUDENT
+Hair Color Black Hair Length : Medium (Up to 2")
+Hair Style . . : Parted in Center Eye Color
+.
+.. Blue
+Complexion . . : Fair Facial Hair Mustache Only
+.
+Teeth Normal Build . : MEDIUM
+Speech .... . ..i Normal Status : still Suspect
+Pants BLK JEANS
+************** V I C T I M INFORMATION
+Case Number : 1-97-002687 Prompt valid
+Street Nwnber
+City . . . . .
+Home Phone N ~ Business Phone : 561/000-0000
+Birth Date·.~ Birth Country Unknown
+Oper Lie entry Unknown Race ..... White
+Sex . . . . . Female Ethnic origin WHITE
+Residency Type Royal Palm Beach Residency Sts Full Year
+Victim Type . . Juvenile
+********* 0 THER PERSON INFORM
+case Number • 1-97-002687 Last Name
+Person Type PERSON
+Street Number
+City ....
+Home Phone No. Bus ness Phone 561/000-0000
+Birth Date .. 6/22/1983 14 Birth Country Unknown
+Oper Lie entry Unknown Race ..... White
+sex . . . . . Female Ethnic Origin WHITE
+********* 0 THE R PERSON I N F O R M A T I O N - # 2 *********
+Case Number .. 1-97-002687 Last Name
+Person Type . , OTHER PERSON
+Street Number :
+City ..... : 334110000
+County . . . . PALM BEACH Home Phone No. : ~
+Business Phone 407/000-0000 Birth Date ..
+Birth City .. WEST PALM BEACH, FL Birth Country United States
+Race . . .. - . : White Sex . . . Female
+Ethnic Origin : WHITE Height .... 505
+Weight . . . . 110
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00789
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 8 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 6
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+******************~*********NARRATIVE # l ***************************
+Original Report Reported By: MANCINO, JR, DOMINIC A. 11/05/97
+Entered By.: JARRETT, DAWN M. 11/10/97
+on
+11/4/97 at 1052 hours, I responded to 156 Martin Circle in
+regards to six juveniles acting suspicious in the backyard of 156
+Martin Circle. On arrival I met with Adella onen a elderly b/f
+complainant at 10:55 hours. Ms. Oneal stated that at approximately
+1045 hours, she woke from her sleep. Oneal stated that she looked
+into her backyard and observed six juveniles in her back yard three
+w/m1s and three w/f's. Oneal stated that while she was watching
+the juveniles she observed that a blonde w/f was acting very
+intoxicated. Oneal stated that she observed a w/m wearing a jacket
+and baggy black pants kissing and laying on top of the intoxicated
+w/f. Oneal stated that while the intoxicated w/f was laying on the
+ground all of the other subjects were slapping her across the face
+yelling at the intoxicated w/f to wake up. I then walked into the
+backyard of
+I observed the six subjects laying on the ground near the
+canal. As I was walking towards the subjects I observed a w/m laying
+on top of a blonde, w/f. I observed that the w/f was wearing a multi
+colored dress which was above her hips, she had her legs wrapped
+around the w/m•s hips and her ankles were locked together. I
+observed that the w/m was moving his hipe side to side and he was
+moving his pelvic area in a up and down motion.
+·r
+then identified the two on to of each her as -
+and ~
+observed the other four juveniles who were just west of - and
+- The two females were sittin in an upward position and they
+atre J} p· 1 j dand The
+wo other ma es who were aying own was
+and The four subjects
+and laughing.
+I then had---get off of--- I observed that
+- -was very-ri'i'c'oxicated, she ~ e to stand on her legs.
+~unable to crawl and she was clutching onto-crying,
+holding his leg's and around his neck.
+Based on condition, a ambulance was called
+to transport her to to check on her condition. I
+then met with ........ an is mot er. I advised of his
+Miranda rights~stated that he understood. stated
+that-- - and
+over~ome at at 0930 hours. Collazo
+stated that his mot e upset to see the five inside her home and
+not in school. stated his mother made all the subjects
+leave the house stated that after his ride did not show up
+to take him to a job interview he went outside, talked to a neighbor,
+then took some pictures of hie home that was recently placed on the
+CERTIFIED
+fO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00790
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 9 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 7
+Time: 8:52:07 Offense Report Program: CMS301L
+rand
+canal.
+from fa ling into
+I then aske he did or ever has had sexual
+intercourse with if he was the person thatfjiffve
+ii
+that liquor she drank. stated he did not give an
+liquor and he said that never had sexual relations wit
+- ·
+The six juvenile's were handled in the following manner. Mr.
+was turned over to his mother at
+andllllllllllllllwe.r tr.ans .orte d
+yo~. and
+e west Palm Beach Truancy Center Of .
+was transported to the hqspital. implied thats e
+sexual intercourse with some of the people t t I observed in the
+rear of to the emergency persons that was in the
+ambulan .
+I then was advised of this information and this incident was
+turned over to the Detective Division.
+****************************NARR AT IV B # 2 ***************************
+SUPPLEMENT Reported By: WIKSE, JOHN C. 11/04/97
+Entered By.: JARRETT, DAWN M. 11/10/97
+On 11/5/97 at 1113 hours, I was dispatched as a backup unit to
+156 Martin Circle in reference to a juvenile call.
+Upon arrival I met with Sgt. T. Hughes who was standing with a
+group of six juveniles, three w/m and three w/f. Ofc. Mancino was
+present and had already run all of the-names through dispatch who had
+called the and confirmed that all
+present was ruan, e excep ion of • who is
+wi
+not enrolled in school. RPB EMS was also o~ scene ea ing with one
+of the w/f who was identified as ------ It appeared that
+---had been drinking and sh~tand and was
+~al. EMS transported - to
+Sgt. Hughes asked me to transport one of e
+back to the High School and obtain a contact
+parents. Upon my arrival at the High School I dropped
+the student services office and I proceeded to the nurses o fices
+where I obtained four emergency contact numbers for---
+parents. I attempted all of these numbers numerous-~-
+CERTIFIED
+TO BE. A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00791
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 10 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 8
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 {Continued)
+avail. I called down to the and asked to
+speak with who told me that
+, while enroute to e hospital, had found grass
+an wig material in the patients panties and had received a
+spontaneous statement from the patient in reference to being raped.
+I notified Sgt, Hughes of this and he had me respond to the E.R. to
+~tectives. Upon arrival, at the E.R., I met with
+............ who stated that while enroute to the E.R. she was
+conducting a head to toe evaluation when the patient stated that she
+had to urinate. P a ~ was assisting - remove her
+panties when she not~d twig particles in the crotch area
+of..-..panties as well as a small amount of blood, an unknown
+cl~ce, and ~ which appeared to be semen. She
+also saw abrasions on---buttocks. -...began screaming,
+"they held me down, they fucked me, they fu~ 11I told them
+to stop, I thought they were my friends! Why would they do this to
+me? Am I pregnant? l Am I pregnant?! 11 I told ------that
+I would need a witness statement from her in r ~
+statements. She advised that she would complete the witness
+statement at the Fire Station and drop it off at the Police Station.
+I remained at the E.R. and made several more attempts to contact
+parents, again to no avail. Approximately 20 minutes
+later Detectives Pervenecki and Robeson responded to the E.R. and
+took over. I returned to the Police Department where Sgt. Hughes
+told Ofc. Wensyel and I to go find - -
+- - - and---- Sgt. Hu s o us t ~othing
+~eede~e evidence and to ask them to come in on a
+~ s . While enroute to ---........residence at ...
+.........._ Ofc. Wensyel and I w ~ Wildcat Way
+at Willows Park when we noticed ......... crossing the road.
+Ofc. Wensyel stopped and spoke w~agreed to come in
+voluntarily. we then .w;oceeded to --........... where I was able
+to locate] • and notify~e situation.
+Marcus also agreed to come in voluntarily. Ofe. Wensyel
+transported both individuals to the P.D. while emained
+four photo's of the residence/yard located at
+Upon completing this I responded to
+contact with w/m, who to come in on a
+voluntary basis.
+Upon arrival at the Royal Palm Beach Police Department I made
+contact with Ofc. Mancino and gave him the pictures that I had
+taken. All juveniles had been separated and notifications were made
+to their parents. Det. Robkin responded and was briefed on the
+situation. I took each individual into the traffic office and had
+them change clothes. I placed their old clothing into evidence bags
+and Ofc. Mancino placed these bags into evidence bins.
+****************************NARRATIVE # 3 **********************i****
+SUPPLEMBNT Reported By: ROBESON, JERRY R. 11/04/97
+Entered By.: JARRETT, DAWN M. 11/10/97
+CERTIFIED
+TO BE A TRUE COPY
+RIC L BRADSHAW, SHERIFF
+GM_00792
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 11 of 19
+-------------------------------------------------------------------------------
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 9
+Time; 8 : 5 2 : 0 7 Offense Report Program; CMS301L
+-------------------------------------------~-----------------------------------
+1-97-002687 (Continued)
+On Tuesday, November 4, 1997 I was dispatched to Palm's West
+Hospital in reference to a suspicious incident. The juvenile victim,
+~ was transported to the hospital-Royal Palm Beach
+~ There were allegations made by that she
+may have been forced to have sex. (See original report.
+Patricia Badu-Tweneboah, Counselor/Advocate from Victim Services
+was dispat~he hospital. Patricia met with the victim and the
+parents oflllllllllllllt in reference to the incident. A rape kit was
+done at the hospital by
+I interviewe , d .......... at the
+hospital. After dent o the~ed that
+had me chool. On Sunday, November 2,
+They spent the entire day with
+fat his residence. on Tuesday,
+ted that she dropped ---off at·
+r school. They also st~
+a prev ous y een sexually active but, felt that she was
+no currently sexually active.
+After the examination was done by I interviewed
+-said that she didn't go to school and was with
+and a group of friends. There were males and females in the
+group. some of t~iles ..... didn't know because she only
+met them today ....... eaid~e remembers her legs being
+opened and being touched by individuals. She stated that her friends
+were laughing~ something to the effect of "you will like it
+or enjoy it11 ---had her clothes on during the incident. She
+•
+said that Jehf e had about five sips of alcohol and all her friends were
+drinking. j ■ said· that she had known. .... only a few days
+and she ha een sexually active with him. ~o remembered being
+kissed on her lips by a female that possibly was her friend,
+intervf~ w. Virginia. appeared to be very lethargic du:t'ing the
+After the interview, I transpo. .th.e c ollected evidence to the
+police station and proceeded to the residence at
+-.a
+I met with Mr. and Ms.---- s .. -..said that
+~ a group of juveniles in~ her~ at around 9:00
+A.M. --was at home, so she questioned him about the juveniles
+and~ they were some of his friends. At around 9:30 A.M.,
+Ms ....... told---that the group had to leave from her
+resi~ Aroun~ A.M. , ..... told his mother that he was
+going to take pictures of thei~ence for their neighbor (the
+neighbor is helping them sell their residence). At about 11:00 A.M.,
+Ms. -stated that she saw the Royal Palm Beach Fire Rescue with
+an unknomi girl. Mr. -said that he wasn't missing any liquor
+from his residence.
+on Wednesday, November 5, 1997, Marcus Collazo came to the
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAVV, SHERIFF
+GM_00793
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 12 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 10
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+police station in reference to property. I released two lighters,
+paper, seven dollars and sixteen cents, and a key on a weave. The
+property wasn•t listed on the property sheet due to the property
+being inside the pants pockets.
+****************************NARRATIVE # 4 ***************************
+SUPPLEMENT Reported By: ROBKIN, ROBERT G. 11/04/97
+Entered By.: DRAHOS, KATHLEEN E. 11/26/97
+On 11/4/97 at approximately 1215 hours, this investigator
+received a phone call at my home advising me of a possible sexual
+battery investigation. I was told to go to Palms West Hospital and
+met with Sgt. D. Pervenecki and if possible the victim.
+This Detective arrived at the hospital at approximately 1300
+hours and met with Sgt. Pervenecki, Detective J. Robeson and the
+victim's parents. After a brief conference with the above, I went to
+the Police Station to meet with the responding officers and to
+conduct this investigation.
+After speaking wit res onding officers, I then began to
+conduct interviews with (S-1)-------.. {S-2), and
+(S-3) . They were al at the~n.
+I first met with S-3, I advised him that
+he was not under arrest and that he was wi er no obligation to answer
+any of my questions. I also asked him if he knew that this
+investigation was about. He told me that he thought it was because
+the victim had gotten very drunk.
+I asked to relate what had occurred this date, he
+stated that he had seen S-1 ~ prior to school at-......
+house and there had been som~ion about skipping~
+says that he went to school and since he is in the "on
+'"'raining prog1°ar1i 11 he gets out early. .t1e is employed at
+Wings u, even though they are not open.
+When he got out of school, he ran int
+girlfriend and anot~later identified as
+They all walked to----house where they met and the
+victim. ---says that th~t a ouse
+until h i ~ mad and tol~to have riende
+is
+leave. They were sitting in the driveway of the house and he says
+that he hear••••• and his mother yelling at each other.
+All of the kids then went into the backyard. ----says
+that he does not know where the victim got liquor f~e
+became very drunk. He says that she was so drunk that she fell down
+several times and had to be pulled up an incline by her legs, to keep
+from falling into a canal. She was also acting very drunk by talking
+and laughing.
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00794
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 13 of 19
+--------------------------------------------------~--~-------------------------
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 11
+Time: 8:52:07 Offense Report Program: CMS301L
+-------------------------------------------------------------------------------
+l-97-002687 (Continued)
+According to---- they had only hung out for 15 or 20
+minutes before the~ived. ~ays that he did not
+see anyone molest or sexually viola~m. wrote
+out a statement, it is included in this record.
+It should be noted that I was unable to record .........
+statement ~~f a malfunction with the tape rec~hen
+interviewe~ He was also advised that he was under no
+obligation to talk to me, he stated that he understood. I asked him
+to tell me what he had done on this date. This statement was taped.
+He told me that he had got up at 7:08 AM and left for school. He ran
+into Nissensohn and he had told him that they were gong to cut
+£
+school today. was with the victim {they are bo riend and
+f~~~f~!~n~~~ vt;t~~:rjjfmately 0845 to 0900 hours,an
+and went to his house to skip and hang ou€. WhTie they were. here
+sometime around 0930 hours, his mother told hirn to have his friends
+go away. He says that he did. ~lsosa ys that at this time he was
+also approached by his neighbor, who is a real estate agent
+and is selling his par~. said that he needed to take
+pictures of the bouse ........s ta es at after he sent his
+friends away, he took some pictures and approximately 40 to 45
+minutes later, his friend, - (S-2) came and got him. He was told
+that his girlfriend was drd'mt""and out of control. he then went
+behind the house a t ~ a nd found the victim to be very
+drunk. She was fall~ting along the canal bank. It
+was necessary for him and the other subjects to physi~ally pull her
+up the bank by her legs and at times a d lso car a ry her away from the
+I
+c~l t<:> prevdent her fromlfhallinhg if' n. says that aitt one
+point, in or er to contra er e oun it necessary to s a
+straddle on her. It was at this point that the police arrived.
+says that he has no knowledge of anyone "messing" with the
+victim.
+Since the victim. and t.liis subject are boyfrie:n.d and girlf:r:iend,
+I asked if he was having intercourse with the victim.
+re use to answer this question. I then asked if he had had
+sex wi the victim on this date he then stated no, not today.
+-also wrote out a statement, it is a part of this report.
+The last person that I interviewed was his story is
+similar to the others except he states that after everyone
+arrived at his house produced the bottle of
+He says that he, his girlfriend _,_.....-..i.
+and the victim all were at - house skipplng~
+says that he watched the victim drink from the bottle and get very
+drunk. He also says that in order to cut the taste of the liquor,
+~k oranges from the orange tree in the yard where they were .
+...... says tha~ried to sober up the victim, he even went
+and got some food~ee to give her, but nothing worked~
+According to••••all six of them were sitting around, under
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00795
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 14 of 19
+Date:· 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 12
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+some trees at the cap.al bank, drinking at different times .....
+and the victim might have kissed, but there was no seriou~ or
+touching that he saw. He did say that the victim was crawling around
+on her seat and butt, and at times she would scoot about on her fanny
+and her dress and panties would ride up. It was necessary for them
+to physically restrain her to keep her from falling into the canal.
+AT one point, it became necessary for-----to sit on top of the
+victim to keep her from going into the~ It was then that the
+police arrived.
+This statement was taped and he also wrote out a statement which
+is included in this report.
+After taking these statements from the above subjects, they were
+all released to their parents. Their clothing was confiscated and
+placed into property by the responding officers, to be sent to the
+lab for testing. See property receipts.
+This investigator then conducted an interview with Fire/Rescue
+Officer Ellen F. Delai who was in the rescue wagon with tbe victim
+while she was being transported to the hospital. She states that the
+victim had indicated to her that she had been assaulted, and she had
+also seen what appears to be blood on the victims underpants. See
+her written statement for details and also the Fire/Rescue report.
+Detective Robeson, who had been at the hospital with the
+victim returned to the station. He had the victims clothes and the
+contents of the "Rape Kit11, these were placed into property. Det.
+Robeson also took a taped statement from the victim at the
+hospital, this is also in property.
+~approximately 1700 hours, I received a phone call from
+....... He told me over the phone at this time that he wanted to
+keep the record straight and he then stated that he and the victim
+were actively having sex. He said that the last time that they had
+sex was on 11/3/97 in t he morning. - also asked e i f he
+could come to the station and talk to me about the case. I told him
+to come on in.
+He arrived at my office at approx. 1730 hours, ~ith his
+father. After I explained this investigation to Mr.,....... the son
+--......requested to speak with me in private ......
+~ was very upset at the possibility that soin'e"""a'rhis
+friends might have abused his girlfriend and he wanted me to know
+that he was willing to cooperate in anyway that he cou~t to
+the bottom of this incident. During this conversation ..... also
+told me that he had supplied the liquor to the other teenagers but he
+did not expect the victim to get so drunk. •
+At this time, - also admitted to me that he and the
+victim are sexually active and the last time that they had
+intercourse was on Monday morning {11/3/97}, he also says that they
+always use protection when they make love. This statement was not
+CERTIFIED
+TO BE A 'TRUE COPY
+RiC L. BRADSHAW, SHERIFF
+GM_00796
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 15 of 19
+-------------------------------------------------------------------------------
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 13
+Time: 8 : 52 : 0 7 Offense Report Program: CMS3OlL
+-------------------------------------------------------------------------------
+f? 1-97-002687 (Continued}
+recorded nor taped. I asked ■]] what he knew about the other
+people involved. He said that' as ar as he knew, these people were
+his friends. He had known them for a long while. I asked him if he
+knew the subj ec--.. he sated that she was new to the school and
+he had just rec~her. Her boyfriend is someone named
+I then asked--to tell me about the subject
+. He told me ~is Ian's girlfriend, and that she ie
+11:kh. , asked how he knew this a~told me that he had seen
+her kissing other girls. He also~hat she tells people that
+she is "bi 11 • ~ repeated several times that he was very upset
+about his gir~eing assaulted. I advised him to not do
+anything that would get him into trouble, and if he learned or heard
+any information for him to contact me. He agreed to do so.
+On 11/5/97 at approx. 1600 hours the victim,
+came to the police station with her parents to be interviewed by this
+investigator. I first met with the victim and her parents and
+explained the investigation to this point, I also answered several
+questions that they had.
+I then met privately with the victim to discuss her recollection
+of the events of the previous day. The victim told me that she had
+gone to school on 11/4/97, but as planned she and her friends cut
+after the first hour. The~o her boyfriend's ....... house
+and hung around until Mrs ...... ran them off. Shetiien'says that
+she and the others, min_J Q went in back of some houses at a
+canal and started to drink. She says that she became very drunk and
+does not remember much. She does remember falling down and someone
+grabbing at her legs, but she does not know who. She also says that
+she has a vivid recollection of being kissed by a girl, but she is
+not sure if it is~, and she thinks that she was being held
+down. People toldiie'rt.o relax, that she would like it, but she does
+not recall anything happening. I asked the victim if she recalls
+anything being inserted into her at anytime. She stated "no".
+I also asked her if she was having any discomfort or soreness in
+her vaginal area or buttocks area, she again replied no, also asked
+if it was time for her period, or if she was having any types of
+cramps, she stated, NO. I asked~im if she was sexually
+active, she told me that she and~were. I then asked her
+when was the last time that they had had sex. She told me Monday
+morning {11/3/97). She also said that they used a rubber, they
+always used protection.
+I then asked her if she could explain why there might be traces
+of blood in her panties. She could offer no explanation. She also
+repeated that she is past her period and she is not injured that she
+knows of. I also inquired as to the victim's relationshi!!liith
+- She says that they are friends, I asked her if . is
+gay or 11bi", she then told me tha- had told her that e e was
+~ I asked the victim if she had ever fooled around with
+......, she said no.
+CERTIFIED
+TO si= A TRUE COPY
+RiC L. BRrt\OSHAW, SHERIFF
+GM_00797
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 16 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 14
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+I aaked her if she remembered the ride to the hospital, she told
+me that it was very vague, she does not recall her conversation with
+the rescue personnel. Because of certain statements that were made
+by the victim to the fire/rescue people, I felt that it was necessary
+to clear up some points. The victim had stated to the rescue people
+that "they had fucked me". I asked her if she knew the meaning of
+the word "fuck0
+,
+she said that it meant to have sex. The victim had
+asked the fire/rescue personnel several times if she were pregnant
+because of what happened. I then asked the victim if she knew how a
+person becomes pregnant. She then told me that you get pregnant from
+having sex.
+After conducting this interview the victim requested that some
+of her prQperty be returned to her. She wanted her book bag and some
+clothing that was not submitted as evidence. These items were
+returned to her {see property receipt).
+On~hdaites ap proximately 1830 hours, this investigator
+went to and met with--........ Her parents
+were no , s e agreed to speak~ed her to
+relate to me the vents of the day before. l■■■ltold me that she
+had cut school with the other kids and bad gone to-house.
+She told me that-----Mom had told them to lea~
+had supplied the~ttle of liquor and they had drank some of
+it. ---~leave to do something and he left the victim who
+acco~~was already drunk. This was somewhere around
+1000 to 1030 hours ...... says that the victim was so drunk that
+she was scooting and~ around on the grass with her dress up
+and she was also making passes at the other boys who were there.
+states that she saw the victim grab Ian by the butt and
+by the -crouch and she also attempted to do the same to-- she
+would also ask them for~ states that she~ the
+vi~t~~t.~hey were~ause s~e kept asking~for him. I
+asKea ~ it sne saw anyone 1n any way nave any sexuaL contact
+with the victim, she states that the only thing that she saw at
+anytime was S-1 kissing the victim, but there was never any sex. I
+also asked her if at anytime did she kiss the victim or caress her in
+anyway. She stated nnon.
+I then asked her if she saw the victim place anything inside
+herself, she again said no. I then asked if she had anything to add
+before ending this interview. Crystal then asked me if I knew what
+the victim had said to the police officer when they came to the
+scene. I advised her no, for her to tell me. -states that
+when the police first arrived, the victim was very belligerent and
+was denying being drunk. When she {victim) realized that the police
+were going to take some sort of action, she told one of the officers
+that "If you don't tell my parents, I'll fuck you". According to
+he officer ignored this comment. this concluded the
+w. The phone number shown for ---on the report is not
+right, the correct phone number is 792-~
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00798
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 17 of 19
+Date; 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 15
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 {Continued}
+I then went to ■•I and met with-
+..... and her parents. AS before, I as ed her to tell me about
+~nts of the day before. She told me that she had cut.school at
+around 0830 hours and she and her friend had gone to
+house. --says that she arrived there at around 0900 _hours she
+thins, siie""'aTso" states that the victim was already drunk when she got
+there ........ states that she thinks that she was with the other
+peopleTorarou"nd 2 hours. During that time she did not see anyone
+do anything to the victim. She did say, as did_, that the
+victim made passes at the other boys who we~ent but no one did
+anything with her. I asked her if she saw-- make any pass at
+the victim, or if she saw her kiss the victim. Kristin said no to
+this. -also told me that the victim had propositioned the
+police officer who came to the scene. I also, asked her how well she
+knew the victim, she told me that this was the first time that she
+had ever met her. ~ahd nothing else to add at this time.
+This concludes the interviews with the people involved.
+All of the evidence that has been collected will be sent to the
+PBSO for testing and analysis. It is unknown at this time as to why
+the victim had blood in her panties or where it came from. The
+victims parents were advised by this officer to seek medical advice
+and aid for their daughter, as well as possible counseling of some
+type.
+All of the clothing submitted and confiscated are being
+submitted to the crime lab for testing. See attached lab request.
+The information contained in this report will be sent to the State
+Attorney's Office for review in regard to possible charges of Lewd
+and Lascivious conduct to a child under 16 years of age against
+Collazo, because of his admission and the victims admission to having
+sexual intercourse. This is in violation of FSS 800.04 (2).
+Besides this admission, a simulation of sexual intercourse was
+also witnessed by the responding officer upon his arrival, This is a
+violation of the same statute. All the evidence, (clothing, liquor
+and lab evidence etc. has been sent to the crime lab on 11/7/97).
+It should be noted that-- was arrested on 11/6/97 for
+Aggravated Battery in an unre"iatec:icase. He is now in the County
+Jail and is charged as an adult.
+****************************NARRATIVE # 5 ***************************
+SUPPLEMENT Reported By: ROBKIN, ROBERT G. 11/19/97
+Entered By.: DRAHOS, KATHLEEN E. 11/26/97
+On 11/19/97 the listed subject, ■••■ who is
+currently being held in the Palm Beach Count ail on unrelated
+charges was served with a Probable Cause Affidavit, charging him with
+two counts of Lewd and Lascivious conduct with a child under 14 years
+of age. •
+CERTIFIED
+TO BE A TRUE COPY
+RIC L. BRADSHAW, SHERIFF
+GM_00799
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 18 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 16
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 {Continued)
+The PC Affidavit, Rough Arrest Form, and filing packet are all a
+part of this case file.
+****************************NARRATIVE # 6 ***************************
+PROBABLE CAUSE Reported By: ROBKIN, ROBERT G. 11/17/97
+Entered By.: DRAHOS, KATHLEEN E. 11/26/97
+At the rear of , Palm Beach
+County; Florida when the responding patrol wiita arr ved at the above
+scene, Officer Mancino who was the first on the scene observed the
+defendant laying on top of the victim. Both the defendant and the
+victim were both laying on the ground, the victim was laying on her
+back and according to Officer Mancino her dress was above her hips
+and her legs were wrapped around the defendants midsection. Both the
+defendant and the victim were clothes. The defendant was wearing his
+pants and the victim was wearing a pair of "Garfield the cat•
+underpants. As stated, the defendant was on top of the victim in the
+missionary position both the victim and the defendant were undulating
+their hips and bodies, in a simulated sex act (dry humping).
+According to Officer Mancino the defendant's hips were moving in and
+out of the victim's pelvic area. 'l'he victim was also making moaning
+and groaning sounds.
+On this same date at approximately 1730 hours, while at the
+police station, the defendant was being interviewed by this
+detective. He was not under arrest and had come to the station on
+his own. During this interview, the defendant told me that he and
+the victim had been having sex on a regular basis. The last time
+being on 11/3/97 at the defendants house at-----..., royal
+palm Beach, Florida. On 11/5/97, this Dete~the
+victim at the police station. AT this time, the victim also told me
+that she and the defendant have had sex several times in the past.
+The last time was on 11/3/97 in the AM hours at the defendants
+housa. She also stated that they used protection, they always sued
+protection.
+The defendant is in the county jail on unrelated charges, he
+will be served with this arrest at that location.
+****************************NARRATIVE # 7 ***************************
+SUPPLEMENT Reported By: ROBKIN, ROBERT G. 12/23/97
+Entered By.: JARRETT, DAWN M. 12/30/97
+On this date (12/23/97} this investigator went to the Palm Beach
+s.o. and picked up the items that were being tested by the lab.
+Nothing of any evidentiary value was found.
+I have alao contacted the owners of the clothing and have
+advised them to pick up their belongings.
+CERTIFIED
+TO BE A TRUE COPY
+RIC L BRADSHl\W, SHERIFF
+GM_00800
+Case 1:15-cv-07433-LAP Document 1328-21 Filed 01/05/24 Page 19 of 19
+Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page: 17
+Time: 8:52:07 Offense Report Program: CMS301L
+1-97-002687 (Continued)
+I have also been advised by the State Attorneys Office that they
+do not choose to prosecute defendant Collazo for the charges of Lewd
+and Lascivious conduct. See attached letter from the S/A office.
+At this time this case is closed because there is no need for
+any further police action.
+****************************NARRATIVE # 8 ***************************
+SUPPLEMENT Reported By: ROBESON, JERRY R. 12/23/97
+Entered By.: JARRETT, DAWN M. 12/30/97
+The property listed on the attached property receipt was
+returned to the owner, Ian Varvaro on December 23, 1997 at 1907 hours.
+****************************NARRATIVE # 9 ***************************
+SUPPLEMENT Reported By: ROBKIN, ROBERT G. 12/23/97
+Entered By,: JARRETT, DAWN M, 12/30/97
+on 12/23/97, Ms. Janice Magrane who is Adam Niseoneohn's
+mother came to the police station and picked up her sons clothes
+which had been returned from P.B.S.O.
+See property receipt.
+****************************NARRATIVE # 10 **************************
+SUPPLEMENT Reported By: FARRON, CHRISTOPHER s. 10/30/02
+s.
+Entered By.: FARRON, CHRISTOPHER 10/30/02
+Due to the fact,the statute of limitations has run out on this case,
+the property was destroyed.
+****************************NARRATIVE # 11 **************************
+SUPPLEMENT Reported By: GEROULD, GLENN A. 4/03/03
+Entered By.: GEROULD, GLEJ:i!N A. 4/03/03
+The evidence in this case has been destroyed.
+****************************NARRATIVE # 12 **************************
+Supplemental Reported By: PERVENECKI, DAVID A. 5/08/03
+Entered By.: PERVENECKI, DAVID A. 5/08/03
+Reviewed By: Gl.ANNOTTI(DAVIS, ERIN M. 5/22/03
+The property listed in this case has been destroyed.
+****************************NARRATIVE # 13 **************************
+Supplemental Reported By: PERVENECKI, DAVID A. 5/07/03
+Entered By.: PERVENECKI, DAVID A. 5/07/03
+Reviewed By: GIANNOTTI(DAVIS, BRIN M. 5/23/03
+The property listed in this case has been destroyed.
+* * * * * * * * * *******END OF REPORT*****************
+GERTI Fl ED
+TO BE A TRUE COPY
+RiC L. BJ~ADSHAW, SHERIFF
+GM_00801

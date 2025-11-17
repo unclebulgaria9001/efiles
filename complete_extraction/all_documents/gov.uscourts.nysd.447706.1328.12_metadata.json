@@ -1,0 +1,87 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.12",
+  "filename": "gov.uscourts.nysd.447706.1328.12.pdf",
+  "extraction_date": "2025-11-17T10:19:17.333337",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 33112,
+  "images_extracted": 0,
+  "dates_found": 37,
+  "people_found": 32,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 143
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 834
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1911
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2907
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3917
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4860
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5997
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7133
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8103
+    }
+  ],
+  "people": [
+    "Did Emmy",
+    "Palm Beach Atlantic",
+    "Filed Under Seal",
+    "The State",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis",
+    "Did Epstein",
+    "When Jeffrey",
+    "Between Madison",
+    "Registered\nProfessional Reporter",
+    "Nadia Marcinkova",
+    "Prince Andrew",
+    "Would Epstein",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Fort Lauderdale",
+    "Sarah Kellen",
+    "Did Maxwell",
+    "Boies Schiller"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

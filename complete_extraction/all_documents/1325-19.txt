@@ -1,0 +1,675 @@
+# Document: 1325-19.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, flight_log, financial
+# Images Extracted: 0
+# Dates Found: 50
+# People Found: 51
+# Locations Found: 4
+# Linked Emails: 0
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 1 of 20
+Exhibit 5
+(File Under Seal)
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S RESPONSE TO PLAINTIFF’S FIRST SET OF INTERROGATORIES
+.............................................
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 2 of 20
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 3 of 20
+Defendant, Ghislaine Maxwell, by and through her undersigned counsel, hereby responds
+to Plaintiff’s First Set of Interrogatories (the “Interrogatories”).
+PRELIMINARY STATEMENT AND GENERAL OBJECTIONS
+1. This response is made to the best of Ms. Maxwell’s present knowledge,
+information and belief. Ms. Maxwell, through her attorneys of record, have not completed the
+investigation of the facts relating to this case, have not completed discovery in this action, and
+have not completed preparation for trial. Ms. Maxwell’s responses to Plaintiff’s Interrogatories
+are based on information currently known to her and are given without waiving Ms. Maxwell’s
+right to use evidence of any subsequently discovered or identified facts, documents or
+communications. Ms. Maxwell reserves the right to supplement these Interrogatories in
+accordance with Fed. R. Civ. P. 26(e).
+2. Ms. Maxwell objects to the Interrogatories to the extent they attempt to impose
+any requirement or discovery obligation greater than or different from those under the Federal
+Rules of Civil Procedure, the local rules of this Court or any Orders of the Court.
+3. Ms. Maxwell objects to the Interrogatories to the extent they seek information
+protected by the attorney/client privilege, the work-product doctrine, Rule 408 of the Federal
+Rules of Evidence, any common interest privilege, joint defense agreement or any other
+applicable privilege.
+4. Ms. Maxwell objects to the Interrogatories to the extent they seek information
+outside of Ms. Maxwell’s possession, custody or control.
+5. Ms. Maxwell objects to the Interrogatories to the extent they seek information
+which is not relevant to the subject matter of the litigation and /or is not reasonably calculated to
+lead to the discovery of admissible evidence.
+6. Ms. Maxwell objects to the Interrogatories to the extent they are overly broad,
+unduly burdensome and/or propounded for the improper purpose of annoying, embarrassing, or
+harassing Ms. Maxwell.
+7. Ms. Maxwell objects to the Interrogatories to the extent they are vague and
+ambiguous, or imprecise.
+8. Ms. Maxwell objects to the Interrogatories to the extent they seek information that
+is confidential and implicates Ms. Maxwell’s privacy interests.
+9. Ms. Maxwell incorporates by reference every general objection set forth above
+into each specific response set forth below. A specific response may repeat a general objection
+for emphasis or for some other reason. The failure to include any general objection in any
+specific response does not waive any general objection to that request.
+1
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 4 of 20
+10. The Interrogatories seek information that is confidential and implicates Ms.
+Maxwell’s privacy interests. To the extent such information is relevant and discoverable in this
+action, M s. Maxwell will produce such materials subject to an appropriate protective order
+pursuant to Fed. R. Civ. P. 26(c) limiting their dissemination to the attorneys and their
+employees.
+OBJECTIONS TO DEFINITIONS
+1. Ms. Maxwell objects to Definition No. 1 regarding “Agent” because it is an
+incorrect statement of the law.
+2. Ms. Maxwell objects to the Definition of “communication” to the extent it
+expands upon the meaning ascribed to that term by Local Rule 26.3(c).
+3. Ms. Maxwell objects to Definition No. 3 regarding “Defendant.” The Definition
+is overly broad and unduly burdensome to the extent it attempts to extend the scope of the
+Interrogatories to information in the possession, custody or control of individuals other than Ms.
+Maxwell or her counsel.
+4. Ms. Maxwell objects to the Definition No. 4 regarding “Document” to the extent
+it expands upon the meaning ascribed to that term by Local Rule 26.3(c).
+5. Ms. Maxwell objects to Definition No. 5 regarding “Employee.” Ms. Maxwell is
+an individual, sued in an individual capacity, and therefore there is no “past or present officer,
+director, agent or servant” of hers. Additionally, “attorneys” and “paralegals” are not
+“employees” of Ms. Maxwell given that she herself is not an attorney and therefore cannot
+“employ” attorneys.
+6. Ms. Maxwell objects to Definition No. 7 of “Jeffrey Epstein” to include not only
+entities but also any employee, agent, attorney, consultant or representative of him, to include
+any entities owned or controlled by him. Questions related to an individual named Jeffrey
+Epstein have been construed to mean only that individual and not any other individual who is
+affiliated in some capacity with entities owned or controlled by him.
+7. Ms. Maxwell objects to Definition No. 8 regarding “Massage” to include “any
+person touching another person,” as the touching of another person may or may not include what
+is commonly understood to mean massage, it may be for a harmful, offensive or accidental
+reasons, or for any other purposes, or may be a touching incidental to being in close proximity
+with another. Similarly, a definition of “massage” to include “using any object…to touch
+another person” can mean a wide variety of activities and for various purposes that exceed the
+relevancy of this defamation action.
+8. Ms. Maxwell objects to Definition No. 9 regarding “Person” to the extent it
+expands upon the meaning ascribed to that term by Local Rule 26.3(c).
+9. Ms. Maxwell objects to Definition No. 11 regarding “You” or “Your.” The
+Definition is overly broad and unduly burdensome to the extent it attempts to extend the scope of
+2
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 5 of 20
+the Interrogatories to information in the possession, custody or control of individuals other than
+Ms. Maxwell or her counsel.
+OBJECTIONS TO INSTRUCTIONS
+1. Ms. Maxwell objects to Instruction No. 1, in particular the definition of the
+“Relevant Period” to include July 1999 to the present, on the grounds that it is overly broad and
+unduly burdensome and calls for the production of documents that are irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence. The Complaint at
+paragraph 9 purports to describe events pertaining to Plaintiff and Defendant occurring in the
+years 1999 – 2002. The Complaint also references statements attributed to Ms. Maxwell
+occurring in January 2015. Defining the “Relevant Period” as “July 1999 to the present” is
+vastly overbroad, irrelevant and not reasonably calculated to lead to the discovery of admissible
+evidence, and as to certain of the Interrogatories, is intended for the improper purpose of
+annoying or harassing Ms. Maxwell and it implicates her privacy rights. Thus, Ms. Maxwell
+interprets the Relevant Period to be limited to 1999-2002 and December 30, 2014 - January 31,
+2015 and objects to the Interrogatories, except as specifically noted. Without waiver of this
+Objection, Ms. Maxwell notes the Court Order in this case which permits discovery regarding
+events between 2002 and the present which relate to the topics of the sexual trafficking of
+females and will respond to the Interrogatories for the period 2002 to the present on that topic.
+2. Ms. Maxwell objects to Instruction Nos. 2-21 to the extent they impose
+obligations beyond those imposed by Fed. R. Civ. P. 33(b) and Local Rule 33.3. In particular,
+the majority of the Instructions pertain to Requests for Production of Documents and are
+therefore inapplicable to Interrogatories.
+3. Ms. Maxwell objects to these Interrogatories to the extent they exceed those types
+of interrogatories permitted by Local Rule 33.3. In particular, the majority of these
+Interrogatories do not seek the names of witnesses with knowledge of information relevant to the
+subject matter of this action nor the existence, custodian and location or general description of
+relevant documents. Moreover, these Interrogatories are not a more practical method of
+obtaining the information sought than a deposition or a request for production of documents.
+4. Finally, the contention interrogatories are premature, as other discovery in this
+case has not concluded. Local Rule 33.3(c).
+5. Ms. Maxwell objects to the Definition of “Identify” to the extent it expands upon
+the meaning ascribed to that term by Local Rule 26.3(c).
+3
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 6 of 20
+RESPONSES TO INTERROGATORIES
+1. Identify all persons and entities authorized by you or authorized your agent(s) to
+make statements on your behalf in January of 2015.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory as vague and ambiguous, specifically by not defining
+what types or topics of “statements” are referred to. As drafted, this Interrogatory calls for
+information clearly outside the relevancy of this lawsuit because it implicates her assistant
+making work calls for her, scheduling appointments for her and her representatives making
+“statements” in all manner of business capacities. Further, Ms. Maxwell objects to this
+Interrogatory to the extent it calls for information protected by the attorney/client, attorney work
+product and joint defense privileges. Without waiver of the foregoing objections, she responds
+as follows:
+Ms. Maxwell has no recollection of any non-privileged communication by which she specifically
+authorized any agent or entity to “make statements on her behalf in January of 2015” nor does
+she possess any documents beyond those already produced by which any such authorization may
+be ascertained.
+2. Identify any action that you took after Ross Gow issued the January 2015 statement
+regarding Ms. Giuffre to the public to retract or remediate the statement, clarify the
+statement, or otherwise cause a different message to enter the public domain.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory as vague and ambiguous, specifically by not defining
+what types or topics of “statements” are referred to. Further, Ms. Maxwell objects to this
+Interrogatory to the extent it calls for information protected by the attorney/client, attorney work
+product and joint defense privileges. Without waiver of the foregoing objections, she responds
+as follows:
+Ms. Maxwell does not recall any actions that she took to retract, remediate or clarify a
+communication Mr. Gow made to the British press in January 2015 regarding Plaintiff’s
+allegations nor upon the exercise of a reasonable inquiry has she located any actions that she
+took in that regard.
+3. Name every blog, television station, newspaper, or other media or public outlet that
+you are aware covered the January 2015 statement issued, either by quoting from the
+statement or by referring to or referencing the statement.
+ANSWER
+Ms. Maxwell objects to this Interrogatory as improper pursuant to Local Rule 33.3(a) and (b).
+The Interrogatory does not seek the names of any witnesses nor the custodian or location of any
+4
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 7 of 20
+documents. Moreover, Ms. Maxwell objects to this Interrogatory to the extent it calls for
+attorney work product and attorney client communications. The information sought is equally
+available to both parties within the public domain. Without waiver of the foregoing, Ms.
+Maxwell responds as follows:
+Ms. Maxwell is personally unaware of any particular coverage by any media regarding Mr.
+Gow’s communication to the British press. Any such articles or coverage of which she is aware
+have previously been produced in this action and are equally available to both parties in the
+public domain.
+4. Identify all legal actions you, or someone acting on your behalf, have initiated, since
+January 1, 2015, identifying the jurisdiction, the date of initiation of the action, and the
+subject matter of the action.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory as vague and ambiguous, specifically by failing to
+define “legal action.” Further, Ms. Maxwell objects to the extent the Interrogatory calls for
+attorney-client communications or attorney work product. Without waiver of the foregoing, Ms.
+Maxwell responds as follows:
+Ms. Maxwell has not filed any complaint in a court since January 1, 2015.
+5. Identify all payments made or things of value transferred to you by Jeffrey Epstein,
+directly or indirectly or through any entity or person affiliated with or controlled by
+Epstein, from 1992 through the present, and if loans, detailing the amount of the loans, the
+terms of the loans, the interest rate of the loans, and any payments made by you or on your
+behalf to repay such loans.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Ms. Maxwell’s personal financial information is not at issue in this
+matter and information relating thereto is irrelevant. This Interrogatory also violates Local Rule
+33.3(a) – (c) in that it does not seek the name of witnesses or the custodian and location of
+documents. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+From the time period of January 1, 2015 through the present, Ms. Maxwell has had no payments
+made or things of value transferred to her, including loans, by Jeffrey Epstein or any entity or
+person affiliated with or controlled by him.
+5
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 8 of 20
+6. Identify all loans issued to you by Jeffrey Epstein, directly or indirectly or through
+any entity or person affiliated with or controlled by Epstein, from 1992 through the
+present, detailing the amount of the loans, the terms of the loans, the interest rate of the
+loans, and any payments made by you or on your behalf to repay such loans.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Ms. Maxwell’s personal financial information is not at issue in this
+matter and information relating thereto is irrelevant. This Interrogatory also violates Local Rule
+33.3(a) – (c) in that it does not seek the name of witnesses or the custodian and location of
+documents. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+From the time period of January 1, 2015 through the present, Ms. Maxwell has had no loans
+issued to her by Jeffrey Epstein, either directly, indirectly or by any entity or person affiliated
+with or controlled by him.
+7. Identify any other employment you have held since 1999, how you were
+compensated, and how much you were compensated, broken down by job title, employer,
+and year.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Ms. Maxwell’s personal financial information is not at issue in this
+matter and information relating thereto is irrelevant. This Interrogatory also violates Local Rule
+33.3(a) – (c) in that it does not seek the name of witnesses or the custodian and location of
+documents. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+From January 1, 2015 to the present, Ms. Maxwell has not been employed as that term is
+commonly understood to mean a salaried position.
+6
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 9 of 20
+8. Identify all persons who gave a massage to Jeffrey Epstein with whom you had any
+involvement, either in meeting the person who gave a massage, finding the person who gave
+the massage, making a referral to the person who gave the massage, conversing with the
+person who gave the massage, staffing the person who gave the massage, or otherwise
+facilitating that person giving a massage to Jeffrey Epstein.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to the
+Interrogatory as vague and ambiguous given the definition of “massage” to include any person
+touching another person. Ms. Maxwell objects to this Interrogatory on the grounds that it is
+propounded for the improper purpose of annoying or harassing Ms. Maxwell. Finally, Ms.
+Maxwell objects to this Interrogatory to the extent it seeks information from a time period not
+relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+As she testified at her deposition, Ms. Maxwell on occasion met with adult, professional women
+and men who were employed at high-end spas or resorts and asked whether they made home
+visits for the purposes of massages. She does not recall the names of those persons who ended
+up making professional, adult home visit massages that occurred between the years 2000 and
+2002. Other deposition testimony in this case has included that of Johanna Sjoberg who stated
+that she had met with Ms. Maxwell and later had trained for and become a masseuse and
+provided professional massages to Mr. Epstein.
+9. Identify all efforts undertaken by you to ascertain the age and professional
+qualifications of any individual in your answer to Interrogatory number 9.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to the
+Interrogatory as vague and ambiguous given the definition of “massage” to include any person
+touching another person. Ms. Maxwell objects to this Interrogatory on the grounds that it is
+propounded for the improper purpose of annoying or harassing Ms. Maxwell. Further, Ms.
+Maxwell objects to this Interrogatory as a violation of Local Rule 33.3(a) – (b) as it seeks neither
+the names of witnesses nor the locations of documents and is more appropriately discovered
+through the deposition of Ms. Maxwell, during which time she already answered questions on
+this topic. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+7
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 10 of 20
+As she testified at her deposition, Ms. Maxwell has contacted a number of professional
+masseuses from spas in various locations, including New York, Palm Beach, and the U.S. Virgin
+Islands, to provide professional, adult massages to be given to Jeffrey Epstein. Ms. Maxwell
+relied on and expected those various high-end registered and licensed spas to hire professional
+accredited massage therapists and to check the credentials, including the age and professional
+qualifications, of their employees.
+10. Have you ever recruited, found, hired, approached, introduced, procured, or
+otherwise obtained, for the purposes of Jeffrey Epstein employing, any female who was not
+at the time a certified or licensed massage therapist for the purpose of having that female
+perform a massage on Jeffrey Epstein. If yes, please identify the name of each such female,
+the last known address and phone number, and a description of the circumstances
+surrounding that female meeting with your (sic) or Jeffrey Epstein.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to the
+Interrogatory as vague and ambiguous given the definition of “massage” to include any person
+touching another person. Ms. Maxwell objects to this Interrogatory on the grounds that it is
+propounded for the improper purpose of annoying or harassing Ms. Maxwell. Further, Ms.
+Maxwell objects to this Interrogatory as a violation of Local Rule 33.3(a) – (b) as it seeks neither
+the names of witnesses nor the locations of documents and is more appropriately discovered
+through the deposition of Ms. Maxwell, during which time she already answered questions on
+this topic. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Not to her knowledge.
+11. Have you ever recruited, found, hired, introduced, approached, or encouraged any
+female, and told that female to meet with, or show themselves to, Jeffrey Epstein because
+he was associated in some way with Victoria’s Secret. For each such female, please list her
+name, address, telephone number, as well as a description of the circumstances
+surrounding that female’s encounter with your or Jeffrey Epstein.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Further, Ms. Maxwell objects to this Interrogatory as a violation of
+Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses nor the locations of
+8
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 11 of 20
+documents and is more appropriately discovered through the deposition of Ms. Maxwell, during
+which time she already answered questions on this topic. Finally, Ms. Maxwell objects to this
+Interrogatory to the extent it seeks information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Not to her knowledge.
+12. Identify your basis for your contention that Plaintiff’s claims are barred by the
+United Kingdom’s Defamation Act of 2013.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+The January 2, 2015, communication by Ross Gow to members of the British media did not, nor
+was it likely to, cause serious harm to the reputation of Plaintiff. The imputation conveyed by
+the communication is substantially true. Substantial portions of the communication conveyed
+honest opinion. The communication was privileged as a matter of public interest. The
+communication is barred by the single publication rule because Mr. Gow previously issued a
+communication that was substantially the same as the January 2, 2015 communication, issued by
+materially the same manner of publication, and Plaintiff and her counsel did not deny or timely
+take action with respect to the previous communication.
+13. Identify the basis, including all underlying facts, for your contention that Plaintiff’s
+claims are barred because the statements made by Ms. Maxwell or her agent were
+protected by the self-defense privilege.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+9
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 12 of 20
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+The self-defense privilege as it applies to Mr. Gow’s January 2, 2015 communication to
+members of the British press are spelled out in detail in the Memorandum of Law In Support of
+Defendant’s Motion to Dismiss at page 8-13.
+14. Identify the basis, including all underlying facts, for your contention that Plaintiff is
+a public figure and unable to prove Ms. Maxwell exhibited actual malice.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Plaintiff sought public attention to her fabricated story concerning Ms. Maxwell and others. To
+wit, Plaintiff was paid more than $100,000 for her false story to the Daily Mail as well as the sale
+of a photograph purporting to be of herself and Prince Andrew. Plaintiff then further sought
+public attention to her story through (a) an interview with Bradley Edwards and Jack Scarola, (b)
+through contact with various literary agents, ghost-writers and news outlets, and (c) through a
+carefully orchestrated scheme to publish her false claims in a public pleading in the U.S. District
+Court for the Southern District of Florida, as well as media interviews and other contacts
+including ABC News, Sharon Churcher, and her purported work on behalf of Victims Refuse
+Silence.
+With regard to Maxwell’s absence of actual malice, any statements attributed to her regarding
+Ms. Roberts were limited in scope, directly targeted to Plaintiff’s mis-statements of fact without
+any further comment regarding the many character and truthfulness shortcomings of Plaintiff,
+and were directed to the media outlets who continued to publish Plaintiff’s lies. Ms. Maxwell
+decided against making any further statements regarding Plaintiff and her many lies in order to
+minimize public attention to Plaintiff’s false claims, despite the many opportunities to provide
+additional truthful comment and color, as demonstrated by her email communications provided
+in discovery.
+10
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 13 of 20
+15. Identify the basis, including all underlying facts, for your contention that Plaintiff’s
+claims are barred because the statements made by Ms. Maxwell or her agent constituted
+“fair comment.”
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Ms. Maxwell retains her First Amendment privilege to express her opinion, to criticize others
+including Plaintiff, and to comment on matters of public interest, including Plaintiff’s allegations
+of being a sex slave or being sexually trafficked. Mr. Gow’s communication to members of the
+British media constituted expressions of opinion regarding Plaintiff and her public claims.
+16. Identify the basis, including all underlying facts, for your contention that Ms.
+Maxwell or her agent did not cause or contribute to any damages suffered by Plaintiff?
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Mr. Gow’s communication to the British media in January 2015 did not cause or contribute to
+any damages Plaintiff suffered because, inter alia, Plaintiff was widely reputed prior to any such
+communication to be a liar, a person who falsifies claims of sexual assault, and a sexually
+permissive woman, because Plaintiff already had substantial mental and medical conditions that
+pre-existed any statement issued, and because Plaintiff’s damages, if any, were occasioned by
+her own wide-spread dissemination of her own false and defamatory statements. Without the
+steps that Plaintiff took to publish her fabricated and falsified history, she would not have
+suffered any reputational harm.
+11
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 14 of 20
+17. Identify the basis, including all underlying facts, for your contention that Plaintiff
+failed to take reasonable, necessary, appropriate and feasible steps to mitigate her alleged
+damages.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Plaintiff was advised by her own physician in Australia to engage in psychotherapy but has
+refused to do so. Plaintiff was advised to cease taking valium but has refused to do so. Plaintiff
+was advised by a court to stay away from her abusive husband but has refused to do so.
+Further, Plaintiff had the opportunity to truthfully tell her actual history on a number of
+occasions, including during her interviews with ABC, with other media outlets, with book
+authors and journalists, but chose not to tell her true story, instead telling falsehoods and
+fabricated and mistaken events, dates and participants.
+18. Identify the basis, including all underlying facts, for your contention that Plaintiff’s
+damages are the proximate result of intervening causes, pre-existing medical and mental
+conditions of Plaintiff, and/or causes that occurred without knowledge or participation of
+Ms. Maxwell and for which Ms. Maxwell is not responsible.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Plaintiff’s records disclose that she (allegedly) had been sexually assaulted as a child by a family
+friend, that she had been held as a sexual slave in captivity as a young teenager, that she had
+been sexually assaulted by teens when she was 14 in the back of a house, that she had been
+12
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 15 of 20
+sexually assaulted as a 14 year old by two young men in the “Woodsies,” that she had suffered at
+a since-closed drug rehabilitation facility at the hands of “guards,” that she suffered from
+“anxiety,” depression and suicidal ideation from at least 1998 before meeting Ms. Maxwell, that
+she has experienced marital discord, that she suffered from parental and familial alienation, that
+she has been beaten, choked and strangled by her husband on more than one occasion, that she
+has suffered from pre-existing and post-existing drug addictions, alcohol abuse and prescription
+medication addiction and abuse, that she has suffered many of the ill-effects of an impoverished
+childhood, and that she suffers from certain limitations of mental faculty.
+19. Identify the basis, including all underlying facts, for your contention that Plaintiff’s
+damages were the result of her own conduct or the conduct of others and were not
+proximately caused by any action of Ms. Maxwell.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory to the extent it calls for attorney-client communications and attorney work product.
+This Interrogatory is premature and violates Local Rule 33.3(c) because discovery is ongoing in
+this case, not complete, and it is more than thirty days from the conclusion of discovery. See,
+e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3
+(S.D.N.Y. Mar. 22, 2001) (Sweet, J).
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Plaintiff’s records disclose that she (allegedly) had been sexually assaulted as a child by a family
+friend, that she had been held as a sexual slave in captivity as a young teenager, that she had
+been sexually assaulted by teens when she was 14 in the back of a house, that she had been
+sexually assaulted as a 14 year old by two young men in the “Woodsies,” that she had suffered at
+a since-closed drug rehabilitation facility at the hands of “guards,” that she suffered from
+“anxiety,” depression and suicidal ideation from at least 1998 before meeting Ms. Maxwell, that
+she has experienced marital discord, that she suffered from parental and familial alienation, that
+she has been beaten, choked and strangled by her husband on more than one occasion, that she
+has suffered from pre-existing and post-existing drug addictions, alcohol abuse and prescription
+medication addiction and abuse, that she has suffered many of the ill-effects of an impoverished
+childhood, and that she suffers from certain limitations of mental faculty.
+Plaintiff was advised by her own physician in Australia to engage in psychotherapy but has
+refused to do so. Plaintiff was advised to cease taking valium but has refused to do so. Plaintiff
+was advised by a court to stay away from her abusive husband but has refused to do so.
+Further, Plaintiff had the opportunity to truthfully tell her actual history on a number of
+occasions, including during her interviews with ABC, with other media outlets, with book
+authors and journalists, but chose not to tell her true story, instead telling falsehoods and
+fabricated and mistaken events, dates and participants.
+13
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 16 of 20
+20. Identify all reasons why you failed to appear for a deposition scheduled in about
+2009 to 2010 in a sexual assault civil suit filed against Jeffrey Epstein.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Further, Ms. Maxwell objects to this Interrogatory as a violation of
+Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses nor the locations of
+documents and is more appropriately discovered through the deposition of Ms. Maxwell, during
+which time she already answered questions on this topic. Finally, Ms. Maxwell objects to this
+Interrogatory to the extent it seeks information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Ms. Maxwell did not fail to appear for a scheduled deposition in 2009 or 2010. At the only
+scheduled deposition date, December 9, 2009, Mr. Edwards failed to appear and failed to
+communicate with Ms. Maxwell’s counsel following the November 9, 2009 involuntary
+bankruptcy of his law firm occasioned by the arrest (and subsequent imprisonment) of his law
+partner. Thereafter, including during 2010, the parties never agreed to a particular deposition
+date.
+21. Identify all communications you have had with Jeffrey Epstein since January 1,
+2015, and the substance of those communications.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Further, Ms. Maxwell objects to this Interrogatory as a violation of
+Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses nor the locations of
+documents and is more appropriately discovered through the deposition of Ms. Maxwell, during
+which time she already answered questions on this topic. The Court has limited discovery of
+communications between 2002 to the present with Mr. Epstein to those related to the sexual
+trafficking of women. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks
+information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Ms. Maxwell already produced any written communications with Mr. Epstein that were
+responsive to the Interrogatory for the same, as limited by the Court to (a) all communications
+from January 2015 and (b) all documents related to sex trafficking.
+14
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 17 of 20
+22. Identify all flights you have taken on aircraft on which Ms. Giuffre was also a
+passenger.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Further, Ms. Maxwell objects to this Interrogatory as a violation of
+Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses nor the locations of
+documents and is more appropriately discovered through the deposition of Ms. Maxwell, during
+which time she already answered questions on this topic. Finally, Ms. Maxwell objects to this
+Interrogatory to the extent it seeks information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+As she testified during her deposition, Ms. Maxwell has no recollection of ever having been on a
+flight on which Ms. Giuffre was a passenger. Ms. Maxwell does not possess any other records
+which might refresh her recollection with respect to any such flights.
+23. Identify all occasions on which you either observed Ms. Giuffre massaging Jeffrey
+Epstein or understood that she was massaging Jeffrey Epstein.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to the
+Interrogatory as vague and ambiguous given the definition of “massage” to include any person
+touching another person. Ms. Maxwell objects to this Interrogatory on the grounds that it is
+propounded for the improper purpose of annoying or harassing Ms. Maxwell. Further, Ms.
+Maxwell objects to this Interrogatory as a violation of Local Rule 33.3(a) – (b) as it seeks neither
+the names of witnesses nor the locations of documents and is more appropriately discovered
+through the deposition of Ms. Maxwell, during which time she already answered questions on
+this topic. Finally, Ms. Maxwell objects to this Interrogatory to the extent it seeks information
+from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Ms. Maxwell, as she has already testified, has no specific recollection of ever seeing Plaintiff
+massage Mr. Epstein or having any understanding that Plaintiff was massaging Mr. Epstein on
+any specific occasion, nor does she possess any records which would permit her to identify any
+such occasion.
+15
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 18 of 20
+24. Identify all persons or other sources of information who have told you or that
+suggested that Epstein had sexual interactions with persons under the age of 18.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to the
+Interrogatory as vague and ambiguous given the absence of definition of “sexual interactions.”
+Ms. Maxwell objects to this Interrogatory on the grounds that it is propounded for the improper
+purpose of annoying or harassing Ms. Maxwell. Further, Ms. Maxwell objects to this
+Interrogatory as a violation of Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses
+nor the locations of documents and is more appropriately discovered through the deposition of
+Ms. Maxwell, during which time she already answered questions on this topic. Ms. Maxwell
+objects to this Interrogatory to the extent it calls for information protected by the attorney/client,
+attorney work product and joint defense privileges. Finally, Ms. Maxwell objects to this
+Interrogatory to the extent it seeks information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+Ms. Maxwell knows of no person who has communicated to her directly any information
+concerning sexual interactions between Mr. Epstein and a person under the age of 18.
+25. Identify all girls under the age of 18 with whom you have interacted at one of
+Epstein’s properties, including his Palm Beach mansion or his New York City mansion.
+ANSWER:
+Ms. Maxwell objects to this Interrogatory on the grounds that it is overly broad and unduly
+burdensome and calls for information that is irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. Ms. Maxwell objects to this
+Interrogatory on the grounds that it is propounded for the improper purpose of annoying or
+harassing Ms. Maxwell. Further, Ms. Maxwell objects to this Interrogatory as a violation of
+Local Rule 33.3(a) – (b) as it seeks neither the names of witnesses nor the locations of
+documents and is more appropriately discovered through the deposition of Ms. Maxwell, during
+which time she already answered questions on this topic. Finally, Ms. Maxwell objects to this
+Interrogatory to the extent it seeks information from a time period not relevant to this action.
+Without waiver of the foregoing, Ms. Maxwell responds as follows:
+As described during her deposition, the only females with whom Ms. Maxwell interacted at any
+of Epstein’s properties knowing that they were under the age of 18 were either members of her
+own extended family or the minor children of her or Mr. Epstein’s friends, and any such
+interactions did not involve anything sexual or inappropriate by herself or anyone else to Ms.
+Maxwell’s knowledge. Based on their own privacy rights, Ms. Maxwell is not identifying these
+family members or children of her or Mr. Epstein’s friends.
+16
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 19 of 20
+Dated: June 29, 2016
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+17
+Case 1:15-cv-07433-LAP Document 1325-19 Filed 01/04/24 Page 20 of 20
+CERTIFICATE OF SERVICE
+I certify that on June 29, 2016, I electronically served this Defendant’s Response to
+Plaintiff’s First Set of Interrogatories via Electronic Mail on the following:
+Sigrid S. McCawley Paul G. Cassell
+Meredith Schultz 383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+18

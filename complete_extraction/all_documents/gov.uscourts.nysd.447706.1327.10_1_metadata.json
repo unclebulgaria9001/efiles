@@ -1,0 +1,91 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.10_1",
+  "filename": "gov.uscourts.nysd.447706.1327.10_1.pdf",
+  "extraction_date": "2025-11-17T10:19:21.837393",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 20895,
+  "images_extracted": 0,
+  "dates_found": 23,
+  "people_found": 23,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 152
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 931
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1925
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2929
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3764
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4764
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5780
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6733
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7767
+    }
+  ],
+  "people": [
+    "Continued Videotaped Deposition",
+    "Mr Epstein",
+    "Judge Sweet",
+    "Virgin Islands",
+    "Tony Figueroa",
+    "File Under Seal",
+    "Confidential\nPage",
+    "Lexington Avenue",
+    "Maria Farmer",
+    "Carolyn Andriamo",
+    "Virginia Roberts",
+    "Notary Public",
+    "Les\nRegistered Professional",
+    "Les Wexner",
+    "Americas\nNew York",
+    "Did Mr",
+    "Leslie Fagin",
+    "Case No",
+    "New\nYork",
+    "Court Reporter"
+  ],
+  "locations": [
+    "New York",
+    "Palm Beach",
+    "Virgin Islands"
+  ],
+  "images": []
+}

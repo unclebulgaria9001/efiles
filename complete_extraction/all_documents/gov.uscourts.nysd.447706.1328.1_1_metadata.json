@@ -1,0 +1,88 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.1_1",
+  "filename": "gov.uscourts.nysd.447706.1328.1_1.pdf",
+  "extraction_date": "2025-11-17T10:19:10.527986",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 3722,
+  "images_extracted": 0,
+  "dates_found": 11,
+  "people_found": 29,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0052"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 1372
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1438
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2851
+    },
+    {
+      "date_string": "April 22, 2016",
+      "position": 1552
+    },
+    {
+      "date_string": "July 22,\n2016",
+      "position": 1735
+    },
+    {
+      "date_string": "August 8, 2016",
+      "position": 2741
+    },
+    {
+      "date_string": "August 8, 2016",
+      "position": 2913
+    },
+    {
+      "date_string": "April 22, 2016",
+      "position": 1552
+    },
+    {
+      "date_string": "July 22,\n2016",
+      "position": 1735
+    },
+    {
+      "date_string": "August 8, 2016",
+      "position": 2741
+    }
+  ],
+  "people": [
+    "Filed Under Seal",
+    "Pagliuca In Support",
+    "Pagliuca\nJeffrey",
+    "Declaration Of Jeffrey",
+    "Johanna Sjoberg",
+    "Defendant Ghislaine Maxwell",
+    "Tony Figueroa",
+    "University Street",
+    "Ghislaine Maxwell",
+    "Detective Joseph Recarey",
+    "Nicole Simmons\nNicole",
+    "Rinaldo Rizzo",
+    "Stanley Pottinger\nBradley",
+    "Response In Opposition",
+    "Cassell\nMeredith Schultz",
+    "Protective Order",
+    "United States District",
+    "Virginia Giuffre",
+    "Juan Alessi",
+    "Salt Lake City"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

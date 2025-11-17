@@ -1,0 +1,117 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.3_2",
+  "filename": "gov.uscourts.nysd.447706.1330.3_2.pdf",
+  "extraction_date": "2025-11-17T10:19:55.970538",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log"
+  ],
+  "text_length": 34805,
+  "images_extracted": 0,
+  "dates_found": 109,
+  "people_found": 216,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt",
+      "email_id": "0001"
+    },
+    {
+      "email_file": "0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0006"
+    },
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0017_01_04_24_From-Unknown_To-Unknown_11.txt",
+      "email_id": "0017"
+    },
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    },
+    {
+      "email_file": "0027_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0027"
+    },
+    {
+      "email_file": "0064_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0064"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 121
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1207
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2573
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3718
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5268
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6589
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7952
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9380
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10544
+    }
+  ],
+  "people": [
+    "Address Unknown\nTelephone",
+    "Haley Robson\nAddress",
+    "William Jefferson Clinton",
+    "Aviation Insurance Agent",
+    "Brahakmana Mellawa\nAddress",
+    "Corrected Joinder Motion",
+    "Rosalie Friedman\nTelephone",
+    "Adam Perry Lang",
+    "Lexington Avenue",
+    "Cindy Lopez\nAddress",
+    "Sophie Biddle\nMay",
+    "Andrea Mitrov",
+    "Federal Bureau",
+    "Face\nQueen",
+    "Red Ice Creations",
+    "Johanna Sjobjerg",
+    "Black Book",
+    "Doug Wilson\nFamily",
+    "Juan Alessi\nTelephone",
+    "Court\nSouthern District"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "London"
+  ],
+  "images": []
+}

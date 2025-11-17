@@ -1,0 +1,766 @@
+# Document: gov.uscourts.nysd.447706.1328.28.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 33
+# People Found: 62
+# Locations Found: 2
+# Linked Emails: 3
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 1 of 24
+EXHIBIT 9
+(Filed Under Seal)
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 2 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Pem1it Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+Southern District of New York
+Virginia L. Giuffre
+)
+Plaintiff )
+V. ) Civil Action No. 15-cv-07 433-RWS
+Ghislaine Maxwell )
+)
+Defendant )
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION
+To: Ellmax, LLC c/o Registered Agent
+CT Corporation System, 1200 S Pine Island Road, Plantation, Florida 33324-4413
+(Name ofp erson to whom this subpoena is directed)
+~ Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material: See Schedule A (attached).
+Place: Boies, Schiller & Flexner LLP Date and Time:
+401 East Las Olas Boulevard, Suite 1200
+06/27/2016 5:00 pm
+Fort Lauderdale, FL 33301 (954) 356-0011
+0 Inspection of Premises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+I I
+Place: Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached - Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date: 06/15/2016
+CLERK OF COURT
+OR
+Signature ofC lerk or Deputy Clerk
+The name, address, e-mail address, and telephone number of the attorney representing (name ofp arty) Virginia Giuffre
+, who issues or requests this subpoena, are:
+----- ----------- -----------
+Sigrid Mccawley Boies, Schiller & Flexner LLP 401 E. Las Olas Blvd. #1200, Ft. Lauderdale, FL 33301; 954-356-0011
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4 ).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 3 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Jnformation, or Objects or to Penni! Inspection of Premises in a Civil Action (Page 2)
+Civil Action No. 15-cv-07433-RWS
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+0 I served the subpoena by delivering a copy to the named person as follows:
+011 (date) ; or
+0 I returned the subpoena unexecuted because:
+Unless the subpoena was issued on behalf of the United States, or one of its officers or agents, I have also
+tendered to the witness the fees for one day's attendance, and the mileage allowed by law, in the amount of
+$
+My fees are$ for travel and $ for services, for a total of $ 0.00
+I declare under penalty of perjury that this information is true.
+Date:
+Server's signature
+Printed name and title
+Sen1er 's address
+Additional information regarding attempted service, etc.:
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 4 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance. (ii) disclosing an umetained expert's opinion or information that does
+not describe specific occurrences in dispute and results from the expert's
+(1) For a Trial, Hearing, or Deposition. A subpoena may command a study that was not requested by a party.
+person to attend a trial, hearing, or deposition only as follows: (C) Specifying Conditions as an Alternative. In the circumstances
+(A) within 100 miles of where the person resides, is employed, or described in Rule 45(d)(3)(B), the court may, instead of quashing or
+regularly transacts business in person; or modifying a subpoena, order appearance or production under specified
+(B) within the state where the person resides, is employed, or regularly conditions if the serving party:
+transacts business in person, if the person (i) shows a substantial need for the testimony or material that cannot be
+(i) is a party or a party's officer; or otherwise met without undue hardship; and
+(ii) is commanded to attend a trial and would not incur s11bstantial (ii) ensures that the subpoenaed person will be reasonably compensated.
+expense.
+(e) Duties in Responding to a Subpoena.
+(2) For Other Discovery. A subpoena may command:
+(A) production of documents, electronically stored information, or (l) Producing Documents or Electronically Stored Information. These
+tangible things at a place within 100 miles of where the person resides, is procedures apply to producing documents or electronically stored
+employed, or regularly transacts business in person; and infonnation:
+(B) inspection of premises at the premises to be inspected. (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+(d) Protecting a Person Subject to a Subpoena; Enforcement. must organize and label them to correspond to the categories in the demand.
+(B) Form for Producing Electronically Stored Information Not Specified
+(1) A voiding Undue Burden or Expense; Sanctions. A party or attorney If a subpoena does not specify a form for producing electronically stored
+responsible for issuing and serving a subpoena must talce reasonable steps information, the person responding must produce it in a form or fonns in
+to avoid imposing undue burden or expense on a person subject to the which it is ordinarily maintained or in a reasonably usable fmm or forms.
+subpoena. The court for the district where compliance is required must (C) Electronically Stored Information Produced in Only One Form. The
+enforce this duty and impose an appropriate sanction-which may include person responding need not produce the same electronically stored
+lost earnings and reasonable attorney's fees---0n a party or attorney who information in more than one form.
+fails to comply. (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored information
+(2) Command to Produce Materials or Permit ln5pection. from sources that the person identifies as not reasonably accessible because
+(A) Appearance Not Required. A person commanded to produce of undue burden or cost. On motion to compel discovery or for a protective
+documents, electronically stored infonnation, or tangible things, or to order, the person responding must show that the information is not
+permit the inspection of premises, need not appear in person at the place of reasonably accessible because of undue burden or cost. If that showing is
+production or inspection unless also commanded to appear for a deposition, made, the court may nonetheless order discovery from such sources if the
+hearing, or trial. requesting party shows good cause, considering the limitations of Rule
+(B) Objections. A person commanded to produce documents or tangible 26(b )(2)(C). The court may specify conditions for the discovery.
+things or to permit inspection may serve on the party or attorney designated
+in the subpoena a written objection to inspecting, copying, testing, or (2) Claiming Privilege or Protection.
+sampling any or all of the materials or to inspecting the premises---0r to (A) Information Withheld. A person withholding subpoenaed inforn1ation
+producing electronically stored info1mation in the form or fonns requested. under a claim that it is privileged or subject to protection as trial-preparation
+The objection must be served before the earlier of the time specified for material must:
+compliance or 14 days after the subpoena is served. Ifan objection is made, (i) expressly make the claim; and
+the following rules apply: (ii) describe the nature of the withheld documents, communications, or
+(i) At any time, on notice to the commanded person, the serving party tangible things in a manner that, without revealing information itself
+may move the court for the district where compliance is required for an privileged or protected, will enable the parties to assess the claim.
+order compelling production or inspection. (B) Information Produced. If information produced in response to a
+(ii) These acts may be required only as directed in the order, and the subpoena is subject to a claim of privilege or of protection as
+order must protect a person who is neither a party nor a party's officer from trial-preparation material, the person malcing the claim may notify any party
+significant expense resulting from compliance. that received the infonnation of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+(3) Quashing or Modifying a Subpoena. infonnation and any copies it has; must not use or disclose the information
+(A) When Required. On timely motion, the court for the district where until the claim is resolved; must talce reasonable steps to retrieve the
+compliance is required must quash or modify a subpoena that: information if the paity disclosed it before being notified; and may promptly
+(i) fails to allow a reasonable time to comply; present the information under seal to the court for the district where
+(ii) requires a person to comply beyond the geographical limits compliance is required for a determination of the claim. The person who
+specified in Rule 45( c) ; produced the information must preserve the information until the claim is
+(iii) requires disclosure of privileged or other protected matter, ifno resolved.
+exception or waiver applies; or
+(iv) subjects a person to undue burden. (g) Contempt.
+(B) When Permitted. To protect a person subject to or affected by a The court for the district where compliance is required-and also, after a
+subpoena, the court for the district where compliance is required may, on motion is transferred, the issuing court-may hold in contempt a person
+motion, quash or modify the subpoena ifit requires: who, having been served, fails without adequate excuse to obey the
+(i) disclosing a trade secret or other confidential research, subpoena or an order related to it.
+development, or commercial information; or
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 5 of 24
+To: Ellmax, LLC
+EXHIBIT A
+DEFINITIONS
+Wherever they hereafter appear the following words and phrases have the following
+meanings:
+1. “Plaintiff” in the above captioned action shall mean the plaintiff Virginia Giuffre
+formerly known as Virginia Roberts.
+2. “Defendant” in the above captioned action shall mean the defendant Ghislaine
+Maxwell and her employees, representatives or agents.
+3. “Agent” shall mean any agent, employee, officer, director, attorney, independent
+contractor or any other person acting, or purporting to act, at the discretion of or on behalf of
+another.
+4. “Correspondence” or “communication” shall mean all written or verbal
+communications, by any and all methods, including without limitation, letters, memoranda,
+and/or electronic mail, by which information, in whatever form, is stored, transmitted or
+received; and, includes every manner or means of disclosure, transfer or exchange, and every
+disclosure, transfer or exchange of information whether orally or by document or otherwise,
+face-to-face, by telephone, telecopies, e-mail, text, modem transmission, computer generated
+message, mail, personal delivery or otherwise.
+5. “Document” shall mean all written and graphic matter, however produced or
+reproduced, and each and every thing from which information can be processed, transcribed,
+transmitted, restored, recorded, or memorialized in any way, by any means, regardless of
+technology or form. It includes, without limitation, correspondence, memoranda, notes,
+notations, diaries, papers, books, accounts, newspaper and magazine articles, advertisements,
+1
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 6 of 24
+photographs, videos, notebooks, ledgers, letters, telegrams, cables, telex messages, facsimiles,
+contracts, offers, agreements, reports, objects, tangible things, work papers, transcripts, minutes,
+reports and recordings of telephone or other conversations or communications, or of interviews
+or conferences, or of other meetings, occurrences or transactions, affidavits, statements,
+summaries, opinions, tests, experiments, analysis, evaluations, journals, balance sheets, income
+statements, statistical records, desk calendars, appointment books, lists, tabulations, sound
+recordings, data processing input or output, microfilms, checks, statements, receipts, summaries,
+computer printouts, computer programs, text messages, e-mails, information kept in computer
+hard drives, other computer drives of any kind, computer tape back-up, CD-ROM, other
+computer disks of any kind, teletypes, telecopies, invoices, worksheets, printed matter of every
+kind and description, graphic and oral records and representations of any kind, and electronic
+“writings” and “recordings” as set forth in the Federal Rules of Evidence, including but not
+limited to, originals or copies where originals are not available. Any document with any marks
+such as initials, comments or notations of any kind of not deemed to be identical with one
+without such marks and is produced as a separate document. Where there is any question about
+whether a tangible item otherwise described in these requests falls within the definition of
+“document” such tangible item shall be produced.
+6. “Employee” includes a past or present officer, director, agent or servant, including
+any attorney (associate or partner) or paralegal.
+7. “Including” means including without limitations.
+8. “Jeffrey Epstein” includes Jeffrey Epstein and any entities owned or controlled by
+Jeffrey Epstein, any employee, agent, attorney, consultant, or representative of Jeffrey Epstein.
+9. “You” or “Your” hereinafter means Ellmax, LLC and any employee, agent,
+attorney, consultant, related entities or other representative of Ellmax, LLC.
+2
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 7 of 24
+INSTRUCTIONS
+1. Production of documents and items requested herein shall be made at the offices
+of Boies Schiller & Flexner, LLP, 401 E. Las Olas Boulevard, Suite 1200, Fort Lauderdale,
+Florida 33301, no later than five (5) days before the date noticed for your deposition, or, if an
+alternate date is agreed upon, no later than five (5) days before the agreed-upon date.
+2. Unless indicated otherwise, the Relevant Period for this Request is from 1996 to
+the present. A Document should be considered to be within the relevant time frame if it refers or
+relates to communications, meetings or other events or documents that occurred or were created
+within that time frame, regardless of the date of creation of the responsive Document.
+3. This Request calls for the production of all responsive Documents in your
+possession, custody or control without regard to the physical location of such documents.
+4. If any Document requested was in your possession or control, but is no longer in
+its possession or control, state what disposition was made of said Document, the reason for such
+disposition, and the date of such disposition.
+5. For the purposes of reading, interpreting, or construing the scope of these
+requests, the terms used shall be given their most expansive and inclusive interpretation. This
+includes, without limitation the following:
+a) Wherever appropriate herein, the singular form of a word shall be
+interpreted as plural and vice versa.
+b) “And” as well as “or” shall be construed either disjunctively or
+conjunctively as necessary to bring within the scope hereof any
+information (as defined herein) which might otherwise be construed to be
+outside the scope of this discovery request.
+c) “Any” shall be understood to include and encompass “all” and vice versa.
+d) Wherever appropriate herein, the masculine form of a word shall be
+interpreted as feminine and vice versa.
+e) “Including” shall mean “including without limitation.”
+3
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 8 of 24
+6. If you are unable to answer or respond fully to any document request, answer or
+respond to the extent possible and specify the reasons for your inability to answer or respond in
+full. If the recipient has no documents responsive to a particular Request, the recipient shall so
+state.
+7. Unless instructed otherwise, each Request shall be construed independently and
+not by reference to any other Request for the purpose of limitation.
+8. The words “relate,” “relating,” “relates,” or any other derivative thereof, as used
+herein includes concerning, referring to, responding to, relating to, pertaining to, connected with,
+comprising, memorializing, evidencing, commenting on, regarding, discussing, showing,
+describing, reflecting, analyzing or constituting.
+9. “Identify” means, with respect to any “person,” or any reference to the “identity”
+of any “person,” to provide the name, home address, telephone number, business name, business
+address, business telephone number and a description of each such person’s connection with the
+events in question.
+10. “Identify” means, with respect to any “document,” or any reference to stating the
+“identification” of any “document,” provide the title and date of each such document, the name
+and address of the party or parties responsible for the preparation of each such document, the
+name and address of the party who requested or required the preparation and on whose behalf it
+was prepared, the name and address of the recipient or recipients to each such document and the
+present location of any and all copies of each such document, and the names and addresses of all
+persons who have custody or control of each such document or copies thereof.
+11. In producing Documents, if the original of any Document cannot be located, a
+copy shall be produced in lieu thereof, and shall be legible and bound or stapled in the same
+manner as the original.
+4
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 9 of 24
+12. Any copy of a Document that is not identical shall be considered a separate
+document.
+13. If any requested Document cannot be produced in full, produce the Document to
+the extent possible, specifying each reason for your inability to produce the remainder of the
+Document stating whatever information, knowledge or belief which you have concerning the
+portion not produced.
+14. If any Document requested was at any one time in existence but are no longer in
+existence, then so state, specifying for each Document (a) the type of document; (b) the types of
+information contained thereon; (c) the date upon which it ceased to exist; (d) the circumstances
+under which it ceased to exist; (e) the identity of all person having knowledge of the
+circumstances under which it ceased to exist; and (f) the identity of all persons having
+knowledge or who had knowledge of the contents thereof and each individual’s address.
+15. All Documents shall be produced in the same order as they are kept or maintained
+by you in the ordinary course of business.
+16. You are requested to produce all drafts and notes, whether typed, handwritten or
+otherwise, made or prepared in connection with the requested Documents, whether or not used.
+17. Documents attached to each other shall not be separated.
+18. Documents shall be produced in such fashion as to identify the department,
+branch or office in whose possession they were located and, where applicable, the natural person
+in whose possession they were found, and business address of each Document’s custodian(s).
+19. If any Document responsive to the request is withheld, in all or part, based upon
+any claim of privilege or protection, whether based on statute or otherwise, state separately for
+each Document, in addition to any other information requested: (a) the specific request which
+calls for the production; (b) the nature of the privilege claimed; (c) its date; (d) the name and
+5
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 10 of 24
+address of each author; (e) the name and address of each of the addresses and/or individual to
+whom the Document was distributed, if any; (f) the title (or position) of its author; (g) type of
+tangible object, e.g., letter, memorandum, telegram, chart, report, recording, disk, etc.; (h) its title
+and subject matter (without revealing the information as to which the privilege is claimed); (i)
+with sufficient specificity to permit the Court to make full determination as to whether the claim
+of privilege is valid, each and every fact or basis on which you claim such privilege; and (j)
+whether the document contained an attachment and to the extent you are claiming a privilege as
+to the attachment, a separate log entry addressing that privilege claim.
+20. If any Document requested herein is withheld, in all or part, based on a claim that
+such Document constitutes attorney work product, provide all of the information described in
+Instruction No. 19 and also identify the litigation in connection with which the Document and the
+information it contains was obtained and/or prepared.
+21. Plaintiff does not seek and does not require the production of multiple copies of
+identical Documents.
+22. This Request is deemed to be continuing. If, after producing these Documents,
+you obtain or become aware of any further information, Documents, things, or information
+responsive to this Request, you are required to so state by supplementing your responses and
+producing such additional Documents to Plaintiff.
+6
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 11 of 24
+DOCUMENTS TO BE PRODUCED PURSUANT TO THIS SUBPOENA
+1. All email from your server containing the term “Epstein.”
+2. All documents containing the term “Epstein.”
+3. All records of donations made by Jeffrey Epstein or related entities.
+4. All email from your server containing the term “Giuffre.”
+5. All documents containing the term “Giuffre.”
+6. All email from your server containing the term “Virginia.”
+7. All documents containing the term “Virginia.”
+8. All email from your server containing the term “vr” or “VR.”
+9. All documents containing the term “vr” or “VR.”
+10. All email from your server containing the term “Dershowitz” or “dershowitz.”
+11. All documents containing the term “Dershowitz” or “dershowitz.”
+12. All email from your server containing the term “jeevacation.”
+13. All documents containing the term “jeevacation.”
+14. All email from your server, and all other documents, relating to sex abuse.
+15. All email from your server, and all other documents, relating to trafficking of any
+females.
+16. All emails and all documents reflecting any placements of employees You have
+made with Jeffrey Epstein or related entities.
+17. All emails and all documents reflecting any contracts You have concerning
+Jeffrey Epstein or related entities.
+7
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 12 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+Southern District of New York
+Virginia L. Giuffre
+)
+Plaintiff )
+V. ) Civil Action No. 15-cv-07 433-RWS
+Ghislaine Maxwell )
+)
+Defendant )
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION
+To: TerraMar Project, Inc. c/o Registered Agent
+National Corporate Research, Ltd.; 1025 Vermont Avenue, NW, Suite 1130, Washington, DC 20005-3516
+(Name ofp erson to whom this subpoena is directed)
+~ Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material: See Schedule A (attached).
+Place: Boies, Schiller & Flexner LLP Date and Time:
+5301 Wisconsin Avenue NW
+06/27/2016 5:00 pm
+Washington, DC 20015 (954) 356-0011
+0 Inspection ofP remises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+I Place: I Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached - Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date: 06/16/2016
+CLERK OF COURT
+Signature of Clerk or Deputy Clerk Attorney's signature
+The name, address, e-mail address, and telephone number of the attorney representing (name ofp arty) Virginia Giuffre
+, who issues or requests this subpoena, are:
+---------------------------
+Sigrid Mccawley Boies, Schiller & Flexner LLP 401 E. Las Olas Blvd. #1200, Ft. Lauderdale, FL 33301; 954-356-0011
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 13 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action (Page 2)
+Civil Action No. 15-cv-07433-RWS
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+0 l served the subpoena by delivering a copy to the named person as follows:
+011 (date) ; or
+0 I returned the subpoena unexecuted because:
+Unless the subpoena was issued on bt:half of ihe United States, or one of its officers or agents, I have also
+tendered to the witness the fees for one day's attendance, and the mileage allowed by law, in the amount of
+$
+My fees are$ for travel and $ for services, for a total of$ 0.00
+I declare under penalty of perjury that this information is true.
+Date:
+Server's signature
+Printed name and title
+Server's address
+Additional information regarding attempted service, etc.:
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 14 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Jnfomrntion, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance. (ii) disclosing an unretained expert's opinion or information that does
+not describe specific occurrences in dispute and results from the expert's
+(I) For a Trial, Hearing, or Deposition. A subpoena may command a study that was not requested by a party.
+person to attend a trial, hearing, or deposition only as follows: (C) Specifying Conditions as an Alternative. In the circumstances
+(A) within l 00 miles of where the person resides, is employed, or described in Rule 45(d)(3)(B), the court may, instead of quashing or
+regularly transacts business in person; or modifying a subpoena, order appearance or production under specified
+(B) within the state where the person resides, is employed, or regularly conditions if the serving party:
+transacts business in person, if the person (i) shows a substantial need for the testimony or material that cannot be
+(i) is a pa,ty or a party's officer; or otherwise met without undue hardship; and
+(ii) is commanded to attend a trial and would not incur substantial (ii) ensures that the subpoenaed person \\~ll be reasonably compensated.
+expense.
+(c) Duties in Responding to a Subpoena.
+(2) For Otl1er Discovery. A subpoena may command:
+(A) production of documents, electronically stored information, or (1) Producing Documents or Electronically Stored Information. These
+tangible things at a place within I 00 miles of where the person resides, is procedures apply to producing documents or electronically stored
+employed, or regularly transacts business in person; and information:
+(B) inspection of premises at the premises to be inspected. (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+(d) Protecting a Person Subject to a Subpoena; Enforcement. must organize and label them to correspond to the categories in the demand.
+(B) Form for Producing Electronically Stored lriformation Not Specified
+(1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney If a subpoena does not specify a form for producing electronically stored
+responsible for issuing and serving a subpoena must take reasonable steps infonnation, the person responding must produce it in a form or fonns in
+to avoid imposing undue burden or expense on a person subject to the which it is ordinarily maintained or in a reasonably usable fonn or forms.
+snbpoenR. The ~0mt for the district where compliance is required must (C) Electronically Stored Information Produced in Only One Form. The
+enforce this duty and impose an appropriate sanction- which may include person responding need not produce the same electronically stored
+lost earnings and reasonable attorney's foes---on a party or attorney who information in more than one form.
+fails to comply. (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored infom1ation
+(1) Command to Produce Materials or Permit Inspection. from somces that the person identifies as not reasonably accessible because
+(A) Appearance Not Required. A person commanded to produce of undue burden or cost. On motion to compel discovery or for a protective
+documents, electronically stored infonnation, or tangible things, or to order, the person responding must show that the information is not
+pe1111it the inspection of premises, need not appear in person al Lhe place of reasonably accessible because of undue burden or cost. If that showing is
+production or inspection unless also commanded to appear for a deposition, made, the court may nonetheless order discovery from such sources if the
+hearing, or trial. requesting party shows good cause, considering the limitations of Rule
+(B) Objections. A person commanded to produce documents or tangible 26(b)(2)(C). The court may specify conditions for the discovery.
+things or to pem1it inspection may serve on the party or attorney designated
+in the subpoena a written objection to inspecting, copying, testing, or (2) Claiming Privilege or Protection.
+sampling any or all of the materials or to inspecting the premises---or to (A) lnformalion Withheld. A person withholding subpoenaed infonnation
+producing electronically stored information in the fonn or fonns requested. under a claim that it is privileged or subject to protection as trial-preparation
+The objection must be served before the earlier of the time specified for material must:
+compliance or 14 days after the subpoena is served. Ifan objection is made, (i) expressly make the claim; and
+the following rules apply: (ii) describe the nature of the withheld documents, communications, or
+(i) At any time, on notice lo the commanded person, the serving party tangible things in a manner that, without revealing information itself
+may move the court for the district where compliance is required for an privileged or protected, will enable the parties to assess the claim.
+order compelling production or inspection. (B) Iriformation Produced. lfinformation produced in response to a
+(ii) These acts may be required only as directed in the order, and the subpoena is subject to a claim of privilege or of protection as
+order must protect a person who is neither a party nor a party's officer from trial-preparation material, the person making the claim may notify any party
+significant expense resulting from compliance. that received the information of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+(3) Quashing or Modifying a Subpoena. information and any copies it has; must not use or disclose the infonnation
+(A) When Required. On timely motion. the com1 for the district where until the claim is resolved; must take reasonable steps to retrieve the
+compliance is required must quash or modify a subpoena that: infonnation if the party disclosed it before being notified; and may promptly
+(i) fails to allow a reasonable time to comply; present the information under seal to the com1 for the district where
+(ii) r~quires a person to comply beyond the geographical limits compliance is required for a determination of the claim. The person who
+specified in Rule 45(c); produced the infonnation must preserve the information until the claim is
+(iii) requires disclosure of privileged or other protected matter., if no resolved.
+exception or waiver applies; or
+(iv) subjects a person to undue burden. (g) Contempt.
+(B) When Permitted. To protect a person subject to or affected by a The court for the district where compliance is required-and also, after a
+subpoena, the court for the district where compliance is required may, on motion is transferred, the issuing court-may hold in contempt a person
+motion, quash or modify the subpoena if it requires: who, having been served, fails without adequate excuse to obey the
+(i) disclosing a trade secret or other confidential research, subpoena or an order related to it.
+development, or commercial info1mation; or
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 15 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+Southern District of New York
+Virginia L. Giuffre
+)
+Plaintiff )
+V. ) Civil Action No. 15-cv-07 433-RWS
+Ghislaine Maxwell )
+)
+Defendant )
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION
+To: TerraMar Project, Inc. c/o Registered Agent
+National Corporate Research, Ltd.; 1025 Vermont Avenue, NW, Suite 1130, Washington, DC 20005-3516
+(Name ofp erson to whom this subpoena is directed)
+-i
+Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material: See Schedule A (attached).
+Place: Boies, Schiller & Flexner LLP Date and Time:
+5301 Wisconsin Avenue NW
+06/27/2016 5:00 pm
+Washington, DC 20015 (954) 356-0011
+0 Inspection ofP remises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+I Place: I Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached -Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date: 06/16/2016
+CLERK OF COURT
+Signature of Clerk or Deputy Clerk Attorney's signature
+The name, address, e-mail address, and telephone number of the attorney representing (name ofp arty) Virginia Giuffre
+, who issues or requests this subpoena, are:
+--- ---- ------ ----- ---------
+Sigrid Mccawley Boies, Schiller & Flexner LLP 401 E. Las Olas Blvd. #1200, Ft. Lauderdale, FL 33301; 954-356-0011
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 16 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, lnformation, or Objects or to Permit Inspection of Premises in a Civil Action (Page 2)
+Civil Action No. 15-cv-07433-RWS
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+0 I served the subpoena by delivering a copy to the named person as follows:
+011 (date) ; or
+0 J returned the subpoena unexecuted because:
+Unless the subpoena was issued on bdialf of Lhe United States, or one of its officers or agents, I have also
+tendered to the witness the fees for one day's attendance, and the mileage allowed by law, in the amount of
+$
+My fees are $ for travel and $ for services, for a total of$ 0.00
+I declare under penalty of perjury that this information is true.
+Date:
+Server's signature
+Printed name and title
+Server's address
+Additional information regarding attempted service, etc.:
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 17 of 24
+AO 88B (Rev. 02/14) Subpoena to Produce Documents, Infomrntion, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance. (ii) disclosing an unretained expert's opinion or infonnation that does
+not describe specific occurrences in dispute and results from the expert's
+(I) For u Trial, Hearing, or Deposition. A subpoena may command a study that was not requested by a party.
+person to attend a trial, hearing, or deposition only as follows: (C) Specifying Conditions as an Alternative. In the circumstances
+(A) within 100 miles of where the person resides, is employed, or described in Rule 45(d)(3)(B), the court may, instead of quashing or
+regularly transacts business in person; or modifying a subpoena, order appearance or production under specified
+(B) within the state where the person resides, is employed, or regularly conditions if the serving party:
+transacts business in person, if the person (i) shows a substantial need for the testimony or material that cannot be
+(i) is a patty or a party's officer; or otherwise met without undue hardship; and
+(ii) is commanded lo attend a trial and would not incur substantial (ii) ensures that the subpoenaed person will be reasonably compensated.
+expense.
+(c) Duties in Responding to a Subpoena.
+(2) For Other Discovery. A subpoena may command:
+(A) production of documents, electronically stored infonnation, or (I) Producing Documents or Electronically Stored Information. These
+tangible things at a place within I 00 miles of where the person resides, is procedures apply to producing documents or electronically stored
+employed, or regularly transacts business in person; and infonnation:
+(B) inspection of premises at the premises to be inspected. (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+(d) Protecting a Person Subject to a Subpoena; Enforcement. must organize and label them to correspond to the categories in the demand.
+(B) Form for Producing Electronically Stored lriformation Not Specified
+(1) Avoiding Undue Burden or Expense,· Sanctions. A party or attorney If a subpoena does not specify a fonn for producing electronically stored
+responsible for issuing and serving a subpoena must take reasonable steps infonnation, the person responding must produce it in a fonn or fo1ms in
+to avoid imposing undue burden or expense on a person subject to the which it is ordinarily maintained or in a reasonably usable fonn or forms.
+subpoena. The ~0n1t for the district where compliance is required must (C) Electronically Stored Information Produced in Only One Form. The
+enforce this duty and impose an appropriate sanction- which may include person responding need not produce the same electronically stored
+lost earnings and reasonable attorney's foes---on a party or attorney who information in more than one form.
+fails to comply. (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored inforn1ation
+(2) Command to Produce .Materials or Permit Inspection. from sources that the person identifies as not reasonably accessible because
+(A) Appearance Not Required. A person commanded to produce of undue burden or cost. On motion to compel discovery or for a protective
+documents, electronically stored infonnation, or tangible things, or to order, the person responding must show that the infonnation is not
+pem1it the inspection of premises, need not appear in person al the place of reasonably accessible because of undue burden or cost. If that showing is
+production or inspection unless also commanded to appear for a deposition, made, the court may nonetheless order discovery from such sources if the
+hearing, or trial. requesting party shows good cause, considering the limitations of Rule
+(B) Objections. A person commanded to produce documents or tangible 26(b)(2)(C). The court may specify conditions for the discovery.
+things or lo pennit inspection may serve on the party or attorney designated
+in the subpoena a wTitten objection to inspecting, copying, testing, or (2) Claiming Privilege or Protection.
+sampling any or all of the materials or to inspecting the premises---or to (A) lnformalion Withheld A person withholding subpoenaed infonnation
+producing electronically stored infonnation in the fo1m or fonns requested. under a claim that it is privileged or subject to protection as trial-preparation
+The objection must be served before the earlier of the time specified for material must:
+compliance or 14 days after the subpoena is served. If an objection is made, (i) expressly make the claim; and
+the following rules apply: (ii) describe the nature of the withheld documents, communications, or
+(i) At any time, on notice to the commanded person, the serving party tangible things in a manner that, without revealing infonnation itself
+may move the court for the district where compliance is required for an privileged or protected, will enable the parties to assess the claim.
+order compelling production or inspection. (B) Information Produced. If information produced in response to a
+(ii) These acts may be required only as directed in the order, and the subpoena is subject to a claim of privilege or of protection as
+order must protect a person who is neither a party nor a party's officer from trial-preparation material, the person making the claim may notify any party
+significant expense resulting from compliance. that received the infonnation of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+(3) Quashing or Modifying a Subpoena. information and any copies it has; must not use or disclose the information
+(A) When Required. On timely motion. the court for the district where until the clain1 is resolved; must take reasonable steps to retrieve the
+compliance is required must quash or modify a subpoena that: infonnation if the party disclosed it before being notified; and may promptly
+(i) fails to allow a reasonable time to comply; present the information under seal to the court for the district where
+(ii) rt;quires a person to comply beyond the geographical limits compliance is required for a determination of the claim. The person who
+specified in Rule 45(c); produced the infonnation must preserve the infonnation until the claim is
+(iii) requires disclosure of privileged or other protected matter, if no resolved.
+exception or waiver applies; or
+(iv) subjects a person to undue burden. (g) Contempt.
+(B) When Permitted. To protect a person subject to or affected by a The court for the district where compliance is required-and also, after a
+subpoena, the court for the district where compliance is required may, on motion is transferred, the issuing court-may hold in contempt a person
+motion, quash or modify the subpoena if it requires: who, having been served, fails without adequate excuse to obey the
+(i) disclosing a trade secret or other confidential research, subpoena or an order related to it.
+development, or commercial info1mation; or
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 18 of 24
+To: TerraMar Project, Inc.
+EXHIBIT A
+DEFINITIONS
+Wherever they hereafter appear the following words and phrases have the following
+meanings:
+1. "Plaintiff' in the above captioned action shall mean the plaintiff Virginia Giuffre
+formerly known as Virginia Roberts.
+2. "Defendant" in the above captioned action shall mean the defendant Ghislaine
+Maxwell and her employees, representatives or agents.
+3. "Agent" shall mean any agent, employee, officer, director, attorney, independent
+contractor or any other person acting, or purporting to act, at the discretion of or on behalf of
+another.
+4. "Correspondence" or "communication" shall mean all written or verbal
+communications, by any and all methods, including without limitation, letters, memoranda,
+and/or electronic mail, by which information, in whatever form, is stored, transmitted or
+received; and, includes every manner or means of disclosure, transfer or exchange, and every
+disclosure, transfer or exchange of information whether orally or by document or otherwise,
+face-to-face, by telephone, telecopies, e-mail, text, modem transmission, computer generated
+message, mail, personal delivery or otherwise.
+5. "Document" shall mean all written and graphic matter, however produced or
+reproduced, and each and every thing from which information can be processed, transcribed,
+transmitted, restored, recorded, or memorialized in any way, by any means, regardless of
+technology or form. It includes, without limitation, correspondence, memoranda, notes,
+notations, diaries, papers, books, accounts, newspaper and magazine articles, advertisements,
+photographs, videos, notebooks, ledgers, letters, telegrams, cables, telex messages, facsimiles,
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 19 of 24
+TerraMar Project, Inc.
+Schedule A
+contracts, offers, agreements, reports, objects, tangible things, work papers, transcripts, minutes,
+reports and recordings of telephone or other conversations or communications, or of interviews
+or conferences, or of other meetings, occurrences or transactions, affidavits, statements,
+summaries, opinions, tests, experiments, analysis, evaluations, journals, balance sheets, income
+statements, statistical records, desk calendars, appointment books, lists, tabulations, sound
+recordings, data processing input or output, microfilms, checks, statements, receipts, summaries,
+computer printouts, computer programs, text messages, e-mails, information kept in computer
+hard drives, other computer drives of any kind, computer tape back-up, CD-ROM, other
+computer disks of any kind, teletypes, telecopies, invoices, worksheets, printed matter of every
+kind and description, graphic and oral records and representations of any kind, and electronic
+"writings" and "recordings" as set forth in the Federal Rules of Evidence, including but not
+limited to, originals or copies where originals are not available. Any document with any marks
+such as initials, comments or notations of any kind of not deemed to be identical with one
+without such marks and is produced as a separate document. Where there is any question about
+whether a tangible item otherwise described in these requests falls within the definition of
+"document" such tangible item shall be produced.
+6. "Employee" includes a past or present officer, director, agent or servant, including
+any attorney (associate or partner) or paralegal.
+7. "Including" means including without limitations.
+8. "Jeffrey Epstein" includes Jeffrey Epstein and any entities owned or controlled by
+Jeffrey Epstein, any employee, agent, attorney, consultant, or representative of Jeffrey Epstein.
+9. "You" or "Your" hereinafter means TerraMar Project, Inc. and any employee,
+agent, attorney, consultant, related entities or other representative of TerraMar Project, Inc.
+2
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 20 of 24
+TerraMar Project, Inc.
+Schedule A
+INSTRUCTIONS
+1. Production of documents and items requested herein shall be made at the offices
+of Boies Schiller & Flexner, LLP, 5301 Wisconsin Avenue NW Washington, DC 20015, no
+later than five (5) days before the date noticed for your deposition, or, if an alternate date is
+agreed upon, no later than five (5) days before the agreed-upon date.
+2. Unless indicated otherwise, the Relevant Period for this Request is from 1996 to
+the present. A Document should be considered to be within the relevant time frame if it refers or
+relates to communications, meetings or other events or documents that occurred or were created
+within that time frame, regardless of the date of creation of the responsive Document.
+3. This Request calls for the production of all responsive Documents in your
+possession, custody or control without regard to the physical location of such documents.
+4. If any Document requested was in your possession or control, but is no longer in
+its possession or control, state what disposition was made of said Document, the reason for such
+disposition, and the date of such disposition.
+5. For the purposes ofreading, interpreting, or construing the scope of these
+requests, the terms used shall be given their most expansive and inclusive interpretation. This
+includes, without limitation the following:
+a) Wherever appropriate herein, the singular form of a word shall be
+interpreted as plural and vice versa.
+b) "And" as well as "or" shall be construed either disjunctively or
+conjunctively as necessary to bring within the scope hereof any
+information (as defined herein) which might otherwise be construed to be
+outside the scope of this discovery request.
+c) "Any" shall be understood to include and encompass "all" and vice versa.
+d) Wherever appropriate herein, the masculine form of a word shall be
+interpreted as feminine and vice versa.
+e) "Including" shall mean "including without limitation."
+3
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 21 of 24
+TerraMar Project, Inc.
+Schedule A
+6. If you are unable to answer or respond fully to any document request, answer or
+respond to the extent possible and specify the reasons for your inability to answer or respond in
+full. If the recipient has no documents responsive to a particular Request, the recipient shall so
+state.
+7. Unless instructed otherwise, each Request shall be construed independently and
+not by reference to any other Request for the purpose of limitation.
+8. The words "relate," "relating," "relates," or any other derivative thereof, as used
+herein includes concerning, referring to, responding to, relating to, pertaining to, connected with,
+comprising, memorializing, evidencing, commenting on, regarding, discussing, showing,
+describing, reflecting, analyzing or constituting.
+9. "Identify" means, with respect to any "person," or any reference to the "identity"
+of any "person," to provide the name, home address, telephone number, business name, business
+address, business telephone number and a description of each such person's connection with the
+events in question.
+10. "Identify" means, with respect to any "document," or any reference to stating the
+"identification" of any "document," provide the title and date of each such document, the nan1e
+and address of the party or parties responsible for the preparation of each such document, the
+name and address of the party who requested or required the preparation and on whose behalf it
+was prepared, the name and address of the recipient or recipients to each such document and the
+present location of any and all copies of each such document, and the names and addresses of all
+persons who have custody or control of each such document or copies thereof.
+11. In producing Documents, if the original of any Document cannot be located, a
+copy shall be produced in lieu thereof, and shall be legible and bound or stapled in the same
+manner as the original.
+4
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 22 of 24
+TerraMar Project, Inc.
+Schedule A
+12. Any copy of a Document that is not identical shall be considered a separate
+document.
+13. If any requested Document cannot be produced in full, produce the Document to
+the extent possible, specifying each reason for your inability to produce the remainder of the
+Document stating whatever information, knowledge or belief which you have concerning the
+portion not produced.
+14. If any Document requested was at any one time in existence but are no longer in
+existence, then so state, specifying for each Document (a) the type of document; (b) the types of
+information contained thereon; (c) the date upon which it ceased to exist; (d) the circumstances
+under which it ceased to exist; (e ) the identity of all person having knowledge of the
+circumstances under which it ceased to exist; and (f) the identity of all persons having
+knowledge or who had knowledge of the contents thereof and each individual's address.
+15. All Documents shall be produced in the same order as they are kept or maintained
+by you in the ordinary course of business.
+16. You are requested to produce all drafts and notes, whether typed, handwritten or
+otherwise, made or prepared in connection with the requested Documents, whether or not used.
+17. Documents attached to each other shall not be separated.
+18. Documents shall be produced in such fashion as to identify the department,
+branch or office in whose possession they were located and, where applicable, the natural person
+in whose possession they were found, and business address of each Document's custodian(s).
+19. If any Document responsive to the request is withheld, in all or part, based upon
+any claim of privilege or protection, whether based on statute or otherwise, state separately for
+each Document, in addition to any other information requested: (a) the specific request which
+calls for the production; (b) the nature of the privilege claimed; ( c) its date; (d ) the name and
+5
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 23 of 24
+TerraMar Project, Inc.
+Schedule A
+address of each author; (e) the name and address of each of the addresses and/or individual to
+whom the Document was distributed, if any; (f) the title ( or position) of its author; (g) type of
+tangible object, e.g., letter, memorandum, telegram, chart, report, recording, disk, etc.; (h) its title
+and subject matter (without revealing the information as to which the privilege is claimed); (i)
+with sufficient specificity to permit the Court to make full determination as to whether the claim
+of privilege is valid, each and every fact or basis on which you claim such privilege; and G)
+whether the document contained an attachment and to the extent you are claiming a privilege as
+to the attachment, a separate log entry addressing that privilege claim.
+20. If any Document requested herein is withheld, in all or part, based on a claim that
+such Document constitutes attorney work product, provide all of the information described in
+Instruction No. 19 and also identify the litigation in connection with which the Document and the
+information it contains was obtained and/or prepared.
+21. Plaintiff does not seek and does not require the production of multiple copies of
+identical Documents.
+22. This Request is deemed to be continuing. If, after producing these Documents,
+you obtain or become aware of any further information, Documents, things, or information
+responsive to this Request, you are required to so state by supplementing your responses and
+producing such additional Documents to Plaintiff.
+6
+Case 1:15-cv-07433-LAP Document 1328-28 Filed 01/05/24 Page 24 of 24
+TerraMar Project, Inc.
+Schedule A
+DOCUMENTS TO BE PRODUCED PURSUANT TO THIS SUBPOENA
+1. All email from your server containing the term "Epstein."
+2. All documents containing the term "Epstein."
+3. All records of donations made by Jeffrey Epstein or related entities.
+4. All records of donations made by William Jefferson Clinton, the Clinton Global
+Initiative, the Clinton Foundation (a/k/a William J. Clinton Foundation, a/k/a the Bill, Hilary &
+Chelsea Clinton Foundation), or the Clinton Foundation Climate Change Initiative.
+5. All email from your server containing the term "Giuffre."
+6. All documents containing the term "Giuffre."
+7. All email from your server containing the term "Virginia."
+8. All documents containing the term "Virginia."
+9. All email from your server containing the term "vr" or "VR."
+10 . All documents containing the term "vr" or "VR."
+11. All email from your server containing the term "Dershowitz" or "dershowitz."
+12. All documents containing the term "Dershowitz" or "dershowitz."
+13. All email from your server containing the term "jeevacation."
+14. All documents containing the tem1 "j eevacation."
+15. All email from your server, and all other documents, relating to sex abuse.
+16. All email from your server, and all other documents, relating to trafficking of any
+females.
+7

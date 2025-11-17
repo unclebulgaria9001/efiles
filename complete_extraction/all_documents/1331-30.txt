@@ -1,0 +1,500 @@
+# Document: 1331-30.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 39
+# People Found: 90
+# Locations Found: 2
+# Linked Emails: 1
+
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+15-cv-07433-RWS
+GHISLAINE MAXWELL,
+Defendant.
+--------------------------------------------------X
+Defendant’s Combined Motion To Compel Non-Party Witness To Produce Documents
+and Respond To Deposition Questions, And
+Response to Motion for Protective Order for Non-Party Witness
+.............................................
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 1 of 19
+Laura A. Menninger
+Jeffrey S. Pagliuca
+Ty Gee
+HADDON,MORGAN AND FOREMAN,P.C.
+150 East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 2 of 19
+TABLE OF CONTENTS
+STATEMENT OF CONFERRAL .................................................................................................. 1
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 2
+I. MS. RANSOME HAS FAILED TO PROVIDE AN APPROPRIATE PRIVILEGE LOG,
+THEREBY EFFECTING A WAIVER OF PRIVILEGE ........................................................ 4
+II. DOCUMENTS RELATED TO JANE DOE 43 V. JEFFREY EPSTEIN, ET AL., 17-CV-
+00616-JGK (S.D.N.Y.) ARE HIGHLY RELEVANT TO MS. RANSOME’S TESTIMONY
+IN THIS ACTION ................................................................................................................... 5
+III. MS. RANSOME UNJUSTIFIABLY REFUSED TO ANSWER RELEVANT DEPOSTION
+QUESTIONS, AND SHE MUST BE COMPELLED TO RE-APPEAR AND RESPOND . 10
+IV. MS. RANSOME MUST BE REQUIRED TO PRODUCE REPONSIVE DOCUMENTS
+THAT HAVE BEEN WITHELD WITHOUT BASIS, AND IDENTIFY ANY OTHER
+DOCUMENTS WITHELD ................................................................................................... 12
+CONCLUSION ............................................................................................................................. 14
+CERTIFICATE OF SERVICE ..................................................................................................... 17
+i
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 3 of 19
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Combined Motion to Compel
+Non-Party Witness to Produce Documents andRespond to Deposition Questions, and Response
+to Motion for Protective Order for Non-Party Witness (ECF 640)1 and further states as follows:
+STATEMENT OF CONFERRAL
+The undersigned has conferred with Mr. Stanley Pottinger, who represents both Plaintiff
+and non-party witness Ms. Ransome, via email and telephone on the issues raised in this motion
+and has been unable to resolve these issues without court intervention.
+INTRODUCTION
+Counsel for Plaintiff, also counsel for non-party witness Sarah Ransome, in mid-January
+belatedly disclosed a “new witness” counsel apparently had known about for months.2 Plaintiff
+then asked this Court to re-open discovery for the deposition of Ms. Ransome, promised to make
+her available “immediately” for deposition and agreed to accept a subpoena for her to produce
+documents, in an attempt to “cure” her own late disclosure. Now, after having created a last-
+minute scramble to conduct discovery on facts far removed in time and circumstance from
+Plaintiff’s defamation claim, Plaintiff now complains that too much is being asked of her
+“witness.” Plaintiff protests that the requested documents and testimony sought -- all of which
+relate to Ms. Ransome’s allegations and credibility --are irrelevant to this single count
+defamation action. Of course, the defense has said since learning of her that Ms. Ransome’s
+story is irrelevant to this case. But, if Plaintiff insists that Ms. Ransome should testify at trial,
+she must comply with properly served and propounded subpoena for testimony and records.
+1 To avoid excessive and duplicative briefing on overlapping issues, Ms. Maxwell is submitting her
+Response to the Motion for Protective Order together with her Motion to Compel.
+2 In their letter motion to the Court of January 19 as well as during the hearing of February 2 on this topic,
+Plaintiff claimed she had “recently” learned of this “new” witness. As it turns out, Plaintiff’s counsel Bradley
+Edwards, Paul Cassell and Stanley Pottinger had already signed a fee agreement to represent this witness more than
+two months earlier, on November 7, 2016. Plaintiff’s counsel still has not explained why they waited more than two
+months to disclose the witness, nor why they represented to the Court that she was a “recent” discovery.
+1
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 4 of 19
+BACKGROUND
+Plaintiff first identified Sarah Ransome as a witness on January 13, 2016, a mere two
+months before trial was scheduled to begin. In evaluating the relevance of the documents sought
+in the third-party subpoena to Ms. Ransome, and the questions posed to her in the February 17
+deposition, it is important to understand how Ms. Ransome first came forward as a witness.
+Based on her deposition testimony, sometime in October of 2016, Ms. Ransome read an article in
+the New York Post written by Maureen Callahan regarding a recently published book by James
+Patterson concerning Jeffrey Epstein. SeeMenninger Decl. Ex. A (Ransome Dep.) at 36:25-
+43:24. The article details multiple things, including that Mr. Epstein has routinely settled out of
+court many civil cases brought against him by various women. SeeMenninger Decl., Ex. B.
+After reading the article, Ms. Ransome contacted Ms. Callahan via email resulting in several
+communications with Ms. Callahan, none of which have been produced. SeeMenninger Decl.
+Ex. A at 36:25-43:24. Ms. Callahan apparently did nothing with this information, in part, quite
+possibly, because of the lack of trustworthiness of Ms. Ransome’s story.
+Then, at some unknown time in early November, Ms. Ransome contacted the Boies
+Schiller firm and spoke with Sigrid McCawley. Id. at 24:25-28:5. The exact date of the first
+communication between the Boies Schiller firm and Ms. Ransome is unclear because she has
+refused to produce her telephone records, emails, or a log of any conversations and
+communications she deems privileged as required by the Rules. In an unusual twist, on
+November 7, 2016, Ms. Ransome signed an engagement letter with Farmer, Jaffe, Weissing,
+Edwards, Fistos & Lehrman, P.L., Stanley Pottinger and Paul Cassell (all of whom also represent
+2
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 5 of 19
+Plaintiff) to represent her as a non-party witness in this matter on a pro-bono basis.3 Based on
+the documents produced, however, she is not represented by Boies Schiller or its attorneys. See
+Menninger Decl. Ex. C. Quite notably, despite taking on the representation of Ms. Ransome as
+of November 7, 2016, Ms. Ransome was not identified as a person with knowledge under Rule
+26 until over two months later on January 13, 2017.
+On January 26, 2017, Ms. Ransome filed a civil complaint against Jeffrey Epstein,
+Ghislaine Maxwell, Sarah Kellen, Lesley Groff, and Natalya Malyshev, under 18 USC § 1595,
+alleging the following damages:
+“injury and pain; emotional distress; psychological and psychiatric trauma; mental
+anguish; humiliation; confusion; embarrassment; loss of self esteem; loss of
+dignity; loss of enjoyment of life; invasion of privacy; and other damages
+associated with Defendants' actions. Plaintiff will incur medical and
+psychological expenses. These injuries are permanent in nature and Plaintiff will
+continue to suffer from them in the future.”
+See Menninger Decl. Ex. D (“Jane Doe 43 Complaint”), ¶ 64. As well, the Complaint alleges the
+right to civil forfeiture of Mr. Epstein’s planes, his New York mansion and his private island. Id.
+¶¶62 & 63. The Complaint was filed by the Boies Schiller firm presumably on a contingency
+fee basis. The engagement letter for that matter has not been produced, despite the fact that it is
+not privileged and its obvious relevance to testing any claim of privilege. In that case, Ms.
+Ransome seeks millions, if not hundreds of millions, of dollars from the Defendants, including
+Ms. Maxwell, through her now free legal counsel, all in exchange for providing favorable
+testimony in this case. The motivation for fabrication of testimony could not be more acute. The
+majority of the discovery sought goes to this issue. It is highly relevant, probative, and must be
+produced.
+3 It does not appear that any of the communications concerning this representation discuss the limited
+nature of the representation, the obvious conflicts of interest, or a knowing and intentional waiver of those conflicts
+by both Ms. Ransome and Plaintiff.
+3
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 6 of 19
+I. MS. RANSOME HAS FAILED TO PROVIDE AN APPROPRIATE PRIVILEGE
+LOG, THEREBY EFFECTING A WAIVER OF PRIVILEGE
+Ms. Ransome has refused to produce all but a handful of documents. See Menninger
+Decl. Ex. E, Responses and Objections to Subpoena (“Responses”). With respect to many
+categories, and in her general objections, she claims the documents sought are “fundamentally
+privileged communications between a non-party and her counsel.” Id.Responses 1-3. While she
+may assert that privilege under Fed.R.Civ.P. 45(E)(2)(A), she also is required to produce a log of
+all documents withheld based on any alleged privilege or protection:
+(A)Information Withheld. A person withholding subpoenaed information under a claim
+that it is privileged or subject to protection as trial-preparation material must:
+(i) expressly make the claim; and
+(ii) describethe nature of the withheld documents, communications, or tangible
+things in a manner that, without revealing information itself privileged or protected, will
+enable the parties to assess the claim.
+An “unjustified failure to list privileged documents on the requiredlog of withheld
+documents in a timely and proper manner operates as a waiver of any applicable privilege,”
+OneBeacon Ins. Co. v. Forman Int'l Ltd., 04 CIV. 2271(RWS), 2006 WL 3771010, at *7–8
+(S.D.N.Y. Dec. 15, 2006). As this Court noted in OneBeacon Ins. Co., the waiver of privilege is
+equally applicable where there is a failure to produce a privilege log under Rules 45and 26. Id.
+(citing In re Application for Subpoena to Kroll,224 F.R.D. 326, 328(E.D.N.Y. 2004) (“Rule
+45requires that the party claiming a privilege prepare a privilege log.... Failure to submit a
+privilege log may be deemed a waiver of the underlying privilege claim.”)); Labatt Ltd. v.
+Molson Breweries, Nos. 93 CV 75004, 94 CV 71540(RPP), 1995 WL 23603 (S.D.N.Y. Jan. 20,
+1995), aff'd, Dorf & Stanton Commc'ns, Inc., 100 F.3d 919, 923 (Fed.Cir.1997) (upholding
+determination that privilege had been waived due to failure to satisfy Rules 45(d)(2) and
+4
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 7 of 19
+26(b)(5)); seealso In re Grand Jury Subpoena, 274 F.3d 563, 575-76 (1st Cir.2001) (stating that
+a “party that fails to submit a privilege log” pursuant to Fed. R. Civ. P. 45(d)(2) “is deemed to
+waive the underlying privilege claim”).
+Of course, the need for a log to assess any alleged claims of privilege is particularly
+necessary in this case. It is entirely unclear when Ms. Ransome became represented, and by
+whom, and related to what matter(s). What is clear is that there is at least one, if not more, of her
+communications with the Boies Schiller firm when Plaintiff was an unrepresented non-party
+potential witness. Indeed, the Boies Schiller firm claims they do not represent her as a witness in
+this litigation. Thus, any communication between Boies Schiller and Ms. Ransome relating to her
+testimony in this caseis not protected by any privilege and must be produced. Of course,
+without the required log it is impossible to determine how many improperly categorized
+“privileged” communications exist. Based on Ms. Ransome’s failure to provide a privilege log,
+any claim of privilege has been waived.
+II. DOCUMENTS RELATED TO JANE DOE 43 V. JEFFREY EPSTEIN, ET AL., 17-
+CV-00616-JGK (S.D.N.Y.) ARE HIGHLY RELEVANT TO MS. RANSOME’S
+TESTIMONY IN THIS ACTION
+In her Responses, Ms. Ransome argues primarily that the documents sought are not
+related to her witness testimony in this case. The objection reads:
+Ransome further objects to this request in that the face of the request demonstrates that
+the Defendant is abusing the subpoena power by serving a subpoena on a non-party that
+seeks discovery unrelated to the underlying matter, but instead allegedly relevant to
+another Federal Action styled Jane Doe 43 v. Jeffrey Epstein, Ghislaine Maxwell, Sarah
+Kellen, Lesley Groff, and Natalya Malyshev Case Number 1:17-cv-00616-JGK
+(S.D.N.Y.). Ransome objects to this Request as overbroad, harassing, and not calculated
+to lead to discoverable evidence relevant to the Defamation Action.
+SeeMenninger Decl. Ex. E, Responses 9-30.
+This argument is perplexing. In Plaintiff’s Motion to Reopen Discovery, Plaintiff
+(through Ms. McCawley, who does not represent witness Ransome, but does represent Jane Doe
+5
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 8 of 19
+43 (i.e., Plaintiff Ransome)) claimedthat Ms. Ransome’s experience (i.e.the basis for her claims
+in Jane Doe 43) are “highly relevant” to this action. Presumably, Ms. Ransome’s testimony in
+this case will be precisely what she alleged in the Jane Doe 43Complaint. Logic follows that
+either 1) the information relevant to that action is relevant to her testimony in this case, or 2) her
+testimony is entirely irrelevant to this single count defamation action. We would suggest that the
+latter is true, as is the case with all other alleged victim witnesses, none of whom know the
+Plaintiff in this case at all. The proper course of action, then, should be to exclude Ms.
+Ransome’s testimony altogether because, in Ms. Ransome’s counsel’s own words, the
+information is not relevant to this single count defamation action.
+If the Court determines that Ms. Ransome’s testimony is at all relevant, then all of the
+information sought is relevant to her participation as a witness in this action. First and most
+fundamentally, the Jane Doe 43 action seeks millions if not hundreds of millions worth of assets
+as “civil forfeiture.” It appears (although Ms. Ransome refused to answer) that she is
+unemployed, with no source of income other than from her partner, and lives in a house or
+apartment rented by him in Spain. SeeMenninger Decl., Ex. A at 9:17-12:21. She came out of
+the woodwork to provide testimony after reading an article that extensively describes this lawsuit
+and Mr. Epstein’s settlement of other lawsuits. She seeks to testify, by contrast to every other
+witness ever identified, that 1) Ms. Maxwell was actively involved as an assistant to Mr. Epstein
+in late 2006 to early 2007, and 2) that she was “lent out” to other people, including Alan
+“Dershavitz” (as she pronounces it). SeeMenninger Decl., Ex. F (Ransome Affidavit). These
+are two pieces of testimony that Plaintiff has desperately sought to corroborate with witnesses,
+and there is more than a mere possibility that these pieces of Ms. Ransome’s testimony were
+suggested to her by Plaintiff’s counsel/her counsel. In Jane Doe43, Ms. Ransome, through
+6
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 9 of 19
+Plaintiff’s counsel, seeks, among other things, civil forfeiture of two private jets, a mansion in
+New York, and a private island in the U.S. Virgin Islands. One can hardly imagine a better
+motive to fabricate testimony than that type of lottery win. To make it even better, there is no
+purchase price for the ticket, because the people who want the testimony are willing to front the
+cost of the litigation either on a contingency or pro-bono basis.
+“Evidence tending to show a witness's bias or motive to fabricate testimony or evidence
+presented at trial is nearly always relevant.” In re WorldCom, Inc. Sec. Litig., No. 02 CIV 3288
+DLC, 2005 WL 375315, at *8 (S.D.N.Y. Feb. 17, 2005) (citing United States v. Abel, 469 U.S.
+45, 52 (1985)); Middleton v. Walker, No. 09-CV-5548 JS, 2014 WL 2208177, at *5 (E.D.N.Y.
+May 27, 2014) (“Nevertheless, ‘extrinsic proof tending to establish a reason to fabricate is never
+collateral and may not be excluded on that ground.’”) (quoting People v. Hudy, 73 N.Y.2d 40, 56
+(1988)).Moreover, “‘bias of a witness is not a collateral issue.’”Id.(quoting United States v.
+James,609 F.2d 36, 46 (2d Cir.1979))see also see also Abel, 469 U.S. at 52 (noting that under
+the common law, a showing of bias by extrinsic evidence was always permitted).
+The discovery sought concerning Ms. Ransome’s financial information, employment, the
+nature of her engagement with counsel (including the financial structure of those relationships)
+all goes to Ms. Ransome’s motivation to provide the fabricated testimony she plans to give and
+bias in this matter. This includes the following document production requests:
+1. All Documents containing Communications with Virginia Roberts Giuffre, or any of her
+attorneys, agents, investigators, from the period 1999-present.
+2. All fee agreements for Your engagements with any attorneys for the purpose of pursuing
+any civil or criminal claims regarding Jeffrey Epstein, Ghislaine Maxwell, Natalya Malyshov,
+Sarah Kellen, and Nadia Marcincova.
+29. A copy of Your most recent paycheck, paycheck stub, earnings statement and any bank
+statement, credit card statement and any Document reflecting any money owed by You to
+anyone.
+7
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 10 of 19
+The remaining document requests are specifically targeted to obtain impeachment
+evidence concerning Ms. Ransome’s story, as told in the Jane Doe 43Complaint and her
+affidavit submitted in support of Plaintiff’s Letter Motion to Re-open Discovery in this case.
+There is nothing harassing about these requests for production. They seek relevant information
+concerning Plaintiff’s claims and allegations against Ghislaine Maxwell, Jeffrey Epstein, Natalya
+Malyshov, Sarah Kellen, and Nadia Marcincova, and documents that would show that the claims
+are not true, particularly as they relate to Ms. Maxwell:
+3. All Documents that reference, relate to, or mention, whether by name or otherwise, the
+following individuals: Virginia Roberts, Ghislaine Maxwell, Jeffrey Epstein, Natalya Malyshov,
+Sarah Kellen, and Nadia Marcincova. (Complaint ¶¶33-58)
+4. All Communications You have had in whatever form with any other female who you ever
+witnessed at or in a property, home, business, plane or automobile other vehicle owned or
+controlled by Jeffrey Epstein.
+5. All Communications You have had with Natalya Malyshov, Virginia Roberts, Ghislaine
+Maxwell, Jeffrey Epstein, Sarah Kellen, or Nadia Marcincova.
+6. Any photographs containing any image of Virginia Roberts, Ghislaine Maxwell, Jeffrey
+Epstein, Natalya Malyshov, Sarah Kellen, or Nadia Marcincova.
+7. Any photographs taken by You, or containing any image of You, at, in or near any home,
+business, private vehicle (including airplane), or any other property owned or controlled by
+Jeffrey Epstein.
+8. Any photographs that depict any home, business, private vehicle (including airplane), or
+any other property owned or controlled by Jeffrey Epstein.
+9. All of Your passports, travel visas, or permissions to live, work or study in a foreign
+country, related to the years 2005-present.
+10. All Communications regarding any of Your passports, visas, visa applications, or other
+permission to live, work or study in a foreign country, for the years 2005-present.
+11. All Documents referencing any commercial plane tickets, boarding passes, or any other
+mode of travel during the time period 2006-2007.
+8
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 11 of 19
+12. Any credit card receipt, canceled check, or any other Document reflecting travel by You
+during the time period 2006-2007.
+13. All phone records for any cellphone owned, used or possessed by You during the years
+2006-2007.
+14. All Documents reflecting or relating to any Communications between Jeffrey Epstein or
+Ghislaine Maxwell and either of Your parents, step-parents or other family members. (Complaint
+¶ 53)
+15. All Documents reflecting any money, payment, valuable consideration or other
+remuneration received by You from Jeffrey Epstein or any person known by You to be affiliated
+with Jeffrey Epstein.
+16. All bank statements, credit card statements, money transfer records, or other statements
+from any financial institution in Your name, in whole or in part, for the years 2006-2007.
+17. Any Documents concerning Your residency during the years 2006-2007, including
+leases, rental agreements, rent payments, deeds, or trusts.
+19. Any Document reflecting any of Your post-secondary training or educational degree or
+course of study, to include transcripts, payments for tuition, courses taken, dates of attendance
+and grades received. (Complaint ¶ 37, 53-55; financial motivation based on lack of education or
+training to facilitate employment)
+20. Anyapplication for college, university, or any other post-secondary institution, or
+technical college, fashion college, modeling training or any similar institution, submitted by You
+or on Your behalf during the years 2005 –present. (Complaint ¶ 37, 53-55; financial motivation
+based on lack of education or training to facilitate employment))
+21. All Documents reflecting any moneys received by You in exchange for any “modeling”
+by You. (Complaint ¶ 38)
+22. All modeling contracts signed or entered into by You. (Complaint ¶ 38)
+23. Any calendar, receipt, Communication or Document reflecting your whereabouts during
+the calendar years 2006-2007.
+24. Any Documents reflecting Your medical, mental health or emergency care or other
+treatment for any eating disorder, malnourishment, kidney malfunction, emotional problems,
+psychological or psychiatric disorders, sexually transmitted diseases, and therapy records, and
+any prescriptions for any of the above categories. (Complaint ¶ 52, 64; motivation to fabricate)
+25. Any Documents containing any Communications You have had with any law
+enforcement agency.
+9
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 12 of 19
+26. Any Documents that reflect any criminal charges, tickets, summonses, arrests,
+investigations concerning You or witnessed by You.
+27. Any Documents containing any statement regarding Your experience or contact with
+Virginia Roberts, Ghislaine Maxwell, Jeffrey Epstein, Natalya Malyshov, Sarah Kellen, and
+Nadia Marcincova, including without limitation any Communication with anyone, any diary,
+journal, email, letter, witness statement, and summary.
+28. Any civil complaint or civil demand filed by You or on Your behalf by which You have
+ever sought damages or compensation of any form or nature.
+30. A copy of your Facebook, Instagram, Twitter, and any other social media application or
+program for the years 2006-2007 and from 2015 – present.
+While Ms. Ransome has provided somedocuments responsive to Questions 2, 3, 5, 6, 7,
+and 8, as discussed below, the productions are incomplete and an unknown volume of documents
+have been withheld. Having purposefully interjected herself into this litigation, and initiating
+another litigation based on the same allegations about which she now plans on testifying in this
+case, Ms. Ransome must be compelled to produce each of these clearly relevant categories of
+documents.
+III. MS. RANSOME UNJUSTIFIABLY REFUSEDTO ANSWER RELEVANT
+DEPOSTION QUESTIONS, AND SHE MUST BE COMPELLED TO RE-
+APPEAR AND RESPOND
+The Motion for Protective Order relates primarily to certain deposition questions posed to
+Ms. Ransome which her counsel (and at times, Plaintiff’s counsel)improperly instructed her not
+to answer. Each question relates to Ms. Ransome’s claims, credibility, bias and motivation for
+fabrication of her testimony, requiring responses.
+Category 1 - Personal current financial information.
+Ms. Ransome refused to answer whether she has any source of income. She stated that
+her partner rents the home she lives in, implying he financially supports her, but would not state
+what he does. SeeMenninger Decl. Ex. A at 9:17-12:21. As such, her partner’s income (or
+relative lack thereof) and Ms. Ransome’s financial position or ability to earn a living relate
+10
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 13 of 19
+directly to her motivation to fabricate testimony to seek (a substantial amount of) money in in the
+Jane Doe 43 litigation. Any concerns about disclosure of this information can be alleviated by
+production under the protective order.
+Category 2 -The cell phone number of her partner.
+Ms. Ransome testified that she first called the Boies Schiller firm on her partner’s phone,
+and that the majority of her other conversations with counsel were on that same phone. See
+Menninger Decl. Ex. A at 24:25-28:5. Given the belated disclosure of this witness, and that the
+first contact happed sometime before November 7, 2016, the date of initial contact and number
+of contacts in between are highly relevant to the issue of late disclosure. Thus, subpoenas for
+these records may be required. Any concerns about providing this information can be alleviated
+byproduction under the protective order.
+Category 3 – Allegedly privileged communications with Alan Dershowitz
+Ms. Ransome refused to answer questions concerning her alleged conversations with Mr.
+Dershowitz sometime in late 2006 or early 2007, claiming they were related to a legal matter and
+that she believed Mr. Dershowitz was her attorney. SeeMenninger Decl. Ex. A at 172:18-
+173:12; 180:20-185:23; 199:3-23. Ms. Ransome confirmed in her deposition that Mr. Epstein
+was present during all conversations she claims to have had with Mr. Dershowitz. She further
+confirms that Mr. Epstein was there to “support” her and “look after” her regarding some
+unspecified legal matter, but he was not a party or interested in the dispute. See Menninger
+Decl., Ex. A at 199:3-23. It is axiomatic that any conversations between Ms. Ransome and Mr.
+Dershowitz in the presence of Jeffrey Epstein, a third party, are not protected by privilege.
+Safeco Ins. Co. of Am. v. M.E.S., Inc., 289 F.R.D. 41, 46 (E.D.N.Y. 2011) (“Generally,
+communications made between a defendant and counsel in the known presence of a third party
+are not privileged.”). Ms. Ransome must be compelled to respond to these questions.
+11
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 14 of 19
+Category 4 – Ms. Ransome’s current medical provider
+Ms. Maxwell will withdraw this question.
+The Witness’s Abandoned Objections
+Notably absent from the Motion for Protective Order are several other questions posed to
+Ms. Ransome that she was instructed not to answer without any claim of privilege or protection.
+Ms. Ransome should also be required to answer these questions, in particular since she has not
+sought a protective order on these lines of questioning, nor could she.
+1. Her partner’s occupation (motivation for fabrication)
+2. Her parents’ addresses (she claims that they spoke with Ms. Maxwell and Mr. Epstein
+and have knowledge of her “coming forward”)
+3. Where she was staying while in NY (paid for by Plaintiff’s Counsel, motive for
+fabrication and bias)
+4. Whether Alan Dershowitz contacted anyone on her behalf (communications with others
+by counsel not privileged)
+5. Her stepmother’s phone number and email address and physical address (she claims that
+they spoke with Ms. Maxwell and Mr. Epstein)
+6. When she provided her photos to her lawyer (date of communication and production to
+attorney not privileged)
+There simply was no basis for instructing the witness not to answer these questions, all of which
+are relevant and none of which are privileged. Ms. Ransome should be compelled to re-appear to
+answer all questions previously posed to her where she was instructed to answer, excepting the
+name of her current doctor who prescribed her SSRI medication.
+IV. MS. RANSOME MUST BE REQUIRED TO PRODUCE REPONSIVE
+DOCUMENTS THAT HAVE BEEN WITHELD WITHOUT BASIS, AND
+IDENTIFY ANY OTHER DOCUMENTS WITHELD
+In addition to being required to re-appear and respond to non-privileged questions, it
+became clear at Ms. Ransome’s deposition that her counsel has withheld from production a
+number of relevant and responsive documents.
+The first and most obvious category of withheld documents are email communications
+between Ms. Ransome and her acquaintances while associated with Mr. Epstein (including the
+12
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 15 of 19
+people she has sued). Counsel for Ms. Ransome only produced selective portions of email
+chains. By way of example, Menninger Decl. Exhibit G shows an email chain containing six
+communications she had with Natalia Malyshev, an alleged co-conspirator, yet only two of those
+emails were produced. The emails produced are in “screenshot” format rather than providing a
+complete production of the emails with metadata. Menninger Decl. Exhibit H shows 14 separate
+communications with Leslie Goff, an alleged co-conspirator, yet only four (4) emails were
+produced. Again, they were produced in “screenshot” format rather than providing a complete
+production of the emails with metadata. The same incomplete productions occur with respect to
+Sarah Kellen (an alleged co-conspirator) and Pumla Griszell (a woman Ms. Ransome allegedly
+met though Mr. Epstein and to whom she claims to have reported problems with Epstein). Ms.
+Ransome must be compelled to produce these documents which likely contain impeachment
+information, as well as any other documents that are being withheld regarding communications
+between her and any person whom she claims to have met through Mr. Epstein, or relating to or
+referencing any of the Defendants in the Jane Doe 43 Complaint.
+Ms. Ransome also admitted to possessing multiple email communications with the
+reporter Maureen Callahan, her first contact in attempting to “come forward” with her story.
+These emails, including a picture she claims to have sent Ms. Callahan, are obviously responsive
+to RFP 3 for “All Documents that reference, relate to, or mention, whether by name or otherwise,
+the following individuals: Virginia Roberts, Ghislaine Maxwell, Jeffrey Epstein, Natalya
+Malyshov, Sarah Kellen, and Nadia Marcincova.” There is no basis for withholding these
+documents, and they must be produced.
+Ms. Ransome also failed to provide a complete copy of her application to the Fashion
+Institute of Technology (“F.I.T.”), despite the fact that her claims center around an alleged
+13
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 16 of 19
+promise by Mr. Epstein to help her get into F.I.T. –i.e.the alleged benefit she was promised.
+The few documents produced suggest that the denial of admission to F.I.T. (if that is what
+occurred) is more likely a result of lack of required credentials or her failure to timely complete
+the application process. Either way, the complete application must be produced.
+Ms. Ransome also testified that some of the photographs she produced were not taken by
+her, but were given to her on a disk by Jean Luc Brunel. SeeMenninger Decl. Ex. A at 336:6-
+18. She could not however, identify which picture she claims to have taken, and which were
+included on this disk. Id.340:19-341:5. The subpoena to Ms. Ransome requested the native
+format copies of all pictures (many of which are digital) so that the metadata, including the dates
+the photographs were taken, can be discerned. SeeMenninger Decl. Ex. I, Instruction 7
+(“Responsive electronically stored information (ESI) shall be produced in its native form; that is,
+in the form in which the information was customarily created, used and stored by the native
+application employed by the producing party in the ordinary course of business.”). Fed. R. Civ.
+P.45(e)(1) requires production of documents in their native form, as specified, including all
+metadata. This includes a copy of the physical disk containing the photograph allegedly given to
+Ms. Ransome by Mr. Brunel, and the fronts and backs of any physical pictures.
+CONCLUSION
+As theadage goes, be careful what you ask for. Plaintiff, Ms. Ransome and their shared
+counsel asked to reopen discovery relating to Ms. Ransome. They promised to make her and any
+information that she may have immediately available. They must now do what they promised.
+WHEREFORE, Defendant requests the entry of an Order:
+1. Compelling production of all documents responsive to the subpoena, including
+communications with counsel because privilege has been waived. These include
+specifically, but are not limited to:
+14
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 17 of 19
+a. Her current passport, and all missing pages excluded from the passport produced
+b. Her emails with Maureen Callahan, including ones wherein she sent photograph
+of her and her boyfriend referenced in her deposition
+c. Her FIT application
+d. The disc of photos provided to her by Jean Luc Brunel –containing the metadata
+e. All photographs either previously produced or withheld, with metadata or, if in
+hard copy, including the front and back of the photo
+f. All emails from by, between, or referencing any Defendant
+in Jane Doe 43, or communicating with any person Ms. Ransome knew through
+Jeffrey Epstein, or that related to her claims in this case and the Jane Doe 43
+complaint.
+2. Requiring Ms. Ransome to re-appear for deposition and respond to all questions as to
+which she was instructed not to answer in her first deposition, excluding the name of her
+current prescribing doctor; and
+3. Denying the Motion for Protective Order
+15
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 18 of 19
+Dated: March 2, 2017
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+Ty Gee (pro hac vice)
+HADDON,MORGAN AND FOREMAN,P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+16
+Case 1:15-cv-07433-LAP Document 1331-30 Filed 01/05/24 Page 19 of 19
+CERTIFICATE OF SERVICE
+I certify that on March 2, 2017, I electronically served this Defendant’s Motion to Compel Non-
+Party Witness to Produce Documents, Respond to Deposition Questions, and Response to
+Motion for Protective Order via ECF on the following:
+Sigrid S. McCawley Paul G. Cassell
+MeredithSchultz 383 S. University Street
+BOIES,SCHILLER &FLEXNER,LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+17

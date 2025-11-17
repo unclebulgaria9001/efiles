@@ -1,0 +1,28 @@
+{
+  "doc_id": "1320-38",
+  "filename": "1320-38.pdf",
+  "extraction_date": "2025-11-17T10:22:09.712955",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 2819947,
+  "images_extracted": 0,
+  "dates_found": 2,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 124
+    }
+  ],
+  "people": [],
+  "locations": [],
+  "images": []
+}

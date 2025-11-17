@@ -1,0 +1,84 @@
+{
+  "doc_id": "1331-16",
+  "filename": "1331-16.pdf",
+  "extraction_date": "2025-11-17T10:16:44.768463",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 16637,
+  "images_extracted": 0,
+  "dates_found": 14,
+  "people_found": 57,
+  "locations_found": 1,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 464
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 662
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2702
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4843
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6638
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9045
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11229
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13232
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15210
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15840
+    }
+  ],
+  "people": [
+    "Be Deemed Unavailable",
+    "See Lindner",
+    "At Trial",
+    "Not Unavailable\nPlaintiff",
+    "Defendant Ghislaine Maxwell",
+    "In Toto Certain",
+    "University Street",
+    "Ghislaine Maxwell",
+    "Depositions Excerpts",
+    "Depositions Designated By",
+    "Civil Procedure",
+    "See Menninger Decl",
+    "Federal Practice",
+    "Meadow Gold\nDairies",
+    "Reply In\nSupport",
+    "Retained Expert",
+    "To\nExclude In",
+    "Nicole Simmons\nNicole",
+    "Motion In Limine",
+    "Phillip Esplin Cannot"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

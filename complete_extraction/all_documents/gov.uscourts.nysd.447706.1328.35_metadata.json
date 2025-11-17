@@ -1,0 +1,86 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.35",
+  "filename": "gov.uscourts.nysd.447706.1328.35.pdf",
+  "extraction_date": "2025-11-17T10:17:16.983487",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 15660,
+  "images_extracted": 0,
+  "dates_found": 17,
+  "people_found": 51,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 462
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 654
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2626
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4592
+    },
+    {
+      "date_string": "4/22/16",
+      "position": 5338
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6664
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8768
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10473
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12247
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14210
+    }
+  ],
+  "people": [
+    "Did Ms",
+    "The Palm Beach",
+    "Breakers Hotel",
+    "Christina Venero",
+    "Defendant Ghislaine Maxwell",
+    "Tony Figueroa",
+    "University Street",
+    "Ghislaine Maxwell",
+    "Detective Joseph Recarey",
+    "Strike Plaintiff",
+    "Reply In\nSupport",
+    "Reply Or",
+    "Detective Joe Recarey",
+    "Nicole Simmons\nNicole",
+    "Misrepresentations Of Fact",
+    "Order And To",
+    "To The\nCourt",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "Virginia Roberts"
+  ],
+  "locations": [
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

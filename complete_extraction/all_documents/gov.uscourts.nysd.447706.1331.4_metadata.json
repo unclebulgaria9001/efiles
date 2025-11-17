@@ -1,0 +1,111 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.4",
+  "filename": "gov.uscourts.nysd.447706.1331.4.pdf",
+  "extraction_date": "2025-11-17T10:19:34.243298",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 40598,
+  "images_extracted": 0,
+  "dates_found": 45,
+  "people_found": 114,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0006"
+    },
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    },
+    {
+      "email_file": "0054_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0054"
+    },
+    {
+      "email_file": "0064_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0064"
+    },
+    {
+      "email_file": "0161_18 17_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0161"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 537
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1925
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4355
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6584
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8678
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10692
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12940
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15145
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 17320
+    }
+  ],
+  "people": [
+    "See Schultz Decl",
+    "No Alleged Spoliation",
+    "Electronic\nCourt",
+    "Numerex Corp",
+    "Journal Because There",
+    "Which Ms",
+    "Court\nSouthern District",
+    "Judith Lightfoot",
+    "Journal Was Favorable",
+    "Misconduct\nThe",
+    "University St",
+    "Was Favorable",
+    "Law\nUniversity",
+    "Methyl Tertiary Butyl",
+    "There Was No",
+    "Meredith Schultz\nSigrid",
+    "Jane\nDoe No",
+    "Chelsey Clinton",
+    "Federal Rules",
+    "Main Street\nArmonk"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

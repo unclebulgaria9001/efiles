@@ -1,0 +1,86 @@
+{
+  "doc_id": "1325-1",
+  "filename": "1325-1.pdf",
+  "extraction_date": "2025-11-17T10:23:04.744178",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 41514,
+  "images_extracted": 0,
+  "dates_found": 33,
+  "people_found": 73,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 400
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 587
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2844
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4721
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6740
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 8802
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 10939
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 13465
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 15931
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 18120
+    }
+  ],
+  "people": [
+    "See Churcher Decl",
+    "Teen Sex Slave",
+    "Joinder\nMotion",
+    "As Churcher",
+    "Bradley Edwards",
+    "President Clinton",
+    "Alan Dershowitz\nChurcher",
+    "Defendant Ghislaine Maxwell",
+    "See\nMenninger Decl",
+    "The Joinder Motion",
+    "University Street",
+    "Ghislaine Maxwell",
+    "See Motion",
+    "Churcher Declaration",
+    "Under New\nYork",
+    "See Menninger Decl",
+    "New York\nShield",
+    "Directly\nRelevant\nThis",
+    "Only Churcher",
+    "If Plaintiff"
+  ],
+  "locations": [
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

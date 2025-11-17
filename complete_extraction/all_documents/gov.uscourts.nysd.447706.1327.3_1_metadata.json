@@ -1,0 +1,99 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.3_1",
+  "filename": "gov.uscourts.nysd.447706.1327.3_1.pdf",
+  "extraction_date": "2025-11-17T10:17:50.305485",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "financial"
+  ],
+  "text_length": 16609,
+  "images_extracted": 0,
+  "dates_found": 29,
+  "people_found": 220,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt",
+      "email_id": "0001"
+    },
+    {
+      "email_file": "0021_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0021"
+    },
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 140
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 486
+    },
+    {
+      "date_string": "02/11/2015",
+      "position": 1935
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2036
+    },
+    {
+      "date_string": "02/11/2015",
+      "position": 3056
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3157
+    },
+    {
+      "date_string": "02/11/2015",
+      "position": 4210
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4311
+    },
+    {
+      "date_string": "02/11/2015",
+      "position": 5097
+    }
+  ],
+  "people": [
+    "Pool Service When",
+    "British Airways",
+    "Merry Rug",
+    "Ghislaine Maxwell\nAccountants",
+    "Newspapers Publix Super",
+    "Sunset Avenue General",
+    "Assistants\nLeslie Groff",
+    "House Manager Jojo",
+    "Sunset Avenue Gourmet",
+    "The Door Smith",
+    "Carmine Giardini",
+    "Irrigation Dolphin Sprinkler",
+    "Hardware\nHome Depot",
+    "Pool Service Monday",
+    "Bishop Water Co",
+    "Roto Rooter Blocked",
+    "Lake Worth",
+    "Beech Jet",
+    "Pastora Peadon",
+    "General Plumbing\nCustomer"
+  ],
+  "locations": [
+    "France",
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

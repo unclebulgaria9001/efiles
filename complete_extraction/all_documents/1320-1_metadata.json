@@ -1,0 +1,51 @@
+{
+  "doc_id": "1320-1",
+  "filename": "1320-1.pdf",
+  "extraction_date": "2025-11-17T10:20:27.563071",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "legal_document"
+  ],
+  "text_length": 1895,
+  "images_extracted": 0,
+  "dates_found": 4,
+  "people_found": 4,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0104_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt",
+      "email_id": "0104"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 121
+    },
+    {
+      "date_string": "January 10, 2015",
+      "position": 181
+    },
+    {
+      "date_string": "January 10, 2015",
+      "position": 181
+    }
+  ],
+  "people": [
+    "Jeffrey\nWe",
+    "Ross Gow",
+    "Jane Does",
+    "Philip Barden"
+  ],
+  "locations": [],
+  "images": []
+}

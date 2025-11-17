@@ -1,0 +1,75 @@
+{
+  "doc_id": "1320-20",
+  "filename": "1320-20.pdf",
+  "extraction_date": "2025-11-17T10:21:07.944470",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 19269,
+  "images_extracted": 0,
+  "dates_found": 11,
+  "people_found": 12,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 408
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 587
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2673
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4471
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 6604
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 9151
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 11311
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 13109
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 15425
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 18079
+    }
+  ],
+  "people": [
+    "Plaintiffidentifies Nadia\nMarcinkova",
+    "Fifth Amendment",
+    "Lakes Rd",
+    "Theinformation Plaintiffclaims",
+    "In\nSigalav",
+    "Las Olas Boulevard",
+    "James Parish Sch",
+    "Amherst Coll",
+    "Conde Nast",
+    "Andrews Ave",
+    "Avenue\nDenver",
+    "See Fed"
+  ],
+  "locations": [],
+  "images": []
+}

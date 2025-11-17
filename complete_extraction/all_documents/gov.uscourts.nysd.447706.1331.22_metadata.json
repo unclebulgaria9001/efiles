@@ -1,0 +1,58 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.22",
+  "filename": "gov.uscourts.nysd.447706.1331.22.pdf",
+  "extraction_date": "2025-11-17T10:19:35.500331",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 106162,
+  "images_extracted": 0,
+  "dates_found": 9,
+  "people_found": 1,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10693
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10769
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 26562
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 43210
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 59834
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 76948
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 93139
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 106015
+    }
+  ],
+  "people": [
+    "File Under Seal"
+  ],
+  "locations": [],
+  "images": []
+}

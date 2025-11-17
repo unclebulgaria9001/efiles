@@ -1,0 +1,65 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.15_1",
+  "filename": "gov.uscourts.nysd.447706.1327.15_1.pdf",
+  "extraction_date": "2025-11-17T10:17:54.380689",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 8647,
+  "images_extracted": 0,
+  "dates_found": 7,
+  "people_found": 6,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0162_01_03_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0162"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2776
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5983
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7980
+    },
+    {
+      "date_string": "July 14, 2016",
+      "position": 3279
+    },
+    {
+      "date_string": "July 14, 2016",
+      "position": 3279
+    }
+  ],
+  "people": [
+    "Menninger\nHaddon",
+    "Laura Menninger\nSent",
+    "Meredith Schultz\nCc",
+    "Jeff Pagliuca",
+    "If\nIdonothearfromyou",
+    "Gerbil\nConferral\nAlthoughmanyofyourothersearchtermsareatremendousstretch"
+  ],
+  "locations": [
+    "Paris",
+    "France"
+  ],
+  "images": []
+}

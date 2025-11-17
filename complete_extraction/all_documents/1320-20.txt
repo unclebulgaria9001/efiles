@@ -1,0 +1,300 @@
+# Document: 1320-20.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 11
+# People Found: 12
+# Locations Found: 0
+# Linked Emails: 0
+
+================================================================================
+
+UNITEDSTATES DISTRICT COURT
+SOUTHERNDISTRICT OFNEWYORK
+--------------------------------------------------X
+VIRGINIA L.GIUFFRE,
+Plaintiff,
+v.
+15-cv-07433-RWS
+GHISLAINEMAXWELL,
+Defendant.
+--------------------------------------------------X
+DEFENDANT’S RESPONSE INOPPOSITIONTO
+MOTIONTO EXCEEDPRESUMPTIVE TENDEPOSITIONLIMIT
+.........................................
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 1 of 11
+LauraA.Menninger
+JeffreyS.Pagliuca
+HADDON,MORGAN, ANDFOREMAN,P.C.
+East 10th Avenue
+Denver,CO80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 2 of 11
+Defendant GhislaineMaxwell (“Ms.Maxwell”)files this ResponseinOppositionto
+Plaintiff’s MotiontoExceed PresumptiveTenDepositionLimit,andstates as follows:
+INTRODUCTION
+Despitehavingtakenonlythreedepositionstodate,Plaintiffprematurelyrequests
+permissiontoexceedthepresumptivetendepositionlimit imposedbyFed. R.Civ.P.
+30(a)(2)(A)(i)andtoconduct 17separatedepositions, almost twicethelimit. Without legal
+support,Plaintiffattempts toconflatethepresumptivetimelimitationforeachdepositionof
+seven hours witharight totakeatotal of70hours ofdepositions. This is anabsurdreadingof
+theFederal Rules. Thepresumptivetendepositionlimitationis anindependent limitation,and
+speaks tothenumberofseparatedeponents, notdepositiontime. Indeed,thetwoindependent
+limitations donot evenappearinthesamesection oftherules.
+Theheart ofPlaintiff’s argument is that Ms. Maxwell inconvenientlytestifiedanddenied
+Plaintiff’s claims, ratherthaninvokingthe FifthAmendment. This dashed Plaintiff’s apparent
+hopetoobtainanadverse inference,ratherthan actuallyhavingtoproveher caseagainst Ms.
+Maxwell. Instead,Ms. Maxwell fullytestifiedfortheentire7hours, respondedtoall questions
+posedtoher,1 andtestifiedbasedonher actual knowledge. Ms.Maxwell’s testimonysimply
+bears norelevancetoPlaintiff’s request totakemorethan10depositions ofnon-partywitnesses.
+Conspicuouslyabsent from Plaintiff’s motionare(a)anyactual information shebelieves
+thesewitnesses mayprovidewhichis neithercumulativenorduplicativeof otherinformation
+alreadydisclosedinthis case,(b)thefact theinformationcanbeobtainedfrom othersources,
+1
+Plaintiffflatlymis-representstotheCourtthatMs.Maxwell“refused”toanswerthequestionsposedto
+her,astheactualtranscriptamplydemonstrates. Ms.Maxwelldidnotavoidanyquestionsandanswered
+allquestionstothebestofherrecollectionrelatingtoallegedevents15yearsago. Themajorityofthe
+bulletpoint“summary”ofthemattersaboutwhichMs.Maxwellcouldnottestifywerebasedeitherona
+lackofanypersonalknowledgeorthefactthattheeventsclaimedbyPlaintiffdidnotactuallyhappen.
+1
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 3 of 11
+and(c) facts demonstratingthat theburdenand expenseofthediscoveryis justifiedbytheneeds
+ofthis case. Indeed,she has not establishedthat thetestimonyis even relevant totheactual
+issues inthis matter. Plaintiff’s inabilitytoestablish thesefactors requires denial ofthemotion.
+I. PLAINTIFF’S REQUEST IS PREMATURE
+First,therequest toexceedthepresumptiveten-depositionlimitis premature. “[C]ourts
+generallywill not grant leavetoexpandthenumberofdepositions until themovingpartyhas
+exhaustedthetendepositions permittedas ofright underRule30(a)(2)(A) orthenumber
+stipulatedtobytheopposingparty.” Gen.Elec. Co.v.Indem.Ins. Co.of N.Am.,No.3:06-CV-
+232(CFD),2006WL1525970,at *2(D.Conn.May25,2006).
+This guidelinemakes sensebecausea “movingpartymust not onlyjustifythose
+depositions it wishes totake,but alsothedepositions it has alreadytaken.” Id. (citingBarrow v.
+GreenvilleIndep.Sch.Dist., 202F.R.D.480,482(N.D.Tex.2001)).This ruleis inplacebecause
+“apartycouldindirectlycircumvent thecapondepositions byexhaustingthemaximum allotted
+numbertothosethat she couldnot justifyundertheRule26(b)(2)standards,andthenseek[ ]
+leavetoexceedthelimit inordertotakedepositions that shecouldsubstantiate.”Id.at 483.
+Here,Plaintiffseeks apre-emptivedeterminationthat sheshouldbepermitted17
+depositions, almost twicethepresumptivelimit, yet herproposeddepositions arenot calculated
+to leadtoadmissibleevidenceinthis case. Bywayof example,Plaintiffidentifies Nadia
+Marcinkova,SarahKellen(a/k/aSarah KensigntonorSarahVickers), and JeffreyEpsteinas
+alleged “co-conspirators” with each other. She requests thedepositions ofeach. Plaintiff
+anticipates eachwill invoketheFifthAmendment –inotherwords, shewill not obtainany
+discoverableinformation from them.
+2
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 4 of 11
+Plaintiffmakes abizarre argument that somehowthis testimonycanbeusedtocreate an
+adverseinference against Ms.Maxwell,2 despitethefact that Ms.Maxwell didnot invokethe
+Fifth Amendment andshetestifiedfullyandansweredeveryquestionposedtoherwiththeonly
+exceptiontheirrelevant andharassingquestions Plaintiffposed toher concerningheradult,
+consensual sexual activities. Inotherwords, depositions ofMarcincova,KellenandEpstein
+wouldservePlaintiff’s goal tomakeaconvoluted legal argument,not toactuallyseek
+discoverableinformation. Inlight ofthis, the“burdenorexpenseoftheproposeddiscovery
+outweighs its likelybenefit,consideringtheneeds ofthecase,theparties'resources, the
+importanceoftheissues at stakeintheaction,and theimportanceofthediscoveryinresolving
+theissues.” Atkinson v. Goord,No.01CIV.0761 LAKHBP,2009WL890682,at *1(S.D.N.Y.
+Apr.2,2009); Fed.R.Civ.P.26(b)(1). IfPlaintiffchooses touseherdepositions inthis manner,
+sherisks utilizingthreeofheravailable10depositions foranillegitimatepurpose. Sheshould
+not berewardedwithapre-emptive carteblanche inadvancetotakeadditional depositions.
+II. THE PROPOSEDDEPOSITIONS ARE CUMULATIVE,DUPLICATIVE,AND
+NOT RELEVANT TOTHE CENTRAL ISSUES OFTHE DISPUTE
+Plaintiffhas not met therequisiteshowingtopermit inexcess of10depositions. In
+Sigalav.Spikouris,00CV0983(ILG),2002WL721078at *3(E.D.N.Y. Mar.7,2002),the
+Court set forththegeneral principles relevant toa party's applicationtoconduct morethanten
+depositions:
+2
+InvocationoftheFifthAmendmentbyathirdpartywitnesscannotbeusedtocreateanadverse
+inferenceagainstapartyinacivilaction. SeeUnitedStatesv.Dist.CouncilofNewYorkCity&Vicinity
+ofUnitedBhd.ofCarpenters&JoinersofAm.,No.90CIV.5722(CSH),1993WL159959,at*5
+(S.D.N.Y.May12,1993)(“thegeneralrule[is]thatanindividual'sclaimofFifthAmendmentprotection
+ispersonal,anddoesnotgiverisetoadverseinferencesagainstothers.”); Brennerv.WorldBoxing
+Council,675F.2d445,454n.7(2dCir.),certdenied,459U.S.835(1982)(“Furthermore,sinceKing
+wasanon-partywitness,noadverseinferenceagainstappelleescouldhavebeendrawnfromhisrefusal
+totestify.”).
+3
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 5 of 11
+TheFederal Rules presumptivelylimit thenumberofdepositions that each side
+mayconduct toten.See Fed.R.Civ.P.30(a)(2) (A)(“Apartymust obtainleaveof
+court,whichshall be grantedtotheextent consistent withtheprinciples statedin
+Rule26(b)(2),if... aproposeddepositionwouldresult inmorethanten
+depositions beingtaken....”); accord Universal CityStudios v.Reimerdes,104
+F.Supp.2d334,342(S.D.N.Y.2000); Landryv.St. James Parish Sch.Bd.,No.
+Civ.A99-1438,2000WL1741886, at *2(E.D.La.Nov.22,2000).Thepurpose
+ofRule30(a)(2)(A)is to“enable courts tomaintaina‘tighterrein’ontheextent
+ofdiscoveryandtominimizethepotential cost of‘[w]ide-rangingdiscovery’ ...
+.” Whittinghamv.Amherst Coll., 163F.R.D.170,171-72(D.Mass.1995) (citation
+omitted).Accordingly,“[t]hemerefact that manyindividuals mayhave
+discoverableinformation does not necessarilyentitleapartytodepose each such
+individual.”Dixonv.CertainteedCorp., 164F.R.D.685,692(D.Kan.1996).
+“Thefactors relevant todeterminingwhether apartyshouldbeentitledtomorethanten
+depositions arenowset forthinFed.R.Civ.P.26(b)(2)(C)3 andincludewhether(1)thediscovery
+sought is unreasonablycumulativeorduplicative orcanbeobtainedfrom someothersourcethat
+is moreconvenient,less burdensome,orless extensive,(2)thepartyseekingdiscoveryhas had
+ampleopportunitytoobtaintheinformationbydiscoveryintheaction,and(3)theburdenor
+expenseoftheproposed discoveryoutweighs its likelybenefit,consideringtheneeds ofthe case,
+theparties'resources, the importanceoftheissues at stakeintheaction,and theimportanceof
+thediscoveryinresolvingtheissues.”Atkinson,2009WL890682,at *1(S.D.N.Y.Apr.2,2009)
+(internal quotations omitted).
+3Rule26(b)(1)hassincebeenmodifiedtoread“(i)thediscoverysoughtisunreasonablycumulativeorduplicative,
+orcanbeobtainedfromsomeothersourcethatismoreconvenient,lessburdensome,orlessexpensive;(ii)theparty
+seekingdiscoveryhashadampleopportunitytoobtaintheinformationbydiscoveryintheaction;or(iii)the
+proposeddiscoveryisoutsidethescopepermittedbyRule26(b)(1).” Thescopeofdiscoverypermittedby26(b)(1)
+is“non-privilegedmatterthatisrelevanttoanyparty'sclaimordefenseandproportionaltotheneedsofthecase,
+consideringtheimportanceoftheissuesatstakeintheaction,theamountincontroversy,theparties’relativeaccess
+torelevantinformation,theparties’resources,theimportanceofthediscoveryinresolvingtheissues,andwhether
+theburdenorexpenseoftheproposeddiscoveryoutweighsitslikelybenefit.” Thus,thefactorstobeconsidered
+havesimplybeenmovedtoanewnumberwithcrossreference.
+4
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 6 of 11
+Weighingthesefactors, thereis nobasis forpermittingmorethanthepresumptiveten
+depositionlimit. First,ashighlightedbythemotion,theinformationpurportedlysought is
+cumulativeandduplicative. Bywayofexample, Plaintiffhas alreadydeposedJohannaSjoberg
+(aformerEpsteinemployee),JuanAlessi (aformerEpsteinemployee),andDavidRodgers4
+(formerEpsteinPilot). Shefurtherseeks to-deposeMariaAlessi andJoFontanella(former
+Epsteinhouseholdemployees), as well asJane Doe 2 andEmmyTaylor(identifiedas assistants
+toMs.Maxwell orMr.Epstein). Theinformation Plaintiffclaims eachofthewitnesses may
+haveis identical tothat ofeach other– what theyobservedwhileworkingforEpstein. Plaintiff
+goes so far as tostatethat MariaAlessi’s depositionis expectedto“corroborate”the
+observations ofherhusband’s.
+Plaintiffadmits that thepurposeinseekingtheadditional depositions is “obtaining
+witnesses, likeMs.Sjoberg, whocan corroboratethat [Plaintiff]is tellingthetruth.” Yet,Ms.
+Sjobergdidnot “corroboratethat [Plaintiff] is tellingthetruth.” Instead,shetestifiedthat■she
+was hiredas anadult byJeffreyEpstein toprovideprofessional massages, that Ms.Maxwell
+neveraskedher foranytypeofsexual massage,that sheneversawPlaintiff givingamassageto
+Ms.Maxwell nordidsheseeMs.Maxwell receiveamassagefrom anyunderage girl,indeed,in
+her5plus years workingforMr.Epstein,sheneversawanyperson underageat his home.
+Regardless,Plaintiffis lookinginvainformoretestimonyofexactlythesamecharacter,
+preciselythetypeoftestimonythepresumptivelimit is intendedtoprevent.
+Similarly,the expecteddepositiontestimonyof formerPalm BeachDetectiveJoe
+RecareyandformerPalm BeachPoliceChiefMichael Reiter areduplicativeofeachother.
+4Mr.Rodgersdeposition,heldlastFridayandrequiringaseparatetriptoFloridaforColoradocounselafterthe
+scheduledcourthearingonThursday,servedsimplytoauthenticateflightlogs. Therearefarmoreconvenient,less
+burdensome,andlessexpensivemethodsbywhichsuchinformationcouldhavebeenobtained,suchasaverifying
+affidavit,yetPlaintiffchosetounnecessarilyburdencounsel,thewitnessandcounselforthewitnesswitha3hour
+depositiontoaccomplishthesameend.
+5
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 7 of 11
+Puttingasidetheadmissibilityofthis testimony,it appears that bothmenwereinvolvedinthe
+investigationofMr.Epsteinandareexpectedtotestifyabout theirinvestigation. Plaintiff’s
+allegations werenot apart oftheirinvestigation,whichtookplace years afterPlaintiffleft the
+country. Moreover,their investigationdidnot involveMs.Maxwell. Again,suchduplicative
+andirrelevant depositiontestimonyspeaks totheintended purposeoftheten-depositionlimit,
+not areason toexceedthat limit.
+Thesameholds truefor NadiaMarcinkova,SarahKellen(a/k/aSarahKensigntonor
+SarahVickers)andJeffreyEpstein,each of whom Plaintiffanticipates will not respond to
+questions andinvoketheirFifthAmendment right. As discussedabove,suchinvocationhas no
+bearingontheissues inthis matter. Moreover,it is obviouslycumulative andduplicative.
+Plaintiffalso identifies RinaldoRizzoandJeanLucBrunel but fails toprovideany
+informationfrom which Ms.Maxwell ortheCourt couldidentifythesubject matteroftheir
+expectedtestimony. Thus, it is unclearhowthese individuals haveinformationthat differs from
+orwouldaddtotheother proposeddeponents. It is thePlaintiff’s burdento explaintotheCourt
+whythesedepositions shouldbepermittediftheyexceedthepresumptivelimit,whythe
+informationwouldnot becumulative,andits relevancetotheimportant issues in theaction,or
+theimportanceofthediscoveryinresolvingthose issues. Shesimplyfails toprovideany
+informationbywhichthe Court canassess thesefactors, andthus shouldnot bepermittedto
+exceedthedepositionlimit basedonherproffer.
+III. THE TESTIMONYSOUGHT IS IRRELEVANT TO THIS SINGLECOUNT
+DEFAMATIONCASE
+This caseis asimpledefamationcase. Plaintiff,throughhercounsel,filed apleading
+makingcertainclaims regarding“JaneDoeNo.#3”–thePlaintiff–andheralleged
+6
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 8 of 11
+“circumstances.” SeeComplaint. Ms.Maxwell deniedtheallegations madestatingtheywere
+“untrue” and“obvious lies.” Plaintiffclaims thesestatements aredefamatorybecauseshehas
+beencalleda“liar.”
+“Apublicfigure claimingdefamationunderNew Yorklawmust establish that ‘the
+statements ...complain[ed] ofwere(1)ofand concerning[theplaintiff], (2)likelyto be
+understoodas defamatorybytheordinaryperson, (3)false, and(4)publishedwithactual
+malice.’” Biro v.Conde Nast,963F.Supp.2d255,276(S.D.N.Y.2013), aff'd, 807F.3d541
+(2dCir.2015),andaff'd, 622F.App'x 67(2dCir.2015).
+If Ms.Maxwell’s statements are essentiallytrue– Plaintifflied–Plaintiffcannot
+establish herclaim,andit is anabsolutedefense.5 Further,ifPlaintiffcannot proveactual malice
+byMs.Maxwell,herclaim fails. SeeContemporaryMission,Inc.v.New YorkTimes Co.,842
+F.2d612,621(2dCir.1988)(limitedpurposepublicfiguremust establish byclear and
+convincingevidencethat thedefendant publishedtheallegeddefamatorystatement withactual
+malice,“that is, withknowledgethat it was falseorwith reckless disregard ofwhetherit was
+falseornot”)(quotingNew YorkTimes, 376U.S.241,280(1964)). That is, Plaintiffmust prove
+that Ms.Maxwell permittedthepublicationofthe statement knowingit tobeuntrue.
+Noneofthewitnesses identifiedarelistedas havingdiscoverableinformationregarding
+anyoftheelements ofthis claim. Noneis claimed tohavedirect knowledgetoconfirm thetruth
+ofPlaintiff’s claims about what happenedtoher,that theacts she claimssheparticipatedin
+5
+ThereisonlyonepublicstatementthatexistedonJanuary2,2015towhichMs.Maxwellwasrespondinginthe
+statementbyherpressagent. ThedocumentistheJoinderMotionfiledintheCrimeVictims’RightsActcaseon
+behalfofPlaintiffbyherattorneys,BradleyEdwardsandPaulCassell. MenningerDecl.,Ex.A,p.4.Theveryfirst
+linedescribingJaneDoe#3Circumstancesisfalse,asPlaintiffnowconcedes. Itread: “In1999,JaneDoe#3was
+approachedbyGhislaineMaxwell,”andcontinuingthat“MaxwellpersuadedJaneDoe#3(whowasonlyfifteen
+yearsold)tocometoEpstein'smansion...” PlaintiffnowconcedesthatshedidnotmeetMs.MaxwellorMr.
+Epsteinin1999,andshewasnot15yearsold. MenningerDecl.,Ex.Aat26-29. Noamountof“circumstantial
+evidence”canovercomethefactthatMs.Maxwell’sstatementwascorrectandthatstatementsintheJoinder
+Motionwereuntrue.
+7
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 9 of 11
+occurredorthat theyoccurredwiththepeopleshe claims tohavebeen involved.Rather,each
+witness identifiedas beingabletoprovidetheirobservations regarding“other”allegedly
+underage girls, theirown personal experience,6 orbeliefs about Plaintiff’s credibility. Noneof
+this is relevant. This is not acase about JefferyEpsteinorthealleged “modus operandi ofthe
+Epsteinorganization.” This is asimplecaseofif Ms.Maxwell’s denial oftheallegations made
+byPlaintiff about Plaintiff’s owninteractions with Maxwell wasdefamatory,andifMs.Maxwell
+actedwithactual maliceinissuingthedenial. Plaintiff’s attempt toamplifythis proceedinginto
+somethingbroadershouldnot becondoned.
+Becausethe evidencesought is nothingmorethanextraneous inadmissible
+“circumstantial evidence”7 irrelevant toprovingtheessential elements oftheclaim,“theburden
+orexpenseoftheproposeddiscoveryoutweighs its likelybenefit,consideringtheneeds ofthe
+case,theparties'resources, theimportanceoftheissues at stakeintheaction,andtheimportance
+ofthediscoveryinresolvingtheissues.” Atkinson,2009 WL890682,at *1. As such,the
+request fortheadditional depositions shouldbedenied.
+WHEREFORE,Ms.Maxwell requests that theMotiontopermit inexcess ofthe
+presumptiveten depositionlimit bedenied; alternatively,ifinexcess oftendepositions are
+permitted,Ms.Maxwell requests that Plaintiffbe requiredtopayall costs andattorney’s fees
+6Theinformationsoughtisalsoinadmissible. Plaintiffseekstestimonyfromwitnesswhosheclaimswilltestifyto
+experiencesimilartoherstoriesandthiswill“corroborateMs.Giuffre'saccountdescriptionofthemotive,wayin
+whichEpsteinandhisco-conspiratorscreatedopportunity,intent,plan,knowledge,andtothespecificsthatmakeup
+thecriminalsignatureofEpsteinandhisco-conspirators.” Motionat15-16. Suchevidenceisprohibitedby
+FRE404(b),whichstates“Evidenceofacrime,wrong,orotheractisnotadmissibletoproveaperson’s
+characterinordertoshowthatonaparticularoccasionthepersonactedinaccordancewiththe character.”
+Furthermore,nootherwitnesshasclaimedasPlaintiffdoesthatGhislaineMaxwellsexuallyabusedthem,sexually
+traffickedthem,orthatshepartookindailysexwithanyunderagegirls. Plaintiff’sclaimstandsinisolationbecause
+itisfictional.
+7This“circumstantialevidence”hasnobearingonthetruthfulnessofthestoriespublishedbyPlaintiff. Itisequally
+likelytoshowthatPlaintiffbecameawareoftheallegationsofothersanddecidedtohoponthebandwagon. She
+thenmadeupsimilarclaimsforthepurposeofgettingpaidhundredsofthousandsofdollarsbythemediafor
+publicizingherallegationsandidentifyingwellknowpublicfigureswhosenamesshehasseendocumentsthatshe
+reviewedorotherstoriesshehadread.
+8
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 10 of 11
+associated withattendinganydepositionoccurringoutside100miles oftheCourthouseforthe
+SouthernDistrict ofNew York pursuant toS.D.N.Y L.Civ.R.30.1.
+Dated: June6,2016.
+Respectfullysubmitted,
+/s/ Laura A.Menninger
+LauraA.Menninger (LM-1374)
+JeffreyS.Pagliuca(pro hacvice)
+HADDON,MORGANANDFOREMAN,P.C.
+150East 10th Avenue
+Denver,CO80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for GhislaineMaxwell
+9
+Case 1:15-cv-07433-LAP Document 1320-20 Filed 01/03/24 Page 11 of 11
+CERTIFICATE OFSERVICE
+Icertifythat onJune6,2016, IelectronicallyservedthisDefendant’s ResponseinOppositionto
+MotiontoExceedPresumptiveTenDepositionLimitviaECFonthefollowing:
+SigridS.McCawley Paul G.Cassell
+MeridithSchultz 383S.UniversityStreet
+BOIES,SCHILLER&FLEXNER,LLP Salt LakeCity,UT84112
+401East Las Olas Boulevard,Ste.1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J.StanleyPottinger
+BradleyJ.Edwards 49Twin Lakes Rd.
+FARMER,JAFFE,WEISSING,EDWARDS, SouthSalem,NY10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425North Andrews Ave.,Ste.2
+Ft. Lauderdale, FL33301
+brad@pathtojustice.com
+/s/ NicoleSimmons
+NicoleSimmons
+10

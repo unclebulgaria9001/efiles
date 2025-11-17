@@ -1,0 +1,51 @@
+{
+  "doc_id": "1320-19",
+  "filename": "1320-19.pdf",
+  "extraction_date": "2025-11-17T10:20:56.907677",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 33018,
+  "images_extracted": 0,
+  "dates_found": 1,
+  "people_found": 23,
+  "locations_found": 4,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    }
+  ],
+  "people": [
+    "Jean Luc Brunel",
+    "Virgin Islands",
+    "In Sydney",
+    "Luc Brunel",
+    "Ghislaine Maxwell",
+    "Corrected Motion Pursuant",
+    "Growing Together",
+    "Glenn Dubin",
+    "El Brillo",
+    "Prince Andrew",
+    "Palm Beach County",
+    "Including Mr",
+    "What Growing Together",
+    "Naomi Campbell",
+    "Jeffrey Epstein",
+    "When Ghislaine Maxwell",
+    "Sharon Churcher",
+    "So Glenn",
+    "Marvin Minsky",
+    "Jane Doe"
+  ],
+  "locations": [
+    "New Mexico",
+    "France",
+    "Palm Beach",
+    "Virgin Islands"
+  ],
+  "images": []
+}

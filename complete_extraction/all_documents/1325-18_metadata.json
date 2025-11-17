@@ -1,0 +1,86 @@
+{
+  "doc_id": "1325-18",
+  "filename": "1325-18.pdf",
+  "extraction_date": "2025-11-17T10:23:08.701362",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 33470,
+  "images_extracted": 0,
+  "dates_found": 25,
+  "people_found": 29,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 142
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 784
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2338
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 3891
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 5493
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 7073
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 8695
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 9999
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 11555
+    }
+  ],
+  "people": [
+    "Judge Marra",
+    "Your Honor",
+    "New York Daily",
+    "Buckingham Palace",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "The Khalil",
+    "The Second Circuit",
+    "Laura Menninger",
+    "In Cruz",
+    "New York Court",
+    "Prince Andrew",
+    "The Matherson",
+    "Bill Cosby",
+    "The Court",
+    "Sigrid Mccawley",
+    "Virginia Giuffre",
+    "Victims Refuse Silence",
+    "Jeffrey Epstein",
+    "District Judge"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "London"
+  ],
+  "images": []
+}

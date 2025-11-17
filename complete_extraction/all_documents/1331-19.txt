@@ -1,0 +1,284 @@
+# Document: 1331-19.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document
+# Images Extracted: 0
+# Dates Found: 22
+# People Found: 71
+# Locations Found: 2
+# Linked Emails: 1
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 1 of 12
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S MOTION TO COMPEL ALL WORK PRODUCT AND ATTORNEY
+CLIENT COMMUNICATIONS WITH PHILIP BARDEN
+Meredith Schultz
+BOIES, SCHILLER & FLEXNER LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 2 of 12
+Plaintiff Virginia Giuffre, arguedin herOpposition to Summary Judgment that Defendant
+had waived her attorney-client and work-product privilege by submitting a lengthy self-serving
+affidavit by her attorney Philip Barden in support of her motion for Summary Judgment that
+discussed Mr. Barden’s “intent” in allegedly being the main drafter of Defendant’s January 2,
+2015 press release. (DE 586 at p. 34) In Reply, Defendant conceded that in submitting Barden’s
+declaration, she had waived the work-product privilege, but denied a waiver of the attorney-
+client privilege. (DE 620 at p. 11)Despite admitting that Mr. Barden waived the work-product
+privilege, Defendant failed to produce all other work product documents. This Motion seeks
+production of those documents along with production of all documents previously withheld on
+the ground of attorney-client privilege because those,too,were waived by Defendant’s approval
+to submit Mr. Barden’s self-serving declarationin support of Summary Judgment.Specifically,
+Ms. Giuffre, hereby moves this Court to Order Defendant to produce all work product documents
+(including any internal e-mail communications)and all attorney-client communications she has
+had with her attorney, Philip Barden, relating to his representation of her, as well as all
+documents drafted, edited, or considered by Philip Barden in relation to his representation of
+Ghislaine Maxwell, which would include, but not be limited to, those privilegeddocuments
+Defendant listed on her privilege logand order Mr. Barden to sit for his deposition in New York
+relating to the subject matter of his waiver. See Schultz Dec. at CompositeExhibit 1.
+I. BACKGROUND
+In her Motion for Summary Judgment, Defendant relies on a post hoc, self-serving
+Declaration (“Barden Declaration”) from her English attorney Philip Barden. SeeSchultz Dec at
+Exhibit 2, Barden Declaration. Both the Declaration and the briefing forwhich it was drafted
+2
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 3 of 12
+reference Barden’s “intent”(and other synonymous phrases)regarding his legal advice to
+Defendant at least 62 times. The Declaration also reveals attorney client legal advice given to
+Defendant, such as:
+“I did not ask Ms. Maxwell to respond point by point…what we needed to do was…”
+(…)
+Moreover, throughout (1) the Barden Declaration; (2) Defendant’s summary judgment
+briefing; and (3) Defendant’s attorney’s statements at oral argument heard on February 16, 2017,
+Defendant represented to this Court that Barden issued the defamatory statement to the press.
+Defendant repeatedly made that false statement despite the fact that the documents show that
+Defendant authorized the statement and gave express approval to her press agent to publish the
+press release –not Barden –with Barden nowhere to be found on any of these communications.
+Defendant persists with this false representation not only despite the documents that prove
+otherwise, but alsodespite the fact that Defendant’s press agent’s sworn testimony states
+otherwise. Ross Gow testified that Defendant authorized the statement, “command[ed]” him to
+release it, and that Barden was wholly out of the loop during the lead up to Defendant’s decision
+to publish her defamatory statement. Gow’s testimony is backedup by the email
+communications among Defendant and Gow. Yet, despite both documentaryand testimonial
+evidence that Barden did not issue the defamatory statement to the press, Defendant persists in
+making these representations to the Court. By submitting Barden’s declaration, Defendant has
+clearly waived the privilege.
+As the Court will recall, Defendant has claimed a privilege in this litigation as to all email
+communications between herself and Barden, claiming attorney-client privilege, a privilege that
+this Court explicitly upheld. SeeDE 135 March 2, 2016 Opinion Granting in Part and Denying in
+Part Plaintiff’s Motion to Compel for Improper Claim of Privilege.
+3
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 4 of 12
+Significantly,Defendant attempts toblame the defamatory press releaseentirely on
+Barden. Giving false testimony at her deposition, in an evasive manner, Defendant saidBarden
+was the one who actuallyreleased the defamatory statement, pretending that she had nothing to
+do with it at all:
+Q. Did you issue a statement to your press agent, Ross Gow in 2015, stating that
+Virginia Roberts' claims were, quote, obvious lies?
+A. You need to reask me the question.
+Q. Sure. Did you issue a press statement through your press agent, Ross Gow, in
+January of 2015, stating that Virginia Roberts' claims were, quote, obvious lies?
+-A. Can you ask it a different way, please?
+(…)
+Q. Did you issue a press statement through your press agent, Ross Gow, in
+January of 2015, where you stated that Virginia Roberts' claims were, quote,
+obvious lies?
+A. So my lawyer, Philip Barden instructed Ross Gow to issue a statement.
+SeeSchultz Dec., Exhibit3, Maxwell Depo.Tr. at 201:8-202:11.
+Because of this denial in her sworn testimony(which was plainly untrue), Ms. Giuffre
+sought to depose her press agent to establish that Defendant (not her attorney or anyone else)
+authorized the release of the defamatory statement.
+Months later, on the eve of his deposition, Ross Gow produced the “smoking gun” email
+in whichDefendant explicitly “command[ed]” him to publish the defamatory statement.See
+Schultz Dec. at Exhibit 4, Defendant’s Email to Gow Authorizing Press Release.(As the Court is
+aware, Defendant defied this Court’s Order in her refusal toproducethis email she sent Gow,
+despite it being responsive to multiple requests for production,and containing six court-ordered
+search terms.)
+4
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 5 of 12
+The next day, Gow testified that Defendant authorized the release of the defamatory
+material,and that Barden was not part of their discussions in the lead-up to its release. The
+-documentary evidence – the emails exchanged between Defendant and Gow –supports this
+testimony:
+Q. The subject line does have “FW” which to me indicates it’s a forward. Do you
+know where the rest of this email chain is?
+A. My understanding of this is: It was a holiday in the UK, but Mr. Barden was
+not necessarily accessibleat some point in time, so this had been sent to him
+originally by Ms. Maxwell, and because he was unavailable, she forwarded it to
+me for immediate action. I therefore respond, “Okay, Ghislaine, I’ll go with this.”
+SeeSchultz Dec. at Exhibit 5, Gow Depo Tr. at 44:24-45:8
+II. LEGAL ARGUMENT
+A. Defendant Must Produce All Documents And Communications Relating to the
+Waived Work Product And Sit For A Deposition.
+“The work-product doctrine is waived when documents are voluntarily shared with an
+adversary or when a party possessing the documents seeks to selectively present the materials to
+prove a point, but then attempts to invoke the privilege to prevent an opponent from challenging
+the assertion.” Niagara Mohawk Power Corp. v. Stone & Webster Eng. Corp., 125 F.R.D. 578,
+587 (S.D.N.Y.1989). “Generally, the work product privilege is waived when protected materials
+are disclosed in a manner which is either inconsistent with maintaining secrecy against
+opponents or substantially increases the opportunity for a potential adversary to obtain the
+protected information.” Id. at 590. Additionally, “[t]he work product privilege is waived when a
+party to a lawsuit uses it inan unfair way that is inconsistent with the principles underlying the
+doctrine of privilege. It is well settled that waiver may be imposed when the privilege-holder has
+attempted to use the privilege as both ‘sword’ and ‘shield.’ Granite Partners, L.P. v.Bear
+Stearns & Co. Inc., 184 F.R.D. 49, 54 (S.D.N.Y.1999) (Sweet, D.J.); see also Coleco Indus., Inc.
+5
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 6 of 12
+v. Universal City Studios, Inc., 110 F.R.D. 688, 691 (S.D.N.Y.1986) (Sweet, D.J.)
+(“[Defendant’s] affidavit and attached work product were proffered as a‘testimonial use’ of
+materials otherwise privileged. Fairness requires that discovery not be limited only to those
+documents which have selectively been disclosed.”).
+When a party voluntarily waives its work product privilege in an attempt to use her
+attorney’s work product to her advantage, the party must also produce all related documents
+including drafts, e-mail communications relating to the work product, documents considered
+relating to the work product and any other materials created, received, used or considered
+relating in any way to Ms. Giuffre or this litigation, which is the very subject-matter of the
+disclosed work-product. See, e.g., Hickman v. Taylor, 329 U.S. 495, 511, 67 S. Ct. 385, 393, 91
+L. Ed. 451 (1947) (work product includes “interviews, statements, memoranda, correspondence,
+briefs, mental impressions, personal beliefs, and countless other tangible and intangible ways”);
+Comprehensive Habilitation Servs., Inc. v. Commerce Funding Corp., 240 F.R.D. 78, 87
+(S.D.N.Y. 2006) (partial waiver of work product demanded waiver of all work-product related to
+the subject matter of the initial disclosure); Coleco Indus., Inc. v. Universal City Studios, Inc.,
+110 F.R.D. 688 (S.D.N.Y. 1986) (finding defendant waived work-product privilege in disclosing
+documents that contained legal opinion of defendant's attorney in order to show reliance on
+attorney's advice, which also waived privilege for other documents containing work product on
+same issue); cf. In re Sealed Case, 676 F.2d 793, 817–18 (D.C.Cir.1982) (disclosure required
+“when a party seeks greater advantage from its control over work product than the law must
+provide to maintain a healthy adversary system”).
+As explained above, Defendant admitted in herreply brief to waiving the work product
+privilege with respect to Mr. Barden’s work for the Defendant relating to the issues in this case,
+6
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 7 of 12
+yet has failed to produce any of the related documents. Accordingly, Ms. Giuffre respectfully
+requests that this Court direct the Defendant to produce all work product documents, including
+but not limited to all drafts, e-mail communications relating to the work product, documents
+considered relating to the work product and any other materials created, received, used or
+considered that relate in any way to this litigation or Ms. Giuffre and direct Mr. Barden to sit for
+his deposition in New York.
+B.Defendant Waived Her Attorney Client Privilege By Submitting the Barden
+Declaration In Support of Her Motion for Summary Judgement.
+Just as with the work-product privilege, the attorney-client privilege cannot be used as a
+sword and a shield. See, e.g., United States v. Bilzerian, 926 F.2d 1285, 1292 (2d Cir. 1991)
+(“attorney-client privilege cannot at once be used as a shield and a sword”); McGrath v. Nassau
+County Health Care Corp., 204 F.R.D. 240, 245 (E.D.N.Y.2001) (attorney-client privilege and
+work-product privilege are governed by the “same fairness concerns”);Granite Partners,184
+F.R.D. at 54 (Sweet J.) (“waiver may be invoked where ‘a litigant makes selective use of
+privileged materials, for example, by releasing only those portions of the material that are
+favorable to his position, while withholding unfavorable portions.’” (internal citations omitted)).
+The Second Circuit has held that “the [attorney-client] privilege may be implicitly waived
+when [a party] asserts a claim that in fairness requires examination of protected
+communications.” Bilzerian, 926 F.2d at 1292. Thus, “even if the privilege holder does not
+attempt to make use of the privileged communication[,] he may waive the privilege if he makes
+factual assertions the truth of which can only be assessed by examination of the privileged
+communication.” In re Kidder Peabody Secs. Litig., 168 F.R.D. 459, 470 (S.D.N.Y. 1996).
+Moreover, countless district courts have found that the filing of privileged
+communications also waives the attorney-client privilege. See Curto v. Med. World Commc'ns,
+7
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 8 of 12
+Inc., 783 F. Supp. 2d 373, 380 (E.D.N.Y. 2011) (waiver where party filed attorney-client
+communications on “publically-accessible electronic docket” and voluntarily sent copy to
+opposing counsel); accord First Am. CoreLogic, Inc. v. Fiserv, Inc., 2010 WL 4975566, at *2
+(E.D.Tex. Dec. 2, 2010) (finding waiver of attorney-client privilege when party attached
+privileged communications to motion for protective order and served the documents on all
+parties); Tardiff v. Knox Cnty., 2007 WL 2413033, at **1–2 (D.Me. Aug. 21, 2007) (noting
+party's concession of waiver of attorney-client privilege when party submitted privileged email
+communications as an exhibit to court filing); Malkovich v. Best Buy Enter. Servs., Inc., 2006
+WL 1428228, at *1 (D. Minn. May 22, 2006) (“By submitting the affidavit and accompanying
+exhibits, Plaintiff has waived the attorney-client privilege....”).
+Defendant has withheld communications between herself and her attorney Mr. Barden on
+the basis of “attorney-client privilege.” That privilege was waived by her affirmative submission
+of Mr. Barden’s declaration which included references to attorney-client communications
+between Maxwell and Mr. Barden. Accordingly, all communications, whether they are logged
+or not, between Defendant and Mr. Barden and any related communications Defendant has
+withheld from production based on a claim of attorney-client privilege must be produced and the
+Court direct Mr. Barden to sit for a deposition in New York regarding this subject matter.
+As articulated in Ms. Giuffre’s Response in Opposition to Defendant’s Motion for
+Summary Judgment, if the Court were to consider the Barden Declaration (which it should not),
+it would be ruling on a less than complete record because, based on this Declaration, it is
+necessary that Defendant disclose all communications with him and possibly others. Ms. Giuffre
+doesn’t have those communications, the Court doesn’t have those communications. It is highly
+prejudicial to allow Defendant to attempt to take advantage of a work product waiver through the
+8
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 9 of 12
+submission of Mr. Barden’s declaration without producing all related work product documents
+and communications. As of yet, she has produced none.
+III. CONCLUSION
+Ms. Giuffre respectfully requests the following relief: (1) As a result of the admitted
+waiver of the work-product privilege, the Court direct the Defendant and all parties she controls
+including Mr. Barden, to produce within ten (10) days all work product documents, including but
+not limited to all drafts, e-mail communications relating to the work product, documents
+considered relating to the work product and any other materials created, received, used or
+considered that relate in any way to this litigation or Ms. Giuffre and direct Mr. Barden to sit for
+a deposition in New York on this subject matter; and (2) As a result of submitting the Barden
+Declarationcontaining legal advice affirmatively in support of Defendant’s Motion for Summary
+Judgment, the Court direct the Defendant, and all parties she controls including Mr. Barden, to
+produce within ten (10) days, all communications, whether they are logged or not, between
+Defendant and Mr. Barden and any related communications for which Defendant has withheld
+from production based on a claim of attorneyclient privilege and direct Mr. Barden to sit for a
+deposition in New York on this subject matter.
+Dated: February 22, 2017
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Meredith Schultz
+Meredith Schultz (Pro Hac Vice)
+Sigrid McCawley (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+9
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 10 of 12
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-52021
+1 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+10
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 11 of 12
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFYthat on the 22ndof February, 2017, I electronically filed the
+foregoing document with the Clerk of Court by using the CM/ECF system. I also certify that the
+foregoing document is being served this day on the individuals identified below via transmission
+of Notices of Electronic Filing generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Meredith Schultz
+Meredith Schultz
+11
+Case 1:15-cv-07433-LAP Document 1331-19 Filed 01/05/24 Page 12 of 12
+CERTIFICATE OF CONFERRAL
+Undersigned counsel certifies that she raised the failure to produce issue in opposition to
+Defendant’s Summary Judgment and also raise it at oral argument with the Court. To date,
+Defendant has not produced any of the documents relating to her waiver of the work product or
+attorney client privilege.
+/s/ Meredith Schultz
+Meredith Schultz
+12

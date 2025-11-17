@@ -1,0 +1,98 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.19_1",
+  "filename": "gov.uscourts.nysd.447706.1327.19_1.pdf",
+  "extraction_date": "2025-11-17T10:17:46.872313",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 35786,
+  "images_extracted": 0,
+  "dates_found": 99,
+  "people_found": 117,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt",
+      "email_id": "0078"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1384
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3777
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5131
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7476
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9535
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11347
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13246
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15014
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 16392
+    }
+  ],
+  "people": [
+    "Eva Dubin",
+    "The Dubins",
+    "Glen Dubin",
+    "Civil\nProcedure",
+    "Judge Peck",
+    "Court\nSouthern District",
+    "Produce Documents\nDefendant",
+    "Ross Gow\nThe",
+    "Magistrate Judge\nPeck",
+    "University St",
+    "Direct Defendant",
+    "Law\nUniversity",
+    "That Mr",
+    "Janusz Banasiak",
+    "And Mark\nLumber",
+    "Search All Email",
+    "Adverse Inference\nInstruction",
+    "Residential\nFunding Corp",
+    "International\nUnion",
+    "Avenue\nDenver"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "London"
+  ],
+  "images": []
+}

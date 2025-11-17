@@ -1,0 +1,70 @@
+{
+  "doc_id": "1320-9",
+  "filename": "1320-9.pdf",
+  "extraction_date": "2025-11-17T10:22:29.233564",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 15762,
+  "images_extracted": 0,
+  "dates_found": 5,
+  "people_found": 40,
+  "locations_found": 8,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 45
+    },
+    {
+      "date_string": "December 30, 2014",
+      "position": 14681
+    },
+    {
+      "date_string": "December 30, 2014",
+      "position": 15445
+    },
+    {
+      "date_string": "December 30, 2014",
+      "position": 14681
+    },
+    {
+      "date_string": "December 30, 2014",
+      "position": 15445
+    }
+  ],
+  "people": [
+    "Jean Luc Brunel",
+    "Australian Ave",
+    "Edwards\nBradley",
+    "Quinney College",
+    "Circumstances\nIf",
+    "Respectfully Submitted",
+    "Both Jane Doe",
+    "Jane Does",
+    "North Andrews Avenue",
+    "Virgin Islands",
+    "Jean Luc\nBrunel",
+    "Jane\nDoe",
+    "Ghislaine Maxwell",
+    "And\nPaul",
+    "Civil Procedure",
+    "West Palm\nBeach",
+    "British Royal Family",
+    "James Island",
+    "Prince Andrew",
+    "Prime Minister"
+  ],
+  "locations": [
+    "London",
+    "New York",
+    "New Mexico",
+    "Paris",
+    "Florida",
+    "Virgin Islands",
+    "France",
+    "Palm Beach"
+  ],
+  "images": []
+}

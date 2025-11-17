@@ -1,0 +1,741 @@
+# Document: gov.uscourts.nysd.447706.1327.26_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document
+# Images Extracted: 0
+# Dates Found: 43
+# People Found: 94
+# Locations Found: 8
+# Linked Emails: 0
+
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+Response in Opposition to Plaintiff’s Motion to Enforce the Court’s Order and
+Direct Defendant to Answer Deposition Questions Filed Under Seal
+.........................................
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 1 of 27
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 2 of 27
+TABLE OF CONTENTS
+INTRODUCTION ................................................................................................................. 1
+FACTUAL BACKGROUND ................................................................................................. 2
+I. PLAINTIFF’S FAILURE TO IDENTIFY THE SPECIFIC QUESTIONS CLAIMED
+UNANSWERED REQUIRES DENIAL OF THE MOTION ............................................. 8
+II. THE REQUESTED TOPIC AREAS ARE CUMULATIVE, DUPLICATIVE AND NO
+GOOD CAUSE EXISTS FOR PERMITTING ADDITIONAL DEPOSITION TIME ...... 10
+III. COUNSEL INSTRUCTED MAXWELL NOT TO ANSWER TO ENFORCE THE
+COURT’S ORDER AND TO PREVENT HARASSMENT BY PLAINTIFF’S COUNSEL
+.................................................................................................................................... 13
+A. Objected to Question Number 1: ....................................................................................... 13
+B. Objected to Questions Number 2 and 3. ............................................................................ 14
+C. “Objected” to Question Number 4. .................................................................................... 15
+D. “Objected” to Question Number 5 ..................................................................................... 15
+E. “Objected” to Question Number 6 ..................................................................................... 15
+F. Objected to Question Number 7 ........................................................................................ 16
+G. Objection to Question Number 8 ....................................................................................... 17
+H. Objections to Questions 9, 10, and 11. .............................................................................. 17
+CERTIFICATE OF SERVICE .............................................................................................. 25
+i
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 3 of 27
+Defendant Ghislaine Maxwell, by and through her counsel, hereby submits the following
+Response in Opposition (“Response”) to Plaintiff’s Motion to Enforce the Court’s Order and
+Direct Defendant to Answer Deposition Questions Filed Under Seal (“Motion”), as follows:
+INTRODUCTION
+This lawsuit presents one relatively simple question: is Plaintiff’s claim that she was
+sexually abused, sexually trafficked and held as a “sex slave” by Jeffrey Epstein between 1999
+and 2002 “with the assistance and participation of” Ms. Maxwell substantially true? Plaintiff
+already has admitted, under oath, that substantial portions of her story are untrue; she has so far
+refused to say under oath what other lies printed by the press about her story are untrue, but has
+admitted that journalist Sharon Churcher “got it wrong.” For example, Plaintiff has admitted that
+she did not meet Ms. Maxwell or Mr. Epstein in 1999 (or in 1998) at the age of 14 or 15, as she
+previously has sworn and as she told members of the press. Declaration of Jeffrey S. Pagliuca
+“Pagliuca Decl.”), Composite Ex. A (Testimony of Plaintiff Virginia Giuffre on May 3, 2016), at
+26-27, 220-226. Plaintiff admitted that she did not spend her sweet 16th birthday with Mr.
+Epstein and Ms. Maxwell as she included in her book manuscript, her Jane Doe #102 Complaint
+and in the story she sold to the Daily Mail. Id. at 102. Plaintiff’s counsel has admitted that it
+was a mistake to sue Alan Dershowitz for defamation, after he provided them documentation
+establishing he never was in their client’s presence, nor did he have sex with her. Pagliuca Decl.,
+Ex. B. And Plaintiff’s story about attending a dinner party with Bill Clinton on Little St. James
+was debunked by none other than former FBI head, Louis Freeh. Id.
+Yet, undeterred, Plaintiff and her counsel continue to use this lawsuit to seek discovery of
+matters far afield of the one simple question posed in the defamation claim, to explore events
+that occurred well past 2002, when Plaintiff lived in Australia and had no contact with Ms.
+Maxwell or Mr. Epstein. The current witch-hunt has now expanded into the private personal life
+1
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 4 of 27
+of defendant Ghislaine Maxwell. The harassing, extended, repetitive, cumulative and redundant
+continued deposition of Ms. Maxwell should be concluded.
+FACTUAL BACKGROUND
+On April 22, 2016 Plaintiff deposed Ms. Maxwell for a full seven hours. The transcript
+of that deposition is 418 pages long. Ms. Maxwell did not assert any privilege against self-
+incrimination and was questioned extensively about, among other things: her relationship with
+Jeffrey Epstein, her knowledge of “sexual trafficking,” sex with minors, non-consensual sex, sex
+involving the Plaintiff and others, sex involving Plaintiff and Mr. Epstein, sex involving the
+Plaintiff and Ms. Maxwell, sex involving the Plaintiff, Ms. Maxwell and Mr. Epstein. She was
+asked questions about whether she recruited girls for Ms. Epstein to have sex with, her
+knowledge of Ms. Epstein’s sex with a number of people. She was asked questions about “sex
+toys,” pornographic images, child pornography, and nudity at Mr. Epstein’s house. Ms. Maxwell
+answered these questions, and many others, to the best of her ability. See Pagliuca Decl.,
+Composite Exhibit C (Transcript of (First) Deposition of Ghislaine Maxwell on April 22, 2016).
+During her first deposition, Ms. Maxwell was freely questioned and testified about the
+following:
+(cid:120) She never had a sexual encounter with Plaintiff, ever. Id. at 76:3-11.
+(cid:120) She never saw Plaintiff massage Mr. Epstein. Id. at 75:12-24.
+(cid:120) She never saw Jeffrey Epstein and Plaintiff in a sexual situation. Id. at 75:23- 76:l.
+(cid:120) She did not have a set of outfits for Plaintiff to wear. Id. at 69:1-24, and again at 117:4-
+15.
+(cid:120) She had no knowledge of any non-consensual sex acts involving Mr. Epstein. Id. at 55:5-
+15.
+(cid:120) She never had non-consensual sex with anyone. Id. at 62:19-20 & 63:23-25.
+2
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 5 of 27
+(cid:120) She did not train Plaintiff to “recruit”other girls for massages or sexual massages. Id.at
+81:21-82:7.
+(cid:120) She never arranged for or asked Plaintiff to have sex with anyone. Id. at58:6-11.
+(cid:120) She never gave a massage with Plaintiff in the room with Mr. Epstein. Id. at19:16-21.
+(cid:120) She never gave a massage to Mr. Epstein with a female that was under the age of 18 in
+the room. Id.at 22:11-14.
+(cid:120) She never observed Mr. Epstein having a massage given by an individual, a female, who
+was under the age of 18. Id.at 22:15-18.
+(cid:120) She never had sex with . Id. at38:19-23.
+(cid:120) She never observed Jeffrey Epstein having sex with Id. at 38:24-39:2.
+(cid:120) She was unaware if Jeffrey Epstein was having sexual contact with when
+she was 13 years old. Id. at 39:3-5.
+(cid:120) She was never involved in an orgy with . Id.at 40:16-18.
+(cid:120) She had no knowledge of whether was involved with sex with Jeffrey
+Epsteinand girls over the age of 18. Id. at 46:13-16.
+(cid:120) She had no knowledge of whether recruited other girls for sex with Jeffrey
+Epstein. Id.at 46:17-21.
+(cid:120) She did not know the precise nature of Jeffrey Epstein’s relationship with Sara Kellen. Id.
+at 48:5-6.
+(cid:120) She was unaware of any sexual acts with masseuses and Jeffrey Epstein that were non-
+consensual. Id. at 55:5-15.
+(cid:120) She discussed her knowledge of Annie Farmer. Id. at 55:17-56:20.
+(cid:120) She had no knowledge of Annie Farmer telling the police that Jeffrey Epstein sexually
+assaulted her. Id.at 56:16-20.
+(cid:120) She had no knowledge of Emmy Taylor having sex with Jeffrey Epstein. Id. at 65:10-15.
+(cid:120) She never had sex with Jeffrey Epstein, Plaintiff, and Emmy Taylor. Id.at 65:8-10.
+(cid:120) She had no knowledge of Emmy Taylor bringing females to the house to massage Jeffrey
+Epstein. Id.at 67:5-13.
+(cid:120) Shehad no knowledge about a basket of sex toys. Id.at 70:25-75:4and again at 242:3-
+243:13.
+3
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 6 of 27
+(cid:120) She was unaware of Jeffrey Epstein ever having his nipples pinched while having sex
+with a minor. Id.at 82:23-83:4.
+(cid:120) She never met anyone underage in London to provide a massage for Jeffrey Epstein. Id.
+at 97:25-98:5.
+(cid:120) She had no knowledge about Jean Luc Brunel bringing girls to Jeffrey Epstein for the
+purpose ofproviding massages. Id.at 99:2-21.
+(cid:120) She never participated in obtaining visas for foreign girls. Id. at 100:9.
+(cid:120) She did not believe it was Jeffrey Epstein’s preference to start sex with a massage. Id. at
+100:10-20.
+(cid:120) She never trained a female under the age of 18 at Jeffrey Epstein’s home. Id. at 157:5-10.
+(cid:120) She has no knowledge whether ever asked females to come over to see
+Jeffrey Epstein for the purpose of sexual massage. Id.at 268:21-24.
+(cid:120) She had no knowledge of any sexual relationship between Jeffrey Epstein and Anouska
+DiGeorgio. Id.at 305:5-23.
+(cid:120) She was aware of and understood that she was Jeffrey Epstein’s girlfriend
+and spent a lot of time with him in 1999-2000. Id. at 364:5-365:11.
+Because Ms. Maxwell had not, by virtue of becoming a defendant in this case, injected
+her entire personal sexual history into this litigation counsel for Ms. Maxwell, during the first 7
+hour deposition, instructed Ms. Maxwell to not answer questions related to consensual sexual
+activity with adults. No objection was raised, and no instruction to not answer lodged, to
+questions regarding Ms. Maxwell’s knowledge of sexual activity (consensual or non-consensual)
+byMr. Epstein or others with children, Plaintiff, or other persons. No objections were made, or
+instructions tonot answer, to questions about whetherMs. Maxwell assistedMr. Epstein in the
+alleged sexual trafficking of the Plaintiff from 1999 to 2002. Ms. Maxwell answered questions
+about sexual trafficking, prostitution, her job with Mr. Epstein, and police reports related to Mr.
+Epstein. Ms. Maxwell was questioned, without any instruction not to answer, about message
+pads, phone lists, the hiring practices related to massages, hiring practices in general, whether
+Jeffrey Epstein had a scheme to recruit underage girls for sexual massages and whether Jeffrey
+4
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 7 of 27
+Epstein’s assistants would arrange times for underage girls to perform sexual massages.
+Pagliuca Decl., Ex. C at 253-55. She was extensively questioned about various message pads
+recovered from Jeffrey Epstein’s home by the Palm Beach Police Department. Id. at 147:23-
+167:23. She was extensively questioned regarding her knowledge about Johanna Sjoberg. Id. at
+307:6-312:12. She was extensively questioned about a list containing names and phone numbers
+under the heading “Massage Florida.” Id. at 313:18 – 334:8. Simply stated, with the exception of
+her adult consensual sex life, Plaintiff was free to question Ms. Maxwell, and in fact questioned
+Ms. Maxwell on any topic. Importantly, Plaintiff’s original motion recognized this fact, seeking
+only to response Plaintiff on one subject: “Defendant should be ordered to sit for a follow-up
+deposition and directed to answer questions regarding her knowledge of alleged “adult” sexual
+activity.” Plaintiff’s Motion to Compel Deposition Questions, WHEREFORE Clause, at 10
+(Doc. # 143).
+On June 20, 2016 the Court issued its Order allowing Ms. Maxwell to be re-deposed on a
+limited basis. The Court authorized questioning relating to:
+1. Ms. Maxwell’s sexual activity with or involving Jeffrey Epstein;
+2. Ms. Maxwell’s sexual activity with or involving the Plaintiff;
+3. Ms. Maxwell’s sexual activity with or involving underage females;
+4. Ms. Maxwell’s sexual activity involving or including massage with individuals
+Ms. Maxwell knew were or were likely involved with Mr. Epstein;
+5. Ms. Maxwell’s knowledge of sexual activities of others with or involving Epstein;
+6. Ms. Maxwell’s knowledge of sexual activities of others with or involving
+Plaintiff;
+7. Ms. Maxwell’s knowledge of sexual activity of others with underage females
+known to Epstein or believed to be known to Epstein;
+8. Ms. Maxwell’s knowledge of sexual activity of others involving massage with
+individuals Ms. Maxwell knew or believed might be known to Epstein.
+5
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 8 of 27
+The continued deposition was expressly limited to the above eight categories, and the
+Court instructed that Ms. Maxwell “need not answer questions that relate to none of these
+subjects or that is clearly not relevant, such as sexual activity of third-parties who bear no
+knowledge or relation to key events, individuals, or locations of this case.” Order of June 20,
+2016 at 10 (Doc. # 264-1). Presumably the Court did not authorize repetitive questioning about
+topics that had been asked and answered in the prior deposition.
+Ms. Maxwell had already been subjected to, and fully answered, questions related the
+majority of the 8 topics in her first 7-hour deposition. Questions related to topics 2, 3, 5, 6, and 7
+had all been answered in the negative, i.e., Ms. Maxwell did not have any sexual contact with the
+Plaintiff (2), did not have sexual contact with any underage females (3), did not have any sexual
+contact with anyone during a massage (4); had no knowledge of Epstein’s sexual activity other
+than with Ms. Maxwell (5); had no knowledge of sexual activity with others and the Plaintiff
+(6); and Ms. Maxwell’s knowledge of sexual activity of others with minors. Topics 4 and 8 had
+been substantially answered, in the negative. The instruction not to not to answer questions
+about sexual activity and massages was limited to any activity involving consensual adults. See
+Plaintiff’s Motion to Compel Deposition Questions at 10 (Doc. #143).
+Given that the majority of the questions had already been posed and answered over a full
+seven-hour time period one might reasonably assume that Ms. Maxwell’s second deposition
+would be short and direct. Unfortunately, Plaintiff’s counsel chose to ignore the Court’s Order,
+repeatedly sought to reopen previously completed deposition topics and tried to ask questions
+about new topics completely unrelated to the limited purpose authorized. Pagliuca Decl., Ex. D
+(Transcript of (Second) Deposition of Ghislaine Maxwell on July 22, 2016). The entire
+deposition was far beyond the specific request made by Plaintiff in her Motion that Ms. Maxwell
+6
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 9 of 27
+be required to answer questions about adult consensual sexual activity – the only questions on
+which instructions were given in the first deposition. Yet, broad latitude was given by counsel in
+the deposition, permitting pages of duplicative, redundant examination on countless topics which
+had already been asked and fully answer in the first disposition. By way of example:
+First Deposition Second Deposition
+Duplicative Topic of Questioning
+(Exhibit C) (Exhibit D)
+-
+Circumstances surrounding her first meeting of 14:9-19:18
+Plaintiff and if she held herself out as a 35:11-36:20 65:4-70:5
+professional masseur 213:5-220:3
+-
+12:22-14:8;
+If she saw women under the age of 18 (first
+22:15-24:9;
+deposition) or 21 (second deposition) at 71:20-73:18
+99:2-100:4;
+Epstein’s houses
+122:19-122:14
+-
+Her knowledge of Ms. Sjoberg, her job, how she 59:7-63:16;
+was hired, and if Ms. Maxwell ever received 286:23-293:13; 74:2-78:191
+massages from Ms. Sjoberg 307:6-312:12
+Knowledge of or meetings with Maria or Annie 55:20-56:20; 95:14-98:10;
+Farmer 62:21-25 103:19-113:22
+-
+Her knowledge of Nadia Marcinkova and 120:22-122:5;
+40:19-47:14
+interactions with Mr. Epstein 126:22-129:12
+1 Consistent with Ms. Maxwell’s testimony, Ms. Sjoberg testified that 1) all massages she gave
+to Ms. Maxwell were ordinary professional massages, and never of a sexual nature; 2) Ms.
+Maxwell and she never engaged in any sexual activity, nor was it ever requested; and 3) all
+interactions she had at Mr. Epstein’s property of a sexual nature were consensual activities while
+she was an adult. Pagliuca Decl., Ex. E, at 94-96; 101; see generally Response at 20-21, infra.
+7
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 10 of 27
+First Deposition Second Deposition
+Duplicative Topic of Questioning
+(Exhibit C) (Exhibit D)
+47:15-49:18;
+Her knowledge of Sara Kellen, when she last 56:21-57:11;
+spoke to Ms. Kellen, what Ms. Kellen’s job was, 254:25-256:8; 117:14-118:9;
+and her knowledge of sexual relations between 328:21-329:6; 125:2-126:21
+Ms. Kellen and Mr. Epstein 396:4-21;
+411:14-412:22
+329:7-330:12;
+Her interactions with Alfredo Rodriguez 129:15-132:6
+331:9-335:10
+-
+379:22-380:18;
+Her knowledge concerning Jean Luc Brunel’s 99:14-21; 150:6-17
+sexual activities or interaction with Mr. Epstein 116:19-117:3;
+166:21-167:23
+Her knowledge of the identities of a list name 312:15-334:8 179:16 -184:15
+titled “Massage – Florida” from an address book
+marked in the first deposition and discussed at
+length
+THE QUESTIONS
+I. PLAINTIFF’S FAILURE TO IDENTIFY THE SPECIFIC QUESTIONS
+CLAIMED UNANSWERED REQUIRES DENIAL OF THE MOTION
+•
+Plaintiff broadly, and inaccurately, claims now that at her second deposition, Ms.
+Maxwell “refused to answer many questions” related to sexual activity or “refused to answer
+questions about subject integral to this lawsuit.” Motion at 3-4. This assertion is patently
+dispelled by a review of the second deposition transcript which is 193 pages long. Pagliuca
+Decl., Ex. D. The deposition began at 9:04 a.m. and concluded at 2:51 p.m. The total time Ms.
+Maxwell testified in this deposition was 4 hours and 52 minutes for a total combined deposition
+8
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 11 of 27
+time of 11 hours and 52 minutes. A total of 787 questions were posed to Ms. Maxwell in the
+second deposition. Ms. Maxwell answered every question posed to her that fell within the scope
+of the June 20 Order, many that were outside the scope, and countless questions that had been
+asked and answered in her first deposition.
+It is difficult to discern precisely what questions Plaintiff is complaining about in her
+Motion because of her generalized and non-specific complaints. Plaintiff fails to cite to a single
+instruction not to answer that 1) falls within the scope to the Court’s Order and 2) that was not
+answered when properly rephrased to fall within the scope of the Order. S.D.N.Y. Local Rules
+require that:
+A party seeking or opposing relief under Fed. R. Civ. P. 26 through 37
+inclusive, or making or opposing any other motion or application, shall
+quote or attach only those portions of the depositions, interrogatories,
+requests for documents, requests for admissions, or other discovery or
+disclosure materials, together with the responses and objections
+thereto, that are the subject of the discovery motion or application, or
+that are cited in papers submitted in connection with any other motion or
+application. See also Civil Local Rule 37.1.
+The failure to comply with Rule 37.1 and set forth the particular questions or responses
+Plaintiff claims are deficient is “enough to require denial of the motion.” Sibley v. Choice Hotels
+Int'l, No. CV 14-634 (JS) (AYS), 2015 WL 9413101, at *5 (E.D.N.Y. Dec. 22, 2015) (denying
+motion to compel where party failed to identify the specific questions and responses to
+interrogatories claimed deficient); see also Kilkenny v. Greenberg Traurig, LLP, No. 05 CIV.
+6578NRB, 2008 WL 371808, at *1 (S.D.N.Y. Feb. 7, 2008) (denying motion to compel where
+specific questions and objection were not provided, noting rule 37.1 is “This is not an academic
+or ritual requirement. . . . Court cannot be tasked with performing the functions of Kilkenny's
+legal counsel [by identifying claimed deficiencies] and thereby seen as advocating for one party
+over another.”; Frattalone v. Markowitz, No. 91 CIV. 5854 (LMM), 1994 WL 494878, at *3
+9
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 12 of 27
+(S.D.N.Y. Sept. 9, 1994) (permitting reopening of deposition only if party could specifically
+identify areas of inquiry previously foreclosed). To the extent Plaintiff has not identified specific
+questions that Ms. Maxwell was instructed not to answer she has waived any issue related to the
+questioning.
+II. THE REQUESTED TOPIC AREAS ARE CUMULATIVE, DUPLICATIVE
+AND NO GOOD CAUSE EXISTS FOR PERMITTING ADDITIONAL
+DEPOSITION TIME
+Plaintiff’s proffered “topic areas” that she would like to re-open the deposition to cover –
+again – makes clear that what she is asking for is additional time – in excess of the almost 12
+hours she has already had – to ask questions that have already been answered. This is
+impermissible under Rule 30(d)(1) which prohibits depositions in excess of 7 hours seeking the
+type of duplicative and cumulative testimony Plaintiff seeks.
+The only testimony cited in the Motion are instances in which Ms. Maxwell had already
+fully testified on the topic area. First, she cites questions concerning Johanna Sjoberg, a witness
+who has been deposed in this case. What Plaintiff ignores is that Ms. Maxwell had already been
+fully examined concerning her knowledge about Ms. Sjoberg and answered every question, with
+the exception of a single questions regarding adult consensual sexual activity which was
+answered in the second deposition. See Pagliuca Decl., Ex. C at 59:7-63:16; 286:23-293:13;
+307:6-312:12 & Ex. D at 77:24 – 78:6 (“Q. Did Mr. Epstein, insofar as you believe, engage in
+sexual activities with Johanna? A. I would not know. I would say no. Q. Did you engage in
+sexual activities with Johanna? A. No.”). Despite this, leeway was given, and 5 pages of
+repeated testimony concerning Ms. Sjoberg commenced and was permitted until the duplicative
+nature of the testimony was simply too much. See Pagliuca Decl., Ex. D at 74:2-78:19.
+10
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 13 of 27
+Second, Plaintiff inaccurately complains that Ms. Maxwell refused to answer questions
+concerning sexual activity involving two women named Annie and Maria Farmer. Motion at 6.
+Not so. Ms. Maxwell answered questions for fully 13 pages of her deposition concerning the
+Farmers. See Pagliuca Decl., Ex. D at 95-98 and 103-113. Ms. Maxwell answered well over 76
+questions relating to Annie and Maria Farmer including who they are, when she met them,
+whether she ever saw them at Epstein’s homes or her own home, whether Epstein ever had sex
+with them, whether they worked for Epstein, whether they flew on planes together, gave or
+received massages, participated in any sexual activities with one another, where they lived, the
+description of their living environments, and whether journalist Vicky Ward ever told Ms.
+Maxwell that Epstein had engaged in sexual activities. Id. This was on top of the que-stions that
+Ms. Maxwell had already answered at her first deposition that were nearly identical: who are
+the Farmers, how did you meet them, whether they ever made any allegations of sexual abuse by
+Epstein, or whether Ms. Maxwell had ever had non-consensual sexual contact with Annie
+Farmer. Pagliuca Decl., Ex. C at 95:14 -98:10 & 103:19-113:22. -In fact, at the first deposition,
+Ms. Maxwell did not refuse to answer a single question regarding the Farmers. Thus, all of the
+questions at the second deposition were redundant, cumulative and outside of the Court’s Order.
+The only question that Ms. Maxwell refused to answer was: “What did Vicky Ward tell you
+about Maria Farmer when she talked to you?,” after which she answered another 10 pages of
+questions that centered around whether Vicky Ward had said specific things regarding the
+Farmers. Pagliuca Decl., Ex. D at 103-113. Ms. Maxwell has already flatly denied she had any
+knowledge of the allegations posited by reporter Vicky Ward.
+Plaintiff is not permitted to re-depose Ms. Maxwell on issues already covered, or which
+she had the opportunity to cover, in the first 7-hour deposition, particularly in light of the
+11
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 14 of 27
+additional 4.5 hours permitted in the second deposition and the fact that she answered in the
+second deposition the only pertinent questions permitted by the Court Order. See Fed. R. Civ. P.
+30(d)(1) (“the court must allow additional time consistent with Rule 26(b)(1) and (2) if needed
+to fairly examine the deponent”) (emphasis added). Rule 30(d)(1) requires a court to guard
+against redundant or disproportionate discovery, stating that any additional deposition time must
+be consistent with Rule 26(b)(1) and (2), prohibiting, among other things, cumulative and
+duplicative testimony. The duplicative nature of the “topics” requested by Plaintiff is
+demonstrated by the previously cited testimony. It is compounded by the fact that Ms. Sjoberg
+has fully testified concerning how she came to work for Epstein, what she did while working for
+him, and how she was paid. See This Response at 20-21, infra. The redundancy of the requested
+testimony (much of which is outside the scope of the Order) prohibits a finding of good cause for
+reopening – yet again – Ms. Maxwell’s testimony. See Kleppinger v. Texas Dep't of Transp.,
+283 F.R.D. 330, 333 (S.D. Tex. 2012) (“a party seeking a court order to extend the duration of
+the examination must show ‘good cause’ to justify such an order” including showing information
+is not duplicative and cumulative).
+Of course, Ms. Maxwell and her counsel had no desire to subject Ms. Maxwell to a third
+deposition, thus permitting many questions that far exceeded the scope of the Order. When
+called on to explain how extraneous questions were proper, Plaintiff’s counsel refused to proffer
+why certain questions were within the Court’s order leaving Ms. Maxwell’s counsel no option,
+on a few occasions, to instruct Ms. Maxwell to not answer. Plaintiff’s counsel’s refusal to
+simply explain how objectionable questions were within the scope of the permitted deposition
+makes clear that they were not, and should act as a waiver. See, e.g., Pagliuca Decl., Ex. D at
+99-101.
+12
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 15 of 27
+III. COUNSEL INSTRUCTED MAXWELL NOT TO ANSWER TO ENFORCE
+THE COURT’S ORDER AND TO PREVENT HARASSMENT BY
+PLAINTIFF’S COUNSEL
+The only questions to which counsel for Ms. Maxwell instructed her not to answer were
+those that she had already answered or were outside the Court’s Order permitting a re-opening of
+the deposition. Fed. R. Civ. P. 30(c)(2) (instruction not to answer appropriate “when necessary
+to … enforce a limitation ordered by the court”). Plaintiff loosely points to eleven questions in
+her Motion. She omits parts in which the question had already been answered, and she implies
+an instruction not to answer where none was given. None of the cited questions merits the re-
+opening of Ms. Maxwell’s deposition for a third bite at the apple.
+A. Objected to Question Number 1:
+“So how did it happen, Ms. Maxwell, that Joanna, who had been hired to answer phones,
+ended up giving massages to you and Mr. Epstein.”
+In Ms. Maxwell’s first, 7 hour, deposition she was questioned extensively about her
+relationship with Ms. Sjoberg. See Pagliuca Decl. Ex. C at 59-63; 112-113; & 307-309.
+Consistent with the Defendant’s position at that time, Plaintiff was free to ask, and asked,
+questions about Ms.Sjoberg with the exception of consensual adult sexual contact. The only
+instruction to not answer was limited to consensual adult sexual contact, of which there was
+none. (Although in fact, Ms. Maxwell testified in her first deposition that the massages with Ms.
+Sjoberg did not involve sex.). See Pagliuca Decl. Ex. C at 61:14-15..
+In Ms. Maxwell’s second, 4.5 hour deposition, she was again questioned extensively
+about Ms. Sjoberg. The questioning begins on page 74 of the transcript. Plaintiff’s counsel
+asked dozens of questions about Ms. Sjoberg without any instruction to not answer. When the
+questions became repetitive to the questions asked at the first deposition and strayed outside the
+13
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 16 of 27
+-Court’s Order counsel for Ms. Maxwell sought guidance form the Court, which was not
+available.
+Notwithstanding that the examination was repetitive, Ms. Maxwell responded to
+questions, without instruction not to answer, that were within the Court’s Order. She testified
+that she did not have any sexual relationship or contact with Ms. Sjoberg and was unaware of
+any sexual contact between Mr. Epstein and Ms. Sjoberg. See Pagliuca Decl. Ex. D at 77:24-
+78:6. She also testified about Ms. Sjoberg and massages, both in her first deposition and the
+second. See Pagliuca Decl. Ex. C at 59-63; 112-113; & 307-309 and Ex. D at 74-82:8.
+When the question about Ms. Sjoberg answering phones for was asked for the fourth
+time, the instruction not to answer was given. These questions had been asked in the first
+deposition, could have been asked in greater detail in the first deposition, and were answered in
+both depositions prior to the instruction not to answer being given: Ms. Sjoberg was hired to
+answer phones and sometime after that went to massage school and began giving massages. Ms.
+Maxwell was not sure how the transition occurred but believed “that she went to massage school
+and became a professional masseuse.” Id., at 75:10-11.
+B. Objected to Questions Number 2 and 3.
+“Did Mr. Epstein pay Johanna for the massages that she gave Mr. Epstein?”
+“Do you know how much Mr. Epstein paid Johanna to give massages?”
+Plaintiff has selectively and misleadingly provided only a portion of the transcript related
+to this issue and ignores the fact that Plaintiff, in the first deposition, asked questions on the same
+topic. Moreover, Ms. Maxwell previously testified that she did not pay Ms. Sjoberg and did not
+know who paid her. See Pagliuca Decl. Ex. C at 59-63; 112-113; & 307-309 and Ex. D at 82:2-
+I
+7.
+14
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 17 of 27
+C. “Objected” to Question Number 4.
+“Do you know if Maria Farmer was ever at Mr. Wexner’s property in Ohio?”
+This question is completely outside the Court’s June 20, 2016 Order as it does not relate
+to Ms. Maxwell, Mr. Epstein, massages, sex, or any property identified in this case. Regardless,
+the witness was never instructed to not answer the question and did not refuse to answer
+questions about the Farmers. After the question was posed, counsel for Ms. Maxwell simply
+asked for an explanation as to how the question was within the Court’s Order. The witness was
+not instructed not to answer. It appears that after considering the request for a proffer as to how
+the question was within the Court’s Order, the question was withdrawn and a different question
+was posed: “Mr. Boies: Let me approach it this way.” … Did Ms. Ward tell you that?” The
+-questioning about the Farmers continues many pages thereafter. See Pagliuca Decl., Ex. D at 99-
+113.
+D. “Objected” to Question Number 5
+Without any record support Plaintiff claims that “Defendant’s counsel also stopped a line
+of questioning in which defendant was asked if she recalled several girls Tony Figueroa brought
+over to give a ‘massage’ to Epstein.” Plaintiff cites no specific instruction not to answer because
+one was never given. Ms. Maxwell answered questions about Mr. Figueroa and was questioned
+extensively regarding lists of names, about which Ms. Maxwell had no knowledge. Plaintiff was
+-not forced to “cease questioning” about any person. The questioning occurred and Ms. Maxwell
+responded.
+E. “Objected” to Question Number 6
+“Was there a list that was kept of women or girls who provided massages?”
+The “list” was introduced as Exhibit 13 to Ms. Maxwell’s first deposition. Ms. Maxwell
+was questioned extensively about the “list” and testified, without objection about the list. In her
+15
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 18 of 27
+second deposition, the same Exhibit 13 was introduced and Ms. Maxwell was asked, without
+objection, questions relating to specific names on Exhibit 13. See Pagliuca Decl., Ex. C at 312-
+334 and Ex. D at 179- 89.
+Exhibit 13 was a document prepared by someone other than Ms. Maxwell, was not
+maintained by Ms. Maxwell and over which Ms. Maxwell had no control. Given the extensive
+testimony on the subject in both depositions, it was appropriate to instruct the witness to not
+answer the question. This debate, however is unnecessary because the question was asked again
+in a slightly different form and answered: Q: “Did you, or insofar as you are aware anyone,
+maintain a list of females that provided massage services to Mr. Epstein at his residences?” A: “I
+don’t know anything about a list.” Id., Ex. D at 185:13-20. No follow up questions were asked
+after this answer.
+F. Objected to Question Number 7
+“In 2005, were you aware of any effort to destroy records of messages you had taken of
+women who had called Mr. Epstein in the prior period?”
+Ms. Maxwell was previously deposed about documents purportedly seized when Mr.
+-Epstein’s house was searched by the Palm Beach Police Department. See Pagliuca Decl., Ex. C
+at 312-19.
+The Court’s June 20, Order did not reopen the deposition to allow for baseless questions
+about the destruction of evidence in 2005. Alleged destruction of records has nothing to do with
+any of the 8 areas that the Court addressed. Accordingly, the objection is well founded.
+Plaintiff’s tortured explanation about how the question fits into the Court’s Order is nonsense.
+16
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 19 of 27
+G. Objection to Question Number 8
+“In terms of preparing for this deposition, what documents did you review?”
+Ms. Maxwell was instructed to not answer the question as it related to privileged
+communications between Ms. Maxwell and counsel. Ms. Maxwell was asked if any of the
+documents refreshed her recollection about any of the events that occurred. Her response was:
+“No.” A follow up question was asked as to whether counsel provided Ms. Maxwell with any
+documents and the answer was “One, I believe.”
+The communication between Ms. Maxwell and counsel was privileged, did not refresh
+her recollection, and the question was properly objected to.
+H. Objections to Questions 9, 10, and 11.
+“Now have you ever engaged in oral sex?”
+“Did you ever have oral sex with anyone in any of Mr. Epstein’s five homes that you’ve
+identified other than Mr. Epstein?”
+“Did you, in the 1990s and 2000s, engage in sexual activities other than intercourse with
+women other than what you have testified already?”
+All of these questions were prohibited by the Court’s Order because they were related to
+unidentified “third-parties who bear no knowledge or relation to the key events, individuals, or
+locations of this case.”
+The question “Now have you ever engaged in oral sex?” is not tied to any person place,
+event or time. It is clearly out of bounds. Ms. Maxwell did, in fact, answer the question about
+oral sex with individuals other than Mr. Epstein when the locations were specified, i.e, planes;
+New York; Palm Beach; New Mexico; Paris; and the Virgin Islands. See Pagliuca Decl., Ex. D,
+Excerpts from July22, 2016 Maxwell Deposition pp. 21-23. (The answer was “no”.).
+17
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 20 of 27
+The question: “Did you, in the 1990s and 2000s, engage in sexual activities other than
+intercourse with women other than what you have testified already?” is also prohibited by the
+Court’s Order as it is not tied to a person, location, or key event associated with this case.
+Federal Rule of Civil Procedure 26(b)(1) provides, in relevant part, that "[p]arties may
+obtain discovery regarding any matter, not privileged, that is relevant to the claim or defense of
+any party ….” Although the scope of discovery is deliberately broad, a Court is not "required to
+permit plaintiff to engage in a `fishing expedition' in the hope of supporting his claim." McGee v.
+Hayes, 43 Fed.Appx. 214, 217 (10th Cir. 2002) (unpublished opinion); see also Tottenham v.
+Trans World Gaming Corp., 2002 WL 1967023, at *2 (S.D.N.Y.2002) ("Discovery, however, is
+not intended to be a fishing expedition, but rather is meant to allow the parties to flesh out
+allegations for which they initially have at least a modicum of objective support") (quotations
+omitted); Hardrick v. Legal Services Corp., 96 F.R.D. 617, 618 (D.D.C.1983) (courts should,
+remain concerned about "fishing expeditions, discovery abuse and inordinate expense involved
+in overbroad and far-ranging discovery requests.") (quotation omitted). "[B]road discovery is
+not without limits and the trial court is given wide discretion in balancing the needs and rights of
+both plaintiff and defendant." Gomez v. Martin Marietta Corp., 50 F.3d 1511, 1520 (10th
+Cir.1995) (quotation omitted).
+Although relevance in discovery is broader than that required for admissibility at trial,
+"the object of inquiry must have some evidentiary value before an order to compel disclosure of
+otherwise inadmissible material will issue." Zenith Electronics Corp. v. Exzec, Inc., No. 93 C
+041, 1998 WL 9181, at *2 (N.D.I11.1998) (quoting Piacenti v. Gen. Motors Corp., 173 F.R.D.
+221, 223 (N.D.I11.1997)). Courts have also recognized that "[t]he legal tenet that relevancy in
+18
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 21 of 27
+the discovery context is broader than in the context of admissibility should not be misapplied so
+as to allow fishing expeditions in discovery." Id. (quotation omitted).
+Under Rule 26(c) of the Federal Rules of Civil Procedure any party may move the court,
+for good cause shown, for a protective order regarding pretrial discovery “which justice requires
+to protect a party or person from annoyance, embarrassment, oppression or undue burden or
+expense.” Fed. R. Civ. P. 26(c). “Although the Rule contains no specific reference to privacy or
+to other rights or interests that may be implicated, such matters are implicit in the broad purpose
+and language of the Rule.” Seattle Times Company v. Rhinehart, 467 U.S. 20, 35 (1984).
+It is important to consider, again, that Ms. Maxwell is the defendant in this action. She
+has not put her private affairs at issue. She simply denied that she assisted Jeffrey Epstein in the
+sexual trafficking of the Plaintiff. It is also important to recognize that Ms. Maxwell is not Mr.
+Epstein and Mr. Epstein’s alleged conduct after Plaintiff left the country is not an issue in this
+defamation case. The Plaintiff has no personal knowledge of any of Mr. Epstein’s activities after
+2002. Accordingly, any statements by Plaintiff about Mr. Epstein’s activities occurring after
+2002 are her opinions, not facts that are subject to any defamation claim.
+I. THE PURPORTED “FACTUAL BACKGROUND” CITED BY PLAINTIFF
+IS NOT RELEVANT TO THE ISSUES IN THE CASE OR THIS MOTION
+As Carl Sandburg famously said, “If the facts are against you, argue the law. If the law is
+against you, argue the facts. If the law and the facts are against you, pound the table and yell like
+hell.” In this case, rather than pound the table, Plaintiff tries to distract from the issues at hand –
+whether Ms. Maxwell fully answered all questions posed – by pointing to selective misleading
+quotes from various other witnesses who have been deposed in this case. When viewed in their
+entirety, those witnesses neither support Plaintiff’s single claim for defamation nor her claim for
+19
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 22 of 27
+relief in this Motion. In direct contradiction to Plaintiff’s fabricated story, the witnesses actually
+testified as follows:
+Johanna Sjoberg worked as a masseuse for Jeffrey Epstein for 5 years from 2001-2006,
+while she was aged 21-26, including 1 ½ years that Plaintiff claims she was his “sex slave”. As
+to that experience, Ms. Sjoberg testified:
+(cid:120) She never saw underage girls with Jeffrey Epstein or Ms. Maxwell and was “surprised”
+by the allegations of underage girls. Pagliuca Decl., Ex. E at 102. She never witnessed
+anyone underage in the presence of Epstein and Maxwell. Id. at 29. She only witnessed
+masseuses who were her age or older and they wore “normal” clothes. Id. at 31-32.
+(cid:120) She never was asked by Epstein or Maxwell to give sexual massages to any of their
+friends or any famous people and the massages she gave Epstein’s friends were purely
+non-sexual. Id. at 112-116.
+(cid:120) She never gave any type of sexual massages to Ghislaine Maxwell. Ms. Maxwell never
+asked her to get naked during a massage, never asked for any sexual contact with her, and
+she remained appropriately draped during any massages. Ms. Maxwell was never present
+when she gave massages to Mr. Epstein. Id. at 95-97.
+(cid:120) Plaintiff appeared to Ms. Sjoberg to be some type of assistant who possibly also gave
+massages to Epstein. Id. at 19. She never seemed traumatized, she never reported to her
+any inappropriate requests or contact by Epstein or Maxwell, never said she had been
+sexually trafficked, she freely came and went. Id. at 113-16. In the only massage by
+Plaintiff of Epstein that Ms. Sjoberg observed, Plaintiff was fully clothed, on a beach, and
+it was non-sexual. Id. at 27. Ms. Sjoberg never saw Plaintiff in the presence of any
+famous people, apart from Prince Andrew and she did not observe anyone asking
+Plaintiff to do anything sexual, nor did Plaintiff report to her that anything sexual had
+occurred, even though Ms. Sjoberg inquired. Id. at 85, 87, 113 & 120. Plaintiff
+disappeared from the Epstein home about June 2001 when attempts to contact her led to a
+seemingly drugged-out boyfriend who could not explain her whereabouts. Id. at 92.
+(cid:120) Despite hundreds of times in the Epstein home, Ms. Sjoberg only saw a few photos of
+adult women in topless poses in the bathroom of Epstein, there was no child pornography
+in the homes, and she does not recall any naked photos of Plaintiff. Id. at 25, 29, 42, 103-
+106.
+(cid:120) Ms. Sjoberg observed no orgies or sexual contact occur in the open at Epstein’s homes or
+on his planes. Id. at 94, 102.
+20
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 23 of 27
+(cid:120) Ms. Maxwell asked her if she knew any friends who might be interested in being
+masseuses, but the one she brought was an adult; Ms. Maxwell never asked for
+“underage” participants. Id. at 141, 152-53.
+(cid:120) Whatever sexual contact occurred between Ms. Sjoberg and Mr. Epstein was between
+“consenting adults,” as she told the police in 2006, and she only was “expected” to have
+sexual intercourse in 2005, after she had worked for him for 4 years. Id. at 101, 147.
+(cid:120) Ms. Sjoberg respects Ms. Maxwell and is impressed by her talents. Id. at 55, 94-95, 97-
+98, 147 She have a lot of fun the last time they hung out in 2006. Id. at 98.
+Joe Recarey, the lead investigator of Jeffrey Epstein from the Palm Beach County Police
+Department, testified at his deposition, that (in contrast to Plaintiff’s claims):
+(cid:120) He and other investigators interviewed approximately 30-33 females in connection with
+the case and identified approximately 17 victims. Pagliuca Decl., Ex. F at 179, 334.
+(cid:120) Ms. Maxwell was never a suspect in their investigation, was not a target of the grand jury
+investigation, nothing of Ms. Maxwell’s was seized from the home during execution of
+the search warrant, and Ms. Maxwell was never observed at the Epstein home during the
+police surveillance. Id. at 177, 211-12,214-16, 257.
+(cid:120) None of the victims identified Ms. Maxwell as having “recruited” them to come give
+massages to Epstein. Id. at 180-82, 191-93, 195.
+(cid:120) None identified Ms. Maxwell as even being at the house when they were there, or paying
+them, or instructing them on what to wear or how to act, or ever of having spoken to
+them. Id.
+(cid:120) None were ever sexually trafficked to other men; Jeffrey Epstein was the only person
+with whom they had any sexual contact. Id. at 300-301.
+(cid:120) None were ever asked to spend the night with Epstein, or travel with them. Id.
+(cid:120) He did not observe any child pornography or any photos of naked women in the home
+when he went to help install cameras to catch a thief in Mr. Epstein’s home in 2002 (who
+turned out to be butler Juan Alessi). Id. at 288-90.
+Juan Alessi. He served as the butler for approximately 10 year period at Mr. Epstein’s
+home in Palm Beach. He testified that:
+21
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 24 of 27
+(cid:120) The majority of masseuses that came to the house were over the age of 20. Pagliuca
+Decl., Ex. G at 200.
+(cid:120) Mr. Epstein and Ms. Maxwell found the massage therapists from the high-end spas
+nearby, including the Breakers, Boca Raton and Mar-a-Lago, as Mr. Alessi confirmed
+when he called them at their jobs to arrange home visits. Id. at 187-88.
+(cid:120) The massage therapists were paid by check. Id. at 166.
+(cid:120) Plaintiff was working at one of these spas when she was hired, wearing an old-
+fashioned nurse’s type uniform. Id. at 174.
+(cid:120) Contrary to Plaintiff’s main story, she did not go upstairs with Mr. Epstein the first
+time she came over and he did not drive her home. Id. at 192.
+Tony Figueroa – Plaintiff’s live-in boyfriend during the time that she worked for Mr.
+Epstein, testified that:
+(cid:120) He and Plaintiff used a substantial quantity of drugs during this time period which
+affected both of their memories. Pagliuca Decl., Ex. H at 129-32 (describing their
+daily use of “weed,” their joint regular use of “Xanax,” as well as use of cocaine,
+Xanax, Ecstasy and acid).
+(cid:120) Jeffrey Epstein is the one who called him and asked him to bring other females to
+give massages. Id. at 104-107. In particular, Mr. Figueroa denied that Ms. Maxwell
+ever asked him to bring a girl to Jeffrey:
+Q: Did Jeffrey call you directly about getting more girls?
+A: Yes.
+Q: On the phone?
+A: uh-huh (affirmative)
+Q: What did he say?
+A: He was just asking me if I had any other girls that wanted to come work…
+Q: And did he pay – he paid you personally?
+A: Yeah. He handed me $200 for every girl that I walked in that door, whether
+they did stuff with him or not.
+Q: In cash?
+A: Cash.
+Q: Did you ever get paid by Ms. Maxwell for that?
+A: No.
+Q: Did you ever bring a girl to Ms. Maxwell?
+A: No.
+Q: Did Ms. Maxwell ever call you and ask you to bring a girl to her?
+A: No.
+Q: Did Ms. Maxwell ever call you and ask you to bring a girl to Jeffrey?
+22
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 25 of 27
+-
+A: No.
+Id. at 106-07.
+(cid:120) He did not have any discussions with these females (who were adult) about what was
+entailed with the job other than massages. Id.at 104-105.
+(cid:120) Later in his testimony, upon leading questions from Mr. Edwards, Mr. Figueroa
+committed a complete about-face:
+Q: Would Ghislaine Maxwell call you?
+A: I think she might have actually called me once or twice. I’m not positive, but
+I’m pretty sure she did….
+Q: …What did you say? What did she say?
+A: She would just ask me if I had anybody lined up, so…..for Jeffrey.
+(cid:120) Mr. Figueroa testified that he was arrested for grand theft the same night that he
+dropped Plaintiff off to go to Thailand, he served time, and only recently had his
+rights restored. Id. at 67-69.
+Rinaldo Rizzo. Mr. Rizzo was a butler for Mr. Glenn and Dr. Eva Dubin at their home
+in upstate New York. In addition to his history of litigation against the Dubins and his admitted
+hope to receive compensation from his testimony, his deposition is so palpably incredible as to
+be potentially sanctionable.
+Pagliuca Decl., Ex. Iat 11. In
+any event, none of Mr. Rizzo’s testimony related to Ms. Maxwell’s participation in massages,
+sex with underage minors, or sex with adults, and thus is further irrelevant to the issues presented
+by the Motion.
+CONCLUSION
+Because Ms. Maxwell fully answered all questions within the Court’s Order (and many
+that were not) at her continued deposition, she respectfully requests the Court deny Plaintiff’s
+23
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 26 of 27
+Motion to Enforce the Court’s Order and Direct Defendant to Answer Deposition Questions
+Filed Under Seal. Further, because Plaintiff brought this Motion without a valid basis to assert
+that she refused to answer any question that was (a) within this Court’s Order and (b) not already
+responded to either at her first deposition or during this deposition, Ms. Maxwell requests that
+the fees and costs associated with defending this Motion be imposed on Plaintiff, her counsel or
+both.
+Respectfully submitted,
+/s/ Jeffrey S. Pagliuca
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+24
+Case 1:15-cv-07433-LAP Document 1327-26 Filed 01/05/24 Page 27 of 27
+CERTIFICATE OF SERVICE
+I certify that on August 8, 2016, I electronically served Response in Opposition to Plaintiff’s
+Motion to Enforce the Court’s Order and Direct Defendant to Answer Deposition Questions
+Filed Under Seal via ECF on the following:
+Sigrid S. McCawley Paul G. Cassell
+Meredith Schultz 383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+25

@@ -1,0 +1,77 @@
+{
+  "doc_id": "1331-26",
+  "filename": "1331-26.pdf",
+  "extraction_date": "2025-11-17T10:19:24.199617",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 3804,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 8,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0004_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0004"
+    },
+    {
+      "email_file": "0026_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0026"
+    },
+    {
+      "email_file": "0040_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0040"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 141
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 886
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1841
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2814
+    },
+    {
+      "date_string": "6/1/2005",
+      "position": 3739
+    },
+    {
+      "date_string": "April 22, 2016",
+      "position": 610
+    },
+    {
+      "date_string": "April 22, 2016",
+      "position": 610
+    }
+  ],
+  "people": [
+    "Jean Luc Brunel",
+    "Notary Public",
+    "Lexington\nAvenue",
+    "Americas\nNew York",
+    "Court\nReporter",
+    "Leslie Fagin",
+    "Case No",
+    "File Under Seal"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "1331-31",
+  "filename": "1331-31.pdf",
+  "extraction_date": "2025-11-17T10:19:47.673327",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 364096,
+  "images_extracted": 0,
+  "dates_found": 27,
+  "people_found": 11,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 193
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10992
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 24662
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 36981
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 50393
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 65330
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 80068
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 94619
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 108536
+    }
+  ],
+  "people": [
+    "Duces Tecum",
+    "Lesley Groff",
+    "Stanley Pottinger",
+    "Brunswick Corp",
+    "Jeffrey Epstein",
+    "Sarah Ransome",
+    "Sarah Kellen",
+    "Concord Boat Corp",
+    "Ghislaine\nMaxwell",
+    "Biovail Corp",
+    "Protective Order"
+  ],
+  "locations": [],
+  "images": []
+}

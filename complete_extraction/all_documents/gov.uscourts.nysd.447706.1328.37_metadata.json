@@ -1,0 +1,85 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.37",
+  "filename": "gov.uscourts.nysd.447706.1328.37.pdf",
+  "extraction_date": "2025-11-17T10:16:50.747868",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 9540,
+  "images_extracted": 0,
+  "dates_found": 13,
+  "people_found": 18,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 815
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1892
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2902
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4002
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4917
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5799
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6821
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7791
+    }
+  ],
+  "people": [
+    "Sjoberg Exhibit",
+    "Detective Recarey",
+    "Palm Beach Atlantic",
+    "Notary Public",
+    "Emmy Taylor",
+    "Fort Lauderdale",
+    "Palm Beach Academy",
+    "The Lane Spa",
+    "Lake Park",
+    "Registered\nProfessional Reporter",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Jane Doe",
+    "So Jeffrey",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "Kelli Ann Willis",
+    "Palm Beach Gardens"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

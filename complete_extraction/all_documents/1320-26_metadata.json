@@ -1,0 +1,77 @@
+{
+  "doc_id": "1320-26",
+  "filename": "1320-26.pdf",
+  "extraction_date": "2025-11-17T10:20:45.531082",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 8258,
+  "images_extracted": 0,
+  "dates_found": 13,
+  "people_found": 12,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 143
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 834
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1970
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2940
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3952
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4954
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 6036
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 7017
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 7766
+    }
+  ],
+  "people": [
+    "Florida\nMy Commission",
+    "Notary Public",
+    "Filed Under Seal",
+    "Fort Lauderdale",
+    "Registered\nProfessional Reporter",
+    "And Ms",
+    "Las Olas Boulevard",
+    "Prince Andrew",
+    "Did Maxwell",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,566 @@
+# Document: 1325-1.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 33
+# People Found: 73
+# Locations Found: 2
+# Linked Emails: 0
+
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+RESPONSE TO NON-PARTY SHARON CHURCHER’S
+MOTION TO QUASH SUBPOENA
+.............................................
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 1 of 21
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 2 of 21
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+ARGUMENT .................................................................................................................................. 2
+I. CHURCHER IS A MATERIAL FACT WITNESS AND WAS NOT ACTING AS A
+JOURNALIST ..................................................................................................................... 2
+A. Churcher was acting as a friend and advisor to help Plaintiff publish her book, not as
+journalist .......................................................................................................................... 3
+I
+B. Churcher prompted Plaintiff to fabricate stories regarding Prince Andrew ........................ 4
+I
+C. Churcher prompted Plaintiff to invent stories regarding Alan Dershowitz ......................... 6
+D. Churcher’s communications with Plaintiff’s Counsel and Law Enforcement are not news-
+gathering activities ........................................................................................................... 7
+II. THE ABSOLUTE PRIVILEGE OF THE SHIELD LAW IS NOT APPLICABLE
+BECAUSE THERE WAS NO EXPECTATION OF CONFIDENTIALITY ..................... 9
+III. THERE IS A COMPELLING NEED FOR CHURCHER’S DOCUMENTS AND
+TESTIMONY .................................................................................................................... 10
+A. The Information Sought from Churcher is Highly Material and Directly Relevant .......... 11
+B. Churcher’s documents and testimony are critical to Ms. Maxwell’s truth defense and
+Plaintiff’s claims ............................................................................................................ 15
+C. Churcher’s information cannot be obtained from an alternative source. ........................... 16
+IV. MS. MAXWELL’S COUNSEL AGREED TO EXTEND THE RETURN DATE FOR
+COMPLIANCE WITH THE SUBPOENA ....................................................................... 17
+CERTIFICATE OF SERVICE ..................................................................................................... 19
+i
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 3 of 21
+Defendant Ghislaine Maxwell files this Response to Non-Party Sharon Churcher’s
+Motion to Quash Subpoena, and states as follows:
+INTRODUCTION
+Ms. Maxwell seeks documents and testimony from Sharon Churcher (“Churcher”) that
+are critical to the defense of this single count defamation case. Churcher is the only person with
+much of the information that will prove the truth defense.
+The alleged defamatory press release at issue in this case states:
+“Each time the story is re told it changes with new salacious details about public
+figures and world leaders and now it is alleged by Ms. Roberts that Alan
+Dershowitz is involved in having sexual relations with her, which he denies.
+Ms. Roberts claims are obvious lies and should be treated as such and not publicized as
+news, as they are defamatory.”
+Churcher is the sole source of information regarding the original story told by Plaintiff,
+and was the author of the first articles publishing Plaintiff’s claims. She was actively and
+personally involved in changing those stories over time and in the creation and addition of new
+salacious details about public figures, including the fabrication of Alan Dershowitz’s alleged
+sexual relations with Plaintiff.
+Sharon Churcher’s attempt to avoid the subpoena for deposition and production of
+documents based on the journalist Shield Law must fail for three reasons. First, much of the
+discovery sought is unrelated to any news gathering activities. Rather, Churcher was acting as a
+friend and advisor to Plaintiff in Plaintiff’efforts to write and publish a book, sensationalizing her
+story in a manner that would best boost the publicity, publication and sales of that work of
+fiction. In that role, she helped manufacture some of the stories that have been denied and that
+are the central issues in this case.
+1
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 4 of 21
+Second, in certain instances, Churcher was also acting as a source for information to
+Plaintiff’s counsel and law enforcement agencies, specifically stating that she was not acting in
+her capacity as a journalist. In these instances, she was not gathering news for publication, she
+was providing information she had already gathered. Providing this information to third parties
+waived any qualified privilege that ever arguably existed.
+Finally, to the extent that any information sought is covered by the qualified protection of
+Civil Rights Law § 79–h(c)1, Ms. Maxwell provides a clear and specific showing that the
+information is highly material or relevant, critical or necessary to the Ms. Maxwell’s truth
+defense, and not obtainable from any alternative source. As such, the Shield Law requires
+compliance with the subpoena.
+For these reason, the Motion to Quash should be denied, and Churcher should be
+compelled to comply with the Subpoena, as modified herein.
+ARGUMENT
+I. CHURCHER IS A MATERIAL FACT WITNESS AND WAS NOT ACTING AS A
+JOURNALIST
+The New York Shield law relied on by Churcher is only applicable where a professional
+journalist is asked to disclose information they have received “in the course of gathering or
+obtaining news for publication.” 79-h(b) &(c). Much of the information sought from Churcher
+has nothing to do with information she gathered or collected in the course of gathering news for
+publication. Rather, it relates to advice, information and communications that she had with
+Plaintiff in her capacity as a friend and advisor. “Section 79-h is not applicable where the
+journalist is called upon, as other citizens, to testify with respect to personal observations”
+1 As discussed in detail below, the undersigned has informed Churcher’s counsel that the Subpoena is not intended
+to cover any information from confidential sources. Thus, the absolute privilege found in Civil Rights Law § 79–
+h(c) is inapplicable
+2
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 5 of 21
+Solargen Elec. Motor Car Corp. v. Am. Motors Corp., 506 F. Supp. 546, 551 (N.D.N.Y. 1981);
+People v. Dupree, 88 Misc. 2d 791, 796, 388 N.Y.S.2d 1000, 1003 (Sup. Ct. 1976) (“the
+privilege does not exist if the newsman is called on to testify what he personally observed.”).
+In this single count defamation action, Churcher is being called as a witness to testify
+regarding events that she personally observed and in which she participated. This case is about
+whether the information included in the December 2014 Joinder Motion that Ms. Maxwell called
+obvious lies were, in fact, lies. These included allegations about Plaintiff’s alleged sexual
+interactions with Alan Dershowitz and Prince Andrew, specifically referenced in Ms. Maxwell’s
+denial statement. Not only is Churcher aware that the allegations were false, she helped Plaintiff
+concoct the stories.
+A. Churcher was acting as a friend and advisor to help Plaintiff publish her
+book, not as journalist
+As set out in Churcher’s Declaration, she first met with Plaintiff in early 2011 and
+conducted a weeks-long series of extensive interviews in person with Plaintiff, leading to a string
+of publications in March of 2011. As Churcher stated, her focus in these articles was Prince
+Andrew. After the interviews and the publication of the March 2011 stories, Churcher continued
+regular contact with Plaintiff as her friend and business advisor. See Menninger Decl. Ex. A, p.
+5-7, 10, 12, 19, 24-25, 30, 32, 35, 37-38, 48, 51, 61 & 68. Churcher encouraged Plaintiff to write
+a book and to begin pursing publishing contracts as soon as her exclusivity with the Mail on
+Sunday was over in May 2011. Menninger Decl. Ex. A, p. 2, 5. Churcher recommended a
+variety of ghost writers and agents to Plaintiff for this purpose, all as Plaintiff’s friend, advisor
+and advocate. See Menninger Decl. Ex. A, p. 5, 9, 10, 12, 15, 25, 30, 32, 35, 37, 38, 42, 48, 50
+&60. Churcher also initiated contact with the US Attorney’s office and FBI on behalf of
+3
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 6 of 21
+Plaintiff, setting up their initial meeting where Churcher planned to be present at that meeting
+“for support,” not in her capacity as a journalist. Menninger Decl. Ex. A, p. 3.
+Plaintiff did begin writing her book and sent versions of her manuscript to Churcher for
+her review and comment – again, in her capacity as a friend, not as a journalist. Menninger Decl.
+Ex. A, p. 59. Churcher also had extensive discussion with Plaintiff on the best strategies for
+getting interest in her book, including determining when to “name names” Menninger Decl. Ex.
+A, p. 63. She strategized with Plaintiff and Plaintiff’s counsel, Brad Edwards, on how to use a
+potential Vanity Fair article as book publicity by dropping names of famous politicians, claiming
+she was sex trafficked, but refusing to provide additional information because she was writing a
+book. Menninger Decl. Ex. A, p. 51-58.
+Through some of these communications between Plaintiff and Churcher, it is obvious that
+stories in the book – later to become allegation in the Joinder Motion – were created and
+supported based on the suggestions of Churcher. They were not reported by Plaintiff in her
+initial interview, or in Churcher’s initial publications, because they did not occur.
+B. Churcher prompted Plaintiff to fabricate stories regarding Prince Andrew
+In 2011, when Churcher first reported on Plaintiff’s story after having just spent weeks
+interviewing Plaintiff in Australia, and with a particular focus on reporting Plaintiff’s meeting
+Prince Andrew, Churcher specifically reported: “[t]here is no suggestion that there was any
+sexual contact between Virginia and Andrew, or that Andrew knew that Epstein paid her to have
+sex with his friends.” Churcher Decl., Ex. 2, p, 6/34. Shortly thereafter, on March 20, 2011,
+Churcher emailed Plaintiff explaining to her how she can corroborate a story to tell the FBI –
+that she was “given to” Prince Andrew. Menninger Decl., Ex. A, p. 8. Churcher provided an
+-explanation for how Plaintiff can substantiate the claim – a claim not previously made by
+Plaintiff.
+4
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 7 of 21
+The December 2014 Joinder Motion is the first publication of alleged sexual interaction
+between Plaintiff and Prince Andrew. At some point between March 2011 and January 2015,
+Churcher requested that Plaintiff handwrite a diary describing her alleged sexual encounters with
+Prince Andrew. Attached to the Churcher Declaration at Exhibit 7 is an Article subtitled “Diary
+Entries Of ‘Teen Sex Slave’ Detail Sorted Hook-Up With Prince Andrew – In Her Own
+Handwriting.” The article claims to print excerpts of a contemporaneous journal kept by
+Plaintiff when she was 17, stating “In a bombshell world exclusive, RadarOnline.com has
+exclusively obtained the secret journal of the then 17-year-old employed to have sex with
+billionaire pedophile Jeffrey Epstein and his rich and powerful pals — and it’s packed with
+scandalous claims about her illicit trysts, including with Andrew, the fifth in line to the British
+throne.” Churcher Decl. Ex. 7. This alleged 24 page “diary” or “journal” was a completely
+fabricated document handwritten by Plaintiff at the request and direction of Churcher. See
+Menninger Decl. Ex. B, p. 207-208; 226-2312 Plaintiff maintains she did not keep a copy of this
+handwritten “diary,” leaving the only source of the complete document and information about its
+creation with the person who asked for the document’s fabrication – Churcher.3
+If there was no suggestion of sexual contact with Prince Andrew as of March 2, 2011,
+how and when was this story first created? From the email correspondence, it appears that
+Churcher was directly involved in inventing this story during the course of creating stories for a
+book – stories that would generate the interest of publishers. Churcher’s testimony on how the
+Prince Andrew allegation was first created is direct evidence in this case.
+2 In actuality, the only journal Plaintiff ever maintained that might contain relevant information was purposefully
+destroyed by Plaintiff in a bonfire in 2013, at a time when she was represented by counsel and actively trying to
+insert herself as a Plaintiff in the CVRA case. Menninger Decl., Ex. B, p. 205-209.
+3 To the extent Churcher argues that the creation of this “diary” was somehow part of the news “gathering” process,
+it was clearly not confidential, and the test requiring production of the non-published potions, discussed below, is
+met – the information is highly relevant, critical to the defense, and available form no other source.
+5
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 8 of 21
+C. Churcher prompted Plaintiff to invent stories regarding Alan Dershowitz
+Churcher’s direct involvement in creating the allegations in the Joinder Motion regarding
+Plaintiff’s alleged sexual interactions with Alan Dershowitz – or even the knowledge of Alan
+Dershowitz’ name – is even more apparent. Prior to the December 2014 joinder Motion, there is
+not a single mention of Mr. Dershowitz in any pleading related to Plaintiff. In Churcher’s March
+2011 publications, directly after she interviewed Plaintiff, there was not a single mention of Mr.
+Dershowitz. It is quite apparent that Plaintiff had never met Mr. Dershowitz or reported that he
+was a person with whom she had had sexual relations.
+In the May/June 2011 timeframe, Plaintiff and Churcher’s communications relate
+primarily to Plaintiff’s draft of her novel, hiring a ghostwriter, and requests for advice on how to
+manage agent and book publication deals. Menninger Decl. Ex. A. As a part of those
+communications, on May 10, 2011, Plaintiff writes Churcher:
+“Hello gorgeous, I hope this message comes to you on a bright, sunny day!!! I took your
+advice about what to offer Sandra [a ghostwriter] and she accepted. We’re drawing up a
+contract through her agent right now and getting busy to meet my deadline. Just
+wondering if you have any information on you from when you and I were doing
+interviews about the J.E. story. I wanted to put the names of these assholes, oops I meant
+to say, pedo’s, that J.E. sent me to. With everything going on my brain feels like mush
+and it would be a great deal of help!...”4
+In an e-mail dated May 11, 2011, Churcher replies to Plaintiff:
+“Don't forget Alan Dershowitz... JE' s buddy and lawyer -good name for your pitch as he
+repped Claus von Bulow and a movie was made about that case ... title was Reversal of
+Fortune. We all suspect Alan is a pedo and tho no proof of that, you probably met him
+when he was hanging put w JE”
+Menninger Decl. Ex. A, p. 26-28.
+4 This email raises its own issues. If Plaintiff was providing her own personal information regarding what allegedly
+happened to her, why would she require information from Churcher from their interviews about whom she had been
+‘trafficked” to. What information did Churcher provide to Plaintiff that was the basis for Plaintiff’s various
+allegations, as opposed to being factual information based on events that happened to Plaintiff?
+6
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 9 of 21
+Sometime thereafter, Plaintiff did insert Mr. Dershowitz’s name in her book manuscript
+but she did not allege therein that she had any sexual relations with him, rather she simply
+referred to him as a business acquaintance of Mr. Epstein’s. It was not until the Joinder Motion
+in December 2014 that she claimed she engaged in sexual relations with Mr. Dershowitz,
+something he adamantly and publicly denied.
+At the heart of this case is the question of whether Ms. Maxwell defamed Plaintiff by
+calling her a liar. Of course, if Plaintiff is a liar, then there is no defamation. Churcher had
+direct and actual knowledge that Plaintiff is a liar and helped orchestrate specific and incredible
+public lies in concert with Plaintiff relating to Prince Andrew and Alan Dershowitz. In both of
+these instances, Churcher is not acting as a journalist – she is acting as a friend and advisor to
+Plaintiff on how to drop names – truth be damned – to try to sell Plaintiff’s book. As Ch-urcher
+puts it, the only incentives are “deadlines and/or cash”. Menninger Decl., Ex. A, p. 12. Churcher
+is not a journalist; she is a co-conspirator in Plaintiff’s publication of false statements regarding
+numerous people including Prince Andrew, Alan Dershowitz and Ms. Maxwell. It is the denial
+of the defamatory claims Churcher helped create that is the basis of this defamation suit. There
+is no reporter shield over these factual matters that are not related to new gathering.
+D. Churcher’s communications with Plaintiff’s Counsel and Law Enforcement
+are not news-gathering activities
+Churcher also admits to communicating regularly with Bradley Edwards, now Plaintiff’s
+counsel, and other agents for Plaintiff, which communications continue through the present day.
+See Churcher Decl., ¶¶ 9-10. Churcher is the person who initially put Plaintiff in contact with
+Edwards. See Menninger Decl., Ex A, p. 7. Churcher coached Plaintiff on how to use Edwards
+to provide information to reporters in a manner that would best help her book sales. See
+Menninger Decl., Ex A, p. 51-58. According to Plaintiff, she regularly shared information from
+7
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 10 of 21
+Edwards with Churcher, although she could not specify the attorney-client privileged
+information she shared. Menninger Decl. Ex. B, p. 297-300. None of the communications or
+correspondence with Edwards, or any of Plaintiff’s other attorneys, are in a news gathering
+capacity, and are not covered by the Shield Law.
+Likewise, Churcher apparently corresponded with the FBI and US Attorney’s office
+regarding Plaintiff, and specifically states she is not acting in her journalistic capacity.
+Menninger Decl. Ex A, 3. Communications that occurred that were not forwarded or copies to
+Plaintiff have not been produced. Churcher specifically states that she would like to be treated as
+a confidential source of information. Id., p. 8. She is not gathering news, she is attempting to
+assist law enforcement and providing them with information she has gathered. First, this is not
+news gathering activity, and clearly not related to confidential source. Even if there was some
+claim of qualified privilege, having shared information with the FBI or other law enforcement,
+there is a waiver of any protection of the Shield Law. See Guice-Mills v. Forbes, 12 Misc. 3d
+852, 857, 819 N.Y.S.2d 432, 436 (Sup. Ct. 2006) (professional journalist waived the exemption
+of the Shield Law if they voluntarily disclose or consent to disclosure of otherwise covered
+information to third parties).
+None of the documents or information described above is covered by the New York
+Shield Law because Churcher was not engaged in the news-gathering process. Regardless, there
+is no proof that any of the information sought by Ms. Maxwell in the subpoena is confidential
+information from a confidential source, nor was it intended kept confidential. The requested
+information must be produced and Churcher deposed as her testimony is critical to the truth
+defense in this case.
+8
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 11 of 21
+II. THE ABSOLUTE PRIVILEGE OF THE SHIELD LAW IS NOT APPLICABLE
+BECAUSE THERE WAS NO EXPECTATION OF CONFIDENTIALITY
+As with all attempts to block the discovery of relevant information “[t]he burden rests
+upon the [party invoking privilege] to demonstrate that the material is privileged.” People v.
+Wolf, 39 A.D.2d 864, 864, 333 N.Y.S.2d 299, 301 (1972). “To successfully raise a claim of
+privilege under this statute, the information must be imparted to the reporter under a ‘cloak of
+confidentiality’. There had to be an understanding, express or implied, that the information will
+not be disclosed” People v. Bova, 118 Misc. 2d 14, 19, 460 N.Y.S.2d 230, 233 (Sup. Ct. 1983);
+Hennigan v. Buffalo Courier Express Co., Inc., 85 A.D.2d 924, 446 N.Y.S.2d 767 (“The
+confidential relationship with the source must first be established in order to determine the
+interest to be balanced against that of a civil litigant. Full disclosure is the general rule and the
+burden of showing immunity from disclosure is on the party asserting it”); People v. LeGrand,
+67 A.D.2d 446, 415 N.Y.S.2d 252; Matter of WBAI–FM v. Proskin, 42 A.D.2d 5, 344 N.Y.S.2d
+393; Matter of Wolf, 39 A.D.2d 864, 333 N.Y.S.2d 299; Davis v. Davis, 88 Misc.2d 1, 386
+N.Y.S.2d 992).
+Churcher admits that her conversations and communications with Plaintiff were not made
+with any expectation of confidentiality. Indeed, quite the opposite. The express reason for the
+communication was to obtain press coverage and to cause the publications of the series of
+articles written and published by Churcher. Plaintiff was paid over $140,000 to go “on record.”
+With respect to any other “source” of information over which Churcher claims an
+“absolute” privilege, there is no issue. Ms. Maxwell is not seeking this information. Ms.
+Maxwell recognizes that there are occasions in which Churcher attributes information to a
+confidential source. Ms. Maxwell does not seek to compel documents relating to these limited
+individuals, to the extent the information and source was not later revealed, and will not question
+9
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 12 of 21
+Churcher on these sources except to determine if they have later been identified with their
+permission. The undersigned informed Ms. Churcher’s counsel in their conferral that she would
+not seek information relating to confidential sources.
+Respecting identified sources, Churcher fails to carry the burden of showing that there
+was an expectation of confidentiality, which is her burden to carry. Indeed, in her declaration
+she admits that she had conversations with Plaintiff’s attorney, Bradly Edwards, and law
+enforcement agencies that were not intended to be kept confidential. See Churcher Decl. ¶¶ 9 &
+11. In her articles, she specifically identifies the sources of her information, demonstrating the
+lack of confidentiality. Plaintiff simply cannot carry the burden of claiming any absolute
+privilege under 79-h(b).
+III. THERE IS A COMPELLING NEED FOR CHURCHER’S DOCUMENTS AND
+TESTIMONY
+Having failed to establish the essential element of confidentiality, Churcher attempts to
+claim a qualified protection. Matter of Sullivan, 167 Misc. 2d 534, 538, 635 N.Y.S.2d 437, 440
+(Sup. Ct. 1995) (source “had no understanding or expectation of confidentiality with either Mr.
+Hurley or the police detectives regarding the viewing of the interrogation. Consequently, there is
+no absolute privilege which protects the movant's materials, see Civil Rights Law § 79–h(b), and
+therefore any protection that might be afforded to the journalistic material can only be of a
+qualified nature.”). Churcher relies on qualified protection relating to non-published news
+gathering information, which requires Ms. Maxwell make a clear and specific showing that the
+information is: (1) highly material and relevant; and (2) critical or necessary to the litigant's
+claim or defense; and (3) not obtainable from any alternative source. Matter of Sullivan, 167
+Misc. 2d 534, 537-38, 635 N.Y.S.2d 437, 440 (Sup. Ct. 1995); Civil Rights Law 79–h (c). As
+discussed above, this provision is only applicable where a journalist is acting in a news gathering
+10
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 13 of 21
+capacity. Ms. Maxwell proffers the following clear and specific showing establishing each of
+these elements, requiring production of the information sought and deposition of Churcher.
+A. The Information Sought from Churcher is Highly Material and Directly
+Relevant
+This is a case about whether or not allegations in the Joinder Motion were lies, in
+particular the claims about Ms. Maxwell, Prince Andrew and Alan Dershowitz, which are the
+specific items that were denied in Ms. Maxwell’s press release. The information sought from
+Churcher is highly material in proving that that each time the story is told, new salacious details
+are added – the alleged defamatory statement. Indeed, it could be the most probative evidence in
+this case.
+“In determining whether the defendant has made a clear and specific showing that the
+information sought is critical or necessary to [her] defense, this court should not ‘substitute its
+judgment for a defendant's on the question whether such evidence is ‘necessary and critical’ to a
+defense.” Matter of Sullivan, 167 Misc. 2d 534, 540, 635 N.Y.S.2d 437, 441 (Sup. Ct. 1995)
+(quoting United States v. Sanusi, 813 F.Supp. 149, 160 (U.S.Dist.Ct.E.D.1992)).
+Starting with Ms. Maxwell, Churcher’s articles directly conflict with the allegations in
+the Joinder Motion and Plaintiff’s testimony in this case. First, Churcher’s original article
+reports the following regarding Plaintiff’s first visit to Mr. Epstein’s mansion:
+“I’d get training and be paid well. Virginia’s father gave his blessing, believing
+his daughter was being handed the opportunity to learn a skill and to work for a
+wealthy and respectable employer.
+He drove her to Epstein’s pink mansion on the Palm Beach waterfront . . .
+Virginia says: ‘Ghislaine said I was to start immediately and that someone would
+drive me home.
+My father left and I was told to go upstairs.’ She was led by another woman
+through Epstein’s bedroom into a massage room where he lay face down naked
+on a table.
+11
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 14 of 21
+He started to interview Virginia. This was unconventional, but Virginia had no
+suspicions. Presumably, she thought, this was how the wealthy conducted their
+business.
+Epstein elicited the information that Virginia had been a runaway, and was no
+longer a virgin. Virginia was then told to start massaging Epstein, under the
+instructions of the woman who had shown her in. The massage quickly
+developed into a sexual encounter.
+Churcher Decl., Ex. 2, p. 4/34; See also Churcher Decl., Ex. 5, p. 3/13.
+Churcher later reports that Ms. Maxwell hired girls for Epstein. In this story, she alleges
+Ms. Maxwell escorted Plaintiff to meet Mr. Epstein, but nowhere claims that Ms. Maxwell
+engaged in any sexual interaction with Plaintiff at any time. See Churcher Decl., Ex. 4, p.1-6.
+The Joinder Motion alleges that it was Ms. Maxwell that took Plaintiff to Mr. Epstein’s
+room on her first visit to the mansion, and allegedly participated in a sexual interaction – a claim
+never before made. Ex. C. Obviously, Churcher’s notes, interviews and recordings are directly
+relevant to Plaintiff’s original story about Ms. Maxwell, and how it has changed and morphed
+over time, as well as the motivation for those changes.
+The next allegation that has mutated with time in Churcher’s stories and in the Joinder
+Motion relates to Plaintiff’s age when she first met Epstein and the amount of time she spent
+working for him. In Churcher’s first story, she published that Plaintiff first met Epstein in 1998,
+soon after her 15th birthday, and worked for him for four years. Churcher Decl., Ex. 1, p. 3/34;
+Ex. 5, p. 2/31. The Joinder Motion alleges that Plaintiff met Epstein in 1999, when she was 15.
+Both the year and the time of year are material to this case.
+Plaintiff now admits that she did not meet Epstein in 1999, but rather met him in 2000
+which was the year she worked at the Mar-A-Lago. Plaintiff’s claims about meeting Epstein in
+1998 or 1999, and her claim of being 15, are lies. Plaintiff still claims, however, that she was 16
+years old at the time she met Epstein. Menninger Decl., Ex. B, p. 104. Despite efforts to obtain
+12
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 15 of 21
+records from the Mar-A-Lago, they have no records of Plaintiff’s dates of employment to
+establish the timeframe. Churcher is a witness with information fixing the month when Plaintiff
+claims to have met Epstein, i.e. soon after her birthday in August. In light of the now admitting
+year – 2000 – Plaintiff would have been 17 at the time.
+Other highly relevant information in Churcher’s sole possession is the identification of
+what documents and information Plaintiff was shown by Churcher, including flight logs,
+pictures, or other witness statements. For instance, based on email correspondence, it appears
+that Churcher was in possession of Epstein’s flight logs. There is no indication that Plaintiff had
+seen those flight logs prior to meeting Churcher. Plaintiff never mentions certain names that
+appear in the flight logs prior to Churcher’s meeting with her in February 2011. By way of
+example, Bill Clinton is referenced in the flight logs. Before 2011, Plaintiff never mentioned or
+references President Clinton. Yet, suddenly and out of thin air, Plaintiff allegedly reports to
+Churcher in 2011 that she met Bill Clinton twice, and that Ms. Maxwell flew President Clinton
+on a helicopter to Mr. Epstein’s Island – a story which has since been fully discredited as a lie.
+This is simply one example of names and stories that were mysteriously added to Plaintiff’s
+story, likely through Churcher’s suggestive questioning and presentation of documents to
+Plaintiff. The only person who can testify on this highly relevant matter, including what
+documents were shown to Plaintiff, is Churcher.
+Churcher also reported that Plaintiff was sent by Epstein (and Epstein alone) to meet with
+men including “a well-known businessman (whose pregnant wife was asleep in the next room), a
+world-renowned scientist, a respected liberal politician and a foreign head of state.” Churcher
+Decl., Ex. 2, p. 5/34. By contrast, the Joinder Motion alleges “Epstein also trafficked Jane Doe
+#3 [Plaintiff] for sexual purposes to many other powerful men, including numerous prominent
+13
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 16 of 21
+American politicians, powerful business executives, foreign presidents, a well-known Prime
+Minister, and other world leaders.” Menninger Decl., Ex. C. Notably, Plaintiff has not identified
+any foreign presidents, a prime minister, a foreign head of state, a world-renowned scientist or
+numerous “prominent American Politicians” in her Rule 26 disclosures in this case. So the
+question is, who did Plaintiff identify to Churcher in 2011, and how has that list changed and
+expanded over time. Only Churcher can provide this information.
+Churcher’s publications in March of 2011 were the first publication containing the now
+widely publicized picture of Plaintiff with Prince Andrew. Plaintiff was well paid for this picture,
+and continued to get royalties on the reprints. Despite multiple requests, Plaintiff has not been
+able to produce or provide the actual native version of the picture, or identify the specific date it
+was taken. Given that Churcher was the first news source to print the picture, and later worked
+with the FBI to provide information, she is likely the person who has the photo, or knows the
+chain of custody of the picture. Either way, information including the date and location where
+the picture was taken are relevant. Churcher is the only person who may be able to provide the
+information to track down the picture, or may have it herself.
+The interview notes, recordings, memos and other documentation in Churcher’s
+possession regarding Plaintiff are highly probative, material and directly relevant to Plaintiff’s
+fabrication and expansion of claims. For instance, if Plaintiff specifically told Churcher that she
+only met, but did not have sexual relations with, Prince Andrew in early 2001, the statement in
+the Joinder Motion is a lie. Given that Churcher reported that there is “no indication of sexual
+interaction with Prince Andrew,” in 2011 only Churcher can provide testimony or notes
+reflecting the basis for that published statement.
+14
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 17 of 21
+B. Churcher’s documents and testimony are critical to Ms. Maxwell’s truth
+defense and Plaintiff’s claims
+As stated in the Motion to Quash, the “highly relevant” and “critical or necessary to the
+litigant's claim or defense” prongs of the test for overcoming a qualified privilege largely
+overlap. In this single count defamation action, this is particularly true. As can be seen by the
+clear and specific showing above, all of the information sought from Churcher is critical to the
+defense of substantial truth.
+It is well settled that truth is an absolute defense to a claim of defamation. “Under New
+York law, it is well-settled that truth is an absolute, unqualified defense to a civil defamation
+action. It is an equally fundamental concept that substantial truth suffices to defeat a charge of
+libel.” Jewell v. NYP Holdings, Inc., 23 F. Supp. 2d 348, 366 (S.D.N.Y. 1998) (internal
+quotations and citations omitted). In examining the role of Churcher’s testimony and documents
+to this defense, it is important to look at the actual text of that press statement::
+Each time the story is re told it changes with new salacious details about public
+figures and world leaders and now it is alleged by Ms. Roberts that Alan
+Dershowitz is involved in having sexual relations with her, which he denies.
+Ms. Roberts claims are obvious lies and should be treated as such and not
+publicized as news, as they are defamatory.
+Ex. D
+As demonstrated above, Ms. Churcher’s documents and testimony are critical to
+establishing the fact that each time Plaintiff has told her story it changes and new salacious
+details are added.
+Likewise, Churcher admits that her testimony is relevant to Plaintiff’s credibility. While
+a journalist testimony relating to impeachment or credibility of a party may not normally be
+critical, it is here. Plaintiff’s credibility, or lack thereof, is the central issue in the case. This is
+not merely impeachment evidence, it is the crux of the case. If Plaintiff is a “liar” defense of
+15
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 18 of 21
+truth is established. Likewise, it establishes that there can be no damages caused by the alleged
+defamatory statement. Again, Churcher’s documents and testimony are central to this issue.
+C. Churcher’s information cannot be obtained from an alternative source.
+Churcher claims that there are other sources for the information sought, citing almost
+exclusively the Plaintiff as the potential source of information. This argument is flawed for two
+reasons. First, Plaintiff claims that she does not have much of the information sought, or simply
+can’t remember. In her deposition, she said she cannot remember where the photograph is,
+where the contract is, what she told Churcher, and she refused upon advice of counsel, to state
+what stories Churcher “got wrong.” See Motion to Re-Open Deposition of Plaintiff. Second, as
+the direct adversary in this case, Plaintiff is not a reliable source for information, and thus cannot
+be deemed an alternative source. Matter of Sullivan, 167 Misc. 2d 534, 541, 635 N.Y.S.2d 437,
+442 (Sup. Ct. 1995) (compelling journalist notes, records, and videotapes of interrogation where
+claimed alternative source of information –detectives conducting the interrogation –were
+adversaries and thus could not be deemed the reliable source for information)
+For most information, Churcher is the onlysource of the information sought. She is the
+only person who can provide the following information and documents:
+(cid:120) The 24 page fabricated diary, and testimony on when and why it was created5
+(cid:120) Notes, transcriptions, tape recordings, and memorandum from her interviews with
+Plaintiff, including her week long interviews in Australia;6
+(cid:120) Churcher’s communications with law enforcement or the FBI concerning
+Plaintiff;7
+5Plaintiff contends that she gave the original to Churcher, and did not maintain a copy. Ex B, p. 229.
+6Plaintiff has produced some email communications with Churcher, although in light of Plaintiff’s statements
+concerning the regular deletion of emails, there are likely email communications that were not captured by Plaintiff
+in Ms. Churcher’s possession or control. Nevertheless, to minimize the burden, Ms. Maxwell will voluntarily limit
+documents containing communication with Plaintiff by eliminating email communications between Plaintiff and
+Churcher using Plaintiff’s JaneDoe2 address. Because Plaintiff did not produce documents from her
+hotmail account and only recently produced documents from her iCloud account, Ms. Maxwell requests that
+Churcher search for documents to or from Plaintiff at these two email address.
+7Ms. Maxwell has filed a FOIA request and had not received a response.
+16
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 19 of 21
+■(cid:120) Plaintiff’s contract with the Mail on Sunday, which Plaintiff claims she no longer
+1
+h
+1
+as
+1
+;
+18
+(cid:120) The original Prince Andrew picture, or information on its chain of custody;
+(cid:120) Communications with Brad Edwards and other attorneys for Plaintiff9
+From a testimonial standpoint, only Churcher can testify about the deviations in the
+stories she has heard from Plaintiff because only Churcher was there. Plaintiff herself claims she
+cannot remember what she told Churcher at various points in time, and herself asked Churcher
+for the notes from her interview so Plaintiff could remember what she said. Menninger Decl.,
+Ex. A, p. 26. Plaintiff further refused to testify about what information Churcher printed that
+was untrue or varied from what Plaintiff told Churcher. Menninger Decl., Ex. B, p. 215-226.
+Thus, the only person who can testify or provide documentary evidence about Plaintiff’s stories
+to Churcher is Churcher.
+In light of the critical nature of the documents and testimony in establishing the truth
+defense and the fact that the information simply is not available from other sources, Churcher is
+not entitled to claim qualified privilege over her news-gathering materials or non-published non-
+confidential information.
+IV. MS. MAXWELL’S COUNSEL AGREED TO EXTEND THE RETURN DATE
+FOR COMPLIANCE WITH THE SUBPOENA
+Churcher’s final argument for a Protective Order – that there was not a reasonable time to
+respond – is defeated by the admission in her own pleading. It is true that the original response
+date was twelve days after service – two days less than is considered presumptively
+“reasonable.” Ms. Maxwell’s counsel readily agreed that if Churcher intended to respond and
+comply with the subpoena rather than moving to quash, that the response date would be extended
+8 Ex. 247-248
+9 This information had been requested in discovery to Plaintiff, but no documents have been produced. Ms.
+Maxwell has also subpoenaed the information from Plaintiff’s attorneys, each of whom has moved to quash. There
+can be no question that Ms. Maxwell has exhausted every possible source for obtaining this information.
+17
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 20 of 21
+and the deposition would be scheduled at a mutually agreeable time. As such, there is no basis
+for quashing the subpoena based on the “unreasonable time” argument, as Churcher was on
+notice that she would be given the time needed to obtain the documents requested. In light of the
+discovery cut-off in this case, however, if a motion to quash was forthcoming, the matter needed
+to be resolved to permit completion of discovery.
+WHEREFORE, for the forgoing reasons, Ms. Maxwell requests that the Court deny the
+Motion to Quash, and compel deposition and the Production of Documents by Sharron Churcher
+pursuant to the subpoena, as modified by footnote 6 herein.
+Dated: June 22, 2016
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+18
+Case 1:15-cv-07433-LAP Document 1325-1 Filed 01/04/24 Page 21 of 21
+CERTIFICATE OF SERVICE
+I certify that on June 22, 2016, I electronically served this RESPONSE TO NON-PARTY
+SHARON CHURCHER MOTION TO QUASH SUBPOENA via ECF on the following:
+Sigrid S. McCawley Paul G. Cassell
+Meredith Schultz 383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+19

@@ -1,0 +1,498 @@
+# Document: gov.uscourts.nysd.447706.1327.5_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 57
+# People Found: 71
+# Locations Found: 3
+# Linked Emails: 20
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 1 of 17
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S MOTION TO ENFORCE THE COURT’S ORDER AND DIRECT
+DEFENDANT TO ANSWER DEPOSITION QUESTIONS FILED UNDER SEAL1
+Plaintiff Virginia Giuffre, by and through her undersigned counsel, hereby files this
+Motion to Compel Defendant to Answer Deposition Questions. On June 20, 2016, this Court
+Ordered Defendant to sit for a second deposition because her refusal to answer questions pos-ed
+in her first Deposition (June 20, 2016 Sealed Order, filed in redacted version at D.E. 264-1). Yet,
+during her second deposition, Defendant again refused to answer numerous questions regarding
+sexual activity related to Jeffrey Epstein in contravention of this Court’s Order. Accordingly, the
+Court should direct her to fully answer the relevant questions.
+FACTUAL BACKGROUND
+As the Court is aware, this defamation case involves Ms. Giuffre’s assertions that she and
+other females were recruited by Defendant to be sexually abused by Jeffrey Epstein under the
+guise of being “massage therapists.” See Complaint, DE1, at ¶ 27 (Giuffre “described Maxwell’s
+role as one of the main women who Epstein used to procure under-aged girls for sexual activities
+1 Defendant has labelled her entire deposition transcript as Confidential at this time.
+1
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 2 of 17
+and a primary co-conspirator and participant in his sexual abuse and sex trafficking scheme”).
+Numerous other witnesses, with knowledge of Defendant’s activities, have testified to the same:
+(cid:120) See Schultz Declaration (“Schultz Decl.”) at Composite Exhibit 1, Excerpts from May
+18, 2016, Deposition of Johanna Sjoberg at p. 34:20-35:1. “Q. And did you -- what did
+you understand her to mean? A. [Maxwell] was implying that I did not get Jeffrey off,
+and so she had to do it. Q. And when you say "get Jeffrey off," do you mean bring him
+to orgasm? A. Yes.” . . . “How long did you work for Jeffrey and Ghislaine? A: I
+believe it was five years, 2001 to 2006. Q. And how many massages did Epstein receive
+per day on average? THE WITNESS: Three.” Id. at pg. 30:15-25. . . “Q. Did Jeffrey
+ever tell you why he received so many massages from so many different girls? A. He
+explained to me that, in his opinion, he needed to have three orgasms a day. It was
+biological, like eating.” Id. at p.32: 9-16.
+(cid:120) See Schultz Decl. at Composite Exhibit 2, Excerpts from June 24, 2016, Deposition of
+Tony Figueroa at pg. 200:5-18; 96:8-15. “Q. …when Ghislaine Maxwell would call you
+during the time you were living with Virginia, she would ask you what specifically? A.
+Just if I had found any other girls just to bring to Jeffrey. Q. Okay. A. Pretty much every
+time there was a conversation with any of them it was either asking Virginia where she
+was at, or asking me to get girls.” “Q What has -- what is that? A. That her [Virginia] and
+Maxwell and Jeffrey would obviously be doing stuff, all three of them together. Like I
+said that they would all go out to clubs to pick up girls and try to find them to bring back
+for Jeffrey. And then she told me about how, like I said, her and Ms. Maxwell and Jeffrey
+were all intimate together on multiple occasions.”
+(cid:120) See Schultz Decl. at Composite Exhibit 3, Excerpts of June 21, 2016, Deposition of
+Detective Recarey at pg. 29:11-20. “Q. “Okay. During your investigation, what did you
+learn in terms of Ghislaine Maxwell's involvement, if any? THE WITNESS: Ms.
+Maxwell, during her research, was found to be Epstein's long-time friend. During the
+interviews, Ms. Maxwell was involved in seeking girls to perform massages and work at
+Epstein's home.”
+(cid:120) See Schultz Decl. at Composite Exhibit 4, Excerpts from June 10, 2016, Deposition of
+Rinaldo Rizzo at pg. 52:8. “A. What happens next when Ghislaine Maxwell and Jeffrey
+Epstein and a 15-year-old girl walk into Eva Anderson's home? . . . “A. She proceeds to
+tell my wife and I that, and this is not -- this is blurting out, not a conversation like I'm
+having a casual conversation. That quickly, I was on an island, I was on the island and
+there was Ghislaine, there was Sarah, she said they asked me for sex, I said no. And she
+is just rambling, and I'm like what, and she said -- I asked her, I said what? And she says
+yes, I was on the island, I don't know how I got from the island to here. Last afternoon or
+in the afternoon I was on the island and now I'm here. And I said do you have a -- this is
+not making any sense to me, and I said this is nuts, do you have a passport, do you have a
+phone? And she says no, and she says Ghislaine took my passport. And I said what, and
+she says Sarah took her passport and her phone and gave it to Ghislaine Maxwell, and at
+that point she said that she was threatened.” Id. at pg. 56:2-24
+2
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 3 of 17
+(cid:120) See Schultz Decl. at Composite Exhibit 5, Excerpts from June 1, 2016, Deposition of
+John Alessi at pg. 28:6-15. “Q. And over the course of that 10-year period of time while
+Ms. Maxwell was at the house, do you have an approximation as to the number of
+different females -- females that you were told were massage therapists that came to the
+house? THE WITNESS: I cannot give you a number, but I would say probably over 100
+in my stay there." Id. at pg. 30:15-25 “Q: Did you go out looking for the girls -- A. No.
+Q. -- to bring -- A. Never. Q. -- as the massage therapists? A. Never. Q. Who did?
+A. Ms. Maxwell, Mr. Epstein and their friends, because their friends relayed to other
+friends they knew a massage therapist and they would send to the house. So it was
+referrals.”
+In response to Ms. Giuffre’s assertions about Defendant recruiting of females for sexual
+purposes, Defendant has made the sweeping claim that Ms. Giuffre’s assertions are “entirely
+-false” and “entirely untrue.” Complaint, DE 1, at ¶ 31. Accordingly, this Court directed as
+follows:
+Defendant is ordered to answer questions relating to Defendant’s own sexual activity (a)
+with or involving Jeffrey Epstein (“Epstein”), (b) with or involving Plaintiff, (c) with or
+involving underage females known to Epstein or who Defendant believed or intended
+might become known to Epstein, or (d) involving or including massage with individuals
+Defendant knew to be, or believed might become, known to Epstein. Defendant is also
+directed to answer questions relating to her knowledge of sexual activities of others (a)
+with or involving Epstein, (b) with or involving Plaintiff, (c) with or involving underage
+females known to Epstein or who Defendant believed were known or might become
+known to Epstein, or (d) involving or including massage with individuals Defendant
+knew to be or believed might become known to Epstein. (FN. Each of the
+aforementioned lists are disjunctive.) The scope of Defendant’s answers are not bound by
+time period, though Defendant need not answer questions that relate to none of these
+subjects or that is clearly not relevant, such as sexual activity of third-parties who bear no
+knowledge or relation to the key events, individuals, or locations of this case.
+See Schultz Decl. at Exhibit 6, Sealed June 20, 2016, Order at p. 10 (Emphasis added).
+Despite this instruction from the Court, during her deposition, Defendant refused to
+answer many questions related to “sexual activity with or involving Jeffrey Epstein, with or
+involving Plaintiff . . . or involving or including massage with individuals Defendant knew to be
+or believed were known to might become known to Epstein.” The result was that at a number of
+3
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 4 of 17
+points throughout her deposition, Defendant refused to answer questions about subjects integral
+to this lawsuit, including questions about a student, Joanna Sjoberg, who Defendant recruited
+from her school to give massages to, and have sex with, Jeffrey Epstein under the guise of hiring
+her to answer phones.
+For example, Defendant refused to answer questions about recruiting Ms. Sjoberg for sex
+with Epstein:
+Q. So is it fair to say that Johanna was initially hired to answer
+telephones, according to your testimony?
+MR. PAGLIUCA: This has already been testified to Mr. Boies. We are repeating
+testimony now.
+MR. BOIES: I think in the context of the witness’ answers, these are fair
+questions. Now, I’ve asked you before, if you want to instruct her not to answer,
+if you want to go to the judge, we are happy to do that, but I would suggest in the
+interest of moving it along, that you stop these speeches.
+MR. PAGLIUCA: You are not moving it along is the problem, so maybe we
+should call the court and get some direction here, because I am not going to sit
+here and rehash the testimony we already gave.
+MR. BOIES: That’s fin[e]. [At this point a telephone call was placed to Judge
+Sweet’s chambers].
+See Schultz Decl. at Composite Exhibit 7, Excerpts from July 22, 2016, Deposition of Ghislaine
+Maxwell at pg.78:17-79:14.
+MR. BOIES: So how did it happen, Ms. Maxwell, that Joanna, who had been hired to
+answer the phones, ended up giving massages to you and Mr. Epstein.
+MR. PAGLIUCA: I’m going to instruct you not to answer the question. This has been
+previously , the subject of your former deposition, it doesn’t fall into any of the
+categories ordered by the court, and so you don’t need to answer that.
+Id. at pg.81:15-25.
+Defendant’s counsel’s instruction not to answer was improper. This Court’s Order stated:
+“Defendant is also directed to answer questions relating to her knowledge of sexual activities of
+others . . . involving or including massage with individuals Defendant knew to be or believed
+4
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 5 of 17
+might become known to Epstein.” Ms. Sjoberg is an important witness in this case – one of the
+witnesses Ms. Giuffre has deposed. She is an individual Defendant knew to be known to
+Epstein, who knew and interacted with Ms. Giuffre when Ms. Giuffre was underage, and who
+participated in massage and sexual activities with Epstein. Defendant knew that Ms. Sjoberg was
+known to Epstein as Defendant recruited her to massage Epstein and participate in sexual
+activities during those massages. And Ms. Sjoberg testified directly about Defendant’s
+involvement, including Defendant’s offer or an expensive camera in exchange for sex:
+Q. Was there anything you were supposed to do in order to get the camera?
+A: I did not know that there were expectations of me to get the camera until after. She
+[Maxwell] had purchased the camera for me, and I was over there giving Jeffrey a
+massage. I did not know that she was in possession of the camera until later. She told me
+-- called me after I had left and said, I have the camera for you, but you cannot receive it
+yet because you came here and didn't finish your job and I had to finish it for you.
+Q. And did you -- what did you understand her to mean?
+A. She was implying that I did not get Jeffrey off, and so she had to do it.
+-Q. And when you say "get Jeffrey off," do you mean bring him to orgasm?
+A. Yes.
+See Schultz Declaration at Composite Exhibit 1, Excerpts from May 18, 2016 Deposition of
+Johanna Sjoberg at p. (P. 34:5-35:1).
+Q: …. What did you understand Maxwell to mean when she said you hadn't finished the
+job, with respect to the camera?
+A: She implied that I had not brought him to orgasm.
+Q. So is it fair to say that Maxwell expected you to perform sexual acts when you
+were massaging Jeffrey?
+A: Yes, I took that conversation to mean that is what was expected of me.”
+Id. at p. 142:25-143:14 (Emphasis added).
+5
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 6 of 17
+In the wake of this specific deposition testimony from Ms. Sjoberg, during her own
+recent deposition, Defendant continued to refuse to testify about Ms. Sjoberg’s massages and
+sexual activity with Epstein:
+Q. Did Mr. Epstein pay Johanna for the massages that she gave Mr. Epstein?
+Mr. Pagliuca: You just asked this question, and I told her not to answer. I will tell her not
+to answer again for the same reasons.
+Q. Do you know how much Mr. Epstein paid Johanna to give massages?
+Mr. Pagliuca: Same instruction to the witness. Why do you believe this is within the
+scope of the court’s order?
+Mr. Boies: Because of the court’s reference to massages, and because I think how much a
+girl who was hired to answer the phone was paid to give a “massage” goes to whether
+there actually was or was not sexual activity involved.
+Mr. Pagiluca: The witness has testified there wasn’t.
+Mr. Boies: Perhaps it will surprise you, I think it should not, that I do not believe in my
+deposition I need to simply accept her characterization without cross-examination. Now
+that’s something the judge can decide, but a question as to how much this young girl was
+being paid for a “massage,” I think goes directly to the issue of sexual activity.
+See Schultz Decl. at Composite Exhibit 7, Excerpts from July 22, 2016 Deposition of Ghislaine
+Maxwell at pg. 82:25-84:6.
+Additionally, Defendant refused to answer questions concerning the sexual abuse
+involving herself, Mr. Epstein, and Annie and Maria Farmer, described in a Vanity Fair article:
+“What do you have on the girls?” [Epstein] would ask the question over and over again.
+What I had “on the girls” were some remarkably brave first-person accounts. Three on-
+the-record stories from a family: a mother and her daughters [Maria Farmer, Annie
+Farmer, and their mother] who came from Phoenix. The oldest daughter, an artist whose
+character was vouchsafed to me by several sources, including the artist Eric Fischl, had
+told me, weeping as she sat in my living room, of how Epstein had attempted to seduce
+both her and, separately, her younger sister, then only 16. He’d gotten to them because of
+his money. He promised the older sister patronage of her art work; he’d promised the
+younger funding for a trip abroad that would give her the work experience she needed on
+her resume for a place at an Ivy League university, which she desperately wanted - and
+would win. The girls’ mother told me by phone that she had thought her daughters would
+6
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 7 of 17
+be safe under Epstein’s roof, not least because he phoned her to reassure her, and she
+also knew he had Ghislaine Maxwell with him at all times. When the girls’ mother
+learned that Epstein had, regardless, allegedly molested her 16-year-old daughter, she’d
+wanted to fight back.
+“I Tried to Warn You about Sleazy Billionaire Jeffrey Epstein in 2003,” Vicky Ward, January 6,
+2015, Daily Beast Article (Emphasis added). Defendant would not answer many questions
+concerning her role with in the molestation of these girls while she was sharing a house with
+Maria Farmer and Jeffrey Epstein:
+Q. Do you know whether or not Maria Farmer was ever at Mr. Wexner’s property in
+Ohio?
+Mr. PAGLIUCA: Can you tell me how that relates to this order, counselor?
+MR. BOIES: Yes, I think it goes directly to the sexual activity related to Maria Farmer
+and what Mr. Epstein was doing with Maria Farmer. Again, you can instruct not to
+answer.
+MR. PAGLIUCA: I’m trying to understand why you are asking these questions before I -
+MR. BOIES: I’m asking these questions because these are people who not only have
+been publicly written about in terms of the sexual activity that they were put into in
+connection with Mr. Epstein, but the person who wrote about them is someone who
+talked to the witness about it, and I think that this is more than easily understood cross-
+examination.
+MR. PAGLIUCA: Your question was, do you know whether or not Maria Farmer was
+ever at Mr. Wexner’s property in Ohio.
+MR. BOIES: Yes. And if you let her answer, you will see where it leads. If you won’t let
+her answer, the judge is going to determine it. And I just suggest to you that you stop
+these speeches and stop debating, because you are not going to convince me not to
+follow-up on these questions. If you can convince the court to truncate the deposition,
+that’s your right, but all you’re doing is dragging this deposition out.
+MR. PAGLIUCA: You have the opportunity to give me a good faith basis why you are
+asking these questions.
+MR. BOIES: I have given you a good faith basis.
+MR. PAGLIUCA: You haven’t.
+7
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 8 of 17
+MR. BOIES: Then instruct not to answer.
+MR. PAGLIUCA: I am giving you the opportunity to say why you are asking the
+questions, and why I’m telling her not to answer and I am entitled to know that.
+MR. BOIES: You are not entitled to know why I’m asking the question. You are only
+entitled to know that it relates to the subject matter that I am entitled to inquire about, and
+I don’t think the judge is going to think that, you know, where Mr. Epstein shipped Maria
+Farmer off to is outside the scope of what I’m entitled to inquire about.
+See Schultz Decl. at Composite Exhibit 7, Excerpts from July 22, 2016 Deposition of Ghislaine
+Maxwell at pg. 99:6-101:20.
+Defendant’s counsel also stopped a line of questioning in which Defendant was asked if
+she recalled several girls Tony Figueroa brought over to give a “massage” to Epstein. The Court
+will recall that Mr. Figueroa previously testified in this case that he brought underage girls to
+Epstein at Defendant’s behest, and that Defendant called him, asking him to bring the girls.2
+-Accordingly, at Defendant’s recent deposition, Ms. Giuffre’s counsel attempted to follow up on
+this subject:
+Q. Have you ever heard the name of Carolyn Andriamo, A-N-D-R-I-A-M-O?
+A. I don't recollect that name at all.
+2 Tony Figueroa testified that Defendant called him and asked him to bring girls over, and that
+there were no “legitimate” massages: “Q. Any of the girls that you are aware of having gone to
+the house - either because you brought them or Virginia - as you sit here today, do you believe
+any of them were brought over to be legitimate masseuse? A. Nope.” See Schultz Decl. at
+Composite Exhibit 2, Excerpts from June 24, 2016, Deposition of Tony Figueroa at pg. 245:1-8.
+“Q. And how long would you and one of these girls sit there and have this small talk with Ms.
+Maxwell? A. No more than 10 or 15 minutes. Q. All right and what were you waiting for? A.
+Pretty much her to take them upstairs. And then I would leave. Like I would have to wait for
+them to be like, ‘All right. Well we’re ready.’ And I would be like ‘All right. See you later.’ And
+then I’d leave. And they would go do whatever.” Id. at pg. 193:14-25. “Q. During this 2001
+period, if you were driving Virginia and other girl to the house, what type of girls would you be
+driving? A. Pretty much like young looking teenagers 16, 17. Really pretty. You know.” Id. at
+pg. 182:4-10.
+8
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 9 of 17
+MR. PAGLIUCA: Mr. Boies, those names are on Exhibit 26, which we have already
+gone over and she said she didn't recognize those people, so now we are just repeating
+things that we went over.
+MR. BOIES: I am in the context of seeing if I can refresh her recollection, because these
+are womenthat who she also does not recall, brought over to Mr. Epstein's
+residences, and I also want to make a very clear record of what her testimonyis and is not
+right now.
+Again, you can instruct her not to answer if you wish.
+MR. PAGLIUCA: I'm trying to get to nonrepetitive questions here. You basically asked
+the same question threetimes. Then we get a pile of notes that get pushed up to you, you
+read those. Then you ask those three times, and then we go to another question. So it's
+taking an inordinately long amount of time and it shouldn't.
+MR. BOIES: I think that is a demonstrably inaccurate statement of what has been going
+on, and Iattribute --maybe I shouldn't attribute it at all. But if you want to instruct not to
+answer, instruct not to answer. If you don't, again, all I will do is request that you cease
+your comments. I can't do that. All I can do is seek sanctions afterwards.
+See Schultz Decl. at Composite Exhibit 7, Excerpts from July 22, 2016,Deposition of Ghislaine
+Maxwell at pg.154:20-156:10.
+Based on Defendant’s refusal to answer questions related to specific girls, Mr. Boies was
+forced to discontinue asking questions about these victims.
+Defendant also refused to answer questions concerning the “sexual activities of others . . .
+involving or including massage with individuals Defendant knew to be or believed might
+become known to Epstein,” when she refused to answer a question about the records shekept of
+the young girls who would perform massage and sexual activities with Epstein:
+Q. Was there a list that was kept of women or girls who provided massages?
+MR. PAGLIUCA: This has been previously deposed on. This is not part of the court's
+order, I will tell her not to answer.
+MR. BOIES: You are going to tell her not to answer a question that says was there a list
+of women or girls who provided massages?
+MR. PAGLIUCA: She has been previously deposed on this subject.
+9
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 10 of 17
+MR. BOIES: I think this is squarely in the court's order, but if you instruct her not to
+answer, you instruct her not to answer.
+MR. PAGLIUCA: We'll find out.
+Id.at pg. 184:14-185:6.
+Q. “In 2005, were you aware of any effort to destroy records of messages you had taken
+of women who had called Mr. Epstein in the prior period?
+MR. PAGLIUCA: Don’t answer that question. It’s outside the court’s order.
+Id.at pg. 177:5-11.
+Ample evidence in this case establishes that not only did Defendant recruit underage girls
+for massage and sexual activities with Epstein, but that she participated in calling the girls;
+getting other people to bring girls; talking to the girls; taking massages from and leaving
+messages about the girls; and scheduling the girls to come over. Accordingly, questions
+concerning written records documenting Defendant’s involvement in, and knowledge of, the
+girls who“massaged” Epstein is clearly within the ambit of this Court’s Order. For example, a
+message from July of 2004 records Defendant, “Ms. Maxwell,” giving a message to Mr. Epstein
+as message from (an underage girl who was 14years oldon the dateof the message)
+that “ is available on Tuesday no one for tomorrow.” See GIUFFRE001465.
+10
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 11 of 17
+llB'!\llU'@'t'CIJ.il CAI.I.
+l\ l5
+Mc~~li LE°' "@N ,_T_U_t-:,,- ~-- _
+NO,· t::l N il·Fe"ft/~ £JMO~~
+~
+ft
+See Schultz Decl. at Composite Exhibit 8,Messages Involving Defendant3. In the investigation
+of Mr. Epstein’s sex crimes against minors, law enforcement was able to confirm identities of
+underage victims through the use of the names recorded these messages, which were recovered
+from Epstein’s trash.4 Accordingly, the messages, and the girls described therein, are fully within
+the ambit of this Court’s Order.
+3 GIUFFRE001523; GIUFFRE001427; GIUFFRE001451; GIUFFRE001454; GIUFFRE001460;
+GIUFFRE001461; GIUFFRE001464; GIUFFRE001465; GIUFFRE001436; GIUFFRE001435;
+GIUFFRE001472; GIUFFRE001474; GIUFFRE001492; GIUFFRE001553; GIUFFRE001388;
+GIUFFRE001555; GIUFFRE001556; GIUFFRE001557; GIUFFRE001392; GIUFFRE001526;
+GIUFFRE001530; GIUFFRE001568; GIUFFRE001536; GIUFFRE001538; GIUFFRE001541;
+GIUFFRE001546; GIUFFRE001399; GIUFFRE001402; GIUFFRE001405; GIUFFRE001406;
+GIUFFRE001449; GIUFFRE001409; GIUFFRE001410; GIUFFRE001411; GIUFFRE00; etc.
+4 Palm Beach Police Officer Recarey was deposed about information pulled by police officers
+from trash discarded by Epstein from his home:
+Q. The next line down is what I wanted to focus on, April 5th, 2005. This trash
+pull, what evidence is yielded from this particular trash pull?
+THE WITNESS: The trash pull indicated that there were several messages with
+written items on it. There was a message from HR indicating that there would be
+11
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 12 of 17
+Finally, Defendant also refused to answer foundational questions that are necessary to
+precede questions authorized by this Court, such as:
+(cid:120) “In terms of preparing for this deposition, what documents did you review?” See Schultz
+Decl. at Composite Exhibit 7, Excerpts from July 22, 2016, Deposition of Ghislaine
+Maxwell at 174:2-4.
+(cid:120) Now, have you ever engaged in oral sex? Id. at 18:14-15.
+(cid:120) Q. Did you ever have oral sex with anyone in any of Mr. Epstein's five homes that you've
+identified other than Mr. Epstein? Id. at 20:7-10.
+(cid:120) Did you, in the 1990s and 2000s, engage in sexual activities other than intercourse with
+women other than what you have testified to already? Id. at 89:24-90:3.
+an 11:00 appointment. There were other individuals that had called during that
+day.
+Q. And when you would -- when you would see females' names and telephone
+numbers, would you take those telephone numbers and match it to -- to a person?
+THE WITNESS: We would do our best to identify who that person was.
+Q. And is that one way in which you discovered the identities of some of the other
+what soon came to be known as victims?
+THE WITNESS: Correct.
+See Schultz Decl. at Composite Exhibit 3, Excerpts of June 21, 2016 Deposition of Detective
+Recarey at pg. 42:14-43:17. Recarey went on to describe the importance of the information:
+Q. Did you find names of other witnesses and people that you knew to have been
+associated with the house in those message pads?
+THE WITNESS: Yes.
+Q. And so what was the evidentiary value to you of the message pads collected
+from Jeffrey Epstein's home in the search warrant?
+THE WITNESS: It was very important to corroborate what the victims had
+already told me as to calling in and for work.
+Id. at 78:25 -79:15.
+12
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 13 of 17
+In sum, Defendant refused to answer important questions relating to the following topics that
+were authorized by this Court’s Order: (1) Defendant’s information relating to and knowledge of
+the circumstances of Johanna Sjoberg performing massages and sex acts upon Epstein; (2)
+Defendant’s information relating to and knowledge of the circumstances relating to the abuse of
+Maria Farmer and her sister by Defendant and Epstein; (3) Defendant’s information relating to
+and knowledge of any lists or records of girls who gave “massages” to Epstein; (4) Defendant’s
+involvement with messages (or related documents) showing Defendant’s knowledge of, and
+involvement in, the scheduling of underage girls for massage and sex with Epstein, and any
+destruction of evidence related to these messages (or related records); (5) foundational questions
+that were necessary precedent to asking questions authorized by this Court’s Order; and (6) all
+related questions that arise out of any response Defendant provides within the parameters of the
+Court’s June 20, 2016, Order.
+DISCUSSION
+The Court should compel Ms. Maxwell to answer questions in the topic areas where she
+refused to answer during her recent deposition. Topics 1 - 4 above are central parts of this case,
+and Topics 5 and 6 link directly to central parts of this case. Ms. Giuffre, and now other
+knowledgeable witnesses, have explained and testified that Defendant not only had knowledge of
+Epstein’s massages and sexual activity with others, but she actively facilitated the sexual
+massages through recruiting young females and underage girls for the purpose of “massage” and
+sexual activity. And proof that Defendant both had knowledge of, and was involved in, these
+schemes and encounters, will further help prove that Defendant’s statements to the press that
+Virginia’s allegations were “obvious lies” was itself an obvious lie.
+13
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 14 of 17
+The questions Defendant refused to answer fall squarely within this Court’s earlier order.
+Defendant can have no legitimate basis for obstructing the search for truth by refusing to answer.
+The Court should, again, compel Defendant to answer all these questions. See Fed. R. Crim. P.
+37(a)(3)(B)(i); see, e.g., Kelly v. A1 Tech., No. 09 CIV. 962 LAK MHD, 2010 WL 1541585, at
+*20 (S.D.N.Y. Apr. 12, 2010) (“Under the Federal Rules, when a party refuses to answer a
+question during a deposition, the questioning party may subsequently move to compel disclosure
+of the testimony that it sought. The court must determine the propriety of the deponent's
+objection to answering the questions, and can order the deponent to provide improperly withheld
+answers during a continued deposition” (internal citations omitted)). Of course, the party
+objecting to discovery must carry the burden of proving the validity of its objections, particularly
+in light of “the broad and liberal construction afforded the federal discovery rules . . . .” John
+Wiley & Sons, Inc. v. Book Dog Books, LLC, 298 F.R.D. 184, 186 (S.D.N.Y. 2014). For
+purposes of a deposition, the information sought “need not be admissible at the trial if the
+discovery appears reasonably calculated to lead to the discovery of admissible evidence.” Chen-
+Oster v. Goldman, Sachs & Co., 293 F.R.D. 557, 561 (S.D.N.Y. 2013) (citing Fed.R.Civ.P.
+26(b)(1)).
+Defendant cannot claim that such questions were outside the scope of this Court’s order,
+as they directly relate to (1) her knowledge of individuals who provided “massage” to Epstein
+and (2) her knowledge of sexual activities of others with or involving Epstein. Defendant’s
+knowledge of the individuals involved in the sex/”massages” relating to Epstein, and her
+-knowledge about the sex/”massage” related to Epstein is precisely what this Court directed her to
+answer. See also, Condit v. Dunne, 225 F.R.D. 100, 113 (S.D.N.Y. 2004) (in defamation case,
+“Plaintiff is hereby ordered to answer questions regarding his sexual relationships in so far as
+14
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 15 of 17
+they are relevant to a defense of substantial truth, mitigation of damages, or impeachment of
+plaintiff.”); Weber v. Multimedia Entm't, Inc., No. 97 CIV. 0682 PKL THK, 1997 WL 729039, at
+*3 (S.D.N.Y. Nov. 24, 1997) (“While discovery is not unlimited and may not unnecessarily
+intrude into private matters, in the instant case inquiry into private matters is clearly relevant to
+the subject matter of the suit. Accordingly, plaintiff Misty Weber shall respond to defendants'
+interrogatories concerning her sexual partners . . . .”). Moreover, generally speaking, instructions
+from attorneys to their clients not to answer questions at a deposition should be “limited to -
+[issues regarding] privilege.” Morales v. Zondo, Inc., 204 F.R.D. 50, 54 (S.D.N.Y. 2001). In this
+case, defense counsel once again ranged far beyond the normal parameters of objections and
+gave instructions directly in contravention of this Court’s Order directing Defendant to answer
+exactly the type of questions posed to her.
+In light of Defendant’s willful refusal to comply with this Court’s Order directing
+Defendant to answer questions related to the Court’s June 20, 2016, Order, including topics
+enumerated above, Ms. Giuffre also seeks attorneys’ fees and costs associated with bringing this
+motion, as well as fees and costs associated with re-taking Defendant’s deposition.
+CONCLUSION
+Defendant should be ordered to sit for a follow-up deposition and directed to answer
+questions regarding the topics enumerated above.
+Dated: July 29, 2016
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+15
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 16 of 17
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-52025
+5 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+16
+Case 1:15-cv-07433-LAP Document 1327-5 Filed 01/05/24 Page 17 of 17
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on the 29th day of July, 2016, I electronically filed the
+foregoing document with the Clerk of Court by using the CM/ECF system. I also certify that the
+foregoing document is being served this day on the individuals identified below via transmission
+of Notices of Electronic Filing generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Sigrid S. McCawley
+Sigrid S. McCawley
+17

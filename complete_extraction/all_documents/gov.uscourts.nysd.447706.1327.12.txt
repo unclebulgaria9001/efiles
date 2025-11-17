@@ -1,0 +1,298 @@
+# Document: gov.uscourts.nysd.447706.1327.12.pdf
+# Extraction Method: pdfplumber
+# Document Types: legal_document, financial
+# Images Extracted: 0
+# Dates Found: 47
+# People Found: 71
+# Locations Found: 2
+# Linked Emails: 0
+
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------X
+VIRGINIA L. GIUFFRE,
+Plaintiff,
+v.
+GHISLAINE MAXWELL,
+Defendant.
+15-cv-07433-RWS
+--------------------------------------------------X
+DEFENDANT’S SUBMISSION REGARDING “SEARCH TERMS” AND NOTICE OF
+COMPLIANCE WITH COURT ORDER
+CONCERNING FORENSIC EXAMINATION OF DEVICES
+.............................................
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 1 of 11
+Laura A. Menninger
+Jeffrey S. Pagliuca
+HADDON, MORGAN, AND FOREMAN, P.C.
+East 10th Avenue
+Denver, CO 80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 2 of 11
+Defendant Ghislaine Maxwell (“Ms. Maxwell”) respectfully files the following
+Submission Concerning Search Terms and Notice of Compliance with Court Order regarding
+Forensic Examination of Devices, as follows:
+INTRODUCTION
+Defense counsel has already run the amended list of search terms proposed by Plaintiff
+on each applicable device and as to each email account to which Ms. Maxwell has access. Based
+on those searches, not one single additional responsive and non-privileged document has been
+identified. Ms. Maxwell’s original search for responsive documents was complete at the time it
+was conducted in February 2016. The recent forensic imaging and searches have merely
+confirmed as much. Plaintiff has sent defense counsel, this Court and Ms. Maxwell on a costly,
+time-consuming and burdensome wild goose chase that has yielded not so much as a single
+goose feather. It is time to call off the hunt.
+Submission Concerning Search Terms
+The Requests for Production
+Ms. Maxwell served Responses and Objections to Plaintiff’s First Discovery Requests on
+February 8, 2016. Those requests sought, inter alia:
+(cid:120) all communications with thirteen specific witnesses, namely Jeffrey Epstein,
+Virginia Roberts, Prince Andrew, Ross Gow, Alan Dershowitz, Emmy Taylor,
+Sarah Kellen, Glenn and Eva Dubin, Jean Luc Brunel, Nadia Marcincova and Bill
+and Hillary Clinton (RFPs 1, 2, 3, 4, 6, 17, 32 and 37)
+(cid:120) documents relating to various topics include massages (RFP 5 and 29), travel
+records (RFPs 8, 9, 14 and 39), a civil deposition in 2010 (RFP 19), and Ms.
+Maxwell’s professional affiliation with Jeffrey Epstein (RFPs 10, 11, 12, 15, 20,
+23, 24, 30);
+(cid:120) documents relating to any contact between Ms. Maxwell and law enforcement
+(RFP 13 and 38);
+(cid:120) photos of females under the age of 18 (RFP 7), of any time inside a home or
+aircraft of Epstein (RFP 15), of Plaintiff (RFP 18);
+1
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 3 of 11
+(cid:120) documents relating otherwise to Plaintiff including her hospital records (RFP 25),
+passport (RFP 26), monetary payments made to her (RFP 27), her employment
+(RFP 28), and any person to whom she gave a massage (RFP 29).
+Ms. Maxwell conducted a thorough search of her email systems and her devices prior to
+her production on February 8, 2016. All documents identified as responsive were reviewed by
+counsel and either produced or placed on a privilege log. The First Responses were the subject
+of litigation in March and April 2016. This Court limited the scope of a number of the requests
+(see Transcript of March 17, 2016 and Order of April 15, 2016 (Doc. # 098), and Ms. Maxwell
+later produced, pursuant to this Court’s Order, documents that originally had been withheld
+pursuant to privilege. As of April 18, Ms. Maxwell’s production of documents responsive to
+Plaintiff’s First Request for Production of Documents was complete.
+Plaintiff served a Second set of Requests for Production on April 14. Those Requests
+primarily concerned police reports about Plaintiff’s various contacts with law enforcement and
+how the defense was able to obtain those publicly-available documents (RFP’s 1-5, 19). The
+Second Requests also sought:
+(cid:120) Joint Defense Agreements with Mr. Epstein and Mr. Dershowitz (RFPs 6, 7, 9
+and 10) and communications with Mr. Dershowitz’s counsel (RFP 11);
+(cid:120) “all documents concerning Virginia Giuffre” (RFP 12);
+(cid:120) any contracts with or agreement for legal fees to be paid by Epstein (RFP 13-15);
+(cid:120) documents concerning public statements made by Ms. Maxwell (RFP 17-18).
+Again, Ms. Maxwell and her counsel conducted a thorough search and produced any
+responsive non-privileged documents.
+To date, Ms. Maxwell has produced 1,130 pages of documents. Litigation concerning
+whether the searches conducted were thorough enough then ensued leading to the instant
+submission.
+2
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 4 of 11
+Search Terms
+On June 20, 2016, this Court Ordered
+Defendant is ordered to collect all ESI by imaging her computers and collecting
+all email and text messages on any devices in Defendant's possession or to which
+she has access that Defendant used between the period of 2002 to present.
+Defendant is further directed to run mutually- agreed upon search terms related
+to Plaintiff's requests for production over the aforementioned ESI and produce
+responsive documents within 21 days of distribution of this opinion.
+On June 30, 2016, Plaintiff’s counsel provided a list of 368 search terms. See Menninger
+Decl. Ex. A. Plaintiff’s proposal included astoundingly broad terms, to wit:
+(cid:120) “Terramar” --both the name of Ms. Maxwell’s non-profit and
+(cid:120)
+(cid:120)
+(cid:120) “max*” –part of Ms. Maxwell’s last name, as well as all of her paternal relatives’
+names.
+(cid:120) “GM”--Ms. Maxwell’s initials.
+(cid:120) common words such as “hotel,” suite, villa, “bed,” “bath,” and “lingerie.”
+Plaintiff’s originally proposed search terms would literally hit on every single email from either
+Ms. Maxwell’s personal or her business email addresses, as well as every document related to
+the non-profit, The Terramar Project, that Ms. Maxwell founded and runs.
+Plaintiff’s originally proposed terms also failed to relate to the actual discovery requests
+upon which they were to be based. For search terms 124-341, Plaintiff took her own Rule 26
+disclosures, separated the first and last names of each witness she had identified, and asked that
+they be searched individually (along with “wild card character searches”), even though, as
+described above there were only 13 specific witnesses for whom Plaintiff had actually sought all
+communications. For example, Plaintiff wanted the names Bill, Mark, Phil, Bob, Mike and Todd
+3
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 5 of 11
+searched yet there is no RFP related to those names, nor the vast majority of the other listed first
+and surnames.1
+By correspondence of July 14, Ms. Maxwell’s counsel specifically identified the
+problematic terms, agreed to a limited list, and requested a substantive conferral call on this
+issue. See Menninger Decl., Ex. B. In that correspondence, Defendant’s counsel gave specific
+reasons for the objection to a number of the terms that were problematic in that they called for
+the search of common words, names or phrases that would likely result pulling documents
+completely unrelated to this case. Id. Counsel also suggested proposed limiting terms with
+respect to names of individuals to appropriately limit the scope and target the search. Id.
+(suggesting limitations on searches of names to “make some effort to match them to actual
+people who have some relationship to this case (like first name /3 last name or some parts
+thereof)”).
+After explaining the appropriate and well-reasoned objections to certain terms, defense
+Counsel agreed to search over 110 of Plaintiff’s proposed search terms, despite the fact that
+many of those terms were objectionable. Id. (“Although many of your other search terms are a
+1
+On or about June 27, 2016, Plaintiff’s counsel Bradley Edwards and Defendant’s counsel Jeffery Pagliuca
+held a telephone meet and confer conference on a number of issues. Among the issues raised by Mr. Pagliuca was
+the overbreadth of the proposed search terms. The discussion was left that Mr. Edwards would talk with Plaintiff’s
+team of lawyers to narrow the scope, as Mr. Pagliuca understood it. Thus, contrary to the representation in the
+Motion, Ms. Maxwell’s counsel did inform Plaintiff’s counsel of their disagreement with the proposed search terms.
+As well, Mr. Pagliuca informed Mr. Edwards that because he, Laura Menninger and Ms. Maxwell were all traveling
+on vacations in the weeks before and after the 4th of July holiday, that they would need additional time to comply
+with the Court’s Order and provide the production. Mr. Pagliuca and Mr. Edwards agreed that productions would be
+made prior to Ms. Maxwell’s second deposition, scheduled by agreement on July 22, 2016.
+Based on this discussion, defense counsel was blindsided when they received the Motion for Sanctions,
+anticipating that they would soon be receiving a substantially limited and modified list of proposed search terms to
+permit search and production prior to the July 22 deposition. In the interim, all of Ms. Maxwell’s electronic devices
+had been sent for imaging.
+Defense counsel corresponded with Plaintiff’s counsel upon receipt of the Motion for Sanctions, requesting
+that it be withdrawn (without prejudice), pending completion of conferral on the search terms as required by this
+Court’s specific and general orders on conferral. It appears there was a miscommunication between Plaintiff’s own
+counsel on this issue, as well as between counsel for both of the parties; but, it was clearly just that – a
+miscommunication and misunderstanding on where things stood.
+4
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 6 of 11
+tremendous stretch, I can agree tothem in the interest of getting the search done on a timely
+basis.”).2 Having heard nothing from Plaintiff’s counsel by the close of business on July 15,
+2016,Ms. Maxwell’s counsel ran the 110 of Plaintiff’s proposed terms onthe forensic images of
+Ms. Maxwell’s electronic devices and email accounts, including both
+Because of the breadth of the 110 terms proposed by Plaintiff, the original search resulted
+inapproximately 9,000 documents and communications containing one or more term in the
+content or meta-data. The volume of the documents is explained by the breadth of the terms
+searched, resulting in pulling non-relevant, non-responsive information from Ms. Maxwell’s
+electronic devices and emails, including thousands of underwater photos related to Ms.
+Maxwell’s non-profit, the word “passport” due to the fact that the Terramar Project includes an
+“ocean passport” program, as well as numerous family holiday photos. All of the documents
+were reviewed individually by counsel for Ms. Maxwell for responsiveness to Plaintiff’s
+discovery request, pursuant to this Court’s Order. Of those documents, the only responsive
+documents were either communications between Ms. Maxwell and current counsel or were
+communications with, or prepared at the request of,Ms. Maxwell’s UKCounsel, Philip Barden,
+2Defense counsel specifically requested a telephone conference to discuss any of the other terms, noting
+that the search would need to proceed over the weekend to permit review and production of any documents prior to
+Defendant’s deposition on July 22, 2016. Id. (“I am available by telephone today and tomorrow to discuss the
+issues raised herein. If I do not hear from you, I will presume that you are in agreement to the remainder of the
+terms being run on the devices.”). Plaintiff’s counsel did not timely respond to the July 14, 2016 letter, the clearly
+articulated counter-proposed terms (over 110 of the 368 proposed by Plaintiff), or set a time to discuss the
+articulated objections to other terms. Instead, on July 18, 2016, Plaintiff’s filed a response to the Letter Motion to
+Strike for Failure to Confer, inexplicably and inaccurately claiming 1) that defendant is running “secret search
+terms” and 2) claiming that defendant’s counsel refused to confer despite the clear conferral letter and request for
+telephone conference. See July 18, 2016 Letter to the Court from M. Shultz.
+3Plaintiff also requested searches of old email accounts of Defendant,
+t. Ms. Maxwell has been able to access the ” account and it contains no
+responsive documents. Ms. Maxwell has been unable to access and does not
+recall ever using that account.
+5
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 7 of 11
+in anticipation of a potential lawsuit in the United Kingdom. See Menninger Decl. at paragraph
+8. The documents concerning Mr. Barden have been added to the privilege log. Id.
+Upon receipt of Plaintiff’s Response to the Letter Motion to Strike for Plaintiff’s failure
+to confer, the undersigned reiterated that there were no “secret search terms” and that Plaintiff’s
+own proposed terms were used, as limited. See Menninger Decl., Ex. C. Defense counsel also
+reiterated the request for Court Ordered conferral, again offering times to confer that would
+permit any additional terms to be run, documents reviewed and production of non-privileged
+responsive documents (if any) prior to Ms. Maxwell’s July 22, 2016 second deposition. Id.
+Plaintiff’s Revised List of Search Terms
+Finally, on July 19, 2016, Plaintiff’s counsel agreed to a telephone call with the
+undersigned to discuss the lack of responsive documents to the 110 search terms already run, as
+well as the remaining objectionable terms and their purported relevance. During the call,
+Plaintiff’s counsel argued that their proposed search terms numbered 124-341 were relevant
+because they were witness names “related to massages” (RFP 5). That justification was clearly
+lacking because the terms included names like “Dore Louis,” who is a lawyer for witness Johana
+Sjoberg and whose wife works with Ms. McCawley. They also included Plaintiff’s treating
+-physician Karen Kutikoff, Plaintiff’s literary agent Jarred Weisfeld, Plaintiff’s mother 1 L 1 y 1 n 1 n
+Miller, Detective Joe Recarey, Mr. Edwards’ law partner Scott Rothstein, and countless other
+people who would have no knowledge of any massages nor otherwise were related to the
+discovery requests at issue. See Menninger Decl. Ex. A. Moreover, Ms. Maxwell already had
+run the Plaintiff’s proposed terms related to massages, including “massage,” “masseuse,”
+“masseur,” and “therapy.” In effect, Plaintiff proposed search terms sought to expand her
+discovery requests from communications with a discrete set of individuals to all communications
+6
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 8 of 11
+with anyone that Plaintiff believed was or might be a witness, although no discovery requests
+called for such communications.
+Consequently, during the conferral call, Plaintiff’s counsel agreed to withdraw the vast
+majority of objectionable terms. She also agreed to supply a list of witnesses who she believes
+truly might in some way relate to “massages” and submit that to defense counsel. See
+Menninger Decl., Ex. D. Plaintiff thereafter provided an additional 66 terms, all names, which
+Plaintiff claims she has some reason to believe are “related to massages.” Menninger Decl. Ex.
+E. Ms. Maxwell does not believe that searching these terms is appropriate, because, for example,
+the names include a journalist (Vicky Ward), Mr. Epstein’s elderly secretary, and various
+business people that form part of Plaintiff’s false narrative regarding her “sex trafficking,” and
+searching for names in the absence of a topic (i.e., massages) is well-beyond the actual requests
+for production.
+Nevertheless, Ms. Maxwell did in fact run all of the names proposed by Plaintiff against
+the forensic images of Ms. Maxwell’s computers and her email accounts. The second search
+yielded 284 additional documents, each of which were reviewed individually by counsel for Ms.
+Maxwell. Menninger Decl. paragraph 8 and 9. Again, not a single responsive, non-privileged
+document was located; the vast majority of documents were pleadings from this case.
+The complete list of terms run against Ms. Maxwell’s electronic devices and email
+accounts as agreed to by the parties is attached. Menninger Decl., Ex. F. Compliance with the
+Court’s Order to run agreed to terms was completed by July 21, 2016, prior to Ms. Maxwell’s
+second deposition.
+7
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 9 of 11
+Other Email Accounts
+In addition to her home and work email addresses, Plaintiff also requested that Ms.
+Maxwell access two other email accounts that Plaintiff believes are associated with Ms.
+Maxwell, specifically .
+Ms. Maxwell has used the account as a “spam account,” i.e., an account
+address to use when registering for retail sales notifications and the like. Nevertheless,
+undersigned counsel gained access to that account and searched all of the documents contained
+therein, including in folders for inbox, trash and sent. The email account contained no
+responsive documents.
+Ms. Maxwell does not recall ever using an account with . She has attempted
+unsuccessfully to access that account. Counsel’s own attempts to access the account yields a
+message: “The email address you entered is not an email address or ID.” Counsel for
+Ms. Maxwell has no reason to believe that the account exists.
+Conclusion
+WHEREFORE, counsel for Ms. Maxwell through a certified forensic examiner has:
+a. imaged the hard-drives of Ms. Maxwell’s devices;
+b. imaged the servers containing emails from Ms. Maxwell’s personal and business
+email accounts;
+c. searched those forensic images for the search terms proposed by Plaintiff– including
+110 from the first list and the additional 66 terms sent on July 19.
+Counsel for Ms. Maxwell has reviewed the documents obtained from the searches described
+above as well as thoroughly searched the email account .
+No additional responsive, non-privileged documents were identified in that process. An
+updated privilege log reflecting communications with Mr. Barden has been produced to Plaintiff.
+8
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 10 of 11
+Ms. Maxwell hereby respectfully requests that:
+i. Plaintiff Virginia Giuffre’s Motion for an Adverse Inference Instruction Pursuant
+to Rule 37(b), (e) and (f), Fed. R. Civ. P., be stricken;
+ii. Ms. Maxwell be awarded the costs of engaging the forensic examiner.
+Dated: August 1, 2016.
+Respectfully submitted,
+/s/ Laura A. Menninger
+Laura A. Menninger (LM-1374)
+Jeffrey S. Pagliuca (pro hac vice)
+HADDON, MORGAN AND FOREMAN, P.C.
+150 East 10th Avenue
+Denver, CO 80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for Ghislaine Maxwell
+9
+Case 1:15-cv-07433-LAP Document 1327-12 Filed 01/05/24 Page 11 of 11
+CERTIFICATE OF SERVICE
+I certify that on August 1, 2016, I electronically served this Defendant’s Submission
+regarding “Search Terms” and Notice of Compliance with Court Order Concerning Forensic
+Examination of Computer Device via ECF on the following:
+Sigrid S. McCawley Paul G. Cassell
+Meredith Schultz 383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J. Stanley Pottinger
+Bradley J. Edwards 49 Twin Lakes Rd.
+FARMER, JAFFE, WEISSING, EDWARDS, South Salem, NY 10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+/s/ Nicole Simmons
+Nicole Simmons
+10

@@ -1,0 +1,91 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.26_1",
+  "filename": "gov.uscourts.nysd.447706.1327.26_1.pdf",
+  "extraction_date": "2025-11-17T10:17:41.603935",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 50656,
+  "images_extracted": 0,
+  "dates_found": 43,
+  "people_found": 94,
+  "locations_found": 8,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 475
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 663
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2662
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4881
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6780
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8815
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11109
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 13161
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15326
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 17041
+    }
+  ],
+  "people": [
+    "Sara Kellen",
+    "Compel Deposition Questions",
+    "Filed Under Seal",
+    "Eva Dubin",
+    "Louis Freeh",
+    "Defendant Ghislaine Maxwell",
+    "Jeffrey\nEpsteinand",
+    "First Deposition Second",
+    "Vicky Ward",
+    "Direct Defendant",
+    "Did Mr",
+    "Joe Recarey",
+    "Avenue\nDenver",
+    "North Andrews Ave",
+    "See\nPlaintiff",
+    "Emmy Taylor",
+    "Federal Rules",
+    "Composite Ex",
+    "Civil Local Rule",
+    "Jane Doe"
+  ],
+  "locations": [
+    "London",
+    "New York",
+    "New Mexico",
+    "Paris",
+    "Florida",
+    "Virgin Islands",
+    "Palm Beach",
+    "Little St. James"
+  ],
+  "images": []
+}

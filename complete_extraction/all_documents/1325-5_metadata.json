@@ -1,0 +1,62 @@
+{
+  "doc_id": "1325-5",
+  "filename": "1325-5.pdf",
+  "extraction_date": "2025-11-17T10:22:35.441374",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 1909,
+  "images_extracted": 0,
+  "dates_found": 24,
+  "people_found": 1,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 112
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 179
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 268
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 335
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 413
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 524
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 591
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 713
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 813
+    }
+  ],
+  "people": [
+    "Jane Doe"
+  ],
+  "locations": [],
+  "images": []
+}

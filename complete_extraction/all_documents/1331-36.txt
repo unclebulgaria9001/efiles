@@ -1,0 +1,281 @@
+# Document: 1331-36.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 36
+# People Found: 69
+# Locations Found: 4
+# Linked Emails: 0
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 1 of 10
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+Virginia L Giuffre,
+Plaintiff
+Case No. 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant
+______________________/
+JEFFREY EPSTEIN’S MOTION TO QUASH TRIAL SUBPOENA
+Jeffrey Epstein, a non-party to the above captioned action, has been subpoenaed to testify at
+the trial of this case, being commanded to appear on May 15, 2017.1 He now moves to quash that
+subpoena for the reasons set forth herein.
+Mr. Epstein was deposed by the parties on November 10, 2016. At that deposition, he
+asserted his Fifth Amendment privilege and declined to answer all substantive questions posed to
+him during the deposition. The validity of his assertion of the privilege has already been the subject
+of extensive litigation in this case, with this Court ruling that, as to questions which the parties
+sought to compel him to answer, Mr. Epstein’s assertion of the privilege was valid and proper.
+Order, February 2, 2017 (under seal).2 Mr. Epstein’s good faith basis for his assertion of his Fifth
+Amendment privilege remains unabated. As plaintiff is well aware, it is Mr. Epstein’s intention, if
+he is called as a witness at the trial of this case, to once again assert his Fifth Amendment privilege
+1 Mr. Epstein agreed to have his attorney accept service of the subpoena but, in so doing,
+reserved his rights to move to quash the subpoena on any and all grounds.
+2 As to other questions that the parties sought to compel Mr. Epstein to answer, the Court
+concluded that the information sought was irrelevant. Id. at 13. The upshot of the Court’s ruling was
+that Mr. Epstein was not required to answer any of the questions to which the parties sought to
+compel his answers.
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 2 of 10
+in response to questioning, and his assertion of the privilege at trial will be no less valid than it was
+at his deposition. Under the circumstances of this case, this Court should not require Mr. Epstein to
+physically appear to assert his Fifth Amendment privilege in front of the jury.
+While it may be true that there is no blanket prohibition in all civil cases against calling a
+witness who will assert his Fifth Amendment privilege, see, e.g., Brinks, Inc. v. City of New York,
+717 F.2d 700, 708-10 (2d Cir. 1983); see also LiButti v. United States, 107 F.3d 110 (2d Cir. 1997),
+neither is it the rule that it should be permitted in all such cases. Instead, the propriety of requiring
+a witness to appear at trial to invoke his Fifth Amendment rights in front of a jury must be evaluated
+on a case-by-case basis. “The trial judge maintains discretion under Fed. R. Evid. 403 to control the
+way in which non-party claims of privilege reach the jury.” RAD Servs., Inc. v. Aetna Cas. & Sur.
+Co., 808 F.2d 271, 272 (3d Cir. 1986), quoted in LiButti, 107 F.3d at 122. See Evans v. City of
+Chicago, 513 F.3d 735, 740-41 (7th Cir. 2008)(finding no abuse of discretion in district court’s
+refusal to permit plaintiff to “maximize and dramatize the moment” by calling witness to assert Fifth
+Amendment privilege in front of jury); see also Brinks, 717 F.2d at 715 (Winter, J.,
+dissenting)(decrying the “invitation to sharp practice” inherent in “permitting the systematic
+interrogation of witnesses on direct examination by counsel who knows they will assert the privilege
+against self-incrimination”).
+Here, Mr. Epstein submitted to deposition under oath and recorded on video. At that
+deposition, the parties had an unlimited opportunity to examine him at length, asking approximately
+600 separate questions, to all of which Mr. Epstein asserted his Fifth Amendment privilege. No
+different result would obtain were Mr. Epstein forced to take the stand and assert his Fifth
+Amendment privilege in front of the jury. Plaintiff seeks to call Mr. Epstein as a witness in the hope
+2
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 3 of 10
+not of eliciting substantive testimony but of obtaining adverse inferences against defendant Maxwell
+based on Mr. Epstein’s assertion of the Fifth Amendment privilege with respect to various questions.
+Whether or not such adverse inferences are appropriate under the circumstances of this case is
+currently being litigated between the parties and will be decided by this Court. As explained below,
+requiring Mr. Epstein to appear before a jury to answer the very same questions as to which he has
+already asserted his Fifth Amendment privilege during sworn video-recorded testimony will add
+nothing to the ultimate issue of whether any adverse inference should be permitted, nor would it
+make any potential adverse inference any more or less valid.
+The Second Circuit has identified four factors which are relevant to the determination as to
+whether courts should permit juries to draw adverse inferences against a party based on a witness’
+invocation of his Fifth Amendment privilege:
+1. The Nature of the Relevant Relationships: While no particular relationship governs, the
+nature of the relationship will invariably be the most significant circumstance. It should be
+examined, however, from the perspective of a non-party witness' loyalty to the plaintiff or
+defendant, as the case may be. The closer the bond, whether by reason of blood, friendship
+or business, the less likely the non-party witness would be to render testimony in order to
+damage the relationship.
+2. The Degree of Control of the Party Over the Non-Party Witness: The degree of control
+which the party has vested in the non-party witness in regard to the key facts and general
+subject matter of the litigation will likely inform the trial court whether the assertion of the
+privilege should be viewed as akin to testimony approaching admissibility under Fed. R.
+Evid. 801(d)(2), and may accordingly be viewed, as in Brink's, as a vicarious admission.
+3. The Compatibility of the Interests of the Party and Non-Party Witness in the Outcome of
+the Litigation: The trial court should evaluate whether the non-party witness is pragmatically
+a noncaptioned party in interest and whether the assertion of the privilege advances the
+interests of both the non-party witness and the affected party in the outcome of the litigation.
+4. The Role of the Non-Party Witness in the Litigation: Whether the non-party witness was
+a key figure in the litigation and played a controlling role in respect to any of its underlying
+aspects also logically merits consideration by the trial court.
+3
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 4 of 10
+LiButti, 107 F.3d at 123-24 (italics in original). In her motion seeking to present Mr. Epstein’s
+assertions of his Fifth Amendment privilege in response to various questions, plaintiff has argued
+why these factors should result in adverse inferences against defendant Maxwell, see Plaintiff
+Giuffre’s Motion to Present Testimony from Jeffrey Epstein for Purposes of Obtaining an Adverse
+Inference (“Motion to Present Epstein Testimony”) at 10-13, and defendant Maxwell has argued why
+they should not, see Defendant’s Response in Opposition to Plaintiff Giuffre’s Motion to Present
+Testimony from Jeffrey Epstein for Purposes of Obtaining an Adverse Inference (“Opposition to
+Motion to Present Epstein Testimony”) at 2-11. Requiring Mr. Epstein to appear personally to assert
+his Fifth Amendment privilege in front of the jury has no potential whatsoever to add to or detract
+from either plaintiff’s arguments in favor of an adverse inference or arguments in opposition
+presented by defendant Maxwell. These factors all present questions which can be determined
+entirely independently of Mr. Epstein’s appearance as a witness at trial. Plaintiff appears to recognize
+as much, as she makes no distinction in her motion between live testimony and deposition testimony;
+indeed, plaintiff indicates in her motion that, if Mr. Epstein were to appear as a witness, she would
+put the very same questions to him as she did at his deposition. See id. at 4 (“Ms. Giuffre now
+intends to call Epstein to ask him these same questions, either live an in-person if he honors a trial
+subpoena served on his legal counsel, or, if he fails to appear, via deposition testimony such as the
+designations just discussed” (emphasis added)). Indeed, in LiButti itself, the issue was the
+admissibility of the witness’ deposition testimony and the extent to which, if any, adverse inference
+inferences should be drawn from the witness’ invocation of the Fifth Amendment at his deposition.
+Nothing will be added to the adverse inference inquiry by requiring Mr. Epstein to appear personally
+and reassert his Fifth Amendment privilege in front of the jury, nor would the jury be aided in
+4
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 5 of 10
+determining whether to draw any adverse inferences it is permitted to consider by seeing Mr. Epstein
+assert the privilege in live testimony in front of it, rather than by seeing him do the same thing in his
+video deposition.
+Adverse inference issues are often submitted to the jury based on deposition testimony rather
+than on live invocation of the privilege in front of the jury, see, e.g., SEC v. Jasper, 678 F.3d 1116,
+1125 (9th Cir. 2012); RAD, 808 F.2d at 272; Data Gen. Corp. v. Grumman Sys. Support Corp., 825
+F. Supp. 340, 352 (D. Mass. 1993); East Coast Novelty Co. v. City of New York, 842 F. Supp. 117,
+121 (S.D.N.Y. 1994); Penfield v. Venuti, 589 F. Supp. 250, 255-56 (D.Conn. 1984), and, should this
+Court determine that the jury may consider whether an adverse inference is appropriate with respect
+to any particular questions asked of Mr. Epstein, then the use of Mr. Epstein’s video deposition
+testimony is the procedure which should be followed in this case.
+While requiring Mr. Epstein to invoke his Fifth Amendment privilege in front of the jury will
+yield not even a marginal benefit to either party, there are substantial countervailing concerns that
+weigh heavily against requiring Mr. Epstein to appear at trial. First, Mr. Epstein’s personal
+appearance would likely generate substantial media attention which would threaten to undermine the
+parties’ rights to a fair trial, a result which neither plaintiff or defendant could legitimately welcome.
+Second, requiring Mr. Epstein’s personal appearance would impose an undue and unnecessary
+burden on him. Mr. Epstein is not a resident of New York; on the contrary, as both parties know, he
+resides in the Virgin Islands.3 Because Mr. Epstein’s assertion of his Fifth Amendment privilege at
+3 Mr. Epstein’s residence in the Virgin Islands provides an additional reason why Mr. Epstein
+should not be required to appear at the trial of this case. Mr. Epstein spends a majority of his time
+in the Virgin Islands, which is his legal residence. He does not, therefore, reside within 100 miles
+of the place of this trial. See generally Fed. R. Civ. P. 45(c)(1)(A).
+5
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 6 of 10
+his video deposition is the functional equivalent of an in-person assertion, the distance of travel
+required and the expenses which would be incurred—here, not just the cost of travel to New York
+but also additional legal fees for representation during his testimony—would impose a substantial
+and unwarranted burden on Mr. Epstein.
+Fed. R. Civ P. 45(d)(3)(A)(iv) provides that the court for the district where compliance is
+required must quash a subpoena that “subjects a person to undue burden.” “An evaluation of undue
+burden requires the court to weigh the burden to the subpoenaed party against the value of the
+information to the serving party.” Travelers Indem. Co. v. Metro. Life Ins. Co., 228 F.R.D. 111, 113
+(D. Conn. 2005). “Whether a subpoena subjects a witness to undue burden within the meaning of
+[Rule 45(d)(3)(A)(iv)] ‘depends upon such factors as relevance . . . and the burden imposed.’”
+Garneau v. Paquin, 2015 WL 3466833, at *3 (D. Conn. June 1, 2015), quoting In re Application of
+Operacion y Supervision de Hoteles, S.A., 2015 WL 82007, at *4 (S.D.N.Y. Jan. 6, 2015). See
+Cusumano v. Microsoft Corp., 162 F.3d 708, 717 (1st Cir. 1998)(“concern for the unwanted burden
+thrust upon non-parties is a factor entitled to special weight in evaluating the balance of competing
+needs”). Here, forcing Mr. Epstein, a nonparty, to travel to New York to assert his Fifth Amendment
+privilege in front of the jury would add no “value” to either plaintiff’s or defendant’s case beyond
+whatever may be afforded by Mr. Epstein’s assertion of his Fifth Amendment privilege at his video
+deposition, nor would Mr. Epstein’s personal appearance at trial add anything of relevance to the
+parties’ cases beyond that which the jury could observe in Mr. Epstein’s video deposition testimony.
+Given the wholesale lack of value or relevance of Mr. Epstein’s personal appearance before the jury,
+the burdens to which such an appearance would subject him should be controlling. This is
+6
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 7 of 10
+particularly true when the spectre of this trial’s becoming even more of a media event is factored into
+the analysis.4
+Plaintiff also argues in her motion that she should be permitted to call Mr. Epstein as a
+witness to forestall the possibility that the jury would find it odd that she had not called Mr. Epstein
+to testify. Motion to Present Epstein Testimony at 13-15. As defendant argues in the Opposition to
+Motion to Present Epstein Testimony:
+To the extent a jury wonders why Mr. Epstein is not called by Plaintiff, they will also wonder
+why Ms. Maxwell is not calling him if he has exonerating information. There are a myriad
+of reasons why a witness may or may not testify or why evidence may or may not be
+presented at trial. Fortunately, this is a problem that is easily remedied through jury
+instructions.
+4 Mr. Epstein has been, and continues to be, the subject of extensive publicity, much of it
+salacious. A Google search for “Jeffrey Epstein” returns 508,000 entries, the most recent of which
+center on the new nominee for Secretary of Labor, Alexander Acosta, who, when he was United
+States Attorney for the Southern District of Florida, approved Mr. Epstein’s nonprosecution
+agreement. See, e.g., New York Daily News, “Labor Secretary nominee Alexander Acosta gave
+‘sweetheart deal’ to sex offender Jeffrey Epstein,” February 16, 2017, available at
+http://www.nydailynews.com/news/national/labor-pick-acosta-gave-sweetheart-deal-sex-offender
+-epstein-article-1.2975065 (last visited February 17, 2017); Politico, “Trump’s Labor nominee
+oversaw ‘sweetheart plea deal’ in billionaire’s underage sex case,” February 16, 2017, available at
+http://www.politico.com/story/2017/02/alexander-acosta-trump-jeffrey-epstein-plea-235096 (last
+visited February 17, 2017). Mr. Epstein’s name has been widely linked in the press with prominent
+individuals such as Donald Trump, Bill Clinton, Prince Andrew. See, e.g., New York Post, “The ‘sex
+slave’ scandal that exposed pedophile billionaire Jeffrey Epstein,” October 9, 2016, available at
+http://nypost.com/2016/10/09/the-sex-slave-scandal-that-exposed-pedophile-billionaire-jeffrey-e
+pstein/ (last visited February 17, 2017); Newsweek, “Jeffrey Epstein: the Sex Offender Who Mixes
+with Princes and Premiers,” January 29, 2015, available at
+http://www.newsweek.com/2015/02/06/sex-offender-who-mixes-princes-and-premiers-302877.html
+(last visited February 17, 2017). He is the subject of a recently released book by best-selling author
+James Patterson titled Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All
+the Justice that Money Can Buy - The Shocking True Story of Jeffrey Epstein (Little, Brown & Co.
+October 10, 2016). His personal appearance at the trial of this case would predictably be the focus
+of massive media attention, of both the mainstream and gutter variety.
+7
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 8 of 10
+Opposition to Motion to Present Epstein Testimony at 15. Moreover, presenting Mr. Epstein’s
+deposition testimony in which he asserted his Fifth Amendment privilege in response to questioning
+regarding plaintiff’s allegations would completely alleviate this concern, as the jury would know
+from that testimony exactly “what Epstein . . . has to say about all this.” Motion to Present Epstein
+Testimony at 14. There is no indication in Cerro Gordo Charity v. Fireman's Fund Am. Life Ins.
+Co., 819 F.2d 1471 (8th Cir. 1987), on which plaintiff relies, id. at 14-15, that deposition testimony
+of the witness was available in lieu of personal appearance before the jury to assert the Fifth
+Amendment privilege. The Court, stressing that the determination must be made on a case-by-case
+basis, id. at 1481, concluded that there was no error in permitting the witness to be called even
+though he had indicated that he would assert the privilege because
+[h]earing Richards invoke the privilege informed the jury why the parties with the burden of
+proof, i.e., the insurance companies, resorted to less direct and more circumstantial evidence
+than Richards' own account of what had occurred. . . . Otherwise, the jury might have
+inferred that the companies did not call Richards to testify because his testimony would have
+damaged their case.
+Id. at 1482. Even a limited use of Mr. Epstein’s deposition testimony would serve these purposes
+equally well, as the jury would be left in no doubt as to why the plaintiff had not called Mr. Epstein
+as a witness.
+Finally, defendant Maxwell has argued in her Opposition to Motion to Present Epstein
+Testimony that to the extent any questions posed to Mr. Epstein in his deposition might have been
+relevant to the issues in this case, presenting those questions and Mr. Epstein’s responsive Fifth
+Amendment invocation to the jury would be substantially more prejudicial than probative:
+As to any questions regarding Ms. Maxwell or Plaintiff, the questions are severely more
+prejudicial than probative, designed only to confuse and mislead the jury into making a
+determination on an improper basis. The LiButti court and subsequent decisions have been
+8
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 9 of 10
+quite clear that the types of questions posed to Mr. Epstein, leading pejorative questions,
+designed to suggest that the answer would be yes, are precisely the types of questions that
+should be excluded from evidence under 403.
+Opposition to Motion to Present Epstein Testimony at 12. Requiring Mr. Epstein’s live Fifth
+Amendment invocation in front of the jury in response to the very same questions would be no less
+prejudicial and no more probative and would provide no independent basis to justify the burdens it
+imposes on Mr. Epstein or the damage to the integrity of the trial which will likely result from the
+media circus generated by Mr. Epstein’s personal appearance.
+CONCLUSION
+For all the foregoing reasons, Mr. Epstein’s Motion to Quash should be granted.
+Respectfully submitted,
+JEFFREY EPSTEIN
+By his attorneys,
+/s/ Jack Alan Goldberger
+Jack Alan Goldberger
+Atterbury, Goldberger & Weiss, P.A.
+250 Australian Avenue South, #1400
+West Palm Beach, Florida 33401
+(561) 659-8305
+(561) 835-8691 (fax)
+jgoldberger@agwpa.com
+/s/ Martin G. Weinberg
+Martin G. Weinberg
+20 Park Plaza, Suite 1000
+Boston, Massachusetts 02116
+(617) 227-3700
+(617) 338-9538 (fax)
+owlmgw@att.net
+9
+Case 1:15-cv-07433-LAP Document 1331-36 Filed 01/05/24 Page 10 of 10
+CERTIFICATE OF SERVICE
+I, Martin G. Weinberg, hereby certify that on this 3rd day of March, 2017, I electronically
+filed the foregoing Motion with the Clerk of the Court using the CM/ECF system, thus effecting
+service on counsel of record:
+Sigrid McCauley
+Boies, Schiller & Flexner LLP
+401 E. Las Olas Bivd., Suite 1200
+Ft. Lauderdale, FL 33301
+Jeffrey S. Pagliucca
+Laura A. Menninger
+Haddon, Morgan and Foreman, P.C.
+150 East Tenth Ave.
+Denver CO 80203
+Bradley James Edwards
+Farmer, Jaffe, Weissing. Edwards, Fistos, Lehrman, P.L.
+425 N. Andrews Ave., Suite 2
+Fort Lauderdale, FL 33301
+Paul G. Cassell
+S.J. Quinney College of Law At The University of Utah
+383 S. University Street
+Salt Lake City, UT 84112-0730
+10

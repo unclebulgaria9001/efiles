@@ -1,0 +1,80 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.1_1",
+  "filename": "gov.uscourts.nysd.447706.1327.1_1.pdf",
+  "extraction_date": "2025-11-17T10:17:34.863480",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 26917,
+  "images_extracted": 0,
+  "dates_found": 28,
+  "people_found": 17,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 140
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1433
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2469
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3457
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4487
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5533
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6650
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7776
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8933
+    }
+  ],
+  "people": [
+    "Did Ms",
+    "Virginia Giuffre",
+    "Sounds British",
+    "Anthony Lewis Zach",
+    "Jeffy Epstein",
+    "Southern Reporting Company",
+    "Jeffrey Epstein",
+    "Was Ms",
+    "And Virginia Giuffre",
+    "And Ms",
+    "Would Jeffrey",
+    "Figueroa\nSouthern Reporting",
+    "Gillian Maxwell",
+    "Tony Figueroa",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "For Jeffrey"
+  ],
+  "locations": [],
+  "images": []
+}

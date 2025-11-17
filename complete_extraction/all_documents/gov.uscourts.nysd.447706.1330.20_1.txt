@@ -1,0 +1,40 @@
+# Document: gov.uscourts.nysd.447706.1330.20_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: unknown
+# Images Extracted: 0
+# Dates Found: 10
+# People Found: 0
+# Locations Found: 0
+# Linked Emails: 2
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 1 of 10
+EXHIBIT B
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 2 of 10
+GM_01036
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 3 of 10
+GM_01037
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 4 of 10
+GM_01038
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 5 of 10
+GM_01039
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 6 of 10
+GM_01040
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 7 of 10
+GM_01041
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 8 of 10
+GM_01042
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 9 of 10
+GM_01043
+CONFIDENTIAL
+Case 1:15-cv-07433-LAP Document 1330-20 Filed 01/05/24 Page 10 of 10
+GM_01044
+CONFIDENTIAL

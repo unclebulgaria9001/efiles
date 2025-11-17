@@ -1,0 +1,286 @@
+{
+  "doc_id": "1320-13",
+  "filename": "1320-13.pdf",
+  "extraction_date": "2025-11-17T10:21:40.224333",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log",
+    "financial"
+  ],
+  "text_length": 141409,
+  "images_extracted": 0,
+  "dates_found": 243,
+  "people_found": 260,
+  "locations_found": 4,
+  "linked_emails": [
+    {
+      "email_file": "0003_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0003"
+    },
+    {
+      "email_file": "0004_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0004"
+    },
+    {
+      "email_file": "0005_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0005"
+    },
+    {
+      "email_file": "0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0006"
+    },
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    },
+    {
+      "email_file": "0008_01_04_24_From-JaneDoe2_To-Unknown_untitled.txt",
+      "email_id": "0008"
+    },
+    {
+      "email_file": "0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt",
+      "email_id": "0009"
+    },
+    {
+      "email_file": "0036_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0036"
+    },
+    {
+      "email_file": "0045_1, May 18, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0045"
+    },
+    {
+      "email_file": "0046_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell,.txt",
+      "email_id": "0046"
+    },
+    {
+      "email_file": "0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0048"
+    },
+    {
+      "email_file": "0049_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0049"
+    },
+    {
+      "email_file": "0050_____________From-Unknown_To-4 _______________________________________________DATE____________.txt",
+      "email_id": "0050"
+    },
+    {
+      "email_file": "0052_15 MR. CRITTON_ Befo_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0052"
+    },
+    {
+      "email_file": "0053_04_25_2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0053"
+    },
+    {
+      "email_file": "0055_Tuesday,10 November2_From-Ross Gow_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt",
+      "email_id": "0055"
+    },
+    {
+      "email_file": "0056_1, August 16, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0056"
+    },
+    {
+      "email_file": "0057_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0057"
+    },
+    {
+      "email_file": "0058_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0058"
+    },
+    {
+      "email_file": "0059_Ward, January 6, 201_From-Unknown_To-Unknown_Q. Have you ever heard the name of Carol.txt",
+      "email_id": "0059"
+    },
+    {
+      "email_file": "0060_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0060"
+    },
+    {
+      "email_file": "0062_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0062"
+    },
+    {
+      "email_file": "0063_Fri 2_21_2014 1_17_2_From-Virginia Giuffre_To-Marianne Strong[mariannes_Re_ NYC Post Inquiry re_ Jeffrey Epstein.txt",
+      "email_id": "0063"
+    },
+    {
+      "email_file": "0064_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0064"
+    },
+    {
+      "email_file": "0065_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0065"
+    },
+    {
+      "email_file": "0066_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0066"
+    },
+    {
+      "email_file": "0067_Chen, April 12, 2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0067"
+    },
+    {
+      "email_file": "0068_01_05_24_From-Unknown_To-1. Ms. Maxwell\u2019s sexual a_\u201cDefendant should be ordered to sit for.txt",
+      "email_id": "0068"
+    },
+    {
+      "email_file": "0069_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0069"
+    },
+    {
+      "email_file": "0070_Sat, 10 Jan 2015 18__From-G Maxwell_To-JJep_Fw_.txt",
+      "email_id": "0070"
+    },
+    {
+      "email_file": "0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt",
+      "email_id": "0072"
+    },
+    {
+      "email_file": "0073_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0073"
+    },
+    {
+      "email_file": "0074_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0074"
+    },
+    {
+      "email_file": "0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt",
+      "email_id": "0075"
+    },
+    {
+      "email_file": "0076_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0076"
+    },
+    {
+      "email_file": "0077_Wednesday,July20,201_From-MeredithSchultz_To-LauraMenninger_RE_Conferralregardingforensicsearch.txt",
+      "email_id": "0077"
+    },
+    {
+      "email_file": "0078_01_05_24_From-Unknown_To-Unknown_INVESTIGATION OF.txt",
+      "email_id": "0078"
+    },
+    {
+      "email_file": "0079_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0079"
+    },
+    {
+      "email_file": "0080_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0080"
+    },
+    {
+      "email_file": "0082_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0082"
+    },
+    {
+      "email_file": "0083_04_25_2016_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0083"
+    },
+    {
+      "email_file": "0084_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0084"
+    },
+    {
+      "email_file": "0085_CENTER, June 26, 201_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0085"
+    },
+    {
+      "email_file": "0086_01_05_24_From-Unknown_To-Sigrid McCawley, Esq. Boi_untitled.txt",
+      "email_id": "0086"
+    },
+    {
+      "email_file": "0087_Dershowitz, October_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0087"
+    },
+    {
+      "email_file": "0088_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0088"
+    },
+    {
+      "email_file": "0089_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0089"
+    },
+    {
+      "email_file": "0091_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0091"
+    },
+    {
+      "email_file": "0180_01_03_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0180"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "11/07/05",
+      "position": 1253
+    },
+    {
+      "date_string": "11/07/05",
+      "position": 1295
+    },
+    {
+      "date_string": "7/19/06",
+      "position": 6313
+    },
+    {
+      "date_string": "11/10/05",
+      "position": 8792
+    },
+    {
+      "date_string": "11/10/05",
+      "position": 8834
+    },
+    {
+      "date_string": "11/10/05",
+      "position": 11185
+    },
+    {
+      "date_string": "11/13/05",
+      "position": 14399
+    },
+    {
+      "date_string": "7/19/06",
+      "position": 16205
+    },
+    {
+      "date_string": "11/15/05",
+      "position": 21445
+    },
+    {
+      "date_string": "11/16/05",
+      "position": 21488
+    }
+  ],
+  "people": [
+    "Blanton\nAutomotive",
+    "Tan\nHonda Civic",
+    "White Ford Truck",
+    "Ghaline Maxwell",
+    "Victoria Bean",
+    "El Zorro Ranch",
+    "Entered By",
+    "Fairway Lakes\nDrive",
+    "The\nState Attorney",
+    "Darren Indyke",
+    "El Brillo Ave",
+    "If Rodriguez",
+    "Chevrolet Camaro",
+    "Ms Bean",
+    "St Thomas",
+    "Lascivious\nActs",
+    "The Premio",
+    "Case Agent Det",
+    "Atty Guy Fronstin",
+    "Ford Explorer"
+  ],
+  "locations": [
+    "Zorro Ranch",
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

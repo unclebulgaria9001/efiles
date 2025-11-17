@@ -1,0 +1,928 @@
+# Document: 1320-15.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document
+# Images Extracted: 0
+# Dates Found: 47
+# People Found: 29
+# Locations Found: 1
+# Linked Emails: 8
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 1 of 27
+EXHIBIT 2
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 2 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,EdwardsandCassellreattorney defense/commo
+1 2/12/20156:14 VirginiaGiuffre smccawley@bsfllp.com impressionsandlegaladvicerelatingtodepositiontestimony ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Smccawley@BSFLLP.com,br Product/joint
+ad@pathtojustice.com,robie defense/commo
+2 2/16/20151:05 StanPottinger@aol.com jennag@y7mail.com Discussionofevidenceamongclientandattorneys ninterest Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawley,PottingerandEdwardsre ninterest/work
+3 2/16/201515:37 VirginiaGiuffre Smccawley@BSFLLP.com informationprovidedbyclienttoassistinlegaladvice product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawley,PottingerandEdwardsre ninterest/work
+4 2/16/201516:15 SigridMcCawley robiejennag@y7mail.com informationprovidedbyclienttoassistinlegaladvice product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawley,PottingerandEdwardsre ninterest/work
+5 2/16/201516:24 VirginiaGiuffre Smccawley@BSFLLP.com informationprovidedbyclienttoassistinlegaladvice product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawley,PottingerandEdwardsre ninterest/work
+6 2/16/201516:24 SigridMcCawley robiejennag@y7mail.com informationprovidedbyclienttoassistinlegaladvice product Withheld 2 msg
+ACPrivilegeand
+StanPottinger@aol.com,bra Work
+d@pathtojustice.com,cassell Product/joint
+p@law.utah.edu,robiejenna defense/commo
+7 2/21/201516:45 SigridMcCawley g@y7mail.com Smccawley@BSFLLP.com Discussionofevidenceamongclientandattorneys ninterest Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 3 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+8 2/21/201516:58 VirginiaGiuffre Smccawley@BSFLLP.com Discussionofevidenceamongclientandattorney ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+StanPottinger@aol.com,cassellp@l Product/joint
+aw.utah.edu,robiejennag@y7mail.c defense/commo
+9 2/21/201517:05 BradEdwards Smccawley@BSFLLP.com om Discussionofevidenceamongclientandattorneys ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+10 2/21/201517:10 SigridMcCawley robiejennag@y7mail.com Discussionofevidenceamongclientandattorney ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+11 2/21/201517:16 VirginiaGiuffre Smccawley@BSFLLP.com Discussionofevidenceamongclientandattorneys ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+StanPottinger@aol.com,brad@pat Product/joint
+htojustice.com,cassellp@law.utah. defense/commo
+12 2/23/201514:21 SigridMcCawley robiejennag@y7mail.com edu Discussionofthoughtsandimpressionsofattorneys ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+Smccawley@BSFLLP.com,ro brad@pathtojustice.com,cassellp@ defense/commo
+13 2/23/201514:29 StanPottinger@aol.com biejennag@y7mail.com law.utah.edu Discussionofthoughtsandimpressionsofattorneys ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+StanPottinger@aol.com,brad@pat Product/joint
+htojustice.com,cassellp@law.utah. defense/commo
+14 2/23/201516:01 VirginiaGiuffre Smccawley@BSFLLP.com edu Discussionofthoughtsandimpressionsofattorneys ninterest Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 4 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithMcCawley,Giuffre,andParalegalsreseeking defense/commo
+15 2/24/201517:51 SigridMcCawley robiejennag@y7mail.com informationtoassistinlegaladvice,withattachment ninterest Withheld 4 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+16 Attachedcaseresearch ninterest Withheld 14 rtf
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,McCawleyandlegalassistantrelegal defense/commo
+17 2/26/201512:59 VirginiaGiuffre Smccawley@BSFLLP.com document,withattachment ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+18 Attacheddraftlegaldocument ninterest Withheld 1 jfif
+ACPrivilegeand
+Work
+Product/joint
+EmailwithGiuffre,McCawley,EdwardsandHendersonre defense/commo
+19 2/28/201517:47 VirginiaGiuffre Smccawley@BSFLLP.com discussionofdraftstatement ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+Smccawley@BSFLLP.com,brad@pa EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+20 3/13/201517:29 StanPottinger robiejennag@y7mail.com thtojustice.com Pottingerrelegaladviceonmediaissues ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Edwards,McCawleyandPottingerre defense/commo
+21 3/13/201517:49 VirginiaGiuffre stanpottinger@aol.com legaladviceonmediaissues ninterest Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 5 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+Smccawley@BSFLLP.com,brad@pa EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+22 3/13/201517:56 StanPottinger@aol.com robiejennag@y7mail.com thtojustice.com Pottingerrelegaladviceonmediaissues ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+StanPottinger@aol.com,robi EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+23 3/13/201518:00 BradEdwards ejennag@y7mail.com Smccawley@BSFLLP.com Pottingerrelegaladviceonmediaissues ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+24 3/13/201518:24 VirginiaGiuffre brad@pathtojustice.com Pottingerrelegaladviceonmediaissues ninterest Withheld 4 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+25 3/13/201518:25 VirginiaGiuffre StanPottinger@aol.com Pottingerrelegaladviceonmediaissues ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+Smccawley@BSFLLP.com,StanPotti EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+26 3/13/201521:53 VirginiaGiuffre brad@pathtojustice.com nger@aol.com Pottingerrelegaladviceonmediaissues ninterest Withheld 4 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+27 3/13/201523:38 BradEdwards robiejennag@y7mail.com Pottingerrelegaladviceonmediaissues ninterest Withheld 4 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Edwards,McCawley,Hendersonand defense/commo
+28 3/13/201523:40 VirginiaGiuffre brad@pathtojustice.com Pottingerrelegaladviceonmediaissues ninterest Withheld 4 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 6 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+Smccawley@BSFLLP.com,br defense/commo
+ad@pathtojustice.com,stan Providinginformationtoassistinlegaladvicerepotentiallegal ninterest/work
+29 3/17/201515:20 VirginiaGiuffre pottinger@aol.com action,withattachments product Withheld 1 msg
+Attorney
+Client/joint
+Smccawley@BSFLLP.com,br defense/commo
+ad@pathtojustice.com,robie EmailchainwithGiuffre,Edwards,PottingerandMcCawleyre ninterest/work
+30 3/17/201518:40 Stan jennag@y7mail.com legaladvicerelatedtoVRS product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,PottingerandMcCawleyre ninterest/work
+31 3/17/201519:42 VirginiaGiuffre stanpottinger@aol.com legaladvicerelatedtoVRS product Withheld 1 msg
+Attorney
+Client/joint
+brad@pathtojustice.com,ro defense/commo
+biejennag@y7mail.com,stan aortiz@BSFLLP.com,brittany@path EmailchainwithGiuffre,Edwards,Henderson,Pottinger, ninterest/work
+32 3/20/201515:43 SigridMcCawley pottinger@aol.com tojustice.com McCawleyandBSFstaffrelegaladvicerelatedtoVRS product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+33 3/20/201515:57 SigridMcCawley robiejennag@y7mail.com Providinglegaladvicerepotentialdeposition product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+34 3/24/201521:19 SigridMcCawley robiejennag@y7mail.com aortiz@BSFLLP.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 7 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+35 3/24/201521:21 VirginiaGiuffre Smccawley@BSFLLP.com aortiz@BSFLLP.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+Smccawley@BSFLLP.com,ro EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+36 3/24/201521:36 AndresOrtiz biejennag@y7mail.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+37 3/24/201522:21 VirginiaGiuffre aortiz@BSFLLP.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 3 msg
+Attorney
+Smccawley@BSFLLP.com,StanPotti Client/joint
+nger@aol.com,brad@pathtojustice defense/commo
+.com,brittany@pathtojustice.com,eEmailchainwithGiuffre,Edwards,Henderson,Pottinger, ninterest/work
+38 3/26/20152:00 SigridMcCawley robiejennag@y7mail.com perez@BSFLLP.com McCawleyandBSFstaffrelegaladvicerelatedtoVRS product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+39 3/26/20152:21 VirginiaGiuffre Smccawley@BSFLLP.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+40 3/26/20152:22 SigridMcCawley robiejennag@y7mail.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 8 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+41 3/26/20153:00 VirginiaGiuffre Smccawley@BSFLLP.com BSFstaffrelegaladvicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+Giuffreconveyinginformationsoughtbyattorneytoassistin ninterest/work
+42 4/1/201521:32 VirginiaGiuffre Smccawley@BSFLLP.com legaladvicewithattachments product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+Providingdraftlegaldocumentforclientreview,with ninterest/work
+43 4/2/20157:01 BrittanyHenderson robiejennag@y7mail.com eperez@BSFLLP.com attachment product Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+44 AttachedDraftlegaldocument ninterest Withheld 15 pdf
+ACPrivilegeand
+Work
+Product/joint
+brad@pathtojustice.com,eperez@ EmailchainwithGiuffre,Henderson,Edwardsandlegal defense/commo
+45 4/3/201515:32 BrittanyHenderson robiejennag@y7mail.com BSFLLP.com assistantrelegaldocument,withattachment ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+46 Attacheddraftlegaldocument ninterest 15 pdf
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 9 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+47 4/8/201520:34 VirginiaGiuffre Smccawley@BSFLLP.com SeekinglegaladvicerelatedtoVRS product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyreadvicerelegalfilings, ninterest/work
+48 4/9/20153:23 VirginiaGiuffre Smccawley@BSFLLP.com withattachments product Withheld 2 msg
+Attorney
+Client/joint
+StanPottinger@aol.com,bra defense/commo
+d@pathtojustice.com,robiej brittany@pathtojustice.com,sperki EmailchainwithGiuffre,Edwards,Henderson,McCawleyand ninterest/work
+49 4/9/20157:16 SigridMcCawley ennag@y7mail.com ns@BSFLLP.com BSFstaffrelegaladviceremediaissues product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Edwards,andMcCawleyrelegaladviceninterest/work
+50 4/9/20159:26 BradEdwards Smccawley@BSFLLP.com robiejennag@y7mail.com remediaissues product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyrelegaladviceremedia ninterest/work
+51 4/9/20159:33 SigridMcCawley robiejennag@y7mail.com issues product Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+Conveyinglegaladviceredraftlegaldocumentstoclient,with defense/commo
+52 4/9/201512:46 SigridMcCawley robiejennag@y7mail.com attachments ninterest Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 10 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+Conveyinglegaladviceredraftlegaldocumentstoclient,with defense/commo
+53 attachments ninterest Withheld 14 docx
+ACPrivilegeand
+Work
+Product/joint
+Conveyinglegaladviceredraftlegaldocumentstoclient,with defense/commo
+54 attachments ninterest Withheld 12 docx
+ACPrivilegeand
+Work
+Product/joint
+Conveyinglegaladviceredraftlegaldocumentstoclient,with defense/commo
+55 attachments ninterest Withheld 2 docx
+Attorney
+Client/joint
+defense/commo
+StanPottinger@aol.com,brad@pat ninterest/work
+56 4/10/201514:59 SigridMcCawley robiejennag@y7mail.com htojustice.com Providinglegaladviceremediaissues product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+57 4/10/201515:37 VirginiaGiuffre Smccawley@BSFLLP.com Regardinglegaladviceremediaissues product Withheld 1 msg
+ACPrivilegeand
+Work
+StanPottinger@aol.com,brad@pat EmailchainwithGiuffre,McCawley,Henderson,Edwards, Product/joint
+htojustice.com,brittany@pathtojus Pottingerandlegalassistantrelegaldocuments,with defense/commo
+58 4/10/201517:31 SigridMcCawley robiejennag@y7mail.com tice.com,eperez@BSFLLP.com attachments ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+59 Attacheddraftlegaldocument ninterest Withheld 3 pdf
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 11 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+60 Attacheddraftlegaldocument ninterest Withheld 21 pdf
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+61 4/10/201517:40 VirginiaGiuffre Smccawley@BSFLLP.com advicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+62 4/10/201519:10 VirginiaGiuffre Smccawley@BSFLLP.com advicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+63 4/10/201519:28 SigridMcCawley robiejennag@y7mail.com advicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+64 4/10/201519:33 VirginiaGiuffre Smccawley@BSFLLP.com advicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+65 4/10/201520:03 SigridMcCawley robiejennag@y7mail.com advicerelatedtoVRS product Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 12 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+66 4/10/201520:04 VirginiaGiuffre Smccawley@BSFLLP.com advicerelatedtoVRS product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,McCawleyandBSFstaffregardinglegalninterest/work
+67 4/10/201520:04 SigridMcCawley robiejennag@y7mail.com advicerelatedtoVRS product Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawleylegalassistantreseeking Product/joint
+andprovidinginformationsoughtbyattorneytoassistin defense/commo
+68 4/10/201523:46 VirginiaGiuffre Smccawley@BSFLLP.com providinglegaladvice,withattachments ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+StanPottinger@aol.com,brad@pat EmailchainwithGiuffre,Pottinger,EdwardsandMcCawleyre defense/commo
+69 4/13/201513:52 SigridMcCawley robiejennag@y7mail.com htojustice.com legaladviceregardingpotentialpublicstatements ninterest Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,Pottinger,EdwardsandMcCawleyre defense/commo
+70 4/13/201513:56 VirginiaGiuffre Smccawley@BSFLLP.com legaladviceregardingmediaissues ninterest Withheld 3 msg
+Attorney
+Smccawley@BSFLLP.com,bri Client/joint
+ttany@pathtojustice.com,ro defense/commo
+biejennag@y7mail.com,stan ninterest/work
+71 4/14/201523:38 BradEdwards pottinger@aol.com ProvidinglegaladvicerelatedtoVRS product Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 13 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyrelegaladviceregarding ninterest/work
+72 4/16/201511:14 VirginiaGiuffre Smccawley@BSFLLP.com mediaissues product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyrelegaladviceregarding ninterest/work
+73 4/16/201511:47 SigridMcCawley robiejennag@y7mail.com mediaissues product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+74 4/24/201519:22 SigridMcCawley robiejennag@y7mail.com Providinglegaladvicererecordsretention,withattachments product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+75 Attachedletterprovidinglegaladviceredocumentretention product Withheld 2 pdf
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyrelegaladviceregarding ninterest/work
+76 4/24/201519:59 VirginiaGiuffre Smccawley@BSFLLP.com potentialdeposition product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+77 4/27/201521:20 BradEdwards robiejennag@y7mail.com Smccawley@BSFLLP.com Seekinginformationtoassistinprovidinglegaladvice product Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 14 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Smccawley@BSFLLP.com,brad@pa Product/joint
+thtojustice.com,robiejennag@y7m defense/commo
+78 4/30/20156:42 BrittanyHenderson eperez@BSFLLP.com ail.com Legaldocumentsprovidedtoassistinprovidinglegaladvice ninterest Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffre,Hendersonandparalegalreseeking ninterest/work
+79 4/30/20157:02 BrittanyHenderson robiejennag@y7mail.com andprovidinginformationtoassistinprovidinglegaladvice product Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,Henderson,Edwards,McCawleyand Product/joint
+legalassistantreseekinginformationtoassistinprovidinglegal defense/commo
+80 4/30/20157:05 VirginiaGiuffre brittany@pathtojustice.com advice ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,Henderson,Edwards,McCawleyand Product/joint
+legalassistantreseekinginformationtoassistinprovidinglegal defense/commo
+81 5/4/201520:04 VirginiaGiuffre brittany@pathtojustice.com advice,withattachment ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithMcCawley,Giuffre,Edwards,Pottinger, Product/joint
+HendersonandParalegalreseekingandprovidinginformation defense/commo
+82 5/11/201518:20 SigridMcCawley robiejennag@y7mail.com Smccawley@BSFLLP.com toassistinlegaladvice,withattachments ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,Edwards,Pottingerand Product/joint
+Paralegalreseekinginformationtoassistinprovidinglegal defense/commo
+83 5/11/201518:34 VirginiaGiuffre Smccawley@BSFLLP.com advicerepotentiallitigation ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffreandMcCawleyrecaseresearch,with defense/commo
+84 5/11/201518:40 SigridMcCawley robiejennag@y7mail.com attachment ninterest Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 15 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+Product/joint
+brad@pathtojustice.com,ro Providingandseekinginformationtoassistinlegaladvicere defense/commo
+85 5/11/201518:45 SigridMcCawley biejennag@y7mail.com potentiallegalaction,withattachment ninterest Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyreseekinginformation ninterest/work
+86 5/11/201518:47 VirginiaGiuffre Smccawley@BSFLLP.com toassistinprovidinglegaladvicerepotentiallitigation product Withheld 1 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,Edwards,Pottingerand Product/joint
+Paralegalreseekinginformationtoassistinprovidinglegal defense/commo
+87 5/11/201518:56 VirginiaGiuffre brad@pathtojustice.com advicerepotentiallitigation ninterest Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+88 5/17/201522:37 SigridMcCawley robiejennag@y7mail.com Providinglitigationdocumentstoclient,withattachments product Withheld 3 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+89 Attacheddraftlegalagreement ninterest Withheld 10 pdf
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+90 5/17/201522:40 SigridMcCawley robiejennag@y7mail.com Providinglegaladvicerelegalagreement,withattachment product Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+91 5/18/201518:40 VirginiaGiuffre Smccawley@BSFLLP.com Discussionofconfidentialagreement,withattachments ninterest Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 16 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+92 Attachedconfidentialagreementpage product Withheld 1 jfif
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+93 Attachedconfidentialagreementpage product Withheld 1 jfif
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+94 6/5/201519:16 SigridMcCawley robiejennag@y7mail.com Conveyingattorneymentalimpressionregardinghearing product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyreattorneymental ninterest/work
+95 6/6/201517:20 VirginiaGiuffre Smccawley@BSFLLP.com impressionregardinghearing product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+96 6/25/20152:26 SigridMcCawley robiejennag@y7mail.com Providingadvicerestatusandstrategyofongoinglegalmatters product Withheld 6 msg
+Attorney
+Client/joint
+defense/commo
+DiscussionwithS.McCawleyregardingfilerelatedto ninterest/work
+97 7/17/201514:19 SigridMcCawley robiejennag@y7mail.com eperez@BSFLLP.com representationbyB.Josefsberg product Withheld 4 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 17 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+Providinginformationtoassistinlegaladvicerepotential ninterest/work
+98 7/27/201521:53 VirginiaGiuffre Smccawley@BSFLLP.com litigation product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+99 7/29/201519:45 SigridMcCawley robiejennag@y7mail.com StanPottinger@aol.com Conveyinglegaladviceonmediaissues product Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+EmailchainwithGiuffre,McCawleyandparalegalsre defense/commo
+100 8/5/201519:51 SigridMcCawley robiejennag@y7mail.com informationsoughttoassistinprovidinglegaladvice ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,legalinternandparalegal Product/joint
+reseekinginformationtoassistinprovidinglegaladvicere defense/commo
+101 8/6/20152:14 SigridMcCawley robiejennag@y7mail.com potentiallitigation ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,legalintern,Edwardsand Product/joint
+paralegalreseekinginformationtoassistinprovidinglegal defense/commo
+102 8/6/20152:45 SigridMcCawley robiejennag@y7mail.com brad@pathtojustice.com advicerepotentiallitigation ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,legalinternandparalegal Product/joint
+reseekinginformationtoassistinprovidinglegaladvicere defense/commo
+103 8/6/20152:55 VirginiaGiuffre Smccawley@BSFLLP.com potentiallitigation ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+Smccawley@BSFLLP.com,brad@pa EmailchainwithMcCawley,Giuffre,andParalegalsreseeking defense/commo
+104 8/6/20153:48 SigridMcCawley robiejennag@y7mail.com thtojustice.com informationtoassistinlegaladvice,withattachments ninterest Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 18 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+ACPrivilegeand
+Work
+EmailchainwithGiuffre,McCawley,legalinternandparalegal Product/joint
+reseekinginformationtoassistinprovidinglegaladvicere defense/commo
+105 8/6/20153:51 VirginiaGiuffre Smccawley@BSFLLP.com potentiallitigation ninterest Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+brad@pathtojustice.com,brittany@Providingandseekinginformationtoassistinlegaladvicere defense/commo
+106 9/1/201518:54 SigridMcCawley robiejennag@y7mail.com pathtojustice.com potentiallegalaction,withattachment ninterest Withheld 2 msg
+Attorney
+Client/joint
+brad@pathtojustice.com,sm defense/commo
+ccawley@bsfllp.com,stanpot Providinginformationsoughtbyattorneystoprovidelegal ninterest/work
+107 9/7/201518:24 VirginiaGiuffre tinger@aol.com advice,withattachment product Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+AttachedInformationsoughtbyattorneystoprovidelegal defense/commo
+108 advice ninterest Withheld 4 docx
+Attorney
+Client/joint
+brad@pathtojustice.com,ro EmailchainwithGiuffre,Edwards,PottingerandMcCawleyre defense/commo
+biejennag@y7mail.com,stan collectionofinformationtoassistinprovidinglegaladvicere ninterest/work
+109 9/7/201518:58 SigridMcCawley pottinger@aol.com potentiallitigation product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyredraftlegaldocument ninterest/work
+110 9/15/201521:58 VirginiaGiuffre Smccawley@BSFLLP.com relatingtolitigation product Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 19 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyredraftlegaldocument ninterest/work
+111 9/15/201522:04 SigridMcCawley robiejennag@y7mail.com relatingtolitigation product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+EmailchainwithGiuffreandMcCawleyredraftlegaldocument ninterest/work
+112 9/15/201522:07 VirginiaGiuffre Smccawley@BSFLLP.com relatingtolitigation product Withheld 2 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+113 9/20/201512:15 SigridMcCawley robiejennag@y7mail.com brad@pathtojustice.com Conveyinginformationaboutpotentiallegalaction. product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+114 9/20/201514:47 VirginiaGiuffre Smccawley@BSFLLP.com EmailchainwithGiuffreandMcCawleyrepotentiallegalaction. product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+115 9/20/201519:16 VirginiaGiuffre Smccawley@BSFLLP.com EmailchainwithGiuffreandMcCawleyrepotentiallegalaction. product Withheld 1 msg
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+116 9/20/201519:29 SigridMcCawley robiejennag@y7mail.com EmailchainwithGiuffreandMcCawleyrepotentiallegalaction. product Withheld 2 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 20 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+117 9/20/201519:30 VirginiaGiuffre Smccawley@BSFLLP.com EmailchainwithGiuffreandMcCawleyrepotentiallegalaction. product Withheld 2 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+118 9/21/201514:48 SigridMcCawley robiejennag@y7mail.com Communicationreinitiationoflawsuit,withattachments ninterest Withheld 1 msg
+ACPrivilegeand
+Work
+Product/joint
+defense/commo
+119 Attacheddraftlegaldocumentrelatingtolitigation ninterest Withheld 12 pdf
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+120 Attacheddraftlegaldocumentrelatingtolitigation product Withheld 2 pdf
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+121 Attacheddraftlegaldocumentrelatingtolitigation product Withheld 2 pdf
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+122 Attacheddraftlegaldocumentrelatingtolitigation product Withheld 3 pdf
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 21 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Attorney
+Client/joint
+defense/commo
+ninterest/work
+123 9/21/201514:51 VirginiaGiuffre Smccawley@BSFLLP.com EmailchainwithGiuffreandMcCawleyrepotentiallegalaction. product Withheld 1 msg
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverlyburdensome.
+Plaintiffcontendsthatrequeststargetingsuchprivileged
+informationarenotreasonablycalculatedtoleadtothe
+discoveryofadmissibleevidence,arenotimportanttoresolving
+theissues,arenotrelevanttoanyparty’sclaimordefense,are
+notproportionaltotheneedsofthecase,andcreatesaheavy
+burdenonPlaintiffthatoutweighsitsbenefit.Therefore,
+PlaintiffhasemployedcategoricalloggingpursuanttoLocalCivil
+Rule26.2(c).Correspondencere:JaneDoe#1andJaneDoe#2
+VirginiaGiuffre,Brad
+v.UnitedStates("CVRAcase"),Caseno.08-80736-CIV-Marra,
+Edwards,PaulCassell,
+pendingintheSouthernDistrictofFlorida.Documentswithheld
+BrittanyHenderson(and VirginiaGiuffre,Brad
+pursuanttotheprivilegesassertedincludedcommunications
+other,SigridMcCawley, Edwards,PaulCassell,
+fromMs.Giuffretotheattorneyslistedseekinglegaladvice
+MeredithSchultz,David BrittanyHenderson,Sigrid
+relatedtotheCVRAcase,communicationsfromtheattorneys
+Boies,JackScarola,Stan McCawley,Meredith
+toMs.Giuffregivinglegaladviceorgivingattorneymental
+Pottinger,Ellen Schultz,DavidBoies,Jack
+impressionsrelatedtotheCVRAcase,communicationssending
+Brockman,Legal Scarola,StanPottinger,Ellen
+orattachingattorneyworkproductrelatedtotheCVRAcase,
+Assistants,Professionals Brockman,LegalAssistants, ACPrivilegeand Approx.1.3K
+and/orcommunicationssendingorattachingclientrevisionsto
+retainedbyattorneysto Professionalsretainedby Work docs
+attorneyworkproductrelatedtotheCVRAcase,and
+Emails,letters,and aidintherenditionof attorneystoaidinthe Product/joint overlapping
+communicationsreevidence.
+othercommunications legaladviceand renditionoflegaladviceand defense/commo withother
+125 from2011-Present representation representation ninterest Withheld cases
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 22 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverlyburdensome.
+Plaintiffcontendsthatrequeststargetingsuchprivileged
+informationarenotreasonablycalculatedtoleadtothe
+discoveryofadmissibleevidence,arenotimportanttoresolving
+theissues,arenotrelevanttoanyparty’sclaimordefense,are
+notproportionaltotheneedsofthecase,andcreatesaheavy
+burdenonPlaintiffthatoutweighsitsbenefit.Therefore,
+PlaintiffhasemployedcategoricalloggingpursuanttoLocalCivil
+VirginiaGiuffre,Brad Rule26.2(c).Correspondencere:Giuffrev.Maxwell(“Maxwell
+Edwards,PaulCassell, case”),15-cv-07433-RWS,pendingintheSouthernDistrictof
+BrittanyHenderson, VirginiaGiuffre,Brad NewYork,sincethedateoffiling,September21,2015.
+SigridMcCawley, Edwards,PaulCassell, Documentswithheldpursuanttotheprivilegesasserted
+MeredithSchultz,David BrittanyHenderson,Sigrid includedcommunicationsfromMs.Giuffretotheattorneys
+Boies,StephenZach, McCawley,Meredith listedseekinglegaladvicerelatedtotheMaxwellcase,
+StanPottinger,Ellen Schultz,DavidBoies, communicationsfromtheattorneystoMs.Giuffregivinglegal
+Brockman,Legal StephenZach,Stan adviceorgivingattorneymentalimpressionsrelatedtothe
+Assistants,Professionals Pottinger,EllenBrockman, Maxwellcase,communicationssendingorattachingattorney ACPrivilegeand Approx.1.3K
+retainedbyattorneysto LegalAssistants, workproductrelatedtotheMaxwellcase,and/or Work docs
+Emails,letters,and aidintherenditionof Professionalsretainedby communicationssendingorattachingclientrevisionsto Product/joint overlapping
+othercommunications legaladviceand attorneystoaidinthe attorneyworkproductrelatedtotheMaxwellcase,and defense/commo withother
+126 from9/21/15-Present representation renditionoflegaladviceand communicationsreevidence. ninterest Withheld cases
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 23 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverlyburdensome.
+Plaintiffcontendsthatrequeststargetingsuchprivileged
+informationarenotreasonablycalculatedtoleadtothe
+discoveryofadmissibleevidence,arenotimportanttoresolving
+theissues,arenotrelevanttoanyparty’sclaimordefense,are
+notproportionaltotheneedsofthecase,andcreatesaheavy
+burdenonPlaintiffthatoutweighsitsbenefit.Therefore,
+PlaintiffhasemployedcategoricalloggingpursuanttoLocalCivil
+VirginiaGiuffre,Brad Rule26.2(c).Correspondencere:BradleyEdwardsandPaul
+Edwards,PaulCassell, Cassellv.AlanDershowitz(“Dershowitzcase”),Caseno.15-
+BrittanyHenderson, VirginiaGiuffre,Brad 000072,pendingintheSeventeenthJudicialCircuit,Broward
+SigridMcCawley, Edwards,PaulCassell, County,Florida.Documentswithheldpursuanttotheprivileges
+MeredithSchultz,David BrittanyHenderson,Sigrid assertedincludedcommunicationsfromMs.Giuffretothe
+Boies,StephenZach, McCawley,Meredith attorneyslistedseekinglegaladvicerelatedtotheDershowitz
+StanPottinger,Ellen Schultz,DavidBoies, case,communicationsfromtheattorneystoMs.Giuffregiving
+Brockman,Legal StephenZach,Stan legaladviceorgivingattorneymentalimpressionsrelatedtothe
+Assistants,Professionals Pottinger,EllenBrockman, Dershowitzcase,communicationssendingorattachingattorneyACPrivilegeand Approx.1.3K
+Emails,letters,and retainedbyattorneysto LegalAssistants, workproductrelatedtotheDershowitzcase,and/or Work docs
+othercommunications aidintherenditionof Professionalsretainedby communicationssendingorattachingclientrevisionsto Product/joint overlapping
+fromJanuary2015- legaladviceand attorneystoaidinthe attorneyworkproductrelatedtotheDershowitzcase,and defense/commo withother
+127 Present representation renditionoflegaladviceand communicationsreevidence. ninterest Withheld cases
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 24 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverlyburdensome.
+Plaintiffcontendsthatrequeststargetingsuchprivileged
+informationarenotreasonablycalculatedtoleadtothe
+discoveryofadmissibleevidence,arenotimportanttoresolving
+theissues,arenotrelevanttoanyparty’sclaimordefense,are
+notproportionaltotheneedsofthecase,andcreatesaheavy
+burdenonPlaintiffthatoutweighsitsbenefit.Therefore,
+PlaintiffhasemployedcategoricalloggingpursuanttoLocalCivil
+Rule26.2(c).Correspondencere:JaneDoeNo.102v.Jeffrey
+Epstein(“Epsteincase”),CaseNo.09-80656-CIV-Marra/Johnson
+(SouthernDistrictofFlorida).Documentswithheldpursuantto
+theprivilegesassertedincludedcommunicationsfromMs.
+VirginiaGiuffre,Bob VirginiaGiuffre,Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
+Josefsberg,KatherineW. Josefsberg,KatherineW. Epsteincase,communicationsfromtheattorneystoMs.Giuffre
+Ezell,AmyEderi,other Ezell,AmyEderi,other givinglegaladviceorgivingattorneymentalimpressionsrelated
+Podhurstattorneys, Podhurstattorneys,Legal totheEpsteincase,communicationssendingorattaching ACPrivilegeand Approx.1.3K
+LegalAssistants,and Assistants,andProfessionals attorneyworkproductrelatedtotheEpsteincase,and/or Work docs
+Emails,letters,and Professionalsretainedbyretainedbyattorneystoaid communicationssendingorattachingclientrevisionsto Product/joint overlapping
+othercommunications attorneystoaidinthe intherenditionoflegal attorneyworkproductrelatedtotheEpsteincase,and defense/commo withother
+128 from2009-Present renditionoflegaladvice advice communicationsreevidence. ninterest Withheld cases
+EmailchainwithGiuffreandMcCawleyseekinginformationto
+129 6/10/2015 VirginiaGiuffre robiejennag@y7mail.com assistwithattorneyadvice. AttorneyClient Withheld 2 msg
+LetterfromVirginiaGiuffretoDavidBoiesconveyingrequested ACPrivilegeand
+130 informationtoassistinprovidinglegaladvice. WorkProduct Withheld 26 pdf
+Smccawley@BSFLLP.com,brad@pa
+thtojustice.com,robiejennag@y7m ACPrivilegeand
+131 4/30/2015 BrittanyHenderson eperez@BSFLLP.com ail.com CommunicationreVRSregistrations WorkProduct Withheld 1 msg
+Smccawley@BSFLLP.com,brad@pa
+thtojustice.com,garvin@lclark.edu, EmailchainwithMcCawley,Edwards,Garvin,Henderson, ACPrivilegeand
+132 4/29/2015 AndresOrtiz bh699@nova.edu robiejennag@y7mail.com GiuffreandBSFstaffrelegaladvicereVRScommunications. WorkProduct Withheld 1 msg
+Smccawley@BSFLLP.com,brad@pa
+thtojustice.com,garvin@lclark.edu, ACPrivilegeand
+133 4/29/2015 brittanyhenderson aortiz@BSFLLP.com robiejennag@y7mail.com CommunicationrelegaladvicereVRScommunications. WorkProduct Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 25 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+Smccawley@BSFLLP.com,brittany EmailchainwithCassell,McCawley,Edwards,Garvin,Beloof,
+@pathtojustice.com,eperez@BSFLLHenderson,GiuffreandBSFstaffrelegaladvicereVRS ACPrivilegeand
+134 4/17/2015 PaulCassell brad@pathtojustice.com P.com,robiejennag@y7mail.com registrations. WorkProduct Withheld 5 msg
+brittany@pathtojustice.com,eperezEmailchainwithCassell,McCawley,Edwards,Garvin,Beloof,
+brad@pathtojustice.com,cas@BSFLLP.com,robiejennag@y7mailHenderson,GiuffreandBSFstaffrelegaladvicereVRS ACPrivilegeand
+135 4/17/2015 SigridMcCawley sellp@law.utah.edu .com registrations. WorkProduct Withheld 4 msg
+Smccawley@BSFLLP.com,brittany EmailchainwithCassell,McCawley,Edwards,Garvin,Beloof,
+@pathtojustice.com,eperez@BSFLLHenderson,GiuffreandBSFstaffrelegaladvicereVRS ACPrivilegeand
+136 4/17/2015 BradEdwards cassellp@law.utah.edu P.com,robiejennag@y7mail.com registrations. WorkProduct Withheld 4 msg
+137 2/26/2015 SigridMcCawley robiejennag@y7mail.com EmailchainwithGiuffreandMcCawleyrenon-testifyingexpert. AttorneyClient Withheld 1 msg
+138 2/26/2015 SigridMcCawley robiejennag@y7mail.com Communicationrenon-testifyingexpert. AttorneyClient Withheld 1 msg
+EmailchainwithGiuffre,McCawley,Edwards,PottingerandBSF
+139 2/11/2016 SigridMcCawley robiejennag@y7mail.com staffremediacommunications. AttorneyClient Redacted 3 msg
+StanPottinger@aol.com,robiLcarlsen@BSFLLP.com,brad@patht EmailchainwithGiuffre,McCawley,Edwards,PottingerandBSF
+140 2/11/2016 SigridMcCawley ejennag@y7mail.com ojustice.com staffremediacommunications. AttorneyClient Redacted 3 msg
+Lcarlsen@BSFLLP.com,Smccawley
+@BSFLLP.com,brad@pathtojustice.EmailchainwithGiuffre,McCawley,Edwards,PottingerandBSF
+141 2/11/2016 StanPottinger@aol.com robiejennag@y7mail.com com staffremediacommunications. AttorneyClient Redacted 3 msg
+EmailchainwithGiuffreandPottingerremedia
+142 2/9/2016 StanPottinger@aol.com robiejennag@y7mail.com communications. AttorneyClient Redacted 2 msg
+LetterfromVirginiaGiuffretoDavidBoiesconveyingrequested ACPrivilegeand
+143 informationtoassistinprovidinglegaladvice. WorkProduct Withheld 26 pdf
+LetterfromVirginiaGiuffretoDavidBoiesconveyingrequested ACPrivilegeand
+144 informationtoassistinprovidinglegaladvice. WorkProduct Withheld 23 docx
+145 6/10/2015 VirginiaGiuffre robiejennag@y7mail.com EmailchainwithGiuffreandMcCawleyreongoinglitigation. AttorneyClient Withheld 2 msg
+Smccawley@BSFLLP.com,bh699@n
+ova.edu,brad@pathtojustice.com,g EmailchainwithHenderson,McCawey,Edwards,Garvinand
+146 4/29/2015 VirginiaGiuffre aortiz@BSFLLP.com arvin@lclark.edu BSFstaffreVRScommunications. AttorneyClient Withheld 2 msg
+EmailchainwithBoylan,Giuffre,McCawley,andBSFstaffre
+147 4/10/2015 VirginiaGiuffre rebecca.boylan@yahoo.com legaladvicereVRSregistrations. AttorneyClient Withheld 2 msg
+148 2/26/2015 VirginiaGiuffre Smccawley@BSFLLP.com Emailconfirminglegaladvicerenon-testifyingexpert. AttorneyClient Withheld 1 msg
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 26 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+EmailchainwithGiuffreandPottingerremedia
+149 2/11/2015 VirginiaGiuffre StanPottinger@aol.com communications AttorneyClient Redacted 3 msg
+EmailchainwithGiuffre,McCawley,PottingerandBSFstaffre
+150 2/11/2015 VirginiaGiuffre Smccawley@BSFLLP.com mediacommunications. AttorneyClient Redacted 3 msg
+ACPrivilegeand
+151 1/13/2015 VirginiaGiuffre StanPottinger@aol.com EmailchainwithPottingerandGiuffrereanticipatedlitigation. WorkProduct Withheld 1 msg
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverly
+burdensome.Plaintiffcontendsthatrequeststargeting
+suchprivilegedinformationarenotreasonablycalculated
+toleadtothediscoveryofadmissibleevidence,arenot
+importanttoresolvingtheissues,arenotrelevanttoany
+party’sclaimordefense,arenotproportionaltothe
+needsofthecase,andcreatesaheavyburdenonPlaintiff
+thatoutweighsitsbenefit.Therefore,Plaintiffhas
+employedcategoricalloggingpursuanttoLocalCivilRule
+26.2(c).Thiscategoricalentryisregardingcorrespondence
+repotentiallegalactionagainstentitiesandindividuals.
+VirginiaGiuffre,Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards,PaulCassell, VirginiaGiuffre,Brad includedcommunicationsfromMs.Giuffretothe
+BrittanyHenderson, Edwards,PaulCassell, attorneyslistedseekinglegaladvicerelatedtopotential
+SigridMcCawley, BrittanyHenderson,Sigrid lawsuits,communicationsfromtheattorneystoMs.
+MeredithSchultz,David McCawley,Meredith
+Giuffregivinglegaladviceorgivingattorneymental
+Boies,StephenZach, Schultz,DavidBoies,
+impressionsrelatedtothelawsuits,communications
+StanPottinger,Ellen StephenZach,Stan
+Brockman,Legal Pottinger,EllenBrockman, sendingorattachingattorneyworkproductrelatedto ACPrivilegeand
+Emails,letters,and Assistants,Professionals LegalAssistants, potentiallawsuits,and/orcommunicationssendingor Work Approx.1.3K
+othercommunications retainedbyattorneysto Professionalsretainedby attachingclientrevisionstoattorneyworkproductrelatedProduct/joint overlapping
+fromJanuary2015- aidintherenditionof attorneystoaidinthe topotentiallawsuits,andcommunicationsreevidence. defense/commo withother
+152 Present legaladvice renditionoflegaladvice ninterest Withheld cases
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016
+Case 1:15-cv-07433-LAP Document 1320-15 Filed 01/03/24 Page 27 of 27
+Log Privilege Doc
+ID EmailSentDate EmailFrom EmailTo CCAddress SubjectMatter TypeofPrivilege Action PageCount Type
+PlaintiffhasobjectedthatDefendant’srequestsareoverly
+broadandundulyburdensome,asindividuallyloggingall
+privilegedresponsivedocumentswouldbeoverly
+burdensome.Plaintiffcontendsthatrequeststargeting
+suchprivilegedinformationarenotreasonablycalculated
+toleadtothediscoveryofadmissibleevidence,arenot
+importanttoresolvingtheissues,arenotrelevanttoany
+party’sclaimordefense,arenotproportionaltothe
+needsofthecase,andcreatesaheavyburdenonPlaintiff
+Thelawenforcement thatoutweighsitsbenefit.Therefore,Plaintiffhas
+entity,VirginiaGiuffre, Thelawenforcemententity, employedcategoricalloggingpursuanttoLocalCivilRule
+DavidBoies,Stan VirginiaGiuffre,DavidBoies, 26.2(c).Thiscategoricalentryisregardingcorrespondence
+Pottinger,Sigrid StanPottinger,Sigrid rethecurrentlyongoingcriminalinvestigationof
+Emailandletter McCawley,PaulCassell, McCawley,PaulCassell,Brad approx.57
+Defendantandothers.
+153 communications BradEdwards Edwards PublicInterest Withheld documents
+PlaintiffVirginiaGiuffre'sRevisedSupplementalPrivilegeLogdatedMay27,2016

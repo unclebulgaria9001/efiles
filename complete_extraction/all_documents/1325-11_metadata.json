@@ -1,0 +1,81 @@
+{
+  "doc_id": "1325-11",
+  "filename": "1325-11.pdf",
+  "extraction_date": "2025-11-17T10:22:59.941744",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 16066,
+  "images_extracted": 0,
+  "dates_found": 20,
+  "people_found": 15,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 142
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 833
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1931
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2778
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 3674
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4609
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 5521
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6550
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 7536
+    }
+  ],
+  "people": [
+    "Errata Sheet",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Fort Lauderdale",
+    "Ghislane Maxwell",
+    "State Attorney",
+    "Attorney Gus Fronstin",
+    "Registered\nProfessional Reporter",
+    "My Commission Expires",
+    "Sarah Kellen",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
+    "File Under Seal",
+    "Kelli Ann Willis"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

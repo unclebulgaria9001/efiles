@@ -1,0 +1,79 @@
+{
+  "doc_id": "1331-17",
+  "filename": "1331-17.pdf",
+  "extraction_date": "2025-11-17T10:16:44.960273",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 2208,
+  "images_extracted": 0,
+  "dates_found": 9,
+  "people_found": 21,
+  "locations_found": 1,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1223
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1364
+    },
+    {
+      "date_string": "June 20, 2016",
+      "position": 1110
+    },
+    {
+      "date_string": "February 17, 2017",
+      "position": 1256
+    },
+    {
+      "date_string": "February 17, 2017",
+      "position": 1426
+    },
+    {
+      "date_string": "June 20, 2016",
+      "position": 1110
+    },
+    {
+      "date_string": "February 17, 2017",
+      "position": 1256
+    },
+    {
+      "date_string": "February 17, 2017",
+      "position": 1426
+    }
+  ],
+  "people": [
+    "University Street",
+    "Nicole Simmons\nNicole",
+    "Toto\nCertain Depositions",
+    "Motion In Limine",
+    "For Use At",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "Depositions\nDesignated",
+    "United States District",
+    "Salt Lake City",
+    "South Salem",
+    "To Exclude In",
+    "Twin Lakes Rd",
+    "East Las Olas",
+    "North Andrews Ave",
+    "Exclude In Toto",
+    "Menninger\nLaura",
+    "Defendant\nGhislaine Maxwell",
+    "Protective\nOrder",
+    "Certain Depositions Designated"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,95 @@
+{
+  "doc_id": "1325-6",
+  "filename": "1325-6.pdf",
+  "extraction_date": "2025-11-17T10:22:44.930928",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 4648,
+  "images_extracted": 0,
+  "dates_found": 20,
+  "people_found": 29,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0022_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0022"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 151
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1821
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2761
+    },
+    {
+      "date_string": "June 16, 2016",
+      "position": 226
+    },
+    {
+      "date_string": "June 13, 2016",
+      "position": 512
+    },
+    {
+      "date_string": "June 14, 2016",
+      "position": 541
+    },
+    {
+      "date_string": "June 14, 2016",
+      "position": 1895
+    },
+    {
+      "date_string": "June 14, 2016",
+      "position": 2107
+    },
+    {
+      "date_string": "June 13, 2016",
+      "position": 2835
+    }
+  ],
+  "people": [
+    "Second Email\nAttachments",
+    "Filed Under Seal",
+    "Gray Robinson",
+    "Sandra Perkins\nFrom",
+    "Las Olas",
+    "Plaintiffs Second Request",
+    "Laura Menninger",
+    "Rebecca Boylan",
+    "Thursday June",
+    "Meredith\nMeredith",
+    "Sandra Perkins",
+    "Regarding Certificates",
+    "Sigrid Mccawley",
+    "Fort Lauderdale",
+    "Service\nDear Laura",
+    "Magnolia Ave\nTony",
+    "East Las Olas",
+    "Palm Coast Florida",
+    "Services\nAttachments",
+    "Paul Cassell"
+  ],
+  "locations": [
+    "Florida"
+  ],
+  "images": []
+}

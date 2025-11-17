@@ -1,0 +1,77 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.19",
+  "filename": "gov.uscourts.nysd.447706.1328.19.pdf",
+  "extraction_date": "2025-11-17T10:16:24.394644",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition"
+  ],
+  "text_length": 7449,
+  "images_extracted": 0,
+  "dates_found": 9,
+  "people_found": 15,
+  "locations_found": 4,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 150
+    },
+    {
+      "date_string": "2/19/2015",
+      "position": 1331
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1387
+    },
+    {
+      "date_string": "2/19/2015",
+      "position": 5285
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5341
+    },
+    {
+      "date_string": "2/19/2015",
+      "position": 7439
+    },
+    {
+      "date_string": "Jan 22 2015",
+      "position": 463
+    },
+    {
+      "date_string": "Jan 22 2015",
+      "position": 503
+    }
+  ],
+  "people": [
+    "Bob Norman",
+    "Jeffrey Epstein",
+    "Follow Local",
+    "Updated On",
+    "Robert Maxwell",
+    "Published On",
+    "Virgginia Roberts",
+    "Home Page",
+    "Prince Andrew",
+    "Alfredo Rodriguez",
+    "Alan Dershowitz",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "Palm\nBeach",
+    "Miami Beach"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "London"
+  ],
+  "images": []
+}

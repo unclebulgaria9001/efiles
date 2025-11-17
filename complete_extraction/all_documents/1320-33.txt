@@ -1,0 +1,581 @@
+# Document: 1320-33.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial, correspondence
+# Images Extracted: 0
+# Dates Found: 24
+# People Found: 29
+# Locations Found: 1
+# Linked Emails: 1
+
+================================================================================
+
+UNITEDSTATES DISTRICT COURT
+SOUTHERNDISTRICT OFNEWYORK
+--------------------------------------------------X
+VIRGINIA L.GIUFFRE,
+Plaintiff,
+v.
+15-cv-07433-RWS
+GHISLAINEMAXWELL,
+Defendant.
+--------------------------------------------------X
+DEFENDANT’S MOTIONFORRULE 37(b)&(c)SANCTIONS FORFAILURE TO
+COMPLYWITH COURT ORDERAND FAILURE TO COMPLY WITH RULE 26(a)
+..........................................
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 1 of 24
+LauraA.Menninger
+JeffreyS.Pagliuca
+HADDON,MORGAN,ANDFOREMAN,P.C.
+East 10th Avenue
+Denver,CO80203
+303.831.7364
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 2 of 24
+TABLE OF CONTENTS
+CERTIFICATEOFCONFERRAL................................................................................................1
+INTRODUCTION..........................................................................................................................1
+BACKGROUNDFACTS...............................................................................................................2
+I. SANCTIONS AVAILABLE FOR FAILURETO COMPLYWITHDISCOVERYORDER
+OR PROVIDERULE26(A)DISCLOSURES.......................................................................6
+A. Rule37(b)Factors forFailuretoComplyWithCourt Order..............................................8
+1. Plaintiff’s actions were willful.........................................................................................8
+2. Lessersanctions will beinsufficient andMs.Maxwell has beenprejudiced................10
+3. Plaintiffhas beennon-compliant sincetheoutset ofdiscovery.....................................11
+4. Plaintiffandhercounsel arefullyawareofsanctions fornon-compliancewithCourt
+orders....................................................................................................................................14
+B. Additional Rule37(c)Factors for FailuretoComplyWith Initial Disclosure Requirements
+............................................................................................................................................15
+1. Theinformationwithheldis criticallyimportant...........................................................15
+2. Ms.Maxwell wouldrequireanextensionofthediscoveryperiod................................17
+II. STRIKINGCLAIMS FOR MEDICALANDEMOTIONALDISTRESS DAMAGES IS
+CONSISTENTWITHTHEPURPOSEOFRULE37,COMMENSURATEWITHTHE
+INFORMATIONWITHHELD,AND LESS HARSHTHANTHEAVAILABLE
+DISMISSALSANCTION....................................................................................................18
+CONCLUSION.............................................................................................................................19
+CERTIFICATEOFSERVICE.....................................................................................................21
+i
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 3 of 24
+ii
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 4 of 24
+Defendant GhislaineMaxwell (“Ms.Maxwell”)files this MotionforRule37(b)&(c)
+Sanctions forFailureto ComplywithCourt OrderandFailuretoComplywithRule26(a),stating
+as follows:
+CERTIFICATE OFCONFERRAL
+Theundersignedhas conferredwithPlaintiff’s counsel onmultipleoccasions inan
+attempt toobtainrecords andinterrogatoryresponses OrderedbytheCourt, includingbyletter
+datedApril 25,2016,outliningtheexpectedproductions andinformation. MenningerDecl.,Ex.
+L. As set forthbelow,Plaintiffhas not producedthedocuments anddidnot providecompleteor
+accurateinformation.
+INTRODUCTION
+Plaintiffis playinga gameofcatchandrelease. Sheis withholdinginformationtheCourt
+orderedbeproduced and onlyreleasingthat informationwhensheis caught inherdeception.
+At theApril 21,2016hearingonMs.Maxwell’s MotiontoCompel,theCourt clearly
+OrderedPlaintifftodiscloseall ofhertreatinghealthcareproviders since1999andproducetheir
+records. Plaintiffdidnot doso, andstill hasnot providedthis informationtodate. It is only
+throughdepositiontestimonythat Ms.Maxwell becameawareofat least five–ifnot more–
+treatinghealthcareproviders whowereneverpreviouslyidentified. Yet, Plaintiffhas never
+supplementedherdiscoveryresponses toincludethesehealthcareproviders. Plaintiffhas also
+failedtoproviderecords, orhas providedincompleterecords, ofseveral of thehealthcare
+professionals, bothdisclosedandnewlydiscovered,despitehercounsel’s assurances tothis
+Court that all records havebeenproduced. Further,Plaintiffhas still failedtoprovideanactual
+computationofherdamages, oranydocumentationsupportingthoseclaims.
+1
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 5 of 24
+Thesediscoveryabuses cannot becondoned. All ofthis informationis directlyrelevant
+to,andnecessarytodefendagainst,Plaintiff’s damages claims for “psychological and
+psychiatricinjuries andresultingmedical expenses”and“past,present and futurepainand
+suffering,mental anguish, humiliation,embarrassment,loss ofself-esteem.” Plaintiff’s claims
+forthesecategories ofdamages must bestrickenorevidenceas tothesedamages precludedfrom
+trial underFed.R.Civ.P.37(b)(2)(A)(ii)&(iii)andFed.R.Civ.P.37(c)(1)(C).
+BACKGROUND FACTS
+OnFebruary12,2016,Ms. Maxwell served Interrogatories onPlaintifffor theidentities
+andlocations ofanyHealthCareProviderfrom whom shehas “received anytreatment for any
+physical,mental oremotional condition,includingaddictionto alcohol,prescriptionorillegal
+drugs, that Yousuffered from subsequent totheAlleged DefamationbyGhislaineMaxwell”
+(InterrogatoryNo.12) and“prior to theAllegedDefamation.” InterrogatoryNo.13 (emphasis
+added). As toboth,Ms. Maxwell providedreleases forPlaintiff’s signature.
+OnMarch16,2016,Plaintiffrefusedtoprovidethenames of anyofPlaintiff’s treating
+physicians, northerequestedreleases, claiming“privilege.” MenningerDecl.,Ex.A.
+OnMarch22,2016,PlaintiffservedSupplemental Responses &Objections and then
+Amended Supplemental Responses &Objections. MenningerDecl.,Ex.B.Neithercontained
+responses as toPlaintiff’s healthcareproviders. OnMarch22,2016,Plaintiffalso providedan
+Addendum toPlaintiff’s Rule26 Initial Disclosures inwhichshelistedas potential witnesses,
+Dr.StevenOlson andDr. Carol Hayek.Menninger Decl.,Ex.C.
+Inher Initial Disclosures, Plaintiffincludedmedical records as documents that she
+intends tousetoestablish herdamages claims. MenningerDecl.,Ex.D. OnMarch22,2016,
+2
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 6 of 24
+Ms.Maxwell was forced tofileaMotiontoCompel PlaintifftoDisclosePursuant toFed.R.
+Civ.P.26(a)(1). Docket Entry(“DE”)64.1
+OnMarch31,2016,Ms. Maxwell was forcedto fileaMotiontoCompel Plaintiff,inter
+alia,toproperlyrespond to InterrogatoryNos. 12 and13. Docket Entry(“DE”)75.
+OnApril 21,2016,Plaintiff’s counsel represented totheCourt duringoral argument that
+“Wehavedisclosedthenames. Shehas thosenames. Wehavealso disclosedtherecords, the
+morerecent records. We havenot contestedthat….But wehavedisclosedthenames ofthe
+providers.” (Tr.at 21-22) Plaintiff’s counsel statedtheonlymissingdoctors were “inthe
+past…. years and years ago.” (Tr.at 22-23)attachedtoMenningerDecl., Ex.E.
+At theApril 21,2016hearing,theCourt orderedPlaintifftoproducethe records from
+Ms.Giuffre’s medical doctors (apart from pre-1999)andtorespond fullyto theinterrogatories
+concerningall ofhertreatingphysicians after1999. Id.(Tr.20-21).
+OnApril 29,2016,PlaintiffservedSecondAmendedSupplemental Responses &
+Objections. Menninger Decl.,Ex.F. As to InterrogatoryNo.12(seekingthenames oftreatment
+providers subsequent totheAllegedDefamation). Plaintifflisted:
+(cid:120) Dr.StevenOlson
+(cid:120) Dr.Chris Donahue
+(cid:120) Dr.JohnHarris andDr. Majaliyana
+(cid:120) Dr.WahWah
+(cid:120) Dr.Sellathuri
+(cid:120) Royal Oaks Medical Center
+(cid:120) Dr.Carol Hayek
+(cid:120) NYPresbyterian Hospital
+(cid:120) CampbelltownHospital
+(cid:120) SydneyWest Hospital
+(cid:120) WestmeadHospital
+(cid:120) Dr.KarenKutikoff
+(cid:120) Wellington ImagingAssociates
+(cid:120) GrowingTogether.
+1
+Thatmotionremainsopen.
+3
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 7 of 24
+Forsomeproviders, Plaintiffprovidedrecords, andthenatureoftreatment was identified
+byreferencetotherecords. Forotherproviders, norecords wereproduced. Whereno
+documents wereproduced,Plaintifffailedtoidentifythedates andnatureofthetreatment
+received,as requestedin the Interrogatory. Id. Plaintifffailedthereintoidentifyanytreatment
+providers prior to theallegeddefamation,despite theCourt’s order concerning1999-2015.
+At Plaintiff’s depositiononMay3,2016,shedescribedreceivingtreatment from Dr.
+Donahueand aDr.Judith Lightfoot from October 2015tothepresent. Menninger Decl.,Ex.G
+at 308-14&328-331. Plaintiffalso describedobtainingprescriptions from Dr.Donahue
+from Dr.Olson. She
+claimedshewas not treatedbyanyotherphysicians that hadnot beenpreviouslylisted. Id.
+DuringthedepositionofPlaintiff’s mother, Lynn Miller,onMay24,2016, Ms. Maxwell
+learnedthat
+. MenningerDecl.,Ex.Hat 144.
+OnJune1,2016,Plaintiffproduced additional documentationfrom CenturaHealthfor
+treatment receivedbyPlaintiffinMarch2015( )andMay2015.
+Thesedocuments identifythreeadditional healthcareprofessionals whotreatedPlaintiff,
+includingDr.Scott Robert Geiger,Dr.JosephHeaney, andDonna OliverP.A. MenningerDecl.,
+Ex.Iat 144.
+OnMay25,2016,Plaintiffsent Ms.Maxwell additional records obtained from P-laintiff’s
+treatment at CenturainJune2015. Thosedocuments identifyanothermedical provider,Dr.
+MicheleStreeter.MenningerDecl.,Ex.J at144.
+4
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 8 of 24
+Further,duringthedepositionofDr.Olson onMay26,2016,Ms.Maxwell learnedthat
+hehadadditional records inhis laptopthat hadnot beenproducedpriortohis deposition.2
+MenningerDecl.,Ex.K,p.36.
+As oftoday’s date,more thanfourmonths afterMs. Maxwell first sought theidentities of
+Plaintiff’s healthcareproviders andtherecords concerningthesame,more than amonthanda
+halfsincetheCourt orderedPlaintifftoproducesuchidentities andrecords, and10days before
+theendoffact discoveryinthis case,Ms.Maxwell has learnedofat least fiveadditional doctors
+whohavetreatedPlaintiffsincethetimeofthe allegeddefamatorystatement: Dr. Lightfoot,Dr.
+Geiger,Dr.Heaney,DonnaOliverP.AandDr.Streeter. Ineachcase,documents relatingto
+thesedoctors werenot provided until aftertheiridentities becameknownthroughdepositionor
+otherindependent investigationbyMs.Maxwell.
+Plaintiffstill has failedtoproduceanyrecords from: (a)Dr.Donahue,(b) Dr.Hayek,(c)
+Dr. Kutikoff,(d)Wellington ImagingAssocs., (e) GrowingTogether,(f)post 2011records from
+Dr. Lightfoot,and(g)the remainingdocuments fortreatment byDr. Olson.
+Withrespect toDr.Donahue,Dr.Hayek,Dr. Kutikoff,Wellington ImagingAssocs.,
+GrowingTogetherandDr.Olson, Plaintiffhas failedtoprovidecomplete responses tothe
+Interrogatories includingthedates andnatureortreatment. Menninger Decl.,Ex.F.
+Plaintiffhas allegedthefollowingcategories ofdamages:
+(A)“Physical,psychological andpsychiatricinjuries andresultingmedical
+expenses—intheapproximateamount of$102,200present value”;
+(B) “Past,present and future painandsuffering,mental anguish, humiliation,
+embarrassment,loss ofself-esteem,loss ofstandinginthecommunity,loss of
+dignity, andinvasionof privacyinherpublic and privatelifenot less than
+$30,000,000.00”; and
+(C)Estimatedlost incomeof$180,000annually. Present value$3,461,000to
+$5,407,000”
+2Atthedeposition,copieswereproducedthatweredifficulttoread. Despiterequests,legiblecopies
+havenotbeenprovided.
+5
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 9 of 24
+Pl’s Supp.Discl.,at 15-18,MenningerDecl.,Ex.D.
+I. SANCTIONS AVAILABLE FORFAILURE TO COMPLYWITH DISCOVERY
+ORDERORPROVIDE RULE 26(A)DISCLOSURES
+Federal RuleofCivil Procedure37(b)(2)sets forth thesanctions foraparty’s failureto
+complywithaCourt’s discoveryorder,providinginrelevant part:
+(A)ForNot ObeyingaDiscoveryOrder. If apartyoraparty's officer, director, or
+managingagent—or awitness designatedunderRule30(b)(6)or31(a)(4)—fails
+toobeyanordertoprovideorpermit discovery,includinganorderunder Rule
+26(f),35,or37(a),the court wheretheactionis pendingmayissuefurtherjust
+orders. Theymayinclude thefollowing:
+(i)directingthat thematters embracedintheorder orotherdesignated
+facts betakenas establishedforpurposes oftheaction,as theprevailing
+partyclaims;
+(ii)prohibitingthedisobedient partyfrom supportingoropposing
+designatedclaims ordefenses, orfrom introducingdesignatedmatters in
+evidence;
+(iii)strikingpleadings in wholeorinpart;
+(iv)stayingfurtherproceedings until theorderis obeyed;
+(v)dismissingtheaction orproceedinginwholeorinpart;
+(vi)renderingadefault judgment against thedisobedient party; or
+(vii)treatingas contempt ofcourt thefailuretoobeyanyorderexcept an
+ordertosubmit toaphysical ormental examination.
+(C)Payment of Expenses. Insteadoforin additiontotheorders above,the
+court must orderthedisobedient party,theattorneyadvisingthat party,or bothto
+paythereasonable expenses, includingattorney's fees, causedbythefailure,
+unless thefailurewas substantiallyjustifiedorothercircumstances make an
+awardofexpenses unjust.
+Thesesamesanctions are availableforPlaintiff’s failureto providerequired disclosures
+underFed.R.Civ.Procedure26(a).3 Specifically, Rule37(c)provides:
+3Rule26(a)(iii)requiresthePlaintifftoprovide“acomputationofeachcategoryofdamagesclaimedby
+thedisclosingparty—whomustalsomakeavailableforinspectionandcopyingasunder Rule34the
+documentsorotherevidentiarymaterial,unlessprivilegedorprotectedfromdisclosure,onwhicheach
+computationisbased,includingmaterialsbearingonthenatureandextentofinjuriessuffered.
+6
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 10 of 24
+(1) FailuretoDiscloseor Supplement. If apartyfails toprovideinformationor identifya
+witness as requiredbyRule26(a)or (e), thepartyis not allowedtousethat
+informationorwitness tosupplyevidenceonamotion,at ahearing,or at a trial,
+unless thefailurewas substantiallyjustifiedoris harmless. Inadditiontoorinsteadof
+this sanction,thecourt,onmotionandafter givinganopportunitytobehear
+(A)mayorderpayment ofthereasonableexpenses,includingattorney's fees,
+causedbythe failure;
+(B)mayinform thejuryoftheparty's failure; and
+(C)mayimposeotherappropriatesanctions, includinganyoftheorders listed
+inRule37(b)(2)(A)(i)—(vi).
+“UnderRule37(b)(2), courts enjoybroaddiscretiontosanctionparties that fail toobey
+discoveryorders. This discretionincludes,but is not limitedto,thepowertoissueanorder
+‘dismissingtheactionor proceedinginwholeorinpart.’” Naguibv.Pub. HealthSols.,No.12-
+CV-2561ENV LB,2014 WL3695965,at *3(E.D.N.Y.July24,2014), appeal dismissed (Nov.
+5,2014). In“exercise[ ]its broaddiscretiontoordersanctions underRule37,”acourt may
+consideranumberoffactors inissuingsanctions forfailuretocomplywith aCourt Order,
+“including: (1)thewillfulness ofthenon-compliant partyorthereason for thenoncompliance;
+(2)theefficacyoflesser sanctions; (3)thedurationoftheperiodofnoncompliance,and(4)
+whetherthenoncompliant partyhadbeen warned oftheconsequences ofhis non-compliance.”
+Nieves v.Cityof New York,208F.R.D.531,535(S.D.N.Y.2002); seealso S.New EnglandTel.
+Co.v.Glob.NAPs Inc.,624F.3d123,144(2dCir. 2010)(same). This list is not exclusive,and
+manycourts also considertheprejudicetotheopposingpartyindeterminationofthesanction
+that should beawarded. Seeid.(factors not exclusive);Labibv.1141RealtyLLC,No.10CIV.
+8357MHD,2013WL1311002,at *7(S.D.N.Y. Mar.29,2013)(examiningtheprejudicial
+impact ofthenon-compliance).
+7
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 11 of 24
+Thefactors consideredin evaluationprecludedas asanctionfornon-disclosureunder rule
+26(a)are: “(1)theparty's explanationforthefailuretocomplywiththediscovery[requirement];
+(2)theimportanceof...theprecluded[evidence]; (3)theprejudicesuffered bytheopposing
+partyas aresult ofhavingtopreparetomeet thenewtestimony; and (4)the possibilityofa
+continuance.”Mikulecv. Townof Cheektowaga,302F.R.D.25,29-30(W.D.N.Y.2014)
+(quotingRitchieRisk–LinkedStrategies Trading(Ir.),Ltd.v.CoventryFirst LLC, 280F.R.D.
+147,157(S.D.N.Y.2012)).
+Theexaminationofthese factors demonstrates that preclusionofPlaintiff’s claims
+regardingphysical andemotional distress damages is theappropriatesanctionforPlaintiff’s
+failuretocomplywiththeCourt’s April 21,2015 discoveryorderand failuretoprovidemedical
+informationthat beardirectlyonherdamages claims underRule26(a)(iii).
+A. Rule37(b)Factors for Failureto ComplyWith CourtOrder
+1. Plaintiff’s actionswere willful
+“Noncompliancewithdiscoveryorders is consideredwillful whenthecourt's orders have
+beenclear,whenthepartyhas understoodthem,andwhentheparty's non-complianceis not due
+tofactors beyondtheparty's control.” Davidson v. Dean,204F.R.D.251,255(S.D.N.Y.2001)
+(citingDavis v.Artuz, 96Civ.7699(GBD),2001 WL50887at *3(S.D.N.Y.Jan.19,2001)).
+TheCourt’s Orderat the April 21,2016hearingwas entirelyclear–Plaintiffwas
+requiredtofullyrespond tothe Interrogatoryidentifyingall ofhermedical providers from 1999
+to present,includingthe dates oftreatment,reasons fortreatment, andcosts oftreatment,as well
+as providingrecords relatingtohertreatment. Menninger Decl.,Ex.E. Foravoidanceofdoubt,
+undersignedcounsel sent aconfirminglettertoPlaintiff’s counsel settingforththeprecise
+informationrequired, andrequestingthat it beproducedinadvanceofPlaintiff’s depositiontoso
+that Plaintiffcouldbefullyexaminedontheseissues. MenningerDecl.,Ex.L.
+8
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 12 of 24
+At thehearing,Plaintiff’s counsel representedtoundersignedcounsel andthis Court that
+theidentities andall medical records forPlaintiff’s treatment providers afterthealleged
+defamationhadbeenprovided. MenningerDecl., Ex.Eat 21-23. This was simplyfalse. At this
+point,thereareat least fivetreatment providers that hadnot beendisclosed. Noneoftheir
+records werediscloseduntil aftertheiridentities wereuncoveredthrough depositions.
+Plaintiffwas andis capableofat aminimumidentifyingthephysicians andpsychologists
+whohavetreatedher–thematteris fullyinhercontrol. Yet,shecompletelyfailedtoidentifyat
+least fivehealthcareproviders. Thesewereproviders whosheis currentlyseeingorhas seenin
+therecent past,whohave prescribedhermedication,andaretreatingherfor emotional and
+mental issues –theverythings for whichsheis seekingdamages. There canbenoargument that
+thefailuretoidentifyand producerecords from thesedoctors was anythingbut anintentional
+andwillful violation.
+Additionally,at herdeposition,Plaintiffintentionallyconcealedothertreatingphysicians
+whotreatedher
+SeeMenninger Decl.,Ex. I. As fullybriefed,the
+existenceofotherorinterveningphysical and emotional distress damages was theprimary
+purposefor requestingmedical informationandtreatment providers. See MotiontoCompel at
+18-19(DE75).
+.
+9
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 13 of 24
+Plaintiff’s intentional refusal toobeythis Court’s Order,includingfailuretodisclose■her
+treatingpsychologist sheis still seeingtothis dayfortheveryinjuries she claims inthis lawsuit,
+is groundforprecludingherdamageclaims forphysical andemotional distress.
+2. Lessersanctions willbeinsufficientand Ms. Maxwell hasbeen
+prejudiced
+Plaintiff’s patternofdiscoveryabuses andfailure todisclosenecessaryand required
+information makes clear that no lessersanction will deterPlaintiff’s continuingdiscoveryabuses.
+“[T]hepurposes ofRule37sanctions, [is] “to‘ensurethat apartywill not benefit from its own
+failuretocomply,’to‘obtaincompliancewithaparticularorderissued,’ andto‘servea general
+deterrent effect onthecaseat handandonotherlitigation,providedthat thepartyagainst whom
+theyareimposedwas insomesenseat fault.’” Szafrankowskav.AHRC HomeCareServs., Inc.,
+2008WL186206,*1(S.D.N.Y.Jan.22, 2008)(quotingUpdateArt,Inc.v.ModiinPub.,Ltd.,
+843F.2d67,71(2dCir.1988)); seealso S.New England, 624F.3dat 149.
+Ms.Maxwell has beenseverelyprejudicedbyPlaintiff’s failuretoprovidetherequired
+identifyinginformationanddocuments from herhealthcareproviders. Onehealthcareprovider
+identifiedbyPlaintiffin herdepositionis apsychiatrist,Judith Lightfoot,whois locatedin
+Australia. Plaintiff’s specificallyclaims
+Obviously,Dr. Lightfoot has relevant information
+concerningPlaintiff’s emotional statebothbefore andaftertheallegeddefamatorystatement.
+Indeed,hertestimonycouldconclusivelyprovethat Plaintiff’s mental state has beenunaffected
+bythe allegeddefamation. Despitethis, PlaintiffpurposefullyomittedDr. Lightfoot from her
+10
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 14 of 24
+sworninterrogatoryresponses andhas not producedanyrecords from Dr. Lightfoot’s recent
+treatment ofPlaintiff.4 Withless thantendays left indiscovery,arrangingforandtakingthe
+depositionofDr. Lightfoot –aperson livingina foreign county,is nearlyimpossible.
+Likewise,Plaintiffhas seenanotherdoctor,Dr. Donahue,
+. Shehas met withhim
+ontwooccasions, both aftertheallegeddefamatorystatement. Yet,Plaintifffailedtoidentify
+this as thenatureofDr. Donahue’s treatment inher InterrogatoryReponses. Nordidsheidentify
+thetimeframeinwhichshewas treatedbyDr.Donahue. Shehas neverprovidedhis records.
+Obviously,Dr.Donahue also has relevant information,whichwas entirelyunclear from the
+Interrogatoryresponseprovided.
+This informationis all
+relevant,discoverable, andwas purposefullyhiddenbyPlaintiff.
+Anyactionshort ofprecludingclaims forphysical,psychological andemotional distress
+damages will fall short of servingRule37’s purposeto“ensurethat apartywill not benefit from
+its ownfailuretocomply”withcourt orders. S.New England,624F.3dat 149. Topermit
+Plaintifftoget awaywith herpurposeful non-compliancewouldrewardher byallowingherto
+conceal relevant discoverableinformationthat might fullydisprovecausationbetweenMs.
+Maxwell’s statement andPlaintiff’s allegedphysical symptoms and emotional distress.
+3. Plaintiff hasbeen non-compliantsincetheoutsetof discovery
+From theinitiationofdiscovery,Plaintiffhas playedhidetheball. Startingwiththe
+serviceofRule26(a)disclosures, Plaintiffhas simplyrefusedtoturnover required andnecessary
+4AfterPlaintiffrevealedDr.Lightfoot’sidentityinherdeposition,Plaintiffbelatedlyproducedasingle
+documentfromDr.LightfootconcerningPlaintiff’sinitialconsultationwithherin2011. Norecords
+fromhermorerecenttreatmenthavebeenproduced.
+11
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 15 of 24
+information. Inherinitial Rule26(a)disclosures inNovember2015,Plaintifffailedto provide
+anyinformationonthecalculationoforsupportingevidence forherdamages claim. Whenshe
+supplementedherRule26(a)disclosures, sheprovidednoneofthenecessaryinformationoran
+actual computationofdamages, relyingonotherpeople’s allegedearningpotential andaverage
+damageawards inother cases withcompletelydifferent claim types. SeeMotiontoCompel
+Rule26(a)Disclosureat 5-6(DE64).5 Todate,oversix months afterherRule26(a)disclosures
+were required andwithless than10days left indiscovery,Plaintiffhas failedandrefusedto
+provideanysupportingdocumentationforherdamages claims oran actual computationofher
+damages basedonher allegedinjuryas requiredbyFed.R.Civ.P.26(a)(iii). At aminimum,
+relianceon anycalculation,informationorevidencethat has not beenprovidedas ofthis filing
+ofthis motion must beprecluded.
+Plaintiff’s Rule26failures donot endwiththedamages calculations. It has nowbecome
+clearthat Plaintifffailed todisclosewitnesses withrelevant informationbasedonthesubpoenas
+shehas served in this matter. Plaintiffrepeatedlyhas issued subpoenas to witnesses for
+depositions and document production beforeincludingthem onherRule26 disclosures. Towit,
+(cid:120) Allyson Chambers –subpoenaFebruary12; disclosedMarch11
+(cid:120) -Aviation Insurance–subpoenaApril 27; neverdisclosed
+(cid:120) - –subpoenanoticeMay16; disclosedJune1
+(cid:120) JoeRecarey–subpoena noticeMay17; disclosed June1
+(cid:120) Michael Reiter–subpoenanoticeMay17; disclosedJune1
+(cid:120) Shopper’s Paradise–subpoenanoticeApril 26; neverdisclosed
+Howmanyotherwitnesses aretherewithrelevant informationthat Plaintiffhas hidden?
+5NorulinghadbeenmadeonthisMotion.
+12
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 16 of 24
+Plaintiffhas beenequallyevasiveinrespondingto writtendiscovery. Until Ms.Maxwell
+was forcedtofileaMotiontoCompel,Plaintifffailedtogive eventhemost basicrelevant and
+fullydiscoverableinformation,includingtheidentities ofPlaintiff’s physicians, informationon
+herwork andeducationhistory,and eventheidentityofhercounsel andthe matters onwhich
+theyrepresent her. See DE75.Afterbeingorderedtoprovidethis information,Plaintiff
+continuedherstrategyof providingmadeuporfalseinformation,orsimplyrefusingtoprovide
+theorderedinformation.
+First,despitebeingorderedtoproduce all documents relatingtoallegedlawenforcement
+inquiries other thanPlaintiff’s ownstatements (whichwouldbeprovidedforincamera review),
+shesimplyprovidedall documents relatingtoallegedlawenforcement inquires forincamera
+review,attemptingtore-litigatetheissueinsteadofcomplyingwiththeCourt’s order. SeeDE
+139. Second,sheandherattorneys havefabricated andbackdatedastringofengagement letters
+attemptingtosubstantiatetheirprivilegeclaims, as fullydetailedinMs.Maxwell’s Replyin
+Support ofMotiontoCompel Non-PrivilegedDocuments. SeeDE191,p. -9. As shownabove,
+Plaintiffonlyselectivelyandbelatedlyturnedover medical records andthe identityofher
+medical providers, andonlyafterMs.Maxwell uncoveredtheirexistence. Similarly,Plaintiff
+was specificallyaskedforphotographs ofPlaintiff withcertainindividuals (includingPrince
+Andrew), andproductionofthosephotographs in nativeformat. Plaintiffclaimedsheproduced
+documents shehad, but did not possess anynative format pictures. MenningerDecl.,Ex.Eat
+26-27. InPlaintiff’s deposition,sherevealedthat shehadabox ofdocuments that included
+pictures, includingperhaps aphotographofherselfandPrinceAndrew,but that shedidnot look
+throughthebox orprovideanyofits contents. MenningerDecl.,Ex.Gat 208-13. Shortly
+thereafter,Plaintiff’s counsel produced60pages ofpictures previouslywithheld. Menninger
+13
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 17 of 24
+Decl.,Ex.M. Plaintiffstill not providedthenativeversions ofthesephotographs. This pattern
+was repeated againinjust thepast fewdays when Plaintiffturnedoveradditional relevant
+documents from Plaintiff’s iCloudaccount,but onlydidso afterMs.Maxwell’s counsel ferreted
+out that account through detailedreviewofdocuments producedshowingthat theaccount was
+usedbyPlaintiffincludinginher correspondence withhercounsel. Plaintifffailedtodisclose
+theaccount,theidentityofwhichwas requesteddiscovery. CompareMenninger Decl.,Ex.Fat
+8-9withMenninger Decl.,Ex.Gat 277; MenningerDecl.,Ex.N(letterre: iCloudaccount).
+WhileMs.Maxwell hasbeenabletounearthsomeoftheinformationPlaintiffhas
+purposefullywithheld,thereis simplyno tellingwhat elsesheis still hiding. “Thesanctions
+imposedbyRule37forobstructingor failingto complywithdiscoveryprocedures wouldbe
+hollowindeediftheycouldbeimposedonlyonthosewhoseefforts at concealment provedtobe
+successful.Plaintiffmaynot properlyescapethe consequences of[plaintiff’s] ownwrongful
+conduct becausethedefendants werediligent and persistent enoughtoovercometheobstacles
+which[plaintiff] placedintheirpath.” Nittolov.Brand,96F.R.D.672(S.D.N.Y.1983). Put
+simply,Plaintiff’s discoveryabuses havebeenrampant sincethebeginningofthis case. Inthe
+caseof withholdingrequireddocuments andinformationregardinghealth careproviders that are
+central tothedefense claimeddamages, theseabuses necessitatepreclusionoftheclaims.
+4. Plaintiff and hercounsel arefullyawareof sanctions fornon-
+compliancewith Courtorders
+“Although formal warnings oftenprecedetheimpositionofserious sanctions, this court
+has never consideredwarningan absoluteconditionprecedent.” Davidson v.Dean,204 F.R.D.
+251,257(S.D.N.Y.2001). Plaintiffis represented bynoless than fourlaw firms andhas seven
+attorneys ofrecordinthis case. Eachshouldbefullyaware,without need forwarning,that the
+failuretocomplywiththis Court’s orders canresult inRule37sanctions. “[I]t is anelementary
+14
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 18 of 24
+fact and expectationoflegal practicethat anattorneywhofails toabidebyacourt ruleororder
+maybesubject tosanctions orotheradverse consequences.” InrePayne,707F.3d195,206(2d
+Cir.2013); seealso Gurveyv.Cowan,Liebowitz &Lathman, P.C.,No.06CIV.1202 LGS HBP,
+2014WL715612,at *6(S.D.N.Y.Feb. 25,2014) (“Although[theoffendingparty] was not
+expresslywarnedoftheconsequences ofdisobeyingmyOrders, sheis an attorneyandis
+chargeablewithknowingtheconsequences ofviolatinga court order.” (footnoteomitted)).
+B. Additional Rule37(c) Factors for FailuretoComplyWith Initial Disclosure
+Requirements
+Thefactors consideredunderRule37(b) and(c)largelyoverlap,andtheissues of
+willfulness andprejudice areaddressed above. Thetwoadditional factors consideredin
+imposingthesanctions forfailuretoproviderequiredRule26(a)damages calculations and
+documents --theimportanceoftheinformationwithheldandpossibilityof continuance– also
+warrant impositionofstrikingtheclaims forphysical andemotional distress damages.
+1. Theinformation withheld is criticallyimportant
+As fullyexplainedin the MotiontoCompel Rule26(a)disclosures, todate Plaintiffstill
+has not providedanactual computationofthephysical andemotional distress damages she
+claims. Despitespecific discoveryrequests, Plaintifffailedtoprovidetheinformationabout her
+most current physical andmental healthtreatment providers –thosepeople whom shesawafter
+theallegeddefamation. This informationis critical tothedefenseagainst Plaintiff’s damages
+claims. Theundisclosed records demonstratethat Plaintiffdidnot seekanytreatment
+immediatelyfollowingtheallegeddefamatorystatement onJanuary2,2015. Thefirst treatment
+shesought thereafterwas onMarch5,2015and was unrelated toanyphysical oremotional
+distress causedbythe alleged defamatorystatement. Instead,shewas treatedat ahospital for a
+domesticviolenceincident inwhichherhusband strangledandpunchedher. This highly
+15
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 19 of 24
+. Yet,Plaintiffdidnot report this treatment or
+identifythesehealthcare providers inher Initial Disclosures or InterrogatoryReponses. She also
+purposefullyleft this informationout ofhertestimonyrelatingtodoctors shehas seen after
+January2,2015.
+. Plaintiffis
+obviouslytryingtohidethis veryserious otherinterveningcauseofherdamages –andshe
+almost got awaywithit.
+Dr. Lightfoot is perhaps themost relevant healthcareprovider, yet
+hername appears nowhereintheDisclosures orinthe InterrogatoryReponses. Plaintiffstill has
+-not producedasinglerecordfrom Dr. Lightfoot foranytreatment afterthe allegeddefamatory
+statement.
+Athirddoctor,Dr.Donahue,mayhavebeennamed,but thenature anddates ofthe
+treatment heprovidedwereneverdisclosed.
+- .~No recor-ds hav-ebeen-produ-ced.
+. MenningerDecl.,Ex.G,p.336. Thereis aclearneedtodeposeDr.
+Donahueregardingthis failuretomitigatedamages. Yet,his records have not beenproduced,
+andhis roleinPlaintiff’s treatment was not discloseduntil Plaintiff’s deposition.
+16
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 20 of 24
+OnecanonlyassumeDr. Carol Hayekhas relevant information–shewas actually
+includedinPlaintiff’s Se-condSupplemental Responses &Objections. Plaintiffnevertheless fails
+toidentifythenatureof Dr.Hayek’s treatment of herandnorecords have beenproduced.
+Plaintiffcannot bepermittedtoidentifypeople withrelevantinformationthat sheplans on
+relyingon and yet refuse toinform thedefensethe content oftheinformation.
+Theinformationthat was withheldandonlyproducedafterMs.Maxwell’s counsel
+discoveredits existenceis ofparamount importancetothedamages claims. It is likelythat the
+still undisclosedevidenceis equallycompelling.
+2. Ms. Maxwell would requirean extension of thediscoveryperiod
+Ms.Maxwell does not wish toextendthediscoverydeadlines inthis matterandhas
+diligentlyworkedtomeet all deadlines so that this casecanproceedonthe scheduleset out in
+theSchedulingOrder. Ms. Maxwell obta-inedthedepositiontestimonyoftheonetreatment
+providerPlaintiffdidinitiallyidentify6 –Dr.Olsen –whohas providedvaluableinformationthat
+disproves anyphysical or emotional distress damages causedbythealleged defamation. Now,
+ontheeveofdiscoveryclosing, Ms. Maxwell has learnedofat least five othermedical treatment
+providers inthemost relevant timeframe–people providingmedical andmental healthservices
+post theallegeddefamatorystatement inJanuary2015. Plaintiff’s discoveryfailures inhiding
+relevant treatingphysicianinformationhavepreventedMs.Maxwell from obtainingwhat now
+appears tobecritical information. Twooftheseproviders –Drs. Lightfoot andDonahue --are
+locatedinAustralia, requiringsignificant travel toobtaintheirdeposition,andpoten-tially
+requiringserviceofprocess throughothermeans. Fourothertreatment providers –Dr.Geiger,
+6PlaintiffalsooriginallydisclosedaDr.CarolHayekasatreatmentprovider. However,noinformation
+hasbeenprovidedonwhatDr.HayektreatedPlaintifffororwhenshewastreated,andnomedical
+recordshavebeenproduced.
+17
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 21 of 24
+Dr.Heaney,DonnaOliverP.AandDr.Streeter– resideinColorado. Becausetheyareoutside
+ofthejurisdiction,theyarenot subject tobecompelledtoappearat trial,requiringthat their
+depositions betakentopresent theirtestimony.
+Ms.Maxwell does not wish todragthis caseout,andshouldnot beforcedtoincurthe
+timeandexpensethat wouldberequired toobtain discoveryfrom thesehiddenhealthcare
+providers, especiallyat this latestage.
+II. STRIKINGCLAIMS FORMEDICAL ANDEMOTIONAL DISTRESS
+DAMAGES IS CONSISTENT WITH THE PURPOSE OFRULE 37,
+COMMENSURATE WITH THE INFORMATIONWITHHELD,ANDLESS
+HARSH THANTHE AVAILABLE DISMISSAL SANCTION.
+UnderRule37,Ms. Maxwell couldcertainlyrequest themoreseveresanctionof
+dismissal ofthecase.7 This most severesanctionwouldbeappropriateinthis circumstance.
+Dismissal is consistent withthesanctions imposedbymanycourts inthis district andthroughout
+NewYork insimilarsituations wheremedical records havebeenwithheld despiteacourt order
+toproduce,andthosemedical records arecentral totheissueinthecase. SeeNittolov.Brand,
+96F.R.D.672(S.D.N.Y. 1983)(dismissingplaintiff’s claims underRule37forprovidingfalse
+andevasive answers concerningmaterial facts includingmedical history); Skywarkv.Isaacson,
+No.96CIV.2815JFK,1999WL1489038,at *1(S.D.N.Y.Oct.14,1999), aff'd, No.96CIV.
+2815(JFK),2000WL145465(S.D.N.Y.Feb.9,2000)(dismissal ofPlaintiff’s claims for failure
+toturnovermedical records relevant toclaims,andwithholdingCourt orderedinformationuntil
+uncoveredbydefendant); InreConsol.RNC Cases,No.127,2009WL130178,at *13
+(S.D.N.Y.Jan.8,2009)(dismissal ofemotional distress claims underRule 37forfailuretoturn
+overrelevant medical records despiteCourt Order); Witharana v. Dorsey, No.13-CV-3102ENV
+7Obviously,theCourthasthepowertoelectthissanctiononitsownshoulditsochoose.
+18
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 22 of 24
+MDG,2015WL4510273,at *5(E.D.N.Y.July24,2015)(dismissal ofclaims underRule37for
+failuretoprovideCourt Orderedmedical releases relevant toclaims).
+Here,Ms.Maxwell seeks thelessersanctionofstrikingtheclaim orprecludingevidence
+onlyonthedamages that relatetothewithhelddocuments andinformation. Theinformation
+beingwithheld–medical andpsychological providers andtheir records –relateddirectlytothe
+claims forphysical,psychological andemotional distress damages. Thesanction sought is
+commensuratewithand directlyrelatedtoPlaintiff’s violationoftheCourt’s Order. Giventhe
+tendays left indiscoveryMs.Maxwell cannot adequatelyget discoveryon this newlydisclosed
+evidence. In light ofPlaintiff’s continuing and persistent discoverymisconduct,thepunishment
+fits.
+CONCLUSION
+WHEREFORE,Ms.Maxwell requests that this Court enteran Order:
+1)StrikingPlaintiffDamages Claims forpsychological painandsuffering, mental
+anguish andemotional distress (Complaint ¶19),Physical,psychological andpsychiatricinjuries
+andresultingmedical expenses (Rule26(a)Disclosures, Paragraph(C)(1)) and“Past,present and
+futurepainandsuffering, mental anguish, humiliation,embarrassment,loss ofself-esteem,loss
+ofstandinginthe community,loss ofdignityandinvasionofprivacyinher publicandprivate
+life”(Rule26(a)Disclosures, Paragraph(C)(1));
+2)For attorneys’fees andcosts incurredinfilingthis Motion; and
+3)WarningPlaintiffthat furtherviolationofthis Court orders orthediscoveryrules may
+result inthesanctionofdismissal ofherclaims.
+19
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 23 of 24
+Dated: June20,2016
+Respectfullysubmitted,
+/s/ Laura A.Menninger
+LauraA.Menninger (LM-1374)
+JeffreyS.Pagliuca(pro hacvice)
+HADDON,MORGANANDFOREMAN,P.C.
+150East 10th Avenue
+Denver,CO80203
+Phone: 303.831.7364
+Fax: 303.832.2628
+lmenninger@hmflaw.com
+Attorneys for GhislaineMaxwell
+20
+Case 1:15-cv-07433-LAP Document 1320-33 Filed 01/03/24 Page 24 of 24
+CERTIFICATE OFSERVICE
+Icertifythat onJune20, 2016, IelectronicallyservedthisDefendant’s Motionfor Rule37(B)
+&(C)Sanctions for FailuretoComplywithCourtOrder andFailuretoComplywithRule26(A)
+viaECFonthefollowing:
+SigridS.McCawley Paul G.Cassell
+MeridithSchultz 383S.UniversityStreet
+BOIES,SCHILLER&FLEXNER,LLP Salt LakeCity,UT84112
+401East Las Olas Boulevard,Ste.1200 cassellp@law.utah.edu
+Ft. Lauderdale, FL33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+J.StanleyPottinger
+BradleyJ.Edwards 49Twin Lakes Rd.
+FARMER,JAFFE,WEISSING,EDWARDS, SouthSalem,NY10590
+FISTOS & LEHRMAN, P.L. StanPottinger@aol.com
+425North Andrews Ave.,Ste.2
+Ft. Lauderdale, FL33301
+brad@pathtojustice.com
+/s/ NicoleSimmons
+NicoleSimmons
+21

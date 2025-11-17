@@ -1,0 +1,77 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.4_1",
+  "filename": "gov.uscourts.nysd.447706.1327.4_1.pdf",
+  "extraction_date": "2025-11-17T10:16:34.657980",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 3208,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 21,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 121
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1192
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2560
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 2588
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 2885
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 2588
+    },
+    {
+      "date_string": "February 24, 2016",
+      "position": 2885
+    }
+  ],
+  "people": [
+    "Defendant Ghislaine Maxwell",
+    "Virginia Lee Roberts",
+    "Anthony Figueroa\nAddress",
+    "Ghislaine Maxwell",
+    "Of New York",
+    "Mccawley\nBorns",
+    "Court\nSouthern District",
+    "Ross Gow\nAcuity",
+    "United States District",
+    "Berkeley Square\nLondon",
+    "Jeffrey Epstein",
+    "Fort Lauderdale",
+    "Robert Giuffre\nAddress",
+    "Bill Clinton",
+    "East Las Olas",
+    "Refuse Silence",
+    "Avenue\nDenver",
+    "Menninger\nLaura",
+    "Jane Doe",
+    "Louis Freeh\nAddress"
+  ],
+  "locations": [
+    "New York",
+    "London"
+  ],
+  "images": []
+}

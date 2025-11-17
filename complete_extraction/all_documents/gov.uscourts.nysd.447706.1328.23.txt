@@ -1,0 +1,620 @@
+# Document: gov.uscourts.nysd.447706.1328.23.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, flight_log, financial
+# Images Extracted: 0
+# Dates Found: 68
+# People Found: 117
+# Locations Found: 6
+# Linked Emails: 24
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 1 of 22
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSE IN OPPOSITION TO DEFENDANT’S MOTION FOR
+PROTECTIVE ORDER REGARDING FINANCIAL INFORMATION
+Plaintiff, Virginia Giuffre, by and through her undersigned counsel, files this Response in
+Opposition to Defendant’s Motion for a Protective Order Regarding Financial Information (DE
+370). Defendant’s financial information is highly relevant to this case, particularly in light of
+Ms. Giuffre’s punitive damages claim as well as press reports suggesting that the Defendant may
+be selling her assets in New York and transferring the money outside the jurisdiction.
+Accordingly, Defendant’s motion for a protective order should be denied.1
+I. PRELIMINARY STATEMENT
+As recounted by Defendant (DE 370 at 1-3), Ms. Giuffre has served discovery requests
+on Defendant, seeking certain financial information from the Defendant. The requests are
+narrowly tailored to the time frame related to this case, as the requested information concerns
+1 Contemporaneous with the filing of this response to Defendant’s motion for a protective order
+regarding financial information, Ms. Giuffre has also filed a motion to compel Defendant to
+produce the requested financial information. This parallel filing is apparently required because
+Ms. Giuffre does not simply seek the negative relief of denial of Defendant’s requested
+protective order but also the affirmative relief of a Court order requiring production of the
+materials.
+1
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 2 of 22
+financial information from just the time during which Defendant has defamed Ms. Giuffre (2015
+to present).
+As with most of the other discovery requests she has received, Defendant has chosen not
+to produce any information. Instead, she has filed this motion for a blanket protective order,
+arguing that financial discovery has no relevance whatsoever to any issue in this case. Of course,
+given the broad scope of discovery, the Court can grant Defendant’s motion only if no relevance
+exists at all. But in fact, Defendant’s financial information is highly relevant to at least three
+issues in this case. First, Defendant’s recent efforts to conceal assets from the reach of this Court
+proves consciousness of her guilt of sex trafficking. Second, Defendant’s financial affairs will
+show dependence on Epstein for financial support, an issue highly relevant to motive.2 Third, as
+Defendant herself appears to admit, the discovery is relevant to the size of the punitive damage
+award that the jury should enter in this case. Facts relevant to each of these three points are set
+out in order below.
+A. Discovery of Financial Information is Relevant to Show Defendant’s
+Transfer of Assets Out of the Jurisdiction after the Commencement of
+Litigation and thus Her Consciousness of Guilt.
+The requested financial information is relevant to issues relating to Defendant’s apparent
+attempt to conceal assets from the Court. The timing of recent events is telling here. As the
+Court will recall, in court pleadings filed December 30, 2014, Ms. Giuffre initially publicly
+alleged Defendant had sexually abused her. On September 21, 2015, Ms. Giuffre filed her
+lawsuit against Defendant here in the Southern District of New York. (DE 1.) Ms. Giuffre is
+seeking at least $50 million in compensatory and punitive damages from Ms. Maxwell. Just a
+few months after the suit was filed, on April 28, 2016, the New York Post reported that
+2 As recently as 2005, Defendant was on Epstein’s Palm Beach House bank account for Palm
+Beach. Bates Number SAO FOIA disc 7 (bates Giuffre 007590) at p. 93-95.
+2
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 3 of 22
+Defendant, “the daughter of the late disgraced press baron Robert Maxwell, has sold her
+townhouse at 116 E. 65th St. for $15 million.” See http://nypost.com/2016/04/28/alleged-epstein-
+madam-sells-16m-manhattan-townhouse/. When questioned about the sale, Defendant’s
+representative refused to comment. See id. (broker Shari Scharfer Rollins, of Douglas Elliman,
+did not return calls).
+The transfers of assets, likely out of the jurisdiction of this Court, provides evidence of
+consciousness of criminal guilt and civil liability. Clearly, Ms. Giuffre is entitled to explore all
+the circumstances surrounding the timing and consummation of this sale, including whether
+Defendant has now secreted these assets someplace where they may be difficult to reach, such as
+in the United Kingdom (where, on information and belief, Maxwell is a UK citizen holding a UK
+passport) or elsewhere.
+Maxwell’s removal and apparent concealment of assets takes place against a backdrop of
+disregard of court orders by Maxwell and others involved in the Epstein sex trafficking
+organization. In 2009, before suit was ever filed in this case, Maxwell was served with a
+subpoena for a deposition in a civil case against Jeffrey Epstein. After extensive discussion and
+coordinating a convenient time and place, as well as ultimately agreeing to a confidentiality
+agreement prepared by Maxwell’s attorney, at the eleventh hour Maxwell’s attorney informed
+plaintiff’s counsel that Maxwell’s mother was very ill and that consequently Maxwell was
+leaving the country with no plans to return. The deposition was cancelled. Yet a short time later,
+Maxwell was photographed at Chelsea Clinton’s wedding in Rhinebeck, New York, confirming
+the suspicion that she was indeed still in the country and willing to say anything to avoid her
+deposition.
+Similarly, the Court is familiar with the long (and still on-going) effort of Ms. Giuffre’s
+efforts to take the depositions of those who participated with Defendant in sexual abuse --
+3
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 4 of 22
+including Jeffrey Epstein, Nadia Marcikova, and Sarah Kellen – depositions that have thus far
+been defeated by evasions of service of process and other similar maneuvers. See DE 160,
+Motion for Leave to Serve Three Deposition Subpoenas by Means Other than Personal Service,
+which this Court granted on June 20, 2016; DE 308, Motion for Finding Civil Contempt against
+Sarah Kellen for Ignoring Subpoena (pending); DE 310, Motion for Finding of Civil Contempt
+against Nadia Marcinkova for Ignoring Subpoena (pending). Similarly, the Court will recall that
+Ms. Giuffre was recently forced to resort to the Hague Convention in an effort to depose
+Maxwell’s spokesman, Ross Gow, about statements he made on Defendant’s behalf. See DE
+306, Motion for Extension of Time to Complete Discovery to Serve and Depose Ross Gow
+(pending); DE 330 and 331, Application for Letters Rogatory (application granted and letter
+issued by the Court on August 11, 2016 (DE 358)).
+Against the backdrop of these repeated evasion efforts, Defendant’s sale of $15 million in
+assets appears even more alarming. And, evidence of consciousness of guilt is admissible in
+criminal cases, even where the standard of proof is much higher than in a civil case. See, e.g.,
+United States v. Amuso, 21 F.3d 1251, 1258 (2d Cir. 1994) (recognizing admissibility of
+evidence from which a jury could find consciousness of guilt). Ms. Giuffre it entitled to explore
+all the circumstances surrounding Ms. Maxwell’s apparent efforts to hide assets.3
+B. Discovery of Financial Information is Relevant to Show a Financial Link to
+Epstein.
+In addition to providing evidence Defendant is hiding assets, the financial information
+will help to establish an important link between Defendant and Jeffrey Epstein. Drawing again
+3 The Court should review Defendant’s reply to this pleading carefully to see if she represents to
+the Court that the $15 million in assets she has apparently concealed will be made available to
+satisfy any judgment that Ms. Giuffre might obtain in this case. If Defendant fails to make such
+a representation, the Court can draw the obvious inference that Defendant is attempting to hide
+her assets to escape responsibility for paying any ultimate judgment here.
+4
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 5 of 22
+on a published article from the New York Post, it appears that Defendant’s townhouse (among
+other assets) might be part of a covert payoff from Epstein to Defendant. As the Post reports,
+“[a] lawyer with links to Epstein reportedly bought the townhouse for Maxwell, who has
+allegedly never earned enough or inherited enough to make the purchase on her own.”
+http://nypost.com/2016/04/28/alleged-epstein-madam-sells-16m-manhattan-townhouse/. This
+article suggests that Defendant is reliant upon Epstein for tremendous financial support, which
+certainly provides a strong motive for her to provide favors to Epstein – including providing him
+with underage girls for sex. It also provides a strong motive for her to lie at trial about Epstein’s
+(and her own) sex trafficking. Indeed, to conceal these facts, other media reports suggest that
+the reason that Defendant was trying to sell her townhouse “quietly” was perhaps “to put some
+distance between herself and Epstein, who owns a mansion a few blocks away.”
+http://pagesix.com/2015/02/02/accused-epstein-madam-quietly-selling-ues-townhouse/.
+Again, perhaps there is some innocent explanation for these secretive efforts. But, if so,
+Defendant has declined to provide it. See id. (noting Defendant’s “rep didn’t comment”).
+C. Discovery of Financial Information is Relevant to the Issue of the Size of any
+Punitive Damages.
+Financial information regarding Defendant is also highly relevant to Ms. Giuffre’s
+punitive damages claim. Of course, it is well-settled law that “evidence of a tortfeasor’s wealth
+is traditionally admissible as a measure of the amount of punitive damages that should be
+awarded.” City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 270 (1981). As explained by
+the Reporters of the American Law Institute’s Restatement of Torts, when considering the size of
+punitive damages “[t]he wealth of the defendant is also relevant, since the purposes of exemplary
+damages are to punish for a past event and to prevent future offenses, and the degree of
+5
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 6 of 22
+punishment or deterrence resulting from a judgment is to some extent in proportion to the means
+of the guilty person.” Restatement (Second) of Torts § 908, cmt. e (1979).
+Defendant does not attempt to quarrel with the proposition that her vast wealth is relevant
+to Ms. Giuffre’s punitive damages claim. See, e.g., DE 370 at 6 (citing case allowing
+information about a defendant’s wealth to be presented to the jury). Instead, it appears that her
+only argument concerns the timing of the disclosure of such information, an issue discussed
+below. For purposes of setting out the salient facts, then, it is enough to note here that even
+Defendant has to ultimately concede that discovery about her financial information is relevant to
+this case.
+II. DISCUSSION
+Because discovery regarding Defendant’s financial circumstances and recent transactions
+is relevant to this case for multiple reasons, Ms. Giuffre is entitled to discovery regarding that
+information. Under Federal Rule of Civil Procedure 34(a), a party may request that another
+party produce documents in her possession so long as the documents are within the scope of Fed.
+R. Civ. P. 26(b), which allows for broad discovery regarding any non-privileged matter that is
+relevant to any party’s claim or defense. Information within this scope of permitted discovery
+need not be admissible in evidence to be discoverable. Relevance is still to be “construed
+broadly to encompass any matter that bears on, or that reasonably could lead to other matter that
+could bear on” any party's claim or defense. State Farm Mut. Auto. Ins. Co. v. Fayda, No.
+14CIV9792WHPJCF, 2015 WL 7871037, at *2 (S.D.N.Y. Dec. 3, 2015) (granting motion to
+compel). For reasons explained above, the financial information sought is relevant to issues in
+this case, and, accordingly Defendant’s motion for a protective order should be denied. There is
+also no sound reason for delaying discovery on these issues.
+6
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 7 of 22
+A. Discovery of Financial Information is Appropriate Pre-Trial to Avoid the
+Need to Summon Two Separate Juries to Hear the Evidence in the Case.
+Seemingly recognizing the fact that discovery regarding her financial information is
+appropriate, Defendant’s ultimate argument appears not to be that the discovery is improper, but
+rather that it should be delayed until after the trial starts. Thus, Defendant’s first specific
+argument section is that financial “discovery is not appropriate pre-trial.” DE 370 at 6. In
+support of this proposition, Defendant’s lead citation is a forty-year-old New York case, Rupert
+v. Sellers, 48 A.D.2d 265 (4th Dept. 1975). But as much more recent authority from the Southern
+District of New York explains, Rupert is inapplicable to discovery issues because the case relates
+solely to the sequence with which evidence can be produced at trial:
+[Defendant’s] reliance on Rupert v. Sellers, 48 A.D.2d 265, 368 N.Y.S.2d 904
+(4th Dep’t 1975), for the proposition that punitive damages discovery is not
+appropriate until a plaintiff has first established liability is misguided since federal
+law and not state law governs questions of procedure such as discoverability.
+Hazeldine v. Beverage Media, Ltd., No. 94 Civ. 3466 (CSH), 1997 WL 362229, at
+*3 (S.D.N.Y. June 27, 1997) (citations omitted). Moreover, while the Second
+Circuit “has cited Rupert with approval, it has done so for the proposition that
+evidence of a defendant's wealth should not ‘be brought out at trial unless and
+until the jury has brought in a special verdict that the plaintiff is entitled to
+punitive damages.’ ” Id. (citations omitted). It has not held that financial
+discovery such as that sought here may only be taken after a liability
+determination.
+Pasternak v. Dow Kim, 275 F.R.D. 461, 463 (S.D.N.Y. 2011).
+Defendant also cites another decision from this court, Collens v. City of New York, 222
+F.R.D. 249, 254 (S.D.N.Y. 2004). DE 370 at 7. But Collens does not stand for the proposition
+that financial discovery is broadly barred, but only that on the facts of that case no such
+discovery was required. As a recent case from the District of New Jersey explains in allowing
+pre-trial discovery of financial information for punitive damages purposes:
+Defendants assert that until there has been a finding of liability by the jury,
+punitive damage discovery is not appropriate. Defendants rely on Collens, where
+the court stated that because the issue of punitive damages is generally bifurcated
+7
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 8 of 22
+from issues of liability, and punitive damages issues thus may never arise,
+punitive damage discovery was not necessary at the pretrial stage. See Collens,
+222 F.R.D. at 254. Plaintiffs assert that the same jury will decide both liability and
+punitive damages issues and that, as a practical matter, there is no time to conduct
+discovery—including depositions of the individual police officers—between the
+liability verdict and the charge to the jury on punitive damages. Plaintiffs' counsel
+represented at oral argument that if Defendants are concerned with maintaining
+the confidentiality of the individual police officer defendants' personal
+information, Plaintiffs will agree to a confidentiality order and the sealing of those
+portions of the deposition transcripts and documents that disclose such
+information until such time as there is a finding of liability, if any, as to the
+individual police officer defendants. . . . Insofar as Plaintiffs assert a claim under
+42 U.S .C. § 1983, the Court notes that “evidence of a tortfeasor's wealth is
+traditionally admissible as a measure of the amount of punitive damages that
+should be awarded[.]” City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 270
+(1981). Therefore, interrogatories seeking information about Defendants' financial
+condition are reasonably calculated to lead to the discovery of admissible
+evidence on the issue of punitive damages.
+Graham v. Carino, No. CIV.09-4501 JEI/AMD, 2010 WL 2483294, at *3 (D.N.J. June 4, 2010).
+That pre-trial discovery on financial matters is allowed when a punitive damage issue is
+present in a case is confirmed by Tillery v. Lynn, 607 F. Supp. 399, 402-03 (S.D.N.Y. 1985). To
+leave the discovery until later would be burdensome on the jury – meaning that a common
+approach is to allow financial discovery to proceed pre-trial and then to later bifurcate the trial
+itself into liability and punitive damages phases:
+Discovery as to defendant's personal assets may be undertaken by plaintiff at this
+time. It would be unduly burdensome to plaintiff, and most particularly a jury and
+the court, to delay resolution of the issue as to the amount of punitive damages, if
+any, which should be awarded until discovery as to defendant's personal assets
+had been completed. However, as the New York courts have recognized,
+“defendant's wealth should not be a weapon to be used by plaintiff to enable him
+to induce the jury to find the defendant guilty of malice, thus entitling plaintiff to
+punitive damages.” Rupert v. Sellers, 48 A.D.2d 265, 272, 368 N.Y.S.2d 904, 912
+(4th Dep't 1975). Accord, Chilvers v. New York Magazine Company, Inc., 114
+Misc.2d 996, 453 N.Y.S.2d 153 (N.Y.Co.Sup.Ct.1982). Accordingly, in the
+interest of justice and to avoid any undue prejudice during the liability phase of
+this action, the trial will be bifurcated. . . . Therefore, defendant's motions for
+partial summary judgment and to stay discovery as to his financial status are
+denied.
+Tillery v. Lynn, 607 F. Supp. 399, 402-03 (S.D.N.Y. 1985) (Motley, J.).
+8
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 9 of 22
+The holding in Tillery was endorsed in Hazeldine v. Beverage Media, Ltd., No. 94 CIV.
+3466 (CSH), 1997 WL 362229, at *2-*3 (S.D.N.Y. 1997), which explained” “Tillery followed
+this preferred course by bifurcating the trial, see Simpson, 901 F.2d at 283, but allowing pre-trial
+financial discovery to proceed.” Most cases in most jurisdictions outside the Southern District of
+New York have reached exactly the same conclusion and allowed pre-trial discovery of financial
+information for punitive damage purposes.4
+4 See, e.g.:
+(cid:120) CEH, Inc. v. FV Seafarer, 153 F.R.D. 491 (D.R.I.1994) (plaintiffs were not required to
+establish prima facie case on issue of punitive damages before they could obtain pretrial
+discovery of financial information of defendants; plaintiffs had alleged facts sufficient to
+make a non-spurious claim for punitive damages and that was sufficient to warrant
+discovery);
+(cid:120) E.E.O.C. v. California Psychiatric Transitions, 258 F.R.D. 391 (E.D.Cal.2009)
+(evidence of employer's current financial worth was relevant to issue of punitive
+damages, and thus was discoverable in Title VII action alleging sexual harassment and
+retaliation, where complaint sought punitive damages, deposition evidence indicated that
+employer may have acted in reckless disregard of female employees' federal rights, and
+privacy concerns could be addressed with protective order);
+(cid:120) Grosek v. Panther Transp., Inc., 251 F.R.D. 162 (M.D. Pa. 2008) (there was no good
+cause to issue protective order preventing discovery of defendants’ financial condition
+until determination was made that punitive damages were warranted; plaintiffs stated
+claim for punitive damages, and delaying discovery until after discovery of evidence
+supporting punitive damages would have been inefficient and delayed conclusion of the
+case);
+(cid:120) Vieste, LLC v. Hill Redwood Dev., No. C-09-04024 JSW DMR, 2011 WL 855831, at *1
+(N.D. Cal. Mar. 9, 2011) (allowing pre-trial discovery of Defendants' net worth and
+financial condition because it was clearly relevant to the issue of punitive damages);
+(cid:120) Charles O. Bradley Trust v. Zenith Capital, LLC, 2005 WL 1030218, at *3 (N.D.Cal.
+May 3, 2005) (while some federal courts have required a prima facie showing of
+entitlement to punitive damages before ordering discovery, the majority have not and
+listing cases);
+(cid:120) In re Aqua Dots Products Liability Litigation, 270 F.R.D. 322 (N.D. Ill. 2010), aff'd,
+654 F.3d 748 (7th Cir. 2011) (plaintiffs' discovery regarding financial information from
+manufacturer and distributor of recalled children's toy was discoverable in a product
+liability action. Plaintiffs sought punitive damages, and the distributor and manufacturer
+were arguably principal actors);
+(cid:120) Oakes v. Halvorsen Marine Ltd., 179 F.R.D. 281 (C.D. Cal. 1998) (because defendants
+asserted a counterclaim seeking punitive damages, they could obtain discovery regarding
+9
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 10 of 22
+Defendant also cites a decision from Judge Cote in Tyco Intern. Ltd. v. Walsh, which
+allowed a delay in seeking discovery of financial information in that case because it was not
+clear if the issue would become relevant. But that case involved peculiar circumstances, which
+permitted discovery of financial information to be bi-furcated without any burden on the Court.
+Specifically, that case involved a bench trial, which allowed a delay between the liability phase
+and punitive damages phases of the trial. As the Court explained. “it would be premature to
+force the defendant to produce his net worth information at this time. If necessary, plaintiff will
+have an opportunity to obtain discovery on the defendant's financial circumstances as part of any
+post-trial discovery. Since the trial in this matter is a bench trial, no jury will be burdened by any
+delay occasioned by this discovery period.” Tyco Int'l Ltd. v. Walsh, No. 02-CV-4633 (DLC),
+2010 WL 3000179, at *1 (S.D.N.Y. July 30, 2010).
+Of course, exactly the opposite situation exists here. Defendant would apparently have
+the Court delay until the jury returns with its verdict in favor of Ms. Giuffre before allowing
+discovery to proceed on Defendant’s financial circumstances. As a practical matter, this would
+seem to require sending the jury empaneled to hear liability issues home and then selecting a
+new, second jury on punitive damages issues – a new jury which would have to somehow be
+shown all of the previous testimony from the liability phase. See Hazeldine v. Beverage Media,
+Ltd., No. 94 CIV. 3466 (CSH), 1997 WL 362229, at *2-*3 (S.D.N.Y. 1997) (“allowing pre-trial
+plaintiffs' net worth; California limitations on such discovery did not apply in federal
+court);
+(cid:120) Caruso v. Coleman Co., 157 F.R.D. 344 (E.D. Pa. 1994) (“In products liability action,
+plaintiffs would be allowed discovery of defendants’ financial statements and total sales
+revenue on the ground they are relevant to the issue of punitive damages; information
+regarding punitive damages is as discoverable as information that relates to liability, and
+discovery could proceed without prior proof of prima facie case on punitive damages.”).
+10
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 11 of 22
+discovery [of financial information] avoids the inefficiency of a discovery delay between the
+liability and damages phases of trial, as well as the need to assemble a second jury.”).
+Finally, Defendant relies upon Guccione v. Flynt, for the proposition that financial
+discovery is not appropriate on punitive damages issues here. But that case was sui generis with
+peculiar facts that render it inapplicable here. See Guccione v. Flynt, No. 83 CIV. 8020 RWS,
+1985 WL 255, at *1 (S.D.N.Y. Feb. 6, 1985) (“It should be apparent to anyone forced to review
+these papers and the issues presented by this action that two men with ample resources are
+employing lawyers and occupying space and time in the justice system to continue their personal
+feud. Regrettably there is to date no apparent basis to avoid the unappetizing task of ruling on
+these motions.”). Moreover, in that case, the Court in fact ordered the Defendant to produce
+financial information to be turned over to plaintiff’s counsel at the time of trial. See id. at 1.
+While that solution may have worked well in that case, it is not satisfactory here. Defendant is
+not an established businessperson with regularly-kept disclosure statements reporting income and
+related financial information. Instead, Defendant is participant in a covert, sex trafficking
+organization with mysterious financial arrangements and apparent, recent efforts to conceal
+assets. In such circumstance, Ms. Giuffre is not required to take the Defendant’s net worth
+statement at face value, but instead is entitled to receive it well in advance of trial so that she
+may investigate its accuracy.
+Finally, this Court has previously rejected exactly the same arguments that are being
+made here. This Court explained that “[w]hile bifurcation may be the preferred method of
+resolving disputed issues of liability and damages, as it prevents prejudice to the defendants by
+keeping financial evidence out of the liability phase of the trial, this does not mean that plaintiffs
+should be denied pretrial financial discovery.” Hamm v. Potamkin, No. 98 CIV. 7425 (RWS),
+1999 WL 249721, at *2 (S.D.N.Y. Apr. 28, 1999). This Court explained that “[a]s far as the
+11
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 12 of 22
+general timing of financial disclosures is concerned, plaintiffs need not wait until after a finding
+of liability or a preliminary finding of damages to obtain discoverable financial information from
+defendants.” Id. Those conclusions were well-reasoned then, and remain well-reasoned now.
+Just as the Court refused to deny pretrial financial discovery to the plaintiff in that case, it should
+not deny Ms. Giuffre pretrial financial discovery here. Pre-trial discovery is the only way to
+ensure that Ms. Giuffre will be able to discover all the information that she needs for each of the
+three purposes outlined in Part I above.
+B. Discovery of Financial Information Should Not Be Delayed until a Ruling on
+Defendant’s Summary Judgment Motion.
+Defendant also tries to interpose one last stalling argument: That discovery of financial
+information should await a ruling on her anticipated summary judgment motion. This argument
+should be rejected for two reasons: First, any argument that Defendant might advance in a
+summary judgment motion would border on frivolous given the overwhelming evidence
+establishing her involvement in sex trafficking. Second, because the trial is drawing near,
+waiting for summary judgment motions to be decided would unreasonably compress the time
+available to Ms. Giuffre’s counsel to investigate Defendant’s financial information.
+Defendant anticipates that she will “likely” file a summary judgment motion which will
+include an argument concerning the “substantial truth” of Defendant’s statements. DE 370 at 9.
+The Court will notice that even Defendant herself is not prepared to write that she will be able to
+prove the truth of her statements – inserting the qualifying word “substantial” in front of the
+word “truth,” presumably, because of the avalanche of evidence showing her deep involvement
+in Epstein’s sex trafficking. Defendant does not explain, for instance, how she will argue that
+the Court should grant summary judgment rather than allow the jury to hear Ms. Sjoberg’s
+testimony of how Defendant lured her from her school to have sex with Epstein under the guise
+12
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 13 of 22
+of answering phones cannot be given to the media.5 Similarly, Defendant fails to explain why a
+jury shouldn’t be allowed to consider Mr. Rizzo’s testimony about how Defendant took the
+passport of a 15-year-old Swedish girl and threatened her when she refused to have sex with
+Epstein.6 And certainly a reasonable jury could reach a verdict in Ms. Giuffre’s favor based
+solely on Mr. Alessi’s testimony about how Defendant brought girls over for Epstein,7 or Mr.
+Figueroa’s testimony about how Defendant would call him to bring over underage girls, and how
+Defendant and Epstein would have threesomes with Ms. Giuffre.8
+The Court is familiar with that avalanche of mounting evidence showing sex trafficking,9
+which is presumably why Defendant makes only a half-hearted effort to suggest that she has a
+serious summary judgment motion based on “substantial truth.” Instead, she gamely suggests
+that summary judgment might be proper on grounds that Ms. Giuffre is somehow a “libel-proof”
+plaintiff. DE 370 at 9. Here, too, Defendant’s argument that the facts on this issue will be so
+5 See McCawley Decl. at Composite Exhibit 1, Johanna Sjoberg’s May 18, 2016 Dep. Tr. at 8-9,
+13, 33-35, 142-143(testifying that Defendant recruited her for sex with Epstein under the guise of
+answering phones, a job that lasted one day, because her second day Defendant asked her to start
+giving massages, and it soon made it clear that Sjoberg’s purpose was to bring Epstein to orgasm
+so Defendant didn’t have to all of the time).
+6See McCawley Decl. at Composite Exhibit 2, Rinaldo Rizzo’s June 10, 2016 Dep. Tr. at 52-60
+(Defendant’s friend’s house manager, through tears, described how Defendant tried to force a 15
+year old Swedish girl to have sex with Epstein through threats and stealing her passport)
+7 See McCawley Decl. at Composite Exhibit 3, Juan Alessi’s June 1, 2016 Dep. Tr. at 28, 52-54
+(Epstein’s house manager, testified that Defendant was one of the people who procured the over
+100 girls he witnessed visit Epstein, and that he had to clean Defendant’s sex toys)
+8 See McCawley Decl. at Composite Exhibit 4, Figueroa June 24, 2016 Dep. Tr. Vol. 1 at 96-97
+and 103 (Figueroa testified that Plaintiff told him about threesomes with Defendant and Epstein
+which included the use of strap-ons); and Vol. 2 at 200 (Figueroa testified that Defendant called
+him inquiring if he had found any other girls for Epstein)
+9 See, e.g., McCawley Decl. at Composite Exhibit 5, Detective Joseph Recarey’s June 21, 2016
+Dep. Tr. at 29-30 (the detective who led the investigation of Epstein, testified that Defendant
+procured underage girls for Epstein); David Rodgers’ June 3, 2016 Dep. Tr. at 18, 34-36; see
+also Exhibit 6 Excerpted Rodgers Dep. Ex. 1 at flight #s 1433-1434, 1444-1446, 1464-1470,
+1478-1480, 1490-1491, 1506, 1525-1526, 1528, 1570 and 1589 (Epstein’s pilot testified that the
+passenger listed on his flight log bearing the initials – GM – was in fact Ghislaine Maxwell and
+Rodgers was the pilot on at least 23 of the flights in which Defendant flew with Plaintiff), etc.
+13
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 14 of 22
+clear-cut as to deprive Ms. Giuffre of her right to jury trial borders on frivolous. Ms. Giuffre is a
+courageous young woman who has come forward to reveal the broad dimensions of a sex
+trafficking ring – a criminal conspiracy that involved Defendant. That fact, alone, is enough to
+send the issue of damages to Ms. Giuffre’s reputation to a jury, particularly because any other
+approach would “require[] the Court to make factual findings regarding plaintiff's reputation for
+a particular trait.” Church of Scientology Int'l v. Time Warner, Inc., 932 F. Supp. 589, 594
+(S.D.N.Y. 1996) (refusing to grant summary judgment on a libel proof plaintiff argument), aff'd
+238 F.3d 168 (2d Cir. 2001); see also id. citing Liberty Lobby, Inc. v. Anderson, 746 F.2d 1563,
+1568 (D.C. Cir. 1984) (“To begin with, we cannot envision how a court would go about
+determining that someone's reputation had already been ‘irreparably’ damaged—i.e., that no new
+reader could be reached by the freshest libel” (Scalia, J.) (emphasis in original)), vacated on
+other grounds, 477 U.S. 242 (1986).
+Defendant also predicts that Ms. Giuffre will “have a nearly insurmountable task to
+demonstrate that [Defendant] acted with the requisite degrees of malice.” DE 370 at 10
+(emphasis added). Of course, the qualifier gives away the game – a “nearly” insurmountable
+task is not one on which summary judgment is appropriate. And, in any event, once Ms. Giuffre
+proves at trial (as she will) that Defendant was deeply involved in Epstein’s sex trafficking ring,
+it becomes obvious that Defendant’s attacks on Ms. Giuffre’s credibility were uttered with
+malice. Defendant knew full well, for example, that Ms. Giuffre’s statements that Defendant
+was involved in Epstein’s sex trafficking were not “obvious lies.” She knew that because she
+had been involved in (among other things) procuring multiple underage girls for Epstein to
+sexually abuse10 – including Ms. Giuffre herself.
+10 See Message Pads concerning Defendant (GIUFFRE001523; GIUFFRE001427;
+GIUFFRE001451; GIUFFRE001454; GIUFFRE001460; GIUFFRE001461; GIUFFRE001464;
+14
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 15 of 22
+Further proof of malice comes from Defendant’s extraordinary lack of memory about her
+involvement in the abuse.11 For instance, Defendant cannot even recall a single flight on
+Epstein’s private jet with Ms. Giuffre, even though flight logs show that Defendant had 23
+flights with Ms. Giuffre while Ms. Giuffre was underage, and Epstein’s own pilot confirmed
+those records.12 And Defendant cannot recall the circumstances under which a photograph was
+taken of her, Ms. Giuffre, and Prince Andrew – all inside Defendant’s London apartment. Based
+on Defendant’s convenient and near total amnesia about documented incriminating events alone,
+a reasonable jury could find that she acted deliberately and maliciously when she arranged for
+false and defamatory statements about Ms. Giuffre to be transmitted (literally) around the globe.
+Defendant is also less than forthcoming about the evidence that Ms. Giuffre will be able
+to produce at trial. Presumably recognizing that the statements her press agent (Ross Gow)
+released to the media were false and defamatory, Defendant states that there is “no other indicia
+of [Defendant] authorizing any statement [by Gow] regarding [Ms. Giuffre.” DE 370 at 10.
+While there are many problems with that claim, perhaps it is enough to point out that
+Defendant’s motion was filed on August 12, 2016 – and then, just four days later, on August 16,
+2016 – defense counsel disclosed to Ms. Giuffre’s counsel an email revealing quite clearly that
+GIUFFRE001465; GIUFFRE001436; GIUFFRE001435; GIUFFRE001472; GIUFFRE001474;
+GIUFFRE001492; GIUFFRE001553; GIUFFRE001388; GIUFFRE001555; GIUFFRE001556;
+GIUFFRE001557; GIUFFRE001392; GIUFFRE001526; GIUFFRE001530; GIUFFRE001568;
+GIUFFRE001536; GIUFFRE001538; GIUFFRE001541; GIUFFRE001546; GIUFFRE001399;
+GIUFFRE001402; GIUFFRE001405; GIUFFRE001406; GIUFFRE001449; GIUFFRE001409;
+GIUFFRE001410; GIUFFRE001411; GIUFFRE00; etc.); See McCawley Dec. at Sealed
+Composite Exhibit 4 Figueroa Dep. Tr. at page 200:5-12 (Defendant called him to bring girls and
+he brought 16 and 17 year olds).
+11 See, e.g., McCawley Dec. at Exhibit 7, Maxwell’s April 22, 2016 Dep. Tr. at 78-79, 144
+(barely recollects Plaintiff at all); see also McCawley Decl. at Exhibit 6, Excerpted Rodgers Dep.
+Ex. 1 (flight records evidencing Defendant (GM) flying with Ms. Giuffre
+12 See McCawley Dec. at Sealed Composite Exhibit 5, David Rodgers’ June 3, 2016 Dep. Tr. at
+18, 34-36; see also Exhibit 6, Excerpted Rodgers Dep. Ex. 1 at flight #s 1433-1434, 1444-1446,
+1464-1470, 1478-1480, 1490-1491, 1506, 1525-1526, 1528, 1570 and 1589.
+15
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 16 of 22
+Defendant and Gow had been coordinating the attacks on Ms. Giuffre. In November 10, 2015,
+after this defamation suit was filed, Defendant continued to use Gow as her press agent, as
+demonstrated in her email addressed to “Ghislaine [Maxwell] and Philip [Barden, attorney for
+Maxwell]”, Gow forwarded a press inquiry from the New York Times and then asked “[p]lease
+advise how you wish to respond.” See McCawley Dec. at Exhibit 8. In addition, since Defendant
+filed the instant motion, Ms. Giuffre has discovered an article that refers to a yet another of
+Defendant’s defamatory statements, not previously known to Ms. Giuffre. It is quoted in an
+article from The Sun (online), titled: “Prince Andrew’s pal Ghislaine ‘groped teen girls,’”
+-located at https://www.thesun.co.uk/archives/news/6754/prince-andrews-pal-ghislaine-groped-
+teen-girls/.
+Presumably, if further evidence of the linkages between Defendant and her press agent
+are required, those will be established during the deposition of Gow – which likely explains why
+Defendant has refused to make her press agent available for deposition, forcing Ms. Giuffre to
+resort to the Hague Convention to try to obtain his testimony. See DE 358, this Court’s Issuance
+of a Letter Rogatory.
+Finally, waiting until any summary judgment is decided will effectively make it
+impossible for Ms. Giuffre to investigate financial issues. As things stand now, summary
+judgment motions must be filed by October 28, 2016. Given the ordinary time required for a
+response and a reply – and then a further decision by this Court – very little time would remain
+for the Ms. Giuffre to evaluate and investigate any financial information that might be provided
+by Defendant at that time. Clearly, the better approach is to allow that discovery now. See, e.g.,
+Munoz v. Manhattan Club Timeshare Ass'n, Inc., No. 11-CV-7037 JPO, 2012 WL 479429, at *2
+(S.D.N.Y. Feb. 8, 2012).
+16
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 17 of 22
+III. DISCOVERY OF DEFENDANT’S FINANCIAL INFORMATION SHOULD NOT
+BE CONFINDED TO A NET WORTH STATEMENT.
+Perhaps recognizing that it is inevitable that her financial information will be relevant in
+this case, Defendant makes one last argument that discovery of financial information should be
+“limited to a sworn affidavit of net worth.” DE 370 at 13. Whatever may have been the
+circumstance warranting limitations in other cases, the circumstances here make that approach
+highly inappropriate. Once again, it is important to remember that this is not a case involving,
+for example, a public-traded company with audited financial statements, or a situation involving
+otherwise-incontestable financial information. Cf. Hamm v. Potamkin, No. 98 CIV. 7425
+(RWS), 1999 WL 249721, at *3 (S.D.N.Y. Apr. 28, 1999) (for purposes of pre-trial punitive
+damages discovery, directing corporate defendants “to produce a financial affidavit containing a
+statement of its total net worth and listing its income, assets, and liabilities for the past three
+years”).
+Instead, this case involves a shadowy criminal organization, involving a kingpin with vast
+wealth (Jeffrey Epstein, a reported billionaire), and multi-million dollar transactions to others in
+the organization such as Defendant (e.g., the apparent concealed transfer, through an attorney
+associated with Epstein, of an apartment to Defendant worth, in 2015, $15,000,000). Given the
+strong possibility of wrongdoing lurking here, a mere declaration of net worth promises to be
+next to worthless. To provide a simple example, if Defendant were to testify at trial she had a
+net worth of only ten million dollars – and not provide information about where she had hidden
+the fifteen million dollars associated with the sale of her apartment – then Ms. Giuffre will have
+little effective way to challenge the claim. Moreover, as noted above, the record is replete with
+multiple examples of Defendant failing to recall obvious and highly incriminating facts. Given
+Defendant’s amnesia about important events, it seems obvious that she may similarly be
+17
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 18 of 22
+forgetful about how many assets she has available to satisfy a judgment in this case –
+forgetfulness that can be easily concealed with an unelaborated net worth statement.
+In addition, a net worth statement will not give Ms. Giuffre all the evidence to which she
+is entitled. For example, Defendant has refused to comply with a discovery request seeking
+information about her connection to the Clinton Foundation, claiming that such a request is
+“obviously intended to harass and embarrass” her. DE 370 at 11. Nothing could be further from
+the truth. It is Defendant who intends to argue at trial that Ms. Giuffre has- made inaccurate
+statements about various interactions with former-President Bill Clinton. Of course, if
+Defendant (or any of her organizations) is receiving funding from the Clinton Foundation, that
+would provide a clear motive for her to slant testimony on this subject. Ms. Giuffre is entitled to
+explore this clear possibility of bias by obtaining information of the financial connections
+between Defendant and the Clinton Foundation.
+Indeed, upon information and belief, Defendant owns and controls at least two
+corporations: Ellmax, LLC, and The TerraMar Project. Ms. Giuffre lawfully served both entities
+with a Rule 45 Subpoena requesting documents.13 No response was made by either entity.
+Defendant can use both of these entities as vehicles for hiding her assets.
+Defendant makes no argument that it will be difficult for her to assemble the information
+in question. And given that much of the information requested involves readily accessible
+information (such as a bank statement), no such claim is plausible. Instead, her argument
+ultimately rests that on the claim that the inquiries involve confidential information that is unduly
+intrusive. But at this discovery stage of the proceedings, all of Defendant’s financial information
+can be provided to Ms. Giuffre’s counsel under the protection of the existing Protective Order
+13 See McCawley Dec. at Composite Exhibit 9, Subpoena to Ellmax LLC; Subpoena to The
+TerraMar Project.
+18
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 19 of 22
+(DE 62). As this Court has previously explained, in allowing discovery of financial information
+for punitive damage purposes, “any privacy interests defendants may have in confidential
+financial information produced to plaintiffs can be secured by the protective order issued by this
+Court.” Hamm v. Potamkin, No. 98 CIV. 7425 (RWS), 1999 WL 249721, at *2 (S.D.N.Y. Apr.
+28, 1999). Nothing in Defendant’s motion establishes that Ms. Giuffre should be barred from the
+kinds of ordinarily discovery that often accompanies cases in which the financial dealings of a
+defendant are discoverable.
+This argument is also belied by the fact that Defendant sought, and received, Ms.
+Giuffre’s personal financial information. Specifically, she sought any payment information
+relating to the media. See Defendant’s First Set of Requests for Production at No. 30. Ms.
+-Giuffre provided documents responsive to this request, which included her personal bank
+records. Defendant takes the contradictory and self-serving position that discovery concerning
+the personal finances of Ms. Giuffre is appropriate, yet discovery concerning her own finances is
+somehow inappropriate.
+At the very least, the Defendant should be required to produce a “statement of [her] total
+net worth and listing [her] income, assets, and liabilities for the [relevant] years,” as this Court
+ordered in a previous case. Hamm v. Potamkin, No. 98 CIV. 7425 (RWS), 1999 WL 249721, at
+*3 (S.D.N.Y. Apr. 28, 1999). But because that formulation came from an earlier case involving
+reputable corporate entities with (apparently) audited financial statements, the discovery here
+should be much broader – and should include all of the significant requests made by Ms. Giuffre.
+For example, Defendant should also be required to identify all financial transactions involving
+(directly or indirectly) Jeffrey Epstein, the Clinton Foundation, Ellmax LLC, The TerraMar
+Project, and any other person listed in the Rule 26 disclosures of either side in this case.
+Transactions with potential witnesses in this case are highly relevant to bias and other trial
+19
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 20 of 22
+issues. And because of concern that the Defendant is concealing assets, she should also be
+required to reveal all significant (greater than $10,000) assets or other monetary transfers in since
+the beginning of January 1, 2015, as well as all transfers of assets or money outside of this
+Court’s jurisdiction, including transfers overseas.
+IV. CONCLUSION
+Based upon the foregoing, Ms. Giuffre respectfully requests that this Court deny
+Defendant’s motion for a protective order barring discovery into her financial situation. In a
+contemporaneously-filed motion to compel, Ms. Giuffre also respectfully requests that the Court
+grant a motion to compel Defendant to answer questions about her financial information.
+Dated: August 22, 2016.
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+20
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 21 of 22
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-520214
+14 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+21
+Case 1:15-cv-07433-LAP Document 1328-23 Filed 01/05/24 Page 22 of 22
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on the 22th day of August, 2016, I electronically filed the
+foregoing document with the Clerk of Court by using the CM/ECF system. I also certify that the
+foregoing document is being served this day on the individuals identified below via transmission
+of Notices of Electronic Filing generated by CM/ECF.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email: lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Sigrid S. McCawley
+Sigrid S. McCawley
+22

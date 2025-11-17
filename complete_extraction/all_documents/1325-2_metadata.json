@@ -1,0 +1,146 @@
+{
+  "doc_id": "1325-2",
+  "filename": "1325-2.pdf",
+  "extraction_date": "2025-11-17T10:22:58.528863",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 151137,
+  "images_extracted": 0,
+  "dates_found": 206,
+  "people_found": 266,
+  "locations_found": 5,
+  "linked_emails": [
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0014_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0014"
+    },
+    {
+      "email_file": "0036_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0036"
+    },
+    {
+      "email_file": "0037_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0037"
+    },
+    {
+      "email_file": "0039_Tuesday,10 November2_From-Ross GowJane Doe 2_To-Gmax; PhilipBarden_Fwd_ Inquiryfrom TheNewYorkTimes.txt",
+      "email_id": "0039"
+    },
+    {
+      "email_file": "0040_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0040"
+    },
+    {
+      "email_file": "0041_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0041"
+    },
+    {
+      "email_file": "0048_Tuesday, February 16_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0048"
+    },
+    {
+      "email_file": "0100_untitled_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0100"
+    },
+    {
+      "email_file": "0111_Tuesday, September 8_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0111"
+    },
+    {
+      "email_file": "0112_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0112"
+    },
+    {
+      "email_file": "0118_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0118"
+    },
+    {
+      "email_file": "0120_01_05_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0120"
+    },
+    {
+      "email_file": "0137_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0137"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 122
+    },
+    {
+      "date_string": "3/7/2011",
+      "position": 242
+    },
+    {
+      "date_string": "3/7/2011",
+      "position": 313
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2016
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4619
+    },
+    {
+      "date_string": "3/7/2011",
+      "position": 4734
+    },
+    {
+      "date_string": "3/7/2011",
+      "position": 4833
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 7311
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 9211
+    }
+  ],
+  "people": [
+    "Oo Thu",
+    "Australian Ave",
+    "Secret Sex Lives",
+    "Virginia Giuffre Jane",
+    "Protected Material Page",
+    "Paulo Silva Jane",
+    "The Observer",
+    "Hi Sandra\nHow",
+    "Martin Place",
+    "Sharon Church",
+    "Sharon Churcher\nThis",
+    "Palm Beach Post",
+    "The Total Collapse",
+    "Alan Dcrshowitz",
+    "Jenna\nFrom",
+    "Sharon Churcber",
+    "Sbaron Churcher",
+    "That Is",
+    "Mail On Sunday",
+    "Artists Year Book"
+  ],
+  "locations": [
+    "London",
+    "New York",
+    "Paris",
+    "Florida",
+    "Palm Beach"
+  ],
+  "images": []
+}

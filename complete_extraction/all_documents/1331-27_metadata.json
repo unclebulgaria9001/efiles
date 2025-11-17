@@ -1,0 +1,94 @@
+{
+  "doc_id": "1331-27",
+  "filename": "1331-27.pdf",
+  "extraction_date": "2025-11-17T10:19:30.103643",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 17069,
+  "images_extracted": 0,
+  "dates_found": 39,
+  "people_found": 53,
+  "locations_found": 3,
+  "linked_emails": [
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0105_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0105"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 446
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 644
+    },
+    {
+      "date_string": "10/27/2015",
+      "position": 1721
+    },
+    {
+      "date_string": "4/14/2016",
+      "position": 1781
+    },
+    {
+      "date_string": "5/27/2016",
+      "position": 1841
+    },
+    {
+      "date_string": "5/27/2016",
+      "position": 1892
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2162
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4312
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6276
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8276
+    }
+  ],
+  "people": [
+    "See Lupyan",
+    "The Second Set",
+    "Forex\nTransactions Litig",
+    "Before Mr",
+    "Admissions\nThe First",
+    "Finsbury Circus\nLondon",
+    "Client Communications",
+    "Work Product",
+    "Defendant Ghislaine Maxwell",
+    "Philip Barden\nDevonshires",
+    "First Set",
+    "On January",
+    "Ghislaine Maxwell",
+    "Window Headquarters",
+    "On February",
+    "University Street",
+    "Compel All Work",
+    "Civil Procedure",
+    "Local Civil Rule",
+    "See Doc"
+  ],
+  "locations": [
+    "New York",
+    "United Kingdom",
+    "London"
+  ],
+  "images": []
+}

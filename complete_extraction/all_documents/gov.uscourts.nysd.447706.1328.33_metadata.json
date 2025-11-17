@@ -1,0 +1,48 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.33",
+  "filename": "gov.uscourts.nysd.447706.1328.33.pdf",
+  "extraction_date": "2025-11-17T10:16:46.807954",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "correspondence"
+  ],
+  "text_length": 3728,
+  "images_extracted": 0,
+  "dates_found": 3,
+  "people_found": 5,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0018_date, December 9, 20_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0018"
+    },
+    {
+      "email_file": "0114_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0114"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 141
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1069
+    }
+  ],
+  "people": [
+    "Ross Gow",
+    "Guiffeeagainst Ms",
+    "Best\nRoss",
+    "Jane Doe",
+    "File Under Seal"
+  ],
+  "locations": [],
+  "images": []
+}

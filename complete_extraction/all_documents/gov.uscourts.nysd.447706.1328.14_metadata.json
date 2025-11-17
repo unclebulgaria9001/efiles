@@ -1,0 +1,79 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1328.14",
+  "filename": "gov.uscourts.nysd.447706.1328.14.pdf",
+  "extraction_date": "2025-11-17T10:20:15.047974",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log"
+  ],
+  "text_length": 5621,
+  "images_extracted": 0,
+  "dates_found": 9,
+  "people_found": 15,
+  "locations_found": 4,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 143
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 856
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1844
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2837
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3707
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4659
+    },
+    {
+      "date_string": "June 3, 2016",
+      "position": 434
+    },
+    {
+      "date_string": "June 3, 2016",
+      "position": 434
+    }
+  ],
+  "people": [
+    "Santa Fe",
+    "Notary Public",
+    "Filed Under Seal",
+    "Fort Lauderdale",
+    "Jeffrey Epstein",
+    "Did Jeffrey Epstein",
+    "The Cessna",
+    "Registered\nProfessional Reporter",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
+    "Ghislaine Maxwell",
+    "New Mexico",
+    "Kelli Ann Willis",
+    "Deposition Exhibit"
+  ],
+  "locations": [
+    "New Mexico",
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

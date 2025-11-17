@@ -1,0 +1,49 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.18_1",
+  "filename": "gov.uscourts.nysd.447706.1327.18_1.pdf",
+  "extraction_date": "2025-11-17T10:16:50.977247",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 3439,
+  "images_extracted": 0,
+  "dates_found": 5,
+  "people_found": 8,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 887
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1623
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2549
+    }
+  ],
+  "people": [
+    "Caroly Casey",
+    "Has Already Searched",
+    "Cindy Lopez",
+    "Claire Hazel",
+    "Shelley Harrison",
+    "Search Terms Defendant",
+    "From Plaintiff",
+    "Cheri Lynch"
+  ],
+  "locations": [],
+  "images": []
+}

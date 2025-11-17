@@ -1,0 +1,83 @@
+{
+  "doc_id": "1325-10",
+  "filename": "1325-10.pdf",
+  "extraction_date": "2025-11-17T10:23:00.863390",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 11401,
+  "images_extracted": 0,
+  "dates_found": 16,
+  "people_found": 18,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 142
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 822
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1846
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2901
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 3944
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4714
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 5586
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6651
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 7526
+    }
+  ],
+  "people": [
+    "When Jeffrey Epstein",
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Certified Realtime",
+    "Registered\nProfessional Reporter",
+    "Felicia Esposito",
+    "Podhurst Orseck",
+    "Jeff Pagluica",
+    "Hayley Robson",
+    "Jane Doe",
+    "Ashley Davis",
+    "Tony Figueroa",
+    "Certified Realtime\nReporter",
+    "File Under Seal",
+    "West\nFlagler Street",
+    "Florida\nCommission",
+    "Kelli Ann Willis",
+    "Did Jane Doe"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

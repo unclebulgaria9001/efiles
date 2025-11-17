@@ -1,0 +1,114 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.22_1",
+  "filename": "gov.uscourts.nysd.447706.1330.22_1.pdf",
+  "extraction_date": "2025-11-17T10:17:43.786727",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 25816,
+  "images_extracted": 0,
+  "dates_found": 59,
+  "people_found": 50,
+  "locations_found": 1,
+  "linked_emails": [
+    {
+      "email_file": "0010_1_From-Jenna_To-Sharon.Churcher_RE_ Re_.txt",
+      "email_id": "0010"
+    },
+    {
+      "email_file": "0049_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0049"
+    },
+    {
+      "email_file": "0105_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0105"
+    },
+    {
+      "email_file": "0106_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0106"
+    },
+    {
+      "email_file": "0107_Tuesday,July19,20161_From-LauraMenninger_To-'MeredithSchultz'_RE_Giuffre- Conferralregardingsearchterm.txt",
+      "email_id": "0107"
+    },
+    {
+      "email_file": "0108_Friday, February 09,_From-5arah Ransome (mailto__To-Pumla Griszell Sent_ Frid_RE_ FIT website.txt",
+      "email_id": "0108"
+    },
+    {
+      "email_file": "0109_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0109"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 124
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1230
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2789
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5625
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6947
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7773
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8654
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10041
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11290
+    }
+  ],
+  "people": [
+    "Philip Barden\nSent",
+    "Media Limited",
+    "The Guardian",
+    "Jane Does",
+    "Had Geordie",
+    "Ross Go\nSubject",
+    "Solicitors Regulation Authority",
+    "Either Virginia Roberts",
+    "Guardian\nSo",
+    "Ross\nAs",
+    "Gmax\nAsk",
+    "The\nTimes",
+    "Theatre Royal Stratford",
+    "Ms Maxwell",
+    "On Fri",
+    "England Number",
+    "This Firm",
+    "Devonshires Solicitors",
+    "Finsbury Circus",
+    "Senior Clerk"
+  ],
+  "locations": [
+    "London"
+  ],
+  "images": []
+}

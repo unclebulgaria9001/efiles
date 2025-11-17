@@ -1,0 +1,91 @@
+{
+  "doc_id": "1320-27",
+  "filename": "1320-27.pdf",
+  "extraction_date": "2025-11-17T10:20:38.395794",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 26549,
+  "images_extracted": 0,
+  "dates_found": 31,
+  "people_found": 58,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1526
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1634
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2053
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2869
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 5923
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 8467
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 10594
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 13596
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 15864
+    }
+  ],
+  "people": [
+    "Yet Defendant",
+    "David Boies\nBoies",
+    "Quinney College",
+    "President Clinton",
+    "Respectfully Submitted",
+    "North Andrews Avenue",
+    "Ghislaine Maxwell",
+    "See Motion",
+    "The Second Circuit",
+    "President Bill Clinton",
+    "Rinaldo Rizzo",
+    "William\nJefferson Clinton",
+    "Prince Andrew",
+    "Final Dep",
+    "Ghislaine\nMaxwell",
+    "Court\nSouthern District",
+    "Second Circuit",
+    "See Fed",
+    "That Ms",
+    "Deposition Limit"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

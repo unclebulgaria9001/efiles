@@ -1,0 +1,98 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.6_1",
+  "filename": "gov.uscourts.nysd.447706.1330.6_1.pdf",
+  "extraction_date": "2025-11-17T10:17:53.360877",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 16358,
+  "images_extracted": 0,
+  "dates_found": 14,
+  "people_found": 36,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt",
+      "email_id": "0075"
+    },
+    {
+      "email_file": "0076_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0076"
+    },
+    {
+      "email_file": "0094_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0094"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 122
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2188
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4870
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6871
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9323
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12220
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14671
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15233
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 15751
+    }
+  ],
+  "people": [
+    "Information\nAct",
+    "Adriana Ross",
+    "Palm Beach Cowity",
+    "State Attomc",
+    "Diaaict Court",
+    "States Attorney",
+    "United States Attomcy",
+    "Federal Bureau",
+    "United State",
+    "Criminal Procedure",
+    "Ill\nIll\nPage",
+    "Non\nProsecutioa Apcment",
+    "State\nAttomoy",
+    "Fifth Amendment",
+    "Alexander Acosta",
+    "Sarah Kellen",
+    "Non\nProsecution Agreement",
+    "Lesley Oro",
+    "Case No",
+    "United States\nCode"
+  ],
+  "locations": [
+    "Florida",
+    "Palm Beach"
+  ],
+  "images": []
+}

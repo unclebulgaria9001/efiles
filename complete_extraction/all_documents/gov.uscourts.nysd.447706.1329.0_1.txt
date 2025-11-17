@@ -1,0 +1,81 @@
+# Document: gov.uscourts.nysd.447706.1329.0_1.pdf
+# Extraction Method: pdfplumber
+# Document Types: legal_document
+# Images Extracted: 0
+# Dates Found: 2
+# People Found: 12
+# Locations Found: 1
+# Linked Emails: 0
+
+================================================================================
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+VIRGINIA GIUFFRE,
+Plaintiff,
+15 Civ. 7433 (LAP)
+-against-
+ORDER
+GHISLAINE MAXWELL,
+Defendant.
+LORETTA A. PRESKA, Senior United States District Judge:
+Before the Court are letter-motions filed by Intervenors
+Julie Brown and Miami Herald Media Company, (dkt. no. 1321), and
+Intervenor Alan Dershowitz, (dkt. no. 1323), seeking to unseal in
+part docket entry 1026-3 to disclose the identities of the Jane
+and John Does. For the reasons set forth below, the letter-motions
+to unseal docket entry 1026-3 are DENIED.
+First, docket entry 1026-3 is not an accurate list of
+non-party names. Since this filing, the parties have provided the
+Court with an updated list of non-party names (“Document”), and
+disclosure of docket entry 1026-3, which is now outdated, would
+therefore compound, not “avoid,” the “spread of incorrect
+information.” (See dkt. no. 1321 at 2.)
+Second, even so, the privacy interests at stake outweigh any
+presumption of public access to the Document. The public does not
+have an absolute right to access and inspect court documents;
+rather, courts may exercise their supervisory power to ensure that
+records are not used as “vehicle[s] for improper purposes,”
+including, for example, “to promote public scandal.” See Nixon v.
+Warner Commc’ns, Inc., 435 U.S. 589, 598 (1978); see also Brown v.
+Maxwell, 929 F.3d 41, 51 (2d Cir. 2019) (explaining the same).
+This Document is akin to a summary exhibit under Federal Rule of
+Evidence 1006 — a mere aid prepared by the parties to assist the
+Court in carrying out its work. It includes the Does’ names,
+pseudonyms, home addresses, and the document(s) in which each Doe
+appears. Importantly, the underlying documents, akin to the
+evidence, have already been ordered unsealed with respect to most
+of the Does.1 (See dkt. no. 1315.) Moreover, the Court’s
+December 18 Order set forth an anonymized list of Does, the
+documents in which each appears, and the Court’s reasoning for
+granting or denying unsealing. Thus, disclosing the Document will
+contribute nothing to the public’s information that is not already
+knowable from the underlying documents and the Court’s December 18
+Order.
+At the same time, unsealing the Document poses a danger to
+the privacy interests of the parties whose identities the Court
+has declined to unseal. Even if those Does’ names were redacted
+in an unsealed version of the Document, the alphabetical order of
+1 With respect to the remaining Does, the Court has explained its
+reasons for declining to unseal their names, and any party
+dissatisfied with those reasons can appeal to the Court of Appeals.
+2
+the list could easily lead to speculation about the identities of
+the as-yet-unnamed Does. This outcome is particularly likely in
+the wake of the recent media frenzy about some supposed “Epstein
+List” and the mass speculation about the identities of those on
+it. The Document includes minor victims, health care providers,
+members of law enforcement, and mere bystanders who have not sought
+publicity on these matters, and the Court has already found that
+their privacy interests outweigh any presumption of public access.
+Those same reasons for denying unsealing continue to apply and to
+outweigh the public’s interest in this Document.
+Accordingly, the letter-motions to unseal in part docket
+entry 1026-3 (dkt. nos. 1321, 1323) are DENIED.
+SO ORDERED.
+Dated: January 5, 2024
+New York, New York
+___________________________________
+LORETTA A. PRESKA
+Senior United States District Judge
+3

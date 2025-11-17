@@ -1,0 +1,46 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.24",
+  "filename": "gov.uscourts.nysd.447706.1331.24.pdf",
+  "extraction_date": "2025-11-17T10:19:10.260293",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "email"
+  ],
+  "text_length": 1109,
+  "images_extracted": 0,
+  "dates_found": 2,
+  "people_found": 12,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0009_Thursday, June 16, 2_From-Meredith Schultz_To-Laura Menninger (lmenning_Proof of Service - Second Email.txt",
+      "email_id": "0009"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 141
+    }
+  ],
+  "people": [
+    "Philip Barde\nSubject",
+    "Victoria Roberts",
+    "Forw\nFrom",
+    "Ms Robert",
+    "Ms Roberts",
+    "Philip Barden",
+    "Jane Doe",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "Virginia Roberts",
+    "Alan Oerschwitz",
+    "Ross Gow\nCc"
+  ],
+  "locations": [],
+  "images": []
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "1325-16",
+  "filename": "1325-16.pdf",
+  "extraction_date": "2025-11-17T10:22:35.182483",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "legal_document"
+  ],
+  "text_length": 2289,
+  "images_extracted": 0,
+  "dates_found": 6,
+  "people_found": 19,
+  "locations_found": 1,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 1354
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 1423
+    },
+    {
+      "date_string": "July 8, 2016",
+      "position": 1451
+    },
+    {
+      "date_string": "July 8, 2016",
+      "position": 1551
+    },
+    {
+      "date_string": "July 8, 2016",
+      "position": 1451
+    },
+    {
+      "date_string": "July 8, 2016",
+      "position": 1551
+    }
+  ],
+  "people": [
+    "University Street",
+    "Nicole Simmons\nNicole",
+    "Menninger In Support",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "Protective Order",
+    "United States District",
+    "Salt Lake City",
+    "South Salem",
+    "Twin Lakes Rd",
+    "Of\nReply",
+    "East Las Olas",
+    "Declaration Of Laura",
+    "North Andrews Ave",
+    "Menninger\nLaura",
+    "Defendant\nGhislaine Maxwell",
+    "Motion To Reopen",
+    "Anthony Figuera",
+    "Of Reply"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "images": []
+}

@@ -1,0 +1,96 @@
+{
+  "doc_id": "1320-10",
+  "filename": "1320-10.pdf",
+  "extraction_date": "2025-11-17T10:22:14.015175",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log",
+    "financial"
+  ],
+  "text_length": 51359,
+  "images_extracted": 0,
+  "dates_found": 96,
+  "people_found": 122,
+  "locations_found": 6,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1194
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3617
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3826
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4828
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 7077
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 10757
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 12886
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 14955
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 16794
+    }
+  ],
+  "people": [
+    "Eva Dubin",
+    "Email Correspondence",
+    "Manhattan\nTownhouse",
+    "Maxwell Depo",
+    "Dave Rogers",
+    "David Copperfield",
+    "Court\nSouthern District",
+    "Police Chief",
+    "Laura\nMenninger",
+    "Johannasaid Defendant",
+    "University St",
+    "Sworn Statement",
+    "Law\nUniversity",
+    "Depositions Taken Thus",
+    "Johannasaid Copperfield",
+    "Memorial Day",
+    "Juan\nAlessi",
+    "Avenue\nDenver",
+    "Detective Recarey",
+    "Emmy Taylor"
+  ],
+  "locations": [
+    "London",
+    "New York",
+    "New Mexico",
+    "Florida",
+    "Palm Beach",
+    "Manhattan"
+  ],
+  "images": []
+}

@@ -1,0 +1,67 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.25",
+  "filename": "gov.uscourts.nysd.447706.1331.25.pdf",
+  "extraction_date": "2025-11-17T10:18:51.809077",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 4906,
+  "images_extracted": 0,
+  "dates_found": 6,
+  "people_found": 9,
+  "locations_found": 2,
+  "linked_emails": [
+    {
+      "email_file": "0011_01_04_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0011"
+    },
+    {
+      "email_file": "0116_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0116"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 141
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1571
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3173
+    },
+    {
+      "date_string": "November 18, 2016",
+      "position": 1077
+    },
+    {
+      "date_string": "November 18, 2016",
+      "position": 1077
+    }
+  ],
+  "people": [
+    "Essex Chambers",
+    "Court Reporter",
+    "Lisa Barrett",
+    "Accredited Real",
+    "Claim No",
+    "Case No",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "Chancery Lane"
+  ],
+  "locations": [
+    "New York",
+    "London"
+  ],
+  "images": []
+}

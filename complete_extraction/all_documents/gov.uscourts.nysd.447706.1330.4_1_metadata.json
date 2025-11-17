@@ -1,0 +1,112 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1330.4_1",
+  "filename": "gov.uscourts.nysd.447706.1330.4_1.pdf",
+  "extraction_date": "2025-11-17T10:18:13.768024",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial",
+    "correspondence"
+  ],
+  "text_length": 56824,
+  "images_extracted": 0,
+  "dates_found": 71,
+  "people_found": 158,
+  "locations_found": 6,
+  "linked_emails": [
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    },
+    {
+      "email_file": "0041_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0041"
+    },
+    {
+      "email_file": "0071_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt",
+      "email_id": "0071"
+    },
+    {
+      "email_file": "0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt",
+      "email_id": "0072"
+    },
+    {
+      "email_file": "0165_01_03_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0165"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1590
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3647
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5629
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7752
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 10189
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 12060
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 14476
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 16534
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 19372
+    }
+  ],
+  "people": [
+    "Vice President Gore",
+    "When Mr",
+    "The Palm Beach",
+    "Giuffre Lacks Credibility",
+    "The Josefsberg",
+    "Stephen Kosslyn",
+    "Telephone Interview",
+    "See Cassell Decl",
+    "Without\nJeffrey",
+    "New Mexico Bill",
+    "Tatiana Kovylina",
+    "Christophe Gaie",
+    "The Allegation That",
+    "Department Report",
+    "The Independent",
+    "The Gores",
+    "David Copperfield",
+    "Cassell Declaration",
+    "Jack Scarola",
+    "Reply Declaration"
+  ],
+  "locations": [
+    "New York",
+    "New Mexico",
+    "Florida",
+    "Virgin Islands",
+    "Palm Beach",
+    "Little St. James"
+  ],
+  "images": []
+}

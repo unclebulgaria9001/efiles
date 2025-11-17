@@ -1,0 +1,805 @@
+# Document: 1325-7.pdf
+# Extraction Method: pdfplumber
+# Document Types: deposition, legal_document, financial
+# Images Extracted: 0
+# Dates Found: 91
+# People Found: 159
+# Locations Found: 2
+# Linked Emails: 10
+
+================================================================================
+
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 1 of 30
+United States District Court
+Southern District of New York
+Virginia L. Giuffre,
+Plaintiff, Case No.: 15-cv-07433-RWS
+v.
+Ghislaine Maxwell,
+Defendant.
+________________________________/
+PLAINTIFF’S RESPONSE IN OPPOSITION TO DEFENDANT’S MOTION FOR
+DEFENDANT’S RULE 37(b) &(c) SANCTIONS FOR FAILURE TO COMPLY WITH
+COURT ORDER AND FAILURE TO COMPLY WITH RULE26(a)
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 2 of 30
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORTIES...........................................................................................................ii
+INTRODUCTION..........................................................................................................................1
+FACTUAL BACKGROUND.........................................................................................................2
+I. MEDICAL PROVIDER IDENTITIES................................................................................2
+II. MEDICAL RECORDS........................................................................................................7
+-
+A. Dr. Donahue............................................................................................................9
+B. Dr. Hayek................................................................................................................9
+C. Dr. Kutikoff, Wellington Imaging Associates (“Wellington Imaging”) , and
+Growing Together.................................................................................................10
+-
+D. Ms. Lightfoot........................................................................................................10
+E. Dr. Olson...............................................................................................................11
+III. MS. GIUFFRE HAS PROVIDED DISCOVERY IN ACCORDANCE WITH HER
+DISCOVERY OBLIGATIONS.........................................................................................12
+IV. DEFENDANT CAN SHOW NO PREJUDICE................................................................13
+V. MS. GIUFFRE HAS BEEN FULLY COMPLIANT IN DISCOVERY...........................15
+LEGAL ARGUMENT..................................................................................................................17
+I. DEFENDANT CANNOT SHOW NON-COMPLIANCE, AND HAS PUT FORTH
+NO COLORABLE LEGAL ARGUMENT FOR SANCTIONS.......................................17
+II. THERE WAS NO INFORMATION “WITHHELD”, AND THEREFORE, NO
+PREJUDICE......................................................................................................................19
+III. MS. GIUFFRE HAS FULFILLED HER REQUIREMENTS REGARDING HER
+RULE 26 DISCLOSURES................................................................................................19
+IV. THIS COURT SHOULD NOT STRIKE MS. GIUFFRE’S CLAIMS FOR
+MEDICAL AND EMOTIONAL DISTRESS DAMAGES...............................................22
+CONCLUSION.............................................................................................................................23
+i
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 3 of 30
+TABLE OF AUTHORITIES
+Page
+Cases
+Candelaria v. Erickson,
+2006 WL 1636817 (S.D.N.Y. 2006)........................................................................................12
+Celle v. Filipino Reporter Enters. Inc.,
+209 F.3d 163 (2d Cir.2000)......................................................................................................20
+Design Strategy, Inc. v. Davis,
+469 F.3d 284 (2d Cir. 2006).....................................................................................................14
+Gurvey v. Cowan, Liebowitz & Lathman, P.C.,
+2014 WL 715612 (S.D.N.Y. 2014)..........................................................................................18
+In re Consol. RNC Cases,
+2009 WL 130178 (S.D.N.Y. Jan. 8, 2009).........................................................................22, 23
+In re Dana Corp.,
+574 F.3d 129 (2d Cir. 2009).......................................................................................................6
+In re Weiss,
+703 F.2d 653 (S.D.N.Y. 1983).................................................................................................18
+Murray v. Miron,
+2015 WL 4041340 (D. Conn., July 1, 2015)...........................................................................21
+Naylor v. Rotech Healthcare, Inc.,
+679 F. Supp. 2d 505 (D. Vt. 2009).....................................................................................20, 21
+Nittolo v. Brand,
+96 F.R.D. 672 (S.D.N.Y.1983).................................................................................................22
+Robertson v. Dowbenko,
+443 F. App'x 659 (2d Cir. 2011)..............................................................................................20
+Scheel v. Harris,
+No. CIV.A. 3:11-17-DCR, 2012 WL 3879279 (E.D. Ky. Sept. 6, 2012)................................21
+Skywark v. Isaacson,
+1999 WL 1489038 (S.D.N.Y. Oct. 14, 1999)...........................................................................22
+ii
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 4 of 30
+-
+R
+-
+u
+-
+le
+-
+s
+Fed. R. Civ. P. 26...................................................................................................................passim
+Fed. R. Civ. P. 26(a).................................................................................................................1, 19
+Fed. R. Civ. P.26(a)(1).................................................................................................................21
+Fed. R. Civ. P.26(a)(1)(A)(iii).....................................................................................................21
+Fed. R. Civ. P. 26(a)(5)...................................................................................................................6
+Fed. R. Civ. P.37....................................................................................................................18, 24
+Fed. R. Civ. P.37(b) & (c).............................................................................................................1
+Fed. R. Civ. P. 37(c)(1).................................................................................................................21
+iii
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 5 of 30
+INTRODUCTION
+As more and more witnesses come forward testifying about Defendant’s involvement in
+the sexual abuse of younggirls, Defendant’s discovery arguments have become more removed
+from the merits of this case and increasingly strident intheir tone. The latest example of this
+genre is the instant motion in which the Defendant boldly proclaims that Ms. Giuffre is “playing
+a game of catch and release” by deliberately “withholding information” regarding her medical
+care. Yet the basis for these strong charges turns out to be nothing more than the fact that, when
+asked to produce a listing of medical care providers that Ms. Giuffre has seen in the last
+seventeen years – during a period of time when she lived in Australia, then Florida, then
+Colorado, finally returning to Australia –she was unable to recall all of the providers. Ms.
+Giuffre and her attorneys have worked diligently to provide this listing to Defendant and, as new
+information has become available,oras Ms. Giuffre has been able to recall another provider, the
+information has been disclosed. Indeed, Ms. Giuffre signed every medical records release that
+Defendant requested. There has been no deliberate “withholding” of information, much less
+withholding of information that would warrant the extreme sanction of precluding Ms. Giuffre
+from presenting her claims to a jury.
+Moreover, this baseless motion for sanctions comes on the heels of disturbing testimony
+corroborating what lies at the core of this case –Defendant was involved in facilitating the sexual
+abuse of young girls with Jeffrey Epstein. One witness, RinaldoRizzo, was intears as he
+recounted Defendant bringing a 15-year-old girl to his employer’s home who, in utmost distress,
+told him that Defendant stole the young girl’s passport and tried to make her have sex with
+1
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 6 of 30
+Epstein, and then threatened her.1
+Another witness, Joanna Sjoberg, testified that Defendant recruited her
+from her school campus to have sex with Epstein with lies about being her personal assistant.3
+Two other witnesses, one an underage victim ( ) and the other, the police detective
+who ultimately ended up investigating Epstein (Detective Joseph Recarey, Retired), gave
+testimony about how Epstein used other women to recruit minors to have sex with him.4 Most
+recently, a witness testified that Defendant would call him and ask him to bring over young girls
+that she would provide to Epstein. See McCawley Decl. at Exhibit 9,ROUGH Deposition
+Transcript of Tony Figueroa at 162:8-19. Itis against this backdrop that Defendant has filed a
+motion seeking sanctions. The motion is a transparent effort to deflect attention from the merits
+of Ms. Giuffre’s claim by inventing “willful” discovery violations and should be rejected in its
+entirety.
+FACTUAL BACKGROUND
+I. MEDICAL PROVIDER IDENTITIES
+As the Court is aware, Defendant has requested that Ms. Giuffre provide the names and
+medical records of every medical provider she has ever had, for any type of treatment, since
+1999. This would be no easy task for anyone, and Ms. Giuffre has had many medical providers
+1 See McCawley Decl. at Exhibit 1, Excerpts from the June 10, 2016 Deposition of Rinaldo
+Rizzo.
+2 Id.
+3 See McCawley Decl. at Exhibit 2, Excerpts from the May 18, 2016 Deposition of Joanna
+Sjoberg.
+4 See McCawley Decl. at Exhibits 3 and 4, Excerpts from the June 20, 2016 Deposition of
+and Excerpts from the June 21, 2016 Deposition of Joseph Recarey.
+2
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 7 of 30
+in multiple locations. So she and her legal counsel have worked diligently to track them down
+through a search that has spanned nearly two decades and two continents.
+Ms. Giuffre made her initial disclosures on this subject in an answer to an interrogatory
+that she served on April 29, 2016. Ms. Giuffre listed 15health care providers that she could
+recall at the time. Four days later, on May 3, 2016, Defendant deposedMs. Giuffre. During the
+deposition, Ms. Giuffre’s memory was jogged and she was able to recall two additional
+providers: JudithLightfoot and Dr. Christopher Donahue.5
+Defendant, however, seeks to magnify the innocent recollection of two additional
+providers at Ms. Giuffre’ deposition by misleadingly claimingthat “[i]t is only through
+deposition testimony that Ms. Maxwell became aware of at least five- if not more - treating
+health care physicians.” (Mtn. at 1). This claim, too,is inaccurate. Beyond Ms. Lightfoot and
+Dr. Donahue,Defendant apparently adds to the list of “withheld” doctors by referring totreating
+physicianswho cared for Ms. Giuffre on a one-off basis in the Emergency Room. It is
+unsurprisingthat a patient wouldhave troublerememberingan emergency room physician’s
+name. But the real point here is that, in any event, the information was disclosed through
+documents produced,so there is absolutely no “failure to disclose” as Defendant wrongfully
+alleges. See Centura Health Records (GIUFFRE005498-005569).
+Defendant then states that, in her deposition, “Ms. Giuffre claims she was not treated by
+any other physicians,” and then states that other records revealed “three additional health care
+5 Defendant’s argument that Ms. Giuffre was trying to “hide” these providers is illogical and
+wholly contradicted by the fact that Ms. Giuffre disclosed these providers. Defendant never
+explains how Ms. Giuffre can be “hiding” providers while testifying about them and producing
+their records.
+3
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 8 of 30
+professionals who treated Plaintiff, including Dr. Scott Robert Geiger, Dr. Joseph Heaney,6 and
+Donna Oliver P.A.” (Mtn. at 4, emphasis original).
+Defendant is trying to make it seem as if Ms. Giuffre deliberately hid the names of
+treating physicians in the Emergency Room. As stated above, Ms. Giuffre produced these
+records so she is clearly not hiding anything. Not learning, not knowing, or not remembering off
+the top of one’s head the names of Emergency Room staff encountered during a medical
+emergency is not only unsurprising and understandable, but is also not a discovery violation.
+.
+Here, Defendant attempts to make something out of nothing. This is particularly true as
+Ms. Giuffre made these records available to Defendant. As evidenced by the details recounted
+in Defendant’s brief, Ms. Giuffre produced these Emergency Room records to Defendant, and
+therefore, she is wholly compliant in her discovery obligations.7
+7 Indeed, Ms. Giuffre did not merely sign releases for the release of these records, but Ms.
+Giuffre’s counsel spent considerable time and effort in attempts to procure these records for
+Defendant, as detailed in Ms. Giuffre’s counsel’s correspondence. See McCawley Decl. at
+Composite Exhibit 5, May 2016 Emails from Meredith Schultz to Laura Menninger.
+4
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 9 of 30
+Additionally, Defendant’s motion lists 15 providers8 Ms. Giuffre gave to Defendants in
+her interrogatories (Mtn. at 3), but then states that “Plaintiff failed therein to identify any
+treatment providers prior to the alleged defamation, despite the Court’s order concerning 1999-
+2015.” (Mtn. at 4). This statement, too, is wildly incorrect. Of the list of 15 providers, the
+overwhelming majority of them are providers “prior to the alleged defamation.”9 For example,
+Ms. Giuffre produced records from N.Y.Presbyterian Hospital. (GIUFFRE003258-3290). Not
+only do the dates on the records (e.g., July 9, 2001) demonstrate they are prior to the defamation,
+but Defendant has independent knowledge that this provider pre-dates Defendant’s defamation.
+Indeed, Defendant is the one who brought her to that hospital, while she was a minor.
+Therefore, Defendant’s statement in her brief that “Plaintiff failed therein to identify any
+treatment providers prior to the alleged defamation, despite the Court’s order concerning 1999-
+2015” (Mtn. at 4) is inaccurate.
+Defendant continues with another misleading statement: “As of today’s date . . . and 10
+days before the end of fact discovery in this case, Ms. Maxwell has learned of at least five
+additional doctors” (Mtn. at 5), and then, again, names Ms. Lightfoot, Dr. Geiger, Dr. Heaney,
+Donna Oliver P.A., and Dr. Streeter. Defendant did not learn of these providers 10 days prior to
+the close of discovery, but much earlier, as the previous page of Defendant’s brief recounts.
+8 (1) Dr. Steven Olson; (2) Dr. Chris Donahue; (3) Dr. John Harris; (4) Dr. Majaliyana; (5) Dr.
+Wah Wah; (6) Dr. Sellathuri; (7) Royal Oaks Medical Center; (8) Dr. Carol Hayek; (9) NY
+Presbyterian Hospital; (10) Campbelltown Hospital; (11) SydneyWest Hospital; (12) Westmead
+Hospital; (13) Dr. Karen Kutikoff; (14) Wellington Imaging Associates; (15) Growing Together.
+9 Providers from that list that treated Ms. Giuffre prior to Defendant’s defamationinclude: (1)
+Dr. John Harris; (2) Dr. Majaliyana; (3) Dr. Majaliyana; (4) Dr. Wah Wah; (5) Dr. Sellathrui; (6)
+Royal Oaks Medical Center; (7) Dr. Carol Hayek; (8) NY Presbyterian Hospital; (9) Sydney
+West Hospital; (10) Westmead Hospital; (12) Wellington Imaging Associates; (13) Growing
+Together.
+5
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 10 of 30
+Defendant’s next statement is equally misleading “documents relating to these doctors
+were not provided until after their identities became known throughdeposition or other
+independent investigation by Ms. Maxwell.” (Mtn. at 5). Their identities became known to
+Defendant because Ms. Giuffre disclosed the name of Ms. Lightfoot in her deposition, and
+because Ms. Giuffre herself produced emergency room records to Defendant –documents
+bearing the names of the other providers. Accordingly, these five additional names were
+providedto Defendant by Ms. Giuffre herself,through (1) her deposition testimony; and (2) her
+document production.
+Defendant is now asking this Court to enter extraordinary sanctions because those names
+were not provided in response to an interrogatory, but, instead, were provided through Ms.
+Giuffre’s testimony and Ms. Giuffre’s document production. This is an improper request. It is
+unsurprising that Defendant cannot cite to a single case in which any type of sanctions were
+awarded under even remotely similar circumstances. Indeed, the purpose of the various aspects
+of discoveryprovided by Rule 26(a)(5), Fed.R.Civ.P.,is to provide more fulsome information.
+C.f. In re Dana Corp., 574 F.3d 129, 150 (2d Cir. 2009) (“the various discovery methods are
+more complementary than fungible”). Here, Ms. Giuffre provided her medical information
+through interrogatory response, through testimony, and through document production. Ms.
+Giuffre has met her obligation under both this Court’s Order and Rule 26.There has been no
+failure to disclose: Ms. Giuffre provided the names and testified about her treatment.
+Accordingly, this motion should be denied in its entirety.
+II. MEDICAL RECORDS
+Defendant states that Plaintiff has failed to produce any records from (a) Dr. Donahue,
+(b) Dr. Hayek, (c) Dr. Kutikoff, (d) Wellington Imaging Assocs., (e) Growing Together, (f) post
+6
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 11 of 30
+2011 records from Ms. Lightfoot, and (g) the remaining documents for treatment by Dr. Olson.
+(Mtn. at 5). This is also incorrect. There has been no “failure,” as discussed, in turn,below.
+Moreover, if records from any providers have not been produced, it is not Ms. Giuffre’s
+“failure,” but rather, the failure of the providers, particularly as Ms. Giuffre has executed releases
+for her records from all these providers. Ms. Giuffre and her counsel have been diligent in
+compiling nearly two decades of medical records from various states and countries. The chart
+below provides an overview the efforts undertaken by Ms. Giuffre and the production to
+Defendant as a result.
+MEDICAL HEALTHCARE ACTION
+RELATED GIUFFRE PRODUCTION
+PROVIDER PROVIDED TAKEN
+-
+Giuffre 005342-005346 St. Thomas More
+3/8/16
+Hospital Records (Dr. Olsen)
+Dr. Olsen Primary Care Physician Letter
+Giuffre 005492-005496 St. Thomas More
+Request
+Hospital Records (Dr. Olsen)
+Giuffre 005498 Centura Health Release
+5/23/16
+Centura Form (All Medical Records)
+Letter
+Health Giuffre 005501-005569 Responsive
+Request
+Records (Centura Health)
+-
+3/8/16 Ltr
+Request
+Dr. Carol Giuffre and counsel contacted physician’s
+Psychiatrist 4/28/16
+Hayek office via telephone and email to follow up.
+Ltr
+Request
+Dr. Chris 4/5/16 Ltr
+Giuffre 006631-006635 (Dr. Donahue)
+Donahue Request
+Giuffre 005315005322The Entrance
+Dr. John
+4/5/16 Ltr Medical Centre
+Harris/Dr.
+Request (Dr. John Harris and Dr. Darshanee
+Majliyana
+Mahaliyana)
+4/5/16 Ltr Giuffre 005339005341Central Coast
+Dr. Wah Wah
+Request Family Medicine (Dr. Wah Wah)
+4/5/16 Ltr
+Dr. Sellathuri Giuffre 005089005091(“Dr. M. Sella”)
+Request
+Royal Oaks Has no treatment records 4/5/16 Ltr Giuffre 005347005349Royal Oaks
+7
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 12 of 30
+MEDICAL HEALTHCARE ACTION
+RELATED GIUFFRE PRODUCTION
+PROVIDER PROVIDED TAKEN
+Medical Request Medical Center’s Response (No Records)
+Center
+NY
+Giuffre 003258003290 New York
+Presbyterian Produced
+Presbyterian Hospital
+Hospital
+Campbelltown Giuffre 003193003241Camselltown
+Hospital/ Hospital/Camden Hospital (Dr. Elbeaini)
+Produced
+Sydney West - =Giu=ffre =003=242=003=257=M=acar=thur= He-alt-h
+Hospital Service (Dr. Elbeaini)
+-
+Sydney West
+Hospital / Giuffre 003291-003298 Sydney
+Produced
+Westmead West/Westmead Hospital
+Hospital
+Release
+Provided
+Dr. Karen 04/29/16 Sent via e-mail signed release to
+to
+Kutikoff Menninger (obtain records directly).
+Defendant
+’s Counsel
+Release
+Wellington Provided
+04/29/16 Sent via e-mail signed release to
+Imaging to
+Menninger (obtain records directly).
+Associates Defendant
+’s Counsel
+Release
+Provided
+Growing 04/29/16 Sent via e-mail signed release to
+to
+Together Menninger (obtain records directly).
+Defendant
+’s Counsel
+Giuffre 005431-005438 MedicalRelease
+Ms. Judith 5/4/16 Ltr Form with documents (Ms. Lightfoot)
+Psychologists
+Lightfoot Request Giuffre 006636 Correspondence stating no
+further records available.
+ER Giuffre 005498-005569 Centura Health
+Dr. Scott
+Treating Medical Release Form
+Robert Geiger
+Physician (Requested Entire Medical Record)
+ER Giuffre 005498-005569 Centura Health
+Dr. Joseph
+Treating Medical Release Form
+Heaney
+Physician (Requested Entire Medical Record)
+ER
+Treating Giuffre 005498-005569 Centura Health
+Donna Oliver,
+Physician Medical Release Form
+PA
+Referral (Requested Entire Medical Record)
+ENT
+ER Giuffre 005498-005569 Centura Health
+Dr. Michele
+Treating Medical Release Form
+Streeter
+Physician (Requested Entire Medical Record)
+8
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 13 of 30
+Accordingly, as the Court cansee with reference to the Bates labels in the above chart, Ms.
+Giuffre has be compliant in producing her medical records. Indeed, she has signed releases for
+all records requested by Defendant, and has produced all records released by the providers. In
+addition to signing all releases for medical providers requested by Defendant, the work
+associated with compiling the records and following up with providers (as shown by the above
+chart) clearly demonstrates Ms. Giuffre’s good faith and persistence in her deliberate and
+thorough pursuit of providing Defendant with her medical records. That is reason alone to deny
+Defendant’s unsupported request for sanctions.
+A. Dr. Donahue
+Plaintiff dutifully signed a release for medical records and provided it to Dr. Donahue on
+April 5, 2016,and sent a copy to the Defendant so counsel was on notice of the efforts being
+taken to secure medical records. SeeMcCawley Decl. at Composite Exhibit 6,Dr. Donahue
+letter and Release Form. Ms. Giuffre’s counsel has received records from Dr. Donahue since the
+Defendant filedthe instant motion, and immediately provided those records to Defendant. See
+chart above, GIUFFRE00006631-006635.
+B. Dr. Hayek
+Dr. Hayek treated Ms. Giuffre over seven years ago. Ms. Giuffre signed a release form
+for Dr. Hayek’s records, sent the release formon March 8, 2016, and provided a copy of the
+form to Defendant. Having not received any records, the undersigned sent a follow-up letter to
+Dr. Hayek on April 28, 2016,to request the records. Upon information and belief, Dr. Hayek
+does not keep patient’s medical records for longer than seven years, and, therefore, no longer has
+any records pertaining to Ms. Giuffre. Ms. Giuffre and her counsel havemade inquiries to Dr.
+9
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 14 of 30
+Hayek’s office via telephone and email, but, to date, have not received any response. Again, Ms.
+Giuffre has no input on Dr. Hayek’s document retention policies, and therefore, the lack of
+production of records from Dr. Hayek cannot be attributed to Ms. Giuffre.
+C. Dr. Kutikoff, Wellington Imaging Associates (“Wellington Imaging”) , and
+Growing Together
+Plaintiff provided Defendant’s counsel executed medical release forms for Dr. Kutikoff,
+Wellington Imaging, and Growing Together onApril 29, 2016. See McCawley Decl. at
+Composite Exhibit 7. Accordingly, Ms. Giuffre has no direct knowledge as to what, if anything,
+these three providers produced to Defendant’s counsel. Ms. Giuffre has done everything in her
+power to make them available to Defendant, a fact that Defendant cannot dispute. Again, there
+has been no “failure” by Ms. Giuffre here, as Ms. Giuffre has signed and sent the necessary
+release forms for the records to be sent directly to Defendant.10
+D. Ms. Lightfoot
+Defendant admits that Ms. Giuffre produced Ms.Lightfoot’s records in footnote 4 of her
+brief on page 11, yet on page 16, Defendant wrongfully states Plaintiff has not produced Dr.
+Lightfoot’s records. Despite the self-contradictory briefing, Ms. Lightfoot has produced records.
+See chart above, Giuffre005431-005438,Medical Release Form with documents. As with the
+other providers, Ms. Giuffre has executed and sent medical records release forms to Ms.
+Lightfoot, and has thusmet her discovery obligations. To follow up on Defendant’s wrongful
+claims that Ms. Giuffre has somehow “withheld” more current records (despite executing a
+release for all records); Ms. Giuffre followed up with Ms. Lightfoot, who provided to Ms.
+10 Upon information and belief, Ms. Lightfoot is not a medical doctor, but an Australian
+“Consulting Psychologist.”
+10
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 15 of 30
+Giuffre’s counsel correspondence stating that she has produced all of Ms. Giuffre’s records (see
+chartabove, Giuffre006636), thereby indicating that she does not keep more current records.
+E. Dr. Olson
+Defendant claims that Ms. Giuffre failed to produce “the remaining documents for
+treatment by Dr. Olson,” but this is a wild inaccuracy. (And, Ms. Giuffre would refer the Court
+to a short excerpt from Dr. Olson’s deposition in which Dr. Olson explains in his own words his
+production. See McCawley Decl. at Exhibit 10, Dr. Olson Deposition Excerpt.) First, Ms. Giuffre
+signed a release for allrecords that Dr. Olson had. See McCawley Decl. at Composite Exhibit 6,
+March 8, 2016, Release for Dr. Olson records. Dr. Olson produced records Bates labeled
+GIUFFRE005342-005346and GIUFFRE005492-005496.Dr. Olson then testified in his
+deposition that he kept a record on his laptop that was not a part of the medical records produced
+by his hospital.Id.During the deposition, he printed that record and gave it to Defendant’s
+counsel.Id.Now, Defendant’s counsel is claiming that this set of facts constitutes a discovery
+violation that warrants sanctions. There is no failure to produce here. Ms. Giuffre executed a
+medical release that provided for all of Ms. Giuffre’s medical records with regard to Dr. Olson,
+and records were produced. It was Dr. Olson who failed to include his “laptop records” among
+the records that were produced.
+Ms. Giuffre knew nothing of the “laptop records”until Dr. Olson’s deposition, and Dr.
+Olson provided them at that time, a fact Defendant admits in a footnote in her Motion to Reopen
+Ms. Giuffre’s Deposition. In that brief, Defendant complains that they were not “produced” until
+after Ms. Giuffre was deposed. That is a distortion. Defendant already had such documents from
+Dr. Olson himself. Ms. Giuffre included those documents that both sides received in the
+depositionas part of her next production, so that they would bear a Bates label for tracking
+11
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 16 of 30
+purposes. It was a formality since both sides already had the record. Defendant states: “Despite
+requests, legible copies have not been provided.” Defendant uses the passive voice here,
+presumably to avoid making clear the fact that the requests for legible copies would need to be
+made to Dr. Olson,who controls the records, not to Ms. Giuffre,who long ago authorized the
+release of all records. The existence of a record that a witness failed to produce prior to a
+deposition is not a discovery violation from Ms. Giuffre.
+III. MS. GIUFFRE HAS PROVIDED DISCOVERY IN ACCORDANCE WITH HER
+DISCOVERY OBLIGATIONS
+The fact is that Ms. Giuffre has executed a release form for each and every medical care
+providesthat Defendant asked for. Defendant cannot contradict this statement. Ms. Giuffre
+produced medical records she had in her possession (such as New York Presbyterianrecords),
+early in discovery. From that point, other medical records were sought and obtained, withMs.
+Giuffre facilitating their production from the providers by executing and sending release forms
+and paying all applicable fees for their release. Moreover, counsel for Ms. Giuffre has kept
+Defendant fully apprised of such efforts, even giving Defendant copies of all releases that have
+beenissued, and providing updates on Ms. Giuffre’s continued efforts to obtain medical records
+beyond signing releases. See McCawley Decl. at Composite Exhibits 5 and 6.
+Executing and sending medical release forms to all of the medical providers satisfies Ms.
+Giuffre’s discovery obligations with regard to her medical records, and Defendant cannot cite to
+a case that states otherwise. See, e.g., Candelaria v. Erickson, 2006 WL 1636817, at *1
+(S.D.N.Y.2006) (requiring the execution of updated medical release forms to satisfy discovery
+obligations). The fact that Defendant has presented this weak tea to the Court - concerning the
+actions of third-parties Ms. Giuffre does not control - shows just how baseless the motion is.
+IV. DEFENDANT CAN SHOW NO PREJUDICE
+12
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 17 of 30
+Defendant claims to be prejudiced because a small fraction of the medical providers were
+revealed at Ms. Giuffre’s deposition, four days after her interrogatory response. This argument
+is moot. Ms. Giuffre has agreed to reopen her deposition for Defendant’s questions regarding
+those medical providers. Second, Defendant intimates, but does not actually claim, that she
+wants to depose Ms. Lightfoot, and states that there is not sufficient time: “arranging for and
+taking the deposition of Ms. Lightfoot . . . is nearly impossible,” suggesting to the Court that
+there is some prejudice to Defendant there. (Mtn. at 11). However, Defendant’s behavior (and a
+close reading of Defendant’s brief) suggests that Defendant doesn’t actually want to depose Ms.
+Lightfoot; instead, she just wants to appear to the Court as prejudiced by not taking her
+deposition. First, Defendant never noticed her deposition despite knowing her identity for nearly
+two months - since May 3, 2016. Second, Defendant is careful not to claim in her brief that she
+actually wants to depose Ms. Lightfoot,all the while suggesting that she has suffered some
+prejudice with respect to not taking Ms. Lightfoot’s deposition. Defendant’s lack of actual desire
+to take her deposition stems from the 2011 records Ms. Lightfoot produced - records predating
+Defendant’s defamation by years.
+This is the reason Defendant is careful not to claim in her brief that she
+actually wanted to depose Ms. Lightfoot, and this is the reason why Defendant never noticed her
+for deposition.
+13
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 18 of 30
+Defendant’s claims concerning deposing Dr. Donahue are similarly specious. First,
+despite knowing about Dr. Donahue since at least April 29, 2016 (a fact she admits in her brief
+“Dr. Donahue may have been named” (Mtn. at 16)): Defendant has never issued a Notice of
+Deposition for Dr. Donahue. Defendant cannot claim any prejudice with respect to Dr. Donahue.
+Additionally, Defendant acts in bad faith when she claims that medical records from Dr.
+Donahue were “purposefully hidden by Plaintiff” (Mtn. at 11) when Defendant knows that Ms.
+Giuffre executed and sent a medical release for Dr. Donahue on April 5, 2016, for all of his
+records. See McCawley Decl. at Composite Exhibit 6, Dr. Donahue Medical Release. As stated
+above, this argument is moot because the records concerning Dr. Donahue (and other providers
+at his practice) have been produced to Defendant.
+Finally, though Ms. Giuffre does not control how quickly providers respond to her
+releases (though her counsel has spent considerable time following-up with providers, urging
+their speedy release, and paying all applicable fees), Ms. Giuffre has agreed to reopen her
+deposition for questions concerning provider records that were produced subsequent to her
+deposition. Therefore, Ms. Giuffre has eliminated any prejudice Defendant could claim to suffer
+with respect to taking Ms. Giuffre’s deposition. See Giuffre006631-006635.
+Afactor relevant to the appropriateness of sanctions under Rule 37 for discovery
+violations is the “prejudice suffered by the opposing party.” Design Strategy, Inc. v. Davis, 469
+F.3d 284, 296 (2d Cir. 2006). Here, Defendant cannot claim any prejudice resulting from her
+empty claims of “discovery violations.” Accordingly, sanctions are inappropriate.
+V. MS. GIUFFRE HAS BEEN FULLY COMPLIANT IN DISCOVERY
+14
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 19 of 30
+It is the Defendant in this case that has failed to comply with discovery at every turn.
+Defendant has refused to produce any documents whatsoever without this Court entering an
+Order directing her to do so. The only reason Plaintiff has documents from Defendant at all is
+because of this Court’s denial of Defendant’s stay requests and the Court’s rulings on Ms.
+Giuffre’s Motion to Compel for Improper Claim of Privilege (wherein Defendant was ordered to
+turn over documents that did not even involve communications with counsel) and her Motion to
+Compel for Improper Objections. Even then, Defendant’s counsel refused to even take the
+routine step of looking at Defendant’s email and other electronic documents to find responsive
+documents, but produced, instead,onlywhat Defendant wanted to produce. Ms. Giuffre had to
+bring a Motion for Forensic Examination and the Court had to order that Defendant’s counsel
+actually produce documents from Defendant’s electronic documents, something that has not yet
+been done to date. Indeed, Defendant did not make her initial disclosure until February 24,2016
+several months after the deadline for these disclosures. Additionally, while Ms. Giuffre started
+her efforts to take the Defendant’s deposition in February, 2016, Defendant didnot actually sit
+for her deposition until after being directed to do so by the Court, on April 22, 2016.
+Furthermore, during the deposition, Defendant refused to answer a myriadofquestions,
+and therefore, this Court recently ordered Defendant to sit for her deposition again. See June 20,
+2016, Order resolving eight discovery motions entered under seal and granting Plaintiff’s Motion
+to Compel Defendant to Answer Deposition Questions (D.E. 143).
+Ms. Giuffre has had to litigate, multiple times, for Defendant to make any document
+production, and Ms. Giuffre has had to litigate, also multiple times, for Defendant to be deposed.
+See Plaintiff’s Response in Opposition to Defendant’s Motion to Stay Discovery (DE 20);
+Plaintiff’s February 26, 2016, Letter Motion to Compel Defendant to Sit for Her Deposition;
+15
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 20 of 30
+Plaintiff’s Motion to Compel Documents Subject to Improper Claim of Privilege (DE 33);
+Plaintiff’s Motion to Compel Documents Subject to Improper Objections (DE 35); Plaintiff’s
+Response in Opposition to Defendant’s Motion for a Protective Order Regarding Defendant’s
+Deposition (DE 70); Plaintiff’s Motion for Forensic Examination (DE 96); Plaintiff’s Motion to
+Compel Defendant to Answer Deposition Questions (DE 143). Ms. Giuffre has had to expend
+considerable time and resources simply to have Defendant meet her basic discovery obligations
+in this case.
+Now, havingcompletely stonewalled on discovery, making every produced document
+and even her own deposition theresult of extensive and unnecessary litigation, taking positions
+that are contrary to the Federal Rules and wholly contrary to prevailing case law,Defendant
+claims that Ms. Giuffre has been “non-compliant since the outset of discovery.” (Mtn. at 11).
+This statement is completely inaccurate.
+Defendant makes a number of unsubstantiated claims regarding law enforcement
+materials, photographs, and email accounts. Most of these issues have been resolved pursuant to
+this Court’s orders. SeeJune 20, 2016, Order entered under seal denying Defendant’s motion to
+compel law enforcement materials;June 23, 2016, Minute Entry. Ms. Giuffre merely points out
+that Defendant not only failed to review, search, or produce Defendant’s email, from any of her
+multiple accounts, but also wholly failed to disclose her terramarproject.org email account or her
+ellmax.com email account.
+Regarding photographs, counsel for Ms. Giuffre has gone to considerable expense to
+recover boxes that Ms. Giuffre thought may contain photographs, including paying
+approximately $600.00 for shipping of the boxes to ensure production of any recent information.
+Accordingly, Defendant articulates no legitimate complaint in this section of her brief.
+16
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 21 of 30
+LEGAL ARGUMENT
+I. DEFENDANT CANNOT SHOW NON-COMPLIANCE, AND HAS PUT FORTH
+NO COLORABLE LEGAL ARGUMENT FOR SANCTIONS
+Sanctions are not appropriate in this case because Defendant cannot show non-
+compliance. Through thenormal course of discovery, Ms. Giuffre produced her medical
+providers to Defendant, as Defendant admits in her moving brief. Defendant’s complaint boils
+down to the fact that Ms. Giuffre remembered at deposition two providers (Ms. Lightfoot and Dr.
+Donahue) that she did not recall when compiling her long list of providers in response to
+Defendant’s interrogatoryfour days prior. That does not constitute non-compliance. That is not
+sanctionable behavior. And,Defendant cannot cite any case in which a court found differently.
+Additionally, though Defendant attempts to ascribe blame to Ms. Giuffre for any medical records
+that have not been sent by providers (or medical records that may not exist), the uncontested fact
+is that Ms. Giuffre has executed releases for all of the providers Defendant requested. Again,
+Defendant can point to no case in which sanctions were awarded over medical records where the
+party signed all applicable releases. Accordingly, Defendant’s motion should be denied.11
+Even Defendant’s own cases cited in her brief are inapposite and do not suggest that
+sanctions are appropriate in this case. For example, in Davidson v. Dean,the plaintiff “refused
+to consent to the release of mental health records” for periods for which he was seeking damages
+11 What does constitute sanctionable behavior is testimonial obduracy that includes “denying
+memory of the events under inquiry,” a tactic Defendant took in response to a multitude of
+questions at her deposition, as more fully briefed in Ms. Giuffre’s Motion to Compel Defendant
+to Answer Deposition Questions (DE 143), granted by this Court on June 20, 2016. See In re
+Weiss, 703 F.2d 653, 663 (S.D.N.Y. 1983) (holding that “the witness's . . . disclaimers of
+knowledge or memory, has also been dealt with as contemptuous conduct, warranting sanctions
+that were coercive, punitive, or both. It has long been the practice of courts viewing such
+testimony as false and intentionally evasive, and as a sham or subterfuge that purposely avoids
+giving responsive answers, to ignore the form of the responseand treat the witness as having
+refused to answer.”).
+17
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 22 of 30
+and for which the Court ordered him to provide releases. 204 F.R.D. 251, 254 (S.D.N.Y. 2001).
+By contrast, Ms. Giuffre has executed each and every release for medical records requested by
+Defendant. In In re Payne, Rule 37 sanctions were not even at issue: an attorney was
+reprimanded for “default[ing] on scheduling orders in fourteen cases, resulting in their dismissal
+. . . fili[ing] stipulations to withdraw a number of appeals only after his briefing deadlines had
+passed,” etc. 707 F.3d 195, 198-99 (2d Cir. 2013). Similarly, in Gurvey v. Cowan, Liebowitz &
+Lathman, P.C., 2014 WL 715612, at *2 (S.D.N.Y. 2014), sanctions were awarded because, inter
+alia, “my . . . Order explicitly limited discovery to plaintiff's malpractice and breach-of-fiduciary
+duty claims . . . However . . . plaintiff has sought discovery of extraordinary breadth that is far
+beyond the scope of the two claims . . . [and] disregarded my Order . . . by failing to explain in
+writing how each of her discovery requests to CLL is relevant to the remaining claims.”
+Accordingly, as stated above, Defendant has not put forth any colorable legal argument for
+sanctions under Rule 37.
+II. THERE WAS NO INFORMATION “WITHHELD,” AND THEREFORE, NO
+PREJUDICE
+Defendant cannot be taken seriously when she claims that “Plaintiff is obviously trying to
+hide” her treatment related to domestic violence,
+Given that fact,
+Defendant’s incendiary claim defies logic. All these things that Defendant claims were
+deliberately “withheld” or “hidden” are things that Ms. Giuffre provided to Defendant in the
+normal course of discovery, as described at length above. Defendant cannot claim any prejudice
+18
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 23 of 30
+regarding the manner in which she received this information, and, indeed, does not.12
+Accordingly, sanctions are wholly inappropriate.
+III. MS. GIUFFRE HAS FULFILLED HER REQUIREMENTS REGARDING HER
+RULE 26 DISCLOSURES1314
+Regarding Ms. Giuffre’s computation of damages, Ms. Giuffre has pled defamation per
+se under New York law, where damages are presumed. Robertson v. Dowbenko, 443 F. App'x
+659, 661 (2d Cir. 2011). Plaintiff provided amounts, damage calculations and supporting
+evidence required under Rule 26. Plaintiff is retaining experts to support her Rule 26
+Disclosures, and expert reports and disclosures are not due at this time. Defendant takes issues
+with Ms. Giuffre’s computation of damages in her Rule 26 disclosures but fails to cite to a single
+case that requires more from her, let alone more from a Plaintiff claiming defamation per se.
+Indeed, the case law supports that Plaintiff has fully complied with her Rule 26 obligations. See
+Naylor v. Rotech Healthcare, Inc., 679 F. Supp. 2d 505, 510 (D. Vt. 2009).
+In good faith, Ms. Giuffre has produced a multitude of documents and information
+regarding her damages. Defendant does not cite to a single case that even suggests she is
+required to do more. What Defendant purports to lack is expert discovery and an expert report on
+computation of damages. Rule 26(a)(1), governs “initial disclosures,” disclosures to be made at
+12 This is particularly true regarding the timing of Ms. Giuffre’s deposition, as Ms. Giuffre has
+agreed to reopen her deposition concerning any medical information that Defendant did not
+receive in advance of her deposition.
+13 Defendant references her Motion to Compel Rule 26(a) disclosures (DE 64) that she filed on
+March 22, 2016, but failed to mention that, after a hearing,this Court denied that motion with
+leave to refile (DE 106).
+14 Defendant repeatedly attempts to conflate the required disclosures under Federal Rule of Civil
+Procedure 26(a) and the disclosures ordered by this Court on April 21, 2016, in an apparent
+effort to ‘backdate’ those required disclosures.
+19
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 24 of 30
+the beginning of litigation, prior to the completion of expert work. It does not entitle a party to
+expert discovery at this stage in the case.
+Ms. Giuffre has pleaded and will prove defamation per se, where damages are presumed.
+Robertson v. Dowbenko, 443 F. App'x at 661 (“As the district court correctly determined,
+Robertson was presumptively entitled to damages because he alleged defamation per se.”).
+Under New York law, defamation per se, as alleged in this case, presumes damages, and special
+damages do not need to be pled and proven. See Celle v. Filipino Reporter Enters. Inc., 209 F.3d
+163, 179 (2d Cir.2000) (Second Circuit holding that “[i]f a statement is defamatory per se, injury
+is assumed. In such a case ‘even where the plaintiff can show no actual damages at all, a
+plaintiff who has otherwise shown defamation may recover at least nominal damages,’” and
+confirming an award of punitive damages) (Emphasis added).
+Additionally, Ms. Giuffre has claimed punitive damages for the defamation per se.
+“[C]ourts have generally recognized that ... punitive damages are typically not amenable to the
+type of disclosures contemplated by Rule 26(a)(1)(A)(iii), and have held that the failure to
+disclosure a number or calculation for such damages was substantially justified.” See Murray v.
+Miron, 2015 WL 4041340 (D. Conn., July 1, 2015). See also Scheel v. Harris, No. CIV.A. 3:11-
+17-DCR, 2012 WL 3879279, at *7 (E.D. Ky. Sept. 6, 2012) (finding that a failure to provide a
+precise number or calculation for their punitive damages claim is substantially justified pursuant
+to Fed.R.Civ.P. 37(c)(1)).
+Accordingly,Ms. Giuffre’s disclosures comply with Rule 26 for the computation of
+damages. See Naylor v. Rotech Healthcare, Inc., 679 F. Supp. 2dat 510 (“The Court is skeptical
+of the need for so much additional discovery, since the only open issue on the defamation claim
+seems to be damages. Miles’s email itself provides evidence of the statement and publication to
+20
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 25 of 30
+a third party. Damages will depend on [plaintiff] Naylor's testimony and perhaps evidence from
+a few other sources, such as Naylor's family and friends, or Streeter [one of defendant’s
+clients].”) Ms. Giuffre has provided the calculations evidencing how she arrived at her damage
+figures and has provided a myriad of documents upon which she also will rely in proving
+damages. This includes supporting documents showing average medical expenses computed by
+her average life expectancy. “‘[N]on-economic damages based on pain and suffering ... are
+generally not amenable to the type of disclosures contemplated by Rule 26(a)(1)(A)(iii).’”
+Scheel v. Harris, No. CIV.A. 3:11-17-DCR, 2012 WL 3879279, at *7 (E.D. Ky. Sept. 6, 2012)
+(holding that plaintiff’s failure to disclose a number or calculation for such damages was
+substantially justified).
+IV. THIS COURT SHOULD NOT STRIKE MS. GIUFFRE’S CLAIMS FOR
+MEDICAL AND EMOTIONAL DISTRESS DAMAGES
+Defendant cites four cases in support of her request for this Court to strike her claims for
+medical and emotional distress damages, and each one of them militates against any such relief
+being awarded in this case. In the first, Nittolo v. Brand, sanctions were awarded in apersonal
+injury action because, inter alia, the plaintiff went to his physician and took away hismedical
+records before defendant had a chance to use the court-ordered release to access them, and the
+Court found the plaintiff lied under oath about taking away the records. 96 F.R.D. 672, 673
+(S.D.N.Y.1983). By contrast, Ms. Giuffre has signed every medical release form requested by
+Defendant and provided all medical records that they yielded.
+Defendant’s second case is equally inapposite. In Skywark v. Isaacson, Court found that
+the plaintiff “began his pattern of lying about at least three matters of extreme significance to his
+claim for damages;” lied tohis experts and lied under oath; and “never provided defendants with
+the promised [medical release] authorizations.” 1999 WL 1489038 at *3, *5, *11(S.D.N.Y. Oct.
+21
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 26 of 30
+14, 1999). The facts could not be more dissimilar to the case at hand, where Ms. Giuffre has
+provided truthful testimony regarding her medical history and has executed all medical releases.
+Defendant’s third case continues in the same pattern. In In re Consol. RNC Cases, “all
+Plaintiffs either expressly refused to provide mental health treatment records or simply failed to
+provide such records during the course of discovery.” 2009 WL 130178, at *2 (S.D.N.Y. Jan. 8,
+2009). Defendant’s fourth case is similarly inapposite by Defendant’s own description, turning
+onfailure to provide medical releases. (Mtn. at 19).
+Importantly, Defendant represents to the Court that she seeks the “sanction of striking the
+claim or precluding evidence only on the damages that relate to the withheld documents and
+information.” (Mtn. at 19). This is confusing for two reasons. First, Ms. Giuffre has provided
+information about the providers that she has knowledge of and has provided releases for their
+medical records, so the sanction she seeks could not apply to any of the providers in Defendant’s
+brief. Second, there are no “withheld documents.” Ms. Giuffre has not withheld any medical
+records, and, indeed, has authorized the release of all records sought by Defendant. Accordingly,
+there are no “withheld records” upon which sanctions could be applied. And, again, there has
+been no violation of this Court’s Order.
+CONCLUSION
+Since filing the instant motion for sanctions, two other witnesses - witnesses subpoenaed
+by Defendant herself in order to mount her defense - have given testimony to support Ms.
+Giuffre. Most recently, Defendant’s witness, Tony Figueroa, testified he witnessed Defendant
+22
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 27 of 30
+escort young girls he brought over to Epstein’s home to Epstein for sex acts, and testified that
+Defendant called him on the phone,asking him to bring girls over to Epstein’s house.15
+Q And how long would you and one of these other girls sit there and have this small talk
+withMs. Maxwell?
+A No more than 10 or 15 minutes.
+Q What were you waiting for?
+A Pretty much her to take them up stairs then I would leave. I would wait for them to be
+like we're ready. And I would be all right. See you later and I would leave.
+Q You were waiting for who to take who up stairs?
+A I had seen Ms. Maxwell take a girl up there well not up there visibly but I watched her
+leave had room with one.
+Q Up stairs?
+12 A Well, I didn't see the stairs. Like in the kitchen there's not like you have to go all
+around and all that shit.
+See McCawley Decl. at Exhibit 9,ROUGHFigueroa Tr. at 156:22-157:14.
+Q Let me fix this. Gill when Gillian Maxwell would call you during the time that you
+were living with Virginia she would ask you what specifically?
+A Just if I had found any ear girls just to bring the Jeffrey.
+Q Okay.
+A Pretty much everytime a conversation with any of them it was either asking Virginia
+where she was ask the asking her to get girls or asking me get girls.
+See McCawley Decl. at Exhibit 9,ROUGHFigueroa Tr. at 162:8-19.
+Accordingly, at this stage in discovery, it is not just the flight logs showing Defendant
+flying with Epstein and Ms. Giuffre over twenty times when she was a minor; it is not just the
+message pads from law enforcement’s trash pulls that show Defendant arranging to have an
+underage girl come over to Epstein’s house for “training;” it is not just the police report; it is■not
+just the photographs of Defendant and other men with Ms. Giuffre when she was a minor.
+Now, there is actual, live testimonial evidence that Defendant was a procurer of young
+girls for sex with Jeffrey Epstein, with whom she shared a home and a life, thus validating Ms.
+Giuffre’s claims. Therefore, this baseless motion for sanctions is more a reflection of the
+15 See McCawley Decl. at Exhibit 9, Excerpts from the June 24, 2016 ROUGH Deposition
+Transcript for the Deposition of Tony Figueroa.
+23
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 28 of 30
+abundant testimonial evidence condemning Defendant than any type of imagined discovery
+violation on behalf of Ms. Giuffre.
+Ms. Giuffre respectfully requests that it be denied in its entirety.
+Dated: June28, 2016.
+Respectfully Submitted,
+BOIES, SCHILLER & FLEXNER LLP
+By: /s/ Sigrid McCawley
+Sigrid McCawley (Pro Hac Vice)
+Meredith Schultz (Pro Hac Vice)
+Boies Schiller & Flexner LLP
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+David Boies
+Boies Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+Bradley J. Edwards (Pro Hac Vice)
+FARMER, JAFFE, WEISSING,
+EDWARDS, FISTOS & LEHRMAN, P.L.
+425 North Andrews Avenue, Suite 2
+Fort Lauderdale, Florida 33301
+(954) 524-2820
+Paul G. Cassell (Pro Hac Vice)
+S.J. Quinney College of Law
+University of Utah
+383 University St.
+Salt Lake City, UT 84112
+(801) 585-520216
+16 This daytime business address is provided for identification and correspondence purposes only
+and is not intended to imply institutional endorsement by the University of Utah for this private
+representation.
+24
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 29 of 30
+25
+Case 1:15-cv-07433-LAP Document 1325-7 Filed 01/04/24 Page 30 of 30
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFYthat on the 28thday ofJune,2016,I served the attached document
+via Email to the following counsel of record.
+Laura A. Menninger, Esq.
+Jeffrey Pagliuca, Esq.
+HADDON, MORGAN & FOREMAN, P.C.
+150 East 10th Avenue
+Denver, Colorado 80203
+Tel: (303) 831-7364
+Fax: (303) 832-2628
+Email:lmenninger@hmflaw.com
+jpagliuca@hmflaw.com
+/s/ Sigrid S. McCawley
+Sigrid S. McCawley
+26

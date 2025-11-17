@@ -1,0 +1,87 @@
+{
+  "doc_id": "1325-15",
+  "filename": "1325-15.pdf",
+  "extraction_date": "2025-11-17T10:22:44.388908",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 22616,
+  "images_extracted": 0,
+  "dates_found": 22,
+  "people_found": 32,
+  "locations_found": 3,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 414
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 602
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 2432
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 4710
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 5341
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6936
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 8766
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 10912
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 12961
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 15302
+    }
+  ],
+  "people": [
+    "Interrogatory Responses",
+    "Court Order",
+    "Defendant Ghislaine Maxwell",
+    "Did Sharon Churcher",
+    "Tony Figueroa",
+    "University Street",
+    "Ghislaine Maxwell",
+    "Forest Hills High",
+    "Given Plaintiff",
+    "Menninger Decl",
+    "Nicole Simmons\nNicole",
+    "Survivors Charter",
+    "Fourth Revised\nRule",
+    "Judith Lightfoot",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "Salt Lake City",
+    "South Salem",
+    "Reopen Deposition",
+    "Jeffrey Epstein"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach"
+  ],
+  "images": []
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1331.21",
+  "filename": "gov.uscourts.nysd.447706.1331.21.pdf",
+  "extraction_date": "2025-11-17T10:20:16.697022",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 11698,
+  "images_extracted": 0,
+  "dates_found": 8,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [
+    {
+      "email_file": "0001_Tuesday, May 17, 201_From-Sigrid Mccawley_To-Laura Menninger; Meredith_RE_ Notice of Subpoena.txt",
+      "email_id": "0001"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2217
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3168
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5412
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7335
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 9465
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11444
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 11677
+    }
+  ],
+  "people": [],
+  "locations": [],
+  "images": []
+}

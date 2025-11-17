@@ -1,0 +1,89 @@
+{
+  "doc_id": "1325-19",
+  "filename": "1325-19.pdf",
+  "extraction_date": "2025-11-17T10:23:11.899676",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "flight_log",
+    "financial"
+  ],
+  "text_length": 48392,
+  "images_extracted": 0,
+  "dates_found": 50,
+  "people_found": 51,
+  "locations_found": 4,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/04/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 497
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 685
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 3330
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 6217
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 8951
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 11533
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 14289
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 16951
+    },
+    {
+      "date_string": "01/04/24",
+      "position": 19959
+    }
+  ],
+  "people": [
+    "Court Order",
+    "The\nDefinition",
+    "Bradley Edwards",
+    "Instruction No",
+    "From January",
+    "Johanna Sjoberg",
+    "Definition No",
+    "Law In Support",
+    "First Set",
+    "File Under Seal",
+    "Ghislaine Maxwell",
+    "University Street",
+    "The January",
+    "Civil Procedure",
+    "Virgin\nIslands",
+    "Local Rule",
+    "Transit Auth",
+    "This Interrogatory",
+    "Defamation Act",
+    "Nicole Simmons\nNicole"
+  ],
+  "locations": [
+    "Florida",
+    "New York",
+    "Palm Beach",
+    "United Kingdom"
+  ],
+  "images": []
+}

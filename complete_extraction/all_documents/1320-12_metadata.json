@@ -1,0 +1,115 @@
+{
+  "doc_id": "1320-12",
+  "filename": "1320-12.pdf",
+  "extraction_date": "2025-11-17T10:21:25.563964",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "correspondence"
+  ],
+  "text_length": 155243,
+  "images_extracted": 0,
+  "dates_found": 182,
+  "people_found": 125,
+  "locations_found": 6,
+  "linked_emails": [
+    {
+      "email_file": "0002_Friday, June 24, 201_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0002"
+    },
+    {
+      "email_file": "0007_01_04_24_From-Unknown_To-Unknown_Giuffre v. Maxwell, Case No. 15-cv-7433-.txt",
+      "email_id": "0007"
+    },
+    {
+      "email_file": "0072_Monday, August 1, 20_From-Unknown_To-Unknown_Q. This is an email from you on January.txt",
+      "email_id": "0072"
+    },
+    {
+      "email_file": "0074_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0074"
+    },
+    {
+      "email_file": "0075_01_05_24_From-Unknown_To-Unknown_Guiffre v. Maxwell.txt",
+      "email_id": "0075"
+    },
+    {
+      "email_file": "0076_01_05_24_From-Unknown_To-Unknown_untitled.txt",
+      "email_id": "0076"
+    }
+  ],
+  "dates": [
+    {
+      "date_string": "01/03/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 125
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 817
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 1474
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 2244
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 3343
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 4493
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 5555
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 6514
+    },
+    {
+      "date_string": "01/03/24",
+      "position": 7592
+    }
+  ],
+  "people": [
+    "Did Emmy",
+    "That Ghislaine",
+    "The State",
+    "Dore Louis",
+    "Kelli Ann Willis",
+    "Did Epstein",
+    "North Carolina Tech",
+    "Red Ice Creations",
+    "Besides Virginia",
+    "Registered\nProfessional Reporter",
+    "Tipper Gore",
+    "Brazilian Court",
+    "David Copperfield",
+    "Breakers Row",
+    "And Virginia",
+    "Frederic Fekkai",
+    "Naomi Campbell",
+    "Notary Public",
+    "When Laura",
+    "Magna Legal Services"
+  ],
+  "locations": [
+    "New York",
+    "New Mexico",
+    "Florida",
+    "Virgin Islands",
+    "Palm Beach",
+    "Manhattan"
+  ],
+  "images": []
+}

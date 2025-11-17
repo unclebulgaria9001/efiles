@@ -1,0 +1,82 @@
+{
+  "doc_id": "1331-18",
+  "filename": "1331-18.pdf",
+  "extraction_date": "2025-11-17T10:19:52.338967",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document"
+  ],
+  "text_length": 5854,
+  "images_extracted": 0,
+  "dates_found": 11,
+  "people_found": 17,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 46
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 123
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 789
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1363
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1771
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 2749
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3772
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4700
+    },
+    {
+      "date_string": "2-16-20",
+      "position": 5071
+    },
+    {
+      "date_string": "June 20, 2016",
+      "position": 389
+    }
+  ],
+  "people": [
+    "Notary Public",
+    "Jeffrey Epstein",
+    "Registered\nProfessional Reporter",
+    "Boulevard\nFort Lauderdale",
+    "Podhurst Orseck",
+    "Further Examination",
+    "Police Interview",
+    "Bill Clinton",
+    "West Flagler Street",
+    "East Las Olas",
+    "Certified Realtime",
+    "Certified Realtime\nReporter",
+    "Avenue\nDenver",
+    "West\nFlagler Street",
+    "Florida\nCommission",
+    "Kelli Ann Willis",
+    "Deposition Exhibit"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}

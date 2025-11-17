@@ -1,0 +1,86 @@
+{
+  "doc_id": "gov.uscourts.nysd.447706.1327.9",
+  "filename": "gov.uscourts.nysd.447706.1327.9.pdf",
+  "extraction_date": "2025-11-17T10:18:43.017726",
+  "extraction_method": "pdfplumber",
+  "document_types": [
+    "deposition",
+    "legal_document",
+    "financial"
+  ],
+  "text_length": 23142,
+  "images_extracted": 0,
+  "dates_found": 67,
+  "people_found": 64,
+  "locations_found": 2,
+  "linked_emails": [],
+  "dates": [
+    {
+      "date_string": "01/05/24",
+      "position": 45
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 140
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 887
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 1991
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 3089
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 4222
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 5302
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 6549
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 7675
+    },
+    {
+      "date_string": "01/05/24",
+      "position": 8939
+    }
+  ],
+  "people": [
+    "Answer Deposition\nQuestions",
+    "Senterfitt Eidson",
+    "The District Court",
+    "Compel Attorney",
+    "Bradley Edwards",
+    "Denied\nDefendant",
+    "The Broward County",
+    "Compare Coates",
+    "File Excess Pages",
+    "Stan Pottinger",
+    "Client Communications",
+    "Work Product",
+    "Weatherford Int",
+    "Defendant Ghislaine Maxwell",
+    "Denied\nThe",
+    "File Under Seal",
+    "John Wiley",
+    "Client Comrns",
+    "Civil Procedure",
+    "Serve Three Deposition"
+  ],
+  "locations": [
+    "Florida",
+    "New York"
+  ],
+  "images": []
+}
