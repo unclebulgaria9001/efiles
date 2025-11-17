@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-11",
   "filename": "1325-11.pdf",
-  "extraction_date": "2025-11-17T10:22:59.941744",
+  "extraction_date": "2025-11-17T10:37:03.495365",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,26 +56,26 @@
     }
   ],
   "people": [
-    "Errata Sheet",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Fort Lauderdale",
-    "Ghislane Maxwell",
-    "State Attorney",
-    "Attorney Gus Fronstin",
-    "Registered\nProfessional Reporter",
-    "My Commission Expires",
-    "Sarah Kellen",
-    "Las Olas Boulevard",
     "Boies Schiller",
     "Certified Realtime\nReporter",
+    "Attorney Gus Fronstin",
+    "Sarah Kellen",
+    "Errata Sheet",
+    "My Commission Expires",
+    "Registered\nProfessional Reporter",
+    "Notary Public",
+    "Ghislane Maxwell",
+    "Kelli Ann Willis",
     "File Under Seal",
-    "Kelli Ann Willis"
+    "Jeffrey Epstein",
+    "Fort Lauderdale",
+    "State Attorney",
+    "Las Olas Boulevard"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-17",
   "filename": "1325-17.pdf",
-  "extraction_date": "2025-11-17T10:22:34.933148",
+  "extraction_date": "2025-11-17T10:36:37.837551",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,31 +56,31 @@
     }
   ],
   "people": [
-    "Abel\nVirginia Giuffre",
     "Jenny Martin",
-    "North Andrews Avenue",
-    "Tony Figueroa",
-    "West Palm",
-    "Video Deposition",
-    "One Florida Park",
-    "Esquire\nFarmer",
-    "Drive South",
-    "Palm Coast",
+    "Court Reporter",
     "Survivors Charter",
-    "Gold Coast",
-    "Lake Worth",
-    "Esquire\nHaddon",
+    "Wellington High School",
+    "Drive South",
+    "North Andrews Avenue",
     "Charter School",
-    "South Area",
+    "Avenue\nDenver",
+    "Royal Palm Beach",
+    "Survivors Charter School",
+    "Video Deposition",
+    "Royal Palm",
+    "Southern Reporting Company",
+    "Gold Coast",
+    "Paul Katz Professional",
+    "Tony Figueroa",
     "Florida Professional Reporter",
-    "Palm Beach High",
-    "Notary Public",
-    "Avenue\nDenver"
+    "One Florida Park",
+    "Lake Worth",
+    "Abel\nVirginia Giuffre"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

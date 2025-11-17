@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.17_2",
   "filename": "gov.uscourts.nysd.447706.1327.17_2.pdf",
-  "extraction_date": "2025-11-17T10:17:52.157527",
+  "extraction_date": "2025-11-17T10:32:02.496437",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -55,14 +55,14 @@
     }
   ],
   "people": [
-    "If Ihaveleft",
-    "Laura\nTheinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient",
-    "Paul Cassell",
-    "Fort Lauderdale",
-    "Las Olas Blvd",
-    "Meredith\nMeredith",
-    "Prince\nAndrew",
     "Laura\nAdditionally",
+    "Laura\nTheinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient",
+    "Prince\nAndrew",
+    "Las Olas Blvd",
+    "Fort Lauderdale",
+    "Paul Cassell",
+    "Meredith\nMeredith",
+    "If Ihaveleft",
     "Flagged\nLaura"
   ],
   "locations": [],

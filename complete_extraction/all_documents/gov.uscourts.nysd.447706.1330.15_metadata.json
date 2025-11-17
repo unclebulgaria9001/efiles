@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.15",
   "filename": "gov.uscourts.nysd.447706.1330.15.pdf",
-  "extraction_date": "2025-11-17T10:18:40.805936",
+  "extraction_date": "2025-11-17T10:32:52.513740",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -63,35 +63,35 @@
     }
   ],
   "people": [
-    "Court Personnel",
-    "All Other Real",
-    "Czech Republic",
-    "Other Fraud Act",
-    "Product Liability",
+    "Airplane Product Product",
+    "Unopposed Motion",
+    "Palm Beach\nPolice",
+    "Related Cases",
+    "Alien Detainee",
     "Agricultural Acts",
-    "Court\nPersonnel",
-    "Local Rule",
-    "Of New York",
-    "Photographs Depicted Nude",
-    "Habeas Corpus",
-    "While Epstein",
-    "Foreign Country",
-    "Court\nSouthern District",
-    "Alan\nDershowitz",
-    "Defendant Pair Beac",
-    "Civil Delainee",
-    "In Greenfield",
-    "Land Condemnation",
-    "That Court"
+    "Day Laborer Org",
+    "See Jane\nDoes",
+    "Indian\nHarbor Ins",
+    "Without Suffering",
+    "Marc Youngelson",
+    "On August",
+    "If Epstein",
+    "Underlying Case No",
+    "Fifth Amendment Privilege",
+    "Personal Injui",
+    "Civil Procedure",
+    "Civil Statute",
+    "Death Penalty",
+    "Las Jack Alan"
   ],
   "locations": [
+    "Paris",
     "London",
     "New York",
-    "Paris",
-    "Florida",
-    "Virgin Islands",
     "France",
-    "Palm Beach"
+    "Florida",
+    "Palm Beach",
+    "Virgin Islands"
   ],
   "images": []
 }

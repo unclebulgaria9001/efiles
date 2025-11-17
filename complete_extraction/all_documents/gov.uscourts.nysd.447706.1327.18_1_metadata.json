@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.18_1",
   "filename": "gov.uscourts.nysd.447706.1327.18_1.pdf",
-  "extraction_date": "2025-11-17T10:16:50.977247",
+  "extraction_date": "2025-11-17T10:37:39.209326",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -36,12 +36,12 @@
   ],
   "people": [
     "Caroly Casey",
-    "Has Already Searched",
-    "Cindy Lopez",
-    "Claire Hazel",
     "Shelley Harrison",
-    "Search Terms Defendant",
+    "Claire Hazel",
+    "Cindy Lopez",
     "From Plaintiff",
+    "Search Terms Defendant",
+    "Has Already Searched",
     "Cheri Lynch"
   ],
   "locations": [],

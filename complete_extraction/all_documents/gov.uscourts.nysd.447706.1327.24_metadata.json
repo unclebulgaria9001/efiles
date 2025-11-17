@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.24",
   "filename": "gov.uscourts.nysd.447706.1327.24.pdf",
-  "extraction_date": "2025-11-17T10:18:21.381933",
+  "extraction_date": "2025-11-17T10:32:33.014613",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -52,23 +52,23 @@
     }
   ],
   "people": [
-    "Notary Public",
-    "Filed Under Seal",
-    "Fort Lauderdale",
-    "Registered\nProfessional Reporter",
-    "That Mr",
-    "Las Olas Boulevard",
-    "Boies Schiller",
-    "And Mark Lumber",
     "Certified Realtime",
+    "Boies Schiller",
     "Certified Realtime\nReporter",
+    "That Mr",
+    "Registered\nProfessional Reporter",
+    "Notary Public",
+    "Kelli Ann Willis",
     "Florida\nCommission",
-    "Kelli Ann Willis"
+    "Fort Lauderdale",
+    "Filed Under Seal",
+    "And Mark Lumber",
+    "Las Olas Boulevard"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

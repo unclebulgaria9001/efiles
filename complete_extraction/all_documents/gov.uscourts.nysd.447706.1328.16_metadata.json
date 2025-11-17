@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.16",
   "filename": "gov.uscourts.nysd.447706.1328.16.pdf",
-  "extraction_date": "2025-11-17T10:19:19.767424",
+  "extraction_date": "2025-11-17T10:33:32.909290",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -64,30 +64,30 @@
   ],
   "people": [
     "Jean Luc Brunel",
-    "Filed Under Seal",
-    "Chase Bnnk",
-    "Related Cases",
-    "Ghislaine Maxwell",
-    "The Fifth",
-    "Notmy Public",
-    "And Adam",
-    "My Commission",
-    "Ghislaine Mnx",
-    "Then Jeffrey Epstein",
-    "And Snrnh Kellen",
-    "Legal Support",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Professional Reporter",
-    "Sarah Kellen",
     "Lascivious Molestation",
-    "Probation Officer",
-    "Alnn Dershowitz"
+    "Jane Doe",
+    "Notmy Public",
+    "Ghislnine Ma",
+    "Related Cases",
+    "Sarah Kellen",
+    "Fifth\nPro",
+    "Snrnh Kellen",
+    "Modeling Agency",
+    "Jenn Luc",
+    "Has Jeffrey Epstein",
+    "Jenn Luc Brunel",
+    "My Commission",
+    "Is Snrnh Kellen",
+    "Ghislaine Mnxwell",
+    "Did Jeffrey Epstein",
+    "Professional Reporter",
+    "The Fifth",
+    "Ghislaine Mnx"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

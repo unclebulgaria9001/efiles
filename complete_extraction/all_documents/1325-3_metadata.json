@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-3",
   "filename": "1325-3.pdf",
-  "extraction_date": "2025-11-17T10:23:01.929624",
+  "extraction_date": "2025-11-17T10:37:05.364103",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -36,35 +36,35 @@
   ],
   "people": [
     "Jean Luc Brunel",
-    "Australian Ave",
-    "Edwards\nBradley",
+    "Salt Lake City",
+    "Jane Doe",
+    "Rights Act",
     "Quinney College",
-    "Circumstances\nIf",
-    "Respectfully Submitted",
-    "Both Jane Doe",
-    "Jane Does",
-    "North Andrews Avenue",
-    "Virgin Islands",
-    "Jean Luc\nBrunel",
-    "Jane\nDoe",
-    "Ghislaine Maxwell",
+    "Dexter Lee",
     "And\nPaul",
-    "Civil Procedure",
-    "West Palm\nBeach",
+    "When Jane Doe",
+    "New Mexico",
+    "Respectfully Submitted",
     "British Royal Family",
-    "James Island",
-    "Prince Andrew",
-    "Prime Minister"
+    "North Andrews Avenue",
+    "Jane Does",
+    "Civil Procedure",
+    "Jane\nDoe",
+    "Prime Minister",
+    "Federal Rules",
+    "Jeffrey Epstein",
+    "Circumstances\nIf",
+    "Little\nSt"
   ],
   "locations": [
+    "Paris",
     "London",
     "New York",
-    "New Mexico",
-    "Paris",
-    "Florida",
-    "Virgin Islands",
     "France",
-    "Palm Beach"
+    "Florida",
+    "New Mexico",
+    "Palm Beach",
+    "Virgin Islands"
   ],
   "images": []
 }

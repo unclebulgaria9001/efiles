@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-18",
   "filename": "1320-18.pdf",
-  "extraction_date": "2025-11-17T10:20:55.120526",
+  "extraction_date": "2025-11-17T10:34:59.587376",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -66,31 +66,31 @@
     }
   ],
   "people": [
-    "See Elliott Associates",
-    "Parklane Hosiery Co",
-    "See Menninger Dec",
-    "Practice Law",
-    "Adrianna\nMucinska",
-    "Other Requirements",
-    "Credit Lyonnais",
-    "As Cassell",
-    "West Bend\nMutual",
-    "One Bank",
-    "Columbia Hosp",
+    "Daily Mail",
+    "Elliott Associates",
+    "Zirkelbach Const",
     "Joinder Motion",
-    "But Dershowitz",
-    "Court\nSouthern District",
-    "Aristocrat Leisure Ltd",
-    "Client\nPrivilege",
-    "First Union National",
-    "Defamation Action Has",
-    "Universal City Development",
-    "University St"
+    "See Savino",
+    "This Florida",
+    "Midtown Rochester",
+    "Alfredo\nRodriquez",
+    "Rights During\nCriminal",
+    "Nadia Marcinkova",
+    "Avenue\nDenver",
+    "Counterclaim Plaintiff",
+    "Southern Bell Tel",
+    "Florida\nCourt",
+    "New York Branch",
+    "Adrianna\nMucinska",
+    "Jane\nDoes",
+    "See West Bend",
+    "Trust Bank",
+    "Plaintiff Virginia Giuffre"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

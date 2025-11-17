@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.12",
   "filename": "gov.uscourts.nysd.447706.1330.12.pdf",
-  "extraction_date": "2025-11-17T10:17:51.393384",
+  "extraction_date": "2025-11-17T10:32:01.663809",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,30 +62,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Ghislaine Maxwell",
-    "Electronic\nCourt",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
-    "Sealed Exhibit",
-    "Compel\nData",
-    "Court\nSouthern District",
-    "United States District",
     "Salt Lake City",
     "Juan Alessi",
-    "University St",
-    "Fort Lauderdale",
     "Law\nUniversity",
-    "New York\nVirginia",
+    "Quinney College",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "Sealed Exhibit",
+    "University St",
+    "Meredith Schultz",
     "Adverse Inference Instruction",
-    "Janusz Banasiak"
+    "Pro Hac Vice",
+    "Case No",
+    "Main Street\nArmonk",
+    "Compel\nData",
+    "United States District",
+    "New York\nVirginia",
+    "Las Olas Blvd"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

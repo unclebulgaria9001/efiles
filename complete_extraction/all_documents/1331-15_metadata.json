@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-15",
   "filename": "1331-15.pdf",
-  "extraction_date": "2025-11-17T10:16:33.894761",
+  "extraction_date": "2025-11-17T10:37:19.615993",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -102,32 +102,32 @@
     }
   ],
   "people": [
-    "Did Ms",
-    "With Citrix",
-    "Kress Court Reporting",
-    "Officer Recarey",
-    "Greens Pharmacy",
-    "Rue Notre Dame",
-    "On Exhibit",
-    "Beach County",
-    "And Louella",
-    "File Under Seal",
-    "From New",
-    "West Palm",
-    "Bob Critton",
+    "Ives Dairy Road",
+    "Detective Recarey",
+    "Las Olas Oty",
+    "Sally Jones",
+    "Miami Beach",
     "Taking Continued Videotaped",
-    "Montauk Lake Club",
-    "That Is",
-    "Fisher Island",
-    "Sidney Bowman",
-    "El Brillo",
-    "Arturo Torres"
+    "Sharper Image",
+    "Leona Helmsley",
+    "Saint James Island",
+    "And Louella",
+    "Only Sarah",
+    "Sarah Kellen",
+    "On Exhibit",
+    "File Under Seal",
+    "Biscayne Boulevard",
+    "Officer Recarey",
+    "Long Island",
+    "On July",
+    "West Palm",
+    "When Officer Recarey"
   ],
   "locations": [
-    "Paris",
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida",
+    "Paris"
   ],
   "images": []
 }

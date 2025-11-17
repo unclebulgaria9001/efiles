@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-4",
   "filename": "1320-4.pdf",
-  "extraction_date": "2025-11-17T10:20:31.811657",
+  "extraction_date": "2025-11-17T10:34:35.998722",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "Annie Farmer",
-    "Did Emmy",
-    "President Clinton",
-    "Has Annie Farmer",
-    "When Jeffrey",
-    "James Christe",
-    "Court\nReporter",
-    "South University Street",
-    "Does Jeffrey",
-    "Virginia Roberts",
     "Salt Lake City",
-    "Notary Public",
-    "Andrews Avenue\nFort",
-    "Jeffrey Epstein",
-    "Did Emmy Taylor",
+    "Was Johanna Sjoberg",
+    "When Johanna Sjoberg",
     "Americas\nNew York",
-    "Also Present",
+    "James Christe",
     "Bill Clinton",
+    "Annie Farmer",
+    "Did Emmy Taylor",
+    "Does Jeffrey",
+    "Lexington\nAvenue",
+    "When Jeffrey",
     "East Las Olas",
-    "Leslie Fagin"
+    "Jeffrey Epstein",
+    "President Clinton",
+    "Case No",
+    "Doug Band",
+    "Was Emmy",
+    "Leslie Fagin",
+    "South University Street",
+    "Virginia Roberts"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

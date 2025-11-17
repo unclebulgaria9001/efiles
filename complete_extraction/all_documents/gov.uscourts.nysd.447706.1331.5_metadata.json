@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.5",
   "filename": "gov.uscourts.nysd.447706.1331.5.pdf",
-  "extraction_date": "2025-11-17T10:19:18.061476",
+  "extraction_date": "2025-11-17T10:33:31.008704",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -81,31 +81,31 @@
     }
   ],
   "people": [
-    "David Boies",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Ghislaine Maxwell",
-    "Detective Joseph Recarey",
-    "Meredith Schultz\nMeredith",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
-    "Sealed Exhibit",
-    "Court\nSouthern District",
-    "Judith Lightfoot",
-    "United States District",
-    "Virginia Giuffre",
-    "University St",
     "Salt Lake City",
-    "Fort Lauderdale",
-    "To Defendant",
-    "New York\nVirginia",
+    "Meredith Schultz\nMeredith",
+    "Judith Lightfoot",
+    "Electronic\nCourt Filing",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "Louella Rabuyo",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "Sealed Exhibit",
+    "University St",
+    "Meredith Schultz",
+    "Victim Notification Letter",
+    "Pro Hac Vice",
     "Case No",
-    "Avenue\nDenver"
+    "Meredith Schultz\nSigrid",
+    "Main Street\nArmonk",
+    "Motion For Sanctions",
+    "United States District",
+    "New York\nVirginia"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

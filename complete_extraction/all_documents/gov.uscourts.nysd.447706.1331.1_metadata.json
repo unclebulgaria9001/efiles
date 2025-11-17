@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.1",
   "filename": "gov.uscourts.nysd.447706.1331.1.pdf",
-  "extraction_date": "2025-11-17T10:19:17.485172",
+  "extraction_date": "2025-11-17T10:33:30.380651",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -49,30 +49,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Late Production",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Reply In Support",
-    "Ghislaine Maxwell",
-    "Deposition Based",
-    "Meredith Schultz\nMeredith",
-    "Appear Pro Hac",
-    "Sealed Exhibit",
-    "Court\nSouthern District",
-    "United States District",
     "Salt Lake City",
-    "University St",
-    "Fort Lauderdale",
+    "Meredith Schultz\nMeredith",
     "Law\nUniversity",
-    "New York\nVirginia",
-    "Boies Schiller"
+    "Quinney College",
+    "Electronic\nCourt Filing",
+    "Jeffrey Pagliuca",
+    "Key Documents",
+    "Respectfully Submitted",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "Sealed Exhibit",
+    "University St",
+    "Johanna Sjoberg",
+    "Meredith Schultz",
+    "Pro Hac Vice",
+    "Late Production",
+    "Case No",
+    "Main Street\nArmonk",
+    "United States District"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

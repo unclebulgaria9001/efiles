@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-14",
   "filename": "1320-14.pdf",
-  "extraction_date": "2025-11-17T10:22:19.000848",
+  "extraction_date": "2025-11-17T10:36:22.136064",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email"
@@ -52,16 +52,16 @@
     }
   ],
   "people": [
-    "Ross Gow",
-    "Berkeley Square\nLondon",
-    "Managing Partner",
-    "Daily Mail",
-    "Palm Beach\nCounty",
-    "Ross\nRoss Gow",
-    "Reputation\nLimited",
-    "Philip Barden\nSubject",
     "Ghislaine\nSome",
-    "Royal Palm Beach"
+    "Ross Gow",
+    "Daily Mail",
+    "Royal Palm Beach",
+    "Berkeley Square\nLondon",
+    "Reputation\nLimited",
+    "Managing Partner",
+    "Philip Barden\nSubject",
+    "Palm Beach\nCounty",
+    "Ross\nRoss Gow"
   ],
   "locations": [
     "Palm Beach",

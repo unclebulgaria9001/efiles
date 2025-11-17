@@ -1,7 +1,7 @@
 {
   "doc_id": "1320",
   "filename": "1320.pdf",
-  "extraction_date": "2025-11-17T10:21:06.416987",
+  "extraction_date": "2025-11-17T10:35:10.629630",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -49,13 +49,13 @@
     }
   ],
   "people": [
-    "Email Correspondence",
+    "Case No",
     "The Honorable Loretta",
     "Judge\nUnited States",
     "District Court\nSouthern",
-    "Case No",
-    "Dear Judge Preska",
+    "Email Correspondence",
     "Pearl Street\nNew",
+    "Dear Judge Preska",
     "Preska\nDistrict Court"
   ],
   "locations": [

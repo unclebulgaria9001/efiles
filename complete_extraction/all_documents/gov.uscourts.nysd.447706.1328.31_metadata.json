@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.31",
   "filename": "gov.uscourts.nysd.447706.1328.31.pdf",
-  "extraction_date": "2025-11-17T10:16:25.882715",
+  "extraction_date": "2025-11-17T10:37:11.062266",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -70,31 +70,31 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Professor Dershowitz",
-    "Fourth\nAmendment",
-    "This\nCourt",
-    "Bouchard Transp",
-    "Logged\nDefendant",
-    "Minute Entry",
-    "Respectfully Submitted",
-    "Defendant Ghislaine Maxwell",
-    "North Andrews Avenue",
-    "Requests\nNos",
-    "Requests Nos",
-    "Ghislaine Maxwell",
-    "Alessi Dep",
-    "Border Protection",
-    "Public Records Request",
-    "How Defendant",
     "Laura Menninger",
-    "Request No"
+    "Banasiak Dep",
+    "This\nCourt",
+    "Uniform Resource Identifier",
+    "Plaintiff Virginia Giuffre",
+    "New York Local",
+    "New York\nVirginia",
+    "Law\nUniversity",
+    "This Court Should",
+    "Protective Order",
+    "Fourth Amendment",
+    "Meredith Schultz\nMeredith",
+    "Meredith Schultz",
+    "See Von Bulow",
+    "Requests\nNos",
+    "The Documents Improperly",
+    "Quinney College",
+    "How Defendant",
+    "Forensic Review",
+    "Documents Responsive"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

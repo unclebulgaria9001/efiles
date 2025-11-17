@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-11",
   "filename": "1331-11.pdf",
-  "extraction_date": "2025-11-17T10:17:12.047508",
+  "extraction_date": "2025-11-17T10:31:20.049915",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -82,30 +82,30 @@
     }
   ],
   "people": [
-    "Miami Florida",
-    "Las Olas City",
-    "For Johanna",
-    "Kress Court Reporting",
-    "Rue Notre Dame",
-    "Taking Continued Videotaped",
-    "Duces Tecum",
-    "Avenue North",
-    "North Flagler Drtve",
-    "Alfredo Rodriguez",
+    "Jane Doe",
+    "Court Reporter",
     "West Flagler Street",
-    "Lake Worth",
+    "For Johanna",
     "During Mr",
-    "Miami Beach",
-    "North Miami",
-    "El Brillo Way",
-    "Ives Dairy Road",
-    "Notary Public",
+    "Alfredo Rodriguez",
+    "Biscayne Boulevard",
+    "East Las Olas",
+    "Kress Court Reporting",
     "Jeffrey Epstein",
-    "Fort Lauderdale"
+    "Xl\nNota",
+    "Palm Beach Gardens",
+    "North Flagler Drtve",
+    "Fort Lauderdale",
+    "El Brillo Way",
+    "Lake Worth",
+    "Miami Florida",
+    "Taking Continued Videotaped",
+    "Ives Dairy Road",
+    "Las Olas City"
   ],
   "locations": [
-    "Florida",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

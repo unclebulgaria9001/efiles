@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.0",
   "filename": "gov.uscourts.nysd.447706.1328.0.pdf",
-  "extraction_date": "2025-11-17T10:19:13.836379",
+  "extraction_date": "2025-11-17T10:33:26.565180",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -49,13 +49,13 @@
     }
   ],
   "people": [
-    "Email Correspondence",
+    "Case No",
     "The Honorable Loretta",
     "Judge\nUnited States",
     "District Court\nSouthern",
-    "Case No",
-    "Dear Judge Preska",
+    "Email Correspondence",
     "Pearl Street\nNew",
+    "Dear Judge Preska",
     "Preska\nDistrict Court"
   ],
   "locations": [

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.33",
   "filename": "gov.uscourts.nysd.447706.1328.33.pdf",
-  "extraction_date": "2025-11-17T10:16:46.807954",
+  "extraction_date": "2025-11-17T10:37:33.830763",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -37,11 +37,11 @@
     }
   ],
   "people": [
-    "Ross Gow",
-    "Guiffeeagainst Ms",
+    "File Under Seal",
     "Best\nRoss",
+    "Guiffeeagainst Ms",
     "Jane Doe",
-    "File Under Seal"
+    "Ross Gow"
   ],
   "locations": [],
   "images": []

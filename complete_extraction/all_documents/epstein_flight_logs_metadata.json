@@ -1,0 +1,19 @@
+{
+  "doc_id": "epstein_flight_logs",
+  "filename": "epstein_flight_logs.pdf",
+  "extraction_date": "2025-11-17T10:37:20.947911",
+  "extraction_method": "none",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 44,
+  "images_extracted": 0,
+  "dates_found": 0,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [],
+  "people": [],
+  "locations": [],
+  "images": []
+}

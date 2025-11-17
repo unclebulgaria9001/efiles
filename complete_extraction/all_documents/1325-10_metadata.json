@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-10",
   "filename": "1325-10.pdf",
-  "extraction_date": "2025-11-17T10:23:00.863390",
+  "extraction_date": "2025-11-17T10:37:04.366918",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,28 +56,28 @@
     }
   ],
   "people": [
-    "When Jeffrey Epstein",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Certified Realtime",
-    "Registered\nProfessional Reporter",
-    "Felicia Esposito",
-    "Podhurst Orseck",
-    "Jeff Pagluica",
-    "Hayley Robson",
     "Jane Doe",
+    "Certified Realtime",
+    "Hayley Robson",
+    "Certified Realtime\nReporter",
+    "When Jeffrey Epstein",
     "Ashley Davis",
     "Tony Figueroa",
-    "Certified Realtime\nReporter",
-    "File Under Seal",
+    "Jeff Pagluica",
     "West\nFlagler Street",
-    "Florida\nCommission",
+    "Podhurst Orseck",
+    "Registered\nProfessional Reporter",
+    "Notary Public",
     "Kelli Ann Willis",
+    "File Under Seal",
+    "Jeffrey Epstein",
+    "Florida\nCommission",
+    "Felicia Esposito",
     "Did Jane Doe"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

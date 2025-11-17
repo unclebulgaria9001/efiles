@@ -1,23 +1,23 @@
 # Statistics Summary - Complete Analysis
 
-**Generated**: 2025-11-17 10:23:54
+**Generated**: 2025-11-17 10:37:34
 
 ---
 
 ## Document Statistics
 
-- **Total Documents**: 388
-- **Total Text**: 8,602,446 characters
+- **Total Documents**: 390
+- **Total Text**: 8,602,534 characters
 - **Total Images**: 0
 - **Total Dates Found**: 6214
 
 ### By Document Type
-- **Unknown**: 204 (52.6%)
-- **Legal Document**: 172 (44.3%)
-- **Deposition**: 135 (34.8%)
-- **Financial**: 67 (17.3%)
+- **Unknown**: 206 (52.8%)
+- **Legal Document**: 172 (44.1%)
+- **Deposition**: 135 (34.6%)
+- **Financial**: 67 (17.2%)
 - **Correspondence**: 51 (13.1%)
-- **Email**: 22 (5.7%)
+- **Email**: 22 (5.6%)
 - **Flight Log**: 12 (3.1%)
 
 
@@ -25,23 +25,22 @@
 
 ## People Statistics
 
-- **Total Unique People**: 1,492
-- **Total Mentions**: 6,873
-- **Average Mentions per Person**: 4.6
+- **Total Unique People**: 1,427
+- **Total Mentions**: 7,440
+- **Average Mentions per Person**: 5.2
 - **VIPs Identified**: 14
 
 ### Top 10 Most Mentioned
-1. **Ghislaine Maxwell**: 313 mentions
-2. **Jane Doe**: 237 mentions
-3. **Jeffrey Epstein**: 203 mentions
-4. **This Request**: 173 mentions
-5. **Local Rule**: 107 mentions
-6. **Work
-Product**: 80 mentions
-7. **Sharon Church**: 79 mentions
-8. **Notary Public**: 74 mentions
-9. **Cynthia Hopkins**: 73 mentions
-10. **This Interrogatory**: 72 mentions
+1. **Jane Doe**: 474 mentions
+2. **Jeffrey Epstein**: 221 mentions
+3. **Ghislaine Maxwell**: 199 mentions
+4. **Special Master**: 183 mentions
+5. **Request No**: 159 mentions
+6. **Menninger Decl**: 97 mentions
+7. **Sarah Kellen**: 89 mentions
+8. **Ross Gow**: 89 mentions
+9. **Prince Andrew**: 79 mentions
+10. **Sharon Church**: 79 mentions
 
 
 ---

@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-27",
   "filename": "1320-27.pdf",
-  "extraction_date": "2025-11-17T10:20:38.395794",
+  "extraction_date": "2025-11-17T10:34:42.799559",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,30 +62,30 @@
     }
   ],
   "people": [
+    "Salt Lake City",
+    "Fifth Amendment",
+    "Sarah Kellen",
+    "Law\nUniversity",
+    "Quinney College",
+    "Exceed Presumptive Ten",
+    "Michael Reiter",
+    "Bill Clinton",
+    "Jo Jo\nFontanella",
+    "If Epstein",
+    "Respectfully Submitted",
+    "Jeffrey Pagliuca",
+    "William\nJefferson Clinton",
+    "Electronic Filing",
     "Yet Defendant",
     "David Boies\nBoies",
-    "Quinney College",
-    "President Clinton",
-    "Respectfully Submitted",
     "North Andrews Avenue",
-    "Ghislaine Maxwell",
-    "See Motion",
-    "The Second Circuit",
     "President Bill Clinton",
-    "Rinaldo Rizzo",
-    "William\nJefferson Clinton",
-    "Prince Andrew",
-    "Final Dep",
-    "Ghislaine\nMaxwell",
-    "Court\nSouthern District",
-    "Second Circuit",
-    "See Fed",
-    "That Ms",
-    "Deposition Limit"
+    "The Second Circuit",
+    "Avenue\nDenver"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

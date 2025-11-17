@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.19",
   "filename": "gov.uscourts.nysd.447706.1328.19.pdf",
-  "extraction_date": "2025-11-17T10:16:24.394644",
+  "extraction_date": "2025-11-17T10:37:09.685634",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition"
@@ -51,26 +51,26 @@
     }
   ],
   "people": [
-    "Bob Norman",
-    "Jeffrey Epstein",
-    "Follow Local",
-    "Updated On",
-    "Robert Maxwell",
-    "Published On",
-    "Virgginia Roberts",
-    "Home Page",
-    "Prince Andrew",
-    "Alfredo Rodriguez",
-    "Alan Dershowitz",
-    "File Under Seal",
-    "Ghislaine Maxwell",
     "Palm\nBeach",
-    "Miami Beach"
+    "File Under Seal",
+    "Alan Dershowitz",
+    "Bob Norman",
+    "Ghislaine Maxwell",
+    "Alfredo Rodriguez",
+    "Updated On",
+    "Miami Beach",
+    "Follow Local",
+    "Virgginia Roberts",
+    "Published On",
+    "Robert Maxwell",
+    "Home Page",
+    "Jeffrey Epstein",
+    "Prince Andrew"
   ],
   "locations": [
-    "Florida",
     "New York",
     "Palm Beach",
+    "Florida",
     "London"
   ],
   "images": []

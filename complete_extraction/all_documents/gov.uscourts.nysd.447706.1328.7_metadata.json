@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.7",
   "filename": "gov.uscourts.nysd.447706.1328.7.pdf",
-  "extraction_date": "2025-11-17T10:19:41.775413",
+  "extraction_date": "2025-11-17T10:33:54.166535",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -63,31 +63,31 @@
     }
   ],
   "people": [
-    "Annie Farmer",
-    "David Boies\nBoies",
-    "Composite Exhibit",
-    "Answer Deposition\nQuestions",
-    "Excerpted Rodgers Dep",
+    "Salt Lake City",
+    "Dave Rodgers",
+    "The Daily Mail",
+    "Fifth Amendment",
+    "Sarah Kellen",
+    "Juan Alessi",
+    "Law\nUniversity",
     "Quinney College",
-    "Johanna\nSjoberg",
-    "Police Detective Joseph",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Balliol College",
-    "Detective Joseph Recarey",
-    "Both Sarah Kellen",
     "Oxford University",
-    "Maria Farmer",
-    "Rinaldo Rizzo",
-    "Carolyn Andriamo"
+    "Bill Clinton",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "Annie Farmer",
+    "David Rodgers",
+    "Electronic Filing",
+    "Louella Rabuyo",
+    "Alfredo Rodriguez",
+    "Nadia Marcinkova",
+    "David Boies\nBoies",
+    "Both Sarah Kellen"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

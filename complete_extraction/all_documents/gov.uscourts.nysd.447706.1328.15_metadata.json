@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.15",
   "filename": "gov.uscourts.nysd.447706.1328.15.pdf",
-  "extraction_date": "2025-11-17T10:19:38.967838",
+  "extraction_date": "2025-11-17T10:33:52.310805",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,30 +62,30 @@
     }
   ],
   "people": [
-    "Plaintiffs Exhibit",
     "Jack Goldberger",
-    "Filed Under Seal",
-    "Australian Av",
-    "Pagel Page",
-    "Luc Brunel",
-    "Ghislaine Maxwell",
-    "South\nSuite",
-    "Was Jane No",
-    "Registered Professional\nReporter",
-    "Katherine Ezell",
-    "Services\nNotary Public",
-    "Nadia Marcinkova",
     "Reporting Services",
+    "Fifth Amendment",
+    "Sarah Kellen",
+    "Cynthia Hopkins",
+    "Luc Brunel",
+    "Did Ghislaine Maxwell",
+    "Registered Professional\nReporter",
     "Prose Court Reporting",
-    "It\nPage",
-    "El Brillo",
-    "Reported By",
     "Services Prose Court",
-    "Florida Professional Reporter"
+    "Australian Av",
+    "Exhibit No",
+    "Katherine Ezell",
+    "Was Jane No",
+    "Nadia Marcinkova",
+    "Zinta Broukis",
+    "Jeffrey Epstein",
+    "Florida\nProse Court",
+    "Pagel Page",
+    "Job No"
   ],
   "locations": [
-    "Florida",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

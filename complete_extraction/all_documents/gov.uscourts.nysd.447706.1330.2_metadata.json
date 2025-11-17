@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.2",
   "filename": "gov.uscourts.nysd.447706.1330.2.pdf",
-  "extraction_date": "2025-11-17T10:18:10.926525",
+  "extraction_date": "2025-11-17T10:32:21.936589",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -82,35 +82,35 @@
     }
   ],
   "people": [
-    "Royal Palm\nBeach",
-    "Carol Roberts Kess",
-    "National Enquirer",
-    "Ron Eppinger\nResponse",
-    "Local Rule",
-    "Ron Eppinger",
-    "Court\nSouthern District",
-    "Local Civil\nRule",
-    "Glenning Valley",
-    "Ellen Brockman\nBoies",
-    "Jack Scarola",
-    "Quentin St",
-    "Lexington Ave\nNew",
+    "Any Document",
+    "Daily Mail",
+    "James Michael\nAustrichand",
+    "Any Documents",
+    "Kimberley Roberts",
+    "Local\nCivil Rule",
+    "See Rule",
     "Avenue\nDenver",
-    "Bondeena Rd",
-    "Seventeenth Judicial\nCircuit",
-    "Paul\nCassell",
-    "Paul Cassell",
-    "Employment You",
-    "Spencer Kuvin"
+    "Request No",
+    "Local Civil\nRule",
+    "Civil Procedure",
+    "Carol Roberts Kess",
+    "All Communications",
+    "Fort\nLauderdale",
+    "Your Attorneys",
+    "Plaintiff Virginia Giuffre",
+    "Santa Fe",
+    "Maria Villafano",
+    "Prince Andrew",
+    "The Defendant"
   ],
   "locations": [
+    "Little Saint James",
     "London",
     "New York",
-    "New Mexico",
     "Florida",
-    "Virgin Islands",
-    "Little Saint James",
-    "Palm Beach"
+    "New Mexico",
+    "Palm Beach",
+    "Virgin Islands"
   ],
   "images": []
 }

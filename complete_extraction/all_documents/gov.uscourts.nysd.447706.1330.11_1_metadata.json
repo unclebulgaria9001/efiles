@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.11_1",
   "filename": "gov.uscourts.nysd.447706.1330.11_1.pdf",
-  "extraction_date": "2025-11-17T10:18:07.536836",
+  "extraction_date": "2025-11-17T10:32:18.419962",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -74,31 +74,31 @@
     }
   ],
   "people": [
-    "United States Department",
     "Judge Peck",
-    "The Account\nMs",
-    "Sealed Composite Exhibit",
-    "Court\nSouthern District",
-    "Supplement Motion",
-    "Fifteenth Judicial\nCircuit",
-    "University St",
-    "Law\nUniversity",
-    "That Mr",
-    "Janusz Banasiak",
-    "And Mark\nLumber",
-    "Adverse Inference\nInstruction",
-    "Residential\nFunding Corp",
+    "Citgo\nRefining",
+    "Nadia Marcinkova",
     "Avenue\nDenver",
+    "Civil Procedure",
+    "The Account\nThe",
+    "Adverse Inference Instruction",
+    "The Defendant",
+    "Court Order",
+    "Alessi Dep",
+    "Adverse Inference\nInstruction",
+    "Fort Lauderdale",
+    "Ghislaine Maxwell",
+    "Financial Corp",
+    "Supplement Motion",
     "State Attorney",
-    "Chevron Corp",
-    "Federal Rules",
-    "Main Street\nArmonk",
-    "Appropriate\nAn"
+    "Public Records Request",
+    "Fifteenth Judicial\nCircuit",
+    "Law\nUniversity",
+    "Quinney College"
   ],
   "locations": [
-    "Florida",
     "New York",
     "Palm Beach",
+    "Florida",
     "Manhattan"
   ],
   "images": []

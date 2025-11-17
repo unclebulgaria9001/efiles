@@ -1,6 +1,6 @@
 # Complete Timeline - All Documents
 
-**Generated**: 2025-11-17 10:23:14
+**Generated**: 2025-11-17 10:37:21
 
 **Total Events**: 1730
 
@@ -10,9 +10,8 @@
 
 **Document**: 1331-32.pdf
 **Type**: legal_document
-**People**: York
-Virginia, Sarah Emma Ashley, Virgin Islands, Ching Chang
-Vice, The Kingdom
+**People**: The Kingdom, Sarah Ransome, Nadia Marcinkova, Sarah Emma Ashley, Ching Chang
+Vice
 **Locations**: New York, Virgin Islands
 
 ---
@@ -21,9 +20,8 @@ Vice, The Kingdom
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -31,9 +29,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -41,9 +38,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -51,9 +47,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -61,9 +56,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -71,9 +65,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -81,9 +74,9 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -91,9 +84,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -101,9 +94,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -111,9 +104,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -121,9 +114,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -131,9 +124,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -141,9 +134,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -151,9 +144,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -161,9 +154,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -171,9 +164,9 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-2.pdf
 **Type**: deposition, legal_document
-**People**: See Complaint, David Boies
-Boies, Composite Exhibit, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Maxwell Depo, Fifth Amendment, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -181,8 +174,8 @@ Boies, Composite Exhibit, Quinney College, Respectfully Submitted
 
 **Document**: 1320-1.pdf
 **Type**: email, legal_document
-**People**: Jeffrey
-We, Ross Gow, Jane Does, Philip Barden
+**People**: Ross Gow, Philip Barden, Jeffrey
+We, Jane Does
 
 ---
 
@@ -190,8 +183,8 @@ We, Ross Gow, Jane Does, Philip Barden
 
 **Document**: 1320-1.pdf
 **Type**: email, legal_document
-**People**: Jeffrey
-We, Ross Gow, Jane Does, Philip Barden
+**People**: Ross Gow, Philip Barden, Jeffrey
+We, Jane Does
 
 ---
 
@@ -199,9 +192,8 @@ We, Ross Gow, Jane Does, Philip Barden
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -209,9 +201,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -219,9 +210,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -229,9 +219,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -239,9 +228,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -249,9 +237,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -259,9 +246,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -269,9 +255,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -279,9 +264,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -289,9 +273,8 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-5.pdf
 **Type**: deposition, legal_document
-**People**: Eva Dubin, Johanna
-Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
-**Locations**: Florida, New York, Palm Beach, London
+**People**: James Christe, Jean Luc, Les Wexner, Jon Luc Brunel, Nadia Marcinkova
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -299,8 +282,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -308,8 +292,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -317,8 +302,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -326,8 +312,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -335,8 +322,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -344,8 +332,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -353,8 +342,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -362,8 +352,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -371,8 +362,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -380,8 +372,9 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-4.pdf
 **Type**: deposition, legal_document
-**People**: Annie Farmer, Did Emmy, President Clinton, Has Annie Farmer, When Jeffrey
-**Locations**: Florida, New York
+**People**: Salt Lake City, Was Johanna Sjoberg, When Johanna Sjoberg, Americas
+New York, James Christe
+**Locations**: New York, Florida
 
 ---
 
@@ -389,9 +382,10 @@ Sjoberg, Was Nadia, Questions About Meeting, Glen Dubin
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -399,9 +393,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -409,9 +404,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -419,9 +415,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -429,9 +426,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -439,9 +437,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -449,9 +448,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -459,9 +459,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -469,9 +470,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -479,9 +481,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-6.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Toallow Defendant, David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Palm Beach
+Police, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -489,8 +492,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -498,8 +502,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -507,8 +512,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -516,8 +522,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -525,8 +532,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -534,8 +542,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -543,8 +552,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -552,8 +562,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -561,8 +572,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -570,8 +582,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-40.pdf
 **Type**: deposition, legal_document, financial
-**People**: Coconut Creek, Heidi Klum, Ocean Blvd, Carol Roberts Kess, The Guardian
-**Locations**: Florida, Palm Beach, United Kingdom, London
+**People**: Paul
+Cassell, Jane Doe, Scott Rothstein, Ross Gow, Buckingham Palacestatement
+**Locations**: United Kingdom, Palm Beach, Florida, London
 
 ---
 
@@ -579,9 +592,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -589,9 +602,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -599,9 +612,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -609,9 +622,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -619,9 +632,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -629,9 +642,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -639,9 +652,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -649,9 +662,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -659,9 +672,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -669,9 +682,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -679,9 +692,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -689,9 +702,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -699,9 +712,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -709,9 +722,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -719,9 +732,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -729,9 +742,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -739,9 +752,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -749,9 +762,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -759,9 +772,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-27.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -769,8 +782,8 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -779,8 +792,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -789,8 +802,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -799,8 +812,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -809,8 +822,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -819,8 +832,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -829,8 +842,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -839,8 +852,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -849,8 +862,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -859,8 +872,8 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-33.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Initial Disclosure Requirements, Initial Disclosure
-Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
+**People**: Chris Donahue, Cityof New York, Initial Disclosure
+Requirements, Judith Lightfoot, Initial Disclosure Requirements
 **Locations**: New York
 
 ---
@@ -869,8 +882,7 @@ Requirements, Plaintiffsent Ms, Until Ms, Aviation Insurance
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -879,8 +891,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -889,8 +900,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -899,8 +909,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -909,8 +918,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -919,8 +927,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -929,8 +936,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -939,10 +945,10 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -950,10 +956,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -961,10 +967,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -972,10 +978,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -983,10 +989,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -994,10 +1000,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -1005,10 +1011,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -1016,10 +1022,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -1027,10 +1033,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -1038,10 +1044,10 @@ Professional Reporter
 
 **Document**: 1320-26.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -1049,9 +1055,9 @@ Professional Reporter
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -1060,9 +1066,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -1071,9 +1077,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1081,9 +1087,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1091,9 +1097,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1101,9 +1107,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1111,9 +1117,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1121,9 +1127,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1131,9 +1137,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1141,9 +1147,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1151,9 +1157,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1161,9 +1167,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-24.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Fifth Amendment, Sarah Kellen, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1171,9 +1177,8 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1181,9 +1186,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1191,9 +1195,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1201,9 +1204,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1211,9 +1213,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1221,9 +1222,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1231,9 +1231,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1241,9 +1240,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1251,9 +1249,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1261,9 +1258,8 @@ Mucinska
 
 **Document**: 1320-18.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Elliott Associates, Parklane Hosiery Co, See Menninger Dec, Practice Law, Adrianna
-Mucinska
-**Locations**: Florida, New York, Palm Beach
+**People**: Daily Mail, Elliott Associates, Zirkelbach Const, Joinder Motion, See Savino
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -1271,8 +1267,8 @@ Mucinska
 
 **Document**: 1320-19.pdf
 **Type**: legal_document, correspondence
-**People**: Jean Luc Brunel, Virgin Islands, In Sydney, Luc Brunel, Ghislaine Maxwell
-**Locations**: New Mexico, France, Palm Beach, Virgin Islands
+**People**: Jean Luc Brunel, Jane Doe, Luc Brunel, New Mexico, In Sydney
+**Locations**: France, Palm Beach, New Mexico, Virgin Islands
 
 ---
 
@@ -1280,9 +1276,10 @@ Mucinska
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1290,9 +1287,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1300,9 +1298,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1310,9 +1309,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -1320,9 +1320,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1330,9 +1330,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1340,9 +1340,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1350,9 +1350,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1360,9 +1360,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1370,9 +1370,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1380,9 +1380,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -1404,9 +1404,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1414,9 +1414,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1424,9 +1424,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1434,9 +1434,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1444,9 +1444,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1454,9 +1454,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1464,9 +1464,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1474,9 +1474,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1484,9 +1484,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1494,9 +1494,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320-21.pdf
 **Type**: deposition, legal_document, financial
-**People**: Yet Defendant, David Boies
-Boies, Quinney College, President Clinton, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jane Doe, Fifth Amendment, Sarah Kellen, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -1504,9 +1504,9 @@ Boies, Quinney College, President Clinton, Respectfully Submitted
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -1515,9 +1515,9 @@ Southern, Case No
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1525,9 +1525,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1535,9 +1535,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1545,9 +1545,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1555,9 +1555,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1565,9 +1565,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1575,9 +1575,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1585,9 +1585,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1595,9 +1595,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1605,9 +1605,9 @@ Sigalav
 
 **Document**: 1320-20.pdf
 **Type**: deposition, legal_document, financial
-**People**: Plaintiffidentifies Nadia
-Marcinkova, Fifth Amendment, Lakes Rd, Theinformation Plaintiffclaims, In
-Sigalav
+**People**: Avenue
+Denver, Conde Nast, Plaintiffidentifies Nadia
+Marcinkova, Theinformation Plaintiffclaims, Fifth Amendment
 
 ---
 
@@ -1615,8 +1615,7 @@ Sigalav
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1625,8 +1624,7 @@ Supplemental
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1635,8 +1633,7 @@ Supplemental
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1645,8 +1642,7 @@ Supplemental
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1655,9 +1651,9 @@ Supplemental
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -1665,9 +1661,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -1675,9 +1671,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -1685,7 +1681,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1694,7 +1690,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1703,7 +1699,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -1712,9 +1708,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1722,9 +1717,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1732,9 +1726,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1742,9 +1735,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1752,9 +1744,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1762,9 +1753,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1772,9 +1762,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1782,9 +1771,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1792,9 +1780,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1802,9 +1789,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-37.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -1812,10 +1798,10 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1823,10 +1809,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1834,10 +1820,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1845,10 +1831,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1856,10 +1842,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1867,10 +1853,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1878,10 +1864,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1889,10 +1875,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1900,10 +1886,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1911,10 +1897,10 @@ Professional Reporter
 
 **Document**: 1320-23.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -1922,8 +1908,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1931,8 +1917,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1940,8 +1926,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1949,8 +1935,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1958,8 +1944,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1967,8 +1953,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1976,8 +1962,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1985,8 +1971,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -1994,8 +1980,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -2003,8 +1989,8 @@ Professional Reporter
 
 **Document**: 1320-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, That Ghislaine, The State, Dore Louis, Kelli Ann Willis
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Manhattan
+**People**: Did Virginia, Daily Mail, Cate Blanchett, George Lucas, Tipper Gore
+**Locations**: New York, Florida, New Mexico, Palm Beach, Manhattan, Virgin Islands
 
 ---
 
@@ -2012,10 +1998,10 @@ Professional Reporter
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -2023,10 +2009,10 @@ Report
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -2034,10 +2020,10 @@ Report
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -2045,10 +2031,10 @@ Report
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -2056,8 +2042,9 @@ Report
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2066,8 +2053,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2076,8 +2064,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2086,8 +2075,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2096,8 +2086,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2106,8 +2097,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2116,8 +2108,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2126,8 +2119,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2136,8 +2130,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2146,8 +2141,9 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-39.pdf
 **Type**: email, deposition, legal_document, financial, correspondence
-**People**: On Aug, Sharon Rikard
-To, Professionalsretainedby Work, Robert Giuffre, Hi There
+**People**: Hi Virginia, Robert Giuffre
+To, Judge
+Paul Cassal, On Aug, Original Message
 **Locations**: Florida
 
 ---
@@ -2170,9 +2166,8 @@ To, Professionalsretainedby Work, Robert Giuffre, Hi There
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2180,9 +2175,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2190,9 +2184,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2200,9 +2193,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2210,9 +2202,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2220,9 +2211,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2230,9 +2220,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2240,9 +2229,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2250,9 +2238,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2260,9 +2247,8 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-10.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Eva Dubin, Email Correspondence, Manhattan
-Townhouse, Maxwell Depo, Dave Rogers
-**Locations**: London, New York, New Mexico, Florida, Palm Beach, Manhattan
+**People**: With Defendant, Jo Jo Fontanella, Police Chief Michael, David Rodgers, Nadia Marcinkova
+**Locations**: London, New York, Florida, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -2270,10 +2256,9 @@ Townhouse, Maxwell Depo, Dave Rogers
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2281,10 +2266,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2292,10 +2276,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2303,10 +2286,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2314,10 +2296,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2325,10 +2306,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2336,10 +2316,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2347,10 +2326,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2358,10 +2336,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2369,10 +2346,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-28.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: But
-Plaintiff, Benistar Admin, While
-Ms, Means Other, Combined Response
-**Locations**: London, New York, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Compel Improper Privileges, Daily Mail, Joinder Motion, Complete Depositions, Responsein
+Opposition
+**Locations**: London, New York, France, Florida, Little St. James, Palm Beach, Virgin Islands
 
 ---
 
@@ -2380,9 +2356,9 @@ Ms, Means Other, Combined Response
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -2391,9 +2367,9 @@ County
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -2402,9 +2378,9 @@ County
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -2413,13 +2389,10 @@ County
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2428,13 +2401,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2443,13 +2413,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2458,13 +2425,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2473,13 +2437,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2488,13 +2449,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2503,13 +2461,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2518,13 +2473,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2533,13 +2485,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2548,13 +2497,10 @@ Client
 
 **Document**: 1320-15.pdf
 **Type**: deposition, legal_document
-**People**: Professionalsretainedby Work, Meredith
-Giuffregivinglegaladviceorgivingattorneymental
-Boies, Bob Giuffretotheattorneyslistedseekinglegaladvicerelatedtothe
-Josefsberg, Maxwell
-Edwards, Type
-Attorney
-Client
+**People**: Giuffregiving
+Brockman, Log Privilege Doc, Work
+Product, Work Approx, Brad Documentswithheldpursuanttotheprivilegesasserted
+Edwards
 **Locations**: Florida
 
 ---
@@ -2563,10 +2509,8 @@ Client
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2575,10 +2519,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2587,10 +2529,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2599,10 +2539,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2611,10 +2549,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2623,10 +2559,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -2635,10 +2569,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2646,10 +2578,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2657,10 +2587,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2668,10 +2596,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2679,10 +2605,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2690,10 +2614,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2701,10 +2623,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2712,10 +2632,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2723,10 +2641,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2734,10 +2650,8 @@ Clinton Foundation
 
 **Document**: 1320-17.pdf
 **Type**: legal_document, financial
-**People**: This Request, The
-Definition, Punitive Damages, Bradley Edwards, Chelsea
-Clinton Foundation
-**Locations**: Florida, New York
+**People**: Second Request, University Street, Salt Lake City, Ross Gow, Joint Defense Agreement
+**Locations**: New York, Florida
 
 ---
 
@@ -2745,8 +2659,7 @@ Clinton Foundation
 
 **Document**: 1320-16.pdf
 **Type**: unknown
-**People**: Basham Client, Client Communication Attorney, Work Product, New York
-Giuffre, Ghislaine Maxwell
+**People**: Attorney Communication Attorney, Laura Mary Borja, Ross Gow, Client Communication Attorney, Laura Menninger
 **Locations**: New York
 
 ---
@@ -2755,8 +2668,7 @@ Giuffre, Ghislaine Maxwell
 
 **Document**: 1320-16.pdf
 **Type**: unknown
-**People**: Basham Client, Client Communication Attorney, Work Product, New York
-Giuffre, Ghislaine Maxwell
+**People**: Attorney Communication Attorney, Laura Mary Borja, Ross Gow, Client Communication Attorney, Laura Menninger
 **Locations**: New York
 
 ---
@@ -2765,8 +2677,7 @@ Giuffre, Ghislaine Maxwell
 
 **Document**: 1320-16.pdf
 **Type**: unknown
-**People**: Basham Client, Client Communication Attorney, Work Product, New York
-Giuffre, Ghislaine Maxwell
+**People**: Attorney Communication Attorney, Laura Mary Borja, Ross Gow, Client Communication Attorney, Laura Menninger
 **Locations**: New York
 
 ---
@@ -2775,10 +2686,8 @@ Giuffre, Ghislaine Maxwell
 
 **Document**: 1320-9.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -2786,9 +2695,9 @@ If
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2796,9 +2705,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2806,9 +2715,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2816,9 +2725,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2826,9 +2735,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2836,9 +2745,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2846,9 +2755,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2856,9 +2765,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2866,9 +2775,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2876,9 +2785,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1320-8.pdf
 **Type**: deposition, legal_document, financial
-**People**: Sarah
-Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
-**Locations**: Florida, New York, Palm Beach
+**People**: Is Sarah Kellen, Rafidain Bank, Medical Diagnostic Imaging, Nadia Marcinkova, Avenue
+Denver
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2886,10 +2795,9 @@ Kensington, Is Sarah Kellen, Epsteinand Maxwell, On March, Means Other Than
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2897,10 +2805,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2908,10 +2815,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2919,10 +2825,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2930,10 +2835,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2941,10 +2845,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -2952,9 +2855,8 @@ From, Filed Under Seal
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2962,9 +2864,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2972,9 +2873,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2982,9 +2882,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -2992,9 +2891,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3002,9 +2900,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3012,9 +2909,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3022,9 +2918,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3032,9 +2927,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3042,10 +2936,8 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -3054,10 +2946,8 @@ Meredith Schultz
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -3146,11 +3036,9 @@ Meredith Schultz
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3158,11 +3046,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3170,11 +3056,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3182,11 +3066,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3194,11 +3076,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3206,11 +3086,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3218,11 +3096,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3230,11 +3106,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3242,11 +3116,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3254,11 +3126,9 @@ Transcript, Centura Form
 
 **Document**: 1325-7.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: New York Presbyterianrecords, Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney
+**Locations**: New York, Florida
 
 ---
 
@@ -3266,11 +3136,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3278,11 +3147,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3290,11 +3158,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3302,11 +3169,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3314,11 +3180,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3326,11 +3191,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3338,11 +3202,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3350,11 +3213,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3362,11 +3224,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3374,11 +3235,10 @@ Transcript, Centura Form
 
 **Document**: 1325-14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Carol Giuffre, Sydney
-Produced
-Westmead, Design Strategy, Deposition
-Transcript, Centura Form
-**Locations**: Florida, New York
+**People**: Minute Entry, Improper Objections, Compel Rule, Release Form
+Heaney, Reopen
+Ms
+**Locations**: New York, Florida
 
 ---
 
@@ -3386,9 +3246,9 @@ Transcript, Centura Form
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -3397,8 +3257,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3406,8 +3266,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3415,8 +3275,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3424,8 +3284,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3433,8 +3293,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3442,8 +3302,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3451,8 +3311,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3460,8 +3320,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3469,8 +3329,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3478,8 +3338,8 @@ Southern, Case No
 
 **Document**: 1325-15.pdf
 **Type**: deposition, legal_document, financial
-**People**: Interrogatory Responses, Court Order, Defendant Ghislaine Maxwell, Did Sharon Churcher, Tony Figueroa
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Survivors Charter, South Salem
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3487,9 +3347,8 @@ Southern, Case No
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -3498,9 +3357,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -3509,9 +3367,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -3520,9 +3377,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -3531,8 +3387,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3540,8 +3398,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3549,8 +3409,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3558,8 +3420,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3567,8 +3431,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3576,8 +3442,10 @@ From, Las Olas
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -3585,8 +3453,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3594,8 +3463,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3603,8 +3473,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3612,8 +3483,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3621,8 +3493,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3630,8 +3503,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3639,8 +3513,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3648,8 +3523,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3657,8 +3533,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3666,8 +3543,9 @@ From, Las Olas
 
 **Document**: 1325-11.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Jeffrey Epstein, Fort Lauderdale, Ghislane Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, Attorney Gus Fronstin, Sarah Kellen, Errata Sheet
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -3675,9 +3553,9 @@ From, Las Olas
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3685,9 +3563,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3695,9 +3573,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3705,9 +3583,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3715,9 +3593,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3725,9 +3603,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3735,9 +3613,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3745,9 +3623,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3755,9 +3633,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3765,9 +3643,9 @@ Professional Reporter
 
 **Document**: 1325-10.pdf
 **Type**: deposition, legal_document
-**People**: When Jeffrey Epstein, Notary Public, Jeffrey Epstein, Certified Realtime, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Certified Realtime, Hayley Robson, Certified Realtime
+Reporter, When Jeffrey Epstein
+**Locations**: New York, Florida
 
 ---
 
@@ -3775,10 +3653,8 @@ Professional Reporter
 
 **Document**: 1325-3.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -3786,8 +3662,8 @@ If
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3796,8 +3672,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3806,8 +3682,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3816,8 +3692,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3826,8 +3702,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3836,8 +3712,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3846,8 +3722,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3856,8 +3732,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3866,8 +3742,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3876,8 +3752,8 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-1.pdf
 **Type**: deposition, legal_document, financial
-**People**: See Churcher Decl, Teen Sex Slave, Joinder
-Motion, As Churcher, Bradley Edwards
+**People**: University Street, Jane Doe, Under New
+York, Salt Lake City, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -3886,8 +3762,7 @@ Motion, As Churcher, Bradley Edwards
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3896,8 +3771,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3906,8 +3780,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3916,8 +3789,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3926,8 +3798,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3936,8 +3807,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -3946,11 +3816,11 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-13.pdf
 **Type**: email, financial, correspondence
-**People**: Bernadette Martin, Virginia Giuffre
-Dear, Lightfoot
-Consulting Psychologist, Kind Regards
-Bernadette, Meredith Schultz
-Subject
+**People**: Lightfoot
+Consulting Psychologist, Meredith Schultz
+Subject, Madam
+Ms Judith, Meredith Schultz
+From, Bernadette Martin
 
 ---
 
@@ -3958,11 +3828,11 @@ Subject
 
 **Document**: 1325-13.pdf
 **Type**: email, financial, correspondence
-**People**: Bernadette Martin, Virginia Giuffre
-Dear, Lightfoot
-Consulting Psychologist, Kind Regards
-Bernadette, Meredith Schultz
-Subject
+**People**: Lightfoot
+Consulting Psychologist, Meredith Schultz
+Subject, Madam
+Ms Judith, Meredith Schultz
+From, Bernadette Martin
 
 ---
 
@@ -3970,8 +3840,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -3979,8 +3849,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -3988,8 +3858,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -3997,8 +3867,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4006,8 +3876,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4015,8 +3885,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4024,8 +3894,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4033,8 +3903,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4042,8 +3912,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4051,8 +3921,8 @@ Subject
 
 **Document**: 1325-18.pdf
 **Type**: legal_document, correspondence
-**People**: Judge Marra, Your Honor, New York Daily, Buckingham Palace, File Under Seal
-**Locations**: Florida, New York, London
+**People**: Jane Doe, Laura Menninger, Rights Act, The Matherson, Bill Cosby
+**Locations**: New York, Florida, London
 
 ---
 
@@ -4060,9 +3930,8 @@ Subject
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4070,9 +3939,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4080,9 +3948,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4090,9 +3957,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4100,9 +3966,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4110,9 +3975,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4120,9 +3984,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4130,9 +3993,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4140,9 +4002,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4150,9 +4011,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-19.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Order, The
-Definition, Bradley Edwards, Instruction No, From January
-**Locations**: Florida, New York, Palm Beach, United Kingdom
+**People**: University Street, Law In Support, Salt Lake City, Ross Gow, Twin Lakes Rd
+**Locations**: New York, Palm Beach, Florida, United Kingdom
 
 ---
 
@@ -4160,9 +4020,8 @@ Definition, Bradley Edwards, Instruction No, From January
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -4170,9 +4029,8 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -4180,9 +4038,8 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -4190,9 +4047,8 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -4200,10 +4056,10 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4211,10 +4067,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4222,10 +4078,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4233,10 +4089,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4244,10 +4100,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4255,10 +4111,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4266,10 +4122,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4277,10 +4133,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4288,10 +4144,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4299,10 +4155,10 @@ Professional Reporter, And Ms
 
 **Document**: 1325-9.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, And Ms
-**Locations**: Florida, New York
+**People**: Did Maxwell, Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -4310,10 +4166,10 @@ Professional Reporter, And Ms
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -4321,10 +4177,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -4332,10 +4188,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -4343,166 +4199,151 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.19.pdf
+**Type**: deposition
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.19.pdf
+**Type**: deposition
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.19.pdf
+**Type**: deposition
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.19.pdf
+**Type**: deposition
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.31.pdf
+**Type**: deposition, legal_document, financial
+**People**: How Defendant, Public Records Request, Jane Doe, Salt Lake City, Ross Gow
+**Locations**: New York, Palm Beach, Florida
+
+---
+
+## 01/05/24
+
+**Document**: gov.uscourts.nysd.447706.1328.25.pdf
+**Type**: deposition, legal_document
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
 Professional Reporter
-**Locations**: Florida, New York
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.19.pdf
-**Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.19.pdf
-**Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.19.pdf
-**Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.19.pdf
-**Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.31.pdf
-**Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Professor Dershowitz, Fourth
-Amendment, This
-Court
-**Locations**: Florida, New York, Palm Beach
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4510,8 +4351,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4519,8 +4362,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4528,8 +4373,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4537,8 +4384,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4546,8 +4395,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4555,8 +4406,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4564,8 +4417,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4573,8 +4428,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4582,17 +4439,10 @@ Court
 
 **Document**: gov.uscourts.nysd.447706.1328.25.pdf
 **Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
-
----
-
-## 01/05/24
-
-**Document**: gov.uscourts.nysd.447706.1328.25.pdf
-**Type**: deposition, legal_document
-**People**: Palm Beach Atlantic, Notary Public, Filed Under Seal, Fort Lauderdale, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Did Maxwell, Palm Beach Atlantic, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -4600,11 +4450,11 @@ Court
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -4612,11 +4462,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -4624,11 +4474,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -4636,11 +4486,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -4648,8 +4498,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4657,8 +4507,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4666,8 +4516,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4675,8 +4525,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4684,8 +4534,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4693,8 +4543,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4702,8 +4552,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4711,8 +4561,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4720,8 +4570,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4729,8 +4579,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, With Citrix, Kress Court Reporting, Officer Recarey, Greens Pharmacy
-**Locations**: Paris, Florida, New York, Palm Beach
+**People**: Jane Doe, Only Sarah, And Louella, Eastern Europe, West Flagler Street
+**Locations**: New York, Palm Beach, Florida, Paris
 
 ---
 
@@ -4738,8 +4588,8 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -4748,8 +4598,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -4758,8 +4608,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -4768,8 +4618,9 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -4778,8 +4629,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -4788,8 +4640,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -4798,8 +4651,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -4808,9 +4662,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -4818,9 +4672,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -4828,9 +4682,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -4838,9 +4692,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -4848,9 +4702,7 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -4859,9 +4711,7 @@ Ghislaine Maxwell
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -4870,9 +4720,9 @@ Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -4880,9 +4730,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -4890,9 +4740,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -4900,9 +4750,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -4910,8 +4760,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4919,8 +4771,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4928,8 +4782,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4937,8 +4793,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4946,8 +4804,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4955,8 +4815,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4964,8 +4826,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4973,8 +4837,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4982,8 +4848,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -4991,8 +4859,10 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.30.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Mr Epstein, Palm Beach Atlantic, Filed Under Seal, Ghislane Maxwell, The Cessna
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Court Reporter, The Cessna, Americas
+New York, The Dubin, New
+York
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -5000,8 +4870,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5009,8 +4880,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5018,8 +4890,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5027,8 +4900,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5036,8 +4910,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5045,8 +4920,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5054,8 +4930,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5063,8 +4940,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5072,8 +4950,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5081,8 +4960,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.18.pdf
 **Type**: deposition, legal_document, financial
-**People**: Internet Express, Florida Department, Havenfield Corp, Wah San, Medical Event
-**Locations**: Florida, New York, Palm Beach
+**People**: Entity
+January, Recarey Dep, Daily Mail, Discovery Related, Minute Order
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5090,9 +4970,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -5100,9 +4980,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -5110,9 +4990,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -5120,9 +5000,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -5130,9 +5010,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -5140,9 +5020,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -5150,9 +5030,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -5160,9 +5040,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -5170,8 +5050,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5180,8 +5059,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5190,8 +5068,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5200,8 +5077,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5210,8 +5086,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5220,8 +5095,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5230,8 +5104,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5240,8 +5113,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5250,8 +5122,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5260,8 +5131,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-16.pdf
 **Type**: deposition, legal_document
-**People**: Be Deemed Unavailable, See Lindner, At Trial, Not Unavailable
-Plaintiff, Defendant Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Phillip Esplin Cannot, Ty Gee
 **Locations**: New York
 
 ---
@@ -5270,9 +5140,7 @@ Plaintiff, Defendant Ghislaine Maxwell
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -5281,9 +5149,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -5292,9 +5158,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -5303,9 +5167,9 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5313,9 +5177,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5323,9 +5187,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5333,9 +5197,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5343,9 +5207,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5353,9 +5217,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5363,9 +5227,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5373,9 +5237,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5383,9 +5247,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5393,9 +5257,9 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -5403,8 +5267,8 @@ Questions, Filed Under Seal, The District Court, Compel Attorney, Bradley Edward
 
 **Document**: gov.uscourts.nysd.447706.1328.33.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Best
-Ross, Jane Doe, File Under Seal
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, File Under Seal, Best
+Ross
 
 ---
 
@@ -5412,8 +5276,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.33.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Best
-Ross, Jane Doe, File Under Seal
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, File Under Seal, Best
+Ross
 
 ---
 
@@ -5421,8 +5285,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.33.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Best
-Ross, Jane Doe, File Under Seal
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, File Under Seal, Best
+Ross
 
 ---
 
@@ -5430,7 +5294,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5439,7 +5305,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5448,7 +5316,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5457,7 +5327,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5466,7 +5338,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5475,7 +5349,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5484,7 +5360,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5493,7 +5371,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5502,7 +5382,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5511,7 +5393,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.21_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Filed Under Seal, Eva Dubin, Glenn Dubin, Is Eva Dubin, United Kingdom
+**People**: Ross Gow, Sarah Kellen, Americas
+New York, Eva Dubin, Lexington
+Avenue
 **Locations**: New York, United Kingdom
 
 ---
@@ -5520,8 +5404,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5529,8 +5413,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5538,8 +5422,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5547,8 +5431,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5556,8 +5440,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5565,8 +5449,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5574,8 +5458,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5583,8 +5467,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5592,8 +5476,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5601,8 +5485,8 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.23.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Liberty Lobby, Means Other, Time Warner, Panther Transp, Dow Kim
-**Locations**: London, New York, United Kingdom, Florida, Palm Beach, Manhattan
+**People**: Not Be Delayed, Liberty Lobby, Aqua Dots Products, David Rodgers, Bradley Trust
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Manhattan
 
 ---
 
@@ -5610,8 +5494,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5619,8 +5504,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5628,8 +5514,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5637,8 +5524,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5646,8 +5534,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5655,8 +5544,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5664,8 +5554,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5673,8 +5564,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5682,8 +5574,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5691,8 +5584,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1328.37.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Sjoberg Exhibit, Detective Recarey, Palm Beach Atlantic, Notary Public, Emmy Taylor
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Palm Beach Atlantic, Detective Recarey, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5700,7 +5594,7 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.18_1.pdf
 **Type**: legal_document
-**People**: Caroly Casey, Has Already Searched, Cindy Lopez, Claire Hazel, Shelley Harrison
+**People**: Cheri Lynch, Shelley Harrison, Claire Hazel, Search Terms Defendant, Cindy Lopez
 
 ---
 
@@ -5708,7 +5602,7 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.18_1.pdf
 **Type**: legal_document
-**People**: Caroly Casey, Has Already Searched, Cindy Lopez, Claire Hazel, Shelley Harrison
+**People**: Cheri Lynch, Shelley Harrison, Claire Hazel, Search Terms Defendant, Cindy Lopez
 
 ---
 
@@ -5716,7 +5610,7 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.18_1.pdf
 **Type**: legal_document
-**People**: Caroly Casey, Has Already Searched, Cindy Lopez, Claire Hazel, Shelley Harrison
+**People**: Cheri Lynch, Shelley Harrison, Claire Hazel, Search Terms Defendant, Cindy Lopez
 
 ---
 
@@ -5724,7 +5618,7 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.18_1.pdf
 **Type**: legal_document
-**People**: Caroly Casey, Has Already Searched, Cindy Lopez, Claire Hazel, Shelley Harrison
+**People**: Cheri Lynch, Shelley Harrison, Claire Hazel, Search Terms Defendant, Cindy Lopez
 
 ---
 
@@ -5732,7 +5626,7 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.18_1.pdf
 **Type**: legal_document
-**People**: Caroly Casey, Has Already Searched, Cindy Lopez, Claire Hazel, Shelley Harrison
+**People**: Cheri Lynch, Shelley Harrison, Claire Hazel, Search Terms Defendant, Cindy Lopez
 
 ---
 
@@ -5740,9 +5634,9 @@ Ross, Jane Doe, File Under Seal
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5750,9 +5644,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5760,9 +5654,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5770,9 +5664,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5780,9 +5674,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5790,9 +5684,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5800,9 +5694,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5810,9 +5704,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5820,9 +5714,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5830,9 +5724,9 @@ Procedure, Serve Three Deposition
 
 **Document**: 1331-13.pdf
 **Type**: deposition, legal_document
-**People**: Rodriguez Dep, Be Subpoenaed, Not Admissible Under, Civil
-Procedure, Serve Three Deposition
-**Locations**: Florida, New York, Palm Beach
+**People**: Former Testimony, Former Testimony
+Exception, If Epstein, Nadia Marcinkova, See Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -5840,9 +5734,8 @@ Procedure, Serve Three Deposition
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5850,9 +5743,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5860,9 +5752,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5870,9 +5761,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5880,9 +5770,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5890,9 +5779,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5900,9 +5788,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5910,9 +5797,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5920,9 +5806,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -5930,8 +5815,7 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5940,8 +5824,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5950,8 +5833,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5960,8 +5842,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5970,8 +5851,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5980,8 +5860,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -5990,8 +5869,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -6000,8 +5878,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -6010,8 +5887,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -6020,8 +5896,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: 1331-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: The Limited Stores, First Circuit, Sweet
-District Court, Giuffre Has Diligently, The Kingdom
+**People**: Sarah Ransome, Giuffre Has Diligently, First Circuit, Nadia Marcinkova, Prejudiced Because Ms
 **Locations**: New York, Virgin Islands
 
 ---
@@ -6030,7 +5905,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -6039,7 +5914,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -6048,7 +5923,7 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -6057,9 +5932,9 @@ District Court, Giuffre Has Diligently, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6067,9 +5942,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6077,9 +5952,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6087,9 +5962,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6097,9 +5972,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6107,9 +5982,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6117,9 +5992,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6127,8 +6002,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6136,8 +6014,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6145,8 +6026,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6154,8 +6038,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6163,8 +6050,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6172,8 +6062,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6181,8 +6074,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6190,8 +6086,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6199,8 +6098,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6208,8 +6110,11 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.20.pdf
 **Type**: deposition, legal_document
-**People**: Disclose All Individuals, Florida Department, The Florida, Defendant Ghislaine Maxwell, Certified Copy
-**Locations**: Florida, New York, Palm Beach
+**People**: Factual Background
+Through, Forbids Disclosure, Menninger Decl, Avenue
+Denver, Menninger
+Jeffrey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6217,9 +6122,8 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6228,9 +6132,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6239,9 +6142,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6250,9 +6152,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6261,9 +6162,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6272,9 +6172,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6283,9 +6182,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6294,9 +6192,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6305,9 +6202,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6316,9 +6212,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1330.21_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Max
-Subject, Devonshirns Soiicitors, Dail News
-This, Professor Dershowitz, Jane Does
+**People**: Ross Gow
+Hi, Ross Gow, Reputation Limited, Senior Clerk, The Devonshires Foundation
 **Locations**: Manhattan, London
 
 ---
@@ -6327,8 +6222,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6336,8 +6231,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6345,8 +6240,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6354,8 +6249,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6363,8 +6258,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6372,8 +6267,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6381,8 +6276,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6390,8 +6285,8 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6399,10 +6294,9 @@ This, Professor Dershowitz, Jane Does
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6410,10 +6304,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6421,10 +6314,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -6432,7 +6324,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6441,7 +6334,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6450,7 +6344,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6459,7 +6354,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6468,7 +6364,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6477,7 +6374,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6486,7 +6384,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6495,7 +6394,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6504,7 +6404,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -6513,9 +6414,8 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6523,9 +6423,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6533,9 +6432,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6543,9 +6441,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6553,9 +6450,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6563,9 +6459,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -6573,10 +6468,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6584,10 +6477,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6595,10 +6486,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6606,10 +6495,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6617,10 +6504,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6628,10 +6513,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6639,10 +6522,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6650,10 +6531,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6661,10 +6540,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6672,10 +6549,8 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1330.8.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, The Gow Email, Best
-Ross
-**Locations**: Florida, New York
+**People**: Salt Lake City, Limousine Serv, Ross Gow, Laura Menninger, Maxwell Depo
+**Locations**: New York, Florida
 
 ---
 
@@ -6683,9 +6558,9 @@ Ross
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -6693,9 +6568,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -6703,9 +6578,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -6713,9 +6588,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -6723,9 +6598,11 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -6733,9 +6610,11 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -6743,9 +6622,11 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -6753,9 +6634,11 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -6763,10 +6646,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6774,10 +6656,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6785,10 +6666,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6796,10 +6676,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6807,10 +6686,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6818,10 +6696,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6829,10 +6706,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6840,10 +6716,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6851,10 +6726,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6862,10 +6736,9 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.5_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Detective
-Recarey, Messages Involving, See Complaint, David Boies
-Boies, Composite Exhibit
-**Locations**: Florida, New York, Palm Beach
+**People**: Messages Involving, Salt Lake City, See Schultz
+Decl, See Schultz Decl, Vanity Fair
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -6873,7 +6746,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6882,7 +6755,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6891,7 +6764,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6900,7 +6773,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6909,7 +6782,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6918,7 +6791,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6927,7 +6800,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6936,7 +6809,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6945,7 +6818,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6954,7 +6827,7 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1330.19_1.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Brad Edwards, Philip Barden
+**People**: Case No, Maxwell Exhibit, Ross Gow, Leslie Fagin, Was Jeffrey
 **Locations**: New York, United Kingdom
 
 ---
@@ -6963,12 +6836,12 @@ Boies, Composite Exhibit
 
 **Document**: gov.uscourts.nysd.447706.1327.14.pdf
 **Type**: email, legal_document
-**People**: If
+**People**: Menninger
+Haddon, If
 Idonothearfromyou, Conferralregardingsearchterms
 Meredith, Gerbil
 Conferral
-Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
-Haddon
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -6977,12 +6850,12 @@ Haddon
 
 **Document**: gov.uscourts.nysd.447706.1327.14.pdf
 **Type**: email, legal_document
-**People**: If
+**People**: Menninger
+Haddon, If
 Idonothearfromyou, Conferralregardingsearchterms
 Meredith, Gerbil
 Conferral
-Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
-Haddon
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -6991,12 +6864,12 @@ Haddon
 
 **Document**: gov.uscourts.nysd.447706.1327.14.pdf
 **Type**: email, legal_document
-**People**: If
+**People**: Menninger
+Haddon, If
 Idonothearfromyou, Conferralregardingsearchterms
 Meredith, Gerbil
 Conferral
-Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
-Haddon
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -7005,12 +6878,12 @@ Haddon
 
 **Document**: gov.uscourts.nysd.447706.1327.14.pdf
 **Type**: email, legal_document
-**People**: If
+**People**: Menninger
+Haddon, If
 Idonothearfromyou, Conferralregardingsearchterms
 Meredith, Gerbil
 Conferral
-Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
-Haddon
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -7019,9 +6892,9 @@ Haddon
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7029,9 +6902,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7039,9 +6912,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7049,9 +6922,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7059,9 +6932,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7069,9 +6942,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7079,9 +6952,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7089,9 +6962,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7099,9 +6972,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -7109,8 +6982,10 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -7118,8 +6993,10 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -7127,8 +7004,10 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -7136,9 +7015,9 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7146,9 +7025,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7156,9 +7035,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7166,9 +7045,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7176,9 +7055,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7186,9 +7065,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7196,9 +7075,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7206,9 +7085,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7216,9 +7095,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7226,9 +7105,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.11.pdf
 **Type**: unknown
-**People**: File Under Seal, It
-Jane Doe, Nfv
-Jane Doe, Jane Doe
+**People**: File Under Seal, Jane Doe, Nfv
+Jane Doe, It
+Jane Doe
 
 ---
 
@@ -7236,7 +7115,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7244,7 +7124,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7252,7 +7133,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7260,7 +7142,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7268,7 +7151,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7276,7 +7160,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7284,7 +7169,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7292,7 +7178,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7300,7 +7187,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7308,7 +7196,8 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.1_1.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Ms, Virginia Giuffre, Sounds British, Anthony Lewis Zach, Jeffy Epstein
+**People**: Figueroa
+Southern Reporting, Virginia Giuffre, And Ms, Was Ms, Would Jeffrey
 
 ---
 
@@ -7316,9 +7205,9 @@ Jane Doe, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -7327,8 +7216,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7336,8 +7226,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7345,8 +7236,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7354,8 +7246,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7363,8 +7256,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7372,8 +7266,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7381,8 +7276,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7390,8 +7286,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7399,8 +7296,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7408,8 +7306,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.41.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dershowitz Flights, Applied Extrusion Technologies, Get Settlement, Lynch Quashed, The Record
-**Locations**: Florida, New York, Palm Beach
+**People**: Emergency Motion, Recarey Dep, Louis Vuittonfound, Which Parties Reasonably, Protective Orders
+Upon
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -7417,8 +7316,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7426,8 +7326,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7435,8 +7336,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7444,8 +7346,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7453,8 +7356,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7462,8 +7366,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7471,8 +7376,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7480,8 +7386,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7489,8 +7396,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7498,8 +7406,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Sara Kellen, Compel Deposition Questions, Filed Under Seal, Eva Dubin, Louis Freeh
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Jeffrey
+Epsteinand, Daily Mail, Compel Deposition Questions, Would Ghislaine Maxwell, Composite Ex
+**Locations**: Paris, London, New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -7577,8 +7486,7 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7587,8 +7495,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7597,8 +7504,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7607,8 +7513,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7617,8 +7522,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7627,8 +7531,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7637,8 +7540,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7647,8 +7549,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7657,8 +7558,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7667,8 +7567,7 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1330.22_1.pdf
 **Type**: email, legal_document, financial
-**People**: Philip Barden
-Sent, Media Limited, The Guardian, Jane Does, Had Geordie
+**People**: Reputation Limited, Senior Clerk, The Devonshires Foundation, York Way, On Sat
 **Locations**: London
 
 ---
@@ -7677,9 +7576,9 @@ Sent, Media Limited, The Guardian, Jane Does, Had Geordie
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7688,9 +7587,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7699,9 +7598,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7710,9 +7609,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7721,9 +7620,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7732,9 +7631,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7743,9 +7642,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7754,9 +7653,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7765,9 +7664,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7776,9 +7675,9 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.2.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Maxwell
-Case No, Jane Doe, Dear Laura, Avenue
-Denver, The Terramar Project
+**People**: Avenue
+Denver, Jane Doe, Dear Laura, The Terramar Project, Maxwell
+Case No
 **Locations**: Paris, France
 
 ---
@@ -7787,9 +7686,8 @@ Denver, The Terramar Project
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7797,9 +7695,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7807,9 +7704,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7817,9 +7713,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7827,9 +7722,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7837,9 +7731,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7847,9 +7740,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7857,9 +7749,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7867,9 +7758,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7877,9 +7767,8 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.19_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Eva Dubin, The Dubins, Glen Dubin, Civil
-Procedure, Judge Peck
-**Locations**: Florida, New York, Palm Beach, London
+**People**: The Dubins, Recarey Dep, Judge Peck, Other Failures, Improper Objections
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -7887,7 +7776,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7896,7 +7785,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7905,7 +7794,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7914,7 +7803,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7923,7 +7812,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7932,7 +7821,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7941,7 +7830,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7950,7 +7839,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7959,7 +7848,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7968,7 +7857,7 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.12.pdf
 **Type**: legal_document, financial
-**People**: Those Requests, Jean Luc Brunel, Revised List, Court Order, Submission Concerning Search
+**People**: Jean Luc Brunel, Hillary Clinton, Forensic Examination, Scott Rothstein, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -7977,9 +7866,9 @@ Procedure, Judge Peck
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -7987,9 +7876,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -7997,9 +7886,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -8007,9 +7896,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -8017,9 +7906,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -8027,9 +7916,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -8037,8 +7926,8 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8047,8 +7936,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8057,8 +7946,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8067,8 +7956,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8077,8 +7966,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8087,8 +7976,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8097,8 +7986,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8107,8 +7996,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8117,8 +8006,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8127,8 +8016,8 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.13.pdf
 **Type**: legal_document, financial, correspondence
-**People**: Dear Laura, The Terramar Project, Jane Doe, Maxwell
-Case No
+**People**: Maxwell
+Case No, Jane Doe, Dear Laura, The Terramar Project
 **Locations**: Paris, France
 
 ---
@@ -8137,9 +8026,9 @@ Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -8147,9 +8036,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -8157,9 +8046,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -8167,9 +8056,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -8177,8 +8066,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8186,8 +8077,10 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8195,8 +8088,10 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8204,8 +8099,10 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8213,8 +8110,10 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8222,8 +8121,10 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1327.17_2.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: If Ihaveleft, Laura
-Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Paul Cassell, Fort Lauderdale, Las Olas Blvd
+**People**: Laura
+Additionally, Laura
+Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedonlyfortheuseofthenamedrecipient, Prince
+Andrew, Las Olas Blvd, Fort Lauderdale
 
 ---
 
@@ -8231,9 +8132,8 @@ Theinformationcontainedinthiselectronicmessageisconfidentialinformationintendedo
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8241,9 +8141,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8251,9 +8150,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8261,9 +8159,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8271,9 +8168,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8281,9 +8177,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8291,9 +8186,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8301,9 +8195,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8311,9 +8204,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8321,9 +8213,8 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1330.6_1.pdf
 **Type**: legal_document, financial
-**People**: Information
-Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
-**Locations**: Florida, Palm Beach
+**People**: Statutes Section, United Sta, Palm Beach Cowity, Sarah Kellen, Fifth Amendment
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8331,9 +8222,10 @@ Act, Adriana Ross, Palm Beach Cowity, State Attomc, Diaaict Court
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8341,9 +8233,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8351,9 +8244,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8361,9 +8255,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8371,9 +8266,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8381,9 +8277,9 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -8392,11 +8288,12 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -8405,11 +8302,12 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -8418,11 +8316,12 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -8431,11 +8330,12 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -8444,11 +8344,12 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -8457,9 +8358,10 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8467,9 +8369,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8477,9 +8380,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8487,9 +8391,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8497,9 +8402,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -8508,7 +8414,7 @@ Professional Reporter, That Mr, Las Olas Boulevard
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8517,7 +8423,7 @@ Professional Reporter, That Mr, Las Olas Boulevard
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8526,7 +8432,7 @@ Professional Reporter, That Mr, Las Olas Boulevard
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8535,7 +8441,7 @@ Professional Reporter, That Mr, Las Olas Boulevard
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -8543,8 +8449,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8552,8 +8458,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8561,8 +8467,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8570,8 +8476,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8579,8 +8485,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8588,8 +8494,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8597,8 +8503,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8606,8 +8512,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8615,8 +8521,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8624,8 +8530,8 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.28_3.pdf
 **Type**: deposition, legal_document, flight_log, financial, correspondence
-**People**: Annie Farmer, Jean Luc Brunel, Secret Service, Did Emmy, Did Virginia
-**Locations**: London, New York, United Kingdom, Florida, Virgin Islands, Palm Beach
+**People**: Jean Luc Brunel, Can Jeffrey Epstein, Did Virginia, When Virginia, Kevin Spacey
+**Locations**: London, New York, Florida, United Kingdom, Palm Beach, Virgin Islands
 
 ---
 
@@ -8633,10 +8539,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8644,10 +8550,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8655,10 +8561,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8666,10 +8572,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8677,10 +8583,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8688,10 +8594,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8699,10 +8605,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8710,10 +8616,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8721,10 +8627,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8732,10 +8638,10 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.11_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: United States Department, Judge Peck, The Account
-Ms, Sealed Composite Exhibit, Court
-Southern District
-**Locations**: Florida, New York, Palm Beach, Manhattan
+**People**: Judge Peck, Citgo
+Refining, Nadia Marcinkova, Avenue
+Denver, Civil Procedure
+**Locations**: New York, Palm Beach, Florida, Manhattan
 
 ---
 
@@ -8743,10 +8649,9 @@ Southern District
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8754,10 +8659,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8765,10 +8669,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8776,10 +8679,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8787,10 +8689,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8798,10 +8699,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8809,10 +8709,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8820,10 +8719,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8831,10 +8729,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8842,10 +8739,9 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.2.pdf
 **Type**: deposition, legal_document, financial
-**People**: Royal Palm
-Beach, Carol Roberts Kess, National Enquirer, Ron Eppinger
-Response, Local Rule
-**Locations**: London, New York, New Mexico, Florida, Virgin Islands, Little Saint James, Palm Beach
+**People**: Any Document, Daily Mail, James Michael
+Austrichand, Any Documents, Kimberley Roberts
+**Locations**: Little Saint James, London, New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8853,8 +8749,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8862,8 +8758,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8871,8 +8767,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8880,8 +8776,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8889,8 +8785,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8898,8 +8794,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8907,8 +8803,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8916,8 +8812,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8925,8 +8821,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8934,8 +8830,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.4_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Vice President Gore, When Mr, The Palm Beach, Giuffre Lacks Credibility, The Josefsberg
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Palm Beach, Little St. James
+**People**: Emergency Motion, Daily Mail, The Independent, Tatiana Kovylina, Googled Tatiana
+**Locations**: New York, Florida, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -8943,8 +8839,8 @@ Response, Local Rule
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -8953,8 +8849,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -8963,8 +8859,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -8973,8 +8869,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -8983,8 +8879,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -8993,8 +8889,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -9003,9 +8899,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9013,9 +8908,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9023,9 +8917,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9033,9 +8926,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9043,9 +8935,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9053,9 +8944,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9063,9 +8953,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9073,9 +8962,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9083,9 +8971,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9093,9 +8980,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.2_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Christina Venero, Johanna Sjoberg, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, To Detective Pagan, Detective Pagan, Exhibit No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9103,8 +8989,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9112,8 +8998,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9121,8 +9007,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9130,8 +9016,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9139,8 +9025,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9148,8 +9034,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9157,8 +9043,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9166,8 +9052,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.43_1.pdf
 **Type**: deposition, legal_document
-**People**: Kress Court Reporting, Rue Notre Dame, With Sarah, File Under Seal, If Rodriguez
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, If Rodriguez, Sarah Kellen, Alfredo Rodriguez, Detective Recarey
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9175,9 +9061,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9185,9 +9070,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9195,9 +9079,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9205,9 +9088,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9215,9 +9097,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9225,9 +9106,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9235,9 +9115,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9245,9 +9124,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9255,9 +9133,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9265,9 +9142,8 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1328.6_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: The
-Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
-**Locations**: New York, Florida, Virgin Islands, New Mexico, Manhattan
+**People**: The First Amendment, See Schiller, See Vazquez, Countervailing Interests That, Were Ms
+**Locations**: New York, Florida, New Mexico, Manhattan, Virgin Islands
 
 ---
 
@@ -9275,9 +9151,9 @@ Requested Documents, Louis Freeh, There Are No, Any Existing Party, Omnicom Grp
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9285,9 +9161,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9295,9 +9171,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9305,9 +9181,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9315,9 +9191,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9325,9 +9201,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9335,9 +9211,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9345,9 +9221,10 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9355,9 +9232,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9365,9 +9243,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9375,9 +9254,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9385,9 +9265,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9395,9 +9276,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9405,8 +9287,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9414,8 +9297,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9423,8 +9307,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9432,8 +9317,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9441,8 +9327,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9450,8 +9337,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9459,8 +9347,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9468,8 +9357,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9477,8 +9367,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9486,8 +9377,9 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1330.7.pdf
 **Type**: deposition, legal_document
-**People**: To Detective Pagan, Notary Public, Detective Pagan, Fort Lauderdale, Palm Beach Police
-**Locations**: Florida, New York, Palm Beach
+**People**: Deposition Exhibit, Christina Venero, Boies Schiller, Certified Realtime
+Reporter, Narrative No
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9495,9 +9387,8 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9505,9 +9396,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9515,9 +9405,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9525,9 +9414,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9535,9 +9423,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9545,9 +9432,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9555,9 +9441,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9565,9 +9450,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9575,9 +9459,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9585,9 +9468,8 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1327.25.pdf
 **Type**: deposition, legal_document, financial
-**People**: My Commission No, Adriana Ross, Filed Under Seal, Reporting
-Job No, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Sarah Kellen, Cynthia Hopkins, Nadia Marcinkova, Richard Kahn, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -9595,8 +9477,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9604,8 +9487,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9613,8 +9497,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9622,8 +9507,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9631,8 +9517,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9640,8 +9527,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9649,8 +9537,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9658,8 +9547,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9667,8 +9557,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -9676,9 +9567,9 @@ Job No, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9686,9 +9577,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9696,9 +9587,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9706,9 +9597,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9716,9 +9607,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9726,9 +9617,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -9736,9 +9627,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9746,9 +9637,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9756,9 +9647,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9766,9 +9657,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9776,9 +9667,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9786,9 +9677,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9796,9 +9687,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9806,9 +9697,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9816,9 +9707,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9826,9 +9717,9 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1327.9.pdf
 **Type**: deposition, legal_document, financial
-**People**: Answer Deposition
-Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwards
-**Locations**: Florida, New York
+**People**: Compel Plaintiff, By Order, Work Product, Part
+Defendant, That Pottinger
+**Locations**: New York, Florida
 
 ---
 
@@ -9836,8 +9727,8 @@ Questions, Senterfitt Eidson, The District Court, Compel Attorney, Bradley Edwar
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9846,8 +9737,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9856,8 +9747,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9866,8 +9757,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9876,8 +9767,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9886,8 +9777,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9896,8 +9787,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9906,8 +9797,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9916,8 +9807,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9926,8 +9817,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1330.17_1.pdf
 **Type**: deposition, legal_document
-**People**: Court Approval, Seagate Tech, Paper
-Co, Defendant Ghislaine Maxwell, Gow Concerning
+**People**: Claimed Questions
+Plaintiff, University Street, Salt Lake City, Twin Lakes Rd, Ross Gow
 **Locations**: New York, United Kingdom
 
 ---
@@ -9950,8 +9841,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -9959,8 +9851,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -9968,8 +9861,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -9977,8 +9871,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -9986,8 +9881,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -9995,8 +9891,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -10004,8 +9901,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -10013,8 +9911,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -10022,8 +9921,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -10031,8 +9931,9 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1328.4_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Florida Department, The Florida, From January, Defendant Ghislaine Maxwell, Trawler Capt
-**Locations**: Florida, New York
+**People**: Daily Mail, Menninger Decl, Installation Servs, See Document Request, Avenue
+Denver
+**Locations**: New York, Florida
 
 ---
 
@@ -10040,7 +9941,7 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -10049,7 +9950,7 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -10058,7 +9959,7 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -10067,7 +9968,7 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -10076,9 +9977,8 @@ Co, Defendant Ghislaine Maxwell, Gow Concerning
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10086,9 +9986,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10096,9 +9995,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10106,9 +10004,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10116,9 +10013,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10126,9 +10022,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10136,9 +10031,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10146,9 +10040,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10156,9 +10049,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10166,9 +10058,8 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1331.3.pdf
 **Type**: deposition, legal_document, financial
-**People**: Dulwich Hill, Royal Palm
-Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
-**Locations**: Zorro Ranch, London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach, Little St. James
+**People**: Any Document, Daily Mail, Clark Law School, Law Institute, Any Documents
+**Locations**: Paris, London, New York, France, Florida, Zorro Ranch, Little St. James, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10176,9 +10067,10 @@ Beach, The Entrance Road, Carol Roberts Kess, Campbelltown Hospital
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -10186,9 +10078,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -10196,9 +10089,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -10206,9 +10100,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -10216,9 +10111,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -10226,7 +10122,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10235,7 +10134,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10244,7 +10146,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10253,7 +10158,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10262,7 +10170,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10271,7 +10182,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10280,7 +10194,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10289,7 +10206,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10298,7 +10218,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10307,7 +10230,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.10.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Filed Under Seal, Judge Sweet, Virgin Islands
+**People**: Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional, Les Wexner
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -10316,10 +10242,11 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10328,10 +10255,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10340,10 +10268,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10352,10 +10281,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10364,10 +10294,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10376,10 +10307,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -10388,9 +10320,10 @@ Cc
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10399,9 +10332,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10410,9 +10344,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10421,9 +10356,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10432,9 +10368,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10443,9 +10380,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10454,9 +10392,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10465,9 +10404,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10476,9 +10416,10 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -10487,9 +10428,8 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10497,9 +10437,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10507,9 +10446,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10517,9 +10455,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10527,9 +10464,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10537,9 +10473,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10547,9 +10482,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10557,9 +10491,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10567,9 +10500,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10577,9 +10509,8 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: gov.uscourts.nysd.447706.1327.29_2.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Virginia, Virgin Islands, Certified Realtime
-Reporter, Ghislaine Maxwell, Kelli Ann Willis
-**Locations**: New York, Palm Beach, Florida, Virgin Islands, New Mexico
+**People**: Jane Doe, Did Virginia, Sarah Kellen, George Lucas, Did Ghislaine Maxwell
+**Locations**: New York, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -10587,9 +10518,7 @@ Reporter, Ghislaine Maxwell, Kelli Ann Willis
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10598,9 +10527,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10609,9 +10536,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10620,9 +10545,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10631,9 +10554,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10642,9 +10563,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10653,9 +10572,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10664,9 +10581,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -10675,8 +10590,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -10684,8 +10599,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -10693,8 +10608,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -10702,8 +10617,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -10711,8 +10626,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -10720,9 +10635,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10730,9 +10644,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10740,9 +10653,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10750,9 +10662,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10760,9 +10671,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10770,9 +10680,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10780,9 +10689,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10790,9 +10698,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10800,9 +10707,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10810,9 +10716,8 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.11.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -10902,8 +10807,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10911,8 +10816,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10920,8 +10825,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10929,8 +10834,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10938,8 +10843,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10947,8 +10852,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10956,8 +10861,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10965,8 +10870,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10974,8 +10879,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10983,8 +10888,8 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.3_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South, Southern Reporting Company, Notary Public, Court Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Court Reporter, Notary Public, Paul Katz Professional, Florida Professional Reporter
+**Locations**: New York, Florida
 
 ---
 
@@ -10992,9 +10897,10 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -11002,9 +10908,10 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -11012,9 +10919,10 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -11022,9 +10930,10 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -11032,9 +10941,8 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.24.pdf
 **Type**: email
-**People**: Philip Barde
-Subject, Victoria Roberts, Forw
-From, Ms Robert, Ms Roberts
+**People**: Jane Doe, Ms Roberts, Philip Barde
+Subject, Philip Barden, Virginia Roberts
 
 ---
 
@@ -11042,9 +10950,8 @@ From, Ms Robert, Ms Roberts
 
 **Document**: gov.uscourts.nysd.447706.1331.24.pdf
 **Type**: email
-**People**: Philip Barde
-Subject, Victoria Roberts, Forw
-From, Ms Robert, Ms Roberts
+**People**: Jane Doe, Ms Roberts, Philip Barde
+Subject, Philip Barden, Virginia Roberts
 
 ---
 
@@ -11052,8 +10959,7 @@ From, Ms Robert, Ms Roberts
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -11062,8 +10968,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -11072,8 +10977,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -11082,9 +10986,9 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11092,9 +10996,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11102,9 +11006,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11112,9 +11016,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11122,9 +11026,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11132,9 +11036,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11142,9 +11046,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11152,9 +11056,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11162,9 +11066,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11172,9 +11076,9 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -11183,9 +11087,9 @@ Southern, Case No
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11193,9 +11097,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11203,9 +11107,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11213,9 +11117,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11223,9 +11127,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11233,9 +11137,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11243,9 +11147,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11253,9 +11157,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11263,9 +11167,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11273,9 +11177,9 @@ Amendment
 
 **Document**: 1331-36.pdf
 **Type**: deposition, legal_document, financial
-**People**: Jack Alan Goldberger, Undid Him, Quinney College, New York Daily, Fifth
-Amendment
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: The Role, Fifth Amendment, See
+Cusumano, Present Epstein Testimony, Sex Offender Who
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -11283,9 +11187,8 @@ Amendment
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11293,9 +11196,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11303,9 +11205,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11313,9 +11214,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11323,9 +11223,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11333,9 +11232,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11343,9 +11241,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11353,9 +11250,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11363,9 +11259,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11373,9 +11268,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Did Emmy, Palm Beach Atlantic, Filed Under Seal, The State, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Sarah Kellen, Between Madison, At Jeffrey Epstein, The State
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11383,9 +11277,11 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -11393,9 +11289,11 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -11403,9 +11301,11 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -11413,8 +11313,8 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -11423,8 +11323,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -11433,8 +11333,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -11443,8 +11343,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -11453,8 +11353,10 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11462,8 +11364,10 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11471,8 +11375,10 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11480,8 +11386,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11489,8 +11395,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11498,8 +11404,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11507,8 +11413,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11516,8 +11422,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11525,8 +11431,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11534,8 +11440,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11543,8 +11449,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11552,9 +11458,8 @@ Avenue
 
 **Document**: 1331-32.pdf
 **Type**: legal_document
-**People**: York
-Virginia, Sarah Emma Ashley, Virgin Islands, Ching Chang
-Vice, The Kingdom
+**People**: The Kingdom, Sarah Ransome, Nadia Marcinkova, Sarah Emma Ashley, Ching Chang
+Vice
 **Locations**: New York, Virgin Islands
 
 ---
@@ -11563,9 +11468,8 @@ Vice, The Kingdom
 
 **Document**: 1331-32.pdf
 **Type**: legal_document
-**People**: York
-Virginia, Sarah Emma Ashley, Virgin Islands, Ching Chang
-Vice, The Kingdom
+**People**: The Kingdom, Sarah Ransome, Nadia Marcinkova, Sarah Emma Ashley, Ching Chang
+Vice
 **Locations**: New York, Virgin Islands
 
 ---
@@ -11574,9 +11478,8 @@ Vice, The Kingdom
 
 **Document**: 1331-32.pdf
 **Type**: legal_document
-**People**: York
-Virginia, Sarah Emma Ashley, Virgin Islands, Ching Chang
-Vice, The Kingdom
+**People**: The Kingdom, Sarah Ransome, Nadia Marcinkova, Sarah Emma Ashley, Ching Chang
+Vice
 **Locations**: New York, Virgin Islands
 
 ---
@@ -11585,9 +11488,8 @@ Vice, The Kingdom
 
 **Document**: 1331-32.pdf
 **Type**: legal_document
-**People**: York
-Virginia, Sarah Emma Ashley, Virgin Islands, Ching Chang
-Vice, The Kingdom
+**People**: The Kingdom, Sarah Ransome, Nadia Marcinkova, Sarah Emma Ashley, Ching Chang
+Vice
 **Locations**: New York, Virgin Islands
 
 ---
@@ -11596,7 +11498,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11605,7 +11510,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11614,7 +11522,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11623,7 +11534,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11632,7 +11546,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11641,7 +11558,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11650,7 +11570,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11659,7 +11582,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11668,7 +11594,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11677,7 +11606,10 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1327.10_1.pdf
 **Type**: deposition, legal_document
-**People**: Continued Videotaped Deposition, Mr Epstein, Judge Sweet, Virgin Islands, Tony Figueroa
+**People**: Jane Doe, Court Reporter, Americas
+New York, New
+York, Les
+Registered Professional
 **Locations**: New York, Palm Beach, Virgin Islands
 
 ---
@@ -11686,9 +11618,8 @@ Vice, The Kingdom
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11696,9 +11627,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11706,9 +11636,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11716,9 +11645,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11726,9 +11654,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11736,9 +11663,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11746,9 +11672,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11756,9 +11681,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11766,9 +11690,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11776,9 +11699,8 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: gov.uscourts.nysd.447706.1330.16_1.pdf
 **Type**: deposition, legal_document, financial
-**People**: Court Order, Account
-Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
-**Locations**: Florida, New York, Palm Beach
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Excess Ins, Fine Paintings
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -11786,10 +11708,9 @@ Plaintiff, Professor Dershowitz, All Devices Have, Gobain Corp
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -11798,10 +11719,9 @@ Reporter
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -11810,10 +11730,9 @@ Reporter
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -11822,10 +11741,9 @@ Reporter
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -11834,10 +11752,9 @@ Reporter
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -11846,12 +11763,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11859,12 +11772,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11872,12 +11781,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11885,12 +11790,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11898,12 +11799,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11911,12 +11808,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11924,12 +11817,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11937,12 +11826,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11950,12 +11835,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11963,12 +11844,8 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: gov.uscourts.nysd.447706.1328.5_1.pdf
 **Type**: deposition, legal_document
-**People**: Form
-Oliver, Letter
-Health, Sydney
-Produced
-Westmead, Januar Internet Jewish, Florida Department
-**Locations**: Florida, New York, Little St. James
+**People**: Daily Mail, Januar Internet Bolton, Federal Practice, Januar Internet Jewish, Januar Internet Express
+**Locations**: New York, Florida, Little St. James
 
 ---
 
@@ -11976,10 +11853,9 @@ Westmead, Januar Internet Jewish, Florida Department
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -11987,10 +11863,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -11998,10 +11873,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -12009,10 +11883,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -12020,10 +11893,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -12031,10 +11903,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -12042,9 +11913,9 @@ The First
 
 **Document**: 1331-33.pdf
 **Type**: email
-**People**: Jeffrey Oh, Finance
-Pumla, Pumla Griszell Sarah, Travel
-Write, Original Message
+**People**: Pumla Griszell Sarah, To
+Subject, Let Yahoo, Kisses
+Pumla Griszell, Original Message
 
 ---
 
@@ -12052,9 +11923,9 @@ Write, Original Message
 
 **Document**: 1331-33.pdf
 **Type**: email
-**People**: Jeffrey Oh, Finance
-Pumla, Pumla Griszell Sarah, Travel
-Write, Original Message
+**People**: Pumla Griszell Sarah, To
+Subject, Let Yahoo, Kisses
+Pumla Griszell, Original Message
 
 ---
 
@@ -12062,8 +11933,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12071,8 +11943,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12080,8 +11953,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12089,8 +11963,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12098,8 +11973,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12107,8 +11983,9 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12116,9 +11993,8 @@ Write, Original Message
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12126,9 +12002,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12136,9 +12011,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12146,9 +12020,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12156,9 +12029,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12166,9 +12038,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12176,9 +12047,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12186,9 +12056,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12196,9 +12065,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12206,9 +12074,8 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.4.pdf
 **Type**: deposition, legal_document
-**People**: See Schultz Decl, No Alleged Spoliation, Electronic
-Court, Numerex Corp, Journal Because There
-**Locations**: Florida, New York, Palm Beach
+**People**: Recarey Dep, Motion Should Be, No Alleged Spoliation, Journal Because There, Defendant Can Show
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12288,9 +12155,9 @@ Court, Numerex Corp, Journal Because There
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -12298,9 +12165,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -12308,9 +12175,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -12318,9 +12185,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -12328,10 +12195,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12339,10 +12205,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12350,10 +12215,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12361,10 +12225,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12372,10 +12235,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12383,10 +12245,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12394,10 +12255,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12405,8 +12265,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12414,8 +12274,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12423,8 +12283,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12432,8 +12292,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12441,8 +12301,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12450,8 +12310,8 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -12459,10 +12319,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -12470,10 +12329,9 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -12481,10 +12339,9 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -12492,10 +12349,9 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -12503,10 +12359,8 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12514,10 +12368,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12525,10 +12377,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12536,10 +12386,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12547,10 +12395,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12558,10 +12404,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12569,10 +12413,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12580,10 +12422,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12591,10 +12431,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12602,10 +12440,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: gov.uscourts.nysd.447706.1328.7.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Annie Farmer, David Boies
-Boies, Composite Exhibit, Answer Deposition
-Questions, Excerpted Rodgers Dep
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Dave Rodgers, The Daily Mail, Fifth Amendment, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -12613,7 +12449,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12621,7 +12457,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12629,7 +12465,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12637,7 +12473,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12645,7 +12481,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12653,7 +12489,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12661,7 +12497,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12669,7 +12505,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12677,7 +12513,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12685,7 +12521,7 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-31.pdf
 **Type**: legal_document
-**People**: Duces Tecum, Lesley Groff, Stanley Pottinger, Brunswick Corp, Jeffrey Epstein
+**People**: Lesley Groff, Sarah Kellen, Stanley Pottinger, Concord Boat Corp, Biovail Corp
 
 ---
 
@@ -12693,11 +12529,8 @@ Questions, Excerpted Rodgers Dep
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12705,11 +12538,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12717,11 +12547,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12729,11 +12556,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12741,11 +12565,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12753,11 +12574,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12765,11 +12583,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12777,11 +12592,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12789,11 +12601,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12801,11 +12610,8 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-19.pdf
 **Type**: deposition, legal_document
-**People**: Attorney Client Privilege, See
-Schultz Dec, David Boies
-Boies, Barden
-Declarationcontaining, Kidder Peabody Secs
-**Locations**: Florida, New York
+**People**: Order Defendant, Gow Authorizing Press, All Documents And, Maxwell Depo, Ross Gow
+**Locations**: New York, Florida
 
 ---
 
@@ -12813,8 +12619,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12822,8 +12629,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12831,8 +12639,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12840,8 +12649,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12849,8 +12659,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12858,8 +12669,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12867,8 +12679,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12876,8 +12689,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12885,8 +12699,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12894,8 +12709,9 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: gov.uscourts.nysd.447706.1330.1_1.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Judge Marra, The Palm Beach, Since July, Quinney College, Adrianna Mucinska
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Salt Lake City, Jane Doe, Adrianna Mucinska, Meredith Schultz
+Meredith, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -12903,10 +12719,10 @@ Declarationcontaining, Kidder Peabody Secs
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12914,10 +12730,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12925,10 +12741,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12936,10 +12752,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12947,10 +12763,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12958,10 +12774,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12969,10 +12785,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12980,10 +12796,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -12991,11 +12807,10 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13003,11 +12818,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13015,11 +12829,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13027,11 +12840,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13039,11 +12851,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13051,11 +12862,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13063,11 +12873,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13075,11 +12884,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13087,11 +12895,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13099,11 +12906,10 @@ Address
 
 **Document**: gov.uscourts.nysd.447706.1330.3_2.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Address Unknown
-Telephone, Haley Robson
-Address, William Jefferson Clinton, Aviation Insurance Agent, Brahakmana Mellawa
+**People**: Daily Mail, Miles Alexander
+Address, Press Statement, Very Disturbing Story, Dara Preece
 Address
-**Locations**: Florida, New York, Palm Beach, London
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -13111,9 +12917,7 @@ Address
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13122,9 +12926,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13133,9 +12935,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13144,9 +12944,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13155,9 +12953,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13166,9 +12962,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13177,9 +12971,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13188,9 +12980,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13199,9 +12989,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13210,9 +12998,7 @@ Institute
 
 **Document**: 1331-30.pdf
 **Type**: deposition, legal_document, financial
-**People**: Natalya Malyshov, Molson Breweries, Defendant Ghislaine Maxwell, See Menninger
-Decl, Fashion
-Institute
+**People**: Any Document, Any Documents, Sarah Ransome, Menninger Decl, Compel Non
 **Locations**: New York, Virgin Islands
 
 ---
@@ -13221,9 +13007,8 @@ Institute
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13231,9 +13016,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13241,9 +13025,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13251,9 +13034,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13261,9 +13043,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13271,9 +13052,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13281,9 +13061,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13291,9 +13070,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -13301,8 +13079,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13310,8 +13089,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13319,8 +13099,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13328,8 +13109,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13337,8 +13119,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13346,8 +13129,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13355,8 +13139,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13364,8 +13149,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13373,8 +13159,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13382,8 +13169,9 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.44_2.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Max Brockman, Filed Under Seal, Joo No, Jean Luc Rn, Alan Dcrshowit
-**Locations**: Zorro Ranch, New York, Palm Beach, Florida, France, New Mexico, Manhattan
+**People**: Related Cases, Videotaped
+Monday, Nadia Marcinkova, Edge Science, Igor Ziiu
+**Locations**: New York, France, Florida, Zorro Ranch, New Mexico, Palm Beach, Manhattan
 
 ---
 
@@ -13391,8 +13179,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: gov.uscourts.nysd.447706.1328.27_1.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
-Ross, Jane Doe
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
+Ross
 
 ---
 
@@ -13400,8 +13188,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.27_1.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
-Ross, Jane Doe
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
+Ross
 
 ---
 
@@ -13409,8 +13197,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.27_1.pdf
 **Type**: email, correspondence
-**People**: Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
-Ross, Jane Doe
+**People**: Jane Doe, Ross Gow, Guiffeeagainst Ms, Filed Under Seal, Best
+Ross
 
 ---
 
@@ -13418,8 +13206,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13427,8 +13215,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13436,8 +13224,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13445,8 +13233,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13454,8 +13242,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13463,8 +13251,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13472,8 +13260,8 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13481,8 +13269,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13490,8 +13279,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13499,8 +13289,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13508,8 +13299,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13517,8 +13309,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13526,8 +13319,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13535,8 +13329,9 @@ Ross, Jane Doe
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -13600,9 +13395,7 @@ Ross, Jane Doe
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -13611,9 +13404,9 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -13621,9 +13414,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -13631,9 +13424,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -13641,9 +13434,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: gov.uscourts.nysd.447706.1327.3_1.pdf
 **Type**: financial
-**People**: Pool Service When, British Airways, Merry Rug, Ghislaine Maxwell
-Accountants, Newspapers Publix Super
-**Locations**: France, Florida, New York, Palm Beach
+**People**: Garden Service Alan, Electrician Energy Efficient, Sunset Blvd, Main Street News, Locksmith
+Wilson
+**Locations**: New York, Palm Beach, Florida, France
 
 ---
 
@@ -13651,9 +13444,9 @@ Accountants, Newspapers Publix Super
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -13662,7 +13455,7 @@ Procedure, Jew York, Lexington Avenue
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13671,7 +13464,7 @@ Procedure, Jew York, Lexington Avenue
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13679,9 +13472,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -13689,10 +13482,9 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13701,7 +13493,7 @@ Ethnic Origin, Home Phone No
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13709,10 +13501,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13721,7 +13512,7 @@ Ethnic Origin, Home Phone No
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13729,9 +13520,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -13740,9 +13531,8 @@ Suite, Denver Colorado
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13750,9 +13540,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13760,9 +13549,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13770,9 +13558,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13780,9 +13567,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13790,9 +13576,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13800,9 +13585,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13810,9 +13594,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13820,9 +13603,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13830,9 +13612,8 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: gov.uscourts.nysd.447706.1257.12_1.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: South Dadeland Boulevard, Court Reporter
-Notary, Exhibit Number, Eva Dubin, The Dubins
-**Locations**: New York, New Mexico, Florida, Virgin Islands, Little Saint James, France, Palm Beach
+**People**: The Dubins, Court Reporter, Daily Mail, Possibly April, Exhibit No
+**Locations**: Little Saint James, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -13840,8 +13621,7 @@ Notary, Exhibit Number, Eva Dubin, The Dubins
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -13851,7 +13631,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13859,8 +13639,7 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -13869,8 +13648,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -13879,8 +13657,8 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13888,8 +13666,8 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -13897,8 +13675,9 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: gov.uscourts.nysd.447706.1330.15.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Court Personnel, All Other Real, Czech Republic, Other Fraud Act, Product Liability
-**Locations**: London, New York, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Airplane Product Product, Unopposed Motion, Palm Beach
+Police, Related Cases, Alien Detainee
+**Locations**: Paris, London, New York, France, Florida, Palm Beach, Virgin Islands
 
 ---
 
@@ -13906,8 +13685,8 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -13915,9 +13694,10 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: 1331-34.pdf
 **Type**: email, correspondence
-**People**: Griszell Lesley Groff, Groff
+**People**: Groff
 Shopping
-Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
+Hi, Recent Need, Compose
+Ar, Cape Town, Finance Sarah Ransome
 **Locations**: New York
 
 ---
@@ -13926,10 +13706,9 @@ Hi, Qriginal Message, People Sarah Ransome, Finance Sarah Ransome
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -13937,10 +13716,9 @@ The First
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13948,10 +13726,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13959,10 +13736,9 @@ Ethnic Origin, Home Phone No
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -13970,10 +13746,10 @@ Ethnic Origin, Home Phone No
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -13981,10 +13757,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -13992,10 +13768,9 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -14003,10 +13778,10 @@ Ethnic Origin, Home Phone No
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14014,10 +13789,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14025,10 +13800,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14036,10 +13811,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14047,10 +13822,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14058,10 +13833,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14069,9 +13844,7 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1331-35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Nicole Simmons, Natalya
-Malyshov, University Street
-Borns, This Request, Jeffiey Epstein
+**People**: Salt Lake City, Jeffrey Epst, Any Document, For Othu Discovery, Laura Menninger
 **Locations**: New York
 
 ---
@@ -14080,8 +13853,8 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.28.pdf
 **Type**: deposition, legal_document, financial
-**People**: This Request, Filed Under Seal, Corporate Research, Clinton Foundation Climate, Instruction No
-**Locations**: Florida, New York
+**People**: Produce Documents, Producing Electronically Stored, Only One Form, Corporate Research, Claiming Privilege
+**Locations**: New York, Florida
 
 ---
 
@@ -14089,8 +13862,7 @@ Borns, This Request, Jeffiey Epstein
 
 **Document**: 1320-32.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: York
-Virginia, This Request, Sara Kensington, Instruction No, Producing Electronically Stored
+**People**: Jane Doe, Dave Rodgers, Sarah Kellen, Producing Electronically Stored, Only One Form
 **Locations**: New York
 
 ---
@@ -14099,10 +13871,9 @@ Virginia, This Request, Sara Kensington, Instruction No, Producing Electronicall
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14110,10 +13881,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14121,9 +13891,10 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14131,10 +13902,10 @@ Professional Reporter, That Mr
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -14142,9 +13913,9 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1320-31.pdf
 **Type**: email, deposition, legal_document, financial
-**People**: Ghislaine Max, David Boil, Civil
-Procedure, Jew York, Lexington Avenue
-**Locations**: Florida, New York
+**People**: Ghislaine Manvell, Nadia Marcinkova, Avenue
+Denver, Floor Date, Civil Procedure
+**Locations**: New York, Florida
 
 ---
 
@@ -14152,9 +13923,10 @@ Procedure, Jew York, Lexington Avenue
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14162,10 +13934,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -14173,8 +13945,9 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.19.pdf
 **Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -14182,8 +13955,9 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.19.pdf
 **Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -14191,8 +13965,9 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.19.pdf
 **Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -14200,8 +13975,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -14209,8 +13986,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -14218,8 +13997,10 @@ Professional Reporter
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -14227,8 +14008,10 @@ Professional Reporter
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -14236,8 +14019,10 @@ Professional Reporter
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -14245,8 +14030,10 @@ Professional Reporter
 
 **Document**: 1325-2.pdf
 **Type**: email, financial, correspondence
-**People**: Oo Thu, Australian Ave, Secret Sex Lives, Virginia Giuffre Jane, Protected Material Page
-**Locations**: London, New York, Paris, Florida, Palm Beach
+**People**: Registered
+No, Oo Thu, York Correspondent
+Telephone, Original Message, Sharon Church
+**Locations**: Paris, London, New York, Florida, Palm Beach
 
 ---
 
@@ -14254,10 +14041,9 @@ Professional Reporter
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -14265,7 +14051,8 @@ The First
 
 **Document**: gov.uscourts.nysd.447706.1328.35.pdf
 **Type**: deposition, legal_document, financial
-**People**: Did Ms, The Palm Beach, Breakers Hotel, Christina Venero, Defendant Ghislaine Maxwell
+**People**: University Street, Christina Venero, Salt Lake City, False
+Claims, Twin Lakes Rd
 **Locations**: New York, Palm Beach
 
 ---
@@ -14274,10 +14061,9 @@ The First
 
 **Document**: gov.uscourts.nysd.447706.1328.21.pdf
 **Type**: legal_document, correspondence
-**People**: Entered By, Female
-Ethnic Origin, Sex Offenses, Male
-Ethnic Origin, Home Phone No
-**Locations**: Florida, Palm Beach
+**People**: Male
+Ethnic Origin, Female Ethnic, Aggravated Battery, Royal Palm Beach, Supplemental Reported By
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -14286,7 +14072,7 @@ Ethnic Origin, Home Phone No
 **Document**: gov.uscourts.nysd.447706.1328.22_1.pdf
 **Type**: legal_document, correspondence
 **People**: Employee Id, Viewing Case Number
-**Locations**: Florida, Palm Beach
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -14294,8 +14080,7 @@ Ethnic Origin, Home Phone No
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -14304,8 +14089,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -14314,8 +14098,7 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1325-12.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Arapahoe Avenue, Protected
-Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
+**People**: Jane Doe, Certified Realtime, Patient Health, Produce Documents, Laura Menninger
 **Locations**: New York
 
 ---
@@ -14324,10 +14107,9 @@ Health Information, Physician Group Patient, Denver Colorado, Agren Blando Court
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -14335,10 +14117,9 @@ The First
 
 **Document**: 1331-27.pdf
 **Type**: legal_document
-**People**: See Lupyan, The Second Set, Forex
-Transactions Litig, Before Mr, Admissions
-The First
-**Locations**: New York, United Kingdom, London
+**People**: Forex
+Transactions Litig, University Street, Salt Lake City, Work Product, Ross Gow
+**Locations**: New York, London, United Kingdom
 
 ---
 
@@ -14346,9 +14127,9 @@ The First
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14357,9 +14138,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14368,9 +14149,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14379,9 +14160,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14390,9 +14171,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14401,9 +14182,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14412,9 +14193,9 @@ Suite, Denver Colorado
 
 **Document**: 1320-30.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Secret Service, Andrews Avenue
-Suite, By Brad Edwards, Boulevard
-Suite, Denver Colorado
+**People**: Jane Doe, By Brad Edwards, Bill
+Clinton, Paralegal
+Nicholas, Bill Clinton
 **Locations**: New York, Palm Beach
 
 ---
@@ -14423,10 +14204,9 @@ Suite, Denver Colorado
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -14435,10 +14215,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.6.pdf
 **Type**: deposition, legal_document
-**People**: Flagler Drive
-Suite, When Mr, Joseph Recarey, Entered By, Certified Realtime
-Reporter
-**Locations**: Florida, New York, Palm Beach
+**People**: Evidence Custodian, Joseph Recarey, Incident Report Program, Garden
+Room, Toll Free
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14446,10 +14225,10 @@ Reporter
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14457,10 +14236,10 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1320-13.pdf
 **Type**: deposition, legal_document, flight_log, financial
-**People**: Blanton
-Automotive, Tan
-Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
-**Locations**: Zorro Ranch, Florida, New York, Palm Beach
+**People**: On
+February, Detective Dicks, If Rodriguez, Palm Beach
+Police, Limited Inc
+**Locations**: New York, Palm Beach, Florida, Zorro Ranch
 
 ---
 
@@ -14468,9 +14247,8 @@ Honda Civic, White Ford Truck, Ghaline Maxwell, Victoria Bean
 
 **Document**: 1325-17.pdf
 **Type**: deposition, legal_document
-**People**: Abel
-Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
-**Locations**: Florida, New York, Palm Beach
+**People**: Jenny Martin, Court Reporter, Survivors Charter, Wellington High School, Drive South
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14479,10 +14257,10 @@ Virginia Giuffre, Jenny Martin, North Andrews Avenue, Tony Figueroa, West Palm
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -14491,9 +14269,8 @@ Report
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -14501,8 +14278,8 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: gov.uscourts.nysd.447706.1328.16.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Jean Luc Brunel, Filed Under Seal, Chase Bnnk, Related Cases, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: Jean Luc Brunel, Lascivious Molestation, Jane Doe, Notmy Public, Ghislnine Ma
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14510,8 +14287,7 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -14520,7 +14296,7 @@ Supplemental
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -14529,8 +14305,8 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -14539,8 +14315,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -14549,9 +14325,9 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -14559,7 +14335,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14568,7 +14344,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14577,9 +14353,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -14587,9 +14363,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -14597,8 +14373,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -14607,8 +14383,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1330.10.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -14617,8 +14393,7 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14627,8 +14402,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14637,8 +14411,8 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -14647,8 +14421,8 @@ Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.23.pdf
 **Type**: deposition, legal_document
-**People**: Ross Gow, Notary Public, Jeffrey Epstein, Philip Barden, Lexington
-Avenue
+**People**: Case No, Ross Gow, Leslie Fagin, Lexington
+Avenue, Philip Barden
 **Locations**: New York
 
 ---
@@ -14657,10 +14431,9 @@ Avenue
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -14669,10 +14442,9 @@ Reporter
 
 **Document**: 1331-26.pdf
 **Type**: deposition, legal_document
-**People**: Jean Luc Brunel, Notary Public, Lexington
+**People**: Case No, Jean Luc Brunel, Leslie Fagin, Lexington
 Avenue, Americas
-New York, Court
-Reporter
+New York
 **Locations**: New York
 
 ---
@@ -14681,9 +14453,9 @@ Reporter
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -14691,9 +14463,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -14701,9 +14472,8 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-3.pdf
 **Type**: deposition, legal_document
-**People**: Salt Lake City, Notary Public, Andrews Avenue
-Fort, Glenn Dubin, Not Annie Farmer
-**Locations**: Florida, New York
+**People**: Case No, Salt Lake City, Also Present, Leslie Fagin, South University Street
+**Locations**: New York, Florida
 
 ---
 
@@ -14711,7 +14481,7 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -14720,8 +14490,7 @@ Fort, Glenn Dubin, Not Annie Farmer
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -14730,7 +14499,7 @@ Supplemental
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -14739,9 +14508,9 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -14750,9 +14519,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -14760,9 +14529,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -14770,9 +14538,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -14780,9 +14547,9 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -14790,7 +14557,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14799,7 +14566,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14808,7 +14575,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14817,8 +14584,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -14826,8 +14593,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: 1331-11.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Miami Florida, Las Olas City, For Johanna, Kress Court Reporting, Rue Notre Dame
-**Locations**: Florida, Palm Beach
+**People**: Jane Doe, Court Reporter, West Flagler Street, For Johanna, During Mr
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -14835,9 +14602,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -14845,8 +14612,7 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14855,8 +14621,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14865,8 +14630,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -14875,8 +14639,10 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -14884,9 +14650,9 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14895,9 +14661,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14906,9 +14672,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14917,9 +14683,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14928,9 +14694,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14939,9 +14705,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14950,9 +14716,9 @@ Southern, Case No
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14961,9 +14727,9 @@ Southern, Case No
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14972,9 +14738,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14983,9 +14749,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -14994,9 +14760,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15005,9 +14771,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15016,9 +14782,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15027,9 +14793,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15038,9 +14804,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15049,9 +14815,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15060,9 +14826,9 @@ Southern, Case No
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15071,9 +14837,9 @@ Southern, Case No
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15082,9 +14848,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15093,9 +14859,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15104,10 +14870,8 @@ Southern, Case No
 
 **Document**: 1320-9.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15115,10 +14879,8 @@ If
 
 **Document**: 1320-9.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15126,10 +14888,8 @@ If
 
 **Document**: 1320-9.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15137,10 +14897,8 @@ If
 
 **Document**: 1320-9.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15148,10 +14906,8 @@ If
 
 **Document**: 1325-3.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15159,10 +14915,8 @@ If
 
 **Document**: 1325-3.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15170,10 +14924,8 @@ If
 
 **Document**: 1325-3.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15181,10 +14933,8 @@ If
 
 **Document**: 1325-3.pdf
 **Type**: legal_document
-**People**: Jean Luc Brunel, Australian Ave, Edwards
-Bradley, Quinney College, Circumstances
-If
-**Locations**: London, New York, New Mexico, Paris, Florida, Virgin Islands, France, Palm Beach
+**People**: Jean Luc Brunel, Salt Lake City, Jane Doe, Rights Act, Quinney College
+**Locations**: Paris, London, New York, France, Florida, New Mexico, Palm Beach, Virgin Islands
 
 ---
 
@@ -15192,8 +14942,10 @@ If
 
 **Document**: gov.uscourts.nysd.447706.1328.40.pdf
 **Type**: email, financial, correspondence
-**People**: Orad Edwards, On Wed, Emily Smith, God Bless, Lord Colin Campbell
-**Locations**: Florida, New York, Manhattan
+**People**: On Wed, God Bless, Take Care, Street
+New York, Jeffrey Epstein
+Received
+**Locations**: New York, Florida, Manhattan
 
 ---
 
@@ -15201,9 +14953,9 @@ If
 
 **Document**: 1331-33.pdf
 **Type**: email
-**People**: Jeffrey Oh, Finance
-Pumla, Pumla Griszell Sarah, Travel
-Write, Original Message
+**People**: Pumla Griszell Sarah, To
+Subject, Let Yahoo, Kisses
+Pumla Griszell, Original Message
 
 ---
 
@@ -15211,9 +14963,9 @@ Write, Original Message
 
 **Document**: 1331-33.pdf
 **Type**: email
-**People**: Jeffrey Oh, Finance
-Pumla, Pumla Griszell Sarah, Travel
-Write, Original Message
+**People**: Pumla Griszell Sarah, To
+Subject, Let Yahoo, Kisses
+Pumla Griszell, Original Message
 
 ---
 
@@ -15221,9 +14973,9 @@ Write, Original Message
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -15231,9 +14983,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15241,9 +14993,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.34.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15251,9 +15003,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -15261,9 +15013,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -15271,9 +15023,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15281,9 +15033,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1330.14.pdf
 **Type**: deposition, legal_document, financial
-**People**: Adriana Ross, Notary Public, Jeffrey Epstein, Australian Avenue South, Reporting
-Job No
-**Locations**: Florida, New York, Palm Beach
+**People**: Reporting
+Job No, Bella Klen, Adriana Ross, Sarah Kellen, Cynthia Hopkins
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15291,9 +15043,9 @@ Job No
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -15301,9 +15053,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -15312,9 +15062,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -15323,9 +15071,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -15334,9 +15080,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -15345,9 +15089,9 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -15356,9 +15100,9 @@ County
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -15367,11 +15111,11 @@ County
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -15379,11 +15123,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -15391,11 +15135,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -15403,11 +15147,11 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: 1331-29.pdf
 **Type**: deposition, legal_document
-**People**: Bradley Edwards
-Farmer, Finsbury Circus
-London, Defendant Ghislaine Maxwell, Philip Barden
-Devonshires, Virginia Lee Roberts
-**Locations**: Florida, New York, United Kingdom, London
+**People**: Salt Lake City, Defendant Ghislaine Maxwell, Avenue
+Denver, Philip Barden
+Devonshires, Finsbury Circus
+London
+**Locations**: New York, Florida, London, United Kingdom
 
 ---
 
@@ -15415,8 +15159,9 @@ Devonshires, Virginia Lee Roberts
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -15425,8 +15170,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -15435,8 +15181,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -15445,8 +15192,9 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: gov.uscourts.nysd.447706.1327.4_1.pdf
 **Type**: deposition, legal_document
-**People**: Defendant Ghislaine Maxwell, Virginia Lee Roberts, Anthony Figueroa
-Address, Ghislaine Maxwell, Of New York
+**People**: Jane Doe, Mccawley
+Borns, Defendant Ghislaine Maxwell, Bill Clinton, Avenue
+Denver
 **Locations**: New York, London
 
 ---
@@ -15455,9 +15203,7 @@ Address, Ghislaine Maxwell, Of New York
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -15466,9 +15212,7 @@ Ghislaine Maxwell
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -15478,9 +15222,9 @@ Ghislaine Maxwell
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -15489,9 +15233,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -15500,9 +15244,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -15511,9 +15255,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: 1331-14.pdf
 **Type**: deposition, legal_document
-**People**: Toto Certain Deposition, David Boies
-Boies, Jack Goldberger, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Jack Goldberger, Law
+University, Quinney College, Anna Intriago
+**Locations**: New York, Florida
 
 ---
 
@@ -15521,9 +15265,9 @@ Boies, Jack Goldberger, Quinney College, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -15531,8 +15275,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1328.19.pdf
 **Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -15540,8 +15285,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1328.19.pdf
 **Type**: deposition
-**People**: Bob Norman, Jeffrey Epstein, Follow Local, Updated On, Robert Maxwell
-**Locations**: Florida, New York, Palm Beach, London
+**People**: Published On, Alan Dershowitz, Palm
+Beach, Miami Beach, Follow Local
+**Locations**: New York, Palm Beach, Florida, London
 
 ---
 
@@ -15558,8 +15304,8 @@ Subject
 
 **Document**: 1320-1.pdf
 **Type**: email, legal_document
-**People**: Jeffrey
-We, Ross Gow, Jane Does, Philip Barden
+**People**: Ross Gow, Philip Barden, Jeffrey
+We, Jane Does
 
 ---
 
@@ -15567,8 +15313,8 @@ We, Ross Gow, Jane Does, Philip Barden
 
 **Document**: 1320-1.pdf
 **Type**: email, legal_document
-**People**: Jeffrey
-We, Ross Gow, Jane Does, Philip Barden
+**People**: Ross Gow, Philip Barden, Jeffrey
+We, Jane Does
 
 ---
 
@@ -15576,9 +15322,9 @@ We, Ross Gow, Jane Does, Philip Barden
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -15587,9 +15333,9 @@ County
 
 **Document**: 1320-14.pdf
 **Type**: email
-**People**: Ross Gow, Berkeley Square
-London, Managing Partner, Daily Mail, Palm Beach
-County
+**People**: Ghislaine
+Some, Ross Gow, Daily Mail, Royal Palm Beach, Berkeley Square
+London
 **Locations**: Palm Beach, London
 
 ---
@@ -15598,9 +15344,9 @@ County
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -15626,9 +15372,9 @@ Subject
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15637,9 +15383,9 @@ Southern, Case No
 
 **Document**: 1320.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15648,9 +15394,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15659,9 +15405,9 @@ Southern, Case No
 
 **Document**: 1325.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15670,9 +15416,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15681,9 +15427,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1327.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15692,9 +15438,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15703,9 +15449,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1330.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15714,8 +15460,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1329.0_1.pdf
 **Type**: legal_document
-**People**: Miami Herald Media, This Document, Warner Commc, Epstein
-List, The Document
+**People**: Warner Commc, Intervenor Alan Dershowitz, Epstein
+List, Intervenors
+Julie Brown, This Document
 **Locations**: New York
 
 ---
@@ -15724,8 +15471,9 @@ List, The Document
 
 **Document**: gov.uscourts.nysd.447706.1329.0_1.pdf
 **Type**: legal_document
-**People**: Miami Herald Media, This Document, Warner Commc, Epstein
-List, The Document
+**People**: Warner Commc, Intervenor Alan Dershowitz, Epstein
+List, Intervenors
+Julie Brown, This Document
 **Locations**: New York
 
 ---
@@ -15734,9 +15482,9 @@ List, The Document
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15745,9 +15493,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.0.pdf
 **Type**: legal_document, correspondence
-**People**: Email Correspondence, The Honorable Loretta, Judge
+**People**: Case No, The Honorable Loretta, Judge
 United States, District Court
-Southern, Case No
+Southern, Email Correspondence
 **Locations**: New York
 
 ---
@@ -15756,9 +15504,9 @@ Southern, Case No
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -15766,9 +15514,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -15776,9 +15523,8 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1330.9.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Laura, Ross Gow, Guiffeeagainst Ms, Fort Lauderdale, Barry
-Date
+**People**: Case No, Dear Sigrid, Ross Gow, Menninger
+Case, Lago Club
 
 ---
 
@@ -15786,11 +15532,12 @@ Date
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
+Cc
 **Locations**: Paris, France
 
 ---
@@ -15799,22 +15546,11 @@ Idonothearfromyou
 
 **Document**: gov.uscourts.nysd.447706.1327.15_1.pdf
 **Type**: email, legal_document, correspondence
-**People**: Menninger
-Haddon, Laura Menninger
-Sent, Meredith Schultz
-Cc, Jeff Pagliuca, If
-Idonothearfromyou
-**Locations**: Paris, France
-
----
-
-## July 14, 2016
-
-**Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
-**Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
+**People**: Laura Menninger
+Sent, Jeff Pagliuca, Gerbil
+Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch, Menninger
+Haddon, Meredith Schultz
 Cc
 **Locations**: Paris, France
 
@@ -15824,10 +15560,24 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
+**Locations**: Paris, France
+
+---
+
+## July 14, 2016
+
+**Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
+**Type**: email, legal_document, financial, correspondence
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -15836,10 +15586,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -15848,10 +15599,11 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1327.16_1.pdf
 **Type**: email, legal_document, financial, correspondence
-**People**: Meredith Schultz, Laura Menninger
-Sent, Menninger
-Haddon, Jeff Pagliuca, Meredith Schultz
-Cc
+**People**: Conferralregardingsearchterms
+Meredith, Laura Menninger
+Sent, Jeff Pagliuca, Menninger
+Haddon, Conferral
+Althoughmanyofyourothersearchtermsareatremendousstretch
 **Locations**: Paris, France
 
 ---
@@ -15861,8 +15613,7 @@ Cc
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -15872,8 +15623,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.1_1.pdf
 **Type**: legal_document
-**People**: Filed Under Seal, Pagliuca In Support, Pagliuca
-Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -15882,7 +15632,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -15891,7 +15641,7 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1328.36.pdf
 **Type**: legal_document
-**People**: Johanna Sjoberg, Tony Figueroa, University Street, Ghislaine Maxwell, Detective Joseph Recarey
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Juan Alessi
 **Locations**: New York
 
 ---
@@ -15900,9 +15650,9 @@ Jeffrey, Declaration Of Jeffrey, Johanna Sjoberg
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -15910,8 +15660,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15919,8 +15670,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.17.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Las Olas City, Filed Under Seal, Kress Court Reporting, Rue Notre Dame, County Of Dade
-**Locations**: Florida, New York, Palm Beach
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -15928,9 +15680,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-7.pdf
 **Type**: deposition, legal_document, financial, correspondence
-**People**: Las Olas City, Boulevard
-Suite, Kress Court Reporting, Dated January, Rue Notre Dame
-**Locations**: Florida, New York, Palm Beach, Virgin Islands
+**People**: Jane Doe, Boulevard
+Plaintiff, Court Reporter, West Flagler Street, Sarah Kellen
+**Locations**: New York, Palm Beach, Florida, Virgin Islands
 
 ---
 
@@ -15938,9 +15690,9 @@ Suite, Kress Court Reporting, Dated January, Rue Notre Dame
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -15948,9 +15700,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -15958,10 +15709,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -15970,10 +15719,8 @@ Meredith Schultz
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -15982,10 +15729,8 @@ Meredith Schultz
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -15994,10 +15739,8 @@ Meredith Schultz
 
 **Document**: 1325-16.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Menninger In Support, Stanley Pottinger
-Bradley, Cassell
-Meredith Schultz
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -16006,9 +15749,9 @@ Meredith Schultz
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16016,9 +15759,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16026,9 +15769,11 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16036,9 +15781,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -16046,9 +15791,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -16056,9 +15801,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16066,9 +15812,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1330.13.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, That Mr, Las Olas Boulevard
-**Locations**: Florida, New York, Palm Beach
+**People**: Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16076,9 +15823,10 @@ Professional Reporter, That Mr, Las Olas Boulevard
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16086,9 +15834,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1327.24.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter, That Mr
-**Locations**: Florida, New York, Palm Beach
+**People**: Certified Realtime, Boies Schiller, Certified Realtime
+Reporter, That Mr, Registered
+Professional Reporter
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16096,9 +15845,10 @@ Professional Reporter, That Mr
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -16106,9 +15856,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.38.pdf
 **Type**: deposition, legal_document
-**People**: El Brillo Way, Notary Public, Fort Lauderdale, Boca Raton, Registered
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Boca Raton, Registered
 Professional Reporter
-**Locations**: Florida, New York
+**Locations**: New York, Florida
 
 ---
 
@@ -16116,10 +15867,9 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16127,9 +15877,10 @@ Case, North Andrews Avenue
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16137,9 +15888,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -16148,10 +15899,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -16161,10 +15910,8 @@ Schiller, Court Reporter
 
 **Document**: 1320-29.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, New
-York, Americas
-New York, Boies
-Schiller, Court Reporter
+**People**: Case No, Court Reporter, Leslie Fagin, Main Street, Americas
+New York
 **Locations**: New York
 
 ---
@@ -16173,9 +15920,9 @@ Schiller, Court Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16183,9 +15930,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16193,9 +15940,11 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16203,10 +15952,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16214,9 +15962,10 @@ Case, North Andrews Avenue
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16224,9 +15973,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -16234,9 +15983,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -16244,9 +15992,10 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16254,9 +16003,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -16264,9 +16013,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16275,9 +16023,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16286,9 +16033,10 @@ From, Las Olas
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16296,9 +16044,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16307,9 +16054,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16318,9 +16064,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16329,9 +16074,8 @@ From, Las Olas
 
 **Document**: 1325-6.pdf
 **Type**: email, deposition, legal_document, correspondence
-**People**: Second Email
-Attachments, Filed Under Seal, Gray Robinson, Sandra Perkins
-From, Las Olas
+**People**: Laura Menninger, Sandra Perkins, Ocala Florida, Second Email
+Attachments, Plaintiffs Second Request
 **Locations**: Florida
 
 ---
@@ -16340,9 +16084,9 @@ From, Las Olas
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16350,9 +16094,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -16361,9 +16103,7 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: 1331-17.pdf
 **Type**: legal_document
-**People**: University Street, Nicole Simmons
-Nicole, Toto
-Certain Depositions, Motion In Limine, For Use At
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Designated By Plaintiff
 **Locations**: New York
 
 ---
@@ -16372,9 +16112,8 @@ Certain Depositions, Motion In Limine, For Use At
 
 **Document**: gov.uscourts.nysd.447706.1330.23_1.pdf
 **Type**: deposition, legal_document
-**People**: For Gow, David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted
-**Locations**: Florida, New York, London
+**People**: Salt Lake City, Maxwell Depo, Ross Gow, Limousine Serv, For Gow
+**Locations**: New York, Florida, London
 
 ---
 
@@ -16382,10 +16121,10 @@ Boies, Late Production, Quinney College, Respectfully Submitted
 
 **Document**: 1331-18.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Jeffrey Epstein, Registered
-Professional Reporter, Boulevard
-Fort Lauderdale, Podhurst Orseck
-**Locations**: Florida, New York
+**People**: Avenue
+Denver, Deposition Exhibit, Certified Realtime, Certified Realtime
+Reporter, West Flagler Street
+**Locations**: New York, Florida
 
 ---
 
@@ -16393,9 +16132,8 @@ Fort Lauderdale, Podhurst Orseck
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -16403,9 +16141,9 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16413,9 +16151,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16423,9 +16161,11 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16433,9 +16173,10 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16443,9 +16184,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1327.22.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: Florida, New York, Palm Beach
+**People**: Alan Dershowitz, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16453,8 +16195,10 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16462,10 +16206,9 @@ My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16473,9 +16216,8 @@ Case, North Andrews Avenue
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -16483,9 +16225,9 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16493,9 +16235,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16503,9 +16245,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16513,9 +16255,11 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16523,9 +16267,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -16533,9 +16277,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.26_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
-**Locations**: Florida, New York
+**People**: Mr Epstein, Court Reporter, For Jeffrey, Southern Reporting Company, Notary Public
+Southern
+**Locations**: New York, Florida
 
 ---
 
@@ -16543,10 +16287,9 @@ Suite, Southern Reporting Company, Filed Under Seal, Mr Epstein
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16554,9 +16297,8 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1327.8_1.pdf
 **Type**: deposition, legal_document
-**People**: Palm Coast, Drive South
-Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
-**Locations**: Florida, New York
+**People**: No She, Court Reporter, Digital Certificate Authenticated, For Jeffrey, Southern Reporting Company
+**Locations**: New York, Florida
 
 ---
 
@@ -16564,9 +16306,8 @@ Suite, Southern Reporting Company, Jeffrey Epstein, Notary Public
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -16574,11 +16315,11 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1325-13.pdf
 **Type**: email, financial, correspondence
-**People**: Bernadette Martin, Virginia Giuffre
-Dear, Lightfoot
-Consulting Psychologist, Kind Regards
-Bernadette, Meredith Schultz
-Subject
+**People**: Lightfoot
+Consulting Psychologist, Meredith Schultz
+Subject, Madam
+Ms Judith, Meredith Schultz
+From, Bernadette Martin
 
 ---
 
@@ -16586,11 +16327,11 @@ Subject
 
 **Document**: 1325-13.pdf
 **Type**: email, financial, correspondence
-**People**: Bernadette Martin, Virginia Giuffre
-Dear, Lightfoot
-Consulting Psychologist, Kind Regards
-Bernadette, Meredith Schultz
-Subject
+**People**: Lightfoot
+Consulting Psychologist, Meredith Schultz
+Subject, Madam
+Ms Judith, Meredith Schultz
+From, Bernadette Martin
 
 ---
 
@@ -16598,9 +16339,9 @@ Subject
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16608,10 +16349,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16619,8 +16359,9 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -16628,8 +16369,9 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1328.14.pdf
 **Type**: deposition, legal_document, flight_log
-**People**: Santa Fe, Notary Public, Filed Under Seal, Fort Lauderdale, Jeffrey Epstein
-**Locations**: New Mexico, Florida, New York, Palm Beach
+**People**: Deposition Exhibit, The Cessna, Did Jeffrey Epstein, Boies Schiller, Certified Realtime
+Reporter
+**Locations**: New York, Palm Beach, Florida, New Mexico
 
 ---
 
@@ -16637,8 +16379,10 @@ Case, North Andrews Avenue
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -16646,8 +16390,7 @@ Case, North Andrews Avenue
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -16656,8 +16399,7 @@ Supplemental
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -16666,9 +16408,7 @@ Supplemental
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -16677,9 +16417,7 @@ Ghislaine Maxwell
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -16688,9 +16426,7 @@ Ghislaine Maxwell
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -16699,9 +16435,7 @@ Ghislaine Maxwell
 
 **Document**: 1331-28.pdf
 **Type**: legal_document
-**People**: United States District, Menninger
-Laura, Salt Lake City, South Salem, Defendant
-Ghislaine Maxwell
+**People**: University Street, Salt Lake City, Twin Lakes Rd, Work Product, South Salem
 **Locations**: New York
 
 ---
@@ -16710,8 +16444,7 @@ Ghislaine Maxwell
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -16720,8 +16453,7 @@ Supplemental
 
 **Document**: 1320-34.pdf
 **Type**: legal_document
-**People**: Court Order, Lynn Trude Miller, First Set, University Street, Second Amended
-Supplemental
+**People**: University Street, Failure To Comply, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -16730,8 +16462,8 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -16739,8 +16471,8 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -16748,8 +16480,8 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -16757,8 +16489,8 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1328.15.pdf
 **Type**: deposition, legal_document, correspondence
-**People**: Plaintiffs Exhibit, Jack Goldberger, Filed Under Seal, Australian Av, Pagel Page
-**Locations**: Florida, Palm Beach
+**People**: Jack Goldberger, Reporting Services, Fifth Amendment, Sarah Kellen, Cynthia Hopkins
+**Locations**: Palm Beach, Florida
 
 ---
 
@@ -16766,9 +16498,11 @@ Supplemental
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16776,7 +16510,7 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -16785,9 +16519,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -16795,8 +16529,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: 1320-16.pdf
 **Type**: unknown
-**People**: Basham Client, Client Communication Attorney, Work Product, New York
-Giuffre, Ghislaine Maxwell
+**People**: Attorney Communication Attorney, Laura Mary Borja, Ross Gow, Client Communication Attorney, Laura Menninger
 **Locations**: New York
 
 ---
@@ -16805,8 +16538,7 @@ Giuffre, Ghislaine Maxwell
 
 **Document**: 1320-16.pdf
 **Type**: unknown
-**People**: Basham Client, Client Communication Attorney, Work Product, New York
-Giuffre, Ghislaine Maxwell
+**People**: Attorney Communication Attorney, Laura Mary Borja, Ross Gow, Client Communication Attorney, Laura Menninger
 **Locations**: New York
 
 ---
@@ -16816,10 +16548,10 @@ Giuffre, Ghislaine Maxwell
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16827,10 +16559,9 @@ Report
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -16838,10 +16569,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -16849,10 +16579,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -16860,10 +16589,9 @@ From, Filed Under Seal
 
 **Document**: 1325-4.pdf
 **Type**: email, legal_document, correspondence
-**People**: Jean Luc Brunel, Sharon Churcher Armonk, Jeff Pagliuca
-Cc, Sigrid Mccawley
-From, Filed Under Seal
-**Locations**: Florida, New York, London
+**People**: Hello Laura, Jean Luc Brunel, Ross Gow, Laura Menninger, Sigrid Mccawley
+Sent
+**Locations**: New York, Florida, London
 
 ---
 
@@ -16871,10 +16599,10 @@ From, Filed Under Seal
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -16882,10 +16610,10 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1327.23_1.pdf
 **Type**: deposition, legal_document
-**People**: Florida
-My Commission, Notary Public, Filed Under Seal, Fort Lauderdale, Registered
-Professional Reporter
-**Locations**: Florida, New York
+**People**: Jane Doe, Boies Schiller, Certified Realtime
+Reporter, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -16893,9 +16621,9 @@ Professional Reporter
 
 **Document**: gov.uscourts.nysd.447706.1328.24.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16903,9 +16631,9 @@ Boies, Quinney College, Respectfully Submitted, Project Subpoenas, North Andrews
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16913,9 +16641,11 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.6.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16923,9 +16653,9 @@ Boies, Filed Under Seal, Quinney College, Judge Sweet, Respectfully Submitted
 
 **Document**: gov.uscourts.nysd.447706.1327.7_2.pdf
 **Type**: deposition, legal_document
-**People**: Errata Sheet, Notary Public, Fort Lauderdale, Registered
-Professional Reporter, My Commission Expires
-**Locations**: Florida, New York
+**People**: Did Maxwell, Boies Schiller, Certified Realtime
+Reporter, Errata Sheet, My Commission Expires
+**Locations**: New York, Florida
 
 ---
 
@@ -16933,9 +16663,10 @@ Professional Reporter, My Commission Expires
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -16943,9 +16674,10 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.2.pdf
 **Type**: deposition, legal_document
-**People**: Notary Public, Fort Lauderdale, Registered
-Professional Reporter, Las Olas Boulevard, Boies Schiller
-**Locations**: Florida, New York
+**People**: Boies Schiller, Certified Realtime
+Reporter, Frederic Fekkai, Registered
+Professional Reporter, Notary Public
+**Locations**: New York, Florida
 
 ---
 
@@ -16953,9 +16685,11 @@ Professional Reporter, Las Olas Boulevard, Boies Schiller
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16963,9 +16697,11 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -16973,10 +16709,9 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1328.29.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, Flight Logs
-Case, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Sealed Composite Exhibit, To Disclose All, Quinney College, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -16984,9 +16719,10 @@ Case, North Andrews Avenue
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -16994,9 +16730,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -17004,9 +16740,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -17014,10 +16750,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -17025,9 +16761,8 @@ Report
 
 **Document**: 1325-8.pdf
 **Type**: deposition, legal_document
-**People**: Court Order, David Boies
-Boies, Quinney College, Bradley Edwards, Redacted Medical Release
-**Locations**: Florida, New York
+**People**: Medical Release Letter, Opposing Counsel, Salt Lake City, Laura Menninger, Judith Lightfoot
+**Locations**: New York, Florida
 
 ---
 
@@ -17035,7 +16770,7 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -17044,7 +16779,7 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -17053,10 +16788,10 @@ Boies, Quinney College, Bradley Edwards, Redacted Medical Release
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -17064,10 +16799,10 @@ Report
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -17075,8 +16810,10 @@ Report
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17084,8 +16821,10 @@ Report
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17093,7 +16832,7 @@ Report
 
 **Document**: 1320-36.pdf
 **Type**: legal_document
-**People**: Nicole Simmons, Isl Nicole Simmons, Lynn Trude Miller, First Set, University Street
+**People**: Exhibit Lis, University Street, Salt Lake City, Twin Lakes Rd, South Salem
 **Locations**: New York
 
 ---
@@ -17103,9 +16842,9 @@ Report
 
 **Document**: gov.uscourts.nysd.447706.1328.32.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ross Gow, Laura Menninger, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -17113,7 +16852,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -17122,7 +16861,7 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1331.25.pdf
 **Type**: deposition, legal_document
-**People**: Essex Chambers, Court Reporter, Lisa Barrett, Accredited Real, Claim No
+**People**: Case No, Court Reporter, Lisa Barrett, Essex Chambers, Chancery Lane
 **Locations**: New York, London
 
 ---
@@ -17131,9 +16870,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1331.20.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Product
-**Locations**: Florida, New York
+**People**: Salt Lake City, Work Product, Ross Gow, Meredith Schultz
+Meredith, Privilege Log
+**Locations**: New York, Florida
 
 ---
 
@@ -17141,8 +16880,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Work Produ
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -17151,8 +16890,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -17161,9 +16900,9 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.12.pdf
 **Type**: deposition, legal_document, financial
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Jeffrey Pagliuca
+**Locations**: New York, Florida
 
 ---
 
@@ -17171,9 +16910,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Ghislaine 
 
 **Document**: gov.uscourts.nysd.447706.1328.13.pdf
 **Type**: deposition, legal_document
-**People**: My Commission No, Flagler Drive
-Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
-**Locations**: Florida, New York, Palm Beach
+**People**: In Ghislaine Maxwell, Registered Professional
+Reporter, Toll Free, Louella Rabuyo, Jeffrey Epstein
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17181,8 +16920,8 @@ Suite, When Mr, Filed Under Seal, Ghislaine Maxwell
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -17191,8 +16930,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -17201,8 +16940,8 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1330.18_1.pdf
 **Type**: legal_document, financial
-**People**: Barden Bates, Maxwell Bates, University Street, Ghislaine Maxwell, Nicole Simmons
-Nicole
+**People**: University Street, Salt Lake City, Twin Lakes Rd, South Salem, Stanley Pottinger
+Bradley
 **Locations**: New York
 
 ---
@@ -17211,9 +16950,11 @@ Nicole
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -17221,9 +16962,11 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews Avenue
-**Locations**: Florida, New York
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Law
+University, Quinney College, Electronic
+Court Filing
+**Locations**: New York, Florida
 
 ---
 
@@ -17232,8 +16975,10 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17242,8 +16987,10 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: gov.uscourts.nysd.447706.1331.5.pdf
 **Type**: deposition, legal_document
-**People**: David Boies, Respectfully Submitted, North Andrews Avenue, Ghislaine Maxwell, Detective Joseph Recarey
-**Locations**: Florida, New York, Palm Beach
+**People**: Salt Lake City, Meredith Schultz
+Meredith, Judith Lightfoot, Electronic
+Court Filing, Jeffrey Pagliuca
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17252,10 +16999,10 @@ Boies, Late Production, Quinney College, Respectfully Submitted, North Andrews A
 
 **Document**: 1320-11.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Composite Exhibit, Quinney College, Email Correspondence, Beach Police
-Report
-**Locations**: Florida, New York
+**People**: Exceed
+Presumptive Ten, Salt Lake City, Laura Menninger, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -17263,9 +17010,9 @@ Report
 
 **Document**: gov.uscourts.nysd.447706.1328.8.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Rodgers Dep, Sarah Kellen, Juan Alessi, Law
+University
+**Locations**: New York, Florida
 
 ---
 
@@ -17273,9 +17020,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1327.20_1.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Ty Gee, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -17283,9 +17030,10 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-25.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Final
+Deposition Transcript, Juan Alessi, Law
+University, Quinney College
+**Locations**: New York, Florida
 
 ---
 
@@ -17293,9 +17041,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -17303,9 +17051,9 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: 1320-22.pdf
 **Type**: deposition, legal_document
-**People**: David Boies
-Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sjoberg
-**Locations**: Florida, New York
+**People**: Salt Lake City, Juan Alessi, Law
+University, Quinney College, Exceed Presumptive Ten
+**Locations**: New York, Florida
 
 ---
 
@@ -17313,8 +17061,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 
@@ -17322,8 +17070,8 @@ Boies, Quinney College, Respectfully Submitted, North Andrews Avenue, Johanna Sj
 
 **Document**: gov.uscourts.nysd.447706.1328.42_1.pdf
 **Type**: deposition, legal_document
-**People**: Miss Germany, When Mr, Filed Under Seal, Incorporation Papers, Noble Prize
-**Locations**: Florida, New York, Palm Beach
+**People**: But Prince Andrew, West Flagler Street, Palm Beach Lakes, Frederick Fekkai, Both Ms
+**Locations**: New York, Palm Beach, Florida
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.6",
   "filename": "gov.uscourts.nysd.447706.1327.6.pdf",
-  "extraction_date": "2025-11-17T10:17:18.925358",
+  "extraction_date": "2025-11-17T10:31:27.482085",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Filed Under Seal",
-    "Quinney College",
-    "Judge Sweet",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Detective Joseph Recarey",
-    "Rinaldo Rizzo",
-    "Meredith Schultz\nMeredith",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
-    "Sealed Exhibit",
-    "Court\nSouthern District",
-    "United States District",
     "Salt Lake City",
+    "Meredith Schultz\nMeredith",
+    "Law\nUniversity",
+    "Quinney College",
+    "Electronic\nCourt Filing",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "Sealed Exhibit",
     "University St",
-    "Direct Defendant"
+    "Schultz\nMeredith",
+    "Johanna Sjoberg",
+    "John Alessi",
+    "Meredith Schultz",
+    "Direct Defendant",
+    "Pro Hac Vice",
+    "Messages\nInvolving Defendant",
+    "Case No"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

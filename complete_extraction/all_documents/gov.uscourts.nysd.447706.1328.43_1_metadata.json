@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.43_1",
   "filename": "gov.uscourts.nysd.447706.1328.43_1.pdf",
-  "extraction_date": "2025-11-17T10:18:16.971929",
+  "extraction_date": "2025-11-17T10:32:28.270537",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -77,31 +77,31 @@
     }
   ],
   "people": [
-    "Kress Court Reporting",
-    "Rue Notre Dame",
-    "With Sarah",
-    "File Under Seal",
+    "Jane Doe",
     "If Rodriguez",
-    "El Brillo",
-    "Prince Andrew",
-    "David Copperfield",
-    "Lake Worth",
-    "Alfredo Rodriguez",
-    "Miami Beach",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "In New Jersey",
-    "But Sarah",
     "Sarah Kellen",
-    "West Palm Beach",
+    "Alfredo Rodriguez",
+    "Detective Recarey",
+    "But Sarah",
+    "Kress Court Reporting",
+    "Jeffrey Epstein",
+    "File Under Seal",
+    "David Copperfield",
+    "In New Jersey",
+    "Googled Prince Andrew",
+    "Prince Andrew",
+    "Case No",
     "North Flagler Drive",
+    "When Alan Dershowitz",
+    "Lake Worth",
+    "Like Jeep",
     "Alan Dershowitz",
-    "Case No"
+    "Miami Beach"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

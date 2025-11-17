@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1257.12_1",
   "filename": "gov.uscourts.nysd.447706.1257.12_1.pdf",
-  "extraction_date": "2025-11-17T10:17:08.842400",
+  "extraction_date": "2025-11-17T10:31:16.817584",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -75,35 +75,35 @@
     }
   ],
   "people": [
-    "South Dadeland Boulevard",
-    "Court Reporter\nNotary",
-    "Exhibit Number",
-    "Eva Dubin",
     "The Dubins",
-    "Wall Street",
-    "Glen Dubin",
-    "Eva Anderson",
-    "Anderson Dubin",
-    "About Dershowitz",
+    "Court Reporter",
+    "Daily Mail",
     "Possibly April",
-    "Floor\nMiami",
-    "Little Saint Jeff",
-    "Roadside Grill",
-    "Federal Bureau",
-    "Has Brad Edwards",
-    "Maria Vilafana",
+    "Exhibit No",
+    "Civil Procedure",
+    "Special Master",
+    "Just Sharon",
+    "Meridith Schultz",
+    "Prince Andrew",
+    "Did Sharon Churcher",
+    "On Little Saint",
     "Has Professor Cassell",
-    "Reported By",
-    "Thailand Western Union"
+    "Ed Pozzuoli",
+    "Richard Simpson",
+    "Eva Anderson",
+    "Jack Scarola",
+    "Wall Street",
+    "Virginia Roberts",
+    "Eva Anderson Dubin"
   ],
   "locations": [
-    "New York",
-    "New Mexico",
-    "Florida",
-    "Virgin Islands",
     "Little Saint James",
+    "New York",
     "France",
-    "Palm Beach"
+    "Florida",
+    "New Mexico",
+    "Palm Beach",
+    "Virgin Islands"
   ],
   "images": []
 }

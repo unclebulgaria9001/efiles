@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-32",
   "filename": "1331-32.pdf",
-  "extraction_date": "2025-11-17T10:19:20.185009",
+  "extraction_date": "2025-11-17T10:33:33.315739",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -35,26 +35,26 @@
     }
   ],
   "people": [
-    "York\nVirginia",
-    "Sarah Emma Ashley",
-    "Virgin Islands",
-    "Ching Chang\nVice",
     "The Kingdom",
-    "Ghislaine Maxwell",
-    "Nadia Macinkova",
+    "Sarah Ransome",
     "Nadia Marcinkova",
-    "Court\nSouthern District",
+    "Sarah Emma Ashley",
+    "Ching Chang\nVice",
+    "Consulate Gral",
+    "Jeffrey Epstein",
+    "Nadia Macinkova",
     "Alan\nDershowitz",
+    "Other Political Division",
+    "Virgin Islands",
+    "Case No",
+    "Vice Consul",
+    "United States District",
+    "Sarah Ransome\nCase",
+    "Ghislaine Maxwell",
+    "New York City",
     "Ching Chang",
     "Foreign Service Offlc",
-    "United States District",
-    "Jeffrey Epstein",
-    "New York City",
-    "Sarah Ransome",
-    "Sarah Ransome\nCase",
-    "Other Political Division",
-    "Case No",
-    "Consulate Gral"
+    "York\nVirginia"
   ],
   "locations": [
     "New York",

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.13",
   "filename": "gov.uscourts.nysd.447706.1327.13.pdf",
-  "extraction_date": "2025-11-17T10:17:51.214291",
+  "extraction_date": "2025-11-17T10:32:01.461329",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -62,10 +62,10 @@
     }
   ],
   "people": [
-    "Dear Laura",
-    "The Terramar Project",
+    "Maxwell\nCase No",
     "Jane Doe",
-    "Maxwell\nCase No"
+    "Dear Laura",
+    "The Terramar Project"
   ],
   "locations": [
     "Paris",

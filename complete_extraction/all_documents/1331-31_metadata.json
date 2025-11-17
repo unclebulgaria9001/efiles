@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-31",
   "filename": "1331-31.pdf",
-  "extraction_date": "2025-11-17T10:19:47.673327",
+  "extraction_date": "2025-11-17T10:33:57.711536",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -55,16 +55,16 @@
     }
   ],
   "people": [
-    "Duces Tecum",
     "Lesley Groff",
-    "Stanley Pottinger",
-    "Brunswick Corp",
-    "Jeffrey Epstein",
-    "Sarah Ransome",
     "Sarah Kellen",
+    "Stanley Pottinger",
     "Concord Boat Corp",
-    "Ghislaine\nMaxwell",
     "Biovail Corp",
+    "Jeffrey Epstein",
+    "Ghislaine\nMaxwell",
+    "Sarah Ransome",
+    "Duces Tecum",
+    "Brunswick Corp",
     "Protective Order"
   ],
   "locations": [],

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.26_1",
   "filename": "gov.uscourts.nysd.447706.1327.26_1.pdf",
-  "extraction_date": "2025-11-17T10:17:41.603935",
+  "extraction_date": "2025-11-17T10:31:51.662520",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,36 +56,36 @@
     }
   ],
   "people": [
-    "Sara Kellen",
-    "Compel Deposition Questions",
-    "Filed Under Seal",
-    "Eva Dubin",
-    "Louis Freeh",
-    "Defendant Ghislaine Maxwell",
     "Jeffrey\nEpsteinand",
-    "First Deposition Second",
-    "Vicky Ward",
-    "Direct Defendant",
-    "Did Mr",
-    "Joe Recarey",
-    "Avenue\nDenver",
-    "North Andrews Ave",
-    "See\nPlaintiff",
-    "Emmy Taylor",
-    "Federal Rules",
+    "Daily Mail",
+    "Compel Deposition Questions",
+    "Would Ghislaine Maxwell",
     "Composite Ex",
-    "Civil Local Rule",
-    "Jane Doe"
+    "Nadia Marcinkova",
+    "Zenith Electronics Corp",
+    "Avenue\nDenver",
+    "Civil Procedure",
+    "Maria Farmer",
+    "Menninger\nJeffrey",
+    "The Plaintiff",
+    "Plaintiff Virginia Giuffre",
+    "Prince Andrew",
+    "Court Order",
+    "As Carl Sandburg",
+    "Ghislaine Maxwell",
+    "Alan Dershowitz",
+    "Palm Beach Police",
+    "First Deposition Second"
   ],
   "locations": [
+    "Paris",
     "London",
     "New York",
-    "New Mexico",
-    "Paris",
     "Florida",
-    "Virgin Islands",
+    "Little St. James",
+    "New Mexico",
     "Palm Beach",
-    "Little St. James"
+    "Virgin Islands"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.2",
   "filename": "gov.uscourts.nysd.447706.1331.2.pdf",
-  "extraction_date": "2025-11-17T10:19:10.051240",
+  "extraction_date": "2025-11-17T10:33:22.498545",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -40,19 +40,19 @@
     }
   ],
   "people": [
-    "Notary Public",
-    "Fort Lauderdale",
-    "Registered\nProfessional Reporter",
-    "Las Olas Boulevard",
     "Boies Schiller",
-    "Frederic Fekkai",
-    "Did Jeffrey",
     "Certified Realtime\nReporter",
-    "Kelli Ann Willis"
+    "Frederic Fekkai",
+    "Registered\nProfessional Reporter",
+    "Notary Public",
+    "Kelli Ann Willis",
+    "Fort Lauderdale",
+    "Las Olas Boulevard",
+    "Did Jeffrey"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

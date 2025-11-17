@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.24",
   "filename": "gov.uscourts.nysd.447706.1328.24.pdf",
-  "extraction_date": "2025-11-17T10:16:35.392139",
+  "extraction_date": "2025-11-17T10:37:21.541266",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
+    "Law\nUniversity",
+    "New York\nVirginia",
     "Project Subpoenas",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Detective Joseph Recarey",
-    "Rinaldo Rizzo",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
+    "Meredith Schultz",
     "Sealed Exhibit",
-    "Court\nSouthern District",
+    "Quinney College",
+    "Electronic\nCourt Filing",
+    "Respectfully Submitted",
+    "Ghislaine Maxwell",
+    "Sealed Composite Exhibit",
     "United States District",
-    "Salt Lake City",
-    "Juan Alessi",
     "Ross Gow",
+    "David Boies\nBoies",
+    "Financial Information",
+    "Tony Figueroa",
+    "Fort Lauderdale",
+    "Salt Lake City",
+    "Jeffrey Pagliuca",
     "University St",
-    "Fort Lauderdale"
+    "Main Street\nArmonk"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

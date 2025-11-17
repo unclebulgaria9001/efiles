@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.18",
   "filename": "gov.uscourts.nysd.447706.1328.18.pdf",
-  "extraction_date": "2025-11-17T10:16:43.106558",
+  "extraction_date": "2025-11-17T10:37:29.627145",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -134,31 +134,31 @@
     }
   ],
   "people": [
-    "Internet Express",
-    "Florida Department",
-    "Havenfield Corp",
-    "Wah San",
-    "Medical Event",
-    "Campbelltown Hospital",
-    "Information About Ms",
-    "Cap Fund",
-    "Estopped From Bringing",
-    "Internet Telegraph",
-    "Local Rule",
-    "Page\nCases\nBlodgett",
-    "Janes Does",
-    "Rauf Yousaf",
-    "Consolidated\nEdison Co",
-    "This Interrogatory",
-    "Under Local Rule",
-    "Court\nSouthern District",
-    "Internet Daily Mail",
-    "See December"
+    "This\nCourt",
+    "See Blodgett",
+    "Virginia Roberts",
+    "Steven Olson",
+    "Law\nUniversity",
+    "Protective Order",
+    "Meredith Schultz",
+    "Composite\nExhibit",
+    "Professor Paul Cassell",
+    "Moisture\nControls",
+    "Ranjit Thind",
+    "Discovery Related",
+    "Completely\nAs",
+    "Sealed Exhibit",
+    "Wellington Imaging",
+    "Defendant\nMaxwell",
+    "Employment You",
+    "Federal Rules",
+    "Admission Ms",
+    "News\nSpending"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

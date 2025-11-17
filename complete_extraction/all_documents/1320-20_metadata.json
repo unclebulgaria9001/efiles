@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-20",
   "filename": "1320-20.pdf",
-  "extraction_date": "2025-11-17T10:21:07.944470",
+  "extraction_date": "2025-11-17T10:35:12.208913",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,18 +57,18 @@
     }
   ],
   "people": [
-    "Plaintiffidentifies Nadia\nMarcinkova",
-    "Fifth Amendment",
-    "Lakes Rd",
-    "Theinformation Plaintiffclaims",
-    "In\nSigalav",
-    "Las Olas Boulevard",
-    "James Parish Sch",
-    "Amherst Coll",
-    "Conde Nast",
-    "Andrews Ave",
     "Avenue\nDenver",
-    "See Fed"
+    "Conde Nast",
+    "Plaintiffidentifies Nadia\nMarcinkova",
+    "Theinformation Plaintiffclaims",
+    "Fifth Amendment",
+    "James Parish Sch",
+    "See Fed",
+    "Amherst Coll",
+    "Andrews Ave",
+    "Lakes Rd",
+    "Las Olas Boulevard",
+    "In\nSigalav"
   ],
   "locations": [],
   "images": []

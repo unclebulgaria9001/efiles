@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.37",
   "filename": "gov.uscourts.nysd.447706.1328.37.pdf",
-  "extraction_date": "2025-11-17T10:16:50.747868",
+  "extraction_date": "2025-11-17T10:37:38.789803",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,29 +57,29 @@
     }
   ],
   "people": [
+    "Notary Public",
+    "Kelli Ann Willis",
     "Sjoberg Exhibit",
     "Detective Recarey",
-    "Palm Beach Atlantic",
-    "Notary Public",
-    "Emmy Taylor",
-    "Fort Lauderdale",
-    "Palm Beach Academy",
-    "The Lane Spa",
-    "Lake Park",
+    "Boies Schiller",
     "Registered\nProfessional Reporter",
     "Las Olas Boulevard",
-    "Boies Schiller",
-    "Jane Doe",
-    "So Jeffrey",
-    "Certified Realtime\nReporter",
+    "Fort Lauderdale",
     "Ghislaine Maxwell",
-    "Kelli Ann Willis",
-    "Palm Beach Gardens"
+    "Emmy Taylor",
+    "Lake Park",
+    "The Lane Spa",
+    "Palm Beach Gardens",
+    "So Jeffrey",
+    "Jane Doe",
+    "Palm Beach Academy",
+    "Palm Beach Atlantic",
+    "Certified Realtime\nReporter"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

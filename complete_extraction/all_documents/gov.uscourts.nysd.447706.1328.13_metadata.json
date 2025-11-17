@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.13",
   "filename": "gov.uscourts.nysd.447706.1328.13.pdf",
-  "extraction_date": "2025-11-17T10:19:13.733471",
+  "extraction_date": "2025-11-17T10:33:26.433430",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -65,31 +65,31 @@
     }
   ],
   "people": [
-    "My Commission No",
-    "Flagler Drive\nSuite",
-    "When Mr",
-    "Filed Under Seal",
-    "Ghislaine Maxwell",
-    "Toll Free",
+    "In Ghislaine Maxwell",
     "Registered Professional\nReporter",
-    "Florida\nMy Commission",
-    "El Brillo",
-    "Reported By",
-    "Condensed Transcript",
-    "El Brillo Way",
-    "Teresa Whalen",
-    "Notary Public",
+    "Toll Free",
+    "Louella Rabuyo",
     "Jeffrey Epstein",
+    "Florida\nMy Commission",
     "From West Palm",
+    "Condensed Transcript",
     "West Palm Beach",
-    "New Yorll",
+    "When Mr",
+    "Flagler Drive\nSuite",
+    "Boulevard\nPalm Beach",
     "Palm Beach Gardens",
-    "Boulevard\nPalm Beach"
+    "Teresa Whalen",
+    "El Brillo Way",
+    "Did Sarah Kellen",
+    "Ghislaine Maxwell",
+    "My Commission No",
+    "Reported By",
+    "Notary Public"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

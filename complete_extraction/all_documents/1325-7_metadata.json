@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-7",
   "filename": "1325-7.pdf",
-  "extraction_date": "2025-11-17T10:22:38.801626",
+  "extraction_date": "2025-11-17T10:36:41.848694",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -98,30 +98,30 @@
     }
   ],
   "people": [
-    "Carol Giuffre",
-    "Sydney\nProduced\nWestmead",
-    "Design Strategy",
-    "Deposition\nTranscript",
-    "Centura Form",
-    "Campbelltown Hospital",
-    "Civil\nProcedure",
+    "New York Presbyterianrecords",
+    "Minute Entry",
+    "Improper Objections",
+    "Compel Rule",
+    "Release Form\nHeaney",
+    "Reopen\nMs",
+    "Dana Corp",
+    "Wellington Imaging",
+    "Christopher Donahue",
+    "Hospital\nCampbelltown Giuffre",
+    "What Defendant",
+    "Avenue\nDenver",
+    "Ltr Form",
+    "Associates Defendant",
+    "Physician Medical Release",
+    "Medical Request Medical",
     "Olsen Primary Care",
-    "Growing Together\nPlaintiff",
-    "Coast\nDr",
-    "Court\nSouthern District",
-    "Royal Oaks Medical",
-    "Hayek\nDr",
-    "University St",
-    "Rotech Healthcare",
-    "Law\nUniversity",
-    "Joanna\nSjoberg",
-    "Hospital Service",
-    "Protective Order Regarding",
-    "Joseph Heaney"
+    "Release\nProvided\nDr",
+    "Counsel\nRelease\nWellington",
+    "Westmead Hospital\nHospital"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

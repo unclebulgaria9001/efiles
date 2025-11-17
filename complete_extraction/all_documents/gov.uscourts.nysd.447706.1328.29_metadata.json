@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.29",
   "filename": "gov.uscourts.nysd.447706.1328.29.pdf",
-  "extraction_date": "2025-11-17T10:19:39.450747",
+  "extraction_date": "2025-11-17T10:33:52.678903",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
-    "Flight Logs\nCase",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Electronic\nCourt",
-    "Rinaldo Rizzo",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
-    "Sealed Exhibit",
-    "Court\nSouthern District",
-    "Dissiminated Confidential Information",
-    "Protective Order",
-    "Detective Joseph\nRecarey",
-    "United States District",
     "Salt Lake City",
-    "University St"
+    "Sealed Composite Exhibit",
+    "To Disclose All",
+    "Quinney College",
+    "Law\nUniversity",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "Whom Defendant",
+    "Flight Logs\nCase",
+    "David Rodgers",
+    "David Boies\nBoies",
+    "Dissiminated Confidential Information",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "Sealed Exhibit",
+    "University St",
+    "Johanna Sjoberg",
+    "Lynn Miller",
+    "Meredith Schultz",
+    "Pro Hac Vice"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

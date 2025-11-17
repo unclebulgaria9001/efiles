@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.3_1",
   "filename": "gov.uscourts.nysd.447706.1327.3_1.pdf",
-  "extraction_date": "2025-11-17T10:17:50.305485",
+  "extraction_date": "2025-11-17T10:32:00.540086",
   "extraction_method": "pdfplumber",
   "document_types": [
     "financial"
@@ -68,32 +68,32 @@
     }
   ],
   "people": [
-    "Pool Service When",
-    "British Airways",
-    "Merry Rug",
+    "Garden Service Alan",
+    "Electrician Energy Efficient",
+    "Sunset Blvd",
+    "Main Street News",
+    "Locksmith\nWilson",
+    "Exterminating Contact",
+    "Early Morning\nCars",
     "Ghislaine Maxwell\nAccountants",
+    "Bicycle Trail Shop",
+    "Mongoose Crossway",
+    "Schwinn World\nHuffy",
+    "Cable Service Adelphia",
+    "Pool Heating\nNational",
+    "Pool Service When",
+    "File Under Seal",
+    "Front\nLicence",
+    "Pool Hackl Pools",
+    "Trash Removal City",
     "Newspapers Publix Super",
-    "Sunset Avenue General",
-    "Assistants\nLeslie Groff",
-    "House Manager Jojo",
-    "Sunset Avenue Gourmet",
-    "The Door Smith",
-    "Carmine Giardini",
-    "Irrigation Dolphin Sprinkler",
-    "Hardware\nHome Depot",
-    "Pool Service Monday",
-    "Bishop Water Co",
-    "Roto Rooter Blocked",
-    "Lake Worth",
-    "Beech Jet",
-    "Pastora Peadon",
-    "General Plumbing\nCustomer"
+    "Comedy Comer"
   ],
   "locations": [
-    "France",
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida",
+    "France"
   ],
   "images": []
 }

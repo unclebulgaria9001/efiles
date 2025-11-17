@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-17",
   "filename": "1331-17.pdf",
-  "extraction_date": "2025-11-17T10:16:44.960273",
+  "extraction_date": "2025-11-17T10:37:31.682539",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -51,26 +51,26 @@
     }
   ],
   "people": [
-    "University Street",
-    "Nicole Simmons\nNicole",
-    "Toto\nCertain Depositions",
-    "Motion In Limine",
-    "For Use At",
-    "Stanley Pottinger\nBradley",
-    "Cassell\nMeredith Schultz",
-    "Depositions\nDesignated",
-    "United States District",
-    "Salt Lake City",
     "South Salem",
     "To Exclude In",
-    "Twin Lakes Rd",
-    "East Las Olas",
     "North Andrews Ave",
+    "Twin Lakes Rd",
+    "Motion In Limine",
     "Exclude In Toto",
-    "Menninger\nLaura",
-    "Defendant\nGhislaine Maxwell",
+    "For Use At",
     "Protective\nOrder",
-    "Certain Depositions Designated"
+    "Depositions\nDesignated",
+    "Menninger\nLaura",
+    "United States District",
+    "Stanley Pottinger\nBradley",
+    "Cassell\nMeredith Schultz",
+    "Certain Depositions Designated",
+    "Salt Lake City",
+    "Designated By Plaintiff",
+    "Toto\nCertain Depositions",
+    "East Las Olas",
+    "Defendant\nGhislaine Maxwell",
+    "University Street"
   ],
   "locations": [
     "New York"

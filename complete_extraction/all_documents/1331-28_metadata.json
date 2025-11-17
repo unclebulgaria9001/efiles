@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-28",
   "filename": "1331-28.pdf",
-  "extraction_date": "2025-11-17T10:16:35.052523",
+  "extraction_date": "2025-11-17T10:37:21.169411",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -47,22 +47,22 @@
     }
   ],
   "people": [
-    "United States District",
-    "Menninger\nLaura",
-    "Salt Lake City",
-    "South Salem",
-    "Defendant\nGhislaine Maxwell",
     "Twin Lakes Rd",
-    "Nicole Simmons\nNicole",
     "Philip Barden",
-    "Work Product",
-    "Client Communication",
-    "East Las Olas",
-    "University Street",
-    "Stanley Pottinger\nBradley",
     "Cassell\nMeredith Schultz",
+    "Salt Lake City",
+    "East Las Olas",
+    "Client Communication",
+    "Defendant\nGhislaine Maxwell",
+    "University Street",
+    "South Salem",
+    "Menninger\nLaura",
+    "Nicole Simmons\nNicole",
     "North Andrews Ave",
-    "Client\nCommunications"
+    "United States District",
+    "Client\nCommunications",
+    "Stanley Pottinger\nBradley",
+    "Work Product"
   ],
   "locations": [
     "New York"

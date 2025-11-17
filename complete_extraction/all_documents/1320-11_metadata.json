@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-11",
   "filename": "1320-11.pdf",
-  "extraction_date": "2025-11-17T10:21:40.822239",
+  "extraction_date": "2025-11-17T10:35:46.123287",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Composite Exhibit",
-    "Quinney College",
-    "Email Correspondence",
-    "Beach Police\nReport",
-    "Respectfully Submitted",
-    "Service\nCase",
-    "North Andrews Avenue",
     "Exceed\nPresumptive Ten",
-    "Johanna Sjoberg",
-    "Ghislaine Maxwell",
-    "Email\nCorrespondence",
-    "Civil Procedure",
+    "Salt Lake City",
     "Laura Menninger",
-    "Appear Pro Hac",
-    "Court\nSouthern District",
-    "Deposition Transcript",
-    "United States District",
-    "Sworn Statement",
-    "Juan Alessi"
+    "Juan Alessi",
+    "Law\nUniversity",
+    "Email Correspondence",
+    "Quinney College",
+    "Respectfully Submitted",
+    "Electronic Filing",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Civil Procedure",
+    "University St",
+    "Service\nCase",
+    "Filed\nUnder Seal",
+    "Johanna Sjoberg",
+    "Meredith Schultz",
+    "Pro Hac Vice",
+    "Deposition Limit In",
+    "Case No"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.18_1",
   "filename": "gov.uscourts.nysd.447706.1330.18_1.pdf",
-  "extraction_date": "2025-11-17T10:16:34.366949",
+  "extraction_date": "2025-11-17T10:37:20.209072",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -93,26 +93,26 @@
     }
   ],
   "people": [
-    "Barden Bates",
-    "Maxwell Bates",
-    "University Street",
-    "Ghislaine Maxwell",
-    "Nicole Simmons\nNicole",
-    "Compel\nData",
-    "Stanley Pottinger\nBradley",
-    "Cassell\nMeredith Schultz",
-    "Protective Order",
-    "United States District",
-    "Salt Lake City",
-    "South Salem",
-    "Twin Lakes Rd",
-    "East Las Olas",
     "Undisclosed Email Account",
+    "Protective Order",
+    "South Salem",
     "North Andrews Ave",
-    "Menninger\nLaura",
     "Reopen Defendant",
+    "Twin Lakes Rd",
+    "Ghislaine Maxwell",
+    "Menninger\nLaura",
+    "United States District",
+    "Stanley Pottinger\nBradley",
+    "Barden Bates",
+    "Cassell\nMeredith Schultz",
+    "Maxwell Bates",
+    "Salt Lake City",
+    "Adverse\nInference Instruction",
+    "Compel\nData",
+    "East Las Olas",
     "Defendant\nGhislaine Maxwell",
-    "Adverse\nInference Instruction"
+    "University Street",
+    "Nicole Simmons\nNicole"
   ],
   "locations": [
     "New York"

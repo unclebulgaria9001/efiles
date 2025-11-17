@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.22_1",
   "filename": "gov.uscourts.nysd.447706.1330.22_1.pdf",
-  "extraction_date": "2025-11-17T10:17:43.786727",
+  "extraction_date": "2025-11-17T10:31:53.971430",
   "extraction_method": "pdfplumber",
   "document_types": [
     "email",
@@ -86,26 +86,26 @@
     }
   ],
   "people": [
-    "Philip Barden\nSent",
-    "Media Limited",
-    "The Guardian",
-    "Jane Does",
-    "Had Geordie",
-    "Ross Go\nSubject",
-    "Solicitors Regulation Authority",
-    "Either Virginia Roberts",
-    "Guardian\nSo",
-    "Ross\nAs",
-    "Gmax\nAsk",
-    "The\nTimes",
-    "Theatre Royal Stratford",
-    "Ms Maxwell",
-    "On Fri",
+    "Reputation Limited",
+    "Senior Clerk",
+    "The Devonshires Foundation",
+    "York Way",
+    "On Sat",
+    "On Wednesday",
+    "Guardian\nTo",
+    "Best\nPhilip\nSent",
     "England Number",
-    "This Firm",
-    "Devonshires Solicitors",
+    "Legal\nOmbudsman",
+    "Jane Does",
+    "Legal Ombudsman",
     "Finsbury Circus",
-    "Senior Clerk"
+    "Solicitors Regulation Authority",
+    "Guardian\nThis",
+    "Guardian News",
+    "Had Geordie",
+    "Ms Maxwell",
+    "Jeffrey\nWe",
+    "Philip Barden\nSent"
   ],
   "locations": [
     "London"

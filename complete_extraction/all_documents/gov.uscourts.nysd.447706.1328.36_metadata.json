@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.36",
   "filename": "gov.uscourts.nysd.447706.1328.36.pdf",
-  "extraction_date": "2025-11-17T10:16:56.087755",
+  "extraction_date": "2025-11-17T10:31:03.716127",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document"
@@ -55,26 +55,26 @@
     }
   ],
   "people": [
-    "Johanna Sjoberg",
-    "Tony Figueroa",
     "University Street",
-    "Ghislaine Maxwell",
-    "Detective Joseph Recarey",
-    "Strike Plaintiff",
-    "Nicole Simmons\nNicole",
-    "Menninger In Support",
-    "Stanley Pottinger\nBradley",
-    "Cassell\nMeredith Schultz",
-    "Protective Order",
-    "United States District",
     "Salt Lake City",
-    "Juan Alessi",
-    "South Salem",
     "Twin Lakes Rd",
-    "East Las Olas",
-    "Declaration Of Laura",
+    "South Salem",
+    "Juan Alessi",
+    "Stanley Pottinger\nBradley",
+    "Of Defendant",
+    "Menninger In Support",
     "Reply Or",
-    "North Andrews Ave"
+    "Nicole Simmons\nNicole",
+    "East Las Olas",
+    "Johanna Sjoberg",
+    "Declaration Of Laura",
+    "Of\nDefendant",
+    "North Andrews Ave",
+    "Strike Plaintiff",
+    "Protective\nOrder",
+    "Tony Figueroa",
+    "United States District",
+    "Menninger\nLaura"
   ],
   "locations": [
     "New York"

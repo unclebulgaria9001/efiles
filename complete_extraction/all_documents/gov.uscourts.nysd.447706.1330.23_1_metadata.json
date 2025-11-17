@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.23_1",
   "filename": "gov.uscourts.nysd.447706.1330.23_1.pdf",
-  "extraction_date": "2025-11-17T10:16:54.323257",
+  "extraction_date": "2025-11-17T10:37:44.333565",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -65,31 +65,29 @@
     }
   ],
   "people": [
-    "For Gow",
-    "David Boies\nBoies",
-    "Late Production",
-    "Quinney College",
-    "Respectfully Submitted",
-    "Discovery Concerning These",
-    "North Andrews Avenue",
-    "Compel Epstein",
-    "Letter Rogatory",
-    "Ghislaine Maxwell",
-    "For\nEpstein",
-    "Because Ms",
-    "Deposition Based",
-    "See Wesley",
     "Emailsis Not Duplicative",
-    "Not Untimely\nWithout",
-    "Key\nDocuments",
+    "Answer\nDeposition Questions",
+    "Law\nUniversity",
+    "New York\nVirginia",
     "Meredith Schultz\nMeredith",
-    "Fifth Ave",
-    "Maxwell Depo"
+    "Meredith Schultz",
+    "Whatever Defendant",
+    "Answer Deposition Questions",
+    "Key\nDocuments",
+    "Fifth Amendment",
+    "Reopen Defendant",
+    "Quinney College",
+    "Maxwell Depo",
+    "Compel Epstein",
+    "Ghislaine Maxwell",
+    "Respectfully Submitted",
+    "Sjoberg Dep",
+    "The Hague Convention",
+    "United States District",
+    "See Wesley"
   ],
   "locations": [
-    "Florida",
     "New York",
+    "Florida",
     "London"
   ],
-  "images": []
-}

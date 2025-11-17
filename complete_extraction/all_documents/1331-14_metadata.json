@@ -1,7 +1,7 @@
 {
   "doc_id": "1331-14",
   "filename": "1331-14.pdf",
-  "extraction_date": "2025-11-17T10:16:34.888793",
+  "extraction_date": "2025-11-17T10:37:20.942224",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,29 +62,29 @@
   ],
   "people": [
     "Toto Certain Deposition",
-    "David Boies\nBoies",
-    "Jack Goldberger",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Ghislaine Maxwell",
-    "Electronic\nCourt",
-    "Anna Intriago",
-    "Appear Pro Hac",
-    "Sealed Exhibit",
-    "Alfredo Rodriguez",
-    "Court\nSouthern District",
-    "United States District",
-    "Salt Lake City",
-    "University St",
-    "Fort Lauderdale",
     "Law\nUniversity",
     "New York\nVirginia",
-    "Boies Schiller"
+    "Anna Intriago",
+    "Meredith Schultz",
+    "Electronic\nCourt",
+    "Sealed Exhibit",
+    "Quinney College",
+    "Respectfully Submitted",
+    "Ghislaine Maxwell",
+    "Alfredo Rodriguez",
+    "United States District",
+    "Jack Goldberger",
+    "David Boies\nBoies",
+    "Fort Lauderdale",
+    "Salt Lake City",
+    "Jeffrey Pagliuca",
+    "University St",
+    "Main Street\nArmonk",
+    "Court\nSouthern District"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

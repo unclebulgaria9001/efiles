@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.2_1",
   "filename": "gov.uscourts.nysd.447706.1328.2_1.pdf",
-  "extraction_date": "2025-11-17T10:18:15.583758",
+  "extraction_date": "2025-11-17T10:32:26.784748",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,30 +57,30 @@
     }
   ],
   "people": [
-    "Christina Venero",
-    "Johanna Sjoberg",
-    "Certified Realtime\nReporter",
-    "Ghislaine Maxwell",
-    "Kelli Ann Willis",
-    "To Detective Pagan",
-    "Registered\nProfessional Reporter",
     "Deposition Exhibit",
-    "Notary Public",
+    "Christina Venero",
+    "To Detective Pagan",
     "Detective Pagan",
-    "Fort Lauderdale",
-    "Jeffrey Epstein",
-    "Boies Schiller",
-    "And Venero",
-    "Palm Beach Police",
     "Exhibit No",
-    "Las Olas Boulevard",
     "Narrative No",
-    "Detective\nCase"
+    "And Venero",
+    "Johanna Sjoberg",
+    "Jeffrey Epstein",
+    "Kelli Ann Willis",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
+    "Detective\nCase",
+    "Ghislaine Maxwell",
+    "Las Olas Boulevard",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
+    "Palm Beach Police",
+    "Notary Public"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

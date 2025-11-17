@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.32",
   "filename": "gov.uscourts.nysd.447706.1328.32.pdf",
-  "extraction_date": "2025-11-17T10:16:43.306803",
+  "extraction_date": "2025-11-17T10:37:29.940399",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Ghislaine Maxwell",
-    "Electronic\nCourt",
     "Laura Menninger",
-    "Appear Pro Hac",
-    "Sealed Exhibit",
-    "Court\nSouthern District",
-    "United States District",
-    "The Sun",
-    "Ross Gow",
-    "University St",
-    "Salt Lake City",
-    "Fort Lauderdale",
     "Law\nUniversity",
     "New York\nVirginia",
     "Janusz Banasiak",
-    "Boies Schiller"
+    "Meredith Schultz",
+    "John Alessi",
+    "Electronic\nCourt",
+    "Sealed Exhibit",
+    "Quinney College",
+    "Respectfully Submitted",
+    "Ghislaine Maxwell",
+    "Online Article",
+    "United States District",
+    "Ross Gow",
+    "David Boies\nBoies",
+    "The Sun",
+    "Fort Lauderdale",
+    "Salt Lake City",
+    "Jeffrey Pagliuca",
+    "University St"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

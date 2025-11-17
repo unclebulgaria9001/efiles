@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1331.6",
   "filename": "gov.uscourts.nysd.447706.1331.6.pdf",
-  "extraction_date": "2025-11-17T10:19:36.944015",
+  "extraction_date": "2025-11-17T10:33:50.825788",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -73,31 +73,31 @@
     }
   ],
   "people": [
-    "Flagler Drive\nSuite",
-    "When Mr",
+    "Evidence Custodian",
     "Joseph Recarey",
-    "Entered By",
-    "Certified Realtime\nReporter",
-    "Ghislaine Maxwell",
-    "Kelli Ann Willis",
-    "South East",
-    "Toll Free",
     "Incident Report Program",
-    "Laine Maxwell",
-    "Case Agent Det",
-    "Registered\nProfessional Reporter",
-    "Reported By",
-    "On Thursday",
+    "Garden\nRoom",
+    "Toll Free",
+    "Louella Rabuyo",
+    "Jeffrey Epstein",
+    "Kitchen Staff Office",
+    "Kelli Ann Willis",
     "Zip Disks",
     "Condensed Transcript",
-    "El Brillo Way",
+    "Laine Maxwell",
+    "When Mr",
+    "Flagler Drive\nSuite",
+    "Boulevard\nPalm Beach",
+    "Case Agent Det",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
     "Teresa Whalen",
-    "Notary Public"
+    "El Brillo Way"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

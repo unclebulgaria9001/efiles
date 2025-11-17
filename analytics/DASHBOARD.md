@@ -1,6 +1,6 @@
 # Analytics Dashboard - Complete Analysis
 
-**Generated**: 2025-11-17 10:23:54  
+**Generated**: 2025-11-17 10:37:34  
 **Data Source**: Complete extraction of all 388 PDFs
 
 ---
@@ -8,19 +8,19 @@
 ## 📊 Key Statistics
 
 ### Documents
-- **Total Documents Analyzed**: 388
-- **Total Text Extracted**: 8,602,446 characters
+- **Total Documents Analyzed**: 390
+- **Total Text Extracted**: 8,602,534 characters
 - **Documents with Sensitive Terms**: 131
 - **Images Extracted**: 0
 
 ### People
-- **Unique People Identified**: 1,492
-- **Total Person Mentions**: 6,873
+- **Unique People Identified**: 1,427
+- **Total Person Mentions**: 7,440
 - **VIPs Identified**: 14
-- **Average Mentions per Person**: 4.6
+- **Average Mentions per Person**: 5.2
 
 ### Document Types
-- **Unknown**: 204 documents
+- **Unknown**: 206 documents
 - **Legal Document**: 172 documents
 - **Deposition**: 135 documents
 - **Financial**: 67 documents
@@ -35,134 +35,133 @@
 
 | Rank | Name | Total Mentions | Documents | Sensitive Terms | Document Types |
 |------|------|----------------|-----------|-----------------|----------------|
-| 1 | Ghislaine Maxwell | 313 | 77 | 238 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 2 | Jane Doe | 237 | 19 | 66 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 3 | Jeffrey Epstein | 203 | 32 | 97 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 4 | This Request | 173 | 4 | 15 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 5 | Local Rule | 107 | 8 | 83 | d, e, p, o, s, i, t, i, o, n |
-| 6 | Work
-Product | 80 | 2 | 6 | d, e, p, o, s, i, t, i, o, n |
-| 7 | Sharon Church | 79 | 1 | 7 | e, m, a, i, l |
-| 8 | Notary Public | 74 | 49 | 136 | d, e, p, o, s, i, t, i, o, n |
-| 9 | Cynthia Hopkins | 73 | 3 | 0 | d, e, p, o, s, i, t, i, o, n |
-| 10 | This Interrogatory | 72 | 2 | 24 | d, e, p, o, s, i, t, i, o, n |
-| 11 | Tony Figueroa | 56 | 16 | 40 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 12 | Prince Andrew | 55 | 18 | 120 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 13 | Sealed Exhibit | 55 | 13 | 4 | d, e, p, o, s, i, t, i, o, n |
-| 14 | Kress Court Reporting | 52 | 5 | 17 | d, e, p, o, s, i, t, i, o, n |
-| 15 | Rue Notre Dame | 52 | 5 | 17 | d, e, p, o, s, i, t, i, o, n |
-| 16 | Southern Reporting Company | 52 | 6 | 6 | d, e, p, o, s, i, t, i, o, n |
-| 17 | Entered By | 49 | 3 | 19 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 18 | Court
-Southern District | 48 | 43 | 227 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
-| 19 | Kelli Ann Willis | 46 | 23 | 69 | d, e, p, o, s, i, t, i, o, n |
-| 20 | Request No | 45 | 2 | 13 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 1 | Jane Doe | 474 | 34 | 135 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 2 | Jeffrey Epstein | 221 | 38 | 122 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 3 | Ghislaine Maxwell | 199 | 36 | 137 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 4 | Special Master | 183 | 1 | 13 | d, e, p, o, s, i, t, i, o, n |
+| 5 | Request No | 159 | 7 | 71 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 6 | Menninger Decl | 97 | 11 | 46 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 7 | Sarah Kellen | 89 | 27 | 120 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 8 | Ross Gow | 89 | 25 | 63 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 9 | Prince Andrew | 79 | 20 | 143 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 10 | Sharon Church | 79 | 1 | 7 | e, m, a, i, l |
+| 11 | Cynthia Hopkins | 77 | 4 | 3 | d, e, p, o, s, i, t, i, o, n |
+| 12 | Fifth Amendment | 74 | 12 | 77 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 13 | Sarah Ransome | 74 | 7 | 13 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 14 | Avenue
+Denver | 73 | 60 | 336 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 15 | Southern Reporting Company | 69 | 8 | 9 | d, e, p, o, s, i, t, i, o, n |
+| 16 | Nadia Marcinkova | 61 | 26 | 163 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 17 | Case No | 60 | 33 | 39 | l, e, g, a, l, _, d, o, c, u, m, e, n, t |
+| 18 | Pro Hac Vice | 60 | 12 | 1 | d, e, p, o, s, i, t, i, o, n |
+| 19 | This Interrogatory | 60 | 1 | 10 | d, e, p, o, s, i, t, i, o, n |
+| 20 | Sealed Exhibit | 55 | 13 | 4 | d, e, p, o, s, i, t, i, o, n |
 
 
 ---
 
 ## 🎯 VIP Tracking Summary
 
-### Ghislaine Maxwell
-- **Total Mentions**: 1,243
-- **Documents**: 113
-- **Sensitive Term Co-occurrences**: 1248
-- **Primary Document Types**: legal_document, deposition, financial
-
 ### Jeffrey Epstein
-- **Total Mentions**: 1,067
-- **Documents**: 92
-- **Sensitive Term Co-occurrences**: 1124
+- **Total Mentions**: 1,271
+- **Documents**: 115
+- **Sensitive Term Co-occurrences**: 1622
 - **Primary Document Types**: legal_document, deposition, correspondence
 
-### Virginia Giuffre
-- **Total Mentions**: 252
-- **Documents**: 51
-- **Sensitive Term Co-occurrences**: 452
-- **Primary Document Types**: legal_document, deposition, correspondence
-
-### Prince Andrew
-- **Total Mentions**: 220
-- **Documents**: 59
-- **Sensitive Term Co-occurrences**: 573
+### Ghislaine Maxwell
+- **Total Mentions**: 898
+- **Documents**: 84
+- **Sensitive Term Co-occurrences**: 762
 - **Primary Document Types**: legal_document, deposition, financial
 
 ### Sarah Kellen
-- **Total Mentions**: 160
-- **Documents**: 16
-- **Sensitive Term Co-occurrences**: 189
+- **Total Mentions**: 388
+- **Documents**: 37
+- **Sensitive Term Co-occurrences**: 516
 - **Primary Document Types**: legal_document, deposition, financial
 
 ### Sarah Ransome
-- **Total Mentions**: 116
-- **Documents**: 17
-- **Sensitive Term Co-occurrences**: 91
+- **Total Mentions**: 378
+- **Documents**: 37
+- **Sensitive Term Co-occurrences**: 235
 - **Primary Document Types**: legal_document, deposition, correspondence
 
-### Lesley Groff
-- **Total Mentions**: 100
-- **Documents**: 8
-- **Sensitive Term Co-occurrences**: 17
-- **Primary Document Types**: legal_document, email, correspondence
-
-### Johanna Sjoberg
-- **Total Mentions**: 98
-- **Documents**: 26
-- **Sensitive Term Co-occurrences**: 235
+### Virginia Giuffre
+- **Total Mentions**: 301
+- **Documents**: 51
+- **Sensitive Term Co-occurrences**: 783
 - **Primary Document Types**: legal_document, deposition, financial
 
-### Alan Dershowitz
-- **Total Mentions**: 97
-- **Documents**: 27
-- **Sensitive Term Co-occurrences**: 340
-- **Primary Document Types**: legal_document, deposition, financial
-
-### Jean-Luc Brunel
-- **Total Mentions**: 77
-- **Documents**: 13
-- **Sensitive Term Co-occurrences**: 173
-- **Primary Document Types**: legal_document, correspondence, deposition
-
-### Bill Clinton
-- **Total Mentions**: 75
-- **Documents**: 16
-- **Sensitive Term Co-occurrences**: 315
-- **Primary Document Types**: legal_document, deposition, financial
-
-### Adriana Ross
-- **Total Mentions**: 72
-- **Documents**: 24
-- **Sensitive Term Co-occurrences**: 67
+### Prince Andrew
+- **Total Mentions**: 286
+- **Documents**: 59
+- **Sensitive Term Co-occurrences**: 593
 - **Primary Document Types**: legal_document, deposition, financial
 
 ### Nadia Marcinkova
-- **Total Mentions**: 53
-- **Documents**: 12
-- **Sensitive Term Co-occurrences**: 89
+- **Total Mentions**: 195
+- **Documents**: 28
+- **Sensitive Term Co-occurrences**: 528
+- **Primary Document Types**: legal_document, deposition, financial
+
+### Adriana Ross
+- **Total Mentions**: 128
+- **Documents**: 34
+- **Sensitive Term Co-occurrences**: 116
+- **Primary Document Types**: legal_document, deposition, financial
+
+### Alan Dershowitz
+- **Total Mentions**: 110
+- **Documents**: 21
+- **Sensitive Term Co-occurrences**: 307
+- **Primary Document Types**: legal_document, deposition, financial
+
+### Bill Clinton
+- **Total Mentions**: 103
+- **Documents**: 20
+- **Sensitive Term Co-occurrences**: 412
+- **Primary Document Types**: legal_document, deposition, financial
+
+### Lesley Groff
+- **Total Mentions**: 90
+- **Documents**: 5
+- **Sensitive Term Co-occurrences**: 3
+- **Primary Document Types**: legal_document, email, correspondence
+
+### Jean-Luc Brunel
+- **Total Mentions**: 82
+- **Documents**: 10
+- **Sensitive Term Co-occurrences**: 139
+- **Primary Document Types**: legal_document, correspondence, deposition
+
+### Johanna Sjoberg
+- **Total Mentions**: 59
+- **Documents**: 23
+- **Sensitive Term Co-occurrences**: 146
 - **Primary Document Types**: legal_document, deposition, financial
 
 ### Leslie Wexner
-- **Total Mentions**: 4
-- **Documents**: 2
-- **Sensitive Term Co-occurrences**: 12
-- **Primary Document Types**: deposition, legal_document
+- **Total Mentions**: 20
+- **Documents**: 7
+- **Sensitive Term Co-occurrences**: 106
+- **Primary Document Types**: deposition, legal_document, correspondence
 
 ---
 
 ## 📈 Analysis Breakdown
 
 ### By Document Type
-- **Unknown**: 204 documents (52.6%)
-- **Legal Document**: 172 documents (44.3%)
-- **Deposition**: 135 documents (34.8%)
-- **Financial**: 67 documents (17.3%)
+- **Unknown**: 206 documents (52.8%)
+- **Legal Document**: 172 documents (44.1%)
+- **Deposition**: 135 documents (34.6%)
+- **Financial**: 67 documents (17.2%)
 - **Correspondence**: 51 documents (13.1%)
-- **Email**: 22 documents (5.7%)
+- **Email**: 22 documents (5.6%)
 - **Flight Log**: 12 documents (3.1%)
 
 
 ### Sensitive Content
-- **Documents with Sensitive Terms**: 131 (33.8%)
+- **Documents with Sensitive Terms**: 131 (33.6%)
 - **Most Common Sensitive Terms**:
   - sex: 1960 co-occurrences
   - sexual: 1640 co-occurrences

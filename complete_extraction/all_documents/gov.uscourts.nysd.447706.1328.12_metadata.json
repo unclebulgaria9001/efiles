@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.12",
   "filename": "gov.uscourts.nysd.447706.1328.12.pdf",
-  "extraction_date": "2025-11-17T10:19:17.333337",
+  "extraction_date": "2025-11-17T10:33:30.173535",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,31 +57,31 @@
     }
   ],
   "people": [
-    "Did Emmy",
-    "Palm Beach Atlantic",
-    "Filed Under Seal",
-    "The State",
-    "Certified Realtime\nReporter",
-    "Ghislaine Maxwell",
-    "Kelli Ann Willis",
-    "Did Epstein",
-    "When Jeffrey",
-    "Between Madison",
-    "Registered\nProfessional Reporter",
-    "Nadia Marcinkova",
-    "Prince Andrew",
-    "Would Epstein",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Fort Lauderdale",
+    "Jane Doe",
     "Sarah Kellen",
+    "Between Madison",
+    "At Jeffrey Epstein",
+    "The State",
+    "In Palm Beach",
+    "Would Epstein",
+    "Nadia Marcinkova",
+    "Only Dershowitz",
+    "When Jeffrey",
+    "Did Ghislaine",
+    "Jeffrey Epstein",
+    "Kelli Ann Willis",
+    "Prince Andrew",
+    "And Ms",
     "Did Maxwell",
-    "Boies Schiller"
+    "Palm Beach Atlantic",
+    "Did Epstein",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

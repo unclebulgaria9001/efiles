@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-22",
   "filename": "1320-22.pdf",
-  "extraction_date": "2025-11-17T10:21:08.575859",
+  "extraction_date": "2025-11-17T10:35:12.927721",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Ghislaine Maxwell",
-    "Rough\nDeposition Transcript",
-    "Rinaldo Rizzo",
-    "Appear Pro Hac",
-    "Court\nSouthern District",
-    "Deposition Transcript",
-    "Deposition Limit",
-    "United States District",
     "Salt Lake City",
     "Juan Alessi",
-    "University St",
-    "Fort Lauderdale",
     "Law\nUniversity",
-    "New York\nVirginia",
-    "Boies Schiller"
+    "Quinney College",
+    "Exceed Presumptive Ten",
+    "Jeffrey Pagliuca",
+    "Respectfully Submitted",
+    "Electronic Filing",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "University St",
+    "Rough\nDeposition Transcript",
+    "Johanna Sjoberg",
+    "Meredith Schultz",
+    "Pro Hac Vice",
+    "Case No",
+    "Main Street\nArmonk",
+    "United States District",
+    "New York\nVirginia"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

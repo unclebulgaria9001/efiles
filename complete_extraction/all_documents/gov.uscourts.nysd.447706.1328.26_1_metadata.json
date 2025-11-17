@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.26_1",
   "filename": "gov.uscourts.nysd.447706.1328.26_1.pdf",
-  "extraction_date": "2025-11-17T10:18:41.142607",
+  "extraction_date": "2025-11-17T10:32:52.799431",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -48,23 +48,23 @@
     }
   ],
   "people": [
-    "Palm Coast",
-    "Drive South\nSuite",
-    "Southern Reporting Company",
-    "Filed Under Seal",
     "Mr Epstein",
     "Court Reporter",
-    "Florida Professional Reporter",
-    "Notary Public\nSouthern",
-    "Ghislaine Maxwell",
     "For Jeffrey",
-    "Paul Katz Professional",
+    "Southern Reporting Company",
+    "Notary Public\nSouthern",
+    "Reporting Company",
+    "Filed Under Seal",
+    "Florida Professional Reporter",
     "One Florida Park",
-    "Reporting Company"
+    "Ghislaine Maxwell",
+    "Drive South\nSuite",
+    "Palm Coast",
+    "Paul Katz Professional"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-3",
   "filename": "1320-3.pdf",
-  "extraction_date": "2025-11-17T10:20:26.000744",
+  "extraction_date": "2025-11-17T10:34:29.932417",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -53,25 +53,25 @@
     }
   ],
   "people": [
-    "Salt Lake City",
-    "Notary Public",
-    "Andrews Avenue\nFort",
-    "Glenn Dubin",
-    "Not Annie Farmer",
-    "Lexington\nAvenue",
-    "Americas\nNew York",
-    "Also Present",
-    "James Christe",
-    "Court\nReporter",
-    "East Las Olas",
-    "South University Street",
-    "Leslie Fagin",
     "Case No",
-    "Fort Lauderdatle"
+    "Salt Lake City",
+    "Also Present",
+    "Leslie Fagin",
+    "South University Street",
+    "Lexington\nAvenue",
+    "Glenn Dubin",
+    "Americas\nNew York",
+    "East Las Olas",
+    "Notary Public",
+    "Fort Lauderdatle",
+    "James Christe",
+    "Not Annie Farmer",
+    "Andrews Avenue\nFort",
+    "Court\nReporter"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

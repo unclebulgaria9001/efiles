@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.30",
   "filename": "gov.uscourts.nysd.447706.1328.30.pdf",
-  "extraction_date": "2025-11-17T10:16:37.961417",
+  "extraction_date": "2025-11-17T10:37:23.959049",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -62,32 +62,32 @@
     }
   ],
   "people": [
-    "Mr Epstein",
-    "Palm Beach Atlantic",
-    "Filed Under Seal",
-    "Ghislane Maxwell",
-    "The Cessna",
-    "The Dubin",
-    "Beach County",
-    "Certified Realtime\nReporter",
-    "Ghislaine Maxwell",
+    "Notary Public",
     "Kelli Ann Willis",
+    "Las Olas Boulevard",
+    "Notary Public\nSouthern",
     "One Florida Park",
-    "Reporting Company",
+    "Certified Realtime\nReporter",
+    "Did Ghislaine",
+    "Mr Epstein",
     "Eva Anderson",
-    "Santa Fe",
-    "Palm Coast",
-    "Attorney Gus Fronstin",
-    "Registered\nProfessional Reporter",
-    "Main Street",
+    "Boies\nSchiller",
+    "New Mexico",
+    "Drive South\nSuite",
     "Florida Professional Reporter",
-    "Drive South\nSuite"
+    "Emmy Taylor",
+    "Ghislaine Maxwell",
+    "Did Jeffrey",
+    "Beach County",
+    "Filed Under Seal",
+    "Did Jeffrey Epstein",
+    "Palm Beach Atlantic"
   ],
   "locations": [
     "New Mexico",
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.17",
   "filename": "gov.uscourts.nysd.447706.1328.17.pdf",
-  "extraction_date": "2025-11-17T10:19:31.987846",
+  "extraction_date": "2025-11-17T10:33:45.718579",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -49,31 +49,31 @@
     }
   ],
   "people": [
-    "Las Olas City",
-    "Filed Under Seal",
-    "Kress Court Reporting",
-    "Rue Notre Dame",
-    "County Of Dade",
-    "Ghislaine Maxwell",
-    "Duces Tecum",
-    "Taking Deposition",
-    "Luc Bernell",
-    "Vs\nLake Worth",
-    "Avenue North",
-    "The State Of",
-    "West Flagler Street",
-    "Galaxy Aviation",
-    "Miami Beach",
-    "North Miami",
-    "Ives Dairy Road",
+    "Jane Doe",
     "Boulevard\nPlaintiff",
-    "Notary Public",
-    "Jeffrey Epstein"
+    "Court Reporter",
+    "West Flagler Street",
+    "Sarah Kellen",
+    "Luc Bernell",
+    "Notary Public In",
+    "Biscayne Boulevard",
+    "East Las Olas",
+    "Kress Court Reporting",
+    "Jeffrey Epstein",
+    "Galaxy Aviation",
+    "And Sarah Kellen",
+    "Case No",
+    "North Flagler Drive",
+    "County Of Dade",
+    "Palm Beach Gardens",
+    "Fort Lauderdale",
+    "Ghislaine Maxwell",
+    "Ives Dairy Road"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

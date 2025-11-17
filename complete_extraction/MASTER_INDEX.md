@@ -1,8 +1,8 @@
 # Complete Document Extraction Index
 
-**Generated**: 2025-11-17 10:23:14
+**Generated**: 2025-11-17 10:37:21
 
-**Total Documents**: 388
+**Total Documents**: 390
 **Total Images**: 0
 **Total Dates Found**: 6214
 
@@ -3124,7 +3124,7 @@
   - People: 31
   - Linked Emails: [{'email_file': '0003_01_04_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0003'}, {'email_file': '0006_6, March 8, 2016_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0006'}, {'email_file': '0036_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0036'}, {'email_file': '0064_01_05_24_From-Unknown_To-Unknown_untitled.txt', 'email_id': '0064'}]
 
-### Unknown (204 documents)
+### Unknown (206 documents)
 
 - **._1320-1.pdf**
   - Text: 44 chars
@@ -4314,6 +4314,18 @@
   - Images: 0
   - Dates: 24
   - People: 1
+
+- **epstein_flight_logs.pdf**
+  - Text: 44 chars
+  - Images: 0
+  - Dates: 0
+  - People: 0
+
+- **epstein_little_black_book.pdf**
+  - Text: 44 chars
+  - Images: 0
+  - Dates: 0
+  - People: 0
 
 - **gov.uscourts.nysd.447706.1327.11.pdf**
   - Text: 58,305 chars

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.41",
   "filename": "gov.uscourts.nysd.447706.1328.41.pdf",
-  "extraction_date": "2025-11-17T10:17:38.503685",
+  "extraction_date": "2025-11-17T10:31:48.536659",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -74,31 +74,31 @@
     }
   ],
   "people": [
-    "Dershowitz Flights",
-    "Applied Extrusion Technologies",
-    "Get Settlement",
-    "Lynch Quashed",
-    "The Record",
-    "Vivia Chen",
-    "My Other Bag",
+    "Emergency Motion",
+    "Recarey Dep",
+    "Louis Vuittonfound",
+    "Which Parties Reasonably",
+    "Protective Orders\nUpon",
+    "Palm Beach\nPolice",
+    "Federal Practice",
+    "Army Corps",
+    "Parties Cannot Challenge",
+    "Materials For",
+    "Medical Diagnostic Imaging",
+    "Florida Appeal",
+    "Composite Ex",
+    "Nadia Marcinkova",
+    "Avenue\nDenver",
+    "First Amendment\nDershowitz",
+    "Disclosed\nThe Court",
     "The Litigation Involving",
-    "Weak\nEven",
-    "Abundant Evidence Supports",
-    "Talented Mr",
-    "Alan\nDershowitz Sexually",
-    "As\nDershowitz",
-    "Page\nCases\nAlexander",
-    "Disqualifies Him",
-    "Court\nSouthern District",
-    "Dershowitz Dec",
-    "Mademoiselle Knitwear",
-    "Vicky Ward",
-    "Serial Child Molester"
+    "Presumption Against Modifying",
+    "Jonathan Levine"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.1_1",
   "filename": "gov.uscourts.nysd.447706.1330.1_1.pdf",
-  "extraction_date": "2025-11-17T10:19:51.548640",
+  "extraction_date": "2025-11-17T10:34:00.363374",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -63,31 +63,31 @@
     }
   ],
   "people": [
-    "Judge Marra",
-    "The Palm Beach",
-    "Since July",
-    "Quinney College",
+    "Salt Lake City",
+    "Jane Doe",
     "Adrianna Mucinska",
-    "When Rodriguez",
+    "Meredith Schultz\nMeredith",
+    "Sarah Kellen",
+    "Juan Alessi",
+    "Law\nUniversity",
+    "Quinney College",
+    "Rights Act",
+    "Judicial Documents",
     "Respectfully Submitted",
+    "Jeffrey Pagliuca",
+    "On February",
+    "Alfredo Rodriguez",
     "North Andrews Avenue",
     "Jane Does",
-    "On April",
-    "Jane\nDoe",
-    "On January",
-    "Ghislaine Maxwell",
-    "On February",
+    "Brad\nEdwards",
+    "Avenue\nDenver",
     "Permissive Intervention",
-    "Eleventh Circuit",
-    "Rights Act\nBefore",
-    "While Judge Marra",
-    "Appear Pro Hac",
-    "Meredith Schultz\nMeredith"
+    "Eleventh Circuit"
   ],
   "locations": [
-    "Florida",
     "New York",
     "Palm Beach",
+    "Florida",
     "London"
   ],
   "images": []

@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-26",
   "filename": "1320-26.pdf",
-  "extraction_date": "2025-11-17T10:20:45.531082",
+  "extraction_date": "2025-11-17T10:34:50.194797",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,22 +56,22 @@
     }
   ],
   "people": [
-    "Florida\nMy Commission",
-    "Notary Public",
-    "Filed Under Seal",
-    "Fort Lauderdale",
-    "Registered\nProfessional Reporter",
-    "And Ms",
-    "Las Olas Boulevard",
-    "Prince Andrew",
     "Did Maxwell",
     "Boies Schiller",
     "Certified Realtime\nReporter",
-    "Kelli Ann Willis"
+    "Registered\nProfessional Reporter",
+    "Notary Public",
+    "Kelli Ann Willis",
+    "Fort Lauderdale",
+    "Filed Under Seal",
+    "Florida\nMy Commission",
+    "Prince Andrew",
+    "And Ms",
+    "Las Olas Boulevard"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

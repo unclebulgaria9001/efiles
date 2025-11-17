@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-2",
   "filename": "1320-2.pdf",
-  "extraction_date": "2025-11-17T10:20:27.274930",
+  "extraction_date": "2025-11-17T10:34:31.264638",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -69,30 +69,30 @@
     }
   ],
   "people": [
-    "See Complaint",
-    "David Boies\nBoies",
-    "Composite Exhibit",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "See Mccawley Deel",
-    "Ghislaine Maxwell",
-    "John Wiley",
-    "Otherwise Defendant",
-    "When Jeffrey",
+    "Salt Lake City",
     "Maxwell Depo",
+    "Fifth Amendment",
+    "Law\nUniversity",
+    "Quinney College",
+    "John Wiley",
+    "And Defendant",
+    "Jeffrey Pagliuca",
+    "See Complaint",
     "Al Tech",
-    "While Epstein",
+    "Respectfully Submitted",
+    "Electronic Filing",
+    "Otherwise Defendant",
+    "David Boies\nBoies",
+    "North Andrews Avenue",
+    "Avenue\nDenver",
+    "University St",
     "Does Jeffrey",
-    "Court\nSouthern District",
-    "United States District",
-    "The Court",
-    "Pro Hae Vice"
+    "Federal Rules",
+    "When Jeffrey"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

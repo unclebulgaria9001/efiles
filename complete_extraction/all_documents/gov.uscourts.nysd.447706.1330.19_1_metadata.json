@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.19_1",
   "filename": "gov.uscourts.nysd.447706.1330.19_1.pdf",
-  "extraction_date": "2025-11-17T10:17:21.875452",
+  "extraction_date": "2025-11-17T10:31:30.388767",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -69,20 +69,20 @@
     }
   ],
   "people": [
+    "Case No",
+    "Maxwell Exhibit",
     "Ross Gow",
+    "Leslie Fagin",
+    "Was Jeffrey",
+    "Lexington\nAvenue",
+    "Philip Barden",
+    "Americas\nNew York",
     "Notary Public",
     "Jeffrey Epstein",
-    "Brad Edwards",
-    "Philip Barden",
-    "Lexington\nAvenue",
-    "Americas\nNew York",
     "United Kingdom",
     "Court\nReporter",
-    "Was Jeffrey",
     "Did Jeffrey",
-    "Leslie Fagin",
-    "Case No",
-    "Maxwell Exhibit"
+    "Brad Edwards"
   ],
   "locations": [
     "New York",

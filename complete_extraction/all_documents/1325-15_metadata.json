@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-15",
   "filename": "1325-15.pdf",
-  "extraction_date": "2025-11-17T10:22:44.388908",
+  "extraction_date": "2025-11-17T10:36:47.806657",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,31 +57,31 @@
     }
   ],
   "people": [
-    "Interrogatory Responses",
-    "Court Order",
-    "Defendant Ghislaine Maxwell",
-    "Did Sharon Churcher",
-    "Tony Figueroa",
     "University Street",
-    "Ghislaine Maxwell",
-    "Forest Hills High",
-    "Given Plaintiff",
-    "Menninger Decl",
-    "Nicole Simmons\nNicole",
+    "Salt Lake City",
+    "Twin Lakes Rd",
     "Survivors Charter",
-    "Fourth Revised\nRule",
+    "South Salem",
     "Judith Lightfoot",
     "Stanley Pottinger\nBradley",
-    "Cassell\nMeredith Schultz",
-    "Salt Lake City",
-    "South Salem",
+    "Defendant Ghislaine Maxwell",
+    "Menninger Decl",
+    "Wellington High School",
     "Reopen Deposition",
-    "Jeffrey Epstein"
+    "Avenue\nDenver",
+    "Royal Palm Beach",
+    "Nicole Simmons\nNicole",
+    "East Las Olas",
+    "Jeffrey Epstein",
+    "Menninger\nJeffrey",
+    "Fourth Revised\nRule",
+    "North Andrews Ave",
+    "Did Sharon Churcher"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

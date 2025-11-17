@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.23",
   "filename": "gov.uscourts.nysd.447706.1328.23.pdf",
-  "extraction_date": "2025-11-17T10:16:49.917955",
+  "extraction_date": "2025-11-17T10:37:37.706454",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -155,34 +155,31 @@
     }
   ],
   "people": [
-    "Liberty Lobby",
-    "Means Other",
-    "Time Warner",
-    "Panther Transp",
-    "Dow Kim",
-    "Serve Three Deposition",
-    "Ignoring Subpoena",
-    "Robert Maxwell",
-    "Sealed Composite Exhibit",
-    "In November",
-    "Court\nSouthern District",
-    "University St",
-    "Law\nUniversity",
-    "Protective Order Regarding",
-    "Avenue\nDenver",
+    "Letters Rogatory",
     "Summon Two Separate",
-    "New Jersey",
-    "Appropriate Pre",
-    "Depose Ross Gow",
-    "Fact Concerts"
+    "Given\nDefendant",
+    "President Bill Clinton",
+    "Law\nUniversity",
+    "Protective Order",
+    "Bradley Trust",
+    "Meredith Schultz",
+    "Figueroa June",
+    "Financial Information Should",
+    "Not Be Delayed",
+    "Financial Link",
+    "Sealed Composite Exhibit",
+    "Her Consciousness",
+    "Prince Andrew",
+    "Halvorsen Marine Ltd",
+    "Shari Scharfer Rollins",
+    "University St",
+    "Beverage Media",
+    "Palm Beach House"
   ],
   "locations": [
-    "London",
+    "Manhattan",
     "New York",
     "United Kingdom",
-    "Florida",
+    "London",
     "Palm Beach",
-    "Manhattan"
-  ],
-  "images": []
-}
+    "Florida

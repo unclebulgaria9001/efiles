@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.23_1",
   "filename": "gov.uscourts.nysd.447706.1327.23_1.pdf",
-  "extraction_date": "2025-11-17T10:16:24.048754",
+  "extraction_date": "2025-11-17T10:37:09.220671",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -44,20 +44,20 @@
     }
   ],
   "people": [
-    "Florida\nMy Commission",
     "Notary Public",
-    "Filed Under Seal",
-    "Fort Lauderdale",
-    "Registered\nProfessional Reporter",
-    "Las Olas Boulevard",
+    "Kelli Ann Willis",
     "Boies Schiller",
+    "Las Olas Boulevard",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
+    "Filed Under Seal",
     "Jane Doe",
-    "Certified Realtime\nReporter",
-    "Kelli Ann Willis"
+    "Florida\nMy Commission",
+    "Certified Realtime\nReporter"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

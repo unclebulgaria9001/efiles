@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.16_1",
   "filename": "gov.uscourts.nysd.447706.1330.16_1.pdf",
-  "extraction_date": "2025-11-17T10:19:23.825448",
+  "extraction_date": "2025-11-17T10:33:37.170578",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -74,31 +74,31 @@
     }
   ],
   "people": [
-    "Court Order",
-    "Account\nPlaintiff",
-    "Professor Dershowitz",
-    "All Devices Have",
-    "Gobain Corp",
-    "Defendant Ghislaine Maxwell",
-    "Phoenix Four",
-    "Residential Funding",
     "University Street",
-    "Alleged Violation",
-    "Ghislaine Maxwell",
-    "John Wiley",
-    "Orbit One Commc",
-    "Civil Procedure",
-    "Financial Corp",
-    "Numerex Corp",
+    "Salt Lake City",
+    "Twin Lakes Rd",
     "Excess Ins",
-    "Fieldcrest Cannon",
+    "Fine Paintings",
+    "Fifth Amendment",
+    "Residential Funding Corp",
+    "South Salem",
+    "Meredith Shultz",
+    "Had Plaintiff",
+    "Plaintiff Fails",
+    "Stanley Pottinger\nBradley",
+    "Orbit One Commc",
+    "Defendant Ghislaine Maxwell",
+    "John Wiley",
+    "On August",
+    "Motion\nTo Compel",
+    "Sanctions\nBased",
     "Menninger Decl",
-    "Court Order\nAbsent"
+    "Phoenix Four"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.28",
   "filename": "gov.uscourts.nysd.447706.1328.28.pdf",
-  "extraction_date": "2025-11-17T10:20:14.188104",
+  "extraction_date": "2025-11-17T10:34:14.673580",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -70,30 +70,30 @@
     }
   ],
   "people": [
-    "This Request",
-    "Filed Under Seal",
-    "Corporate Research",
-    "Clinton Foundation Climate",
-    "Instruction No",
-    "Registered Agent",
+    "Produce Documents",
     "Producing Electronically Stored",
-    "Undue Burden",
-    "Ghislaine Maxwell",
-    "William Jefferson Clinton",
-    "Deputy Clerk\nThe",
     "Only One Form",
-    "Civil Procedure",
+    "Corporate Research",
     "Claiming Privilege",
+    "Clinton Foundation",
+    "Registered Agent\nNational",
+    "Clinton Foundation Climate",
+    "Change Initiative",
+    "Civil Procedure",
+    "Relevant Period",
+    "Federal Rules",
+    "Registered Agent",
+    "East Las Olas",
+    "Jeffrey Epstein",
+    "This Request",
+    "Not Specified",
+    "Instruction No",
     "Vermont Avenue",
-    "Sigrid Mccawley Boies",
-    "Producing Documents",
-    "Information Not Specified",
-    "Deputy Clerk Attorney",
-    "When Required"
+    "Wisconsin Avenue"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

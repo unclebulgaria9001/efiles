@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.34",
   "filename": "gov.uscourts.nysd.447706.1328.34.pdf",
-  "extraction_date": "2025-11-17T10:16:56.486497",
+  "extraction_date": "2025-11-17T10:31:04.313141",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -58,28 +58,28 @@
     }
   ],
   "people": [
-    "Adriana Ross",
-    "Notary Public",
-    "Jeffrey Epstein",
-    "Australian Avenue South",
     "Reporting\nJob No",
-    "Ghislaine Maxwell",
+    "Bella Klen",
+    "Adriana Ross",
     "Sarah Kellen",
-    "Nadia Marcinkova",
-    "Leslie Groff",
+    "Cynthia Hopkins",
     "Richard Kahn",
     "Reported By",
-    "West Palm Beach",
-    "Florida\nProse Court",
-    "File Under Seal",
+    "Notary Public",
+    "Jeffrey Epstein",
     "And Leslie Groff",
-    "Bella Klen",
-    "Cynthia Hopkins"
+    "File Under Seal",
+    "Florida\nProse Court",
+    "Leslie Groff",
+    "Ghislaine Maxwell",
+    "Nadia Marcinkova",
+    "Australian Avenue South",
+    "West Palm Beach"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.5_1",
   "filename": "gov.uscourts.nysd.447706.1327.5_1.pdf",
-  "extraction_date": "2025-11-17T10:17:20.941144",
+  "extraction_date": "2025-11-17T10:31:29.524890",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -138,31 +138,31 @@
     }
   ],
   "people": [
-    "Detective\nRecarey",
     "Messages Involving",
-    "See Complaint",
-    "David Boies\nBoies",
-    "Composite Exhibit",
+    "Salt Lake City",
+    "See Schultz\nDecl",
     "See Schultz Decl",
+    "Vanity Fair",
+    "John\nWiley",
+    "Law\nUniversity",
+    "Eric Fischl",
     "Quinney College",
-    "Annie\nFarmer",
-    "Officer Recarey",
+    "Schultz Decl",
+    "Jeffrey Pagliuca",
+    "See Complaint",
     "Respectfully Submitted",
+    "Electronic Filing",
+    "David Boies\nBoies",
     "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Warn You",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Judge\nSweet",
-    "Eva Anderson",
-    "Multimedia Entm",
-    "See Schultz Declaration",
-    "Maria Farmer"
+    "Did Mr",
+    "Avenue\nDenver",
+    "Detective Recarey",
+    "Joanna Sjoberg"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

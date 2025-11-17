@@ -1,0 +1,19 @@
+{
+  "doc_id": "epstein_little_black_book",
+  "filename": "epstein_little_black_book.pdf",
+  "extraction_date": "2025-11-17T10:37:20.057961",
+  "extraction_method": "none",
+  "document_types": [
+    "unknown"
+  ],
+  "text_length": 44,
+  "images_extracted": 0,
+  "dates_found": 0,
+  "people_found": 0,
+  "locations_found": 0,
+  "linked_emails": [],
+  "dates": [],
+  "people": [],
+  "locations": [],
+  "images": []
+}

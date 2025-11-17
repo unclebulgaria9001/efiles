@@ -1,7 +1,7 @@
 {
   "doc_id": "1320-12",
   "filename": "1320-12.pdf",
-  "extraction_date": "2025-11-17T10:21:25.563964",
+  "extraction_date": "2025-11-17T10:35:32.425892",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -82,34 +82,34 @@
     }
   ],
   "people": [
-    "Did Emmy",
-    "That Ghislaine",
-    "The State",
-    "Dore Louis",
-    "Kelli Ann Willis",
-    "Did Epstein",
-    "North Carolina Tech",
-    "Red Ice Creations",
-    "Besides Virginia",
-    "Registered\nProfessional Reporter",
+    "Did Virginia",
+    "Daily Mail",
+    "Cate Blanchett",
+    "George Lucas",
     "Tipper Gore",
     "Brazilian Court",
-    "David Copperfield",
-    "Breakers Row",
-    "And Virginia",
-    "Frederic Fekkai",
-    "Naomi Campbell",
-    "Notary Public",
-    "When Laura",
-    "Magna Legal Services"
+    "Boulevard\nFort Lauderdale",
+    "Les Wexner",
+    "Would Epstein",
+    "Further Examination",
+    "Nadia Marcinkova",
+    "Avenue\nDenver",
+    "Only Dershowitz",
+    "So Jeffrey",
+    "When Jeffrey",
+    "Dore Louis",
+    "Did Ghislaine",
+    "Kelli Ann Willis",
+    "Palm Beach Daily",
+    "Michael Jackson"
   ],
   "locations": [
     "New York",
-    "New Mexico",
     "Florida",
-    "Virgin Islands",
+    "New Mexico",
     "Palm Beach",
-    "Manhattan"
+    "Manhattan",
+    "Virgin Islands"
   ],
   "images": []
 }

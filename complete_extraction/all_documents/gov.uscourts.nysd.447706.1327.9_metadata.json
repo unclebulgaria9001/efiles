@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1327.9",
   "filename": "gov.uscourts.nysd.447706.1327.9.pdf",
-  "extraction_date": "2025-11-17T10:18:43.017726",
+  "extraction_date": "2025-11-17T10:32:54.598180",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -57,30 +57,30 @@
     }
   ],
   "people": [
-    "Answer Deposition\nQuestions",
-    "Senterfitt Eidson",
-    "The District Court",
-    "Compel Attorney",
-    "Bradley Edwards",
-    "Denied\nDefendant",
-    "The Broward County",
-    "Compare Coates",
-    "File Excess Pages",
-    "Stan Pottinger",
-    "Client Communications",
+    "Compel Plaintiff",
+    "By Order",
     "Work Product",
-    "Weatherford Int",
+    "Part\nDefendant",
+    "That Pottinger",
+    "Sarah Kellen",
+    "Prioz Pro",
+    "Part\nPlaintiff",
+    "Disclose Ongoing Criminal",
     "Defendant Ghislaine Maxwell",
-    "Denied\nThe",
-    "File Under Seal",
     "John Wiley",
-    "Client Comrns",
-    "Civil Procedure",
-    "Serve Three Deposition"
+    "New\nYork",
+    "Compare Coates",
+    "Compel Non",
+    "Individual Rules",
+    "Stan Pottinger",
+    "Bradley Edwards",
+    "Former President Clinton",
+    "The Broward County",
+    "The Motion For"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

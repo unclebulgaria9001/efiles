@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.25",
   "filename": "gov.uscourts.nysd.447706.1328.25.pdf",
-  "extraction_date": "2025-11-17T10:16:26.572456",
+  "extraction_date": "2025-11-17T10:37:11.755903",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -56,26 +56,26 @@
     }
   ],
   "people": [
-    "Palm Beach Atlantic",
     "Notary Public",
-    "Filed Under Seal",
-    "Fort Lauderdale",
-    "Emmy Taylor",
-    "Registered\nProfessional Reporter",
-    "Las Olas Boulevard",
-    "Did Maxwell",
-    "Boies Schiller",
-    "Did Ghislaine",
+    "Kelli Ann Willis",
     "In Palm Beach",
-    "Certified Realtime\nReporter",
-    "Did Jeffrey",
+    "Boies Schiller",
+    "Las Olas Boulevard",
+    "Registered\nProfessional Reporter",
+    "Fort Lauderdale",
     "Ghislaine Maxwell",
-    "Kelli Ann Willis"
+    "Emmy Taylor",
+    "Did Ghislaine",
+    "Did Jeffrey",
+    "Filed Under Seal",
+    "Palm Beach Atlantic",
+    "Certified Realtime\nReporter",
+    "Did Maxwell"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

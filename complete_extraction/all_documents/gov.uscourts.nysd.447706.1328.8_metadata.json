@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.8",
   "filename": "gov.uscourts.nysd.447706.1328.8.pdf",
-  "extraction_date": "2025-11-17T10:16:43.841281",
+  "extraction_date": "2025-11-17T10:37:30.505253",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -61,30 +61,30 @@
     }
   ],
   "people": [
-    "David Boies\nBoies",
-    "Quinney College",
-    "Respectfully Submitted",
-    "North Andrews Avenue",
-    "Johanna Sjoberg",
-    "Lynn Trude Miller",
-    "Tony Figueroa",
-    "Ghislaine Maxwell",
-    "Detective Joseph Recarey",
-    "Sealed Court Order",
-    "Rinaldo Rizzo",
-    "Appear Pro Hac",
-    "Sealed Composite Exhibit",
-    "Nadia Marcinkova",
+    "Law\nUniversity",
+    "New York\nVirginia",
+    "Meredith Schultz",
+    "Answer Deposition Questions",
+    "Sarah Kellen",
     "Sealed Exhibit",
+    "Quinney College",
+    "Electronic\nCourt Filing",
+    "Respectfully Submitted",
+    "Ghislaine Maxwell",
     "Alfredo Rodriguez",
-    "Court\nSouthern District",
+    "Sealed Composite Exhibit",
+    "The Lolita Express",
+    "Flight Logs",
     "United States District",
-    "Salt Lake City",
-    "Juan Alessi"
+    "David Boies\nBoies",
+    "Tony Figueroa",
+    "Fort Lauderdale",
+    "Nadia Marcinkova",
+    "Salt Lake City"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

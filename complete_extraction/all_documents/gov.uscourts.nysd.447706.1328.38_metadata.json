@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.38",
   "filename": "gov.uscourts.nysd.447706.1328.38.pdf",
-  "extraction_date": "2025-11-17T10:18:56.686340",
+  "extraction_date": "2025-11-17T10:33:08.454593",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -44,22 +44,22 @@
     }
   ],
   "people": [
-    "El Brillo Way",
-    "Notary Public",
-    "Fort Lauderdale",
+    "Jane Doe",
+    "Boies Schiller",
+    "Certified Realtime\nReporter",
     "Boca Raton",
     "Registered\nProfessional Reporter",
+    "Notary Public",
     "El Brillo",
+    "Kelli Ann Willis",
+    "Fort Lauderdale",
+    "El Brillo Way",
     "Las Olas Boulevard",
-    "Boies Schiller",
-    "Jane Doe",
-    "Certified Realtime\nReporter",
-    "Boca Raton Resort",
-    "Kelli Ann Willis"
+    "Boca Raton Resort"
   ],
   "locations": [
-    "Florida",
-    "New York"
+    "New York",
+    "Florida"
   ],
   "images": []
 }

@@ -1,7 +1,7 @@
 {
   "doc_id": "1325-18",
   "filename": "1325-18.pdf",
-  "extraction_date": "2025-11-17T10:23:08.701362",
+  "extraction_date": "2025-11-17T10:37:12.609113",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -56,30 +56,30 @@
     }
   ],
   "people": [
-    "Judge Marra",
-    "Your Honor",
-    "New York Daily",
-    "Buckingham Palace",
-    "File Under Seal",
-    "Ghislaine Maxwell",
-    "The Khalil",
-    "The Second Circuit",
+    "Jane Doe",
     "Laura Menninger",
-    "In Cruz",
-    "New York Court",
-    "Prince Andrew",
+    "Rights Act",
     "The Matherson",
     "Bill Cosby",
-    "The Court",
+    "In Cruz",
+    "Bill Clinton",
+    "First Blood",
+    "The Second Circuit",
     "Sigrid Mccawley",
-    "Virginia Giuffre",
-    "Victims Refuse Silence",
+    "New York Court",
+    "Eastern District",
+    "New York State",
     "Jeffrey Epstein",
-    "District Judge"
+    "File Under Seal",
+    "New York Daily",
+    "Prince Andrew",
+    "And Ms",
+    "Federal Court",
+    "Buckingham Palace"
   ],
   "locations": [
-    "Florida",
     "New York",
+    "Florida",
     "London"
   ],
   "images": []

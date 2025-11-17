@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1330.6_1",
   "filename": "gov.uscourts.nysd.447706.1330.6_1.pdf",
-  "extraction_date": "2025-11-17T10:17:53.360877",
+  "extraction_date": "2025-11-17T10:32:03.883613",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -69,30 +69,30 @@
     }
   ],
   "people": [
-    "Information\nAct",
-    "Adriana Ross",
+    "Statutes Section",
+    "United Sta",
     "Palm Beach Cowity",
-    "State Attomc",
-    "Diaaict Court",
-    "States Attorney",
-    "United States Attomcy",
-    "Federal Bureau",
-    "United State",
+    "Sarah Kellen",
+    "Fifth Amendment",
+    "United States Attorney",
+    "United States Code",
     "Criminal Procedure",
-    "Ill\nIll\nPage",
+    "Sixth Amendment",
     "Non\nProsecutioa Apcment",
     "State\nAttomoy",
-    "Fifth Amendment",
-    "Alexander Acosta",
-    "Sarah Kellen",
+    "Federal Rules",
+    "Information\nAct",
+    "State Attornoy",
     "Non\nProsecution Agreement",
-    "Lesley Oro",
+    "States Attorney",
+    "United State",
     "Case No",
-    "United States\nCode"
+    "Adriana Ross",
+    "Federal Bureau"
   ],
   "locations": [
-    "Florida",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

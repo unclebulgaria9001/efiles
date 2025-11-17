@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.21",
   "filename": "gov.uscourts.nysd.447706.1328.21.pdf",
-  "extraction_date": "2025-11-17T10:17:15.937600",
+  "extraction_date": "2025-11-17T10:31:24.170926",
   "extraction_method": "pdfplumber",
   "document_types": [
     "legal_document",
@@ -81,30 +81,30 @@
     }
   ],
   "people": [
-    "Entered By",
-    "Female\nEthnic Origin",
-    "Sex Offenses",
     "Male\nEthnic Origin",
-    "Home Phone No",
-    "Original Report Reported",
-    "Palm Beach Residency",
-    "Detective Division",
-    "Reported By",
-    "Horne Phone No",
-    "Adam Niseoneohn",
-    "Case Status",
-    "Police Department",
-    "Assignment Date",
-    "Maximum Weight",
-    "Detectives Pervenecki",
-    "Arrest\nException Clear",
-    "State Class",
+    "Female Ethnic",
+    "Aggravated Battery",
+    "Royal Palm Beach",
+    "Supplemental Reported By",
+    "Last Name\nStreet",
+    "Mustache Only\nTeeth",
+    "Reviewed By",
+    "Street Number",
+    "Blue\nComplexion",
+    "Janice Magrane",
+    "Street Number\nCity",
     "Palm Beach Truancy",
-    "White Sex"
+    "Number\nCity",
+    "Center Of",
+    "Zone Two",
+    "Minimum Weight",
+    "Black\nSex",
+    "Report Officer",
+    "Minimum Height"
   ],
   "locations": [
-    "Florida",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }

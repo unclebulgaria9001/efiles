@@ -1,7 +1,7 @@
 {
   "doc_id": "gov.uscourts.nysd.447706.1328.42_1",
   "filename": "gov.uscourts.nysd.447706.1328.42_1.pdf",
-  "extraction_date": "2025-11-17T10:19:06.414120",
+  "extraction_date": "2025-11-17T10:33:18.649910",
   "extraction_method": "pdfplumber",
   "document_types": [
     "deposition",
@@ -65,31 +65,31 @@
     }
   ],
   "people": [
-    "Miss Germany",
-    "When Mr",
-    "Filed Under Seal",
-    "Incorporation Papers",
-    "Noble Prize",
-    "Misses Yugoslavia",
-    "President Clinton",
-    "Were Prince Andrew",
-    "Incident Report",
-    "Avenue North",
-    "Prince Andrew",
-    "Lake Worth",
-    "West Flagler Street",
-    "Reported By",
-    "David Copperfield",
-    "Notary Public",
-    "And Kevin Spacey",
-    "Biscayne Boulevard",
     "But Prince Andrew",
-    "East Las Olas"
+    "West Flagler Street",
+    "Palm Beach Lakes",
+    "Frederick Fekkai",
+    "Both Ms",
+    "Noble Prize",
+    "Incident Report",
+    "Biscayne Boulevard",
+    "East Las Olas",
+    "David Copperfield",
+    "President Clinton",
+    "Prince Andrew",
+    "North Flagler Drive",
+    "When Mr",
+    "Incorporation Papers",
+    "Miss Germany",
+    "Palm Beach Gardens",
+    "Princess Sarah",
+    "Lake Worth",
+    "Sandra Townsend"
   ],
   "locations": [
-    "Florida",
     "New York",
-    "Palm Beach"
+    "Palm Beach",
+    "Florida"
   ],
   "images": []
 }
