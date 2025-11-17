@@ -21,42 +21,18 @@ MINI_TIMELINES.mkdir(exist_ok=True)
 
 # VIPs to track - actual people only
 ACTUAL_VIPS = {
+    # Core figures
     'Ghislaine Maxwell', 'Maxwell', 'Ghislaine',
     'Virginia Roberts', 'Virginia Giuffre', 'Giuffre', 'Virginia',
     'Jeffrey Epstein', 'Epstein', 'Jeffrey',
+    
+    # Royal/Political
     'Prince Andrew', 'Andrew', 'Duke of York',
-    'Bill Clinton', 'Clinton', 'William Clinton',
+    'Bill Clinton', 'Clinton', 'William Clinton', 'President Bill Clinton',
     'Donald Trump', 'Trump',
-    'Alan Dershowitz', 'Dershowitz',
-    'Jean-Luc Brunel', 'Brunel',
-    'Leslie Wexner', 'Wexner',
-    'Sarah Kellen', 'Kellen',
-    'Nadia Marcinkova', 'Marcinkova', 'Nadia',
-    'Adriana Ross', 'Ross', 'Adriana',
-    'Johanna Sjoberg', 'Sjoberg',
-    'Emmy Tayler', 'Tayler',
-    'Eva Andersson', 'Andersson',
-    'Haley Robson', 'Robson',
-    'Juan Alessi', 'Alessi',
-    'Tony Figueroa', 'Figueroa',
-    'Lesley Groff', 'Groff',
-    'Marvin Minsky', 'Minsky',
-    'Glenn Dubin', 'Dubin',
-    'Eva Dubin',
-    'Ron Burkle', 'Burkle',
-    'George Mitchell', 'Mitchell',
     'Bill Richardson', 'Richardson',
+    'George Mitchell', 'Mitchell',
     'Ehud Barak', 'Barak',
-    'Kevin Spacey', 'Spacey',
-    'Chris Tucker', 'Tucker',
-    'Naomi Campbell', 'Campbell',
-    'Heidi Klum', 'Klum',
-    'Courtney Love', 'Love',
-    'Katie Couric', 'Couric',
-    'Woody Allen', 'Allen',
-    'Stephen Hawking', 'Hawking',
-    'Lawrence Krauss', 'Krauss',
-    'Steven Pinker', 'Pinker',
     'Al Gore', 'Gore',
     'John Kerry', 'Kerry',
     'Henry Kissinger', 'Kissinger',
@@ -64,11 +40,81 @@ ACTUAL_VIPS = {
     'Andrew Cuomo', 'Cuomo',
     'Eliot Spitzer', 'Spitzer',
     'Michael Bloomberg', 'Bloomberg',
+    
+    # Epstein Associates/Staff
+    'Sarah Kellen', 'Kellen',
+    'Nadia Marcinkova', 'Marcinkova', 'Nadia',
+    'Adriana Ross', 'Ross', 'Adriana',
+    'Lesley Groff', 'Groff',
+    'Jean-Luc Brunel', 'Brunel',
+    'Leslie Wexner', 'Wexner',
+    'Juan Alessi', 'Alessi',
+    'Tony Figueroa', 'Figueroa',
+    'Emmy Tayler', 'Tayler', 'Emmy Taylor',
+    'Eva Andersson', 'Andersson', 'Eva Anderson',
+    'Haley Robson', 'Robson',
+    'Janusz Banasiak', 'Banasiak',
+    'Alfredo Rodriguez', 'Rodriguez',
+    'Philip Barden', 'Barden',
+    'Christina Venero', 'Venero',
+    
+    # Victims/Witnesses
+    'Johanna Sjoberg', 'Sjoberg',
+    'Courtney Wild', 'Wild',
+    'Michelle Licata', 'Licata',
+    'Annie Farmer', 'Farmer',
+    'Maria Farmer',
+    'Sarah Ransome', 'Ransome',
+    'Carolyn Andriamo', 'Andriamo',
+    'Jane Doe', 'Doe',
+    
+    # Legal Team - Plaintiffs
+    'Sigrid McCawley', 'McCawley', 'Mccawley',
+    'David Boies', 'Boies',
+    'Brad Edwards', 'Edwards',
+    'Paul Cassell', 'Cassell',
+    'Jack Scarola', 'Scarola',
+    'Spencer Kuvin', 'Kuvin',
+    
+    # Legal Team - Defense
+    'Laura Menninger', 'Menninger',
+    'Alan Dershowitz', 'Dershowitz',
+    'Kenneth Starr', 'Starr',
+    'Roy Black', 'Black',
+    'Jay Lefkowitz', 'Lefkowitz',
+    'Gerald Lefcourt', 'Lefcourt',
+    'Martin Weinberg', 'Weinberg',
+    
+    # Law Enforcement/Prosecutors
+    'Alexander Acosta', 'Acosta',
+    'Marie Villafana', 'Villafana',
+    'Detective Recarey', 'Recarey',
+    'Louis Freeh', 'Freeh',
+    
+    # Business Associates
+    'Glenn Dubin', 'Dubin',
+    'Eva Dubin',
+    'Ron Burkle', 'Burkle',
     'Rupert Murdoch', 'Murdoch',
     'Mort Zuckerman', 'Zuckerman',
     'Edgar Bronfman', 'Bronfman',
-    'Leon Black', 'Black',
+    'Leon Black',
     'Tom Pritzker', 'Pritzker',
+    
+    # Academics/Scientists
+    'Marvin Minsky', 'Minsky',
+    'Stephen Hawking', 'Hawking',
+    'Lawrence Krauss', 'Krauss',
+    'Steven Pinker', 'Pinker',
+    
+    # Celebrities/Media
+    'Kevin Spacey', 'Spacey',
+    'Chris Tucker', 'Tucker',
+    'Naomi Campbell', 'Campbell',
+    'Heidi Klum', 'Klum',
+    'Courtney Love', 'Love',
+    'Katie Couric', 'Couric',
+    'Woody Allen', 'Allen',
     'Michael Wolff', 'Wolff',
     'Charlie Rose', 'Rose',
     'Katie Ford', 'Ford',
@@ -80,26 +126,11 @@ ACTUAL_VIPS = {
     'David Copperfield', 'Copperfield',
     'Mick Jagger', 'Jagger',
     'Dustin Hoffman', 'Hoffman',
-    'Kevin Spacey',
-    'Sigrid McCawley', 'McCawley', 'Mccawley',
-    'Laura Menninger', 'Menninger',
-    'David Boies', 'Boies',
-    'Brad Edwards', 'Edwards',
-    'Paul Cassell', 'Cassell',
-    'Jack Scarola', 'Scarola',
-    'Spencer Kuvin', 'Kuvin',
-    'Kenneth Starr', 'Starr',
-    'Roy Black',
-    'Jay Lefkowitz', 'Lefkowitz',
-    'Gerald Lefcourt', 'Lefcourt',
-    'Martin Weinberg', 'Weinberg',
-    'Alexander Acosta', 'Acosta',
-    'Marie Villafana', 'Villafana',
-    'Courtney Wild', 'Wild',
-    'Michelle Licata', 'Licata',
-    'Annie Farmer', 'Farmer',
-    'Maria Farmer',
-    'Jane Doe', 'Doe'
+    
+    # Court Personnel/Reporters (high event count)
+    'Meredith Schultz', 'Schultz',
+    'Kelli Ann Willis', 'Willis',
+    'Steven Olson', 'Olson'
 }
 
 MIN_EVENTS = 10  # Only create timelines for VIPs with 10+ events
