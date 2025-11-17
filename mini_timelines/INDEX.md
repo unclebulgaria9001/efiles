@@ -1,6 +1,6 @@
 # Mini-Timelines Index
 
-**Generated**: 2025-11-17 14:16:08  
+**Generated**: 2025-11-17 14:36:47  
 **Total VIP Timelines**: 40
 
 ---
@@ -16,10 +16,10 @@ Individual timelines for each person with significant interactions with Jeffrey 
 | Person | Period | Events | Timeline File |
 |--------|--------|--------|---------------|
 | **Meredith Schultz** | 2008-09-02 to 2024-01-05 | 824 | [`meredith_schultz_20080902_to_20240105.md`](meredith_schultz_20080902_to_20240105.md) |
-| **Ghislaine Maxwell** | 0201-01-06 to 2025-11-22 | 780 | [`ghislaine_maxwell_02010106_to_20251122.md`](ghislaine_maxwell_02010106_to_20251122.md) |
+| **Ghislaine Maxwell** | 0201-01-06 to 2025-11-22 | 781 | [`ghislaine_maxwell_02010106_to_20251122.md`](ghislaine_maxwell_02010106_to_20251122.md) |
 | **Virginia Roberts** | 2002-01-09 to 2025-11-22 | 629 | [`virginia_roberts_20020109_to_20251122.md`](virginia_roberts_20020109_to_20251122.md) |
 | **Kelli Ann Willis** | 2005-12-21 to 2024-01-05 | 425 | [`kelli_ann_willis_20051221_to_20240105.md`](kelli_ann_willis_20051221_to_20240105.md) |
-| **Sarah Kellen** | 0591-09-08 to 2024-01-05 | 232 | [`sarah_kellen_05910908_to_20240105.md`](sarah_kellen_05910908_to_20240105.md) |
+| **Sarah Kellen** | 0591-09-08 to 2024-01-05 | 237 | [`sarah_kellen_05910908_to_20240105.md`](sarah_kellen_05910908_to_20240105.md) |
 | **Laura Menninger** | 2013-12-01 to 2024-01-05 | 225 | [`laura_menninger_20131201_to_20240105.md`](laura_menninger_20131201_to_20240105.md) |
 | **Maxwell** | 0201-01-06 to 2025-11-22 | 174 | [`maxwell_02010106_to_20251122.md`](maxwell_02010106_to_20251122.md) |
 | **Jane Doe** | 2016-05-18 to 2024-01-05 | 172 | [`jane_doe_20160518_to_20240105.md`](jane_doe_20160518_to_20240105.md) |
@@ -27,7 +27,7 @@ Individual timelines for each person with significant interactions with Jeffrey 
 | **Adriana Ross** | 2010-02-16 to 2024-01-05 | 146 | [`adriana_ross_20100216_to_20240105.md`](adriana_ross_20100216_to_20240105.md) |
 | **President Bill Clinton** | 2024-01-03 to 2024-01-05 | 130 | [`president_bill_clinton_20240103_to_20240105.md`](president_bill_clinton_20240103_to_20240105.md) |
 | **Epstein** | 0201-01-06 to 2025-11-22 | 129 | [`epstein_02010106_to_20251122.md`](epstein_02010106_to_20251122.md) |
-| **Jeffrey Epstein** | 0201-01-06 to 2025-11-22 | 119 | [`jeffrey_epstein_02010106_to_20251122.md`](jeffrey_epstein_02010106_to_20251122.md) |
+| **Jeffrey Epstein** | 0201-01-06 to 2025-11-22 | 125 | [`jeffrey_epstein_02010106_to_20251122.md`](jeffrey_epstein_02010106_to_20251122.md) |
 | **Andrew** | 0201-01-06 to 2025-11-22 | 111 | [`andrew_02010106_to_20251122.md`](andrew_02010106_to_20251122.md) |
 | **Sarah Ransome** | 2007-02-02 to 2024-01-05 | 104 | [`sarah_ransome_20070202_to_20240105.md`](sarah_ransome_20070202_to_20240105.md) |
 | **Detective Recarey** | 2016-04-22 to 2024-01-05 | 96 | [`detective_recarey_20160422_to_20240105.md`](detective_recarey_20160422_to_20240105.md) |
@@ -83,16 +83,16 @@ Individual timelines for each person with significant interactions with Jeffrey 
 ## Statistics
 
 **Total VIPs Tracked**: 40  
-**Total Events**: 5619  
+**Total Events**: 5631  
 **Minimum Events per VIP**: 10
 
 ### Top 10 by Event Count
 
 1. **Meredith Schultz**: 824 events
-2. **Ghislaine Maxwell**: 780 events
+2. **Ghislaine Maxwell**: 781 events
 3. **Virginia Roberts**: 629 events
 4. **Kelli Ann Willis**: 425 events
-5. **Sarah Kellen**: 232 events
+5. **Sarah Kellen**: 237 events
 6. **Laura Menninger**: 225 events
 7. **Maxwell**: 174 events
 8. **Jane Doe**: 172 events

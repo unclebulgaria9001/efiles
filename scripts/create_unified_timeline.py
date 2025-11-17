@@ -696,6 +696,32 @@ def create_timeline_index(all_events):
     
     print(f"  Created timeline index")
 
+def load_message_book_calls():
+    """Load message book call events from JSON file"""
+    message_book_file = TIMELINE_OUTPUT / "message_book_calls.json"
+    
+    if not message_book_file.exists():
+        return []
+    
+    with open(message_book_file, 'r', encoding='utf-8') as f:
+        calls = json.load(f)
+    
+    # Convert date strings to datetime objects
+    for call in calls:
+        if call.get('date'):
+            date_str = call['date']
+            # Parse YYYYMMDD format
+            try:
+                year = int(date_str[:4])
+                month = int(date_str[4:6]) if len(date_str) >= 6 and date_str[4:6] != '00' else 1
+                day = int(date_str[6:8]) if len(date_str) >= 8 and date_str[6:8] != '00' else 1
+                call['date'] = datetime(year, month, day)
+            except:
+                call['date'] = None
+    
+    print(f"  Loaded {len(calls)} message book call events")
+    return calls
+
 def main():
     """Main timeline creation process"""
     print("="*80)
@@ -707,9 +733,10 @@ def main():
     doc_events = load_documents()
     flight_events = identify_flight_logs(doc_events)
     court_events = identify_court_documents(doc_events)
+    message_book_events = load_message_book_calls()
     
     # Combine all events
-    all_events = email_events + doc_events + flight_events + court_events
+    all_events = email_events + doc_events + flight_events + court_events + message_book_events
     
     print(f"\nTotal events collected: {len(all_events):,}")
     
