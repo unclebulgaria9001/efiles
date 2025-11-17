@@ -1,10991 +1,4393 @@
-﻿# TOP 300 PEOPLE - Comprehensive Analysis
-*Generated: 2025-11-16 15:36:07*
-
-## Overview
-
-This report profiles the top 300 most-mentioned individuals in the Epstein documents.
-
-**Total People Analyzed**: 1731
-**Top 300 Selected**: 300
-**VIPs in Top 300**: 1
-
----
-
-## Top 300 Summary Table
-
-| Rank | Name | Mentions | Documents | Associated Terms | Category |
-|------|------|----------|-----------|------------------|----------|
-| 1 | Liberation Sans | 193 | 193 | 151 | Unknown |
-| 2 | United States Courts | 192 | 192 | 150 | Unknown |
-| 3 | Administrative Office | 192 | 192 | 150 | Unknown |
-| 4 | Paper Capture Plug | 180 | 180 | 139 | Unknown |
-| 5 | Adobe Acrobat Pro | 180 | 180 | 139 | Unknown |
-| 6 | Times New Roman | 132 | 132 | 101 | Unknown |
-| 7 | Ju Nd | 117 | 117 | 89 | Unknown |
-| 8 | Nicole Simmons | 53 | 53 | 42 | Unknown |
-| 9 | Microsoft Word | 40 | 40 | 32 | Unknown |
-| 10 | Courier New | 35 | 35 | 34 | Unknown |
-| 11 | Aspose Ltd | 27 | 27 | 26 | Unknown |
-| 12 | Acrobat Distiller | 12 | 12 | 12 | Unknown |
-| 13 | Microsoft Outlook | 7 | 7 | 5 | Unknown |
-| 14 | Memo Style | 7 | 7 | 5 | Unknown |
-| 15 | Hb Kq | 6 | 6 | 6 | Unknown |
-| 16 | Rs Dh | 6 | 6 | 6 | Unknown |
-| 17 | Extend Discovery | 5 | 5 | 3 | Unknown |
-| 18 | Vu Eg | 5 | 5 | 5 | Unknown |
-| 19 | Sv Ra | 4 | 4 | 4 | Unknown |
-| 20 | Defts Motn | 3 | 3 | 3 | Unknown |
-| 21 | Fx Fa | 3 | 3 | 3 | Unknown |
-| 22 | Sjoberg Johanna | 3 | 3 | 3 | Unknown |
-| 23 | Epstein Jeffrey | 3 | 3 | 3 | VIP |
-| 24 | Qv Ae | 3 | 3 | 1 | Unknown |
-| 25 | Dw Ma | 3 | 3 | 3 | Unknown |
-| 26 | Brenda Rodriguez | 3 | 3 | 3 | Unknown |
-| 27 | Ai Em | 3 | 3 | 3 | Unknown |
-| 28 | Pe Qa | 3 | 3 | 1 | Unknown |
-| 29 | Discovery Requests | 3 | 3 | 3 | Unknown |
-| 30 | Fx Va | 2 | 2 | 2 | Unknown |
-| 31 | Vrx Mp | 2 | 2 | 2 | Unknown |
-| 32 | Lk Qd | 2 | 2 | 2 | Unknown |
-| 33 | Wm Wuc | 2 | 2 | 2 | Unknown |
-| 34 | Rm Wm Sm | 2 | 2 | 2 | Unknown |
-| 35 | Tn Ww | 2 | 2 | 2 | Unknown |
-| 36 | Ve Qa | 2 | 2 | 1 | Unknown |
-| 37 | Aq Rj | 2 | 2 | 1 | Unknown |
-| 38 | Ransome Sarah | 2 | 2 | 2 | Unknown |
-| 39 | Dr Jl | 2 | 2 | 2 | Unknown |
-| 40 | Uw Tlp | 2 | 2 | 2 | Unknown |
-| 41 | Oi Uh | 2 | 2 | 2 | Unknown |
-| 42 | Ab Zf | 2 | 2 | 2 | Unknown |
-| 43 | Ve Eq | 2 | 2 | 1 | Unknown |
-| 44 | Vd Ofi | 2 | 2 | 2 | Unknown |
-| 45 | Is Mde | 2 | 2 | 2 | Unknown |
-| 46 | Nk Fg | 2 | 2 | 2 | Unknown |
-| 47 | Lo Rk | 2 | 2 | 2 | Unknown |
-| 48 | Qz Ci | 2 | 2 | 2 | Unknown |
-| 49 | Windows User | 2 | 2 | 1 | Unknown |
-| 50 | Depo Limit | 2 | 2 | 2 | Unknown |
-| 51 | Ss Ss | 2 | 2 | 1 | Unknown |
-| 52 | Second Set | 2 | 2 | 2 | Unknown |
-| 53 | Fa Fa | 2 | 2 | 2 | Unknown |
-| 54 | Ds Ds Fq | 2 | 2 | 2 | Unknown |
-| 55 | It Lj | 2 | 2 | 2 | Unknown |
-| 56 | Av Jo | 2 | 2 | 2 | Unknown |
-| 57 | Mf Bi | 2 | 2 | 2 | Unknown |
-| 58 | Jr Ed | 2 | 2 | 1 | Unknown |
-| 59 | Lo Uq | 2 | 2 | 2 | Unknown |
-| 60 | Vw El | 1 | 1 | 1 | Unknown |
-| 61 |  | 1 | 1 | 1 | Unknown |
-| 62 | Fw Wq | 1 | 1 | 1 | Unknown |
-| 63 | Cq Ms | 1 | 1 | 1 | Unknown |
-| 64 | Wm Vb | 1 | 1 | 1 | Unknown |
-| 65 | Exceed Presumptive Ten | 1 | 1 | 1 | Unknown |
-| 66 |  | 1 | 1 | 1 | Unknown |
-| 67 | Dn Wy | 1 | 1 | 1 | Unknown |
-| 68 | Tl Hd | 1 | 1 | 1 | Unknown |
-| 69 | Lxm Kl | 1 | 1 | 1 | Unknown |
-| 70 | Ck Fl | 1 | 1 | 1 | Unknown |
-| 71 | Qw Ru | 1 | 1 | 1 | Unknown |
-| 72 | Kn Pa | 1 | 1 | 1 | Unknown |
-| 73 | Oo Lx | 1 | 1 | 1 | Unknown |
-| 74 | Wed Wf | 1 | 1 | 1 | Unknown |
-| 75 | Jw Ow | 1 | 1 | 1 | Unknown |
-| 76 | Ep Gl | 1 | 1 | 1 | Unknown |
-| 77 | Plg Bi | 1 | 1 | 1 | Unknown |
-| 78 | Tp Nm | 1 | 1 | 1 | Unknown |
-| 79 |  | 1 | 1 | 1 | Unknown |
-| 80 | Hs Lu | 1 | 1 | 1 | Unknown |
-| 81 | Gh Ef | 1 | 1 | 1 | Unknown |
-| 82 | Ksu Is | 1 | 1 | 1 | Unknown |
-| 83 | Nb No | 1 | 1 | 1 | Unknown |
-| 84 | Tk Tc | 1 | 1 | 1 | Unknown |
-| 85 | Uh Zq | 1 | 1 | 1 | Unknown |
-| 86 | Cm Ha | 1 | 1 | 1 | Unknown |
-| 87 | Louella Rabuyo Transcript | 1 | 1 | 1 | Unknown |
-| 88 | Tp Uq | 1 | 1 | 1 | Unknown |
-| 89 | Iau If | 1 | 1 | 1 | Unknown |
-| 90 | Ig Rf | 1 | 1 | 1 | Unknown |
-| 91 | Ug Pg | 1 | 1 | 1 | Unknown |
-| 92 | Ay Bp | 1 | 1 | 1 | Unknown |
-| 93 | Dr Bu | 1 | 1 | 1 | Unknown |
-| 94 | Ezs Oy | 1 | 1 | 1 | Unknown |
-| 95 | Fdq Bu | 1 | 1 | 1 | Unknown |
-| 96 |  | 1 | 1 | 1 | Unknown |
-| 97 | Nf Mt | 1 | 1 | 1 | Unknown |
-| 98 | Jye Tu | 1 | 1 | 1 | Unknown |
-| 99 | Jo Zh | 1 | 1 | 1 | Unknown |
-| 100 | Iky Um | 1 | 1 | 1 | Unknown |
-| 101 | Nba Ez | 1 | 1 | 1 | Unknown |
-| 102 | Dg Qtp | 1 | 1 | 1 | Unknown |
-| 103 |  | 1 | 1 | 1 | Unknown |
-| 104 | Rg Zn | 1 | 1 | 1 | Unknown |
-| 105 | Fx Qu | 1 | 1 | 1 | Unknown |
-| 106 | Rj Tb | 1 | 1 | 1 | Unknown |
-| 107 |  | 1 | 1 | 1 | Unknown |
-| 108 | Nk Im | 1 | 1 | 1 | Unknown |
-| 109 | Db Ru | 1 | 1 | 1 | Unknown |
-| 110 | Al Al Al | 1 | 1 | 1 | Unknown |
-| 111 | Iw Rlh | 1 | 1 | 1 | Unknown |
-| 112 | Ax Dd | 1 | 1 | 1 | Unknown |
-| 113 | Hf Ub | 1 | 1 | 1 | Unknown |
-| 114 |  | 1 | 1 | 1 | Unknown |
-| 115 | Ek Mp | 1 | 1 | 1 | Unknown |
-| 116 | Vy Nt | 1 | 1 | 1 | Unknown |
-| 117 | Gs Gom | 1 | 1 | 1 | Unknown |
-| 118 | Dg Jss | 1 | 1 | 1 | Unknown |
-| 119 | Os Zp | 1 | 1 | 1 | Unknown |
-| 120 | Hq Pd | 1 | 1 | 1 | Unknown |
-| 121 | Gj Ar | 1 | 1 | 1 | Unknown |
-| 122 | He Xw | 1 | 1 | 1 | Unknown |
-| 123 | Qq Uu | 1 | 1 | 1 | Unknown |
-| 124 | Hy Fc | 1 | 1 | 1 | Unknown |
-| 125 | Vw Pb | 1 | 1 | 1 | Unknown |
-| 126 | Cok Msup | 1 | 1 | 1 | Unknown |
-| 127 | Vj Db | 1 | 1 | 1 | Unknown |
-| 128 | Gj Gn | 1 | 1 | 1 | Unknown |
-| 129 |  | 1 | 1 | 1 | Unknown |
-| 130 |  | 1 | 1 | 1 | Unknown |
-| 131 | Ec Nm | 1 | 1 | 1 | Unknown |
-| 132 | As Im | 1 | 1 | 1 | Unknown |
-| 133 | Au Ntv | 1 | 1 | 1 | Unknown |
-| 134 | Pv Dh | 1 | 1 | 1 | Unknown |
-| 135 | Jt Id | 1 | 1 | 1 | Unknown |
-| 136 | Ls Il | 1 | 1 | 1 | Unknown |
-| 137 |  | 1 | 1 | 1 | Unknown |
-| 138 | Rusk Fr | 1 | 1 | 1 | Unknown |
-| 139 |  | 1 | 1 | 1 | Unknown |
-| 140 | Rh Qbo | 1 | 1 | 1 | Unknown |
-| 141 | Eq Gibj | 1 | 1 | 1 | Unknown |
-| 142 | Iw Mg | 1 | 1 | 1 | Unknown |
-| 143 | Os Pt | 1 | 1 | 1 | Unknown |
-| 144 | Wc Oo | 1 | 1 | 1 | Unknown |
-| 145 | Kyco Kk | 1 | 1 | 1 | Unknown |
-| 146 | Gt Dw | 1 | 1 | 1 | Unknown |
-| 147 | Zp Cg | 1 | 1 | 1 | Unknown |
-| 148 | Pn To | 1 | 1 | 1 | Unknown |
-| 149 | Lw Xn | 1 | 1 | 1 | Unknown |
-| 150 | Za Bu | 1 | 1 | 1 | Unknown |
-| 151 | Qe Bp | 1 | 1 | 1 | Unknown |
-| 152 | Bn Rq | 1 | 1 | 1 | Unknown |
-| 153 | Xc Ec | 1 | 1 | 1 | Unknown |
-| 154 | He Ab | 1 | 1 | 1 | Unknown |
-| 155 | Ey Mv | 1 | 1 | 1 | Unknown |
-| 156 | Cu Jb | 1 | 1 | 1 | Unknown |
-| 157 | Qn Mwn | 1 | 1 | 1 | Unknown |
-| 158 | Tb Yt | 1 | 1 | 1 | Unknown |
-| 159 |  | 1 | 1 | 1 | Unknown |
-| 160 | Ey Js | 1 | 1 | 1 | Unknown |
-| 161 | Kq Gy | 1 | 1 | 1 | Unknown |
-| 162 | Ma Cm | 1 | 1 | 1 | Unknown |
-| 163 |  | 1 | 1 | 1 | Unknown |
-| 164 | Vg Qz | 1 | 1 | 1 | Unknown |
-| 165 | Mq Vaj | 1 | 1 | 1 | Unknown |
-| 166 | Rte Wb | 1 | 1 | 1 | Unknown |
-| 167 | Ib Hs | 1 | 1 | 1 | Unknown |
-| 168 |  | 1 | 1 | 1 | Unknown |
-| 169 |  | 1 | 1 | 1 | Unknown |
-| 170 | Oo Ot | 1 | 1 | 1 | Unknown |
-| 171 | Zgu Jk | 1 | 1 | 1 | Unknown |
-| 172 | Ix Me | 1 | 1 | 1 | Unknown |
-| 173 | Yz Uc | 1 | 1 | 1 | Unknown |
-| 174 |  | 1 | 1 | 1 | Unknown |
-| 175 | Qs Ct | 1 | 1 | 1 | Unknown |
-| 176 | Gx Js | 1 | 1 | 1 | Unknown |
-| 177 | Gy Lv | 1 | 1 | 1 | Unknown |
-| 178 | Qz Su | 1 | 1 | 1 | Unknown |
-| 179 | Il Te | 1 | 1 | 1 | Unknown |
-| 180 | In Bbx | 1 | 1 | 1 | Unknown |
-| 181 | Cm Tpx | 1 | 1 | 1 | Unknown |
-| 182 | Gmg Xp | 1 | 1 | 1 | Unknown |
-| 183 | Bu Km | 1 | 1 | 1 | Unknown |
-| 184 | Mg Qtq | 1 | 1 | 1 | Unknown |
-| 185 | Ww Ze | 1 | 1 | 1 | Unknown |
-| 186 | We Ps | 1 | 1 | 1 | Unknown |
-| 187 | Ln Ch | 1 | 1 | 1 | Unknown |
-| 188 | Ug Nb | 1 | 1 | 1 | Unknown |
-| 189 | Ld Mw | 1 | 1 | 1 | Unknown |
-| 190 | Lt Ai | 1 | 1 | 1 | Unknown |
-| 191 | Gcu Ws | 1 | 1 | 1 | Unknown |
-| 192 | Jz Ve | 1 | 1 | 1 | Unknown |
-| 193 | Hg Mj | 1 | 1 | 1 | Unknown |
-| 194 | Ypiu Gm | 1 | 1 | 1 | Unknown |
-| 195 | Qc Dk | 1 | 1 | 1 | Unknown |
-| 196 | Is Hg | 1 | 1 | 1 | Unknown |
-| 197 | We Ym | 1 | 1 | 1 | Unknown |
-| 198 | Hc Ln | 1 | 1 | 1 | Unknown |
-| 199 | Tu Gxm | 1 | 1 | 1 | Unknown |
-| 200 | Nu Vio | 1 | 1 | 1 | Unknown |
-| 201 | Mb Ocps | 1 | 1 | 1 | Unknown |
-| 202 | Um Zm | 1 | 1 | 1 | Unknown |
-| 203 |  | 1 | 1 | 1 | Unknown |
-| 204 | Bi Km | 1 | 1 | 1 | Unknown |
-| 205 | Ak Mu | 1 | 1 | 1 | Unknown |
-| 206 | Lk Qdy | 1 | 1 | 1 | Unknown |
-| 207 | Zt Wg | 1 | 1 | 1 | Unknown |
-| 208 | Ufj Ax | 1 | 1 | 1 | Unknown |
-| 209 | Fj Rk | 1 | 1 | 1 | Unknown |
-| 210 | Wg Si | 1 | 1 | 1 | Unknown |
-| 211 | Cg Ow | 1 | 1 | 1 | Unknown |
-| 212 | Esk Dl | 1 | 1 | 1 | Unknown |
-| 213 | Bw Hk | 1 | 1 | 1 | Unknown |
-| 214 | Dd Nz | 1 | 1 | 1 | Unknown |
-| 215 | Pu Pmj | 1 | 1 | 1 | Unknown |
-| 216 | Hj Qqyd | 1 | 1 | 1 | Unknown |
-| 217 | Po Iy | 1 | 1 | 1 | Unknown |
-| 218 | Pz Qk | 1 | 1 | 1 | Unknown |
-| 219 | Sn Qn | 1 | 1 | 1 | Unknown |
-| 220 |  | 1 | 1 | 1 | Unknown |
-| 221 | Zx Kimy | 1 | 1 | 1 | Unknown |
-| 222 | We Px | 1 | 1 | 1 | Unknown |
-| 223 | Ri Yi | 1 | 1 | 1 | Unknown |
-| 224 | Tm Fq | 1 | 1 | 1 | Unknown |
-| 225 | Gn Lc | 1 | 1 | 1 | Unknown |
-| 226 | Ebq Fh | 1 | 1 | 1 | Unknown |
-| 227 | Ub Mk | 1 | 1 | 1 | Unknown |
-| 228 | Nz En | 1 | 1 | 1 | Unknown |
-| 229 | Js Jd | 1 | 1 | 1 | Unknown |
-| 230 | Zgp Kui | 1 | 1 | 1 | Unknown |
-| 231 | Kz Gc | 1 | 1 | 1 | Unknown |
-| 232 | Mo Gk | 1 | 1 | 1 | Unknown |
-| 233 | Gc Gh | 1 | 1 | 1 | Unknown |
-| 234 | Eyv Fd | 1 | 1 | 1 | Unknown |
-| 235 | Hch Hc | 1 | 1 | 1 | Unknown |
-| 236 | Ja Ow | 1 | 1 | 1 | Unknown |
-| 237 | Qu Ef | 1 | 1 | 1 | Unknown |
-| 238 | Wf Sj | 1 | 1 | 1 | Unknown |
-| 239 | Yj Mb | 1 | 1 | 1 | Unknown |
-| 240 | Yf Fdy | 1 | 1 | 1 | Unknown |
-| 241 | Za Ixu | 1 | 1 | 1 | Unknown |
-| 242 | Sk Kj | 1 | 1 | 1 | Unknown |
-| 243 | Lw Uq | 1 | 1 | 1 | Unknown |
-| 244 | Sw Nci | 1 | 1 | 1 | Unknown |
-| 245 | Marcinkova Dep | 1 | 1 | 1 | Unknown |
-| 246 | Hr Ak | 1 | 1 | 1 | Unknown |
-| 247 | Ub Vn | 1 | 1 | 1 | Unknown |
-| 248 | Qz Assy | 1 | 1 | 1 | Unknown |
-| 249 | In Rx | 1 | 1 | 1 | Unknown |
-| 250 | Sa Ox | 1 | 1 | 1 | Unknown |
-| 251 | Md Lpu | 1 | 1 | 1 | Unknown |
-| 252 | Wl Ev | 1 | 1 | 1 | Unknown |
-| 253 | Sw Gj | 1 | 1 | 1 | Unknown |
-| 254 | Fs Zq | 1 | 1 | 1 | Unknown |
-| 255 | Ye Hn | 1 | 1 | 1 | Unknown |
-| 256 | Sko Sc | 1 | 1 | 1 | Unknown |
-| 257 | Gkg Kt | 1 | 1 | 1 | Unknown |
-| 258 | Bi Zn | 1 | 1 | 1 | Unknown |
-| 259 | Lw Cc | 1 | 1 | 1 | Unknown |
-| 260 |  | 1 | 1 | 1 | Unknown |
-| 261 | Gv Au | 1 | 1 | 1 | Unknown |
-| 262 | Zo Of | 1 | 1 | 1 | Unknown |
-| 263 | Fr Gv | 1 | 1 | 1 | Unknown |
-| 264 | Da Mr | 1 | 1 | 1 | Unknown |
-| 265 | Cv Hj | 1 | 1 | 1 | Unknown |
-| 266 |  | 1 | 1 | 1 | Unknown |
-| 267 | Fk Ex | 1 | 1 | 1 | Unknown |
-| 268 | Hq Uzm | 1 | 1 | 1 | Unknown |
-| 269 |  | 1 | 1 | 1 | Unknown |
-| 270 | Iu If | 1 | 1 | 1 | Unknown |
-| 271 | Wx Fdi | 1 | 1 | 1 | Unknown |
-| 272 | Wz Cyx | 1 | 1 | 1 | Unknown |
-| 273 | Dg Tw | 1 | 1 | 1 | Unknown |
-| 274 |  | 1 | 1 | 1 | Unknown |
-| 275 | Us Tj | 1 | 1 | 1 | Unknown |
-| 276 | Wzx Ylme | 1 | 1 | 1 | Unknown |
-| 277 | Lr Nv | 1 | 1 | 1 | Unknown |
-| 278 | Cuw Hl | 1 | 1 | 1 | Unknown |
-| 279 | Nh Xvg | 1 | 1 | 1 | Unknown |
-| 280 | Dq Ub | 1 | 1 | 1 | Unknown |
-| 281 | Qi Ep | 1 | 1 | 1 | Unknown |
-| 282 |  | 1 | 1 | 1 | Unknown |
-| 283 |  | 1 | 1 | 1 | Unknown |
-| 284 | Qp Tm | 1 | 1 | 1 | Unknown |
-| 285 | Alfredo Rodriguez Dep | 1 | 1 | 1 | Unknown |
-| 286 | Qj Va | 1 | 1 | 1 | Unknown |
-| 287 | Aen Ob | 1 | 1 | 1 | Unknown |
-| 288 | Er Sd | 1 | 1 | 1 | Unknown |
-| 289 | Sg Rl | 1 | 1 | 1 | Unknown |
-| 290 |  | 1 | 1 | 1 | Unknown |
-| 291 | Cf Wi | 1 | 1 | 1 | Unknown |
-| 292 | Bi Qy | 1 | 1 | 1 | Unknown |
-| 293 | By Ks | 1 | 1 | 1 | Unknown |
-| 294 |  | 1 | 1 | 1 | Unknown |
-| 295 | Nq Zi | 1 | 1 | 1 | Unknown |
-| 296 | Ns Pu | 1 | 1 | 1 | Unknown |
-| 297 | Ng By | 1 | 1 | 1 | Unknown |
-| 298 | Wt Ug | 1 | 1 | 1 | Unknown |
-| 299 | Bn Rr | 1 | 1 | 1 | Unknown |
-| 300 | Pj Wx | 1 | 1 | 1 | Unknown |
-
----
-
-## Detailed Profiles
-
-### 1. Liberation Sans
-
-#### Statistics
-- **Total Mentions**: 193
-- **Documents**: 193
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 43 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (192 times)
-- **Administrative Office** (192 times)
-- **Adobe Acrobat Pro** (180 times)
-- **Paper Capture Plug** (180 times)
-- **Times New Roman** (132 times)
-- **Ju Nd** (117 times)
-- **Nicole Simmons** (53 times)
-- **Microsoft Word** (40 times)
-- **Courier New** (35 times)
-- **Aspose Ltd** (27 times)
-
-#### Documents Mentioning Liberation Sans
-
-- ``1325-4.pdf``  
-- ``1325-17.pdf``  
-- ``1325-16.pdf``  
-- ``1325-5.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325.pdf``  
-- ``1325-15.pdf``  
-- ``1325-6.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-13.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-
-*... and 173 more documents*
-
----
-
-### 2. United States Courts
-
-#### Statistics
-- **Total Mentions**: 192
-- **Documents**: 192
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 43 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (192 times)
-- **Administrative Office** (192 times)
-- **Adobe Acrobat Pro** (180 times)
-- **Paper Capture Plug** (180 times)
-- **Times New Roman** (131 times)
-- **Ju Nd** (116 times)
-- **Nicole Simmons** (53 times)
-- **Microsoft Word** (40 times)
-- **Courier New** (35 times)
-- **Aspose Ltd** (27 times)
-
-#### Documents Mentioning United States Courts
-
-- ``1325-4.pdf``  
-- ``1325-17.pdf``  
-- ``1325-16.pdf``  
-- ``1325-5.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325.pdf``  
-- ``1325-15.pdf``  
-- ``1325-6.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-13.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-
-*... and 172 more documents*
-
----
-
-### 3. Administrative Office
-
-#### Statistics
-- **Total Mentions**: 192
-- **Documents**: 192
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 43 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (192 times)
-- **United States Courts** (192 times)
-- **Adobe Acrobat Pro** (180 times)
-- **Paper Capture Plug** (180 times)
-- **Times New Roman** (131 times)
-- **Ju Nd** (116 times)
-- **Nicole Simmons** (53 times)
-- **Microsoft Word** (40 times)
-- **Courier New** (35 times)
-- **Aspose Ltd** (27 times)
-
-#### Documents Mentioning Administrative Office
-
-- ``1325-4.pdf``  
-- ``1325-17.pdf``  
-- ``1325-16.pdf``  
-- ``1325-5.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325.pdf``  
-- ``1325-15.pdf``  
-- ``1325-6.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-13.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-
-*... and 172 more documents*
-
----
-
-### 4. Paper Capture Plug
-
-#### Statistics
-- **Total Mentions**: 180
-- **Documents**: 180
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 42 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (180 times)
-- **Liberation Sans** (180 times)
-- **Adobe Acrobat Pro** (180 times)
-- **Administrative Office** (180 times)
-- **Times New Roman** (120 times)
-- **Ju Nd** (109 times)
-- **Nicole Simmons** (48 times)
-- **Microsoft Word** (35 times)
-- **Courier New** (33 times)
-- **Aspose Ltd** (27 times)
-
-#### Documents Mentioning Paper Capture Plug
-
-- ``1325-4.pdf``  
-- ``1325-16.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325-15.pdf``  
-- ``1325-6.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-13.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.19.pdf``  
-- ``gov.uscourts.nysd.447706.1328.31.pdf``  
-
-*... and 160 more documents*
-
----
-
-### 5. Adobe Acrobat Pro
-
-#### Statistics
-- **Total Mentions**: 180
-- **Documents**: 180
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 42 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (180 times)
-- **Liberation Sans** (180 times)
-- **Paper Capture Plug** (180 times)
-- **Administrative Office** (180 times)
-- **Times New Roman** (120 times)
-- **Ju Nd** (109 times)
-- **Nicole Simmons** (48 times)
-- **Microsoft Word** (35 times)
-- **Courier New** (33 times)
-- **Aspose Ltd** (27 times)
-
-#### Documents Mentioning Adobe Acrobat Pro
-
-- ``1325-4.pdf``  
-- ``1325-16.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325-15.pdf``  
-- ``1325-6.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-13.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.19.pdf``  
-- ``gov.uscourts.nysd.447706.1328.31.pdf``  
-
-*... and 160 more documents*
-
----
-
-### 6. Times New Roman
-
-#### Statistics
-- **Total Mentions**: 132
-- **Documents**: 132
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 32 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (132 times)
-- **Administrative Office** (131 times)
-- **United States Courts** (131 times)
-- **Adobe Acrobat Pro** (120 times)
-- **Paper Capture Plug** (120 times)
-- **Ju Nd** (86 times)
-- **Nicole Simmons** (51 times)
-- **Courier New** (27 times)
-- **Microsoft Word** (25 times)
-- **Acrobat Distiller** (11 times)
-
-#### Documents Mentioning Times New Roman
-
-- ``1325-17.pdf``  
-- ``1325-16.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325.pdf``  
-- ``1325-15.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-8.pdf``  
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.25.pdf``  
-- ``1331-29.pdf``  
-- ``gov.uscourts.nysd.447706.1330.18_1.pdf``  
-
-*... and 112 more documents*
-
----
-
-### 7. Ju Nd
-
-#### Statistics
-- **Total Mentions**: 117
-- **Documents**: 117
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 29 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (117 times)
-- **United States Courts** (116 times)
-- **Administrative Office** (116 times)
-- **Paper Capture Plug** (109 times)
-- **Adobe Acrobat Pro** (109 times)
-- **Times New Roman** (86 times)
-- **Nicole Simmons** (37 times)
-- **Microsoft Word** (25 times)
-- **Courier New** (20 times)
-- **Aspose Ltd** (8 times)
-
-#### Documents Mentioning Ju Nd
-
-- ``1325-17.pdf``  
-- ``1325-5.pdf``  
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-- ``1325-15.pdf``  
-- ``1325-2.pdf``  
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1325-12.pdf``  
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1328.31.pdf``  
-- ``gov.uscourts.nysd.447706.1328.25.pdf``  
-- ``1331-15.pdf``  
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-- ``gov.uscourts.nysd.447706.1328.18.pdf``  
-- ``1331-16.pdf``  
-
-*... and 97 more documents*
-
----
-
-### 8. Nicole Simmons
-
-#### Statistics
-- **Total Mentions**: 53
-- **Documents**: 53
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 12 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (53 times)
-- **United States Courts** (53 times)
-- **Liberation Sans** (53 times)
-- **Times New Roman** (51 times)
-- **Adobe Acrobat Pro** (48 times)
-- **Paper Capture Plug** (48 times)
-- **Ju Nd** (37 times)
-- **Courier New** (8 times)
-- **Memo Style** (7 times)
-- **Microsoft Outlook** (7 times)
-
-#### Documents Mentioning Nicole Simmons
-
-- ``1325-17.pdf``  
-- ``1325-15.pdf``  
-- ``1325-2.pdf``  
-- ``1325-3.pdf``  
-- ``1325-1.pdf``  
-- ``1331-29.pdf``  
-- ``gov.uscourts.nysd.447706.1330.18_1.pdf``  
-- ``1331-28.pdf``  
-- ``gov.uscourts.nysd.447706.1328.37.pdf``  
-- ``gov.uscourts.nysd.447706.1327.18_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.36.pdf``  
-- ``gov.uscourts.nysd.447706.1328.20.pdf``  
-- ``gov.uscourts.nysd.447706.1330.21_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
-- ``gov.uscourts.nysd.447706.1330.19_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.14.pdf``  
-- ``gov.uscourts.nysd.447706.1328.40.pdf``  
-- ``gov.uscourts.nysd.447706.1327.26_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.20_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.22_1.pdf``  
-
-*... and 33 more documents*
-
----
-
-### 9. Microsoft Word
-
-#### Statistics
-- **Total Mentions**: 40
-- **Documents**: 40
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 9 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| rape | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (40 times)
-- **Administrative Office** (40 times)
-- **Liberation Sans** (40 times)
-- **Adobe Acrobat Pro** (35 times)
-- **Paper Capture Plug** (35 times)
-- **Ju Nd** (25 times)
-- **Times New Roman** (25 times)
-- **Courier New** (6 times)
-- **Nicole Simmons** (6 times)
-- **Extend Discovery** (5 times)
-
-#### Documents Mentioning Microsoft Word
-
-- ``1325.pdf``  
-- ``gov.uscourts.nysd.447706.1330.9.pdf``  
-- ``gov.uscourts.nysd.447706.1330.8.pdf``  
-- ``gov.uscourts.nysd.447706.1327.0.pdf``  
-- ``gov.uscourts.nysd.447706.1330.12.pdf``  
-- ``gov.uscourts.nysd.447706.1330.0.pdf``  
-- ``gov.uscourts.nysd.447706.1330.13.pdf``  
-- ``gov.uscourts.nysd.447706.1330.11_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.2.pdf``  
-- ``gov.uscourts.nysd.447706.1330.4_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.10.pdf``  
-- ``gov.uscourts.nysd.447706.1328.6_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.14.pdf``  
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
-- ``gov.uscourts.nysd.447706.1328.4_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.0.pdf``  
-- ``gov.uscourts.nysd.447706.1331.5.pdf``  
-- ``gov.uscourts.nysd.447706.1328.5_1.pdf``  
-- ``gov.uscourts.nysd.447706.1331.4.pdf``  
-- ``gov.uscourts.nysd.447706.1331.6.pdf``  
-
-*... and 20 more documents*
-
----
-
-### 10. Courier New
-
-#### Statistics
-- **Total Mentions**: 35
-- **Documents**: 35
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (35 times)
-- **United States Courts** (35 times)
-- **Administrative Office** (35 times)
-- **Paper Capture Plug** (33 times)
-- **Adobe Acrobat Pro** (33 times)
-- **Times New Roman** (27 times)
-- **Ju Nd** (20 times)
-- **Nicole Simmons** (8 times)
-- **Aspose Ltd** (7 times)
-- **Microsoft Word** (6 times)
-
-#### Documents Mentioning Courier New
-
-- ``1325-11.pdf``  
-- ``1325-10.pdf``  
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.25.pdf``  
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-- ``gov.uscourts.nysd.447706.1327.21_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.37.pdf``  
-- ``gov.uscourts.nysd.447706.1328.34.pdf``  
-- ``gov.uscourts.nysd.447706.1330.19_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.22.pdf``  
-- ``gov.uscourts.nysd.447706.1330.13.pdf``  
-- ``gov.uscourts.nysd.447706.1327.28_3.pdf``  
-- ``gov.uscourts.nysd.447706.1330.10.pdf``  
-- ``gov.uscourts.nysd.447706.1328.2_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.14.pdf``  
-- ``gov.uscourts.nysd.447706.1327.24.pdf``  
-- ``gov.uscourts.nysd.447706.1330.7.pdf``  
-- ``gov.uscourts.nysd.447706.1327.25.pdf``  
-- ``gov.uscourts.nysd.447706.1328.26_1.pdf``  
-
-*... and 15 more documents*
-
----
-
-### 11. Aspose Ltd
-
-#### Statistics
-- **Total Mentions**: 27
-- **Documents**: 27
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Paper Capture Plug** (27 times)
-- **Adobe Acrobat Pro** (27 times)
-- **United States Courts** (27 times)
-- **Administrative Office** (27 times)
-- **Liberation Sans** (27 times)
-- **Ju Nd** (8 times)
-- **Times New Roman** (7 times)
-- **Courier New** (7 times)
-- **Microsoft Word** (4 times)
-- **Qz Ci** (2 times)
-
-#### Documents Mentioning Aspose Ltd
-
-- ``1325-15.pdf``  
-- ``gov.uscourts.nysd.447706.1328.19.pdf``  
-- ``gov.uscourts.nysd.447706.1328.31.pdf``  
-- ``gov.uscourts.nysd.447706.1327.4_1.pdf``  
-- ``1331-14.pdf``  
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-- ``gov.uscourts.nysd.447706.1328.18.pdf``  
-- ``gov.uscourts.nysd.447706.1328.32.pdf``  
-- ``gov.uscourts.nysd.447706.1328.33.pdf``  
-- ``gov.uscourts.nysd.447706.1330.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.34.pdf``  
-- ``gov.uscourts.nysd.447706.1330.12.pdf``  
-- ``gov.uscourts.nysd.447706.1330.13.pdf``  
-- ``gov.uscourts.nysd.447706.1330.11_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.14.pdf``  
-- ``gov.uscourts.nysd.447706.1331.25.pdf``  
-- ``gov.uscourts.nysd.447706.1328.42_1.pdf``  
-- ``gov.uscourts.nysd.447706.1331.2.pdf``  
-- ``gov.uscourts.nysd.447706.1331.1.pdf``  
-
-*... and 7 more documents*
-
----
-
-### 12. Acrobat Distiller
-
-#### Statistics
-- **Total Mentions**: 12
-- **Documents**: 12
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (12 times)
-- **Administrative Office** (12 times)
-- **United States Courts** (12 times)
-- **Times New Roman** (11 times)
-- **Ju Nd** (7 times)
-- **Vu Eg** (5 times)
-- **Microsoft Word** (5 times)
-- **Nicole Simmons** (5 times)
-- **Courier New** (2 times)
-- **Ebq Fh** (1 times)
-
-#### Documents Mentioning Acrobat Distiller
-
-- ``1325-17.pdf``  
-- ``1325-5.pdf``  
-- ``1325.pdf``  
-- ``gov.uscourts.nysd.447706.1327.0.pdf``  
-- ``gov.uscourts.nysd.447706.1330.20_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.0.pdf``  
-- ``gov.uscourts.nysd.447706.1328.2_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.25.pdf``  
-- ``gov.uscourts.nysd.447706.1328.39.pdf``  
-- ``gov.uscourts.nysd.447706.1328.0.pdf``  
-- ``1320.pdf``  
-- ``1320-37.pdf``  
-
----
-
-### 13. Microsoft Outlook
-
-#### Statistics
-- **Total Mentions**: 7
-- **Documents**: 7
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 3 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Memo Style** (7 times)
-- **United States Courts** (7 times)
-- **Times New Roman** (7 times)
-- **Liberation Sans** (7 times)
-- **Adobe Acrobat Pro** (7 times)
-- **Nicole Simmons** (7 times)
-- **Administrative Office** (7 times)
-- **Paper Capture Plug** (7 times)
-- **Ju Nd** (2 times)
-- **Is Mde** (2 times)
-
-#### Documents Mentioning Microsoft Outlook
-
-- ``gov.uscourts.nysd.447706.1327.18_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.14.pdf``  
-- ``gov.uscourts.nysd.447706.1327.12.pdf``  
-- ``gov.uscourts.nysd.447706.1327.13.pdf``  
-- ``gov.uscourts.nysd.447706.1327.17_2.pdf``  
-- ``gov.uscourts.nysd.447706.1327.15_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.16_1.pdf``  
-
----
-
-### 14. Memo Style
-
-#### Statistics
-- **Total Mentions**: 7
-- **Documents**: 7
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 3 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Microsoft Outlook** (7 times)
-- **United States Courts** (7 times)
-- **Times New Roman** (7 times)
-- **Liberation Sans** (7 times)
-- **Adobe Acrobat Pro** (7 times)
-- **Nicole Simmons** (7 times)
-- **Administrative Office** (7 times)
-- **Paper Capture Plug** (7 times)
-- **Ju Nd** (2 times)
-- **Is Mde** (2 times)
-
-#### Documents Mentioning Memo Style
-
-- ``gov.uscourts.nysd.447706.1327.18_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.14.pdf``  
-- ``gov.uscourts.nysd.447706.1327.12.pdf``  
-- ``gov.uscourts.nysd.447706.1327.13.pdf``  
-- ``gov.uscourts.nysd.447706.1327.17_2.pdf``  
-- ``gov.uscourts.nysd.447706.1327.15_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.16_1.pdf``  
-
----
-
-### 15. Hb Kq
-
-#### Statistics
-- **Total Mentions**: 6
-- **Documents**: 6
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (6 times)
-- **Rs Dh** (6 times)
-- **Times New Roman** (6 times)
-- **Courier New** (6 times)
-- **Paper Capture Plug** (6 times)
-- **Adobe Acrobat Pro** (6 times)
-- **United States Courts** (6 times)
-- **Administrative Office** (6 times)
-- **Ju Nd** (5 times)
-- **Sjoberg Johanna** (3 times)
-
-#### Documents Mentioning Hb Kq
-
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.21_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.12.pdf``  
-- ``1320-26.pdf``  
-- ``1320-23.pdf``  
-
----
-
-### 16. Rs Dh
-
-#### Statistics
-- **Total Mentions**: 6
-- **Documents**: 6
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (6 times)
-- **Hb Kq** (6 times)
-- **Times New Roman** (6 times)
-- **Courier New** (6 times)
-- **Paper Capture Plug** (6 times)
-- **Adobe Acrobat Pro** (6 times)
-- **United States Courts** (6 times)
-- **Administrative Office** (6 times)
-- **Ju Nd** (5 times)
-- **Sjoberg Johanna** (3 times)
-
-#### Documents Mentioning Rs Dh
-
-- ``1325-9.pdf``  
-- ``gov.uscourts.nysd.447706.1327.23_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.21_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.12.pdf``  
-- ``1320-26.pdf``  
-- ``1320-23.pdf``  
-
----
-
-### 17. Extend Discovery
-
-#### Statistics
-- **Total Mentions**: 5
-- **Documents**: 5
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 3 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (5 times)
-- **Microsoft Word** (5 times)
-- **Liberation Sans** (5 times)
-- **Administrative Office** (5 times)
-- **Nicole Simmons** (5 times)
-- **Adobe Acrobat Pro** (5 times)
-- **Paper Capture Plug** (5 times)
-- **Ju Nd** (4 times)
-- **Times New Roman** (4 times)
-- **Pe Qa** (2 times)
-
-#### Documents Mentioning Extend Discovery
-
-- ``1320-32.pdf``  
-- ``1320-30.pdf``  
-- ``1320-31.pdf``  
-- ``1320-28.pdf``  
-- ``1320-29.pdf``  
-
----
-
-### 18. Vu Eg
-
-#### Statistics
-- **Total Mentions**: 5
-- **Documents**: 5
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Microsoft Word** (5 times)
-- **Liberation Sans** (5 times)
-- **Times New Roman** (5 times)
-- **Acrobat Distiller** (5 times)
-- **Administrative Office** (5 times)
-- **United States Courts** (5 times)
-- **Sv Ra** (1 times)
-- **Vn Lw** (1 times)
-
-#### Documents Mentioning Vu Eg
-
-- ``1325.pdf``  
-- ``gov.uscourts.nysd.447706.1327.0.pdf``  
-- ``gov.uscourts.nysd.447706.1330.0.pdf``  
-- ``gov.uscourts.nysd.447706.1328.0.pdf``  
-- ``1320.pdf``  
-
----
-
-### 19. Sv Ra
-
-#### Statistics
-- **Total Mentions**: 4
-- **Documents**: 4
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (4 times)
-- **United States Courts** (4 times)
-- **Liberation Sans** (4 times)
-- **Times New Roman** (4 times)
-- **Paper Capture Plug** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Microsoft Word** (2 times)
-- **Vz Fd** (1 times)
-- **Vu Eg** (1 times)
-- **Dc By** (1 times)
-
-#### Documents Mentioning Sv Ra
-
-- ``gov.uscourts.nysd.447706.1328.33.pdf``  
-- ``gov.uscourts.nysd.447706.1327.20_1.pdf``  
-- ``1320.pdf``  
-- ``1320-28.pdf``  
-
----
-
-### 20. Defts Motn
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (3 times)
-- **United States Courts** (3 times)
-- **Times New Roman** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Liberation Sans** (3 times)
-- **Microsoft Word** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Ju Nd** (2 times)
-- **Sw Gj** (1 times)
-- **Ck Fl** (1 times)
-
-#### Documents Mentioning Defts Motn
-
-- ``1320-33.pdf``  
-- ``1320-35.pdf``  
-- ``1320-34.pdf``  
-
----
-
-### 21. Fx Fa
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (3 times)
-- **Times New Roman** (3 times)
-- **Liberation Sans** (3 times)
-- **Nicole Simmons** (3 times)
-- **Administrative Office** (3 times)
-- **Nk Fg** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Wm Wuc** (2 times)
-- **Ju Nd** (2 times)
-
-#### Documents Mentioning Fx Fa
-
-- ``gov.uscourts.nysd.447706.1330.20_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.22_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.5_1.pdf``  
-
----
-
-### 22. Sjoberg Johanna
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Hb Kq** (3 times)
-- **Rs Dh** (3 times)
-- **Courier New** (3 times)
-- **Ju Nd** (3 times)
-- **Times New Roman** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Liberation Sans** (3 times)
-- **United States Courts** (3 times)
-- **Administrative Office** (3 times)
-
-#### Documents Mentioning Sjoberg Johanna
-
-- ``gov.uscourts.nysd.447706.1328.12.pdf``  
-- ``1320-26.pdf``  
-- ``1320-23.pdf``  
-
----
-
-### 23. Epstein Jeffrey
-
-**VIP - High Profile Individual**
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: VIP
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (3 times)
-- **Times New Roman** (3 times)
-- **Liberation Sans** (3 times)
-- **Administrative Office** (3 times)
-- **Nicole Simmons** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Ju Nd** (2 times)
-- **Cm Dx** (1 times)
-- **Qv Ae** (1 times)
-
-#### Documents Mentioning Epstein Jeffrey
-
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.7.pdf``  
-- ``gov.uscourts.nysd.447706.1330.5_1.pdf``  
-
----
-
-### 24. Qv Ae
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 3 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (3 times)
-- **Administrative Office** (3 times)
-- **Liberation Sans** (3 times)
-- **Times New Roman** (3 times)
-- **Ju Nd** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Nicole Simmons** (2 times)
-- **Ih Jq** (1 times)
-- **Ne Bf** (1 times)
-
-#### Documents Mentioning Qv Ae
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 25. Dw Ma
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Times New Roman** (3 times)
-- **United States Courts** (3 times)
-- **Liberation Sans** (3 times)
-- **Administrative Office** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Ju Nd** (2 times)
-- **Nicole Simmons** (2 times)
-- **Ap Gq** (1 times)
-- **Rh Qbo** (1 times)
-
-#### Documents Mentioning Dw Ma
-
-- ``gov.uscourts.nysd.447706.1328.36.pdf``  
-- ``gov.uscourts.nysd.447706.1327.5_1.pdf``  
-- ``1320-31.pdf``  
-
----
-
-### 26. Brenda Rodriguez
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (3 times)
-- **Microsoft Word** (3 times)
-- **Liberation Sans** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Administrative Office** (3 times)
-- **Times New Roman** (2 times)
-- **Oi Uh** (1 times)
-- **Ju Nd** (1 times)
-- **Vd Dd** (1 times)
-
-#### Documents Mentioning Brenda Rodriguez
-
-- ``gov.uscourts.nysd.447706.1330.9.pdf``  
-- ``gov.uscourts.nysd.447706.1330.8.pdf``  
-- ``gov.uscourts.nysd.447706.1330.10.pdf``  
-
----
-
-### 27. Ai Em
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (3 times)
-- **Liberation Sans** (3 times)
-- **Times New Roman** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Administrative Office** (3 times)
-- **If Jf** (1 times)
-- **Htu Kc** (1 times)
-- **Courier New** (1 times)
-- **Nicole Simmons** (1 times)
-
-#### Documents Mentioning Ai Em
-
-- ``1331-16.pdf``  
-- ``gov.uscourts.nysd.447706.1330.9.pdf``  
-- ``gov.uscourts.nysd.447706.1328.38.pdf``  
-
----
-
-### 28. Pe Qa
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 3 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (3 times)
-- **United States Courts** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Liberation Sans** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Extend Discovery** (2 times)
-- **Ju Nd** (2 times)
-- **Times New Roman** (2 times)
-- **Nicole Simmons** (2 times)
-- **Microsoft Word** (2 times)
-
-#### Documents Mentioning Pe Qa
-
-- ``gov.uscourts.nysd.447706.1328.15.pdf``  
-- ``1320-32.pdf``  
-- ``1320-31.pdf``  
-
----
-
-### 29. Discovery Requests
-
-#### Statistics
-- **Total Mentions**: 3
-- **Documents**: 3
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Times New Roman** (3 times)
-- **Paper Capture Plug** (3 times)
-- **Liberation Sans** (3 times)
-- **United States Courts** (3 times)
-- **Microsoft Word** (3 times)
-- **Administrative Office** (3 times)
-- **Adobe Acrobat Pro** (3 times)
-- **Ju Nd** (3 times)
-- **Second Set** (2 times)
-- **Kl Bd** (1 times)
-
-#### Documents Mentioning Discovery Requests
-
-- ``gov.uscourts.nysd.447706.1330.2.pdf``  
-- ``gov.uscourts.nysd.447706.1328.4_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.5_1.pdf``  
-
----
-
-### 30. Fx Va
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Times New Roman** (2 times)
-- **Ju Nd** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Liberation Sans** (2 times)
-- **Nicole Simmons** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Zp It** (1 times)
-- **Csd Fl** (1 times)
-
-#### Documents Mentioning Fx Va
-
-- ``gov.uscourts.nysd.447706.1330.21_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.22_1.pdf``  
-
----
-
-### 31. Vrx Mp
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Ju Nd** (2 times)
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Dl Mw** (1 times)
-- **Dl Yx** (1 times)
-- **Uc Dx** (1 times)
-
-#### Documents Mentioning Vrx Mp
-
-- ``1325-12.pdf``  
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-
----
-
-### 32. Lk Qd
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Ju Nd** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Administrative Office** (2 times)
-- **Pj Fx** (1 times)
-- **Is Ap** (1 times)
-- **Fu Xz** (1 times)
-- **Tz Yx** (1 times)
-
-#### Documents Mentioning Lk Qd
-
-- ``1331-15.pdf``  
-- ``1331-35.pdf``  
-
----
-
-### 33. Wm Wuc
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Times New Roman** (2 times)
-- **Nk Fg** (2 times)
-- **Fx Fa** (2 times)
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Nicole Simmons** (2 times)
-- **Administrative Office** (2 times)
-- **Nm Mh** (1 times)
-
-#### Documents Mentioning Wm Wuc
-
-- ``gov.uscourts.nysd.447706.1330.22_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.5_1.pdf``  
-
----
-
-### 34. Rm Wm Sm
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Aspose Ltd** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Courier New** (1 times)
-- **Mn Xl** (1 times)
-- **Oo Ot** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Rm Wm Sm
-
-- ``gov.uscourts.nysd.447706.1328.33.pdf``  
-- ``1331-26.pdf``  
-
----
-
-### 35. Tn Ww
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Ju Nd** (2 times)
-- **Times New Roman** (2 times)
-- **Courier New** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Administrative Office** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Ci Nm** (1 times)
-- **Bu Km** (1 times)
-
-#### Documents Mentioning Tn Ww
-
-- ``gov.uscourts.nysd.447706.1327.29_2.pdf``  
-- ``1320-12.pdf``  
-
----
-
-### 36. Ve Qa
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Ii Iq** (1 times)
-- **Gc Tc** (1 times)
-- **Np Ge** (1 times)
-- **Iv Gs** (1 times)
-- **Ybg Po** (1 times)
-
-#### Documents Mentioning Ve Qa
-
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
-
----
-
-### 37. Aq Rj
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Ju Nd** (2 times)
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Ly Ny** (1 times)
-- **Ds Cl** (1 times)
-- **Tj Wn** (1 times)
-
-#### Documents Mentioning Aq Rj
-
-- ``1325-12.pdf``  
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-
----
-
-### 38. Ransome Sarah
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Nicole Simmons** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Yk Yl** (1 times)
-- **Times New Roman** (1 times)
-- **Vrx Mv** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Ransome Sarah
-
-- ``1331-32.pdf``  
-- ``1331-31.pdf``  
-
----
-
-### 39. Dr Jl
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Courier New** (2 times)
-- **Ho Zh** (1 times)
-- **Acrobat Distiller** (1 times)
-- **Ng Cf** (1 times)
-- **Ba Ps** (1 times)
-- **Times New Roman** (1 times)
-- **So Be** (1 times)
-
-#### Documents Mentioning Dr Jl
-
-- ``gov.uscourts.nysd.447706.1328.34.pdf``  
-- ``gov.uscourts.nysd.447706.1327.25.pdf``  
-
----
-
-### 40. Uw Tlp
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Times New Roman** (2 times)
-- **Liberation Sans** (2 times)
-- **Nicole Simmons** (2 times)
-- **Ju Nd** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Rt Rd** (1 times)
-- **Ih Zc** (1 times)
-
-#### Documents Mentioning Uw Tlp
-
-- ``gov.uscourts.nysd.447706.1330.17_1.pdf``  
-- ``1320-40.pdf``  
-
----
-
-### 41. Oi Uh
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Paper Capture Plug** (2 times)
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Administrative Office** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Ju Nd** (1 times)
-- **Aspose Ltd** (1 times)
-- **Brenda Rodriguez** (1 times)
-- **Cm Tpx** (1 times)
-- **Microsoft Word** (1 times)
-
-#### Documents Mentioning Oi Uh
-
-- ``gov.uscourts.nysd.447706.1330.8.pdf``  
-- ``gov.uscourts.nysd.447706.1331.20.pdf``  
-
----
-
-### 42. Ab Zf
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **Liberation Sans** (2 times)
-- **Paper Capture Plug** (2 times)
-- **United States Courts** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Wm Wuc** (1 times)
-- **Nk Fg** (1 times)
-- **Fx Fa** (1 times)
-- **Nm Mh** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Ab Zf
-
-- ``gov.uscourts.nysd.447706.1328.6_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.5_1.pdf``  
-
----
-
-### 43. Ve Eq
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **La Cb** (1 times)
-- **Hg Ro** (1 times)
-- **Ep Pn** (1 times)
-- **Ve Qt** (1 times)
-- **Zp Cg** (1 times)
-
-#### Documents Mentioning Ve Eq
-
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
-- ``1320-13.pdf``  
-
----
-
-### 44. Vd Ofi
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Ju Nd** (2 times)
-- **United States Courts** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Kbw Nv** (1 times)
-
-#### Documents Mentioning Vd Ofi
-
-- ``1325-7.pdf``  
-- ``1325-14.pdf``  
-
----
-
-### 45. Is Mde
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Memo Style** (2 times)
-- **United States Courts** (2 times)
-- **Times New Roman** (2 times)
-- **Liberation Sans** (2 times)
-- **Administrative Office** (2 times)
-- **Nicole Simmons** (2 times)
-- **Microsoft Outlook** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Uin Pe** (1 times)
-
-#### Documents Mentioning Is Mde
-
-- ``gov.uscourts.nysd.447706.1327.14.pdf``  
-- ``gov.uscourts.nysd.447706.1327.15_1.pdf``  
-
----
-
-### 46. Nk Fg
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Times New Roman** (2 times)
-- **Wm Wuc** (2 times)
-- **Fx Fa** (2 times)
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Nicole Simmons** (2 times)
-- **Administrative Office** (2 times)
-- **Nm Mh** (1 times)
-
-#### Documents Mentioning Nk Fg
-
-- ``gov.uscourts.nysd.447706.1330.22_1.pdf``  
-- ``gov.uscourts.nysd.447706.1330.5_1.pdf``  
-
----
-
-### 47. Lo Rk
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Ua Ud** (1 times)
-- **Te Uy** (1 times)
-- **Fg Zl** (1 times)
-- **Lg Rn** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Lo Rk
-
-- ``gov.uscourts.nysd.447706.1327.4_1.pdf``  
-- ``gov.uscourts.nysd.447706.1327.7_2.pdf``  
-
----
-
-### 48. Qz Ci
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Aspose Ltd** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Cs Cs** (1 times)
-
-#### Documents Mentioning Qz Ci
-
-- ``gov.uscourts.nysd.447706.1328.32.pdf``  
-- ``gov.uscourts.nysd.447706.1328.29.pdf``  
-
----
-
-### 49. Windows User
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Ju Nd** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Yf Uws** (1 times)
-- **Uj Ui** (1 times)
-- **Ro Mt** (1 times)
-
-#### Documents Mentioning Windows User
-
-- ``1325-18.pdf``  
-- ``1325-19.pdf``  
-
----
-
-### 50. Depo Limit
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Microsoft Word** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Av Zo** (1 times)
-- **Defts Response** (1 times)
-
-#### Documents Mentioning Depo Limit
-
-- ``1320-20.pdf``  
-- ``1320-11.pdf``  
-
----
-
-### 51. Ss Ss
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Times New Roman** (2 times)
-- **Liberation Sans** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Pd Nv** (1 times)
-- **Rm Mj** (1 times)
-- **Ju Nd** (1 times)
-- **Gj Oy** (1 times)
-
-#### Documents Mentioning Ss Ss
-
-- ``gov.uscourts.nysd.447706.1328.8.pdf``  
-- ``1331-30.pdf``  
-
----
-
-### 52. Second Set
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **Discovery Requests** (2 times)
-- **Ju Nd** (2 times)
-- **Times New Roman** (2 times)
-- **Microsoft Word** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Hc Xq** (1 times)
-
-#### Documents Mentioning Second Set
-
-- ``gov.uscourts.nysd.447706.1328.4_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.5_1.pdf``  
-
----
-
-### 53. Fa Fa
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Administrative Office** (2 times)
-- **United States Courts** (2 times)
-- **Times New Roman** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Liberation Sans** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Eg Jw** (1 times)
-- **Fa Fa Fa** (1 times)
-- **Ar Lt** (1 times)
-- **Av Jo** (1 times)
-
-#### Documents Mentioning Fa Fa
-
-- ``gov.uscourts.nysd.447706.1328.18.pdf``  
-- ``gov.uscourts.nysd.447706.1327.6.pdf``  
-
----
-
-### 54. Ds Ds Fq
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Vu Vgi** (1 times)
-- **Qq Uu** (1 times)
-- **Nf Mt** (1 times)
-- **Mnfk Pe** (1 times)
-
-#### Documents Mentioning Ds Ds Fq
-
-- ``gov.uscourts.nysd.447706.1327.20_1.pdf``  
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 55. It Lj
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Courier New** (2 times)
-- **Liberation Sans** (2 times)
-- **Ju Nd** (2 times)
-- **Times New Roman** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Vrx Mp** (1 times)
-- **Wm Vx** (1 times)
-
-#### Documents Mentioning It Lj
-
-- ``1325-11.pdf``  
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-
----
-
-### 56. Av Jo
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Ju Nd** (2 times)
-- **United States Courts** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Administrative Office** (2 times)
-- **Eg Jw** (1 times)
-- **Fa Fa** (1 times)
-- **Ar Lt** (1 times)
-
-#### Documents Mentioning Av Jo
-
-- ``gov.uscourts.nysd.447706.1328.25.pdf``  
-- ``gov.uscourts.nysd.447706.1328.18.pdf``  
-
----
-
-### 57. Mf Bi
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Liberation Sans** (2 times)
-- **Times New Roman** (2 times)
-- **Administrative Office** (2 times)
-- **Nicole Simmons** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Viu Ut** (1 times)
-- **Xz Qrs** (1 times)
-- **Ao Ne** (1 times)
-
-#### Documents Mentioning Mf Bi
-
-- ``gov.uscourts.nysd.447706.1330.18_1.pdf``  
-- ``1331-28.pdf``  
-
----
-
-### 58. Jr Ed
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 2 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (2 times)
-- **Administrative Office** (2 times)
-- **Times New Roman** (2 times)
-- **Ju Nd** (2 times)
-- **Liberation Sans** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Ofm Yw** (1 times)
-- **Zl Zl** (1 times)
-- **Cq Fj** (1 times)
-
-#### Documents Mentioning Jr Ed
-
-- ``1325-12.pdf``  
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 59. Lo Uq
-
-#### Statistics
-- **Total Mentions**: 2
-- **Documents**: 2
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (2 times)
-- **United States Courts** (2 times)
-- **Paper Capture Plug** (2 times)
-- **Administrative Office** (2 times)
-- **Adobe Acrobat Pro** (2 times)
-- **Qt Jj** (1 times)
-- **Fg Kt** (1 times)
-- **Fc Jv** (1 times)
-- **Rwn Jm** (1 times)
-- **Zo Rs** (1 times)
-
-#### Documents Mentioning Lo Uq
-
-- ``1320-32.pdf``  
-- ``1320-36.pdf``  
-
----
-
-### 60. Vw El
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Sgc Zt** (1 times)
-- **Dl Ia** (1 times)
-- **El Pix** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Fs Zq** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Qh Ya** (1 times)
-
-#### Documents Mentioning Vw El
-
-- ``1331-12.pdf``  
-
----
-
-### 61. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1330.7.pdf``  
-
----
-
-### 62. Fw Wq
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Gc Gh** (1 times)
-- **As Im** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Au Ztm** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
-
-#### Documents Mentioning Fw Wq
-
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 63. Cq Ms
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Dy Zftx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Pa Pa** (1 times)
-- **Uw Zd** (1 times)
-- **Jye Tu** (1 times)
-
-#### Documents Mentioning Cq Ms
-
-- ``1320-32.pdf``  
-
----
-
-### 64. Wm Vb
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cf Gr** (1 times)
-- **Xw Sm** (1 times)
-- **Plg Bi** (1 times)
-- **Op Jd** (1 times)
-- **Dt Oy** (1 times)
-- **Az Qc** (1 times)
-- **Gmg Xp** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Wm Vb
-
-- ``gov.uscourts.nysd.447706.1328.44_2.pdf``  
-
----
-
-### 65. Exceed Presumptive Ten
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-- **Av Zo** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Defts Response** (1 times)
-- **Microsoft Word** (1 times)
-- **Zc Gd** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Exceed Presumptive Ten
-
-- ``1320-20.pdf``  
-
----
-
-### 66. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1325-1.pdf``  
-
----
-
-### 67. Dn Wy
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Uh Zq** (1 times)
-- **Px Cn** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Uu Oew** (1 times)
-- **Fb Fdbg** (1 times)
-- **Pp Zc** (1 times)
-- **Sc Cq** (1 times)
-- **Xc Ox** (1 times)
-- **Qn Un** (1 times)
-- **Tyu Tp** (1 times)
-
-#### Documents Mentioning Dn Wy
-
-- ``1320-7.pdf``  
-
----
-
-### 68. Tl Hd
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ph Vm** (1 times)
-- **Rhq Fhx** (1 times)
-- **Dr Bu** (1 times)
-- **Tk Tc** (1 times)
-- **Hq Ck** (1 times)
-- **Cr Ks** (1 times)
-- **Zj Wl** (1 times)
-- **Br Ln** (1 times)
-- **Vy Nt** (1 times)
-- **An Jr** (1 times)
-
-#### Documents Mentioning Tl Hd
-
-- ``1325-2.pdf``  
-
----
-
-### 69. Lxm Kl
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qk Ik** (1 times)
-- **Ye Ml** (1 times)
-- **Hp Zs** (1 times)
-- **Jw Pu** (1 times)
-- **Ie Ut** (1 times)
-- **Gg Ts** (1 times)
-- **Ax Sx** (1 times)
-- **Dg Jss** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Lxm Kl
-
-- ``1320-4.pdf``  
-
----
-
-### 70. Ck Fl
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Defts Motn** (1 times)
-- **Microsoft Word** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-
-#### Documents Mentioning Ck Fl
-
-- ``1320-34.pdf``  
-
----
-
-### 71. Qw Ru
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
-
-#### Documents Mentioning Qw Ru
-
-- ``1320-32.pdf``  
-
----
-
-### 72. Kn Pa
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Tgc Sq** (1 times)
-- **Wn Nv** (1 times)
-- **Kg Yb** (1 times)
-- **Yx Gp** (1 times)
-- **Ow Wx** (1 times)
-- **Ng By** (1 times)
-- **Ey Wk** (1 times)
-- **Cj Pt** (1 times)
-- **Qb Ji** (1 times)
-- **Pe Qa** (1 times)
-
-#### Documents Mentioning Kn Pa
-
-- ``gov.uscourts.nysd.447706.1328.15.pdf``  
-
----
-
-### 73. Oo Lx
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Jr Xz** (1 times)
-- **Ns Yk** (1 times)
-- **By Oe** (1 times)
-- **Yu Du** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Nx Vj** (1 times)
-- **Hy Fc** (1 times)
-- **Av Hb** (1 times)
-- **Xj Nu** (1 times)
-
-#### Documents Mentioning Oo Lx
-
-- ``gov.uscourts.nysd.447706.1327.9.pdf``  
-
----
-
-### 74. Wed Wf
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
-
-#### Documents Mentioning Wed Wf
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 75. Jw Ow
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ih Ka** (1 times)
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Id Hd** (1 times)
-- **Wn Ive** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
-- **Nqu Qmk** (1 times)
-
-#### Documents Mentioning Jw Ow
-
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
-
----
-
-### 76. Ep Gl
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Px No** (1 times)
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Wh Fg** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Sk Mz** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Liberation Sans** (1 times)
-
-#### Documents Mentioning Ep Gl
-
-- ``1320-30.pdf``  
-
----
-
-### 77. Plg Bi
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Az Qc** (1 times)
-- **Cf Gr** (1 times)
-- **Xw Sm** (1 times)
-- **Th Wj** (1 times)
-- **Op Jd** (1 times)
-- **Dt Oy** (1 times)
-- **Gmg Xp** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Plg Bi
-
-- ``gov.uscourts.nysd.447706.1328.44_2.pdf``  
-
----
-
-### 78. Tp Nm
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Px No** (1 times)
-- **Ts Vk** (1 times)
-- **Liberation Sans** (1 times)
-- **Wh Fg** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Su Ism** (1 times)
-- **Ko Yk** (1 times)
-
-#### Documents Mentioning Tp Nm
-
-- ``1320-30.pdf``  
-
----
-
-### 79. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1331-12.pdf``  
-
----
-
-### 80. Hs Lu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **Cu Hap** (1 times)
-- **Sn Ol** (1 times)
-- **Ia Gj** (1 times)
-- **Tgm Hq** (1 times)
-- **Uh Nd** (1 times)
-- **Gg Ig** (1 times)
-- **Hi Cd** (1 times)
-- **It Ht** (1 times)
-- **Qv Rg** (1 times)
-
-#### Documents Mentioning Hs Lu
-
-- ``gov.uscourts.nysd.447706.1327.11.pdf``  
-
----
-
-### 81. Gh Ef
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Liberation Sans** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Px No** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Su Ism** (1 times)
-- **Ko Yk** (1 times)
-
-#### Documents Mentioning Gh Ef
-
-- ``1320-30.pdf``  
-
----
-
-### 82. Ksu Is
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
-
-#### Documents Mentioning Ksu Is
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 83. Nb No
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Lw Cc** (1 times)
-- **Os Zp** (1 times)
-- **Ih Ic** (1 times)
-- **Fx To** (1 times)
-- **Hi Bf** (1 times)
-- **Ot Mg** (1 times)
-- **Lt Ai** (1 times)
-- **Wx Nc** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Nb No
-
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
-
----
-
-### 84. Tk Tc
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Dr Bu** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **An Jr** (1 times)
-
-#### Documents Mentioning Tk Tc
-
-- ``1325-2.pdf``  
-
----
-
-### 85. Uh Zq
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Px Cn** (1 times)
-- **Pp Zc** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Uu Oew** (1 times)
-- **Fb Fdbg** (1 times)
-- **Tyu Tp** (1 times)
-- **Xc Ox** (1 times)
-- **Dn Wy** (1 times)
-- **Sc Cq** (1 times)
-- **Il Hi** (1 times)
-
-#### Documents Mentioning Uh Zq
-
-- ``1320-7.pdf``  
-
----
-
-### 86. Cm Ha
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ezs Oy** (1 times)
-- **Pzi By** (1 times)
-- **Mz Xl** (1 times)
-- **Sg Rl** (1 times)
-- **Ru Px** (1 times)
-- **Dj Hs** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Whd Fs** (1 times)
-- **Fb Wi** (1 times)
-
-#### Documents Mentioning Cm Ha
-
-- ``1325-5.pdf``  
-
----
-
-### 87. Louella Rabuyo Transcript
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
-
-#### Documents Mentioning Louella Rabuyo Transcript
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 88. Tp Uq
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-
-#### Documents Mentioning Tp Uq
-
-- ``1331-15.pdf``  
-
----
-
-### 89. Iau If
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
-
-#### Documents Mentioning Iau If
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 90. Ig Rf
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Dw Pj** (1 times)
-- **Kj Rj** (1 times)
-- **Yy Wg** (1 times)
-- **Ih Jq** (1 times)
-- **He Xw** (1 times)
-- **Tq Fa** (1 times)
-- **Xu Im** (1 times)
-- **Qk Jq** (1 times)
-- **Vzt Gx** (1 times)
-- **Amo Gn** (1 times)
-
-#### Documents Mentioning Ig Rf
-
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-
----
-
-### 91. Ug Pg
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
-
-#### Documents Mentioning Ug Pg
-
-- ``1325-2.pdf``  
-
----
-
-### 92. Ay Bp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qn Gs** (1 times)
-- **Tz Se** (1 times)
-- **Uc Ts** (1 times)
-- **Lo Uq** (1 times)
-- **Liberation Sans** (1 times)
-- **Mo Kv** (1 times)
-- **Otf Fp** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-
-#### Documents Mentioning Ay Bp
-
-- ``1320-36.pdf``  
-
----
-
-### 93. Dr Bu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **An Jr** (1 times)
-
-#### Documents Mentioning Dr Bu
-
-- ``1325-2.pdf``  
-
----
-
-### 94. Ezs Oy
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Mz Xl** (1 times)
-- **Pzi By** (1 times)
-- **Cm Ha** (1 times)
-- **Sg Rl** (1 times)
-- **Ru Px** (1 times)
-- **Dj Hs** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Whd Fs** (1 times)
-- **Fb Wi** (1 times)
-
-#### Documents Mentioning Ezs Oy
-
-- ``1325-5.pdf``  
-
----
-
-### 95. Fdq Bu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cf Gr** (1 times)
-- **Xw Sm** (1 times)
-- **Plg Bi** (1 times)
-- **Op Jd** (1 times)
-- **Dt Oy** (1 times)
-- **Az Qc** (1 times)
-- **Gmg Xp** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Fdq Bu
-
-- ``gov.uscourts.nysd.447706.1328.44_2.pdf``  
-
----
-
-### 96. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1325-16.pdf``  
-
----
-
-### 97. Nf Mt
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Yk Yw** (1 times)
-- **Qq Uu** (1 times)
-
-#### Documents Mentioning Nf Mt
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 98. Jye Tu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
-
-#### Documents Mentioning Jye Tu
-
-- ``1320-32.pdf``  
-
----
-
-### 99. Jo Zh
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Qq Uu** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Vv Kn** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Yk Yw** (1 times)
-- **Nf Mt** (1 times)
-
-#### Documents Mentioning Jo Zh
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 100. Iky Um
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Fx Va** (1 times)
-- **Gkg Kt** (1 times)
-- **Dd Av** (1 times)
-- **Ly Ob** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-- **Dg Bx** (1 times)
-- **Liberation Sans** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Iky Um
-
-- ``gov.uscourts.nysd.447706.1330.21_1.pdf``  
-
----
-
-### 101. Nba Ez
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qk Ik** (1 times)
-- **Ye Ml** (1 times)
-- **Hp Zs** (1 times)
-- **Jw Pu** (1 times)
-- **Ie Ut** (1 times)
-- **Gg Ts** (1 times)
-- **Ax Sx** (1 times)
-- **Dg Jss** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Nba Ez
-
-- ``1320-4.pdf``  
-
----
-
-### 102. Dg Qtp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Zj Hh** (1 times)
-- **Qz Tc** (1 times)
-- **Ns Grw** (1 times)
-- **We Px** (1 times)
-- **Sj Sp** (1 times)
-- **Yg Fx** (1 times)
-- **Cs Zi** (1 times)
-- **Kef Pi** (1 times)
-- **Aj Uk** (1 times)
-- **Zz Se** (1 times)
-
-#### Documents Mentioning Dg Qtp
-
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
-
----
-
-### 103. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1320-17.pdf``  
-
----
-
-### 104. Rg Zn
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Kf Nye** (1 times)
-- **Ve Vs** (1 times)
-- **Je Sl** (1 times)
-- **Mf Li** (1 times)
-- **Wyw Od** (1 times)
-- **Cy Ot** (1 times)
-- **Gv Au** (1 times)
-- **Pa Zl** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Rg Zn
-
-- ``gov.uscourts.nysd.447706.1328.10.pdf``  
-
----
-
-### 105. Fx Qu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ph Vm** (1 times)
-- **Rhq Fhx** (1 times)
-- **Dr Bu** (1 times)
-- **Tk Tc** (1 times)
-- **Hq Ck** (1 times)
-- **Cr Ks** (1 times)
-- **Zj Wl** (1 times)
-- **Br Ln** (1 times)
-- **Vy Nt** (1 times)
-- **An Jr** (1 times)
-
-#### Documents Mentioning Fx Qu
-
-- ``1325-2.pdf``  
-
----
-
-### 106. Rj Tb
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Uh Zq** (1 times)
-- **Px Cn** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Uu Oew** (1 times)
-- **Fb Fdbg** (1 times)
-- **Pp Zc** (1 times)
-- **Sc Cq** (1 times)
-- **Xc Ox** (1 times)
-- **Qn Un** (1 times)
-- **Tyu Tp** (1 times)
-
-#### Documents Mentioning Rj Tb
-
-- ``1320-7.pdf``  
-
----
-
-### 107. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1330.0.pdf``  
-
----
-
-### 108. Nk Im
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Jw Ow** (1 times)
-- **Ih Ka** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Id Hd** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
-- **Nqu Qmk** (1 times)
-
-#### Documents Mentioning Nk Im
-
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
-
----
-
-### 109. Db Ru
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Tgc Sq** (1 times)
-- **Wn Nv** (1 times)
-- **Kg Yb** (1 times)
-- **Yx Gp** (1 times)
-- **Ow Wx** (1 times)
-- **Ng By** (1 times)
-- **Ey Wk** (1 times)
-- **Cj Pt** (1 times)
-- **Qb Ji** (1 times)
-- **Kn Pa** (1 times)
-
-#### Documents Mentioning Db Ru
-
-- ``gov.uscourts.nysd.447706.1328.15.pdf``  
-
----
-
-### 110. Al Al Al
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **Motion Alternative Service** (1 times)
-- **Al Ad Ad** (1 times)
-- **Ju Nd** (1 times)
-- **Microsoft Word** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Al Al Al
-
-- ``1320-8.pdf``  
-
----
-
-### 111. Iw Rlh
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Zj Hh** (1 times)
-- **Qz Tc** (1 times)
-- **Ns Grw** (1 times)
-- **We Px** (1 times)
-- **Sj Sp** (1 times)
-- **Yg Fx** (1 times)
-- **Cs Zi** (1 times)
-- **Kef Pi** (1 times)
-- **Aj Uk** (1 times)
-- **Zz Se** (1 times)
-
-#### Documents Mentioning Iw Rlh
-
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
-
----
-
-### 112. Ax Dd
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Liberation Sans** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Px No** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Su Ism** (1 times)
-- **Ko Yk** (1 times)
-
-#### Documents Mentioning Ax Dd
-
-- ``1320-30.pdf``  
-
----
-
-### 113. Hf Ub
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Oy Pk** (1 times)
-- **Ok Ns** (1 times)
-- **Pc Er** (1 times)
-- **Yu Qj** (1 times)
-- **Ry Nf** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-- **On Ta** (1 times)
-- **Gs Kl** (1 times)
-- **Tc Wp** (1 times)
-
-#### Documents Mentioning Hf Ub
-
-- ``gov.uscourts.nysd.447706.1257.12_1.pdf``  
-
----
-
-### 114. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1331.22.pdf``  
-
----
-
-### 115. Ek Mp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
-
-#### Documents Mentioning Ek Mp
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 116. Vy Nt
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ph Vm** (1 times)
-- **Rhq Fhx** (1 times)
-- **Dr Bu** (1 times)
-- **Tk Tc** (1 times)
-- **Hq Ck** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Br Ln** (1 times)
-- **Cr Ks** (1 times)
-- **An Jr** (1 times)
-
-#### Documents Mentioning Vy Nt
-
-- ``1325-2.pdf``  
-
----
-
-### 117. Gs Gom
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
-
-#### Documents Mentioning Gs Gom
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 118. Dg Jss
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Jw Pu** (1 times)
-- **Qk Ik** (1 times)
-- **Ye Ml** (1 times)
-- **Ax Sx** (1 times)
-- **Mb Wi** (1 times)
-- **Ie Ut** (1 times)
-- **Gg Ts** (1 times)
-- **Fx Cv** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Dg Jss
-
-- ``1320-4.pdf``  
-
----
-
-### 119. Os Zp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Lw Cc** (1 times)
-- **Ih Ic** (1 times)
-- **Wx Nc** (1 times)
-- **Fx To** (1 times)
-- **Hi Bf** (1 times)
-- **Ot Mg** (1 times)
-- **Lt Ai** (1 times)
-- **Qm Oz** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Os Zp
-
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
-
----
-
-### 120. Hq Pd
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Df Iw** (1 times)
-- **Zs Ytx** (1 times)
-- **Wt Bn** (1 times)
-- **Tk Mg** (1 times)
-- **Nh Xvg** (1 times)
-- **Vf Jd** (1 times)
-- **Iz Ap** (1 times)
-- **Yi Ekg** (1 times)
-- **Za Bu** (1 times)
-- **Qc Dk** (1 times)
-
-#### Documents Mentioning Hq Pd
-
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
-
----
-
-### 121. Gj Ar
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Courier New** (1 times)
-- **Wm Vx** (1 times)
-- **Vrx Mp** (1 times)
-- **Ui Wxr** (1 times)
-- **Liberation Sans** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Aspose Ltd** (1 times)
-- **It Lj** (1 times)
-
-#### Documents Mentioning Gj Ar
-
-- ``gov.uscourts.nysd.447706.1328.30.pdf``  
-
----
-
-### 122. He Xw
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Kj Rj** (1 times)
-- **Vzt Gx** (1 times)
-- **Dw Pj** (1 times)
-- **Ih Jq** (1 times)
-- **Yy Wg** (1 times)
-- **Xu Im** (1 times)
-- **Aq Rj** (1 times)
-- **Tq Fa** (1 times)
-- **Amo Gn** (1 times)
-- **Qk Jq** (1 times)
-
-#### Documents Mentioning He Xw
-
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-
----
-
-### 123. Qq Uu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Yk Yw** (1 times)
-- **Nf Mt** (1 times)
-
-#### Documents Mentioning Qq Uu
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 124. Hy Fc
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Oo Lx** (1 times)
-- **Jr Xz** (1 times)
-- **Ns Yk** (1 times)
-- **Yu Du** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Nx Vj** (1 times)
-- **By Oe** (1 times)
-- **Av Hb** (1 times)
-- **Xj Nu** (1 times)
-
-#### Documents Mentioning Hy Fc
-
-- ``gov.uscourts.nysd.447706.1327.9.pdf``  
-
----
-
-### 125. Vw Pb
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Administrative Office** (1 times)
-- **Aspose Ltd** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Vw Pb
-
-- ``gov.uscourts.nysd.447706.1330.23_1.pdf``  
-
----
-
-### 126. Cok Msup
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Ij Ps** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-
-#### Documents Mentioning Cok Msup
-
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 127. Vj Db
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Fr Gv** (1 times)
-- **Qq Ft** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Wg Uy** (1 times)
-- **Sq Lh** (1 times)
-- **Ed Uxd** (1 times)
-- **Eh Am** (1 times)
-
-#### Documents Mentioning Vj Db
-
-- ``1320-13.pdf``  
-
----
-
-### 128. Gj Gn
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ku Gt** (1 times)
-- **Pj Qn** (1 times)
-- **Ofw Bh** (1 times)
-- **Yf Wx** (1 times)
-- **Dc Yo** (1 times)
-- **Sr Ku** (1 times)
-- **Sn Kg** (1 times)
-- **Au Ne** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Gj Gn
-
-- ``1320-2.pdf``  
-
----
-
-### 129. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1320-35.pdf``  
-
----
-
-### 130. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1328.2_1.pdf``  
-
----
-
-### 131. Ec Nm
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Lfc Uo** (1 times)
-- **Nd Na** (1 times)
-- **Iw Vs** (1 times)
-- **Wm Tr** (1 times)
-- **Rl Gl** (1 times)
-- **Liberation Sans** (1 times)
-- **Ok Zc** (1 times)
-- **Jx Tk** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Ec Nm
-
-- ``gov.uscourts.nysd.447706.1327.2.pdf``  
-
----
-
-### 132. As Im
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Gc Gh** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
-
-#### Documents Mentioning As Im
-
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 133. Au Ntv
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Eqm Ojh** (1 times)
-- **Hch Hc** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Aspose Ltd** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Au Ntv
-
-- ``1331-19.pdf``  
-
----
-
-### 134. Pv Dh
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
-
-#### Documents Mentioning Pv Dh
-
-- ``1325-2.pdf``  
-
----
-
-### 135. Jt Id
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Xu Kw** (1 times)
-- **Wu Wd** (1 times)
-- **Vym Gwo** (1 times)
-- **An Gl** (1 times)
-- **Pkz Lv** (1 times)
-- **Pn Uu** (1 times)
-- **Aq Xmg** (1 times)
-- **Bg Tx** (1 times)
-- **Uq Qz** (1 times)
-- **Fw Bw** (1 times)
-
-#### Documents Mentioning Jt Id
-
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
-
----
-
-### 136. Ls Il
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rh Qbo** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Gt Dw** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Ap Gq** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
-
-#### Documents Mentioning Ls Il
-
-- ``1320-31.pdf``  
-
----
-
-### 137. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1325-2.pdf``  
-
----
-
-### 138. Rusk Fr
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Dw Pj** (1 times)
-- **Kj Rj** (1 times)
-- **Yy Wg** (1 times)
-- **Ih Jq** (1 times)
-- **He Xw** (1 times)
-- **Tq Fa** (1 times)
-- **Xu Im** (1 times)
-- **Qk Jq** (1 times)
-- **Vzt Gx** (1 times)
-- **Amo Gn** (1 times)
-
-#### Documents Mentioning Rusk Fr
-
-- ``gov.uscourts.nysd.447706.1330.6_1.pdf``  
-
----
-
-### 139. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1328.27_1.pdf``  
-
----
-
-### 140. Rh Qbo
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Gt Dw** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Ap Gq** (1 times)
-- **Kz Gc** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
-
-#### Documents Mentioning Rh Qbo
-
-- ``1320-31.pdf``  
-
----
-
-### 141. Eq Gibj
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qq Vk** (1 times)
-- **Qj Va** (1 times)
-- **Sr Os** (1 times)
-- **Liberation Sans** (1 times)
-- **Tm Fq** (1 times)
-- **Xz Rp** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Administrative Office** (1 times)
-- **Tt Yd** (1 times)
-
-#### Documents Mentioning Eq Gibj
-
-- ``1320-3.pdf``  
-
----
-
-### 142. Iw Mg
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
-
-#### Documents Mentioning Iw Mg
-
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
-
----
-
-### 143. Os Pt
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Px Cn** (1 times)
-- **Pp Zc** (1 times)
-- **Uh Zq** (1 times)
-- **Fb Fdbg** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Tyu Tp** (1 times)
-- **Xc Ox** (1 times)
-- **Dn Wy** (1 times)
-- **Sc Cq** (1 times)
-- **Il Hi** (1 times)
-
-#### Documents Mentioning Os Pt
-
-- ``1320-7.pdf``  
-
----
-
-### 144. Wc Oo
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **We Lmi** (1 times)
-- **Bi Km** (1 times)
-- **Jr Xs** (1 times)
-- **Wed Wf** (1 times)
-- **Ct Ri** (1 times)
-- **Ow Mj** (1 times)
-- **Lk Wr** (1 times)
-- **Ww Ze** (1 times)
-- **In Rx** (1 times)
-- **Zj Ms** (1 times)
-
-#### Documents Mentioning Wc Oo
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 145. Kyco Kk
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Ij Ps** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-
-#### Documents Mentioning Kyco Kk
-
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 146. Gt Dw
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rh Qbo** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Ap Gq** (1 times)
-- **Kz Gc** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
-
-#### Documents Mentioning Gt Dw
-
-- ``1320-31.pdf``  
-
----
-
-### 147. Zp Cg
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qq Ft** (1 times)
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Wg Uy** (1 times)
-- **Sw Bw** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Fr Gv** (1 times)
-- **No Fq** (1 times)
-- **Ed Uxd** (1 times)
-
-#### Documents Mentioning Zp Cg
-
-- ``1320-13.pdf``  
-
----
-
-### 148. Pn To
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-
-#### Documents Mentioning Pn To
-
-- ``1331-15.pdf``  
-
----
-
-### 149. Lw Xn
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **Attorney Client** (1 times)
-- **Times New Roman** (1 times)
-- **Xb Rs** (1 times)
-- **Ju Nd** (1 times)
-- **Microsoft Word** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Yx Jq** (1 times)
-- **Paper Capture Plug** (1 times)
-- **United States Courts** (1 times)
-
-#### Documents Mentioning Lw Xn
-
-- ``1320-18.pdf``  
-
----
-
-### 150. Za Bu
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Wt Bn** (1 times)
-- **Df Iw** (1 times)
-- **Nh Xvg** (1 times)
-- **Hx Mw** (1 times)
-- **Tk Mg** (1 times)
-- **Vf Jd** (1 times)
-- **Iz Ap** (1 times)
-- **Yi Ekg** (1 times)
-- **Zs Ytx** (1 times)
-- **Qc Dk** (1 times)
-
-#### Documents Mentioning Za Bu
-
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
-
----
-
-### 151. Qe Bp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
-
-#### Documents Mentioning Qe Bp
-
-- ``1320-32.pdf``  
-
----
-
-### 152. Bn Rq
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Jw Ow** (1 times)
-- **Ih Ka** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Id Hd** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
-- **Nqu Qmk** (1 times)
-
-#### Documents Mentioning Bn Rq
-
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
-
----
-
-### 153. Xc Ec
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Jm Tm** (1 times)
-- **Ec Efc** (1 times)
-- **Ei Dl** (1 times)
-- **Dl Mw** (1 times)
-- **Dll Dll** (1 times)
-- **Lc Ns** (1 times)
-- **Lo Lo** (1 times)
-- **Lnl Lnl** (1 times)
-- **Yu Lz** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Xc Ec
-
-- ``1325-12.pdf``  
-
----
-
-### 154. He Ab
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
-
-#### Documents Mentioning He Ab
-
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
-
----
-
-### 155. Ey Mv
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rh Qbo** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Gt Dw** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Ap Gq** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
-
-#### Documents Mentioning Ey Mv
-
-- ``1320-31.pdf``  
-
----
-
-### 156. Cu Jb
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
-
-#### Documents Mentioning Cu Jb
-
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
-
----
-
-### 157. Qn Mwn
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **United States Courts** (1 times)
-- **La Qu** (1 times)
-- **Liberation Sans** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Qn Mwn
-
-- ``1320-1.pdf``  
-
----
-
-### 158. Tb Yt
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Xj Ig** (1 times)
-- **Ju Nd** (1 times)
-- **Rh Vh** (1 times)
-- **Ym Jh** (1 times)
-- **Sr Nk** (1 times)
-- **Times New Roman** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Administrative Office** (1 times)
-- **Liberation Sans** (1 times)
-
-#### Documents Mentioning Tb Yt
-
-- ``gov.uscourts.nysd.447706.1328.23.pdf``  
-
----
-
-### 159. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1325-10.pdf``  
-
----
-
-### 160. Ey Js
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ug Qt** (1 times)
-- **Zpe Fy** (1 times)
-- **Tg Fi** (1 times)
-- **No Zt** (1 times)
-- **Nx Rt** (1 times)
-- **Ux Fc** (1 times)
-- **Km Wp** (1 times)
-- **Xu Jq** (1 times)
-- **Tc Ij** (1 times)
-- **Ex Lj** (1 times)
-
-#### Documents Mentioning Ey Js
-
-- ``gov.uscourts.nysd.447706.1328.42_1.pdf``  
-
----
-
-### 161. Kq Gy
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
-
-#### Documents Mentioning Kq Gy
-
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
-
----
-
-### 162. Ma Cm
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Gc Gh** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
-
-#### Documents Mentioning Ma Cm
-
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
-
----
-
-### 163. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1327.19_1.pdf``  
-
----
-
-### 164. Vg Qz
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Te Gk** (1 times)
-- **Wg Si** (1 times)
-- **Liberation Sans** (1 times)
-- **Qz Eu** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Vg Qz
-
-- ``gov.uscourts.nysd.447706.1327.8_1.pdf``  
-
----
-
-### 165. Mq Vaj
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Memo Style** (1 times)
-- **Microsoft Outlook** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **United States Courts** (1 times)
-- **Nicole Simmons** (1 times)
-- **Gx Js** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Mq Vaj
-
-- ``gov.uscourts.nysd.447706.1327.12.pdf``  
-
----
-
-### 166. Rte Wb
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Jy Rv** (1 times)
-- **Kg Qk** (1 times)
-- **Uj Ui** (1 times)
-- **Yf Uws** (1 times)
-- **Ju Et** (1 times)
-- **Olr Py** (1 times)
-- **Cyc Wt** (1 times)
-- **Ck Ft** (1 times)
-- **Ro Mt** (1 times)
-- **Liberation Sans** (1 times)
-
-#### Documents Mentioning Rte Wb
-
-- ``1325-18.pdf``  
-
----
-
-### 167. Ib Hs
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
-
-#### Documents Mentioning Ib Hs
-
-- ``1325-2.pdf``  
-
----
-
-### 168. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1325-12.pdf``  
-
----
-
-### 169. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._1320-18.pdf``  
-
----
-
-### 170. Oo Ot
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Sv Ra** (1 times)
-- **Rm Wm Sm** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Aspose Ltd** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Oo Ot
-
-- ``gov.uscourts.nysd.447706.1328.33.pdf``  
-
----
-
-### 171. Zgu Jk
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Os Zp** (1 times)
-- **Ih Ic** (1 times)
-- **Wx Nc** (1 times)
-- **Lw Cc** (1 times)
-- **Ot Mg** (1 times)
-- **Lt Ai** (1 times)
-- **Fx To** (1 times)
-- **Qm Oz** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-
-#### Documents Mentioning Zgu Jk
-
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
-
----
-
-### 172. Ix Me
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Uh Zq** (1 times)
-- **Px Cn** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Uu Oew** (1 times)
-- **Fb Fdbg** (1 times)
-- **Pp Zc** (1 times)
-- **Sc Cq** (1 times)
-- **Xc Ox** (1 times)
-- **Qn Un** (1 times)
-- **Tyu Tp** (1 times)
-
-#### Documents Mentioning Ix Me
-
-- ``1320-7.pdf``  
-
----
-
-### 173. Yz Uc
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Hpr Nd** (1 times)
-- **Ez Ihp** (1 times)
-- **Jg Iv** (1 times)
-- **Hp Fbn** (1 times)
-- **Uiy Sc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-- **Tq Pi** (1 times)
-
-#### Documents Mentioning Yz Uc
-
-- ``1331-15.pdf``  
-
----
-
-### 174. 
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Documents Mentioning 
-
-- ``._gov.uscourts.nysd.447706.1328.37.pdf``  
-
----
-
-### 175. Qs Ct
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Xu Kw** (1 times)
-- **Wu Wd** (1 times)
-- **Vym Gwo** (1 times)
-- **An Gl** (1 times)
-- **Pkz Lv** (1 times)
-- **Pn Uu** (1 times)
-- **Aq Xmg** (1 times)
-- **Bg Tx** (1 times)
-- **Uq Qz** (1 times)
-- **Fw Bw** (1 times)
-
-#### Documents Mentioning Qs Ct
-
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
-
----
-
-### 176. Gx Js
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **Memo Style** (1 times)
-- **Times New Roman** (1 times)
-- **Mq Vaj** (1 times)
-- **Ju Nd** (1 times)
-- **Microsoft Outlook** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Paper Capture Plug** (1 times)
-- **United States Courts** (1 times)
-
-#### Documents Mentioning Gx Js
-
-- ``gov.uscourts.nysd.447706.1327.12.pdf``  
-
----
-
-### 177. Gy Lv
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Btu Lj** (1 times)
-- **Qs Kt** (1 times)
-- **Vwz Ex** (1 times)
-- **Liberation Sans** (1 times)
-- **Jc Unu** (1 times)
-- **Eyv Fd** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Zt Wg** (1 times)
-
-#### Documents Mentioning Gy Lv
-
-- ``1331-11.pdf``  
-
----
-
-### 178. Qz Su
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Courier New** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Qz Su
-
-- ``1325-10.pdf``  
-
----
-
-### 179. Il Te
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Sw Nci** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Sb Kz** (1 times)
-- **Utg Fvl** (1 times)
-- **Sm Mv** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Liberation Sans** (1 times)
-
-#### Documents Mentioning Il Te
-
-- ``1325-1.pdf``  
-
----
-
-### 180. In Bbx
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Liberation Sans** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Px No** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Su Ism** (1 times)
-- **Ko Yk** (1 times)
-
-#### Documents Mentioning In Bbx
-
-- ``1320-30.pdf``  
-
----
-
-### 181. Cm Tpx
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Liberation Sans** (1 times)
-- **Microsoft Word** (1 times)
-- **Oi Uh** (1 times)
-- **Ju Nd** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Brenda Rodriguez** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-
-#### Documents Mentioning Cm Tpx
-
-- ``gov.uscourts.nysd.447706.1330.8.pdf``  
-
----
-
-### 182. Gmg Xp
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Az Qc** (1 times)
-- **Cf Gr** (1 times)
-- **Xw Sm** (1 times)
-- **Th Wj** (1 times)
-- **Op Jd** (1 times)
-- **Dt Oy** (1 times)
-- **Plg Bi** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-
-#### Documents Mentioning Gmg Xp
-
-- ``gov.uscourts.nysd.447706.1328.44_2.pdf``  
-
----
-
-### 183. Bu Km
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Courier New** (1 times)
-- **Liberation Sans** (1 times)
-- **United States Courts** (1 times)
-- **Ci Nm** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Microsoft Word** (1 times)
-- **Tn Ww** (1 times)
-- **Yu Ub** (1 times)
-- **Administrative Office** (1 times)
-
-#### Documents Mentioning Bu Km
-
-- ``1320-12.pdf``  
-
----
-
-### 184. Mg Qtq
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
-
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-
-#### Documents Mentioning Mg Qtq
-
-- ``1331-15.pdf``  
-
----
-
-### 185. Ww Ze
-
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
-
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
-
-- **We Lmi** (1 times)
-- **Bi Km** (1 times)
-- **Jr Xs** (1 times)
-- **Wed Wf** (1 times)
-- **Ct Ri** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **In Rx** (1 times)
-- **Zj Ms** (1 times)
-
-#### Documents Mentioning Ww Ze
+# Top 300 People - Complete Analysis
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+**Generated**: 2025-11-17 10:23:54  
+**Total People Analyzed**: 1,492  
+**Top 300 Represent**: 5,055 mentions
 
 ---
 
-### 186. We Ps
+## Summary Statistics
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+- **Total Mentions (Top 300)**: 5,055
+- **Average Mentions**: 16.9
+- **Documents Covered**: 187
 
-#### Associated with Illegal/Sensitive Terms
-
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
 
-#### Most Frequently Mentioned With
+## Top 300 People
 
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
+### 1. Ghislaine Maxwell
 
-#### Documents Mentioning We Ps
+**Statistics**:
+- Total Mentions: 313
+- Documents: 77
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 238 co-occurrences
+  - Top terms: sex(42), sexual(34), massage(27)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
+**Sample Context**:
+> She wrote that she was introduced to Epstein at the mansion by heiress Ghislaine Maxwell, the daughter of the...
 
 ---
-
-### 187. Ln Ch
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 2. Jane Doe
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 237
+- Documents: 19
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 66 co-occurrences
+  - Top terms: massage(11), sex(11), sexual(9)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> 2 about Jane Doe 2 when you met her?...
 
-#### Most Frequently Mentioned With
+---
 
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
+### 3. Jeffrey Epstein
 
-#### Documents Mentioning Ln Ch
+**Statistics**:
+- Total Mentions: 203
+- Documents: 32
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 97 co-occurrences
+  - Top terms: sex(19), sexual(17), massage(15)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
+**Sample Context**:
+> as a "sex slave" for wealthy financier -- and convicted sex offender -- Jeffrey Epstein....
 
 ---
 
-### 188. Ug Nb
+### 4. This Request
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 173
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(4), sexual(2), trafficking(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 2. This Request calls for the production of all responsive Documents in your possession,...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Px No** (1 times)
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Wh Fg** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Sk Mz** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Liberation Sans** (1 times)
+### 5. Local Rule
 
-#### Documents Mentioning Ug Nb
+**Statistics**:
+- Total Mentions: 107
+- Documents: 8
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 83 co-occurrences
+  - Top terms: sex(8), sexual(8), minor(7)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-30.pdf``  
+**Sample Context**:
+> Defendant’s motion violates Local Rule 37.1, and should be denied for that reason before...
 
 ---
 
-### 189. Ld Mw
+### 6. Work
+Product
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 80
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 7. Sharon Church
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 79
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), massage(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
 
-- **Qk Ik** (1 times)
-- **Ye Ml** (1 times)
-- **Hp Zs** (1 times)
-- **Jw Pu** (1 times)
-- **Ie Ut** (1 times)
-- **Gg Ts** (1 times)
-- **Ax Sx** (1 times)
-- **Dg Jss** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
+**Sample Context**:
+> Sharon Churcher...
 
-#### Documents Mentioning Ld Mw
+---
 
-- ``1320-4.pdf``  
+### 8. Notary Public
 
----
+**Statistics**:
+- Total Mentions: 74
+- Documents: 49
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 136 co-occurrences
+  - Top terms: massage(28), sex(27), sexual(25)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 190. Lt Ai
+**Sample Context**:
+> Reporter and Notary Public within and...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 9. Cynthia Hopkins
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 73
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Cynthia Hopkins, RPR, FPR...
 
-- **Os Zp** (1 times)
-- **Ih Ic** (1 times)
-- **Wx Nc** (1 times)
-- **Lw Cc** (1 times)
-- **Hi Bf** (1 times)
-- **Ot Mg** (1 times)
-- **Fx To** (1 times)
-- **Qm Oz** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
+---
 
-#### Documents Mentioning Lt Ai
+### 10. This Interrogatory
 
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
+**Statistics**:
+- Total Mentions: 72
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
----
+**Sample Context**:
+> 1. Ms. Giuffre Has Answered This Interrogatory Completely .....................10...
 
-### 191. Gcu Ws
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 11. Tony Figueroa
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 56
+- Documents: 16
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 40 co-occurrences
+  - Top terms: sex(8), sexual(7), massage(7)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Excerpts from June 24, 2016 Deposition of Tony Figueroa....
 
-#### Most Frequently Mentioned With
+---
 
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
+### 12. Prince Andrew
 
-#### Documents Mentioning Gcu Ws
+**Statistics**:
+- Total Mentions: 55
+- Documents: 18
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 120 co-occurrences
+  - Top terms: sex(17), sexual(15), massage(15)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
+**Sample Context**:
+> Related: Billionaire's 'sex slave' details alleggations aggainst Prince Andrew,, Dershowitz...
 
 ---
-
-### 192. Jz Ve
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 13. Sealed Exhibit
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 55
+- Documents: 13
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> 3. Attached hereto as Sealed Exhibit 1 is a true and correct copyof February 9,...
 
-#### Most Frequently Mentioned With
+---
 
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Puu Qg** (1 times)
-- **Ebq Fh** (1 times)
-- **Fx Fa** (1 times)
-- **Acrobat Distiller** (1 times)
-- **Nicole Simmons** (1 times)
-- **Administrative Office** (1 times)
-- **Zvg Eig** (1 times)
+### 14. Kress Court Reporting
 
-#### Documents Mentioning Jz Ve
+**Statistics**:
+- Total Mentions: 52
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: massage(5), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.20_1.pdf``  
+**Sample Context**:
+> Kress Court Reporting, Inc. 305-866· 7688...
 
 ---
 
-### 193. Hg Mj
+### 15. Rue Notre Dame
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 52
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: massage(5), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 7115 Rue Notre Dame, Miami Beach, FL 33141...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
+### 16. Southern Reporting Company
 
-#### Documents Mentioning Hg Mj
+**Statistics**:
+- Total Mentions: 52
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1325-2.pdf``  
+**Sample Context**:
+> Southern Reporting Company (386)257-3663...
 
 ---
 
-### 194. Ypiu Gm
+### 17. Entered By
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 49
+- Documents: 3
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: sex(2), sexual(2), assault(2)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Entered By.: JARRETT, DAWN M. 11/10/97...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
 
-#### Most Frequently Mentioned With
+### 18. Court
+Southern District
 
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
+**Statistics**:
+- Total Mentions: 48
+- Documents: 43
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 227 co-occurrences
+  - Top terms: sex(25), sexual(24), victim(22)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Documents Mentioning Ypiu Gm
+---
 
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
+### 19. Kelli Ann Willis
 
----
+**Statistics**:
+- Total Mentions: 46
+- Documents: 23
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 69 co-occurrences
+  - Top terms: massage(17), sex(13), sexual(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 195. Qc Dk
+**Sample Context**:
+> before Kelli Ann Willis, a Registered...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 20. Request No
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 45
+- Documents: 2
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> distributed or sent any statements concerning Ms. Giuffre referenced in Request No. 17 made by...
 
-- **Wt Bn** (1 times)
-- **Df Iw** (1 times)
-- **Nh Xvg** (1 times)
-- **Hx Mw** (1 times)
-- **Tk Mg** (1 times)
-- **Vf Jd** (1 times)
-- **Iz Ap** (1 times)
-- **Yi Ekg** (1 times)
-- **Zs Ytx** (1 times)
-- **Za Bu** (1 times)
+---
 
-#### Documents Mentioning Qc Dk
+### 21. Confidential
+Page
 
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
+**Statistics**:
+- Total Mentions: 44
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 196. Is Hg
+### 22. Filed Under Seal
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 43
+- Documents: 28
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 77 co-occurrences
+  - Top terms: sex(16), massage(14), sexual(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> (Filed Under Seal)...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
+### 23. Sarah Kellen
 
-#### Documents Mentioning Is Hg
+**Statistics**:
+- Total Mentions: 40
+- Documents: 10
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
+**Sample Context**:
+> 4 A. I have no idea what Sarah Kellen...
 
 ---
 
-### 197. We Ym
+### 24. Fort Lauderdale
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 38
+- Documents: 34
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 72 co-occurrences
+  - Top terms: massage(16), sex(13), sexual(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Las Olas Boulevard, Fort Lauderdale, Florida,...
 
-| Term | Co-occurrences |
-|------|----------------|
-| rape | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Uh Zq** (1 times)
-- **Px Cn** (1 times)
-- **Dz Lz Qj** (1 times)
-- **Uu Oew** (1 times)
-- **Fb Fdbg** (1 times)
-- **Pp Zc** (1 times)
-- **Sc Cq** (1 times)
-- **Xc Ox** (1 times)
-- **Qn Un** (1 times)
-- **Tyu Tp** (1 times)
+### 25. United States District
 
-#### Documents Mentioning We Ym
+**Statistics**:
+- Total Mentions: 36
+- Documents: 28
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 33 co-occurrences
+  - Top terms: victim(4), sex(4), sexual(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-7.pdf``  
+**Sample Context**:
+> United States District Court...
 
 ---
-
-### 198. Hc Ln
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 26. Protective Order
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 33
+- Documents: 9
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: abuse(1), sex(1), victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Protective Order....
 
-#### Most Frequently Mentioned With
+---
 
-- **Rh Qbo** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Gt Dw** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Ap Gq** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
+### 27. The Court
 
-#### Documents Mentioning Hc Ln
+**Statistics**:
+- Total Mentions: 33
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 26 co-occurrences
+  - Top terms: sex(3), sexual(3), trafficking(3)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``1320-31.pdf``  
+**Sample Context**:
+> As the Court is aware, this defamation case involves Ms. Giuffre's assertions that she and...
 
 ---
 
-### 199. Tu Gxm
+### 28. That Is
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 32
+- Documents: 2
+- Document Types: correspondence, deposition, legal_document
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: sex(2), massage(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 15 Q. That is he started and he went on for a 16 Did I understand you correctly?...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Yr Ty** (1 times)
-- **Cpw Ew** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Courier New** (1 times)
-- **Cp Yk** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Microsoft Word** (1 times)
-- **Paper Capture Plug** (1 times)
-- **United States Courts** (1 times)
+### 29. United State
 
-#### Documents Mentioning Tu Gxm
+**Statistics**:
+- Total Mentions: 31
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1331.6.pdf``  
+**Sample Context**:
+> offtme1 that may have been committed by Epstein against the United States from in or...
 
 ---
 
-### 200. Nu Vio
+### 30. Quinney College
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 30
+- Documents: 29
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 115 co-occurrences
+  - Top terms: sex(14), sexual(13), abuse(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> S.J. Quinney College of Law...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Fr Gv** (1 times)
-- **Qq Ft** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Wg Uy** (1 times)
-- **Sq Lh** (1 times)
-- **Ed Uxd** (1 times)
-- **Eh Am** (1 times)
+### 31. North Andrews Avenue
 
-#### Documents Mentioning Nu Vio
+**Statistics**:
+- Total Mentions: 30
+- Documents: 30
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 113 co-occurrences
+  - Top terms: sex(13), sexual(13), abuse(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-13.pdf``  
+**Sample Context**:
+> 425 North Andrews Avenue, Suite 2...
 
 ---
-
-### 201. Mb Ocps
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 32. Ross Gow
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 30
+- Documents: 12
+- Document Types: legal_document, deposition, email
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(3), underage(3), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> 2015 Correspondence from Ross Gow to Ghislaine Maxwell....
 
-#### Most Frequently Mentioned With
+---
 
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
+### 33. Reporting Company
 
-#### Documents Mentioning Mb Ocps
+**Statistics**:
+- Total Mentions: 30
+- Documents: 4
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-15.pdf``  
+**Sample Context**:
+> PLACE: Southern Reporting Company...
 
 ---
+
+### 34. Civil Procedure
+
+**Statistics**:
+- Total Mentions: 30
+- Documents: 15
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 63 co-occurrences
+  - Top terms: sex(12), sexual(9), abuse(8)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 202. Um Zm
+**Sample Context**:
+> Civil Procedure. She admits she simply had not, prior to designating testimony, even attempted...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 35. Registered
+Professional Reporter
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 29
+- Documents: 23
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 69 co-occurrences
+  - Top terms: massage(17), sex(13), sexual(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Administrative Office** (1 times)
+### 36. Respectfully Submitted
 
-#### Documents Mentioning Um Zm
+**Statistics**:
+- Total Mentions: 29
+- Documents: 29
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 113 co-occurrences
+  - Top terms: sex(13), sexual(13), abuse(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-27.pdf``  
+**Sample Context**:
+> Respectfully Submitted,...
 
 ---
+
+### 37. Johanna Sjoberg
 
-### 203. 
+**Statistics**:
+- Total Mentions: 29
+- Documents: 19
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 52 co-occurrences
+  - Top terms: sex(6), sexual(6), massage(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Excerpts from May 18, 2016, Deposition of Johanna Sjoberg....
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 38. Reported By
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 29
+- Documents: 10
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 44 co-occurrences
+  - Top terms: sex(6), sexual(5), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``._gov.uscourts.nysd.447706.1331.6.pdf``  
+**Sample Context**:
+> Reported By:...
 
 ---
 
-### 204. Bi Km
+### 39. Virgin Islands
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 29
+- Documents: 9
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 43 co-occurrences
+  - Top terms: sex(8), sexual(7), massage(7)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 4 Virgin Islands?...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **We Lmi** (1 times)
-- **In Rx** (1 times)
-- **Jr Xs** (1 times)
-- **Wed Wf** (1 times)
-- **Ct Ri** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
+### 40. Miami Beach
 
-#### Documents Mentioning Bi Km
+**Statistics**:
+- Total Mentions: 28
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: massage(5), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+**Sample Context**:
+> Well-known attorney and Miami Beach resident Alan Dershowitz emphatically denied alleggations made in...
 
 ---
 
-### 205. Ak Mu
+### 41. Defendant Ghislaine Maxwell
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 28
+- Documents: 21
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 90 co-occurrences
+  - Top terms: sex(15), sexual(12), abuse(8)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Defendant Ghislaine Maxwell have a common interest”5 is not evidence of a joint defense...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Xu Kw** (1 times)
-- **Wu Wd** (1 times)
-- **Vym Gwo** (1 times)
-- **An Gl** (1 times)
-- **Pkz Lv** (1 times)
-- **Pn Uu** (1 times)
-- **Aq Xmg** (1 times)
-- **Bg Tx** (1 times)
-- **Uq Qz** (1 times)
-- **Fw Bw** (1 times)
+### 42. Case No
 
-#### Documents Mentioning Ak Mu
+**Statistics**:
+- Total Mentions: 28
+- Documents: 21
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 30 co-occurrences
+  - Top terms: sex(8), sexual(7), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.43_1.pdf``  
+**Sample Context**:
+> Case No.:...
 
 ---
-
-### 206. Lk Qdy
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 43. From January
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 28
+- Documents: 4
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 41 co-occurrences
+  - Top terms: sex(4), sexual(4), minor(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> there during the year 2000. From January, 2000 through August 9, 2000, she was...
 
-#### Most Frequently Mentioned With
+---
 
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
+### 44. Boies Schiller
 
-#### Documents Mentioning Lk Qdy
+**Statistics**:
+- Total Mentions: 27
+- Documents: 22
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: massage(13), sex(9), sexual(9)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-15.pdf``  
+**Sample Context**:
+> offices of Boies Schiller & Flexner, 401...
 
 ---
-
-### 207. Zt Wg
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 45. File Under Seal
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 27
+- Documents: 26
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 82 co-occurrences
+  - Top terms: sex(16), sexual(15), massage(12)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> (File Under Seal)...
 
-#### Most Frequently Mentioned With
+---
 
-- **Btu Lj** (1 times)
-- **Qs Kt** (1 times)
-- **Vwz Ex** (1 times)
-- **Liberation Sans** (1 times)
-- **Jc Unu** (1 times)
-- **Eyv Fd** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Gy Lv** (1 times)
+### 46. University St
 
-#### Documents Mentioning Zt Wg
+**Statistics**:
+- Total Mentions: 27
+- Documents: 25
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 99 co-occurrences
+  - Top terms: sex(12), sexual(11), abuse(11)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-11.pdf``  
+**Sample Context**:
+> 383 University St....
 
 ---
-
-### 208. Ufj Ax
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 47. Work Product
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 27
+- Documents: 6
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, February 24, 2016
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Defendant’s Response to “Motion to Compel” Work Product...
 
-#### Most Frequently Mentioned With
+---
 
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
+### 48. Sealed Composite Exhibit
 
-#### Documents Mentioning Ufj Ax
+**Statistics**:
+- Total Mentions: 27
+- Documents: 11
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(3), sexual(2), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1325-2.pdf``  
+**Sample Context**:
+> 3. Attached hereto as Sealed Composite Exhibit 1 is a true and correct copy of...
 
 ---
 
-### 209. Fj Rk
+### 49. Your Honor
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 27
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 3 MS. MENNINGER: Thank you, your Honor, Laura Menninger...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Ej Jy** (1 times)
-- **Ju Nd** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
+### 50. Salt Lake City
 
-#### Documents Mentioning Fj Rk
+**Statistics**:
+- Total Mentions: 26
+- Documents: 26
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(4), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-24.pdf``  
+**Sample Context**:
+> Salt Lake City, UT 84112...
 
 ---
 
-### 210. Wg Si
+### 51. Log Privilege Doc
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 26
+- Documents: 1
+- Document Types: deposition, legal_document
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Log Privilege Doc...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Most Frequently Mentioned With
+### 52. Certified Realtime
+Reporter
 
-- **Te Gk** (1 times)
-- **Vg Qz** (1 times)
-- **Liberation Sans** (1 times)
-- **Qz Eu** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
+**Statistics**:
+- Total Mentions: 25
+- Documents: 22
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 58 co-occurrences
+  - Top terms: massage(16), sex(12), sexual(12)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-#### Documents Mentioning Wg Si
+### 53. David Boies
+Boies
 
-- ``gov.uscourts.nysd.447706.1327.8_1.pdf``  
+**Statistics**:
+- Total Mentions: 25
+- Documents: 25
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 83 co-occurrences
+  - Top terms: sex(10), sexual(10), abuse(9)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 211. Cg Ow
+### 54. Avenue
+Denver
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 25
+- Documents: 20
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 127 co-occurrences
+  - Top terms: sex(15), victim(13), sexual(13)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 55. Menninger Decl
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 25
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: drug(2), drugs(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
+**Sample Context**:
+> ignores. Ms. Maxwell clearly testified on this issue during her deposition (Menninger Decl., Ex....
 
-#### Documents Mentioning Cg Ow
+---
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+### 56. Lesley Groff
 
----
+**Statistics**:
+- Total Mentions: 24
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: abuse(1), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 212. Esk Dl
+**Sample Context**:
+> Maxwell, Sarah Kellen, Lesley Groff(cid:15)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:49)(cid:68)(cid:87)(cid:68)(cid:79)(cid:92)(cid:68)(cid:3)(cid:48)(cid:68)(cid:79)(cid:92)(cid:86)(cid:75)(cid:72)...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 57. Punitive Damages
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 24
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> DOCUMENT REQUESTS “CONCERNING PUNITIVE DAMAGES”...
+
+---
 
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Hpr Nd** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hp Fbn** (1 times)
-- **Uiy Sc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-- **Tq Pi** (1 times)
+### 58. Search Terms
 
-#### Documents Mentioning Esk Dl
+**Statistics**:
+- Total Mentions: 22
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), massage(1), trafficking(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-15.pdf``  
+**Sample Context**:
+> DEFENDANT’S SUBMISSION REGARDING “SEARCH TERMS” AND NOTICE OF...
 
 ---
 
-### 213. Bw Hk
+### 59. Ghislaine
+Maxwell
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 22
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: abuse(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 60. Type
+Attorney
+Client
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 22
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+---
 
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
+### 61. President Clinton
 
-#### Documents Mentioning Bw Hk
+**Statistics**:
+- Total Mentions: 21
+- Documents: 7
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 54 co-occurrences
+  - Top terms: sex(7), massage(7), sexual(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-32.pdf``  
+**Sample Context**:
+> 3 this kind of case, in a defamation case 3 President Clinton at Jeffrey's home, at any...
 
 ---
 
-### 214. Dd Nz
+### 62. Did Maxwell
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 20
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(6), sexual(6), massage(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 7 Q. Did Maxwell ever share with you whether it...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Most Frequently Mentioned With
+### 63. Law
+University
 
-- **Sv Ra** (1 times)
-- **Times New Roman** (1 times)
-- **Km Fm** (1 times)
-- **Ds Ds Fq** (1 times)
-- **Liberation Sans** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
+**Statistics**:
+- Total Mentions: 20
+- Documents: 18
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 66 co-occurrences
+  - Top terms: sex(9), sexual(8), abuse(8)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Documents Mentioning Dd Nz
+---
 
-- ``gov.uscourts.nysd.447706.1327.20_1.pdf``  
+### 64. Rinaldo Rizzo
 
----
+**Statistics**:
+- Total Mentions: 20
+- Documents: 13
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 41 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 215. Pu Pmj
+**Sample Context**:
+> Excerpts from June 10, 2016, Deposition of Rinaldo Rizzo....
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 65. Virginia Roberts
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 20
+- Documents: 9
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 32 co-occurrences
+  - Top terms: sex(8), sexual(8), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 2 with Virginia Roberts....
 
-- **Ih Ka** (1 times)
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Id Hd** (1 times)
-- **Wn Ive** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Qn Ki** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
+---
 
-#### Documents Mentioning Pu Pmj
+### 66. Maria Farmer
 
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
+**Statistics**:
+- Total Mentions: 20
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
----
+**Sample Context**:
+> involving herself, Mr. Epstein, and Annie and Maria Farmer, described in a Vanity Fair article:...
 
-### 216. Hj Qqyd
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 67. General Objections
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 20
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> applicable privilege or protection as stated in the General Objections....
 
-#### Most Frequently Mentioned With
+---
 
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **United States Courts** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Bv Ky** (1 times)
-- **Aq Ae** (1 times)
-- **Zqc Qx** (1 times)
+### 68. Police Department
 
-#### Documents Mentioning Hj Qqyd
+**Statistics**:
+- Total Mentions: 19
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
-- ``1320-38.pdf``  
+**Sample Context**:
+> Date: 4/25/16 ROYAL PALM BEACH POLICE DEPARTMENT Page~ 1...
 
 ---
 
-### 217. Po Iy
+### 69. Court Order
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 19
+- Documents: 6
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(3), massage(2), trafficking(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> COMPLIANCE WITH COURT ORDER...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Df Iw** (1 times)
-- **Zs Ytx** (1 times)
-- **Wt Bn** (1 times)
-- **Tk Mg** (1 times)
-- **Nh Xvg** (1 times)
-- **Vf Jd** (1 times)
-- **Iz Ap** (1 times)
-- **Yi Ekg** (1 times)
-- **Za Bu** (1 times)
-- **Qc Dk** (1 times)
+### 70. Laura Menninger
 
-#### Documents Mentioning Po Iy
+**Statistics**:
+- Total Mentions: 18
+- Documents: 10
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(4), sexual(4), abuse(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
+**Sample Context**:
+> See McCawley Dec. at Exhibit 3, August 16, 2016 letterform Laura Menninger.6 One of these...
 
 ---
 
-### 218. Pz Qk
+### 71. University Street
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 18
+- Documents: 18
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 35 co-occurrences
+  - Top terms: sex(7), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Meredith Schultz 383 S. University Street...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **No Su** (1 times)
-- **Yw Dvyq** (1 times)
-- **Cq Jd** (1 times)
-- **Jl Lt** (1 times)
-- **Lp Wq** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Yb Yh** (1 times)
-- **Sr Ce** (1 times)
-- **Du Ww** (1 times)
+### 72. Composite Exhibit
 
-#### Documents Mentioning Pz Qk
+**Statistics**:
+- Total Mentions: 18
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.16.pdf``  
+**Sample Context**:
+> (cid:120) See Schultz Declaration (“Schultz Decl.”) at Composite Exhibit 1, Excerpts from May...
 
 ---
-
-### 219. Sn Qn
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 73. Virginia Giuffre
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 18
+- Documents: 7
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(3), sexual(3), victim(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> 14 Virginia Giuffre. And Virginia Giuffre is here...
 
-#### Most Frequently Mentioned With
+---
 
-- **We Lmi** (1 times)
-- **Bi Km** (1 times)
-- **Jr Xs** (1 times)
-- **Wed Wf** (1 times)
-- **Ct Ri** (1 times)
-- **Ow Mj** (1 times)
-- **Lk Wr** (1 times)
-- **Ww Ze** (1 times)
-- **In Rx** (1 times)
-- **Zj Ms** (1 times)
+### 74. Las Olas Boulevard
 
-#### Documents Mentioning Sn Qn
+**Statistics**:
+- Total Mentions: 17
+- Documents: 17
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 45 co-occurrences
+  - Top terms: massage(13), sex(9), sexual(9)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+**Sample Context**:
+> Las Olas Boulevard, Fort Lauderdale, Florida,...
 
 ---
 
-### 220. 
+### 75. Juan Alessi
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 17
+- Documents: 10
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Excerpts from June 1, 2016, Deposition of Juan Alessi....
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Documents Mentioning 
+### 76. Jean Luc Brunel
 
-- ``._1320-16.pdf``  
+**Statistics**:
+- Total Mentions: 17
+- Documents: 8
+- Document Types: legal_document, correspondence, financial
+- Sensitive Terms: 45 co-occurrences
+  - Top terms: sex(6), massage(5), sexual(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
----
+**Sample Context**:
+> Sarah Kellen, Glenn and Eva Dubin, Jean Luc Brunel, Nadia Marcincova and Bill...
 
-### 221. Zx Kimy
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 77. Producing Documents
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 17
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> (A) production of documents, electronically stored information, or (l) Producing Documents or Electronically Stored Information. These...
 
-#### Most Frequently Mentioned With
+---
 
-- **Bi Km** (1 times)
-- **In Rx** (1 times)
-- **We Lmi** (1 times)
-- **Ct Ri** (1 times)
-- **Jr Xs** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
+### 78. Agren Blando Court
 
-#### Documents Mentioning Zx Kimy
+**Statistics**:
+- Total Mentions: 17
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), abuse(2)
+- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+**Sample Context**:
+> Agren Blando Court Reporting & Video, Inc....
 
 ---
-
-### 222. We Px
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 79. Ghislaine Max
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 17
+- Documents: 1
+- Document Types: email, deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Ghislaine Maxwell,...
 
-#### Most Frequently Mentioned With
+---
 
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
+### 80. East Las Olas
 
-#### Documents Mentioning We Px
+**Statistics**:
+- Total Mentions: 16
+- Documents: 13
+- Document Types: legal_document, deposition, email
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(3), massage(3), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
+**Sample Context**:
+> 401 East Las Olas Boulevard, Suite 1200...
 
 ---
 
-### 223. Ri Yi
+### 81. El Brillo
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 16
+- Documents: 6
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: massage(5), sex(4), sexual(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 20 358 El Brillo, they came through the 20 A. Yeah, from the phone system to the...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Vv Kn** (1 times)
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Ose Kx** (1 times)
-- **Mo Gk** (1 times)
-- **Mnfk Pe** (1 times)
-- **Ma Ld** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Qq Uu** (1 times)
+### 82. Appear Pro Hac
 
-#### Documents Mentioning Ri Yi
+**Statistics**:
+- Total Mentions: 16
+- Documents: 16
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: victim(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
+**Sample Context**:
+> Application to Appear Pro Hac Vice....
 
 ---
 
-### 224. Tm Fq
+### 83. Annie Farmer
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 16
+- Documents: 3
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 6 question. 6 Q. How do you know Annie Farmer?...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Qq Vk** (1 times)
-- **Qj Va** (1 times)
-- **Sr Os** (1 times)
-- **Liberation Sans** (1 times)
-- **Eq Gibj** (1 times)
-- **Xz Rp** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Administrative Office** (1 times)
-- **Tt Yd** (1 times)
+### 84. First Set
 
-#### Documents Mentioning Tm Fq
+**Statistics**:
+- Total Mentions: 16
+- Documents: 5
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/05/24, 01/05/24, 10/27/2015
 
-- ``1320-3.pdf``  
+**Sample Context**:
+> 10/27/2015 Plaintiff’s First Set of Requests for Production...
 
 ---
-
-### 225. Gn Lc
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 85. Alfredo Rodriguez
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 15
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: massage(4), sex(3), sexual(3)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> A former Epstein employee, the late Alfredo Rodriguez, testified under oath that Dershowitz was at the Palm...
 
-#### Most Frequently Mentioned With
+---
 
-- **Cu Hap** (1 times)
-- **Uh Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Tgm Hq** (1 times)
-- **Sn Ol** (1 times)
-- **Qv Rg** (1 times)
-- **Hi Cd** (1 times)
-- **Hs Lu** (1 times)
-- **Gg Ig** (1 times)
-- **Eq At** (1 times)
+### 86. Client Communications
 
-#### Documents Mentioning Gn Lc
+**Statistics**:
+- Total Mentions: 15
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.11.pdf``  
+**Sample Context**:
+> attorney-client communications regarding media advice; (2) pre...
 
 ---
 
-### 226. Ebq Fh
+### 87. Eva Dubin
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 15
+- Documents: 8
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 62 co-occurrences
+  - Top terms: sex(7), massage(7), sexual(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 21 A. He is the husband of Eva Dubin....
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Liberation Sans** (1 times)
-- **Fx Fa** (1 times)
-- **Times New Roman** (1 times)
-- **Puu Qg** (1 times)
-- **Ju Nd** (1 times)
-- **Zvg Eig** (1 times)
-- **Acrobat Distiller** (1 times)
-- **Nicole Simmons** (1 times)
-- **Administrative Office** (1 times)
-- **Jz Ve** (1 times)
+### 88. See Schultz Decl
 
-#### Documents Mentioning Ebq Fh
+**Statistics**:
+- Total Mentions: 15
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.20_1.pdf``  
+**Sample Context**:
+> (cid:120) See Schultz Declaration (“Schultz Decl.”) at Composite Exhibit 1, Excerpts from May...
 
 ---
 
-### 227. Ub Mk
+### 89. Legal Support
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 15
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> U.S. Legal Support...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
-
-#### Most Frequently Mentioned With
+---
 
-- **Ku Gt** (1 times)
-- **Pj Qn** (1 times)
-- **Ofw Bh** (1 times)
-- **Yf Wx** (1 times)
-- **Dc Yo** (1 times)
-- **Sr Ku** (1 times)
-- **Sn Kg** (1 times)
-- **Au Ne** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
+### 90. Undue Burden
 
-#### Documents Mentioning Ub Mk
+**Statistics**:
+- Total Mentions: 15
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-- ``1320-2.pdf``  
+**Sample Context**:
+> (1) A voiding Undue Burden or Expense; Sanctions. A party or attorney If a subpoena does not specify a form for producing electronically stored...
 
 ---
-
-### 228. Nz En
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 91. Emmy Taylor
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 14
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 37 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> 19 A. At that point, I met Emmy Taylor, and she...
 
-#### Most Frequently Mentioned With
+---
 
-- **Uw Tlp** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Ao Iv** (1 times)
-- **Pm Cn** (1 times)
-- **Qo Arx** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Liberation Sans** (1 times)
+### 92. Of New York
 
-#### Documents Mentioning Nz En
+**Statistics**:
+- Total Mentions: 14
+- Documents: 3
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: victim(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.17_1.pdf``  
+**Sample Context**:
+> Southern District Of New York...
 
 ---
+
+### 93. Viewing Case Number
+
+**Statistics**:
+- Total Mentions: 14
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
+
+**Sample Context**:
+> OQS -Viewing Case Number 98041883 Page 2 of20...
 
-### 229. Js Jd
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 94. Producing Electronically Stored
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 14
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> (B) Form for Producing Electronically Stored Information Not Specified...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ph Vm** (1 times)
-- **Rhq Fhx** (1 times)
-- **Dr Bu** (1 times)
-- **Tk Tc** (1 times)
-- **Hq Ck** (1 times)
-- **Cr Ks** (1 times)
-- **Zj Wl** (1 times)
-- **Br Ln** (1 times)
-- **Vy Nt** (1 times)
-- **An Jr** (1 times)
+### 95. Philip Barden
 
-#### Documents Mentioning Js Jd
+**Statistics**:
+- Total Mentions: 13
+- Documents: 7
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(2)
+- Associated Dates: 01/05/24, 01/05/24, February 24, 2016
 
-- ``1325-2.pdf``  
+**Sample Context**:
+> and Attorney-Client Communication with Philip Barden...
 
 ---
+
+### 96. Nadia Marcinkova
 
-### 230. Zgp Kui
+**Statistics**:
+- Total Mentions: 13
+- Documents: 8
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(4), sexual(3), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> April 13, 2010, Deposition of Nadia Marcinkova....
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 97. Nicole Simmons
+Nicole
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 12
+- Documents: 12
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(4), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Wd Fdq** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Administrative Office** (1 times)
+### 98. Compel Attorney
 
-#### Documents Mentioning Zgp Kui
+**Statistics**:
+- Total Mentions: 12
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.24.pdf``  
+**Sample Context**:
+> 6. Defendant has moved to compel attorney-client...
 
 ---
 
-### 231. Kz Gc
+### 99. The Palm Beach
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 12
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> (4/22/16 Tr. at 75-76). The Palm Beach State’s Attorney’s Office, the Palm Beach Police...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 100. When Mr
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(3), massage(3), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> -Q: Not sure. When Mr. Dershowitz was visiting,--...
 
-- **Rh Qbo** (1 times)
-- **Du Sc** (1 times)
-- **Jq Gkz** (1 times)
-- **Gt Dw** (1 times)
-- **Xz Eyu** (1 times)
-- **Mi Pp** (1 times)
-- **Ap Gq** (1 times)
-- **Rn Xk** (1 times)
-- **Dw Ma** (1 times)
-- **Pc Rj** (1 times)
+---
 
-#### Documents Mentioning Kz Gc
+### 101. David Copperfield
 
-- ``1320-31.pdf``  
+**Statistics**:
+- Total Mentions: 12
+- Documents: 6
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 47 co-occurrences
+  - Top terms: massage(6), sex(5), underage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> questioned about a number of celebrities, including David Copperfield, Kevin Spacey, and Les Wexner, among...
+
 ---
+
+### 102. The Second Circuit
 
-### 232. Mo Gk
+**Statistics**:
+- Total Mentions: 12
+- Documents: 6
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 44 co-occurrences
+  - Top terms: sex(5), abuse(5), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> The Second Circuit has identified four factors which are relevant to the determination as to...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 103. That Ms
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> For example, Defendant argues that Ms. Sjoberg “did not corroborate that [Ms. Giuffre] is telling...
 
-#### Most Frequently Mentioned With
+---
 
-- **Xl Lh** (1 times)
-- **Vu Vgi** (1 times)
-- **Qq Uu** (1 times)
-- **Ose Kx** (1 times)
-- **Mnfk Pe** (1 times)
-- **Vv Kn** (1 times)
-- **Cu Ct** (1 times)
-- **Ooim Kbm** (1 times)
-- **Yk Yw** (1 times)
-- **Nf Mt** (1 times)
+### 104. Deposition Limit
 
-#### Documents Mentioning Mo Gk
+**Statistics**:
+- Total Mentions: 12
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``gov.uscourts.nysd.447706.1328.13.pdf``  
+**Sample Context**:
+> EXCEED PRESUMPTIVE TEN DEPOSITION LIMIT...
 
 ---
+
+### 105. Definition No
+
+**Statistics**:
+- Total Mentions: 12
+- Documents: 2
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-### 233. Gc Gh
+**Sample Context**:
+> 11. Ms. Maxwell objects to Definition No. 1 regarding “Agent” to the extent that it...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 106. Detective Joseph Recarey
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 11
+- Documents: 10
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: sex(3), victim(3), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Excerpts from June 21, 2016, Deposition of Detective Joseph Recarey and June 3, 2016,...
+
+---
 
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
+### 107. Bradley Edwards
 
-#### Documents Mentioning Gc Gh
+**Statistics**:
+- Total Mentions: 11
+- Documents: 7
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 31 co-occurrences
+  - Top terms: sex(6), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
+**Sample Context**:
+> advice. Similarly, Bradley Edwards, who Defendant has already...
 
 ---
 
-### 234. Eyv Fd
+### 108. Americas
+New York
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 11
+- Documents: 11
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: sex(7), sexual(7), underage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 109. Leslie Fagin
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 11
+- Documents: 10
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(6), sexual(6), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> date, before Leslie Fagin, a Court...
+
+---
 
-- **Qs Kt** (1 times)
-- **Vwz Ex** (1 times)
-- **Zt Wg** (1 times)
-- **Liberation Sans** (1 times)
-- **Jc Unu** (1 times)
-- **Btu Lj** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Gy Lv** (1 times)
+### 110. Maxwell Depo
 
-#### Documents Mentioning Eyv Fd
+**Statistics**:
+- Total Mentions: 11
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 25 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-11.pdf``  
+**Sample Context**:
+> 1 Maxwell Depo. Tr. at 287:24-25....
 
 ---
 
-### 235. Hch Hc
+### 111. Court Reporter
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 11
+- Documents: 8
+- Document Types: deposition, legal_document
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(5), massage(3), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Court Reporter and Notary Public...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
+
+### 112. Toll Free
+
+**Statistics**:
+- Total Mentions: 11
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: nude(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Toll Free: 866.709.8777...
 
-- **Liberation Sans** (1 times)
-- **Au Ntv** (1 times)
-- **Eqm Ojh** (1 times)
-- **Ju Nd** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Aspose Ltd** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
+---
 
-#### Documents Mentioning Hch Hc
+### 113. Luc Brunel
 
-- ``1331-19.pdf``  
+**Statistics**:
+- Total Mentions: 11
+- Documents: 2
+- Document Types: legal_document, correspondence, deposition
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> 22 Jean-Luc Brunel, yourself and Nadia Marcinkova to 2 2 Q. Based on the objection, do you know what a...
+
 ---
+
+### 114. Instruction No
 
-### 236. Ja Ow
+**Statistics**:
+- Total Mentions: 11
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 23 co-occurrences
+  - Top terms: sex(4), trafficking(3), abuse(3)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Instruction No. 19 and also identify the litigation in connection with which the Document and the...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 115. Growing Together
+
+**Statistics**:
+- Total Mentions: 11
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> 8 Q You went to Growing Together?...
 
-#### Most Frequently Mentioned With
+---
 
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
+### 116. Alan Dershowitz
 
-#### Documents Mentioning Ja Ow
+**Statistics**:
+- Total Mentions: 10
+- Documents: 4
+- Document Types: deposition, legal_document
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: massage(3), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 2/19/2015
 
-- ``1320-32.pdf``  
+**Sample Context**:
+> Alan Dershowitz: 'Sex slave' accuser is serial liar, prostitute | News - Home Page 1 of 3...
 
 ---
+
+### 117. Stanley Pottinger
+Bradley
+
+**Statistics**:
+- Total Mentions: 10
+- Documents: 10
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 237. Qu Ef
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 118. Florida Professional Reporter
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 10
+- Documents: 7
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(4), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Florida Professional Reporter...
 
-#### Most Frequently Mentioned With
+---
 
-- **Lfc Uo** (1 times)
-- **Nd Na** (1 times)
-- **Iw Vs** (1 times)
-- **Wm Tr** (1 times)
-- **Rl Gl** (1 times)
-- **Liberation Sans** (1 times)
-- **Ok Zc** (1 times)
-- **Jx Tk** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
+### 119. At Trial
 
-#### Documents Mentioning Qu Ef
+**Statistics**:
+- Total Mentions: 10
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.2.pdf``  
+**Sample Context**:
+> TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL...
 
 ---
+
+### 120. Meredith Schultz
+Meredith
 
-### 238. Wf Sj
+**Statistics**:
+- Total Mentions: 10
+- Documents: 7
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(3), sexual(3), victim(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 121. Alan
+Dershowitz
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 10
+- Documents: 8
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 63 co-occurrences
+  - Top terms: sex(7), sexual(7), trafficking(6)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **Zj Hh** (1 times)
-- **Qz Tc** (1 times)
-- **Ns Grw** (1 times)
-- **We Px** (1 times)
-- **Sj Sp** (1 times)
-- **Yg Fx** (1 times)
-- **Cs Zi** (1 times)
-- **Kef Pi** (1 times)
-- **Aj Uk** (1 times)
-- **Zz Se** (1 times)
+### 122. Discovery Requests
 
-#### Documents Mentioning Wf Sj
+**Statistics**:
+- Total Mentions: 10
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
+**Sample Context**:
+> Defendant’s Second Set of Discovery Requests to Plaintiff, and for Sanctions...
 
 ---
+
+### 123. Sarah Ransome
 
-### 239. Yj Mb
+**Statistics**:
+- Total Mentions: 10
+- Documents: 2
+- Document Types: legal_document
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> I, Sarah Ransome, swear and affirm as follows:...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 124. Deposition Transcript
+
+**Statistics**:
+- Total Mentions: 10
+- Documents: 3
+- Document Types: deposition, legal_document
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Deposition Transcript excerpts dated May 18, 2016....
 
-#### Most Frequently Mentioned With
+---
 
-- **Cq Ms** (1 times)
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Qr Ps** (1 times)
-- **Qi Ep** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Dy Zftx** (1 times)
-- **Yh Wo** (1 times)
-- **Uw Zd** (1 times)
+### 125. Video Deposition
 
-#### Documents Mentioning Yj Mb
+**Statistics**:
+- Total Mentions: 10
+- Documents: 1
+- Document Types: deposition, legal_document
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-- ``1320-32.pdf``  
+**Sample Context**:
+> Video Deposition of Tony Figueroa (Volume 1) 1...
 
 ---
+
+### 126. Did Jeffrey
 
-### 240. Yf Fdy
+**Statistics**:
+- Total Mentions: 9
+- Documents: 4
+- Document Types: deposition, legal_document
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: massage(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 9 Q. Did Jeffrey ever tell you that he took a...
+
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 127. Menninger
+Laura
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 9
+- Documents: 7
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: victim(1), abuse(1), drug(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **Te Uy** (1 times)
-- **Fg Zl** (1 times)
-- **Ua Ud** (1 times)
-- **Lg Rn** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Ye Bg** (1 times)
-- **Ve Cq** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
+### 128. Serve Three Deposition
 
-#### Documents Mentioning Yf Fdy
+**Statistics**:
+- Total Mentions: 9
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 32 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.7_2.pdf``  
+**Sample Context**:
+> 5. Plaintiff has moved for leave to serve three deposition...
 
 ---
+
+### 129. Palm Beach Gardens
+
+**Statistics**:
+- Total Mentions: 9
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 241. Za Ixu
+**Sample Context**:
+> 8 A. The Lane Spa in Palm Beach Gardens....
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 130. Direct Defendant
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 9
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> the Court’s Order and Direct Defendant to Answer Deposition Questions Filed Under Seal....
+
+---
 
-- **Vw El** (1 times)
-- **Sgc Zt** (1 times)
-- **Dl Ia** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Fs Zq** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **El Pix** (1 times)
+### 131. Any Document
 
-#### Documents Mentioning Za Ixu
+**Statistics**:
+- Total Mentions: 9
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-12.pdf``  
+**Sample Context**:
+> I 0. With respect to any Documents withheld on the basis of a privilege, provide a log...
 
 ---
 
-### 242. Sk Kj
+### 132. Party Witness
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 9
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), underage(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> examined, however, from the perspective of a non-party witness' loyalty to the plaintiff or...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 133. Prose Court Reporting
+
+**Statistics**:
+- Total Mentions: 9
+- Documents: 1
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Prose Court Reporting Services...
 
-- **Ug Qt** (1 times)
-- **Zpe Fy** (1 times)
-- **Tg Fi** (1 times)
-- **No Zt** (1 times)
-- **Nx Rt** (1 times)
-- **Ux Fc** (1 times)
-- **Km Wp** (1 times)
-- **Xu Jq** (1 times)
-- **Tc Ij** (1 times)
-- **Ex Lj** (1 times)
+---
 
-#### Documents Mentioning Sk Kj
+### 134. Judge Marra
 
-- ``gov.uscourts.nysd.447706.1328.42_1.pdf``  
+**Statistics**:
+- Total Mentions: 9
+- Documents: 2
+- Document Types: legal_document, deposition, flight_log
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> 15. On April 7, 2015, Judge Marra denied Ms. Giuffre’s motion to join the case....
+
 ---
+
+### 135. Second Circuit
 
-### 243. Lw Uq
+**Statistics**:
+- Total Mentions: 9
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 33 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 22), the Second Circuit’s seminal decision of LiButti v. United States, 107 F.3d 110, 121 (2d Cir....
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 136. Permit Inspection
+
+**Statistics**:
+- Total Mentions: 9
+- Documents: 2
+- Document Types: deposition, legal_document, email
+- Sensitive Terms: 4 co-occurrences
+  - Top terms: massage(1), sex(1), sexual(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> INFORMAT[ON, OR OBJECTS OR TO PERMIT INSPECTION OF PRE.MISES...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ku Gt** (1 times)
-- **Pj Qn** (1 times)
-- **Ofw Bh** (1 times)
-- **Yf Wx** (1 times)
-- **Dc Yo** (1 times)
-- **Sr Ku** (1 times)
-- **Sn Kg** (1 times)
-- **Au Ne** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
+### 137. The Joinder Motion
 
-#### Documents Mentioning Lw Uq
+**Statistics**:
+- Total Mentions: 9
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-- ``1320-2.pdf``  
+**Sample Context**:
+> stories in the book – later to become allegation in the Joinder Motion – were created and...
 
 ---
 
-### 244. Sw Nci
+### 138. Florida
+My Commission
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 8
+- Documents: 8
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: massage(7), sex(4), sexual(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 139. Did Ms
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 8
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 13 BY MS. EZELL: 13 Q. And did Ms. Maxwell have a list of the...
 
-- **Sm Mv** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Il Te** (1 times)
-- **Sb Kz** (1 times)
-- **Utg Fvl** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Liberation Sans** (1 times)
+---
 
-#### Documents Mentioning Sw Nci
+### 140. Cassell
+Meredith Schultz
 
-- ``1325-1.pdf``  
+**Statistics**:
+- Total Mentions: 8
+- Documents: 8
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 141. North Andrews Ave
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 8
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: sex(3), sexual(3), victim(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 245. Marcinkova Dep
+**Sample Context**:
+> 425 North Andrews Ave., Ste. 2...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 142. New York
+Virginia
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 8
+- Documents: 8
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **No Su** (1 times)
-- **Yw Dvyq** (1 times)
-- **Cq Jd** (1 times)
-- **Jl Lt** (1 times)
-- **Lp Wq** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Yb Yh** (1 times)
-- **Sr Ce** (1 times)
-- **Du Ww** (1 times)
+### 143. Palm Coast
 
-#### Documents Mentioning Marcinkova Dep
+**Statistics**:
+- Total Mentions: 8
+- Documents: 7
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(4), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.16.pdf``  
+**Sample Context**:
+> Palm Coast, Florida 32137...
 
 ---
+
+### 144. Motion In Limine
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: legal_document, deposition
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 246. Hr Ak
+**Sample Context**:
+> DEFENDANT’S REPLY IN SUPPORT OFMOTION IN LIMINE TO EXCLUDE IN...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 145. Menninger In Support
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 8
+- Documents: 4
+- Document Types: legal_document
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Declaration Of Laura A. Menninger In Support Of...
+
+---
 
-- **Liberation Sans** (1 times)
-- **United States Courts** (1 times)
-- **Courier New** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Administrative Office** (1 times)
-- **Vp Up** (1 times)
-- **Ne Nn** (1 times)
-- **Nicole Simmons** (1 times)
-- **Paper Capture Plug** (1 times)
+### 146. Ron Eppinger
 
-#### Documents Mentioning Hr Ak
+**Statistics**:
+- Total Mentions: 8
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: sex(4), sexual(4), minor(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.28_3.pdf``  
+**Sample Context**:
+> clutches of a sexual predator named Ron Eppinger, the police documented a call...
 
 ---
+
+### 147. Would Jeffrey
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 8 resem believed Virginia or some type would Jeffrey...
 
-### 247. Ub Vn
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 148. Email Correspondence
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 8
+- Documents: 7
+- Document Types: legal_document, correspondence, deposition
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> documents pertaining to Does 105 (see December 28, 2023, Email Correspondence with...
 
-#### Most Frequently Mentioned With
+---
 
-- **Rhq Fhx** (1 times)
-- **Hq Ck** (1 times)
-- **Tk Tc** (1 times)
-- **Ph Vm** (1 times)
-- **Br Ln** (1 times)
-- **Zj Wl** (1 times)
-- **Enx Ge** (1 times)
-- **Vy Nt** (1 times)
-- **Cr Ks** (1 times)
-- **Ca Rg** (1 times)
+### 149. Employee Id
 
-#### Documents Mentioning Ub Vn
+**Statistics**:
+- Total Mentions: 8
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
-- ``1325-2.pdf``  
+**Sample Context**:
+> printed by Employee Id#: 8557 on April 25, 2016 11:05:24AM...
 
 ---
+
+### 150. Did Emmy
 
-### 248. Qz Assy
+**Statistics**:
+- Total Mentions: 8
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 10 A. I've just been instructed not to 10 Q. Did Emmy ever have sex with...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 151. Detective Pagan
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: victim(2), victims(2), sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 5 was obtained by Detective Pagan, correct?...
+
+---
 
-- **Zpe Fy** (1 times)
-- **Ux Fc** (1 times)
-- **Ug Qt** (1 times)
-- **Nx Rt** (1 times)
-- **Tg Fi** (1 times)
-- **Ex Lj** (1 times)
-- **Km Wp** (1 times)
-- **Xu Jq** (1 times)
-- **Tc Ij** (1 times)
-- **Ey Js** (1 times)
+### 152. Natalya Malyshov
 
-#### Documents Mentioning Qz Assy
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(2), sexual(2), victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.42_1.pdf``  
+**Sample Context**:
+> S. All Communications You have had with Natalya Malyshov, Virginia Roberts, Ghislaine...
 
 ---
 
-### 249. In Rx
+### 153. Virginia Roberts Giuffre
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> I. All Documents containing Communications with Virginia Roberts Giuffre, or any of her...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 154. In Sydney
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: legal_document, correspondence, deposition
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(2), sexual(2), abuse(2)
+- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 5 A In Sydney....
 
-- **We Lmi** (1 times)
-- **Bi Km** (1 times)
-- **Jr Xs** (1 times)
-- **Wed Wf** (1 times)
-- **Ct Ri** (1 times)
-- **Lk Wr** (1 times)
-- **Xck Aj** (1 times)
-- **Ow Mj** (1 times)
-- **Zj Ms** (1 times)
-- **Ww Ze** (1 times)
+---
 
-#### Documents Mentioning In Rx
+### 155. Survivors Charter
 
-- ``gov.uscourts.nysd.447706.1327.3_1.pdf``  
+**Statistics**:
+- Total Mentions: 8
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
+**Sample Context**:
+> 12 Q Did you ever go to a Survivors Charter...
+
 ---
+
+### 156. Sharon Churcber
 
-### 250. Sa Ox
+**Statistics**:
+- Total Mentions: 8
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), massage(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> From: Sharon Churcber <Sharon.Cburcher@mailonsunday.co.uk>...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 157. Transit Auth
+
+**Statistics**:
+- Total Mentions: 8
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> e.g., Shannon v. New York City Transit Auth., No. 00 CIV. 5079 (RWS), 2001 WL 286727, at *3...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Gc Gh** (1 times)
-- **As Im** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Au Ztm** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
+### 158. United Kingdom
 
-#### Documents Mentioning Sa Ox
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: drug(1), drugs(1), sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
+**Sample Context**:
+> London, United Kingdom...
 
 ---
+
+### 159. Officer Recarey
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 11 BY MR. CRITTON: 11 FBI and between Officer Recarey?...
 
-### 251. Md Lpu
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 160. South Salem
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 7
+- Documents: 7
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> FARMER, JAFFE, WEISSING, EDWARDS, FISTOS South Salem, NY 10590...
 
-#### Most Frequently Mentioned With
+---
 
-- **Dbc Ng** (1 times)
-- **Ku Mt** (1 times)
-- **Qs Qx** (1 times)
-- **Liberation Sans** (1 times)
-- **Yk Yl** (1 times)
-- **Rc Vbv** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Ransome Sarah** (1 times)
-- **Nicole Simmons** (1 times)
-- **United States Courts** (1 times)
+### 161. One Florida Park
 
-#### Documents Mentioning Md Lpu
+**Statistics**:
+- Total Mentions: 7
+- Documents: 6
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-32.pdf``  
+**Sample Context**:
+> One Florida Park Drive South...
 
 ---
+
+### 162. Court
+Reporter
 
-### 252. Wl Ev
+**Statistics**:
+- Total Mentions: 7
+- Documents: 7
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(4), sexual(4), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 163. Adriana Ross
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 7
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 22 co-conspirators are Sarah Kellen, Adriana Ross, and...
+
+---
 
-- **Cf Gr** (1 times)
-- **Xw Sm** (1 times)
-- **Plg Bi** (1 times)
-- **Op Jd** (1 times)
-- **Dt Oy** (1 times)
-- **Az Qc** (1 times)
-- **Gmg Xp** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
+### 164. Leslie Groff
 
-#### Documents Mentioning Wl Ev
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.44_2.pdf``  
+**Sample Context**:
+> 13 called co-conspirators of Epstein. And Leslie Groff...
 
 ---
 
-### 253. Sw Gj
+### 165. West Palm Beach
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: massage(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> West Palm Beach, Florida 33401...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
+
+### 166. Glen Dubin
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 25 to recollect everybody. The Dubins, Glen Dubin....
 
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Microsoft Word** (1 times)
-- **Un Rh** (1 times)
-- **Defts Motn** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
+---
 
-#### Documents Mentioning Sw Gj
+### 167. El Brillo Way
 
-- ``1320-35.pdf``  
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: massage(4), sex(3), sexual(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> 7 A. Yes. 7 wild parties ever at El Brillo Way?...
+
 ---
+
+### 168. Judge Sweet
 
-### 254. Fs Zq
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Order from Judge Sweet....
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 169. Menninger
+Haddon
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 7
+- Documents: 4
+- Document Types: legal_document, email, correspondence
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: rape(3), sex(3), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-- **Sgc Zt** (1 times)
-- **Dl Ia** (1 times)
-- **El Pix** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Vw El** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Qh Ya** (1 times)
+### 170. And Ms
 
-#### Documents Mentioning Fs Zq
+**Statistics**:
+- Total Mentions: 7
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-12.pdf``  
+**Sample Context**:
+> 19 A I'm pretty sure Jeffrey and Ms. Maxwell...
 
 ---
+
+### 171. For Jeffrey
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 7 A For Jeffrey....
 
-### 255. Ye Hn
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 172. Product Liability
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> D 130 Miller Act 0 315 Airplane Product Product Liability D 690 Other 28 USC 157 3729 (a))...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Gc Gh** (1 times)
-- **As Im** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Au Ztm** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
-- **Py Euf** (1 times)
+### 173. Royal Oaks Medical
 
-#### Documents Mentioning Ye Hn
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 39 co-occurrences
+  - Top terms: abuse(5), sex(4), sexual(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
+**Sample Context**:
+> ! Royal Oaks Medical Center, 1855 Knox McRae Dr., Titusville, FL 32780, was...
 
 ---
+
+### 174. Lexington Avenue
 
-### 256. Sko Sc
+**Statistics**:
+- Total Mentions: 7
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Flexner, LLP, 575 Lexington Avenue , New...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 175. Boulevard
+Palm Beach
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Fr Gv** (1 times)
-- **Qq Ft** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Wg Uy** (1 times)
-- **Sq Lh** (1 times)
-- **Ed Uxd** (1 times)
-- **Eh Am** (1 times)
+### 176. Requiring Mr
 
-#### Documents Mentioning Sko Sc
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), underage(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-13.pdf``  
+**Sample Context**:
+> requiring Mr. Epstein to appear before a jury to answer the very same questions as to which he has...
 
 ---
+
+### 177. Judith Lightfoot
 
-### 257. Gkg Kt
+**Statistics**:
+- Total Mentions: 7
+- Documents: 6
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: victim(3), sex(3), abuse(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Records from Dr. Judith Lightfoot (GUIFFRE005437)....
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 178. There Was No
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- **Ly Ob** (1 times)
-- **Fx Va** (1 times)
-- **Coo Nq** (1 times)
-- **Dd Av** (1 times)
-- **Times New Roman** (1 times)
-- **Ju Nd** (1 times)
-- **Dg Bx** (1 times)
-- **Liberation Sans** (1 times)
-- **Nicole Simmons** (1 times)
-- **Adobe Acrobat Pro** (1 times)
+**Sample Context**:
+> B. There Was No Duty to PreserveThe Journal Because There Was No Pending...
+
+---
 
-#### Documents Mentioning Gkg Kt
+### 179. Jane
+Doe
 
-- ``gov.uscourts.nysd.447706.1330.21_1.pdf``  
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, deposition, flight_log
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 180. See Fed
+
+**Statistics**:
+- Total Mentions: 7
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 40 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> makes such testimony admissible. See Fed. R. Evid. 404(b) (other act “evidence may be...
 
-### 258. Bi Zn
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 181. Sigrid Mccawley
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 7
+- Documents: 3
+- Document Types: legal_document, correspondence, email
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Menninger to Sigrid McCawley dated April 25, 2016 concerning discovery....
 
-#### Most Frequently Mentioned With
+---
 
-- **Os Zp** (1 times)
-- **Ih Ic** (1 times)
-- **Wx Nc** (1 times)
-- **Lw Cc** (1 times)
-- **Ot Mg** (1 times)
-- **Lt Ai** (1 times)
-- **Fx To** (1 times)
-- **Qm Oz** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
+### 182. Common Interest Privilege
 
-#### Documents Mentioning Bi Zn
+**Statistics**:
+- Total Mentions: 7
+- Documents: 1
+- Document Types: unknown
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
+**Sample Context**:
+> 14. 2015.01.11 – E-Mails 1059- Jeffrey Epstein Ghislaine Maxwell Common Interest Communication Common Interest Privilege...
 
 ---
+
+### 183. Twin Lakes Rd
 
-### 259. Lw Cc
+**Statistics**:
+- Total Mentions: 6
+- Documents: 6
+- Document Types: legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Bradley J. Edwards 49 Twin Lakes Rd....
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 184. Electronic
+Court
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 6
+- Documents: 6
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-- **Os Zp** (1 times)
-- **Ih Ic** (1 times)
-- **Wx Nc** (1 times)
-- **Fx To** (1 times)
-- **Hi Bf** (1 times)
-- **Ot Mg** (1 times)
-- **Lt Ai** (1 times)
-- **Qm Oz** (1 times)
-- **Liberation Sans** (1 times)
-- **Times New Roman** (1 times)
+### 185. Mr Epstein
 
-#### Documents Mentioning Lw Cc
+**Statistics**:
+- Total Mentions: 6
+- Documents: 5
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(5), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.21.pdf``  
+**Sample Context**:
+> 20 Q She and Ms. Maxwell and Mr Epstein would...
 
 ---
 
-### 260. 
+### 186. Eva Anderson
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 42 co-occurrences
+  - Top terms: sex(5), sexual(5), massage(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 10 girl walk into Eva Anderson's home?...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Documents Mentioning 
+### 187. Janes Does
 
-- ``._gov.uscourts.nysd.447706.1331.5.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 38 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> confer and otherwise protect the rights of victims (including Janes Does 1, 2, 3, and 4) during...
+
 ---
+
+### 188. See Menninger Decl
 
-### 261. Gv Au
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), drug(1), drugs(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> See Menninger Decl., Ex. F, 10:6-14; 43:15-44:4...
+
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 189. File Excess Pages
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> Plaintiff filed her motion for leave to file excess pages...
 
-#### Most Frequently Mentioned With
+---
 
-- **Cy Ot** (1 times)
-- **Kf Nye** (1 times)
-- **Ve Vs** (1 times)
-- **Ty Sc** (1 times)
-- **Mf Li** (1 times)
-- **Wyw Od** (1 times)
-- **Je Sl** (1 times)
-- **Pa Zl** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
+### 190. Glenn Dubin
 
-#### Documents Mentioning Gv Au
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.10.pdf``  
+**Sample Context**:
+> 12 Q. Do you know Glenn Dubin?...
 
 ---
 
-### 262. Zo Of
+### 191. Maxwell Exhibit
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: drug(1), drugs(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 2 (Maxwell Exhibit 17, email, marked...
+
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 192. Lexington
+Avenue
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 6
+- Documents: 6
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- **Wt Bn** (1 times)
-- **Df Iw** (1 times)
-- **Nh Xvg** (1 times)
-- **Hx Mw** (1 times)
-- **Tk Mg** (1 times)
-- **Yi Ekg** (1 times)
-- **Vf Jd** (1 times)
-- **Qc Dk** (1 times)
-- **Zs Ytx** (1 times)
-- **Za Bu** (1 times)
+---
 
-#### Documents Mentioning Zo Of
+### 193. Civil
+Procedure
 
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 29 co-occurrences
+  - Top terms: sex(4), sexual(4), abuse(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 194. Means Other Than
 
-### 263. Fr Gv
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Giuffre’s Motion for Leave to Serve Three Deposition Subpoenas by Means Other Than...
+
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 195. Deposition Based
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> DEPOSITION BASED ON LATE PRODUCTION OF NEW, KEY DOCUMENTS...
 
-- **Qq Ft** (1 times)
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Wg Uy** (1 times)
-- **Sw Bw** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Sq Lh** (1 times)
-- **Ed Uxd** (1 times)
-- **Eh Am** (1 times)
+---
 
-#### Documents Mentioning Fr Gv
+### 196. Pearl Street
+New
 
-- ``1320-13.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 6
+- Document Types: legal_document, correspondence, deposition
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), trafficking(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 197. Reply Or
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 264. Da Mr
+**Sample Context**:
+> Defendant’s Motion For Leave to File A Sur-Reply Or, Alternatively,...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 198. The Florida
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(2), sexual(2), minor(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> by the Florida Department of Children and Families. Each Florida document at issue here is...
+
+---
 
-- **Bk Xe** (1 times)
-- **Ae Or** (1 times)
-- **Xo Lg** (1 times)
-- **No Ug** (1 times)
-- **Ju Nd** (1 times)
-- **Liberation Sans** (1 times)
-- **Ql Wt** (1 times)
-- **Mi Ct** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
+### 199. Jane Does
 
-#### Documents Mentioning Da Mr
+**Statistics**:
+- Total Mentions: 6
+- Documents: 6
+- Document Types: legal_document, email, financial
+- Sensitive Terms: 35 co-occurrences
+  - Top terms: sex(4), massage(4), underage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.9.pdf``  
+**Sample Context**:
+> The US lawyers for the Jane Does are filling additional discovery motions and if I speak I open my self to being...
 
 ---
 
-### 265. Cv Hj
+### 200. This Firm
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: email, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), massage(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> This Firm is authorised and regulated by the Solicitors Regulation Authority under the name of Devonshires...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 201. Vicky Ward
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> The Talented Mr. Epstein, by Vicky Ward, in Vanity Fair(Jan. 2005).........................................3...
 
-- **Yx Gp** (1 times)
-- **Tgc Sq** (1 times)
-- **Db Ru** (1 times)
-- **Kg Yb** (1 times)
-- **Wn Nv** (1 times)
-- **Qb Ji** (1 times)
-- **Ng By** (1 times)
-- **Ow Wx** (1 times)
-- **Cj Pt** (1 times)
-- **Kn Pa** (1 times)
+---
 
-#### Documents Mentioning Cv Hj
+### 202. On Fri
 
-- ``gov.uscourts.nysd.447706.1328.15.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: email, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), massage(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> I remained on friendly terms with him up until his plea, , I have had...
+
 ---
 
-### 266. 
+### 203. That Mr
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), trafficking(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> A. It got so ridiculous at the end of my stay, okay? That Mr. Epstein, instead of talking...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Documents Mentioning 
+### 204. Adverse Inference
+Instruction
 
-- ``._gov.uscourts.nysd.447706.1330.9.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), trafficking(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 267. Fk Ex
+### 205. States Attorney
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> IT APPEARING that the Unitl,d States Attorney's Office and the Federal Bureau of...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 206. Jeff Pagliuca
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: email, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), rape(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Cc: Jeff Pagliuca; Sigrid S. McCawley - Boies, Schiller & Flexner LLP (smccawley@bsfllp.com); 'brad@pathtojustice.com'...
 
-- **Dl Mw** (1 times)
-- **Jm Tm** (1 times)
-- **Xc Ec** (1 times)
-- **Ei Dl** (1 times)
-- **Lnl Lnl** (1 times)
-- **Dll Dll** (1 times)
-- **Ec Efc** (1 times)
-- **Lo Lo** (1 times)
-- **Yu Lz** (1 times)
-- **Times New Roman** (1 times)
+---
 
-#### Documents Mentioning Fk Ex
+### 207. When Virginia
 
-- ``1325-12.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> 9 Q. Did you introduce Johanna to Prince 9 Emmy, Virginia and yourself when Virginia was...
+
 ---
+
+### 208. Certified Realtime
 
-### 268. Hq Uzm
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Professional Reporter, Certified Realtime...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 209. The Document
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: legal_document
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: minor(1), victim(1), victims(1)
+- Associated Dates: January 5, 2024, January 5, 2024
 
-- **Ezs Oy** (1 times)
-- **Pzi By** (1 times)
-- **Mz Xl** (1 times)
-- **Ru Px** (1 times)
-- **Cm Ha** (1 times)
-- **Dj Hs** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Whd Fs** (1 times)
-- **Fb Wi** (1 times)
+**Sample Context**:
+> presumption of public access to the Document. The public does not...
+
+---
 
-#### Documents Mentioning Hq Uzm
+### 210. Sarah Ransome
+Sent
 
-- ``1325-5.pdf``  
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: email, correspondence
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
 
-### 269. 
+### 211. Fifth
+Amendment
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), underage(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 212. Residential Funding
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``._1320-3.pdf``  
+**Sample Context**:
+> 37 “rejects cases such as Residential Funding Corp. v. DeGeorge Financial Corp., 306 F.3d 99...
 
 ---
-
-### 270. Iu If
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 213. Original Message
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: email, deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, Feb 2, 2007
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> ------Original Message-----...
 
-#### Most Frequently Mentioned With
+---
 
-- **Liberation Sans** (1 times)
-- **Cu Hap** (1 times)
-- **Sn Ol** (1 times)
-- **Ia Gj** (1 times)
-- **Tgm Hq** (1 times)
-- **Uh Nd** (1 times)
-- **Gg Ig** (1 times)
-- **Hi Cd** (1 times)
-- **It Ht** (1 times)
-- **Qv Rg** (1 times)
+### 214. The State Of
 
-#### Documents Mentioning Iu If
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 2 co-occurrences
+  - Top terms: massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.11.pdf``  
+**Sample Context**:
+> 1 BY MR. LANGINO: 1 THE STATE OF FLORIDA, )...
 
 ---
+
+### 215. Alan Der
 
-### 271. Wx Fdi
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 18 Q And between those same years of 2002 and 18 Q Generally, Alan Dershowitz is familiar...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 216. Underage Girl
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> Questions About Recruiting Girls, an Underage Girl in London,...
 
-#### Most Frequently Mentioned With
+---
 
-- **Liberation Sans** (1 times)
-- **United States Courts** (1 times)
-- **Dw Ma** (1 times)
-- **Times New Roman** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
+### 217. Sworn Statement
 
-#### Documents Mentioning Wx Fdi
+**Statistics**:
+- Total Mentions: 6
+- Documents: 3
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``gov.uscourts.nysd.447706.1328.36.pdf``  
+**Sample Context**:
+> Juan Alessi November 21, 2005 Sworn Statement at p. 15-16,21. Specifically, Juan Alessi...
 
 ---
+
+### 218. Lakes Rd
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: abuse(4), sex(3), sexual(3)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-### 272. Wz Cyx
+**Sample Context**:
+> 49Twin Lakes Rd....
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 219. At Plaintiff
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: abuse(1), drug(1), drugs(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> At Plaintiff’s depositiononMay3,2016,shedescribedreceivingtreatment from Dr....
+
+---
 
-- **Liberation Sans** (1 times)
-- **United States Courts** (1 times)
-- **Ju Nd** (1 times)
-- **Times New Roman** (1 times)
-- **Nicole Simmons** (1 times)
-- **Lgl Az** (1 times)
-- **Administrative Office** (1 times)
-- **Acrobat Distiller** (1 times)
+### 220. Did Sharon Churcher
 
-#### Documents Mentioning Wz Cyx
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(1), trafficking(1)
+- Associated Dates: 01/03/24, 01/03/24, 05/03/2016
 
-- ``1320-37.pdf``  
+**Sample Context**:
+> 12 Q (BY MS. MENNINGER) Did Sharon Churcher...
 
 ---
 
-### 273. Dg Tw
+### 221. Client
+Privilege
+
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 222. Reopen Deposition
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> to Reopen Deposition of Plaintiff Virginia Giuffre...
 
-#### Most Frequently Mentioned With
+---
 
-- **Dl Mw** (1 times)
-- **Jm Tm** (1 times)
-- **Xc Ec** (1 times)
-- **Ei Dl** (1 times)
-- **Lnl Lnl** (1 times)
-- **Dll Dll** (1 times)
-- **Ec Efc** (1 times)
-- **Lo Lo** (1 times)
-- **Yu Lz** (1 times)
-- **Times New Roman** (1 times)
+### 223. Robert Giuffre
 
-#### Documents Mentioning Dg Tw
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: email, deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``1325-12.pdf``  
+**Sample Context**:
+> To: Robert Giuffre...
 
 ---
 
-### 274. 
+### 224. Charter School
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 6
+- Documents: 1
+- Document Types: deposition, legal_document
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 11 Q When you were at Survivors Charter School,...
+
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 225. Rotech Healthcare
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 6
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), sexual(2), underage(2)
+- Associated Dates: 01/04/24, 01/04/24, 01/04/24
 
-- ``._1331-28.pdf``  
+**Sample Context**:
+> Naylor v. Rotech Healthcare, Inc.,...
 
 ---
 
-### 275. Us Tj
+### 226. Requests Nos
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> itwas acquired. For that reason, this Court should grant Ms. Giuffre’srequests Nos .1-3....
+
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 227. Andrews Ave
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 19 co-occurrences
+  - Top terms: abuse(3), sex(2), sexual(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 425 N. Andrews Ave., Suite 2...
 
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Dy Zftx** (1 times)
-- **Cq Ms** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Qr Ps** (1 times)
-- **Pa Pa** (1 times)
-- **Uw Zd** (1 times)
-- **Jye Tu** (1 times)
+---
 
-#### Documents Mentioning Us Tj
+### 228. Drive South
+Suite
 
-- ``1320-32.pdf``  
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(3), massage(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 229. Campbelltown Hospital
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 50 co-occurrences
+  - Top terms: sex(5), sexual(5), minor(5)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 276. Wzx Ylme
+**Sample Context**:
+> (cid:120) Campbelltown Hospital,JaneDoe2...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
+
+### 230. Strike Plaintiff
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> to Strike Plaintiff’s Misrepresentations of Fact to the Court...
 
-#### Most Frequently Mentioned With
+---
 
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Jw Ow** (1 times)
-- **Ih Ka** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Id Hd** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
-- **Nqu Qmk** (1 times)
+### 231. Publicly Available
 
-#### Documents Mentioning Wzx Ylme
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
+**Sample Context**:
+> A. Plaintiff’s Police Records Are Publicly Available from Law Enforcement Agencies in...
 
 ---
+
+### 232. The Dubins
 
-### 277. Lr Nv
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 25 to recollect everybody. The Dubins, Glen Dubin....
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 233. Devonshires Solicitors
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: legal_document, email, financial
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), underage(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Devonshires Solicitors, 30 Finsbury Circus, London EC2M 7DT tel +44 (0)20 7628...
 
-#### Most Frequently Mentioned With
+---
 
-- **Liberation Sans** (1 times)
-- **Cu Hap** (1 times)
-- **Sn Ol** (1 times)
-- **Ia Gj** (1 times)
-- **Tgm Hq** (1 times)
-- **Uh Nd** (1 times)
-- **Gg Ig** (1 times)
-- **Hi Cd** (1 times)
-- **It Ht** (1 times)
-- **Qv Rg** (1 times)
+### 234. Duces Tecum
 
-#### Documents Mentioning Lr Nv
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: legal_document, deposition, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: massage(3), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1327.11.pdf``  
+**Sample Context**:
+> 24 24 Deposition (Duces Tecum)...
 
 ---
+
+### 235. West Flagler Street
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: massage(4), sex(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 278. Cuw Hl
+**Sample Context**:
+> 13 Plaintiff, 15 25 West Flagler Street...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 236. Lake Worth
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: massage(3), sex(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Lake Worth, Florida 33461...
+
+---
 
-- **Qz Tc** (1 times)
-- **Aj Uk** (1 times)
-- **Zj Hh** (1 times)
-- **Sj Sp** (1 times)
-- **Ns Grw** (1 times)
-- **Cs Zi** (1 times)
-- **Sj Gu** (1 times)
-- **Yg Fx** (1 times)
-- **Zz Se** (1 times)
-- **Kef Pi** (1 times)
+### 237. Misrepresentations Of Fact
 
-#### Documents Mentioning Cuw Hl
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.28.pdf``  
+**Sample Context**:
+> PLAINTIFF’S MISREPRESENTATIONS OF FACT TO THE COURT...
 
 ---
 
-### 279. Nh Xvg
+### 238. The Honorable Loretta
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> The Honorable Loretta A. Preska...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
 
-#### Most Frequently Mentioned With
+### 239. Judge
+United States
 
-- **Df Iw** (1 times)
-- **Zs Ytx** (1 times)
-- **Wt Bn** (1 times)
-- **Hx Mw** (1 times)
-- **Tk Mg** (1 times)
-- **Vf Jd** (1 times)
-- **Iz Ap** (1 times)
-- **Yi Ekg** (1 times)
-- **Za Bu** (1 times)
-- **Qc Dk** (1 times)
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
+
+---
 
-#### Documents Mentioning Nh Xvg
+### 240. District Court
+Southern
 
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
 
 ---
 
-### 280. Dq Ub
+### 241. Dear Judge Preska
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> Dear Judge Preska,...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 242. Preska
+District Court
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence
+- Associated Dates: 01/05/24, January 5, 2024, December 18, 2023
 
-#### Most Frequently Mentioned With
+---
 
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Dy Zftx** (1 times)
-- **Cq Ms** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Qr Ps** (1 times)
-- **Pa Pa** (1 times)
-- **Uw Zd** (1 times)
-- **Jye Tu** (1 times)
+### 243. The Record
 
-#### Documents Mentioning Dq Ub
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-32.pdf``  
+**Sample Context**:
+> 1. The Record in this Case Shows That the Protective Order Was Not...
 
 ---
+
+### 244. Louis Freeh
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 34 co-occurrences
+  - Top terms: sex(3), sexual(3), minor(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 281. Qi Ep
+**Sample Context**:
+> was debunked by none other than former FBI head, Louis Freeh. Id....
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 245. Maxwell
+Case No
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 5
+- Documents: 5
+- Document Types: legal_document, correspondence, financial
+- Sensitive Terms: 24 co-occurrences
+  - Top terms: sex(5), underage(3), minor(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+---
 
-- **Pk Kk** (1 times)
-- **Yt Lx** (1 times)
-- **Dy Zftx** (1 times)
-- **Cq Ms** (1 times)
-- **Cf Un** (1 times)
-- **Xe Fkv** (1 times)
-- **Qr Ps** (1 times)
-- **Pa Pa** (1 times)
-- **Uw Zd** (1 times)
-- **Jye Tu** (1 times)
+### 246. Paul Cassell
 
-#### Documents Mentioning Qi Ep
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: legal_document, financial, deposition
+- Sensitive Terms: 22 co-occurrences
+  - Top terms: sex(3), sexual(3), victim(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-32.pdf``  
+**Sample Context**:
+> Cc:SigridMcCawley; JeffPagliuca; BradEdwards; Paul Cassell (cassellp@law.utah.edu)...
 
 ---
+
+### 247. Did Virginia
 
-### 282. 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 17 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 14 question. I have no idea. 14 Q. Did Virginia ever stay at your home...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 248. Was Nadia
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``._gov.uscourts.nysd.447706.1327.16_1.pdf``  
+**Sample Context**:
+> 14 and foundation. 14 Q. What was Nadia Marcinkova doing?...
 
 ---
+
+### 249. Would Jeffrey Epstein
 
-### 283. 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 10 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> 17 day would Jeffrey Epstein get a massage? 17 Q. Do you recall, you said you don't...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 250. Jack Scarola
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 44 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``._1331-33.pdf``  
+**Sample Context**:
+> names of attorneys that do not represent her,including Spencer Kuvin and Jack Scarola....
 
 ---
+
+### 251. Paul Katz Professional
 
-### 284. Qp Tm
+**Statistics**:
+- Total Mentions: 5
+- Documents: 4
+- Document Types: deposition, legal_document
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> B. Paul Katz Professional Center...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 252. New
+York
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 5
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-- **Tp Nm** (1 times)
-- **Ts Vk** (1 times)
-- **Liberation Sans** (1 times)
-- **Le Jn** (1 times)
-- **Ini Wx** (1 times)
-- **Px No** (1 times)
-- **Cu Wi** (1 times)
-- **Kx Bg** (1 times)
-- **Su Ism** (1 times)
-- **Ko Yk** (1 times)
+### 253. Reply Reply
 
-#### Documents Mentioning Qp Tm
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: email, correspondence
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-30.pdf``  
+**Sample Context**:
+> Important Reply Reply to All Forward ••· More...
 
 ---
+
+### 254. And Ghislaine
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 12 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 24 A. Not that I recall. And Ghislaine's...
 
-### 285. Alfredo Rodriguez Dep
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 255. Teresa Whalen
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: nude(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> Reported By: Teresa Whalen, RPR, FPR, Notary Public, State of Florida...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ih Ka** (1 times)
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Id Hd** (1 times)
-- **Wn Ive** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Qn Ki** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
+### 256. The State
 
-#### Documents Mentioning Alfredo Rodriguez Dep
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 15 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
+**Sample Context**:
+> for the State of Florida....
 
 ---
+
+### 257. York
+Virginia
 
-### 286. Qj Va
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(2), sexual(1), victim(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 258. On January
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: legal_document, deposition, flight_log
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 10/27/2015
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> On January 6, 2017, Mr. Barden submitted a declaration in support of Ms. Maxwell’s...
+
+---
 
-- **Sr Os** (1 times)
-- **Qq Vk** (1 times)
-- **Eq Gibj** (1 times)
-- **Liberation Sans** (1 times)
-- **Tm Fq** (1 times)
-- **Xz Rp** (1 times)
-- **Paper Capture Plug** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Administrative Office** (1 times)
-- **Tt Yd** (1 times)
+### 259. Which Ms
 
-#### Documents Mentioning Qj Va
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-3.pdf``  
+**Sample Context**:
+> or Reasonably Foreseeable Litigation to Which Ms. Giuffre Was a Party..............6...
 
 ---
 
-### 287. Aen Ob
+### 260. Joseph Recarey
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: nude(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> by Case Agent Det . Joseph Recarey, to secure all computer and media...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 261. Laine Maxwell
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: nude(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 22 Q Is that Ghislaine Maxwell or just 22 A Depends....
 
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Ij Ps** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
+---
 
-#### Documents Mentioning Aen Ob
+### 262. Only One Form
 
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
+**Sample Context**:
+> subpoena. The court for the district where compliance is required must (C) Electronically Stored Information Produced in Only One Form. The...
+
 ---
+
+### 263. Claiming Privilege
 
-### 288. Er Sd
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> in the subpoena a written objection to inspecting, copying, testing, or (2) Claiming Privilege or Protection....
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 264. When Required
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), trafficking(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 06/27/2016
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> (A) When Required. On timely motion, the court for the district where until the claim is resolved; must talce reasonable steps to retrieve the...
 
-#### Most Frequently Mentioned With
+---
 
-- **Kf Nye** (1 times)
-- **Ve Vs** (1 times)
-- **Je Sl** (1 times)
-- **Mf Li** (1 times)
-- **Wyw Od** (1 times)
-- **Cy Ot** (1 times)
-- **Gv Au** (1 times)
-- **Pa Zl** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
+### 265. Depo Tr
 
-#### Documents Mentioning Er Sd
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``gov.uscourts.nysd.447706.1328.10.pdf``  
+**Sample Context**:
+> Decl. at Exhibit 1, April 22, 2016 Depo Tr. at p. 84; seealso McCawley Decl.at Composite...
 
 ---
+
+### 266. Joinder Motion
+
+**Statistics**:
+- Total Mentions: 5
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 18 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
+
+**Sample Context**:
+> Virginia Giuffre, subsequently decided to reveal her name). The joinder motion argued that Jane...
 
-### 289. Sg Rl
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 267. Failure To Comply
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: legal_document
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> For Rule 37(B) &(C) Sanctions For Failure To Comply With Court Order...
 
-#### Most Frequently Mentioned With
+---
 
-- **Ezs Oy** (1 times)
-- **Pzi By** (1 times)
-- **Mz Xl** (1 times)
-- **Ru Px** (1 times)
-- **Cm Ha** (1 times)
-- **Dj Hs** (1 times)
-- **Liberation Sans** (1 times)
-- **Ju Nd** (1 times)
-- **Whd Fs** (1 times)
-- **Fb Wi** (1 times)
+### 268. Hi There
 
-#### Documents Mentioning Sg Rl
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: email, deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), minor(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-- ``1325-5.pdf``  
+**Sample Context**:
+> Subject: RE: Hi There...
 
 ---
+
+### 269. Investigator Alpha Group
 
-### 290. 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/03/24, 01/03/24, 01/03/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Affidavit of Douglas G. Mercer, Chief Investigator Alpha Group. Those efforts have continued...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+### 270. Virginia Giuffre Jane
 
-#### Documents Mentioning 
+**Statistics**:
+- Total Mentions: 5
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), massage(1), minor(1)
+- Associated Dates: 01/04/24, 01/04/24, 3/7/2011
 
-- ``._gov.uscourts.nysd.447706.1328.6_1.pdf``  
+**Sample Context**:
+> On Wed, Mar 23, 2011 at 7:53 PM, Virginia Giuffre Jane Doe 2 wrote:...
 
 ---
+
+### 271. Professor Dershowitz
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: abuse(2), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 291. Cf Wi
+**Sample Context**:
+> “declaration” from Dershowitz’s counsel stating that she “believe[s] Professor Dershowitz and...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 272. Palm Beach Atlantic
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(4), sexual(4), massage(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 10 Palm Beach Atlantic College....
+
+---
 
-- **Liberation Sans** (1 times)
-- **Microsoft Word** (1 times)
-- **Times New Roman** (1 times)
-- **Os Nh** (1 times)
-- **Ju Nd** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Gr Nrh** (1 times)
-- **Paper Capture Plug** (1 times)
-- **United States Courts** (1 times)
-- **Administrative Office** (1 times)
+### 273. Did Ghislaine
 
-#### Documents Mentioning Cf Wi
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.4_1.pdf``  
+**Sample Context**:
+> 2 Q. Did Ghislaine ever describe to you what...
 
 ---
 
-### 292. Bi Qy
+### 274. Defendant
+Ghislaine Maxwell
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 275. Bill Clinton
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: victim(1), sex(1), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Sample Context**:
+> Mr. Freeh may have knowledge concerning travel of Bill Clinton....
 
-#### Most Frequently Mentioned With
+---
 
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Mk Mc** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
+### 276. Ghislane Maxwell
 
-#### Documents Mentioning Bi Qy
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 9 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1331-15.pdf``  
+**Sample Context**:
+> 2 Ghislane Maxwell?...
 
 ---
+
+### 277. Florida Department
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 47 co-occurrences
+  - Top terms: sex(4), sexual(4), minor(4)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 293. By Ks
+**Sample Context**:
+> Florida Department of Children and Families, see e.g., GM_00750, and if such reports are part of...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 278. Janusz Banasiak
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(2), trafficking(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> February 16, 2016, Deposition of Janusz Banasiak....
+
+---
 
-- **As Im** (1 times)
-- **Ki Ki** (1 times)
-- **Ma Cm** (1 times)
-- **Au Ztm** (1 times)
-- **Fe Gn** (1 times)
-- **Io Vv** (1 times)
-- **Ye Hn** (1 times)
-- **Ij Ps** (1 times)
-- **Eq Uc** (1 times)
-- **Kt Gy** (1 times)
+### 279. Depositions Designated By
 
-#### Documents Mentioning By Ks
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document
+- Sensitive Terms: 1 co-occurrences
+  - Top terms: sex(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.22_1.pdf``  
+**Sample Context**:
+> TOTO CERTAIN DEPOSITIONS DESIGNATED BY PLAINTIFF FOR USE AT TRIAL...
 
 ---
 
-### 294. 
+### 280. John Wiley
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 16 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> burden." John Wiley & Sons, Inc. v. Book Dog Books, LLC, 298...
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+---
 
-#### Documents Mentioning 
+### 281. Best
+Ross
 
-- ``._1325-8.pdf``  
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: correspondence, email, legal_document
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: abuse(1), drug(1), drugs(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 282. Protective Order Regarding
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 20 co-occurrences
+  - Top terms: sex(3), sexual(3), underage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 295. Nq Zi
+**Sample Context**:
+> PROTECTIVE ORDER REGARDING FINANCIAL INFORMATION...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 283. Late Production
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> DEPOSITION BASED ON LATE PRODUCTION OF NEW, KEY DOCUMENTS...
 
-- **Times New Roman** (1 times)
-- **Liberation Sans** (1 times)
-- **Se Um** (1 times)
-- **Ju Nd** (1 times)
-- **United States Courts** (1 times)
-- **Adobe Acrobat Pro** (1 times)
-- **Nicole Simmons** (1 times)
-- **Administrative Office** (1 times)
-- **Paper Capture Plug** (1 times)
+---
 
-#### Documents Mentioning Nq Zi
+### 284. Sweet
+United States
 
-- ``1331-27.pdf``  
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), trafficking(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
 ---
+
+### 285. Declaration Of Laura
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: legal_document
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-### 296. Ns Pu
+**Sample Context**:
+> Declaration Of Laura A. Menninger In Support Of...
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+---
 
-#### Associated with Illegal/Sensitive Terms
+### 286. Richard Kahn
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: deposition, legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> 10 Q. Bella, Richard Kahn, Leslie Groff,...
+
+---
 
-- **Wt Bn** (1 times)
-- **Df Iw** (1 times)
-- **Nh Xvg** (1 times)
-- **Hx Mw** (1 times)
-- **Tk Mg** (1 times)
-- **Yi Ekg** (1 times)
-- **Vf Jd** (1 times)
-- **Qc Dk** (1 times)
-- **Zs Ytx** (1 times)
-- **Za Bu** (1 times)
+### 287. Bella Klen
 
-#### Documents Mentioning Ns Pu
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document, financial
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1330.15.pdf``  
+**Sample Context**:
+> 13 A. Bella Klen....
 
 ---
+
+### 288. Little Saint Jeff
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 13 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
+
+**Sample Context**:
+> 7 A. On Little Saint Jeff's, which is the...
 
-### 297. Ng By
+---
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+### 289. Federal Bureau
 
-#### Associated with Illegal/Sensitive Terms
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: legal_document, deposition, financial
+- Sensitive Terms: 27 co-occurrences
+  - Top terms: sex(3), sexual(3), minor(3)
+- Associated Dates: 05/03/22, 05/03/22, 05/03/22
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+**Sample Context**:
+> 18 that's been marked as VR 10 which is a Federal Bureau of...
 
-#### Most Frequently Mentioned With
+---
 
-- **Yx Gp** (1 times)
-- **Tgc Sq** (1 times)
-- **Db Ru** (1 times)
-- **Kg Yb** (1 times)
-- **Wn Nv** (1 times)
-- **Qb Ji** (1 times)
-- **Ey Wk** (1 times)
-- **Ow Wx** (1 times)
-- **Cj Pt** (1 times)
-- **Kn Pa** (1 times)
+### 290. Avenue North
 
-#### Documents Mentioning Ng By
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 11 co-occurrences
+  - Top terms: massage(4), sex(2), sexual(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``gov.uscourts.nysd.447706.1328.15.pdf``  
+**Sample Context**:
+> 2290 10th Avenue North 3 Florida at Large, in the above cause....
 
 ---
+
+### 291. Case Status
 
-### 298. Wt Ug
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: legal_document, correspondence
+- Sensitive Terms: 7 co-occurrences
+  - Top terms: sex(1), sexual(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 04/25/2016
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> Location Type RES-SNGL FAMILY Case Status . : CLEARED BY ARREST...
 
-#### Associated with Illegal/Sensitive Terms
+---
+
+### 292. Giuffre Did Not
 
-| Term | Co-occurrences |
-|------|----------------|
-|  | 1 |
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: deposition, legal_document, correspondence
+- Sensitive Terms: 3 co-occurrences
+  - Top terms: sex(1), sexual(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Ross.”GM_01141. Ms. Giuffre did not have the opportunity to question Defendant about t■he...
+
+---
 
-- **Hp Fbn** (1 times)
-- **Ky Wz** (1 times)
-- **Kk Jia** (1 times)
-- **Ez Ihp** (1 times)
-- **Yz Uc** (1 times)
-- **Jg Iv** (1 times)
-- **Hpr Nd** (1 times)
-- **Rq Ghg** (1 times)
-- **Km Ei** (1 times)
-- **Tq Pi** (1 times)
+### 293. Marianne Strong
 
-#### Documents Mentioning Wt Ug
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: email, financial, correspondence
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), underage(1), abuse(1)
+- Associated Dates: 01/05/24, 01/05/24, 2/21/2014
 
-- ``1331-15.pdf``  
+**Sample Context**:
+> To: Marianne Strong[mariannestrong@stronglit.com]...
 
 ---
 
-### 299. Bn Rr
+### 294. Did Mr
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Statistics**:
+- Total Mentions: 4
+- Documents: 3
+- Document Types: deposition, legal_document
+- Sensitive Terms: 21 co-occurrences
+  - Top terms: sex(3), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Associated with Illegal/Sensitive Terms
+**Sample Context**:
+> 307:6-312:12 & Ex. D at 77:24 – 78:6 (“Q. Did Mr. Epstein, insofar as you believe, engage in...
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+---
+
+### 295. Federal Rules
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 4
+- Document Types: deposition, legal_document, financial
+- Sensitive Terms: 36 co-occurrences
+  - Top terms: sex(4), sexual(3), massage(3)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Most Frequently Mentioned With
+**Sample Context**:
+> Under Rule 26(c) of the Federal Rules of Civil Procedure any party may move the court,...
 
-- **Ih Ka** (1 times)
-- **Cw Hl** (1 times)
-- **Kyp Bw** (1 times)
-- **Id Hd** (1 times)
-- **Wn Ive** (1 times)
-- **Qe Gq** (1 times)
-- **Jj Nj** (1 times)
-- **Qn Ki** (1 times)
-- **Vl Wx** (1 times)
-- **Ls Tp** (1 times)
+---
 
-#### Documents Mentioning Bn Rr
+### 296. The Guardian
 
-- ``gov.uscourts.nysd.447706.1328.17.pdf``  
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: legal_document, financial, email
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), underage(2), abuse(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
+**Sample Context**:
+> So this isn't getting better ... latest from our chums at The Guardian....
+
 ---
+
+### 297. Ms Maxwell
 
-### 300. Pj Wx
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: email, legal_document, financial
+- Sensitive Terms: 6 co-occurrences
+  - Top terms: sex(1), massage(1), underage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-#### Statistics
-- **Total Mentions**: 1
-- **Documents**: 1
-- **Category**: Unknown
+**Sample Context**:
+> As discussed - here is the new affidavit from Virginia Roberts. She claims to have had sex with Ms Maxwell...
 
-#### Associated with Illegal/Sensitive Terms
+---
 
-| Term | Co-occurrences |
-|------|----------------|
-| sex | 1 |
+### 298. Meredith
+Meredith
 
-#### Most Frequently Mentioned With
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: email, legal_document, correspondence
+- Sensitive Terms: 8 co-occurrences
+  - Top terms: sex(1), sexual(1), massage(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+---
 
-- **Qq Ft** (1 times)
-- **Pf Nw** (1 times)
-- **Ra Xj** (1 times)
-- **Wg Uy** (1 times)
-- **Sw Bw** (1 times)
-- **Mp Qd** (1 times)
-- **Bb Rp** (1 times)
-- **Fr Gv** (1 times)
-- **No Fq** (1 times)
-- **Ed Uxd** (1 times)
+### 299. Alexander Acosta
 
-#### Documents Mentioning Pj Wx
+**Statistics**:
+- Total Mentions: 4
+- Documents: 1
+- Document Types: legal_document, financial
+- Sensitive Terms: 5 co-occurrences
+  - Top terms: sex(1), sexual(1), minor(1)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
 
-- ``1320-13.pdf``  
+**Sample Context**:
+> THEREFORF., on the authority of R. Alexander Acosta, United States Attorney for...
 
 ---
 
+### 300. Has Annie Farmer
+
+**Statistics**:
+- Total Mentions: 4
+- Documents: 2
+- Document Types: deposition, legal_document, flight_log
+- Sensitive Terms: 14 co-occurrences
+  - Top terms: sex(2), sexual(2), massage(2)
+- Associated Dates: 01/05/24, 01/05/24, 01/05/24
+
+**Sample Context**:
+> 20 Q. Has Annie Farmer given a statement 20 you know him?...
+
+---
 

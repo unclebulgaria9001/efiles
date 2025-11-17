@@ -1,21 +1,69 @@
-﻿# TOP 300 STATISTICS
-*Generated: 2025-11-16 15:36:07*
+# Statistics Summary - Complete Analysis
 
-## Category Breakdown
+**Generated**: 2025-11-17 10:23:54
 
-- **Unknown**: 299 people
-- **VIP**: 1 people
+---
 
-## Mention Distribution
+## Document Statistics
 
-- **1-5 mentions**: 284 people
-- **6-20 mentions**: 5 people
-- **21-50 mentions**: 3 people
-- **51-100 mentions**: 1 people
-- **100+ mentions**: 7 people
+- **Total Documents**: 388
+- **Total Text**: 8,602,446 characters
+- **Total Images**: 0
+- **Total Dates Found**: 6214
 
-## Term Association Statistics
+### By Document Type
+- **Unknown**: 204 (52.6%)
+- **Legal Document**: 172 (44.3%)
+- **Deposition**: 135 (34.8%)
+- **Financial**: 67 (17.3%)
+- **Correspondence**: 51 (13.1%)
+- **Email**: 22 (5.7%)
+- **Flight Log**: 12 (3.1%)
 
-- **People associated with illegal/sensitive terms**: 300
-- **People with no term associations**: 0
 
+---
+
+## People Statistics
+
+- **Total Unique People**: 1,492
+- **Total Mentions**: 6,873
+- **Average Mentions per Person**: 4.6
+- **VIPs Identified**: 14
+
+### Top 10 Most Mentioned
+1. **Ghislaine Maxwell**: 313 mentions
+2. **Jane Doe**: 237 mentions
+3. **Jeffrey Epstein**: 203 mentions
+4. **This Request**: 173 mentions
+5. **Local Rule**: 107 mentions
+6. **Work
+Product**: 80 mentions
+7. **Sharon Church**: 79 mentions
+8. **Notary Public**: 74 mentions
+9. **Cynthia Hopkins**: 73 mentions
+10. **This Interrogatory**: 72 mentions
+
+
+---
+
+## Sensitive Content Statistics
+
+- **Documents with Sensitive Terms**: 131
+- **Total Sensitive Term Co-occurrences**: 13499
+
+### Most Common Sensitive Terms
+- **sex**: 1960 co-occurrences
+- **sexual**: 1640 co-occurrences
+- **massage**: 1410 co-occurrences
+- **abuse**: 1231 co-occurrences
+- **victim**: 1139 co-occurrences
+- **underage**: 1006 co-occurrences
+- **minor**: 912 co-occurrences
+- **victims**: 904 co-occurrences
+- **trafficking**: 798 co-occurrences
+- **assault**: 619 co-occurrences
+
+
+---
+
+*Statistics generated from complete extraction of all 388 PDFs*
