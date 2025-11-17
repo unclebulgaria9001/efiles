@@ -1,0 +1,56 @@
+[
+  {
+    "from": "Jeffrey Epstein",
+    "to": "Ghislaine Maxwell",
+    "amount": 15000000,
+    "type": "Property Transfer",
+    "description": "NYC townhouse at 116 E. 65th St.",
+    "date": "2016-04-28",
+    "source": "Court documents"
+  },
+  {
+    "from": "Jeffrey Epstein",
+    "to": "Virginia Roberts",
+    "amount": 15000,
+    "type": "Payment",
+    "description": "Payment after first encounter with Prince Andrew",
+    "date": "2001",
+    "source": "Victim testimony"
+  },
+  {
+    "from": "Jeffrey Epstein",
+    "to": "Virginia Roberts",
+    "amount": 200,
+    "type": "Payment",
+    "description": "First payment for \"massage\"",
+    "date": "2000",
+    "source": "Victim testimony"
+  },
+  {
+    "from": "Johanna Sjoberg",
+    "to": "Jeffrey Epstein",
+    "amount": 100,
+    "type": "Hourly Rate",
+    "description": "Offered $100/hour for \"rubbing feet\"",
+    "date": "Unknown",
+    "source": "Deposition testimony"
+  },
+  {
+    "from": "Virginia Giuffre",
+    "to": "Ghislaine Maxwell",
+    "amount": 50000000,
+    "type": "Lawsuit Damages",
+    "description": "Seeking at least $50 million in compensatory and punitive damages",
+    "date": "2015-09-21",
+    "source": "Court filing"
+  },
+  {
+    "from": "Virginia Giuffre",
+    "to": "Ghislaine Maxwell",
+    "amount": 5000000,
+    "type": "Lost Wages Claim",
+    "description": "Past and future lost wages claim",
+    "date": "2015",
+    "source": "Court interrogatory"
+  }
+]
